@@ -20,12 +20,12 @@ This project does not solve any dependency issues you might face during the buil
 The following expression will fetch the source tarball for requests 2.22.0
 ```nix
 let
-  commit = "dd9ef4ffecc2db2918e89b5654d3c585a8ffafac";
+  commit = "bb760a77a1df8718c49b1fd5423d37823e8e403f";
   fetchPypi = import (builtins.fetchTarball {
     name = "nix-pypi-fetcher";
-    url = "https://github.com/DavHau/nix-pypi-fetcher/archive/${commit}.tar.gz";
+    url = "https://github.com/DavHau/nix-pypi-fetcher/tarball/${commit}";
     # Hash obtained using `nix-prefetch-url --unpack <url>`
-    sha256 = "1nba45iix2d3vyahil6qcgs0by6ld93dnn57nbb9sfzd9bc2szmk";
+    sha256 = "0bkc2hwp785p0ljrhyhhnjkjpz801369d74rc3jz48hxlbdz8sqw";
   });
 in
 fetchPypi "requests" "2.22.0"
