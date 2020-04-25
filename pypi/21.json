@@ -3079,6 +3079,12 @@
       "url": "b6/90/c3f2d6e99c5d7c4ed81c3231938ac5b81a1d5d84896b7187e03ffc712821/crap-1.5.tar.gz"
     }
   },
+  "credmgr": {
+    "1.0.0": {
+      "sha256": "65b48402e39f50b9c2f26cf079b0a53ff6fa06715c1ecba8ba722bbcd9122daf",
+      "url": "bc/c1/7383cbca71df294e6c4002d474a67b8cd4f40a4683bc10a2862cf9e2b651/credmgr-1.0.0.tar.gz"
+    }
+  },
   "crunchyroll": {
     "1.0.1": {
       "sha256": "eae9de65a83399988086525b8c6574774c81e0fcd9021090d1beb6430d9d4dd0",
@@ -3655,16 +3661,6 @@
     "0.2.0": {
       "sha256": "63bf23efbf65e785f809f56a86d8d7468a83449d6c63e251a401c3604e8f279c",
       "url": "07/99/67bda6705e47f63b00929e9924cc585200f698768b73abb649f42d89d616/didery-0.2.0.tar.gz"
-    }
-  },
-  "distributions-package": {
-    "0.1": {
-      "sha256": "c5bfa595f6d8e606a6ecfa0c4c4fd7acef47c7db6058deab51f906cd1e0139b5",
-      "url": "1a/ca/6aa57c261476223ef13daed984c13a02ac69d61668282e911889407f5aa9/distributions_package-0.1.tar.gz"
-    },
-    "0.2": {
-      "sha256": "df9da167111b9e686f3912e5efe288fdb741e511324ab6a72368088086b3550f",
-      "url": "33/a4/7326dbff050826443e9a9bc6f8918008800b7c6fc3fecfe6b649ad99b503/distributions_package-0.2.tar.gz"
     }
   },
   "dj-templated-mail": {
@@ -6721,6 +6717,10 @@
     "0.2.0": {
       "sha256": "fa53b800d3de90210ef69f316a5eb8102e5081946ef9b2ea8283c9d04b57ca45",
       "url": "35/0b/66cc7e0d5c8eb0f895fb46e07598f078de5002180a95311ececa50cbc646/gitfilesplit-0.2.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6dc33d99177145f5b3f9a3fe65082f2d493bb5b3b0d6a5ac847c061a57867e12",
+      "url": "10/af/f41d9a33f44dfbbbcee8c6ab0d0772d0b51b832902872c577d74f5ffae71/gitfilesplit-1.0.0.tar.gz"
     }
   },
   "glue-plotly": {
@@ -8481,60 +8481,6 @@
     "0.6.0": {
       "sha256": "940cf7baf76cb27bd2f4adc16617934c3153080cc4fcecd1c1400e8ee33808ee",
       "url": "15/f2/fc295117e93ec91c594cef3c42ec5782b862b9ff475c5ae65a6f62a8c1eb/kubectl-kadalu-0.6.0.tar.gz"
-    }
-  },
-  "kubernetes-validate": {
-    "1.11.0.2": {
-      "sha256": "bfbf505f281ea67a1431cb4d1ea7a257d93047aa3f6c2425a025ffe034695d6a",
-      "url": "95/19/e50c1722f8feec3b061930a490e91bcca8e59cf0150d9cf81767d701801e/kubernetes-validate-1.11.0.2.tar.gz"
-    },
-    "1.11.1.0": {
-      "sha256": "d97e830adb31a51e75851186b51046de7183390d06ddca25143606a88648e585",
-      "url": "50/d5/4f72d94eb3e33ef7ff42d2de9bce5b367e23c6d64d5250e35fd73bfa24d5/kubernetes-validate-1.11.1.0.tar.gz"
-    },
-    "1.11.2": {
-      "sha256": "f0c8fe117b3d4db24660847625fadf810150bd72fb3513e1c88c2d3607dab19c",
-      "url": "85/a0/be7c31565847dd180c3a600085a9a644273dfea062a6ea1b8bf10e81c0cc/kubernetes-validate-1.11.2.tar.gz"
-    },
-    "1.11.3": {
-      "sha256": "e42c11747d1a0c796753d063252f71367f2d65e959ece04bc651910eae6c47d6",
-      "url": "24/d9/362d3d64d4d30edb4009d7300d1e8e55c5a087f124cda596e7828c193b4f/kubernetes-validate-1.11.3.tar.gz"
-    },
-    "1.11.4": {
-      "sha256": "8b74c58c8bc696492631cf209669cab2948da9c5dfab821b37e496ce13580824",
-      "url": "69/65/434ab1b8d9c4db1806eca7824a76ec71a50d2ae523d27209f6ef988441ad/kubernetes-validate-1.11.4.tar.gz"
-    },
-    "1.11.5": {
-      "sha256": "7655e134544a0a98027a7e49533d012494930b9c7d21abef0c4fb7033f0b2193",
-      "url": "0d/29/b74217762ae54a706ccf5a9e9deed020fc6bdb445e4601ae7ab5db6f2687/kubernetes-validate-1.11.5.tar.gz"
-    },
-    "1.12.0": {
-      "sha256": "47a5f138d335cd8db0579b6326ca38b986a11420245665394a5a9d83343cfb9f",
-      "url": "4e/9f/edda0d9512348f3b6ad4d2b1004b0edb680cdb82caef3764999582924b2a/kubernetes-validate-1.12.0.tar.gz"
-    },
-    "1.12.1": {
-      "sha256": "4151747603db38ea34707b8a2afed467f2e227fd3e039cb9130b1555d492aadc",
-      "url": "12/01/5ca8a4bbc9e24662c03e33ada338907071e9cbe9a6693445a0bde444d3e9/kubernetes-validate-1.12.1.tar.gz"
-    },
-    "1.12.2": {
-      "sha256": "5c7db1f0b5304c5d82965ba2e57087fae479355a121559add1ab968c9787e0ca",
-      "url": "d4/5a/aa74939b7c3cdec5853f2e63cf2b68e632bff8df7707c0066b5a975cc761/kubernetes-validate-1.12.2.tar.gz"
-    },
-    "1.13.0": {
-      "sha256": "9bcc057f675b69eb9c449d795bc05529a0ddeead3bdd615283d0bea7e7e39562",
-      "url": "58/14/3d33e24bff345adffde7c57b92407ed09c8258dc48d0be4030f6f853d7e0/kubernetes-validate-1.13.0.tar.gz"
-    },
-    "1.16.0": {
-      "sha256": "c0851bb3d9b1ef38fba844ac9bf5c07223689f3861273e8133c93db6792893d0",
-      "url": "e1/e6/799677739ede3d925999dc183ac583aec745df52a50ff56e8f18c4993e7f/kubernetes-validate-1.16.0.tar.gz"
-    },
-    "1.16.1rc1": {
-      "sha256": "8f16d6e989e37731cf9dbcc1854b827d7121eac58a7513c0de71cd5a14acfee2",
-      "url": "24/c3/2e6bcad67ccd39109a0c5442bb53e1df804b4dd7de2d2f46811c4018bb12/kubernetes-validate-1.16.1rc1.tar.gz"
-    },
-    "1.16.1rc2": {
-      "sha256": "1b1aafdc8f1133d100eb87307f7ccbc397f7defb54b281dc80f980b182c6bf14",
-      "url": "1e/4c/f9630ce1cbffdbb535bc0ab16350b1d54605c164fc5e090d07bc3d6a14a5/kubernetes-validate-1.16.1rc2.tar.gz"
     }
   },
   "kw-django-jsoneditor": {
@@ -16213,16 +16159,6 @@
       "url": "95/68/5ddf8f3a37723d0c545b38b0dbbfcd81147783c2c21b5d5830b87f668ec0/random_password-1.0.1.dev2.tar.gz"
     }
   },
-  "random-scraper": {
-    "0.0.1": {
-      "sha256": "fd45849196675ccf822ecdc08adbea85b779b87e5708e5d07c5bb790c8effb86",
-      "url": "60/7c/16cefcd0743713a32e94145ce1a018f261413104f7e38bbadacbdf96b386/random_scraper-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "0498038e9ec0e35f541f9e2551d163e78575f75db8e57cc3776d6c7f76034110",
-      "url": "2e/a9/47330ac0da5bfad324cc3b66c0870249e939168a19d54c1cfc6fb9910bf5/random_scraper-0.0.2.tar.gz"
-    }
-  },
   "random-timestamp": {
     "1.0.1": {
       "sha256": "5b00b3b875645fdbf85367c74f995af6e5a6ded9694874a9588da5f2ece7f87b",
@@ -20229,24 +20165,6 @@
       "url": "a8/4b/6bc0caad1209ccb4e6a9932ca5c1b5d15217c65e018dce42454ca09fe65f/TaskerCH-0.0.2.tar.gz"
     }
   },
-  "tcpwave-client": {
-    "0.0.1": {
-      "sha256": "10e8048fa6f31fa62e6b07b3d56249b324fadc915b6f5c6479c7dcc758530fb2",
-      "url": "a4/96/8c98d1978ed35d83556642356589cf534ee22bc0c94db39058f9d82a4e37/tcpwave-client-0.0.1.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "774ff1d9e584fe172901de9adc73a1ac8f997f4ff0d7da92f9374ec4fcd9788b",
-      "url": "cf/be/10ccb188cc8bff202daf5ad1a408826e96f2438ae56df87787c4677a48b1/tcpwave-client-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "5eab01869fa6f3e19db017f6bb8cb0f9eb7608b642676ac38ebbcedbc4b5cf51",
-      "url": "5a/7e/812fbc1420ab640e6f9bb78eabc14989a9e8c0b5850525cd94b487772f00/tcpwave-client-1.0.1.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "017f6e76b65d0e5b70e39df0376d5e50ae31583d2d4ca26f6d84fdaadf1c3110",
-      "url": "6b/54/2b77e29670c3b05316b31699684fdb96d734777cc5103e7ddd0185e6ae0c/tcpwave-client-1.0.2.tar.gz"
-    }
-  },
   "teapot-tools": {
     "1.0.0": {
       "sha256": "2dd8c53237231d0d478bfb4c0a2008b75f0fbca6252f30d7c3abf3f1dd3c2463",
@@ -22799,6 +22717,10 @@
     "2020042300": {
       "sha256": "1713879c2e9d88609cd616ba887b6614edec704da22fc8dd798075185cd4baca",
       "url": "b6/1f/98aa945d5a4b7e46061ba93f3f00f815c8195815288713036af3eaf37fe3/tlds-2020042300.tar.gz"
+    },
+    "2020042400": {
+      "sha256": "8e3c7bae29abf5fb3902c4e9d5fb41fa69561e446a980d90bec3d0a7ae1a92de",
+      "url": "77/79/95d00c47f39dc4db5071ea9ff3e4b0b492f2ba050b1126068c20804c529a/tlds-2020042400.tar.gz"
     }
   },
   "tnefparse": {
