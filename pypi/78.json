@@ -4314,6 +4314,10 @@
       "sha256": "4452f10b9bacf2dbab6ebe17c6073166c47b76cec03a613c0d04e18b47d72975",
       "url": "bd/86/388f06c2d128415963f09cfabb47e060a9b0b9f48f47215f1d12f43b2fa3/COMPAS-0.15.5.tar.gz"
     },
+    "0.15.6": {
+      "sha256": "61bee5f6831abc2bc168a95b67b6374797906bba866e8b75ab057fb2307e2818",
+      "url": "35/a5/961c4b53e0f5c709d79be0f97a0702f816fd3c1087537fccc0e74d480fc1/COMPAS-0.15.6.tar.gz"
+    },
     "0.3.0": {
       "sha256": "16b825123798359c3ed1a08afbf426ba20b1271c01d9561bea260c1dc698ce1a",
       "url": "21/e6/0827ff573b05f83f9e20f7e65940527e8dc6e2ffb29fbba788f5440016bc/COMPAS-0.3.0.tar.gz"
@@ -4577,12 +4581,6 @@
       "url": "90/0a/91066c13afa45550913d506f0fe47fbf89463dae8156fbe55ce459ec525f/coordencode-0.0.1.tar.gz"
     }
   },
-  "corn-virt": {
-    "1": {
-      "sha256": "b322ce7a81c557e87ba6ed8430f6f34057a6eeb2d79864f710c0240e916c362d",
-      "url": "7a/07/eeb35592dd19a10318d87f08d75407894f3cf7374434b80ce06256b353c9/corn_virt-1.tar.gz"
-    }
-  },
   "corneti.recipes.codeintel": {
     "0.1": {
       "sha256": "551b5ba4bace731acaf773019cc0cf215585f0a029774ca8c48b34c98266baf4",
@@ -4837,6 +4835,10 @@
     "2.8.0": {
       "sha256": "4f668f579594140d422fe2a7f54ef2071fc9b65f40c0bea84cc51347e8b6ce52",
       "url": "09/59/5503e6408a837c6c0f762511cc3ba5608f0eba8e788caaa725ca470fc3b6/data-integration-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "11b88e56b1905326865f70f25f06ff2300a16b00799108d0e65f7a215a6d8d40",
+      "url": "5c/db/2b53511eb2a736c57a1d1562c92d6f1049fc48631205e7bdd20657098dad/data-integration-2.8.1.tar.gz"
     }
   },
   "dataclass-cli": {
@@ -5355,24 +5357,6 @@
     "1.0.1": {
       "sha256": "9165ec0909048a588a4ce7b7f5f8bec6a70883e5c8297951926cdf03bcdb8e0a",
       "url": "1f/37/c1a8aac6228d96e8846e944e71cc41cf62d37966366636007e02f747cd98/django-contact-recaptcha-v3-1.0.1.tar.gz"
-    }
-  },
-  "django-countdowntimer-model": {
-    "0.0.1": {
-      "sha256": "55329497a671ff39458cbcc39d9ef875ae3482d4e95b852eb006a579c453f07b",
-      "url": "8e/84/269b7d7076db1a974540beeae0d6642f6a43d4a49fb288e1feb6d167f1d0/django-countdowntimer_model-0.0.1.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "58f912ed86f7cd39ce3ac881107e2ddecb39ea71655fd85315c7b5fc687a40d3",
-      "url": "0d/e8/81154e9bbe01755d9b06650734e0a1b6c1921acc577a8388c8083ddff8d7/django-countdowntimer_model-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "ebb5a8e0a299113aed8128d576185341d1d7e89e4dc4f05ff3adb7fcac61a80d",
-      "url": "c3/66/ecf8016576a3ab2a27125b25824e04f0452f5ae7b0f665038b86ffbf2669/django-countdowntimer_model-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "42948d5ce77fe891d0626f807d188f73c7a758f539c21f9fa924c43925eb8aaf",
-      "url": "4c/ea/f4db7318ff57f745ba196cf6a0a78cb42c92cddbcac2cea7093dfedfb06d/django-countdowntimer_model-0.0.5.tar.gz"
     }
   },
   "django-dag": {
@@ -12045,6 +12029,10 @@
     "0.8.0b20200426": {
       "sha256": "2a2258f70f96224b0d1b8c0edd15880de753e922bd93da9d09ff05ec4734897e",
       "url": "25/ed/a95a4290500db5fd06010d9904fc94318f64b1b49349aba7c42238019885/gluoncv-0.8.0b20200426.tar.gz"
+    },
+    "0.8.0b20200427": {
+      "sha256": "0230040dfd5c8f580030adc87981af0fe9e41850ba2ea3a525f16f836e62d329",
+      "url": "24/33/05b6e59d081ab4f7081bf0508e8ae4440dd497b45d7463f2e4d65ec62c83/gluoncv-0.8.0b20200427.tar.gz"
     }
   },
   "godnames": {
@@ -18121,156 +18109,6 @@
       "url": "64/a1/1001f2b468b76f5ca6ee77f2a8c0c4700f73c30b32f9af654194286ca925/pointfree-1.1.1.tar.gz"
     }
   },
-  "policy-sentry": {
-    "0.4.0": {
-      "sha256": "7a5cc8087b457d27320fcb310e35af8d84ffd43c0392b41c8bfd13335aef9837",
-      "url": "12/35/41018b5fa7cbd8faade3c761f5e06d7f26bca351ca80a176224153a3ba48/policy_sentry-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "2ffbb2520a008b469f96c64295fd13e61d3fd6da0783a33ec46855e707757d78",
-      "url": "81/16/ad2a52536b8bd73fa8871cd82bf9120b8b8b8ab6af4b5fb88cf1c46e7c97/policy_sentry-0.4.1.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "fdc5f6e36352d10169c01969b61145fea426a22ca48c37e6527ffb50e187ab68",
-      "url": "ce/c2/4bc4eb205902d25cfc9f10e54d953da31a47e2158940e46fb18a9f06308e/policy_sentry-0.4.2.tar.gz"
-    },
-    "0.4.3": {
-      "sha256": "e9986db94c9a2646b9df6a29518bef1196e55085bb8362c92a5fd2edc0d39ecd",
-      "url": "70/ce/2f9aab10845cf836bc267c71a1689ce2d6eb0d76db4e67d71ba8f4e69e2d/policy_sentry-0.4.3.tar.gz"
-    },
-    "0.4.5": {
-      "sha256": "1f1561c4e134769176f9aa42aec69f7d1695d8366c19a9469a4f7a25c67cfa41",
-      "url": "67/92/73e89a5e8135595eadf89e2a959dfb54a3742e1370456d948e5af6d86e67/policy_sentry-0.4.5.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "03398b055aa066b97e5d406896684ed268dbbf68d872224777b2fe5935fa4706",
-      "url": "65/c8/af0668ec4413cb8506d2d6759e1f347d53978394d69d95be56feb3a3be67/policy_sentry-0.5.0.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "24945a3d02135fe08687ec4f3d23266ae95a4c021ea13cfec97e7f4eaba73cdc",
-      "url": "4c/b0/757fde32707438489248d9030a0b81c64a6cc0ea57bda7967d90e1c715b8/policy_sentry-0.5.1.tar.gz"
-    },
-    "0.5.2": {
-      "sha256": "124dfd244f28b42c161f37394228478e8a1a4727bd5cbefa912594f1467e7a2b",
-      "url": "af/91/9284f98931570a9e65a4e61712e34a458250a03d5e20a217bcc34a6cab13/policy_sentry-0.5.2.tar.gz"
-    },
-    "0.5.3": {
-      "sha256": "3a4ce0b6723b752075f61700dfde04d71dce3ff611ee9d0714f6b494a89b1ff7",
-      "url": "cd/c8/f84a39727714ec5b7452b681b350b7b3791b20b917718161f918ce2c7121/policy_sentry-0.5.3.tar.gz"
-    },
-    "0.5.4": {
-      "sha256": "1c0e6912d0de04a9523f2a3005f2acb541873c3b2f371449dd4a8a92fecfa643",
-      "url": "9c/ca/fa8caf95bdcc105429d591c716390e7deb36c5f2711132aa333970e19984/policy_sentry-0.5.4.tar.gz"
-    },
-    "0.5.5": {
-      "sha256": "8bdb7ebb71e989f820df1a4aa240c7ba018963a7822936091d39d8aa4989c271",
-      "url": "d1/ce/0089def7e1df4c0e9cdf2a53aba066550fbbaa95a5d1bb21e782a901c622/policy_sentry-0.5.5.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "3fb5d7da60926e9be24ff629d4a40f9bb9b1b7a7ac242a6f7d5c4301ff332302",
-      "url": "0e/d8/156679f262089d4d1fe28fe763670994853bd2f882d80f05263f3650ce8a/policy_sentry-0.6.0.tar.gz"
-    },
-    "0.6.10": {
-      "sha256": "8431f51364dfb802531c4da61764fb20689ce2fef92ed0ead31e45a916dd9c61",
-      "url": "6b/7a/d626ee37e4046488cf67e1fa9e37f2c3d60b7128f9bea2c1e5e39a0504d0/policy_sentry-0.6.10.tar.gz"
-    },
-    "0.6.11": {
-      "sha256": "418809145ced7815cd50a2c6c3fcab447d4b7165d28cc4602cb9633f7345cc55",
-      "url": "62/69/547eb24d3b05e492f1c54c67039adcef83fede9b749aa4aca23329195507/policy_sentry-0.6.11.tar.gz"
-    },
-    "0.6.2": {
-      "sha256": "43a498fef6bb250309f1bbc75e9c3702f7ee64beb764d60a861f01e50b317ce0",
-      "url": "86/37/03b0be4b69bfee408f13e3b43270c7eb4196e58a243429374c7feb7a7d21/policy_sentry-0.6.2.tar.gz"
-    },
-    "0.6.3": {
-      "sha256": "20e09b01f40cb925e123ada85255e5349e70ade4625430346eb03aaef366e219",
-      "url": "6f/f6/e0c7bf50b8279987549f542c131e9714c7bca977dc7abce559d4089e54ed/policy_sentry-0.6.3.tar.gz"
-    },
-    "0.6.4": {
-      "sha256": "202ab7fbc6e9caad00085c16dfd8dcc55b8a54657eceadf8ab3627fa8c9b3bef",
-      "url": "aa/8a/8e18430ac71ba047e63be31f2691ccbb4d708db48405a6c68f1693686e36/policy_sentry-0.6.4.tar.gz"
-    },
-    "0.6.5": {
-      "sha256": "269bf3ceaad21626f90cf0bb547b995acd425796b1118253a9f91aa7ad710a14",
-      "url": "5f/18/bebc80e360ecbe42e983c34de27ef266cc9c57e4f76df7e62085b7143e60/policy_sentry-0.6.5.tar.gz"
-    },
-    "0.6.6": {
-      "sha256": "fdfc0def98bd6b6905bf8c12c7044f201f8570b48efe12b8472c06ae560a8e54",
-      "url": "2f/fb/d093799c14f9fa7e99b0eb9e00a30870b1cd3e5eea26c2f69130208b9226/policy_sentry-0.6.6.tar.gz"
-    },
-    "0.6.7": {
-      "sha256": "ff10aa80d679d6de8b7ee8cca333f440113a919aa1466f1461e5b62d2c06e4d4",
-      "url": "07/5e/22ce089b9a0a0990842e1fe3735b88cb02e8d377b17142657fbbbddb03c8/policy_sentry-0.6.7.tar.gz"
-    },
-    "0.6.8": {
-      "sha256": "c91c87cc957e6ec9bb57ac70b91920d02e983237adea04361afe11062b8ce5c3",
-      "url": "2d/c8/d3fb90cb6548751819bb0093413658d07e9f480b68b6a8f144b3976a6920/policy_sentry-0.6.8.tar.gz"
-    },
-    "0.6.9": {
-      "sha256": "881c7915fbce8dafb48f5a57c6100e6df2fa2e06580ab1537d6e5f134297ecd5",
-      "url": "ab/17/63629190f0f27bacb0a860d0503c8083afbe9e879e6dc4acd7328ba50170/policy_sentry-0.6.9.tar.gz"
-    },
-    "0.7.0": {
-      "sha256": "b5247ea1094ab3f9293f19b0f83cb0e3ddf9d94c6403f1b0da70e339bfc4bbe1",
-      "url": "07/24/ffcd60b2b39b713bf5ad2a3dd37492e60ec8d969a3dda371bd0f72ea0589/policy_sentry-0.7.0.tar.gz"
-    },
-    "0.7.0.1": {
-      "sha256": "f99081012212399594ab993144dd4baf4d4c064f86e548ddcec5c1757d6a19cc",
-      "url": "aa/73/8efb5ad9ec874dc736b4ff169fc331804523b56ecfc65b0c31110deb1826/policy_sentry-0.7.0.1.tar.gz"
-    },
-    "0.7.0.2": {
-      "sha256": "271de72db70216742d7590c7f71b8a40d21d223b6c09678c8d30b69c5ca0856c",
-      "url": "3c/4b/826aabbb4f4cd427fb2d651bfa5d7822d26c7bd222cd1bf60460f3e5c96f/policy_sentry-0.7.0.2.tar.gz"
-    },
-    "0.7.1": {
-      "sha256": "3bfa2eb21325d048ecf0fa9a905496957080b525218704e451f0590756d3d517",
-      "url": "2f/25/79152eb4b3b9e03493d7ff565532cce6a7bef470c2e8348cc92be87c3bf5/policy_sentry-0.7.1.tar.gz"
-    },
-    "0.7.1.1": {
-      "sha256": "516b13ff557c71b186fc76d7e00e2c8fd9b09a4a4543ca2fd8a2340b85e45ec0",
-      "url": "57/02/74d204a7c1bca3a05e6f0d95a125871039e690af431e38c028239d245401/policy_sentry-0.7.1.1.tar.gz"
-    },
-    "0.7.1.2": {
-      "sha256": "947941e6ece8073129bbd788ea05ce926be562fcc7d7c900710e76dc02b21ad4",
-      "url": "03/b6/d883706c02d941011d8c1dd48a17202a47d8045c41e30df56d5c32a3cf4b/policy_sentry-0.7.1.2.tar.gz"
-    },
-    "0.7.2": {
-      "sha256": "ea5a683dadb480096e0a2c08c04d882a2efe855628db26df18a35579620aa529",
-      "url": "d0/83/b3acf15cfc28a1256e84371d419fc85cf8d02abac7fa7226cc21363763f4/policy_sentry-0.7.2.tar.gz"
-    },
-    "0.7.2.1": {
-      "sha256": "de8e6f12d639dcfd56d8b55bbe6f6b3fdf08a7815b4444dfb6f6db11f5911afc",
-      "url": "76/47/b1ab6b963582f7d6de8c5b33cf46592d77a0390bf063354694433bc6e68a/policy_sentry-0.7.2.1.tar.gz"
-    },
-    "0.7.3": {
-      "sha256": "11e895b5a653e162a79a3f8876dfc96e0c79952ad1aa588dddeefd46defb5ba1",
-      "url": "53/fe/284c5b7b92fed1bc0992494aa707fa93421c4621c8079223f68d34d70b95/policy_sentry-0.7.3.tar.gz"
-    },
-    "0.8.0": {
-      "sha256": "6c5b679c8199a9164405af3c65199ea913c9f16a9e550087691cc8868c75a78e",
-      "url": "51/3a/d60c47ed390573d53ede0a6e65cb7113faf31a7c4f5a7bbd2b5bd98049ee/policy_sentry-0.8.0.tar.gz"
-    },
-    "0.8.0.1": {
-      "sha256": "5ffc0b62520b8c97c8ec937d73e79b4c95f744fd3a4a63a33c51397b14f1dd4b",
-      "url": "15/48/1431767cf86688e585eeb7e031e5bd9c532e9e5e4133579dbbfa8111778d/policy_sentry-0.8.0.1.tar.gz"
-    },
-    "0.8.0.2": {
-      "sha256": "4a5a2ecec5bc5d5b0c3ca8c0869dfd60a8a896e83d1be8096687581048c45d64",
-      "url": "91/9d/3752eb32d39ab90c8703a6ba847eae36b46862be3bfdeb24f47db0789542/policy_sentry-0.8.0.2.tar.gz"
-    },
-    "0.8.0.3": {
-      "sha256": "1ce5c06b79ddea1f313fbd5f46cdcff370c90231253c855ea98bd05c5411f7ec",
-      "url": "e9/d7/e6bee8694f5a697f7a0a140657fe083d91066c8e9ea7a065565f1a70c472/policy_sentry-0.8.0.3.tar.gz"
-    },
-    "0.8.0.4": {
-      "sha256": "20855dd7a5ec73fb4b0edb447d94628b7287b1d99df7576e7af931633fc32210",
-      "url": "d2/be/7c8808262f00154d397d8e444aa93e1e4c9d8fc059ef6d5b83e8beed0bc9/policy_sentry-0.8.0.4.tar.gz"
-    },
-    "0.8.0.5": {
-      "sha256": "d43229e14ed659d433c119e1deedd1caad9d744474de333cb4b5ff6664baca02",
-      "url": "1d/26/d461385d60da16e828c8397c06f414e6d2b410c7ff70d71247c625cefdd9/policy_sentry-0.8.0.5.tar.gz"
-    }
-  },
   "polyprox": {
     "0.1": {
       "sha256": "ce71ad2258902b90c39e42af6d9938f3037d36985d3ccf661ae94b704a65ffab",
@@ -23165,156 +23003,6 @@
     "0.3.0": {
       "sha256": "c8e7d7b5f7ddd8b569b3a378cc752c08b7a234ece018472fc2804a361deae675",
       "url": "00/bc/8094ec1d23f3c00d12f44aa753d742e7d48e993e0f0c16cdfb20634ca853/starpa-0.3.0.tar.gz"
-    }
-  },
-  "stix": {
-    "1.0.0a1": {
-      "sha256": "eaa2abdb2c7420cad957453f2aac04cb259abed16d99949efb9fad6b3ee67c51",
-      "url": "1c/ce/2e7e2b89512fda2ba78bf8fe01bc27a53fe3f5cebc6118e9d944322c7fb6/stix-1.0.0a1.tar.gz"
-    },
-    "1.0.0a2": {
-      "sha256": "2a77d011feb78880c346ebaba52f5772e97469c0f4fca90fb354d282a436e5cb",
-      "url": "7a/39/7622bdb2b328966e41dd9d42d6ab5a2049fe14e57e1f1848a749a2c58989/stix-1.0.0a2.tar.gz"
-    },
-    "1.0.0a3": {
-      "sha256": "fe5308a0afab97e1954c49a04555a0c2247d68deeddb6d4cb7498b6c76c22cb2",
-      "url": "f2/90/7869fb1af453f445ce773c87c3e9a95753edd28f7a81e798750c6a8506d8/stix-1.0.0a3.tar.gz"
-    },
-    "1.0.0a4": {
-      "sha256": "d52757f6be7116497a2752df88de071a8e137f5d67f4d00aa1ff18fe14b37629",
-      "url": "93/a1/7ae7be1523d2d46a14fb1f12b7eca8391878be4f6aa016e7cbd1838863f3/stix-1.0.0a4.tar.gz"
-    },
-    "1.0.0a5": {
-      "sha256": "a35b7771131c4509dffdb8237003da456b5d7665f5dda3f5181c89e8200b6f16",
-      "url": "99/99/dbe57a0f861283e4efa23b418a83997676ab9557001c621aeebe0a8e0f96/stix-1.0.0a5.tar.gz"
-    },
-    "1.0.0a6": {
-      "sha256": "3feb1f04c7ccd98da512de330ee80778c62d0015b2dc30ba10feb89229770e59",
-      "url": "8f/e4/9c0591a017a404cba93bb8ca30977be6e51e99c635f4ebbf58c972f2cdf1/stix-1.0.0a6.tar.gz"
-    },
-    "1.0.0a7": {
-      "sha256": "18e4fbc190466d27579a7608e10244fccdb4525b8b5c07fb87acd80965233332",
-      "url": "e2/8b/fa8a3e6f8047efc898f8bf0904f739d4b68d973617fcb28ef4ab42b663bc/stix-1.0.0a7.tar.gz"
-    },
-    "1.0.1.0": {
-      "sha256": "cf162d82386505d28836de2a460914aca92f5a6d6fff92aa1d3da77e8a69eb4d",
-      "url": "01/bb/007d946f666f29e9b25278d17b97b45666bab01461674e07a6ac59ed219f/stix-1.0.1.0.tar.gz"
-    },
-    "1.0.1.1": {
-      "sha256": "e7c4e9e0cb846066d086f6ac2e45fbbebc586ab558c83087cebb88e5d4c67289",
-      "url": "95/2e/5dd232a95a3ef49fe898ca4b7b6a211693a0f5d4a2f28e5a5ad8e613cc34/stix-1.0.1.1.tar.gz"
-    },
-    "1.1.0.0": {
-      "sha256": "9df8d4341b071610e13376e0439c53ef8860410957c07b359abbc4811954785a",
-      "url": "7d/cc/aae140b5930ee6eaaa659f23018d114160e39f4da01cfde0517ebcc6a0ab/stix-1.1.0.0.tar.gz"
-    },
-    "1.1.0.1": {
-      "sha256": "3d7cee9921efd62d2ea8a985dcfc219a75354edf91a1138f09ae4bc84161f027",
-      "url": "8c/e8/c8f675d953655be5226fb5de8f27da870c1babdb8dcc337e994d6ef3e0a5/stix-1.1.0.1.tar.gz"
-    },
-    "1.1.0.2": {
-      "sha256": "e4dca88e47cc948acbcf426c5f6d59bb604b951110d8a99eaa920b27880da7d2",
-      "url": "d2/ce/4f3118ea849e83d5e71b015cad58e3792869d869fdaf885c7f190562c4de/stix-1.1.0.2.tar.gz"
-    },
-    "1.1.0.3": {
-      "sha256": "de87c6e28dba5fe7f7fe8b66f4b6bc5ed87e1abedff4955c6ffbcf4a3a6b4abd",
-      "url": "4f/db/6f1045ae9e8f4c6985f4eb55eb9d48ad9d44f3899a7dff4dc9fce4d11cd1/stix-1.1.0.3.tar.gz"
-    },
-    "1.1.0.4": {
-      "sha256": "40cb1551a07bd963dcc69852fb680051c328cf3e4b4a1cb1de814a141d16bac5",
-      "url": "7d/e0/bb70d3c77c1b0b13e3eff5dda1b022ddc585bcb71759c07428a5096e6de0/stix-1.1.0.4.tar.gz"
-    },
-    "1.1.0.5": {
-      "sha256": "a33281aadc40660e25bacfe5616690f0a8e87e274798d77b5cb5ff7780646ea6",
-      "url": "23/ab/80a2e03cd000c816239a6d2a0b8fb67e922ffe0b3953c26262abb01fcd50/stix-1.1.0.5.tar.gz"
-    },
-    "1.1.0.6": {
-      "sha256": "253ee2840ea1a90bd69cebf938061687d6061b79c1a89e2bf36981b1b95c84d0",
-      "url": "83/2d/c7154b11e22286e93a4276ba7b87539795818823c034cc7a1fe0bd463923/stix-1.1.0.6.tar.gz"
-    },
-    "1.1.1.0": {
-      "sha256": "75536b28c82c0090054ae354ab5d1b5cb3cf1748ec686c54adffc9ebaff3cc09",
-      "url": "f9/a9/4fb288c2a52ed0d820a83b9efcd723a16425e6a576fa20467b685a27102d/stix-1.1.1.0.tar.gz"
-    },
-    "1.1.1.1": {
-      "sha256": "9a86229ef1fde25279bf479ec9b6743ccc0315d300d50b2a83144a6ca14e68a3",
-      "url": "09/42/8f969c594bfd4e8e189b80a4ec56cf29004c52cf43fe92f21478820fcf7d/stix-1.1.1.1.tar.gz"
-    },
-    "1.1.1.15": {
-      "sha256": "915c2566e17e13cb757f55794a3477a3ea485a093eee40eb1668708bb91cebb9",
-      "url": "56/ca/cc0c460c1b89aab89777ca749b5a76abf087fe91d82677ee796ad6d5c80b/stix-1.1.1.15.tar.gz"
-    },
-    "1.1.1.16": {
-      "sha256": "0fcd957e2c4fdb3d642040ef61ec345de120086d9d8102c269064d31d1374c24",
-      "url": "46/0d/51f69173f7368448daa28e46f07f2a8027fd37ac520987e4db784013de43/stix-1.1.1.16.tar.gz"
-    },
-    "1.1.1.17": {
-      "sha256": "4798ce7bfd0be05e0f75ced84f72ccec0ac1642782da0834f5ed6b421db9f7b6",
-      "url": "3d/e0/1bf9eb215a72db8d98eea7505152f5cc09871c0a95ac5ee0a7dfe8a70dd1/stix-1.1.1.17.tar.gz"
-    },
-    "1.1.1.2": {
-      "sha256": "d0ca0064b013187eda51fb8ae8b64ebcb1cfe902aa69e2c87d18e8d348699bed",
-      "url": "64/3a/7affdf9c44ec50a25a1ed479637abbd8244f6ff3e1955cf4894b8b96b48f/stix-1.1.1.2.tar.gz"
-    },
-    "1.1.1.3": {
-      "sha256": "b4d9395a904b3963af24050a92f4313f778f537cdb72da6905db39ca107f7dbd",
-      "url": "f1/c7/2ae4cb825ca0ae3ccc682c4d0d93ebc3e71aaf38e91ffccbb50c5ef82f4f/stix-1.1.1.3.tar.gz"
-    },
-    "1.1.1.4": {
-      "sha256": "62d95748a752db0febcc9f3c39e867d1fb3a9ca1ad93a6ebab4e31f0cde18ae4",
-      "url": "68/49/5280b0c7fa1c9a5a161368edd22c952624394f667299519a65464dacd953/stix-1.1.1.4.tar.gz"
-    },
-    "1.1.1.5": {
-      "sha256": "8412f28561c3b0fab60c109f5005102a3e93f5054bf6856959ab53864ffaaeff",
-      "url": "59/5c/995f1d3f11459a94cc8218252e90a9934cea178aab950b060a413f2c0c0e/stix-1.1.1.5.tar.gz"
-    },
-    "1.1.1.6": {
-      "sha256": "c449cd134ccc5e5bc93576a5e5b5a74e6cefabc9aaea9182ca18fefbe1eee0ed",
-      "url": "c5/7d/a7afa3ef7a80091196cfb07c9e8b9cdc1f15993783b0b4e60bacbe17a208/stix-1.1.1.6.tar.gz"
-    },
-    "1.1.1.6.dev0": {
-      "sha256": "cd89edc80e7708006d4dd0bc685a4d577cbb8d3bb8426db5f66ff2b1c2b929f4",
-      "url": "33/a6/d199e3d0af11665ebd22e1e267551ad7cb39e65ae2b992e2e608d6b32661/stix-1.1.1.6.dev0.tar.gz"
-    },
-    "1.1.1.6.dev1": {
-      "sha256": "2a7a5614bba4dfbdd102e7fa7d561d79ba82772b9aee8a70ea11064b30fbe5ed",
-      "url": "68/50/ee5cc71648493bc497f18046440d98fc7695a2e847d6658224f825d9b1c2/stix-1.1.1.6.dev1.tar.gz"
-    },
-    "1.1.1.6.dev2": {
-      "sha256": "ebdca192034e37db210aa214eadf0c9bf11e3a92e2d8627d5f22864cf607bdae",
-      "url": "51/7c/40526a05d990ef02cb421dfc3bc314387c4805f2cf51ce8b391b266088a3/stix-1.1.1.6.dev2.tar.gz"
-    },
-    "1.1.1.7": {
-      "sha256": "c16ffd025ff82877ab27621aa07a5880ff495bf602a8a903cee71adebbd3d8e2",
-      "url": "18/f4/9f849e22cdfa81cae2d6bb609538991c75c172a243ddafd5f2b0e79a7315/stix-1.1.1.7.tar.gz"
-    },
-    "1.2.0.0": {
-      "sha256": "c3057ad709338b6ffdd2c107c07be4e475bf4c5f4d502d08cf745d0b9720fe50",
-      "url": "e9/66/a605eb05d093a3c100c428e558d4ae28b0f6efc511db7050282d1d89a7e6/stix-1.2.0.0.tar.gz"
-    },
-    "1.2.0.1": {
-      "sha256": "fc069433ce4c3ec200a3f9be6111fa6d53c9f6a612f0636c2cba710572e1def2",
-      "url": "9b/a4/9ba001f6ba91327f809520165ffe31a9b389fa14ab49784dba37611b1358/stix-1.2.0.1.tar.gz"
-    },
-    "1.2.0.1.dev0": {
-      "sha256": "136646e803d4e9041d3104cee59bc80a89248d7be5c56c4157c74eb2a81e749a",
-      "url": "92/5c/029ba68fd3a86409740238c49995aa691427561104bf600ef6444cb42550/stix-1.2.0.1.dev0.tar.gz"
-    },
-    "1.2.0.1.dev1": {
-      "sha256": "17cf0610f35e47fb85ad99cfb525968c2bb52fc83b1dcf75416540e9f641283f",
-      "url": "b3/8c/b78671305b0407226a157f893894deb1245d041478241cd0246a7fe9cef8/stix-1.2.0.1.dev1.tar.gz"
-    },
-    "1.2.0.2": {
-      "sha256": "9475dc56817d26a3da177b1b1a118cc8665cc98ba1af382b42906aa5132a97b4",
-      "url": "0f/5e/db1328f2eb57b8bf399b25dede67f4c1a9e4c2a763f56aeb29c5002d5107/stix-1.2.0.2.tar.gz"
-    },
-    "1.2.0.8": {
-      "sha256": "a1a0537251af31f3f90942b66ccd9a2c9752cb15a79b2439af2e63cf4e80261a",
-      "url": "3b/66/d2781dc3a5cdeccc32523e850e1c47834592331868444ff0a3d0992c80bc/stix-1.2.0.8.tar.gz"
-    },
-    "1.2.0.9": {
-      "sha256": "c2b21f81a618bb9de4d633fccda51b857821ae08146a562fe6b1954fd9dd07a6",
-      "url": "85/4f/2652a678d6a27c0add988d796f48e5d8429ca4c27523eb17cb7426867b92/stix-1.2.0.9.tar.gz"
     }
   },
   "stix-parser": {

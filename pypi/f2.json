@@ -875,20 +875,6 @@
       "url": "1a/1e/7b1cdadaf0b1a80af56003e86413f95a11e94c09351cefc2753d3055510d/astools-0.1.tar.gz"
     }
   },
-  "async-class": {
-    "0.0.2": {
-      "sha256": "aef85fb3f9f2edff00a590c3b359cec179aba507ce621bce345abcdb5e52c1b8",
-      "url": "e3/7a/3189f1a9ad0e0b459288991ef64befc2943218d6f336ba45bb97413c0c15/async-class-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "91e1c679d18073c653567ade5e812d81a91b2213249b0f755bd4dce54eb7939a",
-      "url": "da/dc/8024b136fd7c2cf37853ab114348c1bb9c61f8abb830bbb96e1badd55285/async-class-0.0.3.tar.gz"
-    },
-    "0.1.0": {
-      "sha256": "7a00bfbe212cb4776055cef56571e62dd7443164d9ea179edf1ea3e9befddcae",
-      "url": "c0/f8/a15490ffdd0fb6f4e41633f7c55fbeaa47efa1dc355541b3f27ab7e3bfdd/async-class-0.1.0.tar.gz"
-    }
-  },
   "asyncqlio": {
     "0.1.0": {
       "sha256": "ef23a610400eea25f4f2675d983b7c59c5dd0219bd3c08c11e05a79c41226eae",
@@ -2175,6 +2161,14 @@
     "5.0.153": {
       "sha256": "81022087c4c353c0fb47033155da569720f2a9e0272a4d84ccbb2b4766080a90",
       "url": "7d/50/26551223592201ceeed35d846e3722785f1467e52f4353c58b7ed2f92fc8/btnexus-node-python-5.0.153.tar.gz"
+    },
+    "5.0.162": {
+      "sha256": "ddb2e90d64f46ee4cdc16365ed42f0eef00fa02b993651b71d8066b7205ec7a0",
+      "url": "3f/f3/8acd0b1a6bb4f223cd57e576e9dab622b47e43476a702446764485659697/btnexus-node-python-5.0.162.tar.gz"
+    },
+    "5.1.164": {
+      "sha256": "ae9b276052cc2951669b03a926859304233cf0448294a3db17dc50e123fa6722",
+      "url": "84/c0/04c72955eae2f4146e96f411f2b08ebbe8bb11720452dc87ccb259e9b498/btnexus-node-python-5.1.164.tar.gz"
     }
   },
   "burst-statsd": {
@@ -12525,6 +12519,10 @@
     "0.3.4.4": {
       "sha256": "ef7fb7b4d8d4cb337cbcf271b7f2429576a32a17d0345616f426cc74846b0e91",
       "url": "6d/fb/3853bf80769423aac6e2b7ef39a49bba7f10da9d905e9271a1fbc0490459/meross_iot-0.3.4.4.tar.gz"
+    },
+    "0.3.4.5": {
+      "sha256": "acf8eac0609c841dbdb2e0bdfd0cba84a2f49351a2f68c192dcfc9f7e10d6d16",
+      "url": "9f/18/dc3227276819939de69d59f16c35b72b5c57bab251da5d52a5713dcc1236/meross_iot-0.3.4.5.tar.gz"
     }
   },
   "mesopy": {
@@ -15309,6 +15307,10 @@
     "0.1.0a1.dev1587865230": {
       "sha256": "cd03cef53c3cc4120b6c2f43592dc0d91f09bcac553678f692a096598175592e",
       "url": "bc/55/67af270f19fe862f5e1844b7d2cff38e1cb86f67bd7a3046eef350b1b575/pulp_npm-client-0.1.0a1.dev1587865230.tar.gz"
+    },
+    "0.1.0a1.dev1587951768": {
+      "sha256": "4fa2b00bd093cf8c33b5a780b628676d9e0127316eaa4a09879db2029d403de6",
+      "url": "24/43/9817fb767e119de904f63fc886d2a24aef93763b1a456e0cd6e92065dd1a/pulp_npm-client-0.1.0a1.dev1587951768.tar.gz"
     }
   },
   "pulumi-azuread": {
@@ -18901,64 +18903,6 @@
     "1.0.3": {
       "sha256": "b8f1f45f44a37cbd5d3f665e4c14115f30673a5b79c51c802793fcfe17734dd5",
       "url": "53/89/0ac6faaef950b92d01ee38bc2d75c336aee95ec803802d9620874cf5e1a1/scriptlock-1.0.3.tar.gz"
-    }
-  },
-  "scuba": {
-    "1.5.0": {
-      "sha256": "83294f2c870bc08cad4da46556337c59e8e277225b4c4020b27648d127ed0e91",
-      "url": "d7/1c/a216ee4d2fc93ac24fc7d4b1991611f8ff099a959026d41a6f1648e55234/scuba-1.5.0.tar.gz"
-    },
-    "1.6.0": {
-      "sha256": "e67a24681b8a31d77431ac100648e672d7ab03202b5ecbcc6758af8ed4260eb4",
-      "url": "d3/03/46ca07399d021ca82f971fc57062d7f07c20b39a31b70593e78d92d86dc5/scuba-1.6.0.tar.gz"
-    },
-    "1.7.0": {
-      "sha256": "7c4636ab423ff6fba7afed6e90a25958d9e9b33c49e22b560a9f28027676b2cb",
-      "url": "a7/98/db66c42c9bc5e807bfe4f16464fdbdb30d9940d57087afbf82fc96ec5591/scuba-1.7.0.tar.gz"
-    },
-    "2.0.0": {
-      "sha256": "999df29ed11f0e5f1b859c28ed5e4a86c67ccecf2eb1b97dac78286ee6b9ea64",
-      "url": "1d/79/857102c6db225396d98ceeb8d7e6c680640b95c5e58229dd92b626fe91a4/scuba-2.0.0.tar.gz"
-    },
-    "2.0.1": {
-      "sha256": "b91b50a35f96db6ce8230df88310c1d1fb9027ea2dbe3a876da8c8fa23070e9a",
-      "url": "8e/06/c9bc1854351664c9c439104430e590d0d9bd4a694c95e29050ff8bdd7ff3/scuba-2.0.1.tar.gz"
-    },
-    "2.1.0": {
-      "sha256": "cfb60c6b44a4c1a92d19cc66bfbeff8cb55ffebfad4017b2e5251b88ec795774",
-      "url": "2b/ed/109fdb602e705b7e9a9a63c7e6dce8c7f83f46c2424089a655eb4e57a1b4/scuba-2.1.0.tar.gz"
-    },
-    "2.2.0": {
-      "sha256": "ed96cd5a1ef01033d5f605a9eef629a8b482c1ddd34edfb2aaea55dad422d0ca",
-      "url": "0e/93/07fbb36e0801bed5e8fe6d209be3582db0d83966ce2b367011698bb62c78/scuba-2.2.0.tar.gz"
-    },
-    "2.3.0": {
-      "sha256": "3feee850801570a5c818edb5a2761f49c235b2ee129f701abc2a291fade24bcd",
-      "url": "af/c9/6031d41653e7b08182a93186b7848df45814dd5607cdf9cdde7086b28434/scuba-2.3.0.tar.gz"
-    },
-    "2.4.0": {
-      "sha256": "5b9d0f80d4fcd2359b3f2a7e84ea5790e40892cd58b4c38f78af922013e293b2",
-      "url": "3f/e7/fcfbe1894c2a2eb41a5fd3e33731f4a91998ce39a02184a1491291a4d5f7/scuba-2.4.0.tar.gz"
-    },
-    "2.4.1": {
-      "sha256": "4ce36b1bf63351b2a9b1047c5d2d02f6e6cad7bd5d58a9c92d388fa012b9a4de",
-      "url": "82/83/9f01b34ccdc5699e43f9196cf939dc39179035c1a2c09a4b9fc02284322f/scuba-2.4.1.tar.gz"
-    },
-    "2.4.2": {
-      "sha256": "2f9537b1b7d9ac62a86f4906752db504977a4df6908ebc26686035aedc986dc3",
-      "url": "e1/38/ead10c1bcd13e8a155d0626cf801fa5643718a04cddd3453b6cad63d25a7/scuba-2.4.2.tar.gz"
-    },
-    "2.5.0": {
-      "sha256": "5884c52a7a06bf1613f57d1d3b84d5249d2ace03e2fa5facd1a6c3f4cf4224db",
-      "url": "82/9a/f9c01306098daf5a7ec61f300959fe3c1cd7e4577fd7feffabca280b92a9/scuba-2.5.0.tar.gz"
-    },
-    "2.6.0": {
-      "sha256": "e4097f288955e22c3e6a5f27e247450d83b12ed89ee7e77fc23e946c361808f4",
-      "url": "79/14/f9a3fa2bacfaaf6ab37526897a65b17ef1bd75cb68c4231da92df49023a1/scuba-2.6.0.tar.gz"
-    },
-    "2.6.1": {
-      "sha256": "5918a80b9cdd5b888a2e11fe4015f5eeac2634b40c1e7f313a047eb9982ce9ef",
-      "url": "16/94/cc135cac3ffb42596961f92845b87ced0f369dd556a6b65e7caa853ac3a6/scuba-2.6.1.tar.gz"
     }
   },
   "secure-markdown": {
