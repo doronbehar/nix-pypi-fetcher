@@ -219,6 +219,12 @@
       "url": "88/f5/4daa82a736067a5d7a7b5309df0358cf31a3b9f70cfe99a5c03de54938e8/aiowebsocket-1.0.0.dev-2.tar.gz"
     }
   },
+  "aircal": {
+    "0.1": {
+      "sha256": "e157b0b1e24ad84434da0e6f4044201c25df2d2768155a1eae2c17b28a8f1cda",
+      "url": "58/9d/b57011b5188ee9268b88910d2cc59dd0c187b7b9bdd58086ac034803c0f7/aircal-0.1.tar.gz"
+    }
+  },
   "airthingswave-mqtt": {
     "0.1": {
       "sha256": "725f50530b1332656170a02accfd11a0dac117d521b22d1f386ea6985668dda4",
@@ -7171,6 +7177,12 @@
       "url": "c3/f9/3368f3b3757625b044b56dc9fda6255654273df384ff9d72f741051a348b/configAWSEnv-0.0.9.tar.gz"
     }
   },
+  "continuous-grid-world": {
+    "0.0.1": {
+      "sha256": "aaa8ebc5e7c8c0cbf710dc9df2bd7323d4aef9d31e1df543d57cd23709b8f12c",
+      "url": "eb/5e/b827f6f53de2292ccaa5662f0ff609d57732ede4ca5e33e0e5941fd6cb29/continuous_grid_world-0.0.1.tar.gz"
+    }
+  },
   "controllers": {
     "0.1.0": {
       "sha256": "bbbd120b954ea9c6998e2c66c297382d36381d12c102738750960bd927c1e161",
@@ -10165,6 +10177,20 @@
     "0.1.6": {
       "sha256": "0244143e48aaf6cb3250d04a5551bada86877a54281dd34fe68c740067095cf4",
       "url": "ee/be/85e19eb0a34fb916a87d117ed3665eec244e822ac2761a073039cfe0d8ce/faudmutils-0.1.6.tar.gz"
+    }
+  },
+  "fchroot": {
+    "0.1": {
+      "sha256": "d0b0e75af933331859018638a6d05ca3f71d3b5f8cf74788f7a702a87ff650f1",
+      "url": "49/db/a30f6b7efee36e05db2b5ffd428eee27333cad6ed3ea124875b16fcb7e09/fchroot-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "86cc21afc5bf947756e65c0608ae411183abffccff620b74afad90454111bfdf",
+      "url": "60/b5/ae4ab33b3f6f39ca07bbadb305bf5941ae6e437e782f62a054f30ebb413b/fchroot-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "89b792817bb596dc3404e841d05e190bbab7711396da4b7b70b30437d2167a5a",
+      "url": "f2/04/4db5e98e93207dbb9bb71725767a8d016f9aa1e70c9c7892a5c270c3eac6/fchroot-0.1.2.tar.gz"
     }
   },
   "fdsocket": {
@@ -21251,6 +21277,10 @@
     "2.3.0b1.dev1587835189": {
       "sha256": "57779a42cf24a377625260a29a55ea0c214206a733552cc5122deaf999c0042b",
       "url": "26/02/9a8aa22f6a4a65dccabfc8e0383b7b0ebeb5dff13573f38ff1bc118cb9d6/pulp_deb-client-2.3.0b1.dev1587835189.tar.gz"
+    },
+    "2.3.0b1.dev1587921558": {
+      "sha256": "ebe18bfbef3b5d1af1d96ae9336433ff0d55e7553236ec5449fd710448fdef26",
+      "url": "9d/b1/146919087bbf3214aab5a2f1b9028b7221af9bccfc9a7d552b06777ec715/pulp_deb-client-2.3.0b1.dev1587921558.tar.gz"
     }
   },
   "puremagic": {
@@ -22217,6 +22247,80 @@
     "0.0.1": {
       "sha256": "d22abe4a66fee5647c6a34e55ae116997e6288eed4f6f4c9d5324db6f11d94ea",
       "url": "3a/d8/8c5ec4674b8076923ef5d399454e7790a6814450cd6de9ef758f256e42d8/pylgrum-0.0.1.tar.gz"
+    }
+  },
+  "pylinkirc": {
+    "0.9.1": {
+      "sha256": "ab75a9756a7816c40a2cf9143f96e99948d5e123940b5ee2eb929ef9ec4b5b8a",
+      "url": "a5/09/39c827a0c3244e7770197453b608897597d3d508287b77206ae577388b04/pylinkirc-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "ef8942b91d1296e3042cf4bfdbbcd3a6a13f912b2499566ae5b109bab2fd0524",
+      "url": "73/c3/18dcd573141a0d7fbd7287ddc63a3c2f47c9774f19088553cd4f76cf2d40/pylinkirc-0.9.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "fa843b808246756e9c619f1b514922052e5d2bebeb5cd544692d0ee6400859f4",
+      "url": "a7/b7/eec069791fc55d41def226e7338111ac2697330ff891f8a77fe8e3b4e652/pylinkirc-1.0.0.tar.gz"
+    },
+    "1.0.1.1": {
+      "sha256": "fceff2848b0943fea1a12da506839d97a96127a61672d3495bd309beedc0ed5d",
+      "url": "1c/92/fe07f8b157d11f4dcd2bca9a51396912c0ea5d06bd1a09cc605f01979d45/pylinkirc-1.0.1.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "2677972a00c1ac709646ff6b3726cbfea830a3b4f8b3bdbb0da9a995abbba765",
+      "url": "0e/a2/3234f5eee34e75f1d3224c0abc875270660f2a3ea178db879ddb736f4eb8/pylinkirc-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "9be972b3625dfe6304a89f50b2de5f23e898e5b9ec94b2fc63afd22e7aa738b6",
+      "url": "5a/66/e6d0f8dd9df46dfdb85390eca7178696f1893cd2e6ddcff1781110ad6afd/pylinkirc-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "b43d1ccc7c2e9631a95901472613d9d19ef38baee87dc15d769b185258739e41",
+      "url": "e3/c1/95c73ef2a6bdeb55a96cdb3989cef8d6b850303562f5216f6231af17e2db/pylinkirc-1.0.4.tar.gz"
+    },
+    "1.1.0.1": {
+      "sha256": "8b8ee6d24f9f4b98ea0a2117a75ce140a301eb55e03d6353fa7fe6462a3b1624",
+      "url": "08/e6/69b5c63a10c9877f1d8610ce3899d7e96318d84b5b86698d1a8f17614c5f/pylinkirc-1.1.0.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "3d2495cf6193732c9e96f76fc50170cdb8ee72906eeb6824323d847303839fed",
+      "url": "d5/05/fc7bf4ea25ea9ba02b14003837ee4db11040f9f034f841dee1bae7dcec10/pylinkirc-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "67fc42adecbd81bcb05c3d1084069dacf2343de719a86a4b3d4d7360132794c9",
+      "url": "0c/c7/637b827170015d625325abb863b6d87c7843ca3f9201ce6af0cc9ae73f1b/pylinkirc-1.1.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "add5cd03e67374ef9bb16b9ac04db1b2d64e5480dae26e4a585b38f2d70aa038",
+      "url": "5b/48/f9526ec971630ade48c9d9fd18c71a45136f9d8c569a21ab95676ee3e98f/pylinkirc-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "b59976c47fc66233ec148dc2555d64968e735231b27b86ccab6a20aba1326240",
+      "url": "c4/0d/00501acbe30cff384986737a0dc2faa9cf932e53fdd26b7b073f4882cd8f/pylinkirc-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "4e6aab4aadddaede2d6593e89c20dd099cb68e0fc0d7e59a89d18ca85fcb2a03",
+      "url": "0c/60/5d2aa35c01f5a3e60d8a4c694be17d8ae2cad6d881b3a624d1e882c704c2/pylinkirc-1.3.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "584cd71aa6f6d54e5c41df1dcd152af4576d4fa12e20e5b9f2650d3cf1203b2f",
+      "url": "66/d9/be713a782761854b52996dd970089d359427e7c640d4f6b35da874e80d0c/pylinkirc-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "1e165979b696ca6e2758c0bb14c64b9198a80ad28c2b86ca26a73137835d6082",
+      "url": "66/83/fafac354e07a01dfbab2784b35bb96cecfb99f3873142058af5394262546/pylinkirc-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "ab14000ba7c7368c8a14325152c0a790fffa25dc6da0489b155e75f4de78ddeb",
+      "url": "12/07/8908e93b3b3aa4ddddbd97b242684c348bacc93f436db4c1dc359d8d75e4/pylinkirc-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "cbe2c6a24b0d98c239ed542506ddc392ae2a7201ae0778d78ea546f75763ca4a",
+      "url": "62/4e/fb0339c712d0c697c8fd003887bb4829e30587bc600b35e0d8546fc6c792/pylinkirc-2.0.3.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "28b5b81388c9c0b271f9791f4844e9eef6b19e0128b3530874569e7e200394cd",
+      "url": "59/7e/a1c2218f139e79eced6540e73a2752c13599e861ee52a3446f0013f3169a/pylinkirc-3.0.0.tar.gz"
     }
   },
   "pylsd": {
@@ -26893,6 +26997,16 @@
     "0.0.1": {
       "sha256": "9949891a380091c2a9deca6b16257cbb71ab259d2ffbb2c137cb9481f049a45b",
       "url": "45/2e/87c638f8fe1a5984761883e677393cad64b8e6296d9d6610ccc1fb0062be/tensorflow-rocm-enhanced-0.0.1.tar.gz"
+    }
+  },
+  "test-avery": {
+    "1.0.0": {
+      "sha256": "12cd47893ed2ee87d662b8e274953ee4cd39353450213f32d91a4d23f97ed1b5",
+      "url": "99/64/40b14082b399b1727f35eaa490e417ad0a3847e82a65a19deaeff24d6089/test-avery-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "567852e995103f842f7e4c181f658480859df61c4f9bd3e473d2f20b8a19b447",
+      "url": "4a/2d/7022acae187e163e7b8624c3c0c78c4c4533b2ac85547f7776b9e002d11e/test-avery-1.0.1.tar.gz"
     }
   },
   "test-zzz-sdk": {
