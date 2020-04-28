@@ -6043,6 +6043,12 @@
       "url": "61/1b/7af2f52bd7d9c0e3b1a81c46bc1bcb9bca7fd1c0ba5347372b164f334746/enaml-extensions-0.1.0.tar.gz"
     }
   },
+  "enocean-mqtt": {
+    "0.1.0": {
+      "sha256": "5ae8ed084d29e74776978a7518cf1d85ceb053625585a91e612f44f20f2d4f80",
+      "url": "a4/69/316042dfabe71f098edd7f3b6376261560b9b03cc7f9530c3a6ffb051ddf/enocean-mqtt-0.1.0.tar.gz"
+    }
+  },
   "entschachtler": {
     "1.0.0": {
       "sha256": "9eb854808193ee03e5b41f6d126b29d0b4b2f2b912fbd1faaa5be879e43d066c",
@@ -13002,6 +13008,10 @@
       "sha256": "92da614d7e287cf2b3ca5d0fc8be905a6d0f083d99d67bc06e73da7a123943d8",
       "url": "66/e2/cf828c28d083a45fcf9f425e113993296c2ba603d00e03b72630dd0b375b/mypy-boto3-autoscaling-1.12.46.0.tar.gz"
     },
+    "1.12.47.0": {
+      "sha256": "77afe91f0a73bef5fcafe412bb8eb31b114e01205be84beda6c7d967d7b12c43",
+      "url": "90/d0/fda0b447d60179e5953698d4ac98588f8b220dce9a6899168367bddf2511/mypy-boto3-autoscaling-1.12.47.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "ba2228ccf9b4df1451e95ca8462a1fede2a999d7388d08c91a053bb490567fb6",
       "url": "0f/6d/89b9ae81ffeec38a3008cd4d531db4a13600c746d76842af19ffc703f3ac/mypy-boto3-autoscaling-1.12.5.0.tar.gz"
@@ -13523,6 +13533,10 @@
     "1.12.46.0": {
       "sha256": "171bdb34d0e4095b2e92f93003fde079e57a9d850964ce8c8d35ef5674930d7e",
       "url": "85/6a/54640d79c50c74c503737abc5d895e3b1eb1e63ce24b592955cb80fd146d/mypy-boto3-iotthingsgraph-1.12.46.0.tar.gz"
+    },
+    "1.12.47.0": {
+      "sha256": "1f802bcf9cd24d54f3e190b4cef84f79fffd5ab132244b1e417aec454238ce96",
+      "url": "89/9e/6cda1971cedb20afbaf7c30d64545f38e94b91a28b7d8f6d708b3e6cb7ae/mypy-boto3-iotthingsgraph-1.12.47.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "3d1ac9e665cd1b187a4f5cf82e1e1463a47f37a10c2d24ff2076a7de4f33428e",
@@ -14153,180 +14167,6 @@
       "url": "3e/e4/a1064f0a0484379c81399817d7a2363a41ed4788f657bebda8e933e2e320/octavia-dashboard-5.0.0.0rc1.tar.gz"
     }
   },
-  "ogame": {
-    "0.1": {
-      "sha256": "7dd3c3c97e89016a423da8d3ac834f429706357146327b51b2df0a3e19dfb76d",
-      "url": "fc/d5/fd823bab03a4b17fc742b3639162b0eea316e5836630095af7ca9d0b588b/ogame-0.1.tar.gz"
-    },
-    "0.10": {
-      "sha256": "1315c1066c3482f251708ce4fdf491f96590213bf03c661675a403643ccfbbb3",
-      "url": "1c/15/7c6ba741dbd01f3439198135c4006b7717fe03a23e25409c437d1e1a62c7/ogame-0.10.tar.gz"
-    },
-    "0.11": {
-      "sha256": "6c964ffe023fa97cd9dd2b6f25d95ed2b9035d3889232bcc9f9edd64453fc5d3",
-      "url": "0b/a3/c3a496d8eadaf3eb27a2fb00441959187ef28d924028531ecfefe6d6cbe4/ogame-0.11.tar.gz"
-    },
-    "0.12": {
-      "sha256": "1c7e3fea1d8f242c9437da0b956636fddfa5ba347220a2a218883d549f12642c",
-      "url": "c7/0d/616de174bd0781122729b6164fc83fff4816bd24dec95363d0057cb93f77/ogame-0.12.tar.gz"
-    },
-    "0.13": {
-      "sha256": "12225a36f8c09bc47b28d22bf479a14eb663b54937ebc7f2e8c78e86a02f3f22",
-      "url": "ea/5e/42b78654dd5d77dc3c5d1bce8338fe502e02a41c54fdbf51cc57b404a9df/ogame-0.13.tar.gz"
-    },
-    "0.14.0": {
-      "sha256": "ea7a5b0eeeac9a83a9549d82d14c806cfc0b10458b7a5f48c17c79fed4316539",
-      "url": "72/8f/b84cdb96eadb826ac52854584e8dde8b297a5bd36f09cfaa5da09e5d8764/ogame-0.14.0.tar.gz"
-    },
-    "0.15.0": {
-      "sha256": "53b9e73b169edc3763299150c6c7094d9c793ab6d15d686a0f5a0a65c81fd465",
-      "url": "6a/70/b5c51fbb92c0fa0f7423ba728061a1879347c7ef1782c3e2638bb83a2ba2/ogame-0.15.0.tar.gz"
-    },
-    "0.2": {
-      "sha256": "b8b9197c52cf2265a7d995a91704e34d536ad0a58a49b60f90665fb54e433531",
-      "url": "4f/e3/f10b30867498eccf0ba458ab4415f9fcb53d1e6887b1b49c314e77ab5974/ogame-0.2.tar.gz"
-    },
-    "0.3": {
-      "sha256": "e8661265a7e07190c1e4b2f549a36195da54b53056785d850af006ba839aef83",
-      "url": "f9/72/aad5de61d151d63958a9e7c08764433cc44526e1a633466f5b7a9fbab587/ogame-0.3.tar.gz"
-    },
-    "0.4": {
-      "sha256": "4e81566b10791e69f738040fe004ccf24bb4756916469f6a0d922460e83876a3",
-      "url": "33/a4/9a6190b8a20bb211bc59f6808c25188650b59e25e9cd0a09b3f734507320/ogame-0.4.tar.gz"
-    },
-    "0.5": {
-      "sha256": "5364a11f49c5122aa1636eceaab55ef3b67b10af2c8448524462f5ee8a820274",
-      "url": "a1/b5/82a0b7e5b309c3cb570fd14abf2dae267d36cb1e19ce09b26a398bc8e016/ogame-0.5.tar.gz"
-    },
-    "0.6": {
-      "sha256": "1db989177130921e9846cb16239990eee38c6c0e205f3e6cae0ed2507f72fea2",
-      "url": "f1/4b/d4b5c7784fa0b71f9d0462f8919e9cb4608cbfd26fef3dbeae59ac074e19/ogame-0.6.tar.gz"
-    },
-    "0.7": {
-      "sha256": "e999a7384c4bb9c58d39a10672fc4f13718470f5f59e4304ecc699c94d6a068a",
-      "url": "0f/16/f00196b5e74fc35d2865e5d6946ce27677b2044016040e7ba25d82bde7ac/ogame-0.7.tar.gz"
-    },
-    "0.8": {
-      "sha256": "f8114eef98d8ba479bf416c632d138c5fa497e94c0354ed091775e40f3cdb1fe",
-      "url": "50/f1/ee87487c7602962390168296cd53945eb62165abd4b05900797634b84919/ogame-0.8.tar.gz"
-    },
-    "0.9": {
-      "sha256": "d97d1419201777282564c9f3d3c43a43a094f1dd094d514669d4e66c1d830e0e",
-      "url": "76/41/efb7dc87a512da246a2540de31235ef0c8786201ceb52a1d1b6030657b3b/ogame-0.9.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "ed43b69afd86ad8e485ce2e20d2af2784314be6294c8da7c6747d43c9d9a6d7b",
-      "url": "4b/f2/d51df43f59a64ae625f65ab4ee771ebf891b4f388c66444dd69c3b071e82/ogame-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "3b69dad53ef56f0381d0929903a8589fceee5dc658429afcff7496a5e37b3c58",
-      "url": "26/23/c3895b8bdd4f955dbb72c0cba79421fadbaabc59cf1c03b7cf5ca818a311/ogame-1.0.1.tar.gz"
-    },
-    "1.0.10": {
-      "sha256": "052b750c2b68f94f98606fb5faa7a0e86d4404f078d4bad35d986b8063e313a5",
-      "url": "48/ad/aab9f7524043cb9cdbe0f103c3ce7a76da96a2c9569593ff5cd2e473d060/ogame-1.0.10.tar.gz"
-    },
-    "1.0.11": {
-      "sha256": "c20e00bfa22e62809191afe042a8b64db9527a544c072f45770978a0a70a6ae6",
-      "url": "9f/3e/a0968175ba640664756b3de3753b7da0222e6688abf539faffad101f887d/ogame-1.0.11.tar.gz"
-    },
-    "1.0.2": {
-      "sha256": "810747177e9bb71b229df2ee7af6b1722c3b19798fab93f20ac2d2f1a8d01b2b",
-      "url": "a3/57/e92590929b8bc92fb4095cc69007eb7ecc79a5b4cfb5f9c218b815f48c91/ogame-1.0.2.tar.gz"
-    },
-    "1.0.3": {
-      "sha256": "e4c01df50990f2cc038deeff4db08bd576620db8ed14d4b9008773482025b202",
-      "url": "6d/71/ea07b357d87e2fe1b5f71bb8e463b2eaa6a7363486e7bb27c2220473ff78/ogame-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "428849a9237e21f98dc7fe469724409512d129801eeb198aa052e1652768fee7",
-      "url": "fe/f1/e44f5c348c598340bd1f54647897b8eaa7d1c92547e86ec35ddd7cc2956b/ogame-1.0.4.tar.gz"
-    },
-    "1.0.5": {
-      "sha256": "463e889ca9c2b2579631d535599dce453fe0a61e986c56106b7fdc0f43c1ef60",
-      "url": "f4/f9/5b9fed61d70c481a5239a21480dff386a01e88d4d09e001e03611f4ede6a/ogame-1.0.5.tar.gz"
-    },
-    "1.0.6": {
-      "sha256": "b569ec69e64918d2c38dd7721b5b6536dacd455cdb2e1664490b30a4c271bca4",
-      "url": "e8/1b/5a06cfdbcfb08be290a475f3252e90a61b220418313f3bdacc079d854116/ogame-1.0.6.tar.gz"
-    },
-    "1.0.7": {
-      "sha256": "0e463aa6e52c3ebd1e902e1fa66cd6be2188eaea4bf791e7b3fdeeead926cb6b",
-      "url": "e9/a9/72a5dc1a0fea96a1987298f98d6056f4220559fbb611c821724c904db8da/ogame-1.0.7.tar.gz"
-    },
-    "1.0.8": {
-      "sha256": "dada9edf12376dbdea42dbb9ec981b4a50013bf87d49315bf9c8d6b2db1b0f9b",
-      "url": "a6/be/276f4be24ff85e3f98db89273bac3387a38612768d687f55adf430268ceb/ogame-1.0.8.tar.gz"
-    },
-    "1.0.9": {
-      "sha256": "e17571baf655d2204b556024360764afbde13fe2fdd5112f96dba045a36ad4b2",
-      "url": "85/38/6bc5a3b5facaabb74bfe4b7c284666f49bad08c89fd79c4ae8f22df062b1/ogame-1.0.9.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "53785dec20ba4e7aa8d1ec2d2042eed1a15271127f1fc1cb9168459b9478dfc6",
-      "url": "47/62/efe9bcd6d9e11fdface0916ba2e9c7c730c479d39d5efa95b4e451ac1161/ogame-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "2b788bddd8da6ad588ed365fea14f55528098c361828069c929e4a8f196fa165",
-      "url": "7f/b5/69a6a0749de3f44261d720706961739390a027791ebab073cdaefb30b832/ogame-1.1.1.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "f98e6775d375b7d31517d0f9658d245aec836e3e4d313ea05106aa33e9c18fea",
-      "url": "b6/0f/9e78a14f213b786891f5d92a25c14c873db264e3e7917786e3eeb6d5628f/ogame-1.1.2.tar.gz"
-    },
-    "1.1.4": {
-      "sha256": "eba8c192f1bbaa68f42482faefc3fc8d8975dd697f7946a8a23f4e744d7722ba",
-      "url": "3e/94/a3a3bdec5ca89ab78380f4049e9ca203d3cdd48e010c1db64fd094915b23/ogame-1.1.4.tar.gz"
-    },
-    "1.1.5": {
-      "sha256": "14eb15ebdda2803b4290a5fa2c389a2fc690be20cb1b12cb36599eafa238cb96",
-      "url": "cf/a3/be222589178bf042dff72da95a4c4191473564dd19f5c43706b20854f871/ogame-1.1.5.tar.gz"
-    },
-    "1.1.6": {
-      "sha256": "bffe9b02390e1ef8d81244bf279a96005cabaf7aee5de03b05a1455711545849",
-      "url": "7d/00/36f9ed61258e3c470b74e69cfd86ba7d2016e2a81670f59d8df03ace6c53/ogame-1.1.6.tar.gz"
-    },
-    "1.1.7": {
-      "sha256": "c211bb6fe303197c363ad764e74e05b36639f25d7804f15623e954f134b15123",
-      "url": "28/65/7a98557640140f974c2d11969e6c5d1b43c30f1b3be587c18956bd2db572/ogame-1.1.7.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "7844d9fc293b6c92831e14100043995e890534e1773bfa41613f0f436681d12b",
-      "url": "f5/1a/a04e75ccbc823757d76955c4fe8b1a5e8221686dffcd2de89638a3f98752/ogame-1.2.0.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "2e8338854edc7cd7b6af11505c49320edc4e1bbe42cb0b438fc6b1160a379e08",
-      "url": "e0/9c/568c955052616e765e4ee40f08917bd7bc45a35380427cfbcce500598d9b/ogame-1.2.1.tar.gz"
-    },
-    "1.2.3": {
-      "sha256": "3f0ddc22cfde1636fcd41333334585b02235341b69d963d08cf0570e2fe0f9c2",
-      "url": "ec/4e/d86eb89e3f5ac0a9990a883e4d6bd2b520aee0546f9dd551ea735b8e50b4/ogame-1.2.3.tar.gz"
-    },
-    "1.2.4": {
-      "sha256": "9cee77b381f7c2569a60c254d652715f35e06e4d876805b56522d3c7f07424b9",
-      "url": "69/39/2c2a97ae9c9b910478ae546486902a3f9ae7d78144efd9569547db3157a4/ogame-1.2.4.tar.gz"
-    },
-    "1.2.5": {
-      "sha256": "d408807562cc8ed1de0e8e79d1608ef08d5d9d6b18829538f47ed60be83f6d10",
-      "url": "03/88/cf6ac495ef3c925a3824936e6fc6f7582f7227c1d18dd052e37b807161d7/ogame-1.2.5.tar.gz"
-    },
-    "1.2.6": {
-      "sha256": "b0dabafd3959bb719eb2b86337ac16a7d5b47ff22d62c47474f127ada01d0956",
-      "url": "30/30/d9ce5e4d4b532ac99cac49eb1aec580a7cb98cf4d4c118e5223302d991ef/ogame-1.2.6.tar.gz"
-    },
-    "1.2.7": {
-      "sha256": "87b0e3291e3b901b8b34450f7cbd0f082670c309640e2b3b639211f685857668",
-      "url": "aa/cf/657293478e13d6982db48e4ca42ad2fe4d952b7cecacbf3c433ba3ed26b7/ogame-1.2.7.tar.gz"
-    },
-    "1.3.0": {
-      "sha256": "55830e9e3b3072a97544f35090ab789723c298ad664fe2f6f08cea37dbc6ce9b",
-      "url": "36/6f/154d141962be69763e461188c752c9c44bb2c69a381c2323dfbe969d2950/ogame-1.3.0.tar.gz"
-    },
-    "7.2.1.12": {
-      "sha256": "68471c3dfc715f0a48a6dfbe1bed4930c2bf7af929bb316c339d24e02a8d003e",
-      "url": "02/73/ef0ec7f06a90210a1be5eeaff3c97a0e5b64cbc6954cbd3c30aba4e55aa7/ogame-7.2.1.12.tar.gz"
-    }
-  },
   "okycmd": {
     "0.8": {
       "sha256": "3c0e01fecc4f15a96582fb7eee6fb247018cf1f1f5f7f24f39a10f695eb63d59",
@@ -14663,344 +14503,6 @@
     "0.1.6": {
       "sha256": "31549751684ac549f56cb9c500ae6f5a6530b11d4fbdd07378961252c1eda622",
       "url": "f5/7b/fea1766fcdc91629e0afcb503b05262ce8b30088c8e9ebf867b962f32767/pannenkoek-0.1.6.tar.gz"
-    }
-  },
-  "pantsbuild.pants.contrib.errorprone": {
-    "1.3.0": {
-      "sha256": "9501388b023c0c130c5adb99bb570666fad569d00926f8d4d145ab95f5705e89",
-      "url": "91/f7/b702c89a9d829600305654eb65d61c300e732b5d68ad44a147d175b2f956/pantsbuild.pants.contrib.errorprone-1.3.0.tar.gz"
-    },
-    "1.3.0.dev10": {
-      "sha256": "24f419e967b301ea9494c97008c8de6911ecdec29356eac543b368604d20c76d",
-      "url": "0a/2b/62687de9bb1e53d3558888684f0862126a53cce03600528f80b0b3ab49c9/pantsbuild.pants.contrib.errorprone-1.3.0.dev10.tar.gz"
-    },
-    "1.3.0.dev11": {
-      "sha256": "e34ad562853b22246cb2637c3c47b634a00bd803272a1dd00a7abc3092c7171d",
-      "url": "98/ea/5ccbe06f58b4a95ec8f14ba46606eff2579d71e3ccbaeb91c6d40f80ae29/pantsbuild.pants.contrib.errorprone-1.3.0.dev11.tar.gz"
-    },
-    "1.3.0.dev12": {
-      "sha256": "d4f39fb69469af1c4313e61da47c27c07233b5e532749e0646b71929f009e22f",
-      "url": "5c/c3/efce26fe244d8929e4e77b6c6a5fd4bb53221ffde8b8f7c62919d00718f2/pantsbuild.pants.contrib.errorprone-1.3.0.dev12.tar.gz"
-    },
-    "1.3.0.dev13": {
-      "sha256": "f8aac59157c3fc3b0aaba69c4740cbc1e11d48d68083560ded0be43a5e7e8a1b",
-      "url": "44/a8/63888f057dcda3f33236d0699155f01f5d682c89970aa035d05c8a2ba4e4/pantsbuild.pants.contrib.errorprone-1.3.0.dev13.tar.gz"
-    },
-    "1.3.0.dev14": {
-      "sha256": "35758c207b4bcbd1d6416f39712079374cf81148fcc7aba16b5aefd80d0a6959",
-      "url": "46/1e/2d86af986cb294a5ec7ba342aa3f13fcdd9d0761937f50a19129b49c2b28/pantsbuild.pants.contrib.errorprone-1.3.0.dev14.tar.gz"
-    },
-    "1.3.0.dev15": {
-      "sha256": "61f946db29a88334d88ac298331c47c6dee734250e3da5bb789133438bfa06ef",
-      "url": "90/e4/d926a865ac0ea125367f65eba8cfc4fe07b84a1d4cd5157a2f9680652203/pantsbuild.pants.contrib.errorprone-1.3.0.dev15.tar.gz"
-    },
-    "1.3.0.dev16": {
-      "sha256": "76bb9ef5c1fd7edadf9f62094f466065c245b6350a2a239db2208245d0dcbacd",
-      "url": "db/4f/689febb91c8896ee1e14e7e167b34a2431dfdd97904d1ac9724e172553f1/pantsbuild.pants.contrib.errorprone-1.3.0.dev16.tar.gz"
-    },
-    "1.3.0.dev17": {
-      "sha256": "da2d30ac4cb7db7f789c60c206b53af80c0b266c7bd9943c9237a832211ea592",
-      "url": "82/11/0b6884b425bd349887e4beab27c2a6696da20aaabd9ee283f3a9f4d7ad5b/pantsbuild.pants.contrib.errorprone-1.3.0.dev17.tar.gz"
-    },
-    "1.3.0.dev18": {
-      "sha256": "fa224efec7d9749d14f9435d5185333f696d9d286a54107123d74b94f01ff3af",
-      "url": "04/19/25fd88975e6fe376572c4ac2d44ee743cd46b7586f8e745b0e32023076fd/pantsbuild.pants.contrib.errorprone-1.3.0.dev18.tar.gz"
-    },
-    "1.3.0.dev19": {
-      "sha256": "390eda9985d81e6373d6dc475566962cd8887f1bf227e39c5f5b7e6708019c5c",
-      "url": "05/48/9e11b6a8fecff1ec9bee44dc2e32a23f255cf469f76785bdb7719cdc653c/pantsbuild.pants.contrib.errorprone-1.3.0.dev19.tar.gz"
-    },
-    "1.3.0.dev7": {
-      "sha256": "8ce14de80edb2cb1557229387ef42b08e22bd371dbedd196b0e3dfb2898b861c",
-      "url": "25/76/f55c981bff0176a8a91fa58d37d64c0e5182e41b4967fa293c52bcee11d5/pantsbuild.pants.contrib.errorprone-1.3.0.dev7.tar.gz"
-    },
-    "1.3.0.dev8": {
-      "sha256": "64ff056525045c807059d772c2ab6159b90fa09d25920807a522bba6bedea5ed",
-      "url": "07/06/7594e5ce12e66d39ac9a78f7f902c0f7d6e9c647b8ebc2c737edeae73a15/pantsbuild.pants.contrib.errorprone-1.3.0.dev8.tar.gz"
-    },
-    "1.3.0.dev9": {
-      "sha256": "b5361cb6a66dcb19ec3e064ada2e60cfae85de6099f840e05f4c0d9c5b874ea2",
-      "url": "2d/bd/6209398773c71fc6f16e52a87d5a0bb71fed08e2aaa3a7c4ccc993faf7b1/pantsbuild.pants.contrib.errorprone-1.3.0.dev9.tar.gz"
-    },
-    "1.3.0rc0": {
-      "sha256": "3ee2add4086d1eb5eeb8a0907b28176e54e5e9542e190750da1d8276ec610724",
-      "url": "d4/cf/ff49aa424e823e334e4cf179f93ef959218d7840e4924abe40c373856726/pantsbuild.pants.contrib.errorprone-1.3.0rc0.tar.gz"
-    },
-    "1.3.0rc1": {
-      "sha256": "f0371a5545c74d71116974dede09a901ad8ae8021c943a8c9e5446b669941c72",
-      "url": "83/72/3404a6afcd60d4395042d21641249cec5b2369f1fe57a2db74eb804f87e5/pantsbuild.pants.contrib.errorprone-1.3.0rc1.tar.gz"
-    },
-    "1.3.0rc2": {
-      "sha256": "6979860e15bbaa2858ceaf2c22540acc87daca68250f902f5bfe4eb13123ed46",
-      "url": "7b/7b/702340ffab37177f0f1c0232f887aa48072ccde9107e861a5ee7bfe68b91/pantsbuild.pants.contrib.errorprone-1.3.0rc2.tar.gz"
-    },
-    "1.3.0rc3": {
-      "sha256": "cacd7de153bd7321832ea8efc4ff0aec7027a4257709a63a4c318a7d154b6104",
-      "url": "29/2c/034dbbd60f6eb031b138c83b035dc94a64cfcc88ac10ba7d1f407ee0c008/pantsbuild.pants.contrib.errorprone-1.3.0rc3.tar.gz"
-    },
-    "1.3.0rc4": {
-      "sha256": "877fe258518877fce0d1f3e1399aa08bbaa8df07fa30771c50021f27ac95479f",
-      "url": "b8/af/82c233dddea8233f8a48a1402492001c8c8815ca224d15af4009fb69fac4/pantsbuild.pants.contrib.errorprone-1.3.0rc4.tar.gz"
-    },
-    "1.3.1rc0": {
-      "sha256": "5b848dce7e842daa3c50dd19ab6f86c2ec6fc7424018361d6d8218e0de5b9b58",
-      "url": "f2/32/c8121047027a045a086906d0f030aac55bad8b45396c32f5d0692efe05a5/pantsbuild.pants.contrib.errorprone-1.3.1rc0.tar.gz"
-    },
-    "1.3.1rc1": {
-      "sha256": "725f219e05aa05a70789c3a0752a8c12f081909a23a1a67177359b481a7cc3d0",
-      "url": "92/21/04af5448916540cf9dc32a4b90c15ce5d8807687bf2c342e930d66b5b17c/pantsbuild.pants.contrib.errorprone-1.3.1rc1.tar.gz"
-    },
-    "1.3.1rc2": {
-      "sha256": "3f0f0658970032bf9b1b7ea149f6e3792320871656037f51a62ae9826ed1e3c3",
-      "url": "59/47/e2b63e0d73a35aca1a61eb7d8f9c7680fbe4611a35a40e4d91e9a65a8e03/pantsbuild.pants.contrib.errorprone-1.3.1rc2.tar.gz"
-    },
-    "1.4.0": {
-      "sha256": "bc4d6076bebf8cc794ee0150d23aeba2b25d5a1d237a6184f3e1b0a4693900e0",
-      "url": "f4/f0/d7873310f35f6ebb59695b5afb9811ad7e5f28575ba436c8b30aeb70b021/pantsbuild.pants.contrib.errorprone-1.4.0.tar.gz"
-    },
-    "1.4.0.dev0": {
-      "sha256": "c3ee7a2f526bdd04eaaadc9129fd286c6f6829b8285b98de6d3ea1dfeb992f82",
-      "url": "14/22/891b56ef693b9f9a3bf12199375240ec5b8c632cebf02a28551dad996aca/pantsbuild.pants.contrib.errorprone-1.4.0.dev0.tar.gz"
-    },
-    "1.4.0.dev1": {
-      "sha256": "0fcdcb6cd8ed7ff45e61bfc73f4b376cfa1724435d876365f005dd5f2aa746bc",
-      "url": "84/67/cafc7727d85d7b14dd1c7f4d3a65460616662f42a176d9eaa4be497c51d1/pantsbuild.pants.contrib.errorprone-1.4.0.dev1.tar.gz"
-    },
-    "1.4.0.dev10": {
-      "sha256": "f9bac821f07217873eeaa15612fec9fc659a304433cbfdb8d3f484d7615c3ada",
-      "url": "3b/c6/42d1d710b17ac27f78dd1c6c0f34296218ffe92187ea1971cb80589074a4/pantsbuild.pants.contrib.errorprone-1.4.0.dev10.tar.gz"
-    },
-    "1.4.0.dev11": {
-      "sha256": "9b9ef5f274b3ea2e672c674c616883b05e1238eb2d3423ab96a2aeadd9d7badc",
-      "url": "83/0b/4cf2ef9f00a25d8a9af82dabd0f2bbb099c9072da84fe4448df320b9c2a1/pantsbuild.pants.contrib.errorprone-1.4.0.dev11.tar.gz"
-    },
-    "1.4.0.dev12": {
-      "sha256": "0823d745c612f36a5a02574f747f670892142046415852c25b957f90f84e1941",
-      "url": "16/99/727faabd1e43e955ba5731cf65da19dcf2824e7ded5ed1a90e13775cabc5/pantsbuild.pants.contrib.errorprone-1.4.0.dev12.tar.gz"
-    },
-    "1.4.0.dev13": {
-      "sha256": "f220e1a6d938938dc3e4afb7d080a011bcbfff801ebdd14ae844aa4531390af3",
-      "url": "6a/8f/c9b08b19392841eb60481cdbddb1edd814d7bcbe8efd38851d119016b889/pantsbuild.pants.contrib.errorprone-1.4.0.dev13.tar.gz"
-    },
-    "1.4.0.dev14": {
-      "sha256": "c51f5d6eaa43458084ed69713a28f8a54d1d8cda642ae7442fe16ab1690d5ef3",
-      "url": "f0/ab/1013826c8b5084f848a723aa49bfcbe64475f1e001b0fbcbd52d385d5fe9/pantsbuild.pants.contrib.errorprone-1.4.0.dev14.tar.gz"
-    },
-    "1.4.0.dev15": {
-      "sha256": "1363c5c4b78388dad648c0a08b011e2abcd9feff8c8a60a67388dfd117b115c7",
-      "url": "1f/cd/65a07701032c7b094deccb940a32b3d7df57338ab658456d7a5a5636bd37/pantsbuild.pants.contrib.errorprone-1.4.0.dev15.tar.gz"
-    },
-    "1.4.0.dev16": {
-      "sha256": "f6301f0918a7a60f7396bd67b81f03ee431e17df697573d5138b80ef4702495c",
-      "url": "67/70/c9c9dd678827d20c9d6995d20b1d8f1ebbcf973651d1775a7e9649e04e94/pantsbuild.pants.contrib.errorprone-1.4.0.dev16.tar.gz"
-    },
-    "1.4.0.dev18": {
-      "sha256": "4c08c0ccd98fc661342d52aa4a75d6b8d24ec86a9d5aae346712d688ed1660cd",
-      "url": "47/20/84e68d1ea66fc8ebe0c440cf4aedb678ebe0ccdfe2bf038f7d9c07395b28/pantsbuild.pants.contrib.errorprone-1.4.0.dev18.tar.gz"
-    },
-    "1.4.0.dev19": {
-      "sha256": "51e3dee73facc28db06645900e62c0596a08e6cce0ed4a6c8cb4249cd6da73bc",
-      "url": "8b/8e/061997e588123bfa65389a1d60eac064bba78338f3525d4f53a2b9313973/pantsbuild.pants.contrib.errorprone-1.4.0.dev19.tar.gz"
-    },
-    "1.4.0.dev2": {
-      "sha256": "dbbf06f51f8034eb6e4547d480e0e267ab0cf4d62ace7ad73aecd8e0fcee92bd",
-      "url": "a9/2a/83304888cc40b03e7bf8babf0aefa057493d6312a95c3a6397279899a716/pantsbuild.pants.contrib.errorprone-1.4.0.dev2.tar.gz"
-    },
-    "1.4.0.dev20": {
-      "sha256": "ce30b81277d2b51610bcee0bc2cd549b32e4006344d80389352d3dda2c3dd100",
-      "url": "28/0e/276467947c91c51926254ee3f3798ca7213f509b9d4301a9dd5de6407efd/pantsbuild.pants.contrib.errorprone-1.4.0.dev20.tar.gz"
-    },
-    "1.4.0.dev22": {
-      "sha256": "112947e58faa2d09dad5b1c5693d178adec47b52bcfd99786c92783587a8e23c",
-      "url": "33/9c/5fb74a77f02876152303d9763a52bb8f080f0355bb7d7fbc1e7e8203c418/pantsbuild.pants.contrib.errorprone-1.4.0.dev22.tar.gz"
-    },
-    "1.4.0.dev23": {
-      "sha256": "13069ad91d67cec1f8c0eef0ca83963e58b9d204134494340e75c8cf42ccbc60",
-      "url": "25/fd/042c3792741371ad89806fb9fa9e9cd836689f055d8139c518eb7cf3bee6/pantsbuild.pants.contrib.errorprone-1.4.0.dev23.tar.gz"
-    },
-    "1.4.0.dev24": {
-      "sha256": "baedb5487e35a44ebf4ab4317c031409c82a46c4edba22fd641d132dc6dcfc42",
-      "url": "9c/d4/8b9495a97c7d26f8599006f4ca397bc50612e160591572a9bd5dd8caacc6/pantsbuild.pants.contrib.errorprone-1.4.0.dev24.tar.gz"
-    },
-    "1.4.0.dev25": {
-      "sha256": "0cc471bdff7f2932c1d8e1a3ac7f268e7eddbad7fe98f733c8157d3014646d39",
-      "url": "0a/d6/ff01a06c0e9984a532c7e19c4989967ae6297af996cbcc8a0cdec75503e4/pantsbuild.pants.contrib.errorprone-1.4.0.dev25.tar.gz"
-    },
-    "1.4.0.dev26": {
-      "sha256": "e5f92b64ed630d928d1d3045efc3497cbdc4b0a7b0d3f52831403a61e6035b4a",
-      "url": "fe/1f/a45c9b07a3488c2d5e755cdc20508c7bf3e4c325a589a3bd7d6395a6d87b/pantsbuild.pants.contrib.errorprone-1.4.0.dev26.tar.gz"
-    },
-    "1.4.0.dev27": {
-      "sha256": "7739a8368c16d32f8f6956f6ea9d0b13644ae29c9f4b527ca6d5346c8e8ee413",
-      "url": "ec/ca/6acd850a44a8a0162c9361ebce742cb028e3861e40c3b53c60b758be1922/pantsbuild.pants.contrib.errorprone-1.4.0.dev27.tar.gz"
-    },
-    "1.4.0.dev3": {
-      "sha256": "a4e4efded26ca8375f3ee0756c1d13841243144cefa8328a035d332ce6938cef",
-      "url": "cd/fb/e607d3412aecf1091235037dc55003dafe72b325d9e13c5914c249a5ef4e/pantsbuild.pants.contrib.errorprone-1.4.0.dev3.tar.gz"
-    },
-    "1.4.0.dev4": {
-      "sha256": "26c043cca857cb56d274a5ec58bb67f54a15349ec8cf464064177211815c0414",
-      "url": "26/c4/7054ded3a5c4c7e8287035343804fa96916bd6508f8aa9d0bebc8d5ddd0d/pantsbuild.pants.contrib.errorprone-1.4.0.dev4.tar.gz"
-    },
-    "1.4.0.dev5": {
-      "sha256": "e9cc1ca2901064e6418ea9b35fe069b12a312913cec12f795a0b50f702815533",
-      "url": "8c/2d/deb895a6388741732c299c08d1e2c57f0c4d8a23ae0a6ce6b73df2031ed3/pantsbuild.pants.contrib.errorprone-1.4.0.dev5.tar.gz"
-    },
-    "1.4.0.dev6": {
-      "sha256": "98344b51dada770e34bf5cbce4eb3749edc381b773f9f2072714e92552138eb3",
-      "url": "93/ea/fb960d27c712b158661005c16269d3b40dca1f14b9ae547425fb43e453e9/pantsbuild.pants.contrib.errorprone-1.4.0.dev6.tar.gz"
-    },
-    "1.4.0.dev7": {
-      "sha256": "b3bd6d2e6d741be63c14e12bb61f924db31864380f0b0c5d5d421c6c2de17bc3",
-      "url": "2a/88/425bd7d871806cfbc006044623ddad2e9357669dc829d5bbf812e637fcb1/pantsbuild.pants.contrib.errorprone-1.4.0.dev7.tar.gz"
-    },
-    "1.4.0.dev8": {
-      "sha256": "a71cae0d86b32e0308e3caa2025386882f8bafd3baf909a6f24cb774b7235b74",
-      "url": "6a/60/c2f57489c8514fc123f8284ac5c582285f1954d851f19a2427816492f38f/pantsbuild.pants.contrib.errorprone-1.4.0.dev8.tar.gz"
-    },
-    "1.4.0.dev9": {
-      "sha256": "7bf962aea999d4c12a652ba52893b52fbd9912ca87d5e069d05a04c2c32ce045",
-      "url": "2d/ee/b06533c1f427fb4f922088923a84b4f9aa6a72fb9a2420bc5ac6122b5c3d/pantsbuild.pants.contrib.errorprone-1.4.0.dev9.tar.gz"
-    },
-    "1.4.0rc0": {
-      "sha256": "eaa96aae51e21c089d25a2c1a4697dca69d66adbdadc5b0faff254f1ff8a7b35",
-      "url": "89/4f/f4d08dc4bb858b186c40a4178ea3c52aa002b196c098db2166a725ca8683/pantsbuild.pants.contrib.errorprone-1.4.0rc0.tar.gz"
-    },
-    "1.4.0rc1": {
-      "sha256": "88ffb702b1170321f7e062dbd54cc352280e725be5f7d65d9ea1ceb6ee81d98c",
-      "url": "8c/9c/0d03ec85a40f58687d7987ebf1b84ea6d3c78847e5f88120add38c5551d8/pantsbuild.pants.contrib.errorprone-1.4.0rc1.tar.gz"
-    },
-    "1.4.0rc2": {
-      "sha256": "0fe55379de2b0f07dac7ece105e1736b919fe14eef859f000d399f31990bfc11",
-      "url": "37/3e/a82c346f9bc787ee1d395df4d175b05a0fbc3913525de5ecb9c23ee0a703/pantsbuild.pants.contrib.errorprone-1.4.0rc2.tar.gz"
-    },
-    "1.4.0rc3": {
-      "sha256": "941546450222aeeb843b2944de00ee97a77964ab01da1c5cf6de206d95288d64",
-      "url": "ad/54/d624662486e3d4d15373ef97dda6a3318c575ab5a4fdb1861bbdad0fa277/pantsbuild.pants.contrib.errorprone-1.4.0rc3.tar.gz"
-    },
-    "1.4.0rc4": {
-      "sha256": "bd2b0b54a8863b450dd60fae1b1d894941c71899eb34a93f93e4708745365c3e",
-      "url": "fa/ac/61d7e222b6b2f81f48652594f1a7584599b604512482c3eff2c9b34adcee/pantsbuild.pants.contrib.errorprone-1.4.0rc4.tar.gz"
-    },
-    "1.4.0rc5": {
-      "sha256": "b41650daed668128640d0285a58fa133eb80c0fc7ccf7f817a0563a4911ddea5",
-      "url": "9a/e8/d7a824c21eca2f13b029b33f29ddde5e571ebe10085986ffd862a892ff2e/pantsbuild.pants.contrib.errorprone-1.4.0rc5.tar.gz"
-    },
-    "1.5.0": {
-      "sha256": "e9698a73cfd94fbf858f1c8ec0d71ca365e21d50a53fcaa2459e6d7211405d1d",
-      "url": "5d/7b/0466331b109718ac169c297f38010dbf322c83a4c4e68d53efb5122dd49d/pantsbuild.pants.contrib.errorprone-1.5.0.tar.gz"
-    },
-    "1.5.0.dev0": {
-      "sha256": "5ee9c0346a86fe3f5f91a5c828ecffd0fb95569213581c01108e7f3903f81342",
-      "url": "2c/e8/9d1fc19c2fc69f04ce6423a466584b3c5082ba89bf9a25f31edd57863c04/pantsbuild.pants.contrib.errorprone-1.5.0.dev0.tar.gz"
-    },
-    "1.5.0.dev1": {
-      "sha256": "39c7f6764fe7795cde4f329256458358984db60a3bd19e2244de6ffb1ba235f0",
-      "url": "15/e2/e86e44480385d63638970eacc9cbfd072a44a34f80590f8bb648f311986a/pantsbuild.pants.contrib.errorprone-1.5.0.dev1.tar.gz"
-    },
-    "1.5.0.dev2": {
-      "sha256": "8dccae5926a777f2566774e5908cfb274ed9e00d36d0d7b83d23047631e6b9a5",
-      "url": "f6/a1/73b1fcf6eb749280266c47a5920a0d246696dabbed8fa663a11447777f27/pantsbuild.pants.contrib.errorprone-1.5.0.dev2.tar.gz"
-    },
-    "1.5.0.dev3": {
-      "sha256": "b82951e78c0c595114a16f4d4a5de49ff954ca712ca3a30d6bc2d2e870a6fa51",
-      "url": "6a/e4/6a697a845077b0904c341710a46c6267f3b4d4bd54733a627cb65671a39f/pantsbuild.pants.contrib.errorprone-1.5.0.dev3.tar.gz"
-    },
-    "1.5.0.dev4": {
-      "sha256": "4058020a6c1f3471ef396ae43c5d00ba5ff63ccb0d496124ec269c1ca5977a59",
-      "url": "7f/e7/04159401b90d70a5d01c7bb7c7c8c595277e8a3c57dea59bb1424eb47c32/pantsbuild.pants.contrib.errorprone-1.5.0.dev4.tar.gz"
-    },
-    "1.5.0.dev5": {
-      "sha256": "22aba3bc0eae2d7817f5a89f72f4b1485842be2b4fc8197a389f1567ea3ba59c",
-      "url": "1f/3a/c2c87b45fb11330f05f507598c1290915ba7fcf2a55c13b7a1245b6e6280/pantsbuild.pants.contrib.errorprone-1.5.0.dev5.tar.gz"
-    },
-    "1.5.0rc0": {
-      "sha256": "e87cace38169b58677721e5f77341cf74b262ba27ae18718ff6425e6ce6bb751",
-      "url": "a6/30/047b84800b294fac29e0e34646f5296dfd745e44d5e9a9cb9922e3bd9ce2/pantsbuild.pants.contrib.errorprone-1.5.0rc0.tar.gz"
-    },
-    "1.5.0rc1": {
-      "sha256": "030b39cff4d2e5013013432a25dc2d7ae8fdebfc59d93972bfb6a55f37d16519",
-      "url": "34/69/12798be2d35585b4817853a4e4eff91450eacb9b722c25d192a0132b5985/pantsbuild.pants.contrib.errorprone-1.5.0rc1.tar.gz"
-    },
-    "1.5.1rc0": {
-      "sha256": "876a03d67ee33f19b665e1c0054034ffe33529171c5270b8fd2fe2795cfbab19",
-      "url": "cf/fa/cd1e91c0291128bc3b93bd6417aff3e4ed9fce7112bf88371a475f7ee28b/pantsbuild.pants.contrib.errorprone-1.5.1rc0.tar.gz"
-    },
-    "1.5.1rc1": {
-      "sha256": "86b9a5eb0075b48ab13bad0aea2849d70b96b4c1f70d648376f0a4de7e15affd",
-      "url": "3f/e3/0a00491630c3c65e0b825d3fd676ba23d43d4d618e1ec0f6965623cea39e/pantsbuild.pants.contrib.errorprone-1.5.1rc1.tar.gz"
-    },
-    "1.5.1rc2": {
-      "sha256": "dc42e64e8cc286a7f901d38be69a2bc0cddd5f0eaa603351f4d7207f141715c6",
-      "url": "ff/93/a5347613117daf8916166ec0d6704d93ef7e900af9e5a78edb50f2ea3099/pantsbuild.pants.contrib.errorprone-1.5.1rc2.tar.gz"
-    },
-    "1.6.0": {
-      "sha256": "2430c76fdb5691f55eaf967d662e6689e07f932b169170cb87b9177e98b08f84",
-      "url": "dc/b1/3f4012abaf1ae5f574e73b16e3c23ed0508fe8786a805ade9f871b3d467c/pantsbuild.pants.contrib.errorprone-1.6.0.tar.gz"
-    },
-    "1.6.0.dev0": {
-      "sha256": "0b9225e90a5503de1587e1affbe386dc7f30844de8e323664086bd1fd208fd9b",
-      "url": "07/7f/669d118d058d094de5049f33c4ef4725a2bae09f998d8dd9dd5e45c280b9/pantsbuild.pants.contrib.errorprone-1.6.0.dev0.tar.gz"
-    },
-    "1.6.0.dev1": {
-      "sha256": "afbe3257ba4196851cbe2d4a46a3a3b2408c66e2f6799d81a50aaaaf61f8790e",
-      "url": "4e/b3/7a622ebe1d96f4518fd1067ca61cd9e55139882beb6f221837c48ce5444e/pantsbuild.pants.contrib.errorprone-1.6.0.dev1.tar.gz"
-    },
-    "1.6.0.dev2": {
-      "sha256": "daf34edc4c4e3bb1f8060d574ab682eb89bf4c18b16b0aa1f35cabecdd991d69",
-      "url": "44/60/08ddc45a672658e39d8198a58cdb00032200482458546cd480218b545747/pantsbuild.pants.contrib.errorprone-1.6.0.dev2.tar.gz"
-    },
-    "1.6.0rc0": {
-      "sha256": "0cbbc2e1436f1aead11eb19452849de98f2aa4b54685195dee0181578f90ceb3",
-      "url": "e3/ed/0c6878dc38e2da7f87e9300482848e9ed68cb8979d7364184d3d551f3232/pantsbuild.pants.contrib.errorprone-1.6.0rc0.tar.gz"
-    },
-    "1.6.0rc1": {
-      "sha256": "91a413d94800adf88b70955238ede11326fbe93801fa2d8bbd171711e0ebf579",
-      "url": "dd/53/a600a5af8671ccb044c63ed1761b143d928c8c8f827d5bff7c759c9bde4d/pantsbuild.pants.contrib.errorprone-1.6.0rc1.tar.gz"
-    },
-    "1.6.0rc2": {
-      "sha256": "fa4cc88cac9cfadbe9d53af128f949aeb924fd201b2e0c0cff0ea86c29c3a10e",
-      "url": "29/db/0f9ca9e27c4c23022d32e592049c3af7109f4245a444f808cb80395a9ada/pantsbuild.pants.contrib.errorprone-1.6.0rc2.tar.gz"
-    },
-    "1.6.0rc3": {
-      "sha256": "a8147857fbcacba39406c96b1251a271db26b910e5d07e94a6ce7573649709fd",
-      "url": "2a/af/71263f6d468b29c3d19e99a72acfaab53268ed87b2aa190cda466472c10c/pantsbuild.pants.contrib.errorprone-1.6.0rc3.tar.gz"
-    },
-    "1.7.0": {
-      "sha256": "1759b68c1c9c4d4a2f1bbcc07ebaaa0f59d538db7b2015614186b1a855a3f9a7",
-      "url": "72/96/ba4e54226101800d3c1dc89d016d12c1bd313915bdf1da9e45bce37a1267/pantsbuild.pants.contrib.errorprone-1.7.0.tar.gz"
-    },
-    "1.7.0.dev0": {
-      "sha256": "b1873f86b16e25332329f2605924e906402186440049cca783d487ad7e7a5998",
-      "url": "bf/71/a3207f5b2e216def45d08c71c415d818b058da4bd46a1f8cbc9ba10c0e25/pantsbuild.pants.contrib.errorprone-1.7.0.dev0.tar.gz"
-    },
-    "1.7.0.dev1": {
-      "sha256": "ad16a5267e775d8087a6466036d41dbeb712e8615c9ac07c92ded13da2381e5c",
-      "url": "39/88/0ce976d934570eed607fdd2bf9125ddc3c4090dfcf27afa5d99d217e6949/pantsbuild.pants.contrib.errorprone-1.7.0.dev1.tar.gz"
-    },
-    "1.7.0.dev2": {
-      "sha256": "56c49cbe15d57a231fbc4460b9e3080b8058ae2150ba7dcf7a7ea279adf48127",
-      "url": "ac/be/812c32849ed984fac2ba555b37e4d2a12e700b33d495dfe8c2560652a130/pantsbuild.pants.contrib.errorprone-1.7.0.dev2.tar.gz"
-    },
-    "1.7.0rc0": {
-      "sha256": "e9bba1fd7ca5ba2039c79b0c0c98c6348417b81632aaa15ab0d37ca6ea4ca3f2",
-      "url": "ec/48/1da28606acda9e76f7f822f516810cd37e9c5a4f7a0af1056c1dbc1987d1/pantsbuild.pants.contrib.errorprone-1.7.0rc0.tar.gz"
-    },
-    "1.7.0rc1": {
-      "sha256": "cfbc5d5e87f0948faa22a3e705668075dd5fe1abaae0cfdd08e66eaf41976d5a",
-      "url": "0a/79/9765e56d350d512854b485124c62d4f888cf8dd3b1cdcede23344851c6de/pantsbuild.pants.contrib.errorprone-1.7.0rc1.tar.gz"
-    },
-    "1.8.0.dev0": {
-      "sha256": "91f38fa43a08f19a7159613e64e73d42554c0e16675708794171ce812db1c010",
-      "url": "a4/e5/b6af6bb76ffb490e6199ab7fa3d9359febb49eb2146908cfc997b8a6fcea/pantsbuild.pants.contrib.errorprone-1.8.0.dev0.tar.gz"
-    },
-    "1.8.0.dev1": {
-      "sha256": "4c5f76e9b336f78666c694cc80b6a582e1b086c4eeedabee6539399b474f3bec",
-      "url": "b2/0f/4883d64f35b2aa56ebb1bc1867052ee1e446a0816c1c89f2c228621ab888/pantsbuild.pants.contrib.errorprone-1.8.0.dev1.tar.gz"
-    },
-    "1.8.0.dev2": {
-      "sha256": "e5e2da878c2a91fef07467a7ce6f622d502fc138d592ee7686c9e9ae518337af",
-      "url": "2c/7b/243bbde1a0e2e90fba8b757a85f87f88932272ca57ccf8f19101f16a3726/pantsbuild.pants.contrib.errorprone-1.8.0.dev2.tar.gz"
     }
   },
   "particle": {
@@ -16603,6 +16105,10 @@
     "2.1.0a1586941988": {
       "sha256": "39fe754ed601c319b583dd0578a6f54e5ef7ca38bec1dfe253020183aeca05e6",
       "url": "4b/c9/56252f14d00e584cdeba5a97ba18e60107f16d914d392c7960dc0a7de217/pulumi_vault-2.1.0a1586941988.tar.gz"
+    },
+    "2.1.0a1588030010": {
+      "sha256": "3ae2874ef1ffce85b8370bda81d8621a419793c57793edb7e0cc889a8b313b92",
+      "url": "7a/ab/256eb01ee0c2cd4c02dbeb387a34e7b84ffdb42d654c397dfec4ce09ecd1/pulumi_vault-2.1.0a1588030010.tar.gz"
     }
   },
   "pwcnet": {
@@ -18251,6 +17757,18 @@
     "0.0.2": {
       "sha256": "57b3887e968a576a03e666ef8a0750e05e7fbd268416d3f1e0a9eee00e706b2e",
       "url": "c8/b6/2f9f5ddf66fb399ab7be1f80036ec0e36f9d0cb68fd2c3a21c739a27337a/pytest-ansible-playbook-runner-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "b974231e1183e91ccebb90aa9713a3add0e4375ebe4fbdc28429dbbea6068397",
+      "url": "b0/88/ca1881b56a6ba31a1dd7b95a271eba01c7ec0136580d4bf2bd7f65816c5e/pytest-ansible-playbook-runner-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "b1d3a386ef95164c8c4f4c0c9dbaf5c63748da8126ba4900e4625937b34a97d3",
+      "url": "13/6d/9b127a61af38046ebd232cb43be556837889573c27a5ae7cb0c63f631dd1/pytest-ansible-playbook-runner-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "9d02e6f26d2419e39b36630d3755ee53d25d89648f3bc862be1d122825399a67",
+      "url": "06/6a/c36624706d52bb9e5c43e139ca92e7db67d2b0cbc8c0f98baa725ceda9bf/pytest-ansible-playbook-runner-0.0.5.tar.gz"
     }
   },
   "pytest-snapci": {
@@ -22453,12 +21971,6 @@
     "0.0.2": {
       "sha256": "ab9cb572b3a5bd36fa56364897c0b7a520c9e96aa7d3f6b4b8b918e287f67b50",
       "url": "fd/cb/4887fed42e8aa177a6afc1504f441798c679dc9e52468859b5d0121454ef/unicorm-0.0.2.tar.gz"
-    }
-  },
-  "universal-tsdb": {
-    "0.1.1": {
-      "sha256": "261d8e57d04c67e6b759f508b31f2505a9c07aa97067352fc05c4257aa8d8153",
-      "url": "79/28/396d56e846e93b61c540ec0f74daed973671f34dc5610c63b37a44603361/universal_tsdb-0.1.1.tar.gz"
     }
   },
   "unspooler": {

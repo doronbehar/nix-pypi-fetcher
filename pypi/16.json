@@ -6185,6 +6185,10 @@
     "0.5.5": {
       "sha256": "ee0dbdcbf666eee2b037e0c2246f60a0088286b71903f81dc29306c5f9f6abae",
       "url": "97/43/b350a6dc2e35b1be9644097fd589178fea276846e37b27a048882a607625/django-weasyprint-0.5.5.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "edd7b5428040763cdcb3f45b0b9812e1431dc590232d485ee7b370e9bcf30f5b",
+      "url": "7f/e6/0fd69d7f3248a0052ea711967cacea3098f131dbd3ed67dc6c8b2b3b0340/django-weasyprint-0.6.0.tar.gz"
     }
   },
   "djapps": {
@@ -10527,6 +10531,12 @@
     "0.1.105": {
       "sha256": "0aa4f86b5ecfe3b76edaa7f9a7c70bea82ce5ba6b9579a879fb4175eac116e53",
       "url": "a8/b4/c15dba0d52d6e7e1d36105f493edea3c75e1c4f7c0dceff4afa373d7588c/koverj-0.1.105.tar.gz"
+    }
+  },
+  "krakenio3": {
+    "0.1.1": {
+      "sha256": "9566cb162c2c75ff35b2b593df8a1ec53e161abbea1e35553533ca6d8a3e5795",
+      "url": "c0/a3/20b92f1520143933f9eae550ba41aa2a4b3bc82b2b49b2d4c93e0aab357b/krakenio3-0.1.1.tar.gz"
     }
   },
   "kstoolbox": {
@@ -21423,72 +21433,6 @@
     "0.0.1": {
       "sha256": "38390e32d2a85a1b1081273e0777f553b39c0072aada8918ea81efbb0d204ee7",
       "url": "70/de/d10a1a2df5ad6651125b1418cf2972ec3352c3f9f4855c8373e0bf8cfc91/trasa-0.0.1.tar.gz"
-    }
-  },
-  "trio": {
-    "0.0.0": {
-      "sha256": "e69fbcb94a4c52157777ffcd8876d0f98c0e8f19453c21fe2eff9019262baf1e",
-      "url": "10/7b/334e7b044c1f8d852545b0b35b7ef89000d4a3ec774a8ffa986c0a0a5126/trio-0.0.0.tar.gz"
-    },
-    "0.1.0": {
-      "sha256": "38c00fc1adabb62befc195c8090a795ad21468d272645595501b7315d1cdaa2e",
-      "url": "fd/5c/8826d9993220fe7c04c0f93462786da9ebf44e92e904dae3a9e1eb4a3391/trio-0.1.0.tar.gz"
-    },
-    "0.10.0": {
-      "sha256": "d323cc15f6406d15954af91e5e34af2001cc24163fdde29e3f88a227a1b53ab0",
-      "url": "e6/20/37be7b5f47db6a9fbf905b5de5386e5b7193c45d07becb750db6f03cd117/trio-0.10.0.tar.gz"
-    },
-    "0.11.0": {
-      "sha256": "3796774aedbf5be581c68f98c79b565654876de6e9a01c6a95e3ec6cd4e4b4c3",
-      "url": "59/89/6d60b5aef822cf4cdf36a508ee30f13d5addf746472030a95773b5978e4f/trio-0.11.0.tar.gz"
-    },
-    "0.12.0": {
-      "sha256": "b953c6028959455743c683457679a324fe98ad4008369c51127eb24101aac07a",
-      "url": "86/73/64e1f6e743f445fd793ed0dd9688a9b31b0c402b528374b190417d6b0d4d/trio-0.12.0.tar.gz"
-    },
-    "0.12.1": {
-      "sha256": "149a280a4c66ef08d058626e3f48bf979e6e079777d1fc5cae71676586ced672",
-      "url": "21/80/b5720d7d916e4b833444e5d2577d4c4c53d47c9b8230d558f470fb0df3e2/trio-0.12.1.tar.gz"
-    },
-    "0.13.0": {
-      "sha256": "f1cf00054ad974c86d9b7afa187a65d79fd5995340abe01e8e4784d86f4acb30",
-      "url": "37/ee/0fca25ef81784f660f1cbb7c85ce8a7a99268529efb7a68636778e5cf2f5/trio-0.13.0.tar.gz"
-    },
-    "0.14.0": {
-      "sha256": "1945ca68bad54abbacc74d535d8195ab9a056e5809bfb156ac7cfa8a11b9482f",
-      "url": "df/ec/2a46d1c309dac330fba362be808c75a7cd0ff1b6a69aa1b0eccf7abfd9db/trio-0.14.0.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "dd1133cbf649ca4abf26d868485b19e6f368a6d5ddf75b7c178154c900cbb556",
-      "url": "c2/0f/9c435e994419f863538f175f6dfa3041a14eb4681d0f09e8417fb949bf27/trio-0.2.0.tar.gz"
-    },
-    "0.3.0": {
-      "sha256": "d54fcfb12305bbdaa11843efe22c130acdbc72fa7dafb9c5d777051de3fbd72e",
-      "url": "8e/78/5b8db604f67977c5ef1fee97db375da4446dd01563078d69f351cbab592b/trio-0.3.0.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "0496f575ed118eb382346a728971766d54b3a3e39e9825e94d4d513b0fe96145",
-      "url": "30/a7/df0e9d376a0d2e4a0e7c2ecb282242d9d4c1a07a558290e5e6d071546a6d/trio-0.4.0.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "ce0b4f59e2f41af0433247f92ce83116bf356a3c2ab5ca5942cf359a1105b4a8",
-      "url": "37/75/1d0c6f3ab220c54dfde2c2c0b3547f6d275389e18c14aa74dcf86985549b/trio-0.5.0.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "7a80c10b89068950aa649edd4b09a6f56236642c2c2e648b956289d2301fdb9e",
-      "url": "19/fe/4e3b7aa398392433e989df7aa9f1ffdeec978588b499cfb29e2e3546121e/trio-0.6.0.tar.gz"
-    },
-    "0.7.0": {
-      "sha256": "f6249159b62f88e8cca9e46af48fcfbf9e03914bc1a0f67beeaf1369b128c135",
-      "url": "e1/ec/cf93ec61713ed046a3122b64dbe2e320c22a285260adab9d37ffee69c5e7/trio-0.7.0.tar.gz"
-    },
-    "0.8.0": {
-      "sha256": "63f5a7e5efecbba51bdb8c079efb7f57ca16c1c2ffd1dfe90fc98780962beb59",
-      "url": "e1/cb/ddabcabc9ffaa45f89535267f33a22780045c6f9c02dcd725cc7a2b01496/trio-0.8.0.tar.gz"
-    },
-    "0.9.0": {
-      "sha256": "6d905d950dfa1db3fad6b5ef5637c221947123fd2b0e112033fecfc582318c3b",
-      "url": "69/70/d6f23892b898292736febebf4ead13cd0eb4df970dbf3498c7745c682835/trio-0.9.0.tar.gz"
     }
   },
   "trytond-account-dunning-letter": {
