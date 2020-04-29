@@ -1575,16 +1575,6 @@
       "url": "08/db/83b80e700c990c39dfcb9bdd1235b6ab94fe868d5f6e41d23804d3bb1c27/buildtools-1.0.6.tar.gz"
     }
   },
-  "burdock-lab": {
-    "0.0.7a1": {
-      "sha256": "a214b6eb69b8db1ca4dde902a2f158e2df9f1bea85d1e6e0cfe755c965ee3b32",
-      "url": "12/9f/a3257d3de3f3d1217f14a3a66dc10da6a546a0b58bfa55fff6163e4d3186/burdock-lab-0.0.7a1.tar.gz"
-    },
-    "0.0.7a2": {
-      "sha256": "d2e387eddd282db7fe011ac22725c547f6514c31e53de2fea00cda345bb56c41",
-      "url": "5b/4e/622a6a854315a6b1f3f23c23c2f8c37063b756fd50980a461abac91961c5/burdock-lab-0.0.7a2.tar.gz"
-    }
-  },
   "byprice-scraping-tools": {
     "0.0.1": {
       "sha256": "55c0efa5ba8788b5c80cdb5c02780f4aff5f77acfe6fa6e981a198b9ed866041",
@@ -1791,6 +1781,12 @@
     "0.4.4": {
       "sha256": "b02674cfc7a21d2864fc3a27f10118edf5dc229202622a8cb5f674fa9a3beaef",
       "url": "74/c6/0ddf93249d9b18f1ffd8191689203cc183bf3148b222eb639c42eee33939/cateye-0.4.4.tar.gz"
+    }
+  },
+  "celery-rmq": {
+    "0.0.1": {
+      "sha256": "e26b99adff44f3440c4aded3695f7fd8fb1b4481a5806aab4ac82a4940781e1e",
+      "url": "f6/3d/fe2099148e28371c3e0dd62cbe54ad9cb29915fae3e313ed94b53fea8b10/celery-rmq-0.0.1.tar.gz"
     }
   },
   "cerates": {
@@ -7097,6 +7093,10 @@
     "0.0": {
       "sha256": "4ba5162b1081275cd05ba664e755a0f035eea091dba9b115130b08f2ec6f02ba",
       "url": "7e/12/4bdd820c9356815dcfd97662bae415435a4e272513a1c1f78d4f8e77157e/EmuPBk-0.0.tar.gz"
+    },
+    "0.0.1": {
+      "sha256": "b026a3560d97d33b3777a442258df8538b7fc272bef22f28a1a932bd7c607fbe",
+      "url": "ec/fd/e2be1cca92b92b8a7a4139bb17f3fc82adb86916c87f0cb7f42d1b495add/EmuPBk-0.0.1.tar.gz"
     }
   },
   "enconv": {
@@ -8031,6 +8031,10 @@
     "0.6.0": {
       "sha256": "079fefe713e0b011ce1447cced2e3ce066c0d5964cf3e4b372346fe3e931ef1d",
       "url": "95/e1/c0adfba372eb357f169e2721f8deb848cfa71fcea18c2aa17f5e4ca77444/finstmt-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "d085882c2fdf4ae78abb323cca60662c75c8eb58b149339c30c427d2b5a5f70d",
+      "url": "97/b0/20d25ad3553255b1666f404ab8a2b40a85aef80221fb7ba9734e8a3fc9f3/finstmt-0.6.1.tar.gz"
     }
   },
   "firebase-data-converter": {
@@ -8389,32 +8393,6 @@
     "0.7.9": {
       "sha256": "fd7e04b07ac92dde50b68cb48b009925eee258306134b13861d042e4c13db416",
       "url": "98/ed/a3a2d66a7b811d4b48256590a052e12b98962333b35a79b52398e361af7c/flowtool-git-0.7.9.tar.gz"
-    }
-  },
-  "fmmap": {
-    "0.1.0": {
-      "sha256": "733d75be82a2d8beacf2127336a43a186bb6c2e030a150b24c6b70f610b54ef3",
-      "url": "46/54/f089928b0100e82b14f066317f9a964b925b4c1b84788095ddec0cc374be/fmmap-0.1.0.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "38c3c1983af4e21ada0f7dbc79ed09713f984f4dcb7e3bd12cd42d7bf8a07699",
-      "url": "e3/43/7fb66d196dd367924702152820742225189cc37e278f03513c533d943d3e/fmmap-0.2.0.tar.gz"
-    },
-    "0.3.1": {
-      "sha256": "80da8683bc5479679627a1d5abd299783ae160ab45c0a2dfdd34237e3f61ac75",
-      "url": "ef/72/6881163694c605ecc9188e8bd75f2ce7087b3d4f82bb2335617c53c6740c/fmmap-0.3.1.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "1c8d0697b65a1ae07a7232333683ea70458bfdba20586541073839e60e9b552b",
-      "url": "ae/62/4a8991fcc564e9530e5972e47348f83ecf7a31a60287d146df27bc8f5e21/fmmap-0.4.0.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "0f911f15f59c4b40753f262dcda0677fa841f61dc2396f12cad383f902e292aa",
-      "url": "47/1e/3eff1e2107514c2606ad15c7777e9a5409fa0b0b481659e863cb87a7d80f/fmmap-0.5.0.tar.gz"
-    },
-    "1.0.0": {
-      "sha256": "241fb4ab55c40e3fc9f0e9a830f18f5fd6b31e5993b1172820ba3e752c6835ce",
-      "url": "d8/93/1687acb70a26da0a9c49c071b61f1ec3ddc2c4aeb059e92141541625bae5/fmmap-1.0.0.tar.gz"
     }
   },
   "fnx": {
@@ -12655,6 +12633,10 @@
     "0.3.3": {
       "sha256": "f1fe44c3fdc044f20b2779fbd6711d3d5dc6834e44b8f457987dab7e84e38ad9",
       "url": "ca/98/083bdec72bd70af3097d8e110b7e04a840d584bb28fbcb40e4ff8e18efe2/Mopidy-Mowecl-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "b939a73b89bccda7fe768f3b672f96fefafc7d0b0690a23ad04feef2848d9981",
+      "url": "4c/f8/b764a96780e425355e59a81a70e26ba873b14e86c90e98ffede95dc4ab15/Mopidy-Mowecl-0.3.4.tar.gz"
     }
   },
   "mothernature": {
@@ -13317,6 +13299,10 @@
     "1.12.47.0": {
       "sha256": "ae96c587fb382c5927714a44c10a79413161f9ff6942c39fcf60daec5138a2e6",
       "url": "34/b6/d406695ba0865dac96e4b1b8688ebfbba0b44c22739e7a15aee945849743/mypy-boto3-redshift-1.12.47.0.tar.gz"
+    },
+    "1.12.48.0": {
+      "sha256": "986242e9e1e5be1aefd7f17d073e121fc988abff5a61dd7d73a5633192843616",
+      "url": "33/b9/1a0e445e9525cab305e845deb3b1c348ad54844f7e1963174e6b0120afd1/mypy-boto3-redshift-1.12.48.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "435673568be59d23613661f309cc76bd0d54bfca809fb4a3dece4ad86210cbaf",
@@ -19235,6 +19221,10 @@
     "0.3.0rc1": {
       "sha256": "e60a3df52a5bd033c7fa326849d59b31591f0796ccbaaafebbcfaf9719ef02fd",
       "url": "c8/6b/4ba4a35913ccaebc7de41980fcf46646355c5eb0f2ea1f28aab97db284f6/sdap_ingest_manager-0.3.0rc1.tar.gz"
+    },
+    "0.3.0rc2": {
+      "sha256": "d3e67e4b798cb57b0fd8f108d5b92d52820575808742dbf25ad696f66a732cf3",
+      "url": "91/4d/8e626fdc83b802127a36e07ce70da38f2dc40facb4408edb7cf0b6ad191f/sdap_ingest_manager-0.3.0rc2.tar.gz"
     }
   },
   "selector": {

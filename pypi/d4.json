@@ -3295,6 +3295,20 @@
       "url": "15/71/4edf7d2dd440ac6e3c67e6ca0e97004def16e795cb45dcee8e4d6066d3a8/cebdict-2.1.tar.gz"
     }
   },
+  "certbot-dns-tencentcloud": {
+    "1.0.0": {
+      "sha256": "aac171f00fc6618c47915e22e1c5f7fc6ed2bd43190a5f086dc367f37ca0aaf0",
+      "url": "b5/49/ff52a4c4dc157782cf9708db27e62b3990f61048380ae4dd4e84aef7a82e/certbot-dns-tencentcloud-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "c607fcec510a09d65af5d765737bf7d15d137a056f73cd3423d15d934f62966a",
+      "url": "3f/39/b3897f20890b9ab9626260eaed7e00ca506ce0f66e38a8f105152ee403a0/certbot-dns-tencentcloud-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "647407303478e49c17d78cb203de653093b82050deb790b6d959dbb44b431872",
+      "url": "ec/16/e7ac95261e3f7a8a79229b539738a062ba0194fe3c0bf6c66a467d099bf1/certbot-dns-tencentcloud-1.0.2.tar.gz"
+    }
+  },
   "cf-api": {
     "0.1.10": {
       "sha256": "be13c395c0ced4637fda8db9254b9cfe9666c208939022904f0eaf9681252176",
@@ -4907,6 +4921,14 @@
     "0.41.0": {
       "sha256": "c3c70171dff4e52945bdc08924d9e6d61606db3762a5ce03691fcc60c03319db",
       "url": "a2/72/528b937bb80b2cb6363e20aa311f38003477cc7b38c5fd16c1b0c198b042/cwf2neo-0.41.0.tar.gz"
+    },
+    "0.42.0": {
+      "sha256": "83cb4cc1e68add1285694082c4d910b805f6389500f662aaed9eff6446a8d08b",
+      "url": "38/82/622e823425aba55038682e646bd07a7d25c6b232297e948d3682029ddfa5/cwf2neo-0.42.0.tar.gz"
+    },
+    "0.43.0": {
+      "sha256": "06c137ce087cabc9ddff878a4ac18730dad76c779e8228be91d71e917e7f2e8c",
+      "url": "de/57/a79b745cb8f86a3b80e7f5ca6dc5553daf7b924af92f20d51a6b51f64ac9/cwf2neo-0.43.0.tar.gz"
     },
     "0.6.0": {
       "sha256": "4f14f006af0117234e66d3ee9ebed9259d5cedaf6b1e3a1d87c58e5935cf3693",
@@ -10975,6 +10997,10 @@
     "0.8.5": {
       "sha256": "89194fbae714d521ccc045f0781f631cce8b249cab1c69d6353a627d7d10e87e",
       "url": "8f/8f/4eeeeecb340688fd1ec78057877ea24bf5a42bedc3bd872d1a5faf0a5f26/eventsourcing-helpers-0.8.5.tar.gz"
+    },
+    "0.8.6": {
+      "sha256": "97698906dd7936c3177f8494c0443896d146208e3ccb29994f7c8c613d3248ff",
+      "url": "d0/a2/13507b50d9bdee80e98600a20b93e94072ab03a0f7ed26b98a771f92181c/eventsourcing-helpers-0.8.6.tar.gz"
     }
   },
   "evonik-crudl": {
@@ -17154,6 +17180,10 @@
       "sha256": "0d3cedfda0f4b55f73754fddca7718156296ad457008a4ded34b50d4ab582448",
       "url": "ec/17/2978127c897769040d5910c1c09eafe21235347528d3a5b3657b8c9d60d6/mypy-boto3-cloudwatch-1.12.47.0.tar.gz"
     },
+    "1.12.48.0": {
+      "sha256": "9405d0d8d7e7fe8fea4904992ce79b329c2f5bf74dffbba9aaf3ea0da7f46aa3",
+      "url": "1e/3d/f139405f4e91ac779a34285279f0a602040218d21980b23045f16cbc4883/mypy-boto3-cloudwatch-1.12.48.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "58d80aac772476882650bdd0e78805eac3197a00c8db2c0b6aaf25339b2c97b8",
       "url": "ec/52/86ae75e9f618eea83e6ea1640598c7a61f7de2d112b3891ecd94c4b56292/mypy-boto3-cloudwatch-1.12.5.0.tar.gz"
@@ -18417,12 +18447,6 @@
     "1.3.9": {
       "sha256": "7e079fe6feb4c15642cef980ec5b4d42ec2940325bbe4df6519443d3df61b40c",
       "url": "0a/78/98355d7541264a5ac5609388af561b9f87406b84c5ef29a1d1a7a27edc03/owasp-skf-1.3.9.tar.gz"
-    }
-  },
-  "packagejn": {
-    "0.1": {
-      "sha256": "4d5f0e7ebff2fff7b35a4d4d349f9ee494aaa6814e023d17bc8d5cabc29db32f",
-      "url": "97/44/4cb51299e42228b6bdb7c0a48dc4dbdc1925173c0a198fd3001007d3d9f3/packageJN-0.1.tar.gz"
     }
   },
   "pandas-timeseries": {
@@ -22827,6 +22851,10 @@
     "0.9": {
       "sha256": "97ad53419e9eba13c347b5ada9c224f95a4b8298706ae84bf8267679e518a99b",
       "url": "18/ac/09593c4a1bf5260bba204b154eebf4ba89744324799cafbc8b5dd854b238/qiling-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "e91f9d2af734a4413f662ee98f3aa293faeb3e05ed49bc9176e2a222056a7820",
+      "url": "9b/8d/bf34deb9a4f20c8530a66a74ab59ad6b23df1a3eb9416cfba86282bf656e/qiling-1.0.tar.gz"
     }
   },
   "rawls": {

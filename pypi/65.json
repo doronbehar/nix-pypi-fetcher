@@ -6603,6 +6603,12 @@
       "url": "5a/0c/857ce7e77d602bf1c6d4797363da04aa7a5457031968668e81ad152326ae/djipsum-1.1.5.tar.gz"
     }
   },
+  "dockertarpush": {
+    "0.17": {
+      "sha256": "2944dbaf68860291a59e48ad8f8ee563afb50988af7bce38797792c295481957",
+      "url": "22/9c/bc2b8cefac36993e22957a4178d138081619f1233ee86a6d71fcf8360892/dockertarpush-0.17.tar.gz"
+    }
+  },
   "dogpile-mongo": {
     "0.0.1": {
       "sha256": "bb6527bd6bc1f1e9ba4e9225a84aeb4394a3bc483d6966f4ee092d2b7e7126fc",
@@ -13185,6 +13191,10 @@
     "5.2.7": {
       "sha256": "4a7bf88258bca9e8fad32ecbbd8dab7a86db800c43b208abf004580513cd4eef",
       "url": "7f/5d/fbf0bbef25d62e8354ad0ecab4dbb3b97db3b22c9fb72c63e5e2c3697513/m9s_nereid-5.2.7.tar.gz"
+    },
+    "5.2.8": {
+      "sha256": "a507e949afd3e4761a814592fe8ed37bb863c9e6a266d78c03d6e6e2c2a2d665",
+      "url": "d1/05/29de4738e3e46ebaefd511ab4f0b0433eef437f6581bb4d394fbe87dbcc8/m9s_nereid-5.2.8.tar.gz"
     }
   },
   "maboss-test": {
@@ -13883,6 +13893,10 @@
     "0.30": {
       "sha256": "e86d9aa657954e2a6212d4d73b9cb8a5da1e7668481b7f5b1880e705f05f6236",
       "url": "00/d0/05645e5a50835a81be627b21c49a368093b96797ca7d1840b90e147e9c29/miscnn-0.30.tar.gz"
+    },
+    "0.31": {
+      "sha256": "2e474ed4e1aae95f3039332369ead746e74c75f196c87df2865eb0e982f8993a",
+      "url": "1a/d1/15cfc8cc7c2f452e1d9e0089bdfd341283304c08d14ac07fe77e64854925/miscnn-0.31.tar.gz"
     },
     "0.4": {
       "sha256": "beb7b4359c12ef061f9858d73a14b8c89f802d9350d2289c0f70e3a50a72656b",
@@ -14781,6 +14795,10 @@
     "1.12.47.0": {
       "sha256": "1ccd616b982439b264d8b5a9f8cb738e02cd404361339462c71688f4f0e454c5",
       "url": "8b/50/a461624b29816c67165e68cc379778070788e4f6f68c18d07203516a18fd/mypy-boto3-lakeformation-1.12.47.0.tar.gz"
+    },
+    "1.12.48.0": {
+      "sha256": "4a51f4f6227451699b03baca7d0e012e81d5dcd804a54791fcd87befee73d9e0",
+      "url": "b3/0f/bc2d3445ff11285213033943ddb40d36fdfa9a6600f96a028b6224170bd8/mypy-boto3-lakeformation-1.12.48.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "904afde808065f49889aa2b7d1b695aad3cab27135e6775f27e09b3a990e6730",
@@ -17564,6 +17582,10 @@
       "sha256": "7466b5a67db7a91f2d8fdaf462c8995b0d865279cfda49e733e37fd0a0f44c75",
       "url": "77/5d/9abc6d30cc20fd1f58d9ce11d1780e6820a4e65b3ff0b5755b156d2efd05/pulumi_dnsimple-2.0.0b1.tar.gz"
     },
+    "2.1.0": {
+      "sha256": "61e60fa7d239261c3f4c1b3b76373b8b24f0ab52b7a2761572d9734f0360a88d",
+      "url": "fc/3a/95b285d98c157edee424164bd98e551303e79cd24a350e9337bdb39a8bda/pulumi_dnsimple-2.1.0.tar.gz"
+    },
     "2.1.0a1586906992": {
       "sha256": "3f4f7174ce07c316dfc75dc8d695f1c56251ba7acce3d35523f08e088017272b",
       "url": "8c/93/e99a253bd914aa452707a97be4fa718437fadb59e80d5ccffa6d60c53cf3/pulumi_dnsimple-2.1.0a1586906992.tar.gz"
@@ -17957,6 +17979,10 @@
     "2.0.0": {
       "sha256": "e00f2e468d9c277343160e7adb18495e60cfd25e022f61950f87b5fddf694c6e",
       "url": "94/5b/fb2e9ab525bcb58044413cd4d5f978c8188be3dc13ed1af8d4d839404836/pulumi_docker-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "0901e26fde58401a91028741b6d683a6c1dbbcc1aa98b63a4a5e59e2ca1ed0a9",
+      "url": "29/06/1ed707ae97c0ea2e3a5953cda3be610648c4428a9f35b8fd6576b413fb66/pulumi_docker-2.1.0.tar.gz"
     },
     "2.1.0a1588030886": {
       "sha256": "e53990065145a1e36d72982867e22068b556f5a4a7ee0c9d31f71266d8543b04",
@@ -21676,6 +21702,18 @@
       "sha256": "300b095b74c297b908e95a6f4c8941b04d01696c603ff980aff7a8f252fd53a6",
       "url": "7f/de/f871ef70ce535befcd5b1658a438d1f35bb4b6d358917860b2338c03c998/riddle-2020.4.17.tar.gz"
     },
+    "2020.4.28": {
+      "sha256": "4fe15bf9800bd6aba75333c8ec3299365e4ec79936be898ddba7331a500628fa",
+      "url": "6b/bf/bbfbda0b07762e8806c912b0f8411de8c7d6a21daa49b9f2c0aef17dc76d/riddle-2020.4.28.tar.gz"
+    },
+    "2020.4.28.1": {
+      "sha256": "3219496311c44a27eab87d9937a02a31efae42cc91f0072099525caa5898388b",
+      "url": "e6/8b/bc4b14f7bc1bd69b036481c56072a0166a2485626e1a92ce748db379877f/riddle-2020.4.28.1.tar.gz"
+    },
+    "2020.4.28.2": {
+      "sha256": "de4095c05f741807d3e013f7ff1a1b75cbd7bfc69c512f6ceee033982abb33c1",
+      "url": "e6/75/4667ee12ab83b0098cc1ef4225ccd06af353e825282058da8c73269a17c6/riddle-2020.4.28.2.tar.gz"
+    },
     "2020.4.6": {
       "sha256": "541e966450ba18ae96697d359a5ccf91489001ab44e9597d8350379f389d9cc4",
       "url": "3c/11/5aa285f465dfc0ed78e38a71cefb454a4306e99552a259bee0f27a8cc6eb/riddle-2020.4.6.tar.gz"
@@ -22859,6 +22897,10 @@
     "0.1.8": {
       "sha256": "48a5e15a41b3a4f098b3101fbadeafc96c3da759dff6d9dfc8895fa6c74a1796",
       "url": "65/a3/8766340c0271f04d230277a8375d6c1084e000730d0738f019f889c6336d/sphinxcontrib.asciinema-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "498dcbe76328dfac570719acb75b31ea093240adceeaa605e748360a29ac08e2",
+      "url": "24/31/c19a324842693d86fa3fb0203852d75a96f97c56b745b57b5f128c9688ef/sphinxcontrib.asciinema-0.1.9.tar.gz"
     }
   },
   "sphinxserve": {

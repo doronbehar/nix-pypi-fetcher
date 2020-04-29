@@ -1552,6 +1552,10 @@
       "sha256": "c5281d705be3eff31aa3b0c12e58721d422c3fe9466dcf8be39f0a213ea847a3",
       "url": "15/09/678660e1b88d79195d4d0c737f5511fbe4ff3220fac0ae5de7ffaad73b85/aws-cdk.aws-batch-1.35.0.tar.gz"
     },
+    "1.36.0": {
+      "sha256": "4f51d8d3d0f3d13a750c5acd0986da3a485cb0c5a2bee9aa533bb92a5560b7b8",
+      "url": "b5/6a/61898c5ed14f329dd9f8b4e2d9ccfbaf08ec67c90f051ef97af47f112b23/aws-cdk.aws-batch-1.36.0.tar.gz"
+    },
     "1.4.0": {
       "sha256": "1047b17df3554ba198ae24f207c9388d98e36338cfcb750af9209f8b0e2bffc0",
       "url": "05/6a/848e7583d1e510c5711860c2352b272cd2fc467e1b2ca8c855ab7e1e35d1/aws-cdk.aws-batch-1.4.0.tar.gz"
@@ -1595,6 +1599,10 @@
     "0.1": {
       "sha256": "fae2071f28de3bc26973d96017ed6e7cd49f7d37173143f54947d803b0995798",
       "url": "75/36/d5c706e46f867aed8026204ec76b78bf2a91fb5968c96312e652300e46ba/Babel-Godot-0.1-1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "289d48fa543b4739a50abfb6ea9182d74e1c550e46f4cd8bab458edc90a6e05c",
+      "url": "48/69/73b3734884b7e0d0ecd84194b650444e4466556d49ba35bd5f39c33c4d3c/Babel-Godot-0.2.tar.gz"
     }
   },
   "bambu-api": {
@@ -3769,6 +3777,12 @@
       "url": "52/38/db76ca552f47102bf56887bce808d24999f747544790333130ce8667be7b/django-andablog-3.2.0.tar.gz"
     }
   },
+  "django-azure-sql-backend": {
+    "2.1.1.1": {
+      "sha256": "d04b428b7f677c6993ae7f019e61309021a7de9e980cf1fc32db04a4ce915426",
+      "url": "80/d1/a29b8848b452796474f0a1cf27183496c9d7d7cf9c2bc974ada61b7ef8d5/django-azure-sql-backend-2.1.1.1.tar.gz"
+    }
+  },
   "django-cacheops-with-stats": {
     "1.3.1": {
       "sha256": "4fcb4796fcc5fa6c5907fe617b86ff1a18035323cdae4b945f97d5c5d56eaa80",
@@ -3819,6 +3833,16 @@
     "0.1.1": {
       "sha256": "2331905caf409d224cddea045a1d8f7d4ceda3294db3538f0d609d0409aae4f2",
       "url": "90/69/fe153acb9c1b0d3d82729e050636cee758ff44daf22aa3a05aeb31120be3/django-configurable-inclusion-tag-0.1.1.tar.gz"
+    }
+  },
+  "django-context-cache": {
+    "0.0.1": {
+      "sha256": "20bacb4787cad8e4f345916d26eb45b77f7f531dcb7e7f43d3bc2afe20362492",
+      "url": "9f/a4/3657b124cf7a088c2eb8f3e388f7a4bb01d3f7f62fd0c4b820946c106d9e/django-context-cache-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "55db3d85698a5ef053b6e4aaf01cd1e2d84958411c684b41041f0b97c03637da",
+      "url": "7e/ef/2cf5a09a965df797969cfd7d4a50937ee47ea68bee8d4d225688104ca28c/django-context-cache-0.0.2.tar.gz"
     }
   },
   "django-dark": {
@@ -13850,6 +13874,10 @@
       "sha256": "ea8cc3a1412a58782608d0a1b5f599a072499979e195df2d8b337ba037e54803",
       "url": "be/83/d0c7e4c462baa4c6fb12d6393327716bd8dca7b80630a1ae5e3172572ad4/mypy-boto3-elasticache-1.12.47.0.tar.gz"
     },
+    "1.12.48.0": {
+      "sha256": "daab61a5f823f5a92ec22bcf440f4238b2610cc7c80c7c61021ea1c098403434",
+      "url": "8c/89/a9e3e9450fb1a705acd52df724f53a63078bf590b9bab7eb758622d949c5/mypy-boto3-elasticache-1.12.48.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "774e10a7e69fd3344f34e89ea198db09dedf7ce75460e56ab3bb75cbb1908bd0",
       "url": "85/5e/ac0ea6d7f0cf0ef17a65dba27ec28c30941161e583d7e5d5b5eb15336f53/mypy-boto3-elasticache-1.12.5.0.tar.gz"
@@ -14311,6 +14339,10 @@
     "1.12.47.0": {
       "sha256": "84b8afaf9ffb000af765b8c4da7556f0db0b8717aa8fe9435b85ed4428719431",
       "url": "f2/40/6738d81a719b8f1933c27f2aafff1a1c7683f024955c40fadfbceaa7b566/mypy-boto3-kinesis-video-signaling-1.12.47.0.tar.gz"
+    },
+    "1.12.48.0": {
+      "sha256": "4d9bebd9f929342b33c5d0f81241a15512b3e8efda964236d064193aba38c1c6",
+      "url": "7d/49/07b5bbdb27dfe77770023b7a6a09aa6a544e5b1bea4b03dbbbb032d23b33/mypy-boto3-kinesis-video-signaling-1.12.48.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "079c7a5af4d78d10bb41c5e8faae50bbf9c1f6b78e4fbdab24606026651c254a",
@@ -15807,6 +15839,10 @@
     "0.3.0": {
       "sha256": "605bd885d13cf517dc0bfbad07814e2a4ad75ec39b5f4e80e00d4379e90d76fd",
       "url": "e6/25/da43bac073b9fec83326465b603a7d90133789e27c334fcaffafea61d9da/patchlab-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "5e9424eef4648671ebf805e39a624f4814da142a9ae6b0c253f697944a65efb4",
+      "url": "e3/9c/84d4b785ff6ec9c475f0a11b9136f97d2fcd1caca041a4caa1edfec85bab/patchlab-0.4.0.tar.gz"
     }
   },
   "pathway-forte": {
@@ -16743,6 +16779,40 @@
     "4.0.0b7": {
       "sha256": "54de82c4be6f6669354fe2d191cebcc94bc5dabc5cb66f3496ef8f93470e971a",
       "url": "45/e6/78a7738b191b698f8c0e41549438a4a8943f2f3ab42c7d9e1ba664e8b891/pulp-docker-4.0.0b7.tar.gz"
+    }
+  },
+  "pulumi-scaleway": {
+    "0.0.1": {
+      "sha256": "4e236fd94a5fb7d7eedc1f9a9a776893cd2585aa21369bdc774335cf639c40d6",
+      "url": "47/52/614b3cb8b84d87384980c77ad333f383a50f16081a2f001c38b81b7c0c13/pulumi_scaleway-0.0.1.tar.gz"
+    },
+    "0.0.1.dev1587698294": {
+      "sha256": "d075bc81c1713476d7e90c436ff14ac2ac32fd04074f579699eb5c4149fa47fd",
+      "url": "33/d9/cead9a030688778827ac80cf1b2b57152de992a9bc4a6d644bf9503712f7/pulumi_scaleway-0.0.1.dev1587698294.tar.gz"
+    },
+    "0.0.1.dev1587698863": {
+      "sha256": "aa9017db2f168dde782d55756416e93f2a80df6a92aae3221c58260fb28968b8",
+      "url": "49/b4/6d7b4474b1efc26c2def59b6b80bef8b33d6e719763981ca6a724db70449/pulumi_scaleway-0.0.1.dev1587698863.tar.gz"
+    },
+    "0.0.1.dev1587699404": {
+      "sha256": "9cd4ad1d692095c0c1fb39bde5b1c787c4c374851bff2c7d01d7b94d42795775",
+      "url": "2f/2e/060e8c2feb2925d8a80414671119a3ed7552975fa96a2c1f9f9d706b572d/pulumi_scaleway-0.0.1.dev1587699404.tar.gz"
+    },
+    "0.0.1.dev1587700082": {
+      "sha256": "dd469a5a711626e65263b7bfb569c8d543e9feb98bba342fdc6cded81b1ca315",
+      "url": "bc/bb/bc80026716fd2e898bc8194c9240121e6abbe806727bce36fa27b41f0a8d/pulumi_scaleway-0.0.1.dev1587700082.tar.gz"
+    },
+    "0.0.1.dev1587701648": {
+      "sha256": "f9d1d6b7ddc2bba380d3f17f828ac6490861bedaf311afb989b53e1f8f35baf8",
+      "url": "69/3c/103f4bf555ba42226e099e03ef0ff05253425c39ff920837b42eb6610e04/pulumi_scaleway-0.0.1.dev1587701648.tar.gz"
+    },
+    "0.0.1.dev1587702691": {
+      "sha256": "041c01e49459b1de8ce57241bc9844cbca16dffc1ea85c165af0419e12d7e987",
+      "url": "05/6b/0ed83d13cace7ce9526453c42972ac0a819d2478a6560b354eccd02872a0/pulumi_scaleway-0.0.1.dev1587702691.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "43bb1ed7ccc0aef6a73729085173165eb778ad11fb167fce9ed9de2335491d1b",
+      "url": "dc/c0/21792a60955b03c18e7c8f69903bcc490e053a72145ad4a56ab445e76bc5/pulumi_scaleway-0.0.2.tar.gz"
     }
   },
   "puzcw": {
@@ -21713,6 +21783,10 @@
     "0.0.20200424.dev1": {
       "sha256": "b1ca5c9b48c0160ee7575c578e6551a8ffc6ec42e2ebfc0fa354c2996454f6e0",
       "url": "cd/4c/980540548eda775bf58bd7204d8636524b953b9c2731162d1306c5fb0e5c/sodac-0.0.20200424.dev1.tar.gz"
+    },
+    "0.0.20200428.dev1": {
+      "sha256": "ea575045422f9979319ded7302e42bc608edb700520a19088bb8df76e5b23fe6",
+      "url": "aa/9e/eb5eee30c71b7f6c6e8424e002907598a5ed21e001f81323b36b1b776130/sodac-0.0.20200428.dev1.tar.gz"
     }
   },
   "solight-dy01": {
