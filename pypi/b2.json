@@ -1301,6 +1301,24 @@
       "url": "ca/0a/2ab82ff4dd929253ebd5b387c1093a69f4ffd72aa38a19cb03e65a7bb245/ansible-modules-morpheus-0.2.0.tar.gz"
     }
   },
+  "ansible-virl": {
+    "0.0.1": {
+      "sha256": "7c66e1721230f6901afc7e1989c20d2e5d0573bc32ac87c72cac39dcec11dfa7",
+      "url": "3c/a0/7276997ec7ac1d88b40fcf232b4a21245dec9580b40f7cf0087478728dec/ansible-virl-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "eb2d54d9fc501ced685695d117e9c3f230f0483750e984f2f524ff324b3670e0",
+      "url": "f4/61/499b5b376770cd1ced0bb00fce48ff4f3f891be7374fa1b924119d81d7c6/ansible-virl-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "bd22fb2d43dd163b12a343ca50f504297c5120f3a4688e86c06c37278499a08f",
+      "url": "62/ad/3344cb868251c3b8a4a96dae5b277a5c2b271d4a228ef8ec6723db0db115/ansible-virl-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "00ee2e89864202bb1711ccf424be1732e0f736ab74e93196791d494133c4f0e9",
+      "url": "37/6d/add4c042c105e6fc3dc29f280567b25b617d8a57b3b92bc532721a4df509/ansible-virl-0.0.4.tar.gz"
+    }
+  },
   "apikit": {
     "0.2": {
       "sha256": "176ba0b4301ccb1d5cde4a731ddc2aadfe532e603423b5b485e9cb6b045426bd",
@@ -1623,6 +1641,10 @@
     "1.36.0": {
       "sha256": "a9c3e6524d007941487abd3f99a0071e691b1862630fb652378ab248d66e4d30",
       "url": "06/26/f418c81f57c622e40c68a86d6d98e5fa2b138a634d5301a47c57e0669b17/aws-cdk.aws-eventschemas-1.36.0.tar.gz"
+    },
+    "1.36.1": {
+      "sha256": "dce379e37e9c33b83cde86c187242ef5f6d202b23375e79815e168c747906f15",
+      "url": "39/cd/5a0a7e19d35b16f0652970b04bf2944ff0a5a3dfd770552da0c76288d1d6/aws-cdk.aws-eventschemas-1.36.1.tar.gz"
     }
   },
   "aws-cdk.aws-logs": {
@@ -1857,6 +1879,10 @@
     "1.36.0": {
       "sha256": "998ad50c2569936d1d0317f40e48fc4677e88d9c75925307c5ab0c4b0052ab22",
       "url": "b1/59/3628e4373abf9e90f6ffb84533f927ac2e0c06cc6c1a650cdeeab0400a30/aws-cdk.aws-logs-1.36.0.tar.gz"
+    },
+    "1.36.1": {
+      "sha256": "e624a8888908a6b4a175517321ba97cf72185aa3511720f7f188a798dc1c437f",
+      "url": "4c/4b/e22035e8eb13c160b41f20d84d23df5a4127ec96e485434fa8e928212073/aws-cdk.aws-logs-1.36.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "353f14f2171b599e4231e3f4eb7ef2b6047e4039405ee51c4ea2d0a12c5c784c",
@@ -5913,6 +5939,10 @@
     "1.21.1": {
       "sha256": "e806a6159612db6309a550808088dcd18affa5ecd38b36db117f1af6d9ec39af",
       "url": "16/57/2055dfeb88b20b2c4616b8a0e2f57bc2a64473f3bc8d795abeb390794fcf/dead-hosts-launcher-1.21.1.tar.gz"
+    },
+    "1.22.1": {
+      "sha256": "857422be9a3a9db9ad97d9ae5c69d05c72d91a79a6c0918790d1e8899d03a6be",
+      "url": "e1/e3/dfd76ee9d325656b2a32f07ec2a6431f0053811f0a2aa57dfc89deb139bd/dead-hosts-launcher-1.22.1.tar.gz"
     },
     "1.4.0": {
       "sha256": "5d27e190e27ea3884d853d5ba502ae4fe4de590ff29f1eb8932b496769eafced",
@@ -11497,6 +11527,10 @@
     "3.1.1.dev40": {
       "sha256": "8e57a203a30fd1949573ce4b93f5ba1b9cc3916ad8c19a8f450f973574e26328",
       "url": "de/14/59aa779c11bfad6c7c66420f97016b7f6904a5f04885c1d4d483f65ac2b7/girder-thumbnails-3.1.1.dev40.tar.gz"
+    },
+    "3.1.1.dev57": {
+      "sha256": "b684a8f7cc21763132577c91508b1bc61610c8a140bd9f2fd295b1f5c924b4a6",
+      "url": "7a/68/851ad164f9f7a05d7874025e979765f6fbb17424c0d94771e6002dca385b/girder-thumbnails-3.1.1.dev57.tar.gz"
     }
   },
   "github-contributors": {
@@ -12847,156 +12881,6 @@
     "0.1.8": {
       "sha256": "20f918b448cab1737a4f4096a84a8802b1ed2e04647a71b13ad05eecbcc61cf0",
       "url": "0c/05/94b2b34e1b4473be8af2354419e04e40ee4374c570940217029c71b2cac0/jack-bower-0.1.8.tar.gz"
-    }
-  },
-  "janis-pipelines.bioinformatics": {
-    "0.0.2": {
-      "sha256": "3c88f8d5179f968415b5426332438792dc2edcd2475379dbeed5c122bfbc340e",
-      "url": "92/ea/29caba8c05ef68efb2d6f38f9d9cce6b176d308394c68eb7cc990f3a9db1/janis-pipelines.bioinformatics-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "53416b88a0b231b64c78c50903fc8705458eeeae58557fb27d0fd83edcd68843",
-      "url": "ed/91/9bfbe5313960bfb91f4d47c2870d479384e674eaff1d9810526aba64983f/janis-pipelines.bioinformatics-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "c7f45b19e81564b1bc65ee705266d9e54ab166bfc5e836f96972ae15b55789f5",
-      "url": "02/70/7df76c94e259fd89bdf87a463b655cd941571595564fb3c691c464d661f2/janis-pipelines.bioinformatics-0.0.4.tar.gz"
-    },
-    "0.0.5": {
-      "sha256": "939fbbc75f8e15f4fa051b2460c64b260b6585e96bcb1057f47020e15f5ab3d5",
-      "url": "7a/19/c6679f760d69a23cb990c28d8872e4c1e1941309e1339ef487156785b086/janis-pipelines.bioinformatics-0.0.5.tar.gz"
-    },
-    "0.0.6": {
-      "sha256": "475e1180853ac5d7309c595857ffa6091a253a7f3d16a2bf99f0564d31dd359d",
-      "url": "49/93/683b1620398cd786e75e111a46f6f39984b2a62ea89150a87a3b28a2d79b/janis-pipelines.bioinformatics-0.0.6.tar.gz"
-    },
-    "0.0.7": {
-      "sha256": "f1367e31d5e142c38fc126226eddcb33fbeed017f8fa46dcfe92ed6666a9482a",
-      "url": "e0/19/ec54e36794ce55a1359ffe4f9c07d11dcec264c4ff56d742ea7112c46c1e/janis-pipelines.bioinformatics-0.0.7.tar.gz"
-    },
-    "0.0.8": {
-      "sha256": "a74bdbaf1f79c9fb1231d75d14497dd70ec46b8b5976a6e76b23bd093419a1f7",
-      "url": "a5/fa/f005e9e4ca8be95bbe8363925730fd03dbeb405b2cba77dd05d72f9590aa/janis-pipelines.bioinformatics-0.0.8.tar.gz"
-    },
-    "0.0.9": {
-      "sha256": "106c7efdf4274d9b926d9cd0b7c797ef3450acd20b65ea4d33e85d54104254ea",
-      "url": "b7/f4/af328581c2f6600894f12219d33e8cdf4e9d5e82cb63d902c38f6f2bad5f/janis-pipelines.bioinformatics-0.0.9.tar.gz"
-    },
-    "0.4.0": {
-      "sha256": "300086d949aaef6d6fffba34f03e41f9a61263826aa8febd3b5c5a88290297d7",
-      "url": "20/f1/e893a2a47d669fb287710a2e2c03245c4214c0c8fe8946eda4c7edd71c3b/janis-pipelines.bioinformatics-0.4.0.tar.gz"
-    },
-    "0.4.1": {
-      "sha256": "7291dd5e4927795042f8d3ee5f8396e35738747f401dd30ea5f6f81056422c4d",
-      "url": "a2/43/f4a4cd0021da933730ebc4ff3ee6072d62b6a4d3da5508e6a4649819b251/janis-pipelines.bioinformatics-0.4.1.tar.gz"
-    },
-    "0.4.2": {
-      "sha256": "10369cd0c14ad2871bf5fc557f048e435a15e4b421afae86db21a541d44eb176",
-      "url": "d4/c4/967f70eae1c554af5a52a60e2ec31cd31ef355e5472f5cf91aa79f00b56b/janis-pipelines.bioinformatics-0.4.2.tar.gz"
-    },
-    "0.5.0": {
-      "sha256": "a9928baa293ec24a877382ab6f3f3a24f6ae7997480663f2a3e8e07322a22c17",
-      "url": "3c/b3/4b0a07fe867af9862b57e2afeb7e60d443acbbb7b0762f03a28e3af6dfae/janis-pipelines.bioinformatics-0.5.0.tar.gz"
-    },
-    "0.5.1": {
-      "sha256": "672d69cd03e5bca868c52de8d4f69d065b169e2702f66456b695624ae13e9150",
-      "url": "27/61/82c7f39f98d58cb78f582ff7e245a06bd81d87441f563a56b35f8569f65b/janis-pipelines.bioinformatics-0.5.1.tar.gz"
-    },
-    "0.5.2": {
-      "sha256": "7398ed61e4b15d0c2a0fd03345a61105f92247e2d5f423a0ebe4a145d13ae700",
-      "url": "6f/24/8e8b067309359e9c62c8de6c35ae2eba08b2b2430acc711c576c98b8c76f/janis-pipelines.bioinformatics-0.5.2.tar.gz"
-    },
-    "0.5.3": {
-      "sha256": "baa69924df46586ee76b88abc718a2294f3558e1c0c4ee63ec064b5349c1bcb9",
-      "url": "01/f5/dd3106902270f66915cf629afbaa97b46c43acf92d4c115ec8ad01464e99/janis-pipelines.bioinformatics-0.5.3.tar.gz"
-    },
-    "0.5.4": {
-      "sha256": "f70ffd173ea1ab825880403cca14d835a9e000ac1f98a91f3667be0790aa8e23",
-      "url": "3f/43/0efdae7bbf7d19ff2b8221f501d94e316f73aeb8c3d1ed5dbd58ad726a16/janis-pipelines.bioinformatics-0.5.4.tar.gz"
-    },
-    "0.5.5": {
-      "sha256": "fad4e878d453467929cdd88dabb91002623f4d497b024c124a7b4d44ebaa0088",
-      "url": "77/24/2d3f32905c0fd273d70370a18b86ce4dcc1fa0c477e7dd6d1ef3578d07d3/janis-pipelines.bioinformatics-0.5.5.tar.gz"
-    },
-    "0.5.6": {
-      "sha256": "6c39dfe89f7ae69eaab97942aa8f1d753833f40fc6020477716031e5326f285d",
-      "url": "ca/1b/ae23359c804cdc22f06c42aa7ef1471bfea591a39475fa78eb1dd8725478/janis-pipelines.bioinformatics-0.5.6.tar.gz"
-    },
-    "0.6.0": {
-      "sha256": "d0618f65cdc9cf1890ce35b5e1c1b2fcfb0b01689e0cf7ec17a8ce738841ecfa",
-      "url": "a0/54/7b5a1397d7f287c33246d2b7314215888dffe004e9747aa900cf3e1499db/janis-pipelines.bioinformatics-0.6.0.tar.gz"
-    },
-    "0.6.1": {
-      "sha256": "eceaac90162aa7ef175e080f77d7436a96d03930ff265c1c07015e8f67874b88",
-      "url": "51/74/1c11692e7dd22d258a7a8285636d658966368e88972c4923505ec5af01fb/janis-pipelines.bioinformatics-0.6.1.tar.gz"
-    },
-    "0.6.2": {
-      "sha256": "3f35cb3688d00df51a2404a64f9f29967f08062b98a80de08594bbb15b68f497",
-      "url": "73/f8/bd6051ea90a25a7c63771810033ebcd065d8fa4a587389631c5fc5bd52d9/janis-pipelines.bioinformatics-0.6.2.tar.gz"
-    },
-    "0.6.3": {
-      "sha256": "8cfcba0a145297fb95b4d798cdc163978a31254488fdb7c8f9f8a7a75f435755",
-      "url": "97/f7/2f2a5e272b80ec204f5c1b690f0810cd4e841164d85fbc3cc0f42456abc3/janis-pipelines.bioinformatics-0.6.3.tar.gz"
-    },
-    "0.7.0": {
-      "sha256": "5ddbf5da996a39eaa7cc57885ec33a52f85efd70f6e3da0409e54166daf5ce7d",
-      "url": "1d/b6/dcd77fee5a5f3a3fb1c8dc7b9712667085d0cccbaa691238cde3efcc486a/janis-pipelines.bioinformatics-0.7.0.tar.gz"
-    },
-    "0.7.1": {
-      "sha256": "e96394e0ae91e719b438c881775411e33a5077cfbb75e7273da1c8aedc4fcad0",
-      "url": "12/ad/1f188886f0a546a51a6d5e5f83d3e98c05503c3cc6013c262d70b90f6ccd/janis-pipelines.bioinformatics-0.7.1.tar.gz"
-    },
-    "0.7.2": {
-      "sha256": "e717fb38bea02b7fbbe5bcd7b0a2349c5ff3b2b5d4391e4326565d51c230dee7",
-      "url": "3e/fe/a4a02bc1486d60e5c8031418f376347e71d100caaf736dec3e379d7fee64/janis-pipelines.bioinformatics-0.7.2.tar.gz"
-    },
-    "0.8.0": {
-      "sha256": "51072b7d9d7454dd2b664c22f13ed76b1b6db6feabb392a30dbcc83ac4a30a11",
-      "url": "65/99/adcbb2358ee41faf8105e2b7c055c47b8a741f4a340fee37ce34ef61cb01/janis-pipelines.bioinformatics-0.8.0.tar.gz"
-    },
-    "0.9.0": {
-      "sha256": "747e005e1bf35f6820f3137be876e11577c4db32deb9810eef9fe594fefdfa42",
-      "url": "39/49/d7e0b6fba2111df4a66e81a93bc457afda77157c632eb44262398171c73f/janis-pipelines.bioinformatics-0.9.0.tar.gz"
-    },
-    "0.9.1": {
-      "sha256": "56bb4a47816cb60c196d588172eee22e48e74894ede1a18760d5d9b00d6c58a5",
-      "url": "8a/59/34b01e7cd4c8f7eaa5423dc2807ad24a843f249a3dbe18ca40213d1bdebf/janis-pipelines.bioinformatics-0.9.1.tar.gz"
-    },
-    "0.9.10": {
-      "sha256": "fe4027e88bbd163c81fcf080caa2599bab15fac5965c945721d54278c5d4b1ce",
-      "url": "fb/e8/f6a7cfde783f8844e860a4a67c569314b8f25fc55f8aaa031782a8c4d8bf/janis-pipelines.bioinformatics-0.9.10.tar.gz"
-    },
-    "0.9.2": {
-      "sha256": "6faf65ad48dd874993e32797773ee18e008b91783c04831a142781e4ac49220f",
-      "url": "7c/9f/2cdf0a91f756b235c859dd7d88c3af5c3ae0c67dd4b7bd94a9dbb7743d90/janis-pipelines.bioinformatics-0.9.2.tar.gz"
-    },
-    "0.9.3": {
-      "sha256": "c5d07fcc8c84c1b0eab5ec92ac243d101a4249a5a8da04e9f6b8308961585704",
-      "url": "79/2a/2fbcc7473d18703c294331f699ef78a5133cc9459800966fc09dc7401515/janis-pipelines.bioinformatics-0.9.3.tar.gz"
-    },
-    "0.9.4": {
-      "sha256": "2bf2424fff0107cab39d1c8bb337c8030af99e21119b05694c171ee21543f777",
-      "url": "05/63/df1d36c4b6afe7161ef49c80b295286ea8c360381cc65764d1a8ccb09eb4/janis-pipelines.bioinformatics-0.9.4.tar.gz"
-    },
-    "0.9.5": {
-      "sha256": "4ed927f283d841f9b1b42d3f0b63177f050e0cccaf2f10b39e5e317b85b4fb91",
-      "url": "8b/bf/d58e868b5a9636feb9410fd254f7cec64fdd7efe44198eb66449add825d0/janis-pipelines.bioinformatics-0.9.5.tar.gz"
-    },
-    "0.9.6": {
-      "sha256": "ecb7ac14ade548f6b5d772f1897b7dc49891dcaf1df2f24f8bbe9912a700b534",
-      "url": "43/05/826b4f09e318a98a96c782bd1849118db5c3942b5a1d93e0f76640e00a26/janis-pipelines.bioinformatics-0.9.6.tar.gz"
-    },
-    "0.9.7": {
-      "sha256": "2a0766d3d551241a91ea03fdc152b32039667db490bdd5a65961294e52381f75",
-      "url": "fc/a1/bbdcf7404e3c945bd070766cf098c65a1bd56b765a4f2ce706bed803afc0/janis-pipelines.bioinformatics-0.9.7.tar.gz"
-    },
-    "0.9.8": {
-      "sha256": "7d5da80a7761bc9840b86ffe2d25e61b929b34afbb68e29d68dff2dcc91160f8",
-      "url": "ae/4c/ea4fd2667c4a4dfe7c99d17a93870dc6c1e5ae4c6a9e415cf37253e8c67e/janis-pipelines.bioinformatics-0.9.8.tar.gz"
-    },
-    "0.9.9": {
-      "sha256": "6655771131de3be523f5094adfb187166d33c18a543f85af59a1373539a04cda",
-      "url": "8c/81/8d0eed124fd5f399f2670384e5f6d3c784cf6a360b3c1af86d7f6682e1dc/janis-pipelines.bioinformatics-0.9.9.tar.gz"
     }
   },
   "jaraco.text": {
@@ -16869,6 +16753,14 @@
     "1.0": {
       "sha256": "c10454028b61364233a0fab8bbde68e26a91463a05f5790b4b943a69ca025a08",
       "url": "49/7b/439bedb0c3ba7e117e7417eb5f7d6386a1812c1216fbdd0eca220626c3b0/ParSer_Libraries-1.0.tar.gz"
+    },
+    "1.5": {
+      "sha256": "dc6ecadafb98070bdfcd26b9219c5cfc7b0d05bae1ec2596496ea5d1657fd5f4",
+      "url": "35/8f/d7eb85c1ee0b26e08b1f97eff3d95c9e58bb4f2c6211702633ad9d6c7f42/ParSer_Libraries-1.5.tar.gz"
+    },
+    "2.0": {
+      "sha256": "56c1ef3f02d010491b47db8894fc512c653d1f519119994a1ed9ff43e9d4a191",
+      "url": "91/22/cecfe6815d1b3619a55ea5a1c41f0765f571e1388317fd7f119cfe4c0648/ParSer_Libraries-2.0.tar.gz"
     }
   },
   "pas.plugins.headers": {
@@ -17687,6 +17579,10 @@
     "0.2.2": {
       "sha256": "56c0c6a24db3488607fee3779f12ae4e080cd5b6ce2e72750214b287ce3b01a6",
       "url": "b7/7a/99175f83c4bc0f7f77459311a7d32f8ea817d668634f973636bb7b27b6d6/psiz-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "415188dd3f297b15ba2d85e3ddf7b05a6f1999e2bc0e646e5a2ed101d4151f74",
+      "url": "7c/6b/12710917dd983ac95ecca3a91c88ec01eb4c8be7f26750d52aed5fd9011e/psiz-0.3.0.tar.gz"
     }
   },
   "pwenc": {
@@ -19363,6 +19259,10 @@
     "2.7.8": {
       "sha256": "f8b46ff51ce59f4054a6f806ffbaeb1ca4948003c6c71b8c1e3ee5cca7729bf7",
       "url": "11/d3/0106f2a1149af489cca132c72d23f95a33693513028876066008518a7e95/python3-albow-2.7.8.tar.gz"
+    },
+    "2.7.9": {
+      "sha256": "83ddf5802a39aeebd1b62d82aade0c7ac442e56588aff467037e90d5f305377e",
+      "url": "dc/60/50e30d3f7a807e94ac9ff982f8fb6b43c66fa5b797e69f3b27645ae73c64/python3-albow-2.7.9.tar.gz"
     }
   },
   "pytkapp": {

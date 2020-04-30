@@ -974,6 +974,10 @@
       "sha256": "5a98daf78eae038395ac1d726230b7f1e15b2b394b8a785c3ab3b1db6e445f66",
       "url": "fe/47/91687b34ca066367181f92a2923cfd8dc72dc64ad8734ea493060b96a3db/aws-cdk.aws-amazonmq-1.36.0.tar.gz"
     },
+    "1.36.1": {
+      "sha256": "8d9c059ec01f842443b66697f502e88a1bf30705ea4c692710d4b0d4c600e601",
+      "url": "19/bd/50750dcbf4c52f3f0db12b3be052aa65aa0b3733dbdda8312e9ebbd81a4e/aws-cdk.aws-amazonmq-1.36.1.tar.gz"
+    },
     "1.4.0": {
       "sha256": "599e7dfc39ee10a5b8a69555b02f06f7b33c222afa566092b045355183221bac",
       "url": "39/27/99dfb3ddc25d20107acc91e6ae561d4471805f6c9c5e2929bb72c68c7838/aws-cdk.aws-amazonmq-1.4.0.tar.gz"
@@ -1001,6 +1005,272 @@
     "1.9.0": {
       "sha256": "04ce4b9f1a008c236b405299dbddd4377ea8899ae4e95e0981fd7be22c3fcd25",
       "url": "db/ca/838c15e1b33960661440a61affedac29db1dac96fdde4cb86415a02616a4/aws-cdk.aws-amazonmq-1.9.0.tar.gz"
+    }
+  },
+  "aws-cdk.aws-ecr": {
+    "0.26.0": {
+      "sha256": "83f9e7d7f1495ea327e6f3fbfdf5f9e27fc460d69aff85024d6bdc8a77d8bc94",
+      "url": "57/ce/464d7c4511830f28d6f904922ae10116bb32f4da35840363b1f3eacfbd8a/aws-cdk.aws-ecr-0.26.0.tar.gz"
+    },
+    "0.27.0": {
+      "sha256": "a45218487853ba622e1421e2492d999bb76d69ee8613538b83151b3fec6f7fba",
+      "url": "44/8c/06778159087760c6a8b4e4dae3c979f3f67ea3c017fd8521d859dd5f5e1b/aws-cdk.aws-ecr-0.27.0.tar.gz"
+    },
+    "0.28.0": {
+      "sha256": "8b505f8c0a9ed15234086d20627f9639458c7b8a212a8984a3146ae7b0be5c94",
+      "url": "9c/88/14e8ce6ea76057e877e9994bb17d46d92821c8d1695949ae16a68ca86959/aws-cdk.aws-ecr-0.28.0.tar.gz"
+    },
+    "0.29.0": {
+      "sha256": "bff3b031cce3e4cfa6dd86d9ee8194aab5508273ef6765e5a68b717b013fc2f2",
+      "url": "9f/ac/ae055a1b8f493ddf4cbd0ad2712e5e8a2672f4536ed1fd6d7d091149e01d/aws-cdk.aws-ecr-0.29.0.tar.gz"
+    },
+    "0.30.0": {
+      "sha256": "3c4c534f57af0a7b18481da1114ae98bd42c985db1190f7e34d6f6da72bdb351",
+      "url": "c1/ee/808be7b21eec7153acde02552056eb46864898bd7830e9e66d3d461e8ac6/aws-cdk.aws-ecr-0.30.0.tar.gz"
+    },
+    "0.31.0": {
+      "sha256": "bf7b98b32c14759e1bc597fcccb687f6508d47e1d5670071591227aa20844dcf",
+      "url": "9f/37/e7922ba1e5f45e8b3136cd233af627c53098e2fa1b41bb2217c4fc424809/aws-cdk.aws-ecr-0.31.0.tar.gz"
+    },
+    "0.32.0": {
+      "sha256": "1afe011f9e9311fc3b1a32c8b7e0408bd65944b28893f4cbc60663d905c59514",
+      "url": "d8/58/20c83e1f277e00bf480924bc6fbe092d986b0088e01ff35852ff843aa563/aws-cdk.aws-ecr-0.32.0.tar.gz"
+    },
+    "0.33.0": {
+      "sha256": "62a0b90107d28107d55148dd62f466406f29afd01f60df6ce6d1e4b76e8c326c",
+      "url": "9c/de/91375f849db700953be243f8911f4a3c16799429def678db1450fa1a20ca/aws-cdk.aws-ecr-0.33.0.tar.gz"
+    },
+    "0.34.0": {
+      "sha256": "7b643efeaa0d0fa2990a56a8bd88868f157243ad6c8354fe88d6af5491655e02",
+      "url": "ad/23/50daaad76cae8ea12144ad5fdb65bb09227cb120bd2a8089cc4322f48279/aws-cdk.aws-ecr-0.34.0.tar.gz"
+    },
+    "0.35.0": {
+      "sha256": "1e3735a966d39583747f2d5dfe6d90b27ed9cabeec7bdfe704bbabb4b40d72fa",
+      "url": "2c/a6/86e67cbe0b0c20f73b639761ecb205e391ab26934b69a860096fe5cf2904/aws-cdk.aws-ecr-0.35.0.tar.gz"
+    },
+    "0.36.0": {
+      "sha256": "ac8948ddf8472cc3e9ca430107d2681047528a3670c3cf458ec1ceac37bcd9d4",
+      "url": "7a/8b/8ebb552a28b1855c2f20b21132359ad837bc9d185834929468650e761b8e/aws-cdk.aws-ecr-0.36.0.tar.gz"
+    },
+    "0.36.1": {
+      "sha256": "3610b3eb1da86b2ffe0de00cf8b55fe273f671ab48dd133036583b13ac37c8d6",
+      "url": "1c/c7/c47fff25a990505d19fb347967d8f6103b3ee8740715e08cf015c668415f/aws-cdk.aws-ecr-0.36.1.tar.gz"
+    },
+    "0.36.2": {
+      "sha256": "a25bfa922f92a31d56298be508889cb60a4c9ee9c8fa4897bb09c844bb99e5d0",
+      "url": "42/a2/aa69338605292f13f34fbdbd840c3578467678f44cef5c46b435dad32839/aws-cdk.aws-ecr-0.36.2.tar.gz"
+    },
+    "0.37.0": {
+      "sha256": "e7a6e0def8dc93a50d96daf0d85162cb026e4c2fde32ff5d55796fc387a6c2ac",
+      "url": "e3/da/45375afdbefbcf7f41681f734244bb22eecf2c850d57256098d3d30aa492/aws-cdk.aws-ecr-0.37.0.tar.gz"
+    },
+    "0.38.0": {
+      "sha256": "b0103af9cc2313bb109e5fb1270730939724213fc91f3d049ffd1a9943e901a9",
+      "url": "b3/2f/e39da2658a19a14a343920d96b17e54abd91d161f856df7cf3a7415d76e0/aws-cdk.aws-ecr-0.38.0.tar.gz"
+    },
+    "0.39.0": {
+      "sha256": "042da9090bf8dabb9322a356b65b67a0439c8aafa7442a6766b1e35bb45e8904",
+      "url": "8e/3e/59f13f31d59241b2ba4d7a50c1564a99babf1313e94d4e507ae5a93d49da/aws-cdk.aws-ecr-0.39.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "5cdc4ed56a44b7b34eb4bdf7c3aa858627f84df52f28a664baedcaf1d67ebdce",
+      "url": "2c/29/f0c84e454cd67d1c07f2168a30bc52f0e2f2c879c909542c0f07806c65fb/aws-cdk.aws-ecr-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "a8c305d3d5d18c4c663fae3e0719a19d30ee09e4149595395417e80229a6b162",
+      "url": "90/7f/2328d7e250d09393b5d22b15b8f228b2d1420ccd51023cfa6c0000b5de4d/aws-cdk.aws-ecr-1.1.0.tar.gz"
+    },
+    "1.10.0": {
+      "sha256": "9c5f005af51940d7e5193e9ed868beda20b7b3e5afed8f0043c8f3695d0a79d8",
+      "url": "3e/f7/9f3a856f0f4ffac892c2960243c81fb56a537012c501060010f68e76c72f/aws-cdk.aws-ecr-1.10.0.tar.gz"
+    },
+    "1.10.1": {
+      "sha256": "70d5b6d34a064cc1e46bb7aa0153b4abddc8e97d59440e2497b1f6b2e2849f17",
+      "url": "72/e5/ae7f3920e6d5a2e01658b92ce5e039b39a022d5f0488ce57aa505eadf81e/aws-cdk.aws-ecr-1.10.1.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "2efc064b772725c51c0c0967f9be094e667b9271af7eafc3edac30160b1dc4ca",
+      "url": "b6/8e/0f186db88c61e602b0d0c8f213ac6850e83d6dc2c874fceede365332f08e/aws-cdk.aws-ecr-1.11.0.tar.gz"
+    },
+    "1.12.0": {
+      "sha256": "fe60821e1c31cb1cb13134f278e1fa84c855cee43bb26efc3ceacbdf8ee8d07a",
+      "url": "5e/62/ff84322de95ce96bb1fdf13eeeb70ef07d54879f01b19eaa313078deaab2/aws-cdk.aws-ecr-1.12.0.tar.gz"
+    },
+    "1.13.0": {
+      "sha256": "e907f73113e3aebdae158bdd83da4b7ff5ffed7cc25b28c913ab63cee1549ff6",
+      "url": "a3/b7/f0301aed65562bad86094a97d654b6ff5c38a7227238384951bd28bdc8df/aws-cdk.aws-ecr-1.13.0.tar.gz"
+    },
+    "1.13.1": {
+      "sha256": "80546c69b9fdc7abebdb2ed0ce8f19d0b9eb18d2e59c861ac88bb6c97de418d1",
+      "url": "8c/05/02aaa3d8170671b6585e402fcd38d4a405ebefab4d57553ddb2ba849b736/aws-cdk.aws-ecr-1.13.1.tar.gz"
+    },
+    "1.14.0": {
+      "sha256": "f1cdffea03c5b79d5f5e506072f641225c4b9ece088415c3868fbed80ae108a0",
+      "url": "8d/8c/620b27a93dfa0101f75f1eac253ef346ab3bfe39952476bf799e9c1b0711/aws-cdk.aws-ecr-1.14.0.tar.gz"
+    },
+    "1.15.0": {
+      "sha256": "adeac47a0aa3b78611b835c69c6466c57ead8a09077f08d1e7d387596f1fd201",
+      "url": "46/e6/caa3f51f69246823b96ba4683cd30a8fdfac2d7473f695dd3cd5bcccd37e/aws-cdk.aws-ecr-1.15.0.tar.gz"
+    },
+    "1.16.0": {
+      "sha256": "112af7e3c16fb0fc91855dacc0afc438a1b79766732f42b83aeb48db5350a3d6",
+      "url": "ed/d5/83d68a9692f124eeb7daaa3bc11587823ed94b9e9251bd3d9ea39b2658d9/aws-cdk.aws-ecr-1.16.0.tar.gz"
+    },
+    "1.16.1": {
+      "sha256": "11507b49444f1aa2435a131da1b4241f2e5e6aad437e7a0b7afaeb4b63ff7d99",
+      "url": "b8/8b/ae632f4d32432167b0b89ac267fd7ff3de3f072bb42f2eb8c926222c5aba/aws-cdk.aws-ecr-1.16.1.tar.gz"
+    },
+    "1.16.2": {
+      "sha256": "dbb5ca65d4a3b22f10ad8532a25fa9433d926664445142b48d5dbab7593c2972",
+      "url": "b6/a4/14048337701b4509f79868f99e2b47e540389328ede4b9108454ef308bfc/aws-cdk.aws-ecr-1.16.2.tar.gz"
+    },
+    "1.16.3": {
+      "sha256": "24312da4d617bbb4c41ab0283cef05b3718c2f430e68ed45754da46f2b78b989",
+      "url": "29/23/5e5d138b56aa14c31ed2c63dd0439a5eed2cafefa6598db5ca936bb94ed0/aws-cdk.aws-ecr-1.16.3.tar.gz"
+    },
+    "1.17.0": {
+      "sha256": "1dfa88bf0d1984a90fe38c0f562525d9105066268f771b9b4ad24338fcafdec2",
+      "url": "1c/e3/0ae3309434ba00d0fbd7016a41fa396c0b8fe040d160d1dc8773de91b747/aws-cdk.aws-ecr-1.17.0.tar.gz"
+    },
+    "1.17.1": {
+      "sha256": "e8a525839c62ac6efb4c6cb6585be59dd5e7a023080c937c19544fcaadc5488d",
+      "url": "ce/a0/ac903d2d00075edf9c9d77aaeef75577deb5226575a28c06d4d4591e206a/aws-cdk.aws-ecr-1.17.1.tar.gz"
+    },
+    "1.18.0": {
+      "sha256": "cee0fd03d840af62ea1c36c58350a59d3baf475ab2ed9edc0526556ca7e7a11b",
+      "url": "70/16/6b7643c4d298663e28b60a21c6f957a9b08c7a9202d505b49c315da0cca8/aws-cdk.aws-ecr-1.18.0.tar.gz"
+    },
+    "1.19.0": {
+      "sha256": "c476ef8090141343ca13bfaaff74c0cb34b4903770844aaa42d0404f3faaf235",
+      "url": "37/93/17618df4360dfcfac9bd47af77661dd2b6461e185be574017711ecb34e48/aws-cdk.aws-ecr-1.19.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "674078adfc2cbb846d762cc35282dab42f720d0f0fe542d0fddf972126ce26ca",
+      "url": "d6/a9/40d5949dcb3ec9836b387ca05ab9fc6a1eaad2c2e7d74e26e0f11d34cd95/aws-cdk.aws-ecr-1.2.0.tar.gz"
+    },
+    "1.20.0": {
+      "sha256": "bda5650c8d8c83fc089f4c0254fedf85c78d08e8c621f602fd9a72aee011aac1",
+      "url": "42/7e/45cfb7118556bc9de41b19ff590c75177400c3dd175eae0cfcf5e907c62f/aws-cdk.aws-ecr-1.20.0.tar.gz"
+    },
+    "1.21.0": {
+      "sha256": "0d10d00f7520a107cf106c2b90bc74a1272786bd965c75666ce9f17b761659d5",
+      "url": "b0/64/800dd1694e2e713d7d4456846b0d3b8cd7ac00355e57e475dbb4240c3feb/aws-cdk.aws-ecr-1.21.0.tar.gz"
+    },
+    "1.21.1": {
+      "sha256": "e8b788cc2457580f8f1fe612744e0364707881cab57ad06d0f9bd5e195182fba",
+      "url": "23/c1/e474648ddb140f005c7f1677e536bb126696aa87a98c02e40a904469d4df/aws-cdk.aws-ecr-1.21.1.tar.gz"
+    },
+    "1.22.0": {
+      "sha256": "f01d01feea2f5412fceacb82eebf781bca848a18ac2d0fc65d81774984751d84",
+      "url": "17/f5/d2f9aeefbdaa3c194791dd391f9bd883a19fc44da8580ccfb8af8ff6d1c5/aws-cdk.aws-ecr-1.22.0.tar.gz"
+    },
+    "1.23.0": {
+      "sha256": "abb8ffef5aa7722b008a2f38605e04120926123d3c3d7dcab959a1d3a82752e7",
+      "url": "4a/68/bc28497f555859f1d6c087540e503b5942b4167279de2b7c52868b9d6d61/aws-cdk.aws-ecr-1.23.0.tar.gz"
+    },
+    "1.24.0": {
+      "sha256": "f58d87448c8686f439835c274188afdacecf094ec37daaa0e33215957ef4c0bc",
+      "url": "93/0d/e6d61781ef6e4fa99ecf4c38d916a4748b6131b160bb88a39f60b6a714f9/aws-cdk.aws-ecr-1.24.0.tar.gz"
+    },
+    "1.25.0": {
+      "sha256": "01264f54412020b5aef5242a1e9bd6277e7f43e8ae7f42b75bf93f0336ce2a24",
+      "url": "7c/bd/57692a03f5bfffa54cf02c38d63b7df4ad658f663714b53f41ab0c5b5a6a/aws-cdk.aws-ecr-1.25.0.tar.gz"
+    },
+    "1.26.0": {
+      "sha256": "9f8c405d9ccab89c5b7ccdb61b783900e3f491107e25ca8c1175ebf40273ee51",
+      "url": "7e/bd/bc323eac24238c31521c69452e2b8224861fdb8c218bf025ecd703d0d2de/aws-cdk.aws-ecr-1.26.0.tar.gz"
+    },
+    "1.27.0": {
+      "sha256": "88cab868c676185028505b8cc4eadc0f79455b96fdab86ea7b4b8f9ad1c40245",
+      "url": "7b/a1/430505146356c8dbe2818318abd48cdf39f83c93e7e96e3cff64a4c8ec7d/aws-cdk.aws-ecr-1.27.0.tar.gz"
+    },
+    "1.28.0": {
+      "sha256": "fd0593bf096b603a2e9937ce7f6337e627ca1999384d1a6fecea5a27a39c0159",
+      "url": "67/76/4494ceb75e8f3e643d3ada1f74ee9607306f104592db5cb5857b5cb67502/aws-cdk.aws-ecr-1.28.0.tar.gz"
+    },
+    "1.29.0": {
+      "sha256": "b525c3d06178341a26b3486b277f311b7fea957680389029b050f4a62d56434c",
+      "url": "42/b5/e68c1299fd8662c72b8a5e0fa7a7bf650ca2a503692e5da733ff74ae9bf1/aws-cdk.aws-ecr-1.29.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "6f2397408dd98060e1d7b9cfd8b06affe30faad5d664a26f6bc1310755c75f2f",
+      "url": "8a/ed/bd3af5c39f93455e5fffd58963e957615e78b8bf8460452289876904a8e0/aws-cdk.aws-ecr-1.3.0.tar.gz"
+    },
+    "1.30.0": {
+      "sha256": "b7fd72f104790a4545f986320cc3e041b44b36567f453d2f677db49c846a7c38",
+      "url": "95/64/915308b8d58279514a03340b4bec32dc4def23136aaef26f6e428956a03a/aws-cdk.aws-ecr-1.30.0.tar.gz"
+    },
+    "1.31.0": {
+      "sha256": "4cb023e8e14a0bd8ed7c719b7cfa6bb2ec6e389569b7adbb64757dfa543b022d",
+      "url": "55/e4/512fcb95751dd307c8ea8e1e9de09923103e6bb5aae84663326bde956c49/aws-cdk.aws-ecr-1.31.0.tar.gz"
+    },
+    "1.32.0": {
+      "sha256": "3e11cb4142a11d29f947f4704d911d44d1941ffef900cc86e15219d7ec3d1bab",
+      "url": "2b/1c/1fd3a8df3a1e69e273ba6dad31ff02e3681f948a794ef2e33799ca205715/aws-cdk.aws-ecr-1.32.0.tar.gz"
+    },
+    "1.32.1": {
+      "sha256": "e6009c890df462f0e5fe318c6b20bafc55eff67d2a2058445ca190ff596a230b",
+      "url": "7b/2a/4c2d13cdec2acee13b64c50686056ca22c01e6542942c3d54259bd58c753/aws-cdk.aws-ecr-1.32.1.tar.gz"
+    },
+    "1.32.2": {
+      "sha256": "d08093549208ff54d3eb297ecbd03374ba0bc321f84b44191f3ecb860422febc",
+      "url": "11/37/aa3c9b7814d0fce4744c49093dfd34f91cedbfcf7a3e2467a7e02476537c/aws-cdk.aws-ecr-1.32.2.tar.gz"
+    },
+    "1.33.0": {
+      "sha256": "864f1402c937874b33ea5626d791291bcc631bc6ae427edf3634ffd419d68291",
+      "url": "5f/e3/b8a35a523d953a4b1a78e8fb1c24d0740cd9cf81938dfbd25bbe47004e2c/aws-cdk.aws-ecr-1.33.0.tar.gz"
+    },
+    "1.33.1": {
+      "sha256": "1404d8fa16c748aeddacc8f752e29a30ac232a46b3d47fdea2cc970de5a907ac",
+      "url": "90/af/bd5a2082ca62c23ddce3da2d8b65acf9933d843f4ab3d159d294928b0960/aws-cdk.aws-ecr-1.33.1.tar.gz"
+    },
+    "1.34.0": {
+      "sha256": "a0d25ba657aa6fe45471f6a686de6e10a79ad3892abb116072aa26b8a0e3223a",
+      "url": "56/78/db0ae2dd30097c5cd7ce1f5a12276d6b382e3437f47926e951450308ac9b/aws-cdk.aws-ecr-1.34.0.tar.gz"
+    },
+    "1.34.1": {
+      "sha256": "6c84b2273b26110419c28135487df66021c48fe951e5bfcdc6390bb984ca9b04",
+      "url": "31/96/baedd262429d3787b87dc014c844a3d1a89e87aa96ea02e5cf4e405cb12f/aws-cdk.aws-ecr-1.34.1.tar.gz"
+    },
+    "1.35.0": {
+      "sha256": "49fde51c6ddcc0f085dbad00190af74f1fe1af26302e1313fd6e7b595f8db049",
+      "url": "aa/66/930f26c927883ac350b1b971867bd5083eeec8709069eb8d381aca603200/aws-cdk.aws-ecr-1.35.0.tar.gz"
+    },
+    "1.36.0": {
+      "sha256": "9abb43131a9b7f9931bae605cb105fe61132eec3224adcabdf1bb1030dcc76d6",
+      "url": "27/ca/be1af58dc4f303f7e8d508b08135fa3cab19904138977c00a754b6839953/aws-cdk.aws-ecr-1.36.0.tar.gz"
+    },
+    "1.36.1": {
+      "sha256": "05733a23d16e2ee69288cf026e16f0a0641ad7a7df5db86ed362d1a77253dbb6",
+      "url": "94/4d/4d903701a2282a532b676bc1c1f5e5cb2e91ac6afec3fe90b9dbec66c4d0/aws-cdk.aws-ecr-1.36.1.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "a2d51fe7e0c9aa8b675e4ac6187ddde791c461e0ac7bef2d44b288f8648ab9ca",
+      "url": "2b/33/4a1d2204ff3757cc0e2be5159276c2a5b4ae2e38672dc95366dcd11cf59c/aws-cdk.aws-ecr-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "ccecd70afdc4048cfd6e8ddb679ef842375a6b5dd64707c7a920f7f1f0d057fe",
+      "url": "80/85/249559a9bdb04a7dc0ea1bb6e04564cb00795939c2d30e0877e8417893af/aws-cdk.aws-ecr-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "520b64f4d6f50c782c05da313ee29d0ef5a5649f3a5d9f247a2b3be81178bfd9",
+      "url": "4e/9d/f6b5980443da663d45c5849f0b5965f853d146c95bb2b2a159483c601678/aws-cdk.aws-ecr-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "c99ddf7571bffe9b1a72d543ca8857d4a45c53cab0360727d2038d20c2b221e1",
+      "url": "64/9d/15b1e6eacadeacc5b620da86a0fc8ac72d88438f7e626dcab4da0fc24dcc/aws-cdk.aws-ecr-1.6.1.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "73f86e4d35dcd4ccd527a5795c1b4d5d0123103ecbca6f8f9f78532f5f36f240",
+      "url": "65/2d/3546e8ae7d59f24dec8f7cf99be64245d22642856aac4c341b6bbd75b378/aws-cdk.aws-ecr-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "06c7b62c619d55888afe48d82ca5e0345e07376dd810c7c77fa6d2d968fcb084",
+      "url": "36/1c/30a5054b67bedeebfb6991eee127cf739ff3bb5d2dd5885f3366bcc23c6c/aws-cdk.aws-ecr-1.8.0.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "42faa0693e6c557dc42112cb894b63627a788a7088263fcec91f8a288f19daba",
+      "url": "77/3f/05608c8851c1768af83c6ba0b352fb1ffed753f588f11e23b3e1fa16b5c1/aws-cdk.aws-ecr-1.9.0.tar.gz"
     }
   },
   "azureclidms": {
@@ -11284,6 +11554,10 @@
       "sha256": "9854c38b7868b8d2999d80cc2f3bc2d6fa14f71cdedc6104dde764351bfc6177",
       "url": "60/9f/12f0c61958f0801e3f7a41018927a0d14b14aead6d5bd780c3bbfe22ee66/mypy-boto3-dynamodbstreams-1.12.48.0.tar.gz"
     },
+    "1.12.49.0": {
+      "sha256": "278e7e9396b8b1c0fac36ab301bbe761fef0247c40a6bd338b85373678b98e0c",
+      "url": "8d/d8/1e819f35ae67747a81774f641dfa457a92f41927e9997b023bef006634af/mypy-boto3-dynamodbstreams-1.12.49.0.tar.gz"
+    },
     "1.12.5.0": {
       "sha256": "7e19556729c774388223443aef5af814dcbeb830abc18b2e862a820876d1c924",
       "url": "26/ef/6d5ecd8312f8393992b5fcd458ba15d38727ad7fb268a28146a82f16368e/mypy-boto3-dynamodbstreams-1.12.5.0.tar.gz"
@@ -11817,6 +12091,10 @@
     "1.12.48.0": {
       "sha256": "c321896102434f356306ca6c850a1dc75715bb2fe20e875d87ed24148d11f2cc",
       "url": "8b/d9/d2eec9b21849ec287c7a5d292055ba9dfafcf61b95250b615af11d139021/mypy-boto3-translate-1.12.48.0.tar.gz"
+    },
+    "1.12.49.0": {
+      "sha256": "838aa336d07862416d29b96a423d122e2b6ef7aa1e1238c723dbcdd249ead2bb",
+      "url": "36/8e/9d3c7c264a1bb3ca93d904fe603f11740791e9452e879748a68cc6d63860/mypy-boto3-translate-1.12.49.0.tar.gz"
     },
     "1.12.5.0": {
       "sha256": "cd3f1623d42d282c880564b79eeae269653d3f598c1171497f9c3bbdd68210c5",
@@ -13023,6 +13301,10 @@
     "0.0.6": {
       "sha256": "b114a88d34c0dc25e2eb520e3ef391515d61ec7f410e4a1c83f8de7e2e03635f",
       "url": "0f/ab/2e7c2e9ac15ed20fa745978847bd1cea2e0698bb675e3157e5342b3349ee/pakevo-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "15396ea758557ee0125eedba79209aacdf1b48139f9c49eecd17fdfe3bf0017b",
+      "url": "29/b2/d8d5677afd37197d6ca3900d1bd20abc17124f460b515bb216ec488a1a36/pakevo-0.0.7.tar.gz"
     }
   },
   "palletier": {
@@ -15393,6 +15675,14 @@
     "0.0.5a0": {
       "sha256": "b56fbbd4062b6b0abd6d0add4a6d838cb51acc98af4f316c7677842d4cffd53d",
       "url": "0a/c4/8d94ca32c510dfac887c09306e077163b747b91e460f7c1b7788f896d338/pyrasgo-0.0.5a0.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "5c1327424d0548f80f7fa3f6a5273f118e32f81b717c9b3753a449ed35c4c698",
+      "url": "d4/b5/6a58f2fe6b3988b7dec281ff444aefab6f70d6bf5c72600f19bdc8c64674/pyrasgo-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "447f0a6c66db1f970f72b0b9461e10838468356a5a0b460fe8b7c8996f333395",
+      "url": "93/eb/f48d2c5601f3d18ed852a3f2ef50158c8bbf005fb69a1dca2568080e8a71/pyrasgo-0.0.7.tar.gz"
     }
   },
   "pysftpserver": {
