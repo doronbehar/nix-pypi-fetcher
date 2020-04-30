@@ -5032,6 +5032,10 @@
       "sha256": "cae525f7e0bd4b02d0a523a6e9f4c9fc5f84b18952c03ca2bb257da542a8d650",
       "url": "1c/ed/a40c4c98aeb62b211b931d39d2a34bed6d61014955a841cf3f75e42f35df/dagster-dask-nightly-2020.4.29.tar.gz"
     },
+    "2020.4.30": {
+      "sha256": "d34f1d7a3e1cab4867f5a967e7c57a901c8946d8e9ca70345a1c0f53556dc14a",
+      "url": "96/d1/d0a0e767ca1b4c0c26c39a77be25b4b9e67a2b597f1dc80d723c284f8e6d/dagster-dask-nightly-2020.4.30.tar.gz"
+    },
     "2020.4.4": {
       "sha256": "d9bed73648df01830ee43efcf84d523ed27f72d1027e93c5fe2590a3511882e5",
       "url": "7d/6d/0a220f85121152b3ca20a3e77647a3619576754749a05882bc9d860d8c81/dagster-dask-nightly-2020.4.4.tar.gz"
@@ -14319,6 +14323,14 @@
     "0.1.1": {
       "sha256": "779a5ba488a1236eff71b824069b0cd4795b428760476f9aee709e6d950ad879",
       "url": "d1/bc/37fe3e54857ddf215782631913357bba1efc2728a0a9ae20f8f2aaa43e1a/mapfw-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "da5d7fc1d40f3f72c8ed5049ed925e20875649e41e6f4e478e51a575b1421a46",
+      "url": "6b/f8/c220c607e7d7128cc3b537dda1eda6698862a0bbb09b3b28ffaea9f992d1/mapfw-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "da64f433fe224cdb47b9077d1772fa05dbd1aedea9841539aec1e220b16f7af7",
+      "url": "5a/ab/db83d3f6727b97bd7a7095e7fb98bcb5556131797b21b69db348c9604c4a/mapfw-0.1.3.tar.gz"
     }
   },
   "matprod": {
@@ -20561,6 +20573,92 @@
     "0.7.0": {
       "sha256": "db45437cf85b965a61a6711369136234727b1ee08e9c8657ddfcf2b922ae9dee",
       "url": "bc/f0/b1d6d5c1149665dca6a4020912d900cd69281c41a52ab795b3249ebdfdb3/rabbitmq_consume-0.7.0.tar.gz"
+    }
+  },
+  "radian": {
+    "0.0.1": {
+      "sha256": "2152837ac3d72bc9b523c5aa35679f15696785c1f48183a45a86845059a7315a",
+      "url": "68/79/083c46079eb01931558cbdeb9de8701e2382e0135c0dfc31594782fd0240/radian-0.0.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "87b137fa011e958a651e656e955da8cfe6a1f74f4440d6bea729f203adcebb83",
+      "url": "e1/6f/ab595f7b8843df466d3ec3ec98d102e53049517a4e5b3d735f6ac1a2fa86/radian-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "1cdf4e1f2b150c8c9c5eee4643cb2e2edd22fd79195c3908aa4a23ca9a79c174",
+      "url": "23/28/0068f74df61487cb7c8f9974d1771b4cf3f156fe4c6e90132ba0ed71bef6/radian-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "b392445d28c68581e0df0cb43f7f6dc88a89eb732dbaaa8088aa67af39819b6c",
+      "url": "4f/d3/3849e53e7a3519fb75eb6bec056e0d67204020a3613244828789d7f7c86e/radian-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "606de0c7f54329c3a4f637da644c9db1a64b3820e65ee4adcffee0081891f90b",
+      "url": "14/dd/0c9d568c793f2304046cde54ae5127a8701548f05fc550c50f2dcfa5acba/radian-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "71f8cb25b34c1a349e81d1873f9446a3dd9daa9292fb649f3f09eb765f274706",
+      "url": "22/c9/b220cb2edb8de9b59bb8cdf54ce729238f3aea3284a2b5ec136d2da84b84/radian-0.3.4.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "9d5d1faffa8bdf7cbe02d5979422839c588510ddf345f3ff3610c98e64023971",
+      "url": "69/91/ba68d2e3c042571a83ae90a4c516ec88636c739db92c1c77d1f79ac1dc51/radian-0.4.0.tar.gz"
+    },
+    "0.4.0.dev0": {
+      "sha256": "d71cb3bf7588ea85e0382f28789ffc4f3c8123f761e6baea7c3958ee6b9696ca",
+      "url": "5b/de/c2cef4c4c5b7c9e93f05003cc55a68ab766d3a63dba5dabad35383916d17/radian-0.4.0.dev0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "2efb10cc7bb2dbfc136a618d869b125cfe7004587eab8dfd94d5024562889ccb",
+      "url": "a6/eb/6f208a5e222b1563f4951f409582739a7be3e96a864840d729a839be3118/radian-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "6041a96c80ecf118176307c7dd691e7ed2e86b61b6c77b55951ab0ccdae8e6e6",
+      "url": "dc/65/208125032698bbc53064537abaca3a7e63e1a62add2c42055a764b7ae099/radian-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "44ae1ba8c5b6dcaa12f28f370f0fc475af1ce84010d7d2bc56eaee292ee361c4",
+      "url": "7f/0a/b229c823cccdc416b36125972e475334b043a811e20523171dee748c2e13/radian-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "7f5ff8fbb6462248fd4f44b433aed8aeb26f9a7ac4bce647238991167180cb42",
+      "url": "15/92/38ec101f30e3f7ea7d4f34341123f5ca2bc0452cb5b3d30f86ea6d8b570e/radian-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "5c3a46a4dec215d97765967d483f1a4c6a9d9a14a258dc0bb17b87062e2e0dcd",
+      "url": "d5/30/f148acad106c0722231bc0638e52bbf8bb88478528767afd42649d3e793d/radian-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "819d7b4026fd04022a61bc3fc1845ad18b1756f03704d30097e7ecb23a20c163",
+      "url": "eb/bf/7b6077cffe315ce7de9d36e4d32211c1f1be9480d03462682aecb690c15f/radian-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "538141b53b543fac33854437d9ca8299b18b15b25f5af560a0f9a0edceade177",
+      "url": "21/15/11265b44589dde762a489dff8a1509037f8c05021a98c352e21f312409bd/radian-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "60ca88e0505fba2cd04cf3992e1ec029c096437f41a283a4d66f81cee82f0afc",
+      "url": "29/89/33b5eee8771826e5d25193323df85cc4609b01052db5674102484f511d2e/radian-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "47b4edb7feccb8024799b7010cccc9cdea735ef570bc6176cd4a81f55f765c43",
+      "url": "6a/b7/1efa122b72100743eca621af0235f4f53aae5a76a2473eb1163b3709e0bf/radian-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "3cb9e6f2bd19ecb2bc6fcb35e9a3942b4359d4808d0fe2b84416c493933dcfdb",
+      "url": "0b/d8/771b0fe64fcd1f6100b47175f3be42858f7a3b0bf1c34202746329f23c86/radian-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "a3e1818a0cfa2b6a3419c895cd1337cdff9341c59b37ef8aff638732d0efd82f",
+      "url": "31/dd/748c3ba43c95e6381bc8234eede8642c5ab897400ac7f9182039f186a684/radian-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "16a411e3bde1f1247f1b4c2253fc379b57eeed98104df6f43cad27d784be751c",
+      "url": "62/ae/a1b20514b22c4e4e483a21b7d1fb3448a157bc436e0990c7e1118010eb74/radian-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "2027660ad675037eb162f359e94f167a8c4ca3ceba2a43558a480786784cfc46",
+      "url": "85/b0/db2f8474336e136ac5c094cf8b5d23cd0c5f9f5725751d2479ab5650259f/radian-0.5.3.tar.gz"
     }
   },
   "randomdata": {
