@@ -3419,6 +3419,10 @@
     "0.2.7": {
       "sha256": "e6db62d5830f464dcb9ff8a1c38df32d450514d96906d1958b2455986d7b923c",
       "url": "73/06/421334f32bfbc035627c08febd1383cf662922a7dc9f82476b03e1eb6e97/cloudendure-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "753edd1619303fd7c8d21b3bf3282278b8432dd21d9a06b076efedceb3ce0613",
+      "url": "81/a4/73c528058719c65f3af5e9d963efc64832135d5074456faca32d465856db/cloudendure-0.2.8.tar.gz"
     }
   },
   "cmd-server": {
@@ -4557,6 +4561,14 @@
     "0.7.8rc0": {
       "sha256": "ab40d7ebf1efcdc48e330c7b856282c07ba1fe24b31b4740f1cd4ca3be265d17",
       "url": "23/66/7571c51ddbc08e470ada79d95f8e7bfb971ae76fda4980478fdda3004747/dagster-celery-0.7.8rc0.tar.gz"
+    },
+    "0.7.9": {
+      "sha256": "8b1c89bb3104c28f19a2df3289d7f2d6f238a297ab2744d1be8c7d97ee92fc5a",
+      "url": "89/a1/e5b20c79fc2d919b88605997ba7bbd55ee2fecdf99925986ecfd7e76e46d/dagster-celery-0.7.9.tar.gz"
+    },
+    "0.7.9rc0": {
+      "sha256": "1173d33a3377ebefd4ffcfa44ed65da646897660f9743cd87f0f04025a7a00c1",
+      "url": "cd/b3/3f572211b6014dd5d888f75ccf632e471820c4dfe05ee238fcebf4a47fde/dagster-celery-0.7.9rc0.tar.gz"
     }
   },
   "dapy": {
@@ -15973,6 +15985,24 @@
       "url": "0f/26/510ecd5dc31a9561f9f0eede0768a1b434546159da67ad8a4e28d6156539/pictil-1.0.1.zip"
     }
   },
+  "pip-grab": {
+    "1.0.0.1": {
+      "sha256": "d13c71d4d1fde90eccd10876c41ba5f30e10512853b75aa253daa09837f4988f",
+      "url": "fa/b3/360b83544ea816e3304b1cf41d5b1736ce1118498f5871c36122dbcc59fc/pip-grab-1.0.0.1.tar.gz"
+    },
+    "1.0.0.2": {
+      "sha256": "66186a9c10fbd6e34cf6b7e36c506a322347405b45151cb0b52a190d06811f63",
+      "url": "f4/52/17a79e959de3ca363d6a1b8ea5a12fd33e9ba98156928c1e5690c5a842f0/pip-grab-1.0.0.2.tar.gz"
+    },
+    "1.0.0.3": {
+      "sha256": "a020b2eea7a22099245d8dd355f2e51c41a21a70a4fa1eb388cfd58d01c5d084",
+      "url": "2b/09/ebccc004c9856af62fd4e8c2c543495a68347fb971f3c47a7011d780721d/pip-grab-1.0.0.3.tar.gz"
+    },
+    "1.0.0.4": {
+      "sha256": "d78c5420de7db96d4ea655ef6c578a48b9413954f18bde3d5b30ddb616365b5c",
+      "url": "7a/00/be332a409a153b114fea11dad9b74532039beb5f259a1cc4d3a055f21009/pip-grab-1.0.0.4.tar.gz"
+    }
+  },
   "pipgen": {
     "0.0.1": {
       "sha256": "857b0bf8f32aa3821b70347aa19dcee141f1f7394e6b55df011ae79d94a88e21",
@@ -16563,28 +16593,6 @@
       "url": "aa/31/f3e1c2dc1f3d51fb6e7dc5f8bb11d93666e1fe4ac785bf7d3c3e6d81fe68/py_proxy-0.2.6.tar.gz"
     }
   },
-  "py3ode": {
-    "1.2.0.dev12": {
-      "sha256": "bc19ce7f56088e8f10c8f9eb16f27afd4182d1457689a51fb4fff3f9ff0a709a",
-      "url": "cb/84/fce70c5258d386f621aac5a93c696e1c445d3dba63544bdc03baa3d8095e/Py3ODE-1.2.0.dev12.tar.gz"
-    },
-    "1.2.0.dev13": {
-      "sha256": "bfbb0d2c4acb5f74bab4f066b61d3311dd62eda8567ceed1b461eb819513ff54",
-      "url": "1d/c1/52f70a214a31779bfc62418dbfdbbcb2150faa701ff0c8beda7738d31827/Py3ODE-1.2.0.dev13.tar.gz"
-    },
-    "1.2.0.dev14": {
-      "sha256": "d3a3652019f2c6060b025860c4d67835f5ce39b281ded01b5903cc18f8093213",
-      "url": "6b/8c/6dcb58068ad1df7f29024741f4c39671bcb630631be1d5240ee3ec5095e8/Py3ODE-1.2.0.dev14.tar.gz"
-    },
-    "1.2.0.dev15": {
-      "sha256": "e1e396d1b7562922c5f838bc7b5cbb41b09e1323715e4ffc3825c865f990b094",
-      "url": "bf/67/afc9c84e906e8510c34cea5e21644fbeb4568505e5c7a044840ede9329a3/Py3ODE-1.2.0.dev15.tar.gz"
-    },
-    "1.2.0.dev9": {
-      "sha256": "7d257dc56ad5920ba8518decdc60672bccb076e770d6ef412d129e3efc318616",
-      "url": "32/cd/a35273b5edc010d43bb8ec0501d02213daa6ed7f559815c2cbdd7c32091b/Py3ODE-1.2.0.dev9.tar.gz"
-    }
-  },
   "pyasn1modules": {
     "0.1": {
       "sha256": "a59cd337e37373cf2b4b4eb0920ea3f008de7f30f494b2f17a24e11ba42ca97a",
@@ -16769,6 +16777,10 @@
     "0.7.4.3": {
       "sha256": "43ace2b3ca5e67fcb8d1137bfeb71438d3f61af691574ca733b449b82db71b2c",
       "url": "26/73/3c8744c78ceb77c5b79f670fda775dda5d8a4f10bf33ac3ed47091c4e8ef/pyboat-0.7.4.3.tar.gz"
+    },
+    "0.7.4.4": {
+      "sha256": "28199436944596af2ba9d6e0468e26536da2e1146967c1e0f4cd9e215748ebd5",
+      "url": "3a/51/5e19d2854ab43630c0e4379eaad6a644759adbce835a12fd8db63caf5fe4/pyboat-0.7.4.4.tar.gz"
     }
   },
   "pybrain": {
@@ -21915,24 +21927,6 @@
     "0.0.2": {
       "sha256": "79047d9cc5724416e7ec4c872b1d62c66c0841e5f6e100b937af4606d7609009",
       "url": "ce/31/9b44c25dbb9bee1337469a8fcd71158cf50ad90ed4d8221e0cef078ecc1b/to_php_post_arr-0.0.2.tar.gz"
-    }
-  },
-  "toolbox-bigquery-sink": {
-    "0.0.1": {
-      "sha256": "6af20bbcfc3031c1776bca96580133d31beb7dee3ea4c4be0d82c29c2ae26bf8",
-      "url": "fe/82/04e55c436ac72d7eb25b25bd82e9f8a48be48219f01f020ef223144e03bf/toolbox-bigquery-sink-0.0.1.tar.gz"
-    },
-    "0.0.2": {
-      "sha256": "6c7c58fcd6958f7ea4b9d756538be69a26a7fc7d499adb91a9e6c030935fe732",
-      "url": "1a/8e/91153131f19288714c972bac114e276747a0991d3747aec02ed6935de623/toolbox-bigquery-sink-0.0.2.tar.gz"
-    },
-    "0.0.3": {
-      "sha256": "3866926d474bc8fd05d10620187d0c2803b6c9fe61d0c1f3dbf83aac86b4f750",
-      "url": "6c/04/4ca028e0b3441e84092447b001654a7a32eb19f62af528198d1f550e883b/toolbox-bigquery-sink-0.0.3.tar.gz"
-    },
-    "0.0.4": {
-      "sha256": "5fbf5930143e5ccc7308c67bfe5207594d3a91cd37fece3d7c0d614f57977870",
-      "url": "9f/e6/df727b17f41d2c1ce151a77a973917deadc7cc5f4682f1f695b3474aab75/toolbox-bigquery-sink-0.0.4.tar.gz"
     }
   },
   "torch-eunn": {
