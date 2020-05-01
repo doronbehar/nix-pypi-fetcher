@@ -2677,6 +2677,16 @@
       "url": "3d/18/5a2c01bda2dd012e02e272613236a2ef049d5669594558a9cfba700c8c46/confluencer-0.1.0.dev148.zip"
     }
   },
+  "consentdb": {
+    "0.1.0": {
+      "sha256": "07f0b7ecfcd2ba6e3496c344004f77bf9b09479c632aa3fad729c01a3d24df41",
+      "url": "49/d4/23d4f5bba0c693a611dbef398b39fc39e1c883907c2e7a76059e891989c7/consentdb-0.1.0.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "53746a107473358a74fb6dabeb0b1ca8d95ba39e7af146ceb2fe176ac992caae",
+      "url": "bd/fe/bce9a464490815c08bcf2eaf241f57d5de1021f059b21ff9bf89c50b226d/consentdb-0.2.2.tar.gz"
+    }
+  },
   "cos-migrate-tool": {
     "0.0.1": {
       "sha256": "6eabe1a3d1c1f01c8ad337977e4ed18708761cd135ffd4f3b6f6dee991b99fd7",
@@ -13705,6 +13715,10 @@
     "1.12.9.0": {
       "sha256": "a7fe79939c64c6ed7fd86067e9f6251182cdebc9f262852312a8aa9099c5fbc6",
       "url": "61/28/fc3cfc0331fc3cc9a165880d3fe19ea0be4b42c1dcaff1355c5c8694ce30/mypy-boto3-personalize-events-1.12.9.0.tar.gz"
+    },
+    "1.13.0.0": {
+      "sha256": "cc5aea77ccbca15a26c2e08332e9705acdbe6acab321d24d8a23a82ac83c8c9b",
+      "url": "aa/fb/5e8dda192eb72de6dd737d3e8ea87d237bfa34c3245ac53239f87a2e3e6b/mypy-boto3-personalize-events-1.13.0.0.tar.gz"
     }
   },
   "mysbox": {
@@ -15739,6 +15753,10 @@
     "1.0.83": {
       "sha256": "d2086281c6faefee6fd2a28676a9f1ab265c83c5476c2b1a2d41c96fd045b066",
       "url": "69/c1/75e96e4e3119e3cd0e77cc048c5e43b6a98c3be314d571d03d72041a2b2a/polyaxon-sdk-1.0.83.tar.gz"
+    },
+    "1.0.84": {
+      "sha256": "e9d11dce4bcda02e4fdb648e3f3e913a5cd71cf12cc01b74d6558eea3e3e7d34",
+      "url": "cf/ca/9a99578776306dee5458af1dca39605ccf94f64c3098ad9906315e95cae3/polyaxon-sdk-1.0.84.tar.gz"
     }
   },
   "polyleven": {
@@ -18411,6 +18429,12 @@
       "url": "46/74/9fab88dc4b13bb21679b6f5f9a7c91534af96608d151c8ca00f90b50a46d/python-git-4.3.tar.gz"
     }
   },
+  "python-icat": {
+    "0.17.0": {
+      "sha256": "92942ce5e4b4c7b7db8179b78c07c58b56091a1d275385f69dd99d19a58a9396",
+      "url": "f3/ef/208e70b6112b6a6d201773bb89ff614349a24fcbc9fb38bd682f232ce942/python-icat-0.17.0.tar.gz"
+    }
+  },
   "python-image-complete": {
     "0.0.1": {
       "sha256": "0b3f0096de3f4f9bf2943a717101b69c4373afec73fc7ff02750d2d7fba854ad",
@@ -19163,6 +19187,10 @@
     "0.1.5": {
       "sha256": "9925efcd83c666a9d6090bf17bc6377605cea98179c910692d361796d7d8073a",
       "url": "9d/ca/2e4c2e68d60f16f15fd240ab12f66720559d12d96c59b9970207c6fcf675/ReCAP-Utils-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "4d11747761275a49b073cbc8fa9cf202aad207f559d9256bacf1580607fdc9d1",
+      "url": "97/71/e86431055476beb7afeeb3d025c19e2d4f030b4ddbf358b22a208f52c4af/ReCAP-Utils-0.1.6.tar.gz"
     }
   },
   "redis-monitor": {
@@ -19647,6 +19675,20 @@
     "4.1.1": {
       "sha256": "d530f3f71ac253dc8f9072265ba09b870916b99dffa25d54e5828c4546a4108d",
       "url": "a6/6e/7d176154e658de7ceecf2e430a52d829e891269c8e6e641c959e094e396c/sap_cf_logging-4.1.1.tar.gz"
+    }
+  },
+  "sarscov2formatter": {
+    "0.5": {
+      "sha256": "7582bb908e02a60dc35bff684101d4b943999834163789e0fe3023a7180a760b",
+      "url": "ff/3e/ae92862cde4e20097384a3adf36fd33ca5b551841533dd1e0be2d6c9c76d/sarscov2formatter-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "aa6c7a08fa0e9747e12035d8062fb84cd2846c846bcf8242fb97ad44bc4be3c6",
+      "url": "06/cc/223af51b22fcbcbaf6c37ee31bf5bf9bdf3b5a210098f54860b22609223c/sarscov2formatter-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "4b40799635d99b052fbcd07264ac5d0d70d1fd1658435baa035f93f9b9bf27f6",
+      "url": "bc/3f/58acf352df0f82284e0c224c306269c19fcf7c18f5bad201424933ab6c11/sarscov2formatter-0.5.2.tar.gz"
     }
   },
   "sasl-happybase": {
