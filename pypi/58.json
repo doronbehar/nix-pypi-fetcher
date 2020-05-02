@@ -609,6 +609,12 @@
       "url": "bc/7d/75172034e9943a191fdb4b5713235e0b2b3b37e61621d349f9add93be3c8/aliyun-python-sdk-dybaseapi-1.0.4.tar.gz"
     }
   },
+  "aliyun-python-sdk-ledgerdb": {
+    "0.7.0": {
+      "sha256": "8b66a5444fe8db84d0ca31a45ec5cacc2c5b851735fdcca17c1d9fed8932ba9e",
+      "url": "50/3b/9c316340cec881148055f60e623277dec0106c3cc8abb27982c80450c9ea/aliyun-python-sdk-ledgerdb-0.7.0.tar.gz"
+    }
+  },
   "allset": {
     "1.0.0": {
       "sha256": "92ba18f6e640e7195a1e2dcaf1376c53a52b83f8735deb5ec090ec66cb74c559",
@@ -6393,6 +6399,20 @@
       "url": "8d/b6/e09da39cb5110d006de5cf25e6309b4aff99f3cf9b90fbe1e69d8e23964e/django-stage-0.0.1.tar.gz"
     }
   },
+  "django-unmigrate": {
+    "0.1.0": {
+      "sha256": "a93db182a60e05b27a68080ac9ca4d3b7d201ec0a8496aad8b987a4b44270a77",
+      "url": "29/d4/40dcdda7692aa7538d5445ebe9332986e7ec1e287c78a78693d8402e3df5/django-unmigrate-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d2c7de71b8361480043b2c90eb55b68d821e381424315a84016c77ab53231471",
+      "url": "98/de/fad04019bd6cf571f2340069f6b2e9aad28efb51e740db180d1f8eef30da/django-unmigrate-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "07095e8f645b467f6ce175ecfa610f6a85fe92bf3511d793f31cf50e7853cc33",
+      "url": "c2/15/96d2ed0dc9d8bbd51dd71c350223fcdb125572cdacacf3ddceab72c971af/django-unmigrate-0.1.2.tar.gz"
+    }
+  },
   "django-uwsgi-cache": {
     "0.1.0": {
       "sha256": "0a08e30f684f53efb2e9a5860e9faf349143029041988578882dd47ae6e6439b",
@@ -7721,6 +7741,10 @@
     "1.64": {
       "sha256": "37ad30604305101fd3f8c40ce624a9611c8cf571ee8446b6191e55bfc5c74a77",
       "url": "5d/70/33ac48f1bee7dc827067701771bb0d1b771acd41c114f861e1e635561d3d/emora-stdm-1.64.tar.gz"
+    },
+    "1.65": {
+      "sha256": "0bb2745e6220d35b1198bc06481289055aa4cd3c0be8cae557414846e37b09fc",
+      "url": "12/0a/0533fcfc32657679e3ad80a3069201c351773ad04d029ffc4bfe0ede62c4/emora-stdm-1.65.tar.gz"
     },
     "1.7": {
       "sha256": "d5280e899fecdbbe9e2063a0baf9e927b5bfdd286602c909c8655712b7073305",
@@ -12551,6 +12575,280 @@
       "url": "20/d0/867218229d369b667c2320ec628109b686472edf564fa1cd0878ca8482f9/ltprotocol-0.2.1.tar.gz"
     }
   },
+  "luigi": {
+    "1.0": {
+      "sha256": "9aa059aed1db008ab1917f0d006ab356d8e677b1d846ee2a2b451c9f68391e44",
+      "url": "fd/e9/cf3edb46c2be2d5f6e1cb345af929e5240473c310a1a004d42aa1c69e718/luigi-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "cd974ae6f726a7f428180a3bd7d56bd85d29a9d9835b94e046a0761df59f3cd4",
+      "url": "ab/b3/47b0977818f72172e8385fa10775943e5e8546ff5b6a6867e9b048af1fbe/luigi-1.0.1.tar.gz"
+    },
+    "1.0.10": {
+      "sha256": "b1baa6968feb73704ebfce34b9f9dac25bd39f692ae0a7e993493dad7f4d3340",
+      "url": "07/c1/26b984d5f1084e57ff9207a9b1873ce0a0c3d4c1c857f20fa38e93c45b3b/luigi-1.0.10.tar.gz"
+    },
+    "1.0.11": {
+      "sha256": "71de23f108d05791ec7059eac4323e9dfe3d30f887a682114b19a0788ef15aba",
+      "url": "bd/f4/8828fbced3792398065560a5d7203df45b85199f230bde9364d9ce37726e/luigi-1.0.11.tar.gz"
+    },
+    "1.0.12": {
+      "sha256": "fad252dd9823e64b67b105712c28344cb68bdbb629055508ac5ef026c975af1f",
+      "url": "5a/09/38185b73e7ea6d477ea01cc85f075b77730595b1f8b0e55a4edbeac66d53/luigi-1.0.12.tar.gz"
+    },
+    "1.0.13": {
+      "sha256": "71c967e38d03817d75badb475c3d5f5d04759a2de5d95989ff7aea7a88da27d7",
+      "url": "bb/d8/ec43a5bbbf963675a198dd0c050f61df859c326b9373d26ac22bee00aa95/luigi-1.0.13.tar.gz"
+    },
+    "1.0.14": {
+      "sha256": "54a131fb0197191766829741846d12ddec6dafaa900029e9159e66812a09cb4e",
+      "url": "31/7a/697567f198c3187d329bd5239380595c18b1d4cec2100abb8683a5431449/luigi-1.0.14.tar.gz"
+    },
+    "1.0.15": {
+      "sha256": "71e6c919b9f3dd9cc2e5759957b1a99203aa0f5fd36cdf1a54c5141b9488e195",
+      "url": "e9/a4/229f2ba9f070bb167249989c872b1e6bd84afcaba5aa14d16f913e2a3388/luigi-1.0.15.tar.gz"
+    },
+    "1.0.16": {
+      "sha256": "004645584136f022f6deb89cc56eb60e792e6268560f300d597c3f5b928fbde8",
+      "url": "be/43/d9c21e162f3412833ab57d8fb22e328dbfec9e68e562e09e612f8bb8afd0/luigi-1.0.16.tar.gz"
+    },
+    "1.0.17": {
+      "sha256": "3fca906b47d3bbb0950a247505eafefd512870663f2535c6e2a54395f0569d86",
+      "url": "ba/f5/b3d877f760ae4cd741ba90ca4b0fcf0527b1e7e72ec34d13a8762afbdbc0/luigi-1.0.17.tar.gz"
+    },
+    "1.0.18": {
+      "sha256": "9d21d0011f86ee274f3491d88dda1d2b0c611067ac8272790d870b17665e0e74",
+      "url": "0b/9a/f51f96ca7ee9a330d6912d08c5fe237008de1c10c52114722f68d15bdee8/luigi-1.0.18.tar.gz"
+    },
+    "1.0.19": {
+      "sha256": "58611512a9833ddcfd91df7c57ccad0de4180c0c982d56d978da7454e7cb5222",
+      "url": "f5/a2/ee698ff0e301b321ffccf0a254df5e30e5ab734d23886606937f73b5ccb6/luigi-1.0.19.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "bf579e977fbfb215c5fcc5b4e99106e5cd4ecbcb20ace2c254bb446712f21bf9",
+      "url": "9a/d5/6351a5b71f2bb6501211f6fc3d5e102d72017ef289b6729610208765617f/luigi-1.0.2.tar.gz"
+    },
+    "1.0.20": {
+      "sha256": "2f5d9c699e89e3738c6722bbb91013e03acc5938f4aa0a23a5d06d9f246d347f",
+      "url": "2b/88/804830f0c78ebe1a2b1dfbf723bfcd97f6822f4e139da5909cd87baf2374/luigi-1.0.20.tar.gz"
+    },
+    "1.0.22": {
+      "sha256": "b0e979f0a888e753c6e4720e694711efacee2947428e42db629da91a23708ee5",
+      "url": "b7/8b/d7751ae52e30e1b872bcaaf4626b202e0fc61c2c91fef91912b6e901545e/luigi-1.0.22.tar.gz"
+    },
+    "1.0.23": {
+      "sha256": "47ae4eb29938ba1a5fe413291b45823ae4638995c7b415f2801ffbeb6a0bc514",
+      "url": "2e/5c/d53458d78415079fef6bc2231f7b5f5e5876e90f39cc2c57a054379df0cc/luigi-1.0.23.tar.gz"
+    },
+    "1.0.24": {
+      "sha256": "881d0c70d350e4a16a26ed70e7fddcef2e7230c3ca3e30c9c7ab1a70372a4b6c",
+      "url": "3c/a5/3bc272eb6317147ddaf8c0c3bf7ba47a684216f5e16c4fdf80f05ac94d60/luigi-1.0.24.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "a8024e3d6dce3d50b41b431a0bd66dc890fe5f04d7952298138995142163aa67",
+      "url": "d6/8a/d9bd49a8ce0cb8e5e26f35436e5dafab01bb4fb13d7189a59f95b52a8a7b/luigi-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "1f8b5130cd2b7dc6bc6cf47db4b24eb82b41cde53e370d4e4eed80900f9cdc16",
+      "url": "56/09/d3776490559b62d53b7cf87cb066b76b9a7f91d6749325d146c76a2adc42/luigi-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "4b8189c9c2a239d6c3683b1901b658ff751c87aa7114889499ebbbf4d141e7e8",
+      "url": "8c/16/4ac01f87ecb5f1cd1b083003cdaa485f1d4445817dd67fa4145d35243936/luigi-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "41728a3c49b813d96f39d5d21ad4f014c70b29c19214ea6c0e8cd8264d2d5e06",
+      "url": "e9/3d/68c6ca27f4bda9aabfef3c58c2866cf5db6e05524162d36b3adb4e8fa8e5/luigi-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "9797cd4b29592a336f676ff2e0d68530ab2aa1eac96fef926ba049416046ef39",
+      "url": "2b/e1/551931e19ff0aa49489be78f471bfaaed6c5ae2da4b368c3fb4ccc3293ff/luigi-1.0.7.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "3948bd28f64bc1313d01f8fd75a7e7c457158478da46bd10830c82530dae6023",
+      "url": "01/75/6fa1e73a8fda67c02da29189541be78577c8535ea7b721e4c5c3b62a7fcc/luigi-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "634ae7cf6423d121d34b0a53c9c395c540d5533aff324fefb7e2b34f2a575d70",
+      "url": "85/b8/7a89ec0981570ae1fd30f102c8410381770db7898bbfdea3e1aa3ddd3b43/luigi-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "a6715bc7ec23d32bce7865bc5235a00bb42a2172a3c4f6895b2d1fdc23629244",
+      "url": "59/d2/5f32dc62bfa1b430cb902bcd26c652f9fe4c9462a3b06bc1ca6e80127d85/luigi-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "1fad3639e41e002dfa284637f3c73817931f66e8130a78d004275595b74325f2",
+      "url": "3d/26/191da8144fd2a881f72c6d87df68ee654e684989dcaa3559dcbc9c0a6355/luigi-1.1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "a43d81514a0fcaa057f23c223066f2e2256cc361d6d0cc56c86f02aac84692c9",
+      "url": "3f/c7/7f5e1f5016a23c6cf2b3152bd27d994ad3b384e59e3c1bfdec444669853d/luigi-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "69f0e75c305da8c8de4a538011b80136ee4f5e3d449f4de9b17d94b3cc9b7f7e",
+      "url": "7a/3d/da7ebf732a295098ec7b72aefd6580cc68dad461fdbce9265ddb8a3544f8/luigi-1.3.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "0ec3d719f0287290af8d90a9de0d7772c54732d8e917dabcaacb44ac6c141866",
+      "url": "f6/b6/92a5de1c1d04e579183b97cc2aa1e9fabface3d096ebba5a28842b9db1bf/luigi-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "678eb30789f43e32e4f001592fd0f607c6e012d56a00fd7e82f6c9e500db4b4c",
+      "url": "d4/2a/d6bff91d5ebb22449acb84b8212fd05d19e70713c16b092bfea4c2d2ce21/luigi-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "98e3806afae88b8c2cc90ecd621f610c5a67f96aa7d6b5fee1d38f0cc6e499ac",
+      "url": "3b/e8/1935ca0d61e89c135b06e27ebeb39e819d73cd162f8b8fabb3cb62fe4852/luigi-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "c4ae2282a6eb36ecff56eb4425464485cc88fdcb57fbb9d8b08f02e96bc36bc5",
+      "url": "47/ef/50c8d8b71b6613bb17088cf7b02319dd907d8bd05f6280e27a4199c68402/luigi-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "18cc4f424b4379158ccb765282aaa0e31b7bf46d0db855ede22c227cc315336c",
+      "url": "ab/f2/487cc0a14227f92d18291ea85bed2acbe09e23b717f42626af13f8a91fbe/luigi-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "b5b96a511d9eedbb7998432d5494e6a215d9056304a788e499f17b2b1ac7154d",
+      "url": "25/64/5383d94b5b44e9c1443c1a6b857210ace8205954359f8353a50c16deb664/luigi-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "6e18ce83621bea7d4c4ba14648e3bf00e1021c1073cf024d6c12403573f247b5",
+      "url": "55/8d/0842fbdb05a18d4a9e578f7c1661fbc719c625b1d1f0f9ceb08ea8bea518/luigi-2.3.1.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "3cacee675f24e1c2bb4a3eaa508d767cf174f989b82cb1bd274881144e227d59",
+      "url": "d5/0b/531d2efe721a7195bd593ff2d92d41720b10dae0093f9abfd2c073560dcf/luigi-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "13c83f5a67b32014f73c7288397965e15d7d760e953a74548276771f9216bbd3",
+      "url": "80/83/f1f805266ba83964b90e31890d8f8f9ee4b82c40e9778fac350bdf830fba/luigi-2.3.3.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "5c63d960c5219346acf29b925f5de7585427555a863b5f9e27fa19611f2d8382",
+      "url": "6a/84/42bea7839bc6eee8c219775f6afe3e296a554985a0aa216fb6090478a3e5/luigi-2.4.0.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "fb0dbef787d2572f98c4a8d25c993731c8805d67919c79496fde7cab1cefdf26",
+      "url": "9a/f2/7f7bf85e1e380375cc8a291ed648c733b4f310fe43a00073fff12bb61692/luigi-2.5.0.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "b308aaabab87473cbf0253c715144431476d8deb76bf7708a9850225c81bf0ef",
+      "url": "9f/aa/5067601c565d61c8e1f172035eee4f1d50f25a193b9041f17ebc6fff5764/luigi-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "4b60d7d6556086680ffcfdb8b7ffec97a8a46bbc4ccd2d47523082a25ccc1b1b",
+      "url": "47/90/b149d40eabc66e1dd42c36fdc32fcf206bc85948ebaad15b2862ddb692b1/luigi-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "8de76dd1631f133407cd104f3aa4a51a7bfef92d0f46482430bd044c3f90e7c0",
+      "url": "ba/02/875fc467eb435a26de29ca654273dee24425696416de1d701971d3e04a91/luigi-2.6.2.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "3c9f3127671324c22db10516dc2a873ca458dfe0c0fb2e295f875e0b343c028a",
+      "url": "a0/55/1fca3e8e2c54db39cadf5149019948303e3dc5efa2fd27dc614f3959019c/luigi-2.7.0.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "860118164e12b5d9deedbf07454d9561950fafe79aac8fc99449ae855adb1e9a",
+      "url": "53/b6/6297e2a6c1964d034c5f1197a98e87f17f623317f924fdb649d422fdcb7c/luigi-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "b71cd2b8100f4ae2cca94a61afc6063b998df0b87d9e77886fca76fe8365e00b",
+      "url": "0c/51/1a4bf03ed2e8582da8c5aca172d145958975907247c2864e7c84ad36256e/luigi-2.7.2.tar.gz"
+    },
+    "2.7.3": {
+      "sha256": "3b90f488dd2c67991940d598aa0552a1e557b5fbd3d6b0106458fe9728be6c04",
+      "url": "e5/99/f6150a94a1677325bfa972bc20e0e959f6c6b94f189d18685e68167e53bc/luigi-2.7.3.tar.gz"
+    },
+    "2.7.4": {
+      "sha256": "1c36a58f39849e52ed4925bb4664c7752f731afa51d93d87f069dc60ca4cebba",
+      "url": "51/d0/e3f3fc641f6b0f2d7026e94d75880be695b3acb8210aca7cd4f24491b049/luigi-2.7.4.tar.gz"
+    },
+    "2.7.5": {
+      "sha256": "0cf2e191f7fb2c16f4351ae4235164095e7d9666cdb58d0c17950bbec06dc750",
+      "url": "27/d4/6e7ce0e4a4fcc6df81513c11dfdcedcf8fe506077ba3381f929670925dbc/luigi-2.7.5.tar.gz"
+    },
+    "2.7.6": {
+      "sha256": "1f8ac3fdbc09f030c24502b1773a313e3f032f907b79f7d96146a9936075a16f",
+      "url": "fb/9d/19f7449b2c75e4f4a1e2dfede920dd8e91c5820cecca89bfcdfe28c47b0f/luigi-2.7.6.tar.gz"
+    },
+    "2.7.7": {
+      "sha256": "63b17f46ab2288d181f6649e0ea1937e1454722d1d15e112ffb9878494da534d",
+      "url": "b5/d6/7dbde9f72d05a83e3903db45c05d57d80bd198951b389c64c4afe3f67129/luigi-2.7.7.tar.gz"
+    },
+    "2.7.8": {
+      "sha256": "4664648cec5b2473cf49997d4f86cf2481c568924281f6ac44553f123563e269",
+      "url": "f7/ee/430f5bc90c4be437b4af24d65c77a037ab4f69c1ce90e047535403a4a2c1/luigi-2.7.8.tar.gz"
+    },
+    "2.7.9": {
+      "sha256": "3dedb6f6b4f4687c00f7cb3e9d31d030414a64fa3fcb0eaca2df0c8af143bc0c",
+      "url": "96/bd/9fe144e46c2cdee5f0c712b2287cc506ade7fdf1f2a3fdc9ce0f0655b3eb/luigi-2.7.9.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "29217429782eed4885e312103f25cedb1a63fdae4773c68e368a55eacca2c9a0",
+      "url": "fa/d6/18ba4b07360694fbebe03ed137a01a2a1f9431d77196812ace9b961e5061/luigi-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "34245f5e8303247fd3a0844d2fea3f89312f9b77ea6c6af639aaee1e672c65ac",
+      "url": "ad/12/d0a89232af30749b1871004c7bfaa8e2b94760a1231f986b18fe7dcc3267/luigi-2.8.1.tar.gz"
+    },
+    "2.8.10": {
+      "sha256": "92f82c0dd82d174fc23b83919317be27baa8355bcec8077c1bcabd0018aa8cca",
+      "url": "8e/91/6ab238762cbda2c0e914ad77bf658ff61121f779665074401e6a45e49c1b/luigi-2.8.10.tar.gz"
+    },
+    "2.8.11": {
+      "sha256": "c2b3dcecc565fe77920553434ed475fa21f562d4b76da6bd1a179a8b732fcc9e",
+      "url": "15/6e/21bff3eb7891a22e7adf9202f23c5246cda572ab55492011a78280228f20/luigi-2.8.11.tar.gz"
+    },
+    "2.8.12": {
+      "sha256": "b6dfef1b4cfb821e9bcd7ecdcb8cf9ced35aa2e4475f54d411bbf0a371af03dd",
+      "url": "e0/f8/3173a260cee500a10aa1e0bc4c2f25349891c0ef602573833d1460cebc2e/luigi-2.8.12.tar.gz"
+    },
+    "2.8.13": {
+      "sha256": "aec235da4b66497468af2462293d30e9c2e46d62b142c0ec0cf9481e13292474",
+      "url": "e1/ea/5bc39cad61022781ccb3ced97a494feb1baf022c6909ffe3154d82acc0a9/luigi-2.8.13.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "4d1330dfc219903f12598c1cb8d5b6676d4d9768d13c2838c4a5219c17c7fd8e",
+      "url": "39/c8/0b4a766c7e6b753d09c7324d06ff01eed62fb7ce4f693196442d258db291/luigi-2.8.2.tar.gz"
+    },
+    "2.8.3": {
+      "sha256": "8b5c84a3c3f4df07309056d3b98348b93c054f1931b7ee22fc29e7989f645c9e",
+      "url": "3c/ac/28a8e7754eb4540bc5c9a3f0c831ea61dd4eae0e99d25345bd9d562f770a/luigi-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "f6d701c6127c3bbdcd76afccad0f5e7e8c0f15f0fddf64f74516f564e5514960",
+      "url": "c2/26/c35484573a09da5a10d9f3106ff4607c75dd3307f626bf4b0ab9761c0325/luigi-2.8.4.tar.gz"
+    },
+    "2.8.5": {
+      "sha256": "e52321aa16e10f641fddae909b13d55672a2fa55a2c8a1bae7f83b8ef236a823",
+      "url": "1f/7d/76f74013216b540d588fba6e3a0f1a6ca6f2931e206d0a0dcf9508f8c6aa/luigi-2.8.5.tar.gz"
+    },
+    "2.8.6": {
+      "sha256": "74220bee38ab953c0f4ef8a7c89823e6e40397cc5a589f850c120545d9ee58f8",
+      "url": "f2/37/339231efd3e8b53463183cf3f087d64f1f383794edf26a3fc635e6345727/luigi-2.8.6.tar.gz"
+    },
+    "2.8.7": {
+      "sha256": "5f1c470c05dd9d3fbb6914247aaf58d7be60a04a2a517a7523df2fb57204a42c",
+      "url": "a5/6e/cd6a984beeaea1de1e0168223e820f4faf52e65328aad2ffe0d330a1f9ef/luigi-2.8.7.tar.gz"
+    },
+    "2.8.8": {
+      "sha256": "91fd07f0e1f205422d85b12963c634c31f3f9dbf0235f4372e1cda92448f40df",
+      "url": "d2/98/7bbcb4c42cb5f511a0d7901c2ebdf81e2abd1f0ce2f0854b9a3aa2f4be79/luigi-2.8.8.tar.gz"
+    },
+    "2.8.9": {
+      "sha256": "ac8d6f25a417498f09bbf79ab7ea4d9f16d431cf5015ed03fbf489307f3ea661",
+      "url": "65/77/e1a976a9f2a1f997d2a3fa788764ad032887bd4399a90f85ec90e1c869c8/luigi-2.8.9.tar.gz"
+    },
+    "3.0.0b1": {
+      "sha256": "b22fbd3df1214a9e0197aff5e7f6bd0be32a3938b8c98801b12fc2e40ccffe4e",
+      "url": "8c/91/5708d8c691e1050799d9ff4fb0469a7e4a3b3c8b06d51289bd496891fa35/luigi-3.0.0b1.tar.gz"
+    },
+    "3.0.0b2": {
+      "sha256": "9c1b4d18419b1f211d12e2065d8723e2e0275df07090f3418a95edae7e5338a7",
+      "url": "f7/0d/fb6c0341a286275aa04a09c7bd01823ef11c04d6cf68bc3b5d02d5ca0ece/luigi-3.0.0b2.tar.gz"
+    }
+  },
   "magic-defis": {
     "0.2": {
       "sha256": "77e9d29e94d77360c8bb98757f3117fb07a7fecfa4d6a27754e1ac8303b4d63b",
@@ -13221,6 +13519,10 @@
     "0.4": {
       "sha256": "d53ae6f30cea837e5337550c0bec2ac29d20feb4684f9a56c6e35bf4675c48a9",
       "url": "72/ab/e15d9a8c026dd08b5228b372da3a4a53701d7c2656f8b64fb275e2ea75b0/mg2dsn-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "b86829ef6b156f04ed95e82fe80da7ceccf44465dfd9c53519b188310af99f36",
+      "url": "02/c0/492917d0fbb12094641bb02f5ae7f0e24e1501002d28707ec364520923a2/mg2dsn-0.5.tar.gz"
     }
   },
   "mgit": {
@@ -22025,6 +22327,10 @@
     "0.6.7": {
       "sha256": "309fcfb815c7cc905ceac1b13db6e2e9db304dcdb7a97d8136727613beb55339",
       "url": "4c/8c/fc7deb687482a5c0efd7572dfe322bb28c6a158ff367466a97b8fb689558/treesapp-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "7e37ea31bb2432946266fc9277ac3a97ba2c41ebd9b19ceb8f406286e1755b69",
+      "url": "1c/e7/0dce81aa6961ada6d1b67171e269f7f6c46ec395b4129e3d4e9c041e4326/treesapp-0.6.8.tar.gz"
     }
   },
   "trezor-komodo": {
