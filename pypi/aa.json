@@ -1886,6 +1886,10 @@
       "sha256": "803ebc702e378224a83a8a59f45ee60c28b2257dd8c319bea75ff10fa37cdf91",
       "url": "e2/5f/36918e94a0046e102458bba21e1f001b829c5d20732ab1be49615d193abd/breathe-4.16.0.tar.gz"
     },
+    "4.17.0": {
+      "sha256": "9e34b6c367179c28d2a8478dacaeb16c9aca2169791e6b3776ad8bc14e97aede",
+      "url": "0e/d9/5181a3452e56bb32f5caa6ab24b565ea8cc68976de19defeaf4c180f8a3e/breathe-4.17.0.tar.gz"
+    },
     "4.2.0": {
       "sha256": "978eba211d8602122d58857d56ffa7dc454b2743402ad37b0fa05a22ba477c54",
       "url": "27/73/5e6b97b90f1e3c9c1542b2b0a2487d7934cd3a9a13c19f8ff9fb9b1e0dbe/breathe-4.2.0.tar.gz"
@@ -12447,6 +12451,10 @@
     "1.13.0.0": {
       "sha256": "4c1f0038cc36d8d3045dfd3cde405765fe17b046f79b43610c7be329d15e5f29",
       "url": "3c/6a/185acde776550ccad56e00255f2ea9096e8dd2939a2b79f853945345005f/mypy-boto3-iot-data-1.13.0.0.tar.gz"
+    },
+    "1.13.1.0": {
+      "sha256": "374df2cc9df086eb74fbd4e1a3f38bbc15806b18e411c2e8f98313061d8e5cc4",
+      "url": "11/7b/6bc41ee2bbf736e62f91577efc4c28d251ecf15ec0b95a13ecd67ecf8614/mypy-boto3-iot-data-1.13.1.0.tar.gz"
     }
   },
   "mysql-python-vincent": {
@@ -13950,133 +13958,9 @@
     }
   },
   "pollevbot": {
-    "1.0.0": {
-      "sha256": "772b8e0847bff297445e52752b5178a7f5442e7417bcc7cc0815f47202c165b8",
-      "url": "ec/c3/7d9baf070ae6bd3085c47751790345f28a3ce85b1e5ad77cce12def1ed2f/PollEvBot-1.0.0.tar.gz"
-    },
-    "1.0.1": {
-      "sha256": "af43c15db59a33c1643329a9fdebb01293f5765728c69872492a762f19b512f3",
-      "url": "6b/cc/e197f8974f2088d2cf796bd43c51d7037218195258238f9ab7f0aef6dcb6/PollEvBot-1.0.1.tar.gz"
-    },
-    "1.0.10": {
-      "sha256": "ae909b399e8dcfaf9f70171b2a2057691b870d269a822149df6999561b6cc84c",
-      "url": "5e/dd/cc36e70ccf8fc80391e5bcefe23a89cc8bdaecebd9cddc103df4e04d352f/PollEvBot-1.0.10.tar.gz"
-    },
     "1.0.2": {
-      "sha256": "d559ccee4c84e5f06a6f2615480afd6c6a7643cda7b9bc7a09864b6ae759acac",
-      "url": "fa/c3/972de54a3c88f9dc92d63617b291fe4b4b02233d57a35910c771b5d091c6/PollEvBot-1.0.2.zip"
-    },
-    "1.0.3": {
-      "sha256": "8f478ce9a5c21692ad580a8a0a5553416c88a481d15dc2c756fa35aa4f4cf25b",
-      "url": "bb/67/79b64d4f1f15c3169082acc573553f83c8d884b0b0929bca1e5faf8e3b49/PollEvBot-1.0.3.tar.gz"
-    },
-    "1.0.4": {
-      "sha256": "171c6f69d714253cf7f2758d52554f717bca7f3429b999e38b263e42825c5d62",
-      "url": "80/00/eb001ec5eb6662f5e2ab93830e83d3c627b8723715f185e0dd62812688b8/PollEvBot-1.0.4.tar.gz"
-    },
-    "1.0.5": {
-      "sha256": "8c397ba2c55ad432fdffff43fb326d41cfacdf319459cc08382e53a9e8c787b9",
-      "url": "eb/99/76761adfe9c7d96e3a128c1686357a3b16583ff06361e5e8fc5b2ea8dbf0/PollEvBot-1.0.5.tar.gz"
-    },
-    "1.0.6": {
-      "sha256": "f520d1de9911ac837ef838185e821d038da90c531edc71eb442afc035457b1ee",
-      "url": "ed/d9/1323ed581fe70f6932fb9f15c6b82559bf606478971b2fdd9030ffa87890/PollEvBot-1.0.6.tar.gz"
-    },
-    "1.0.7": {
-      "sha256": "ea266dbc7d111dde3ffe97f2bc1afcaa969a54af9e9ac48a02b26fddd67d7257",
-      "url": "f8/06/38bfd6345c2fcd9fe3b33596004efa3aa28a5783c70e5de05499663f9ec1/PollEvBot-1.0.7.tar.gz"
-    },
-    "1.0.8": {
-      "sha256": "2597808b572b2ec069cc0d02a39a3347b1d2d520bc72052ceee99c4ad807cc5d",
-      "url": "3b/ce/b34ca850f4c91513672bb315f67991efc39d1b0282f5308cbd0926c1f7ef/PollEvBot-1.0.8.tar.gz"
-    },
-    "1.0.9": {
-      "sha256": "b422b7562ee96f4b21819c2a06071cfa617ddee01115da465fd556ed9090a668",
-      "url": "f8/27/8faef0439ebac7dacd128f287fb311b22c174eb8c5a6e9b4f87405a434f3/PollEvBot-1.0.9.tar.gz"
-    },
-    "1.1.0": {
-      "sha256": "c07ec086e9434562c039150fd93513040f5536dac5ce0e2390048879cf8f35a6",
-      "url": "94/95/c976739adabf2a0cc1d70b110cbda439f56cddf4f078897116394485a73d/PollEvBot-1.1.0.tar.gz"
-    },
-    "1.1.1": {
-      "sha256": "1e5a9bc4653a915c714014df34a70927883d74afa4476a6ad6aac8e3d4b699d6",
-      "url": "fe/30/3f54a7195f268fadba9c608d03b831181817ace433d5440bbc21050c2ac7/PollEvBot-1.1.1.tar.gz"
-    },
-    "1.1.10": {
-      "sha256": "9bc0232e22df5576a2cb66d7637e9c6c651203aa5f2d68862a0c97588ae37ac1",
-      "url": "e6/58/031f0cc0faad8fccef7e9ca1d96c2e8677c41817e168f8fa4cfdbec1dcd9/PollEvBot-1.1.10.tar.gz"
-    },
-    "1.1.2": {
-      "sha256": "d11404a16387270ee0cc52c4984dd750fdd3013a9165d97098590e86dab919d6",
-      "url": "d0/24/105a208789ab00f76b11ea44ee622524d7bfda3e98a57d4022a403413487/PollEvBot-1.1.2.tar.gz"
-    },
-    "1.1.3": {
-      "sha256": "c2badfbd0904d616c06ef7b982fd6c8f0af550b000c7646c6eefe01dae8271e6",
-      "url": "2b/1a/059224a2cf6c8a4e064fca66119a6dced7c95a4db2306fb8d805c3893ab0/PollEvBot-1.1.3.tar.gz"
-    },
-    "1.1.4": {
-      "sha256": "16427210ff6f5cd41e154d6c8f96cde9bb313e6ae8bac05b6b440fe27e4d76ac",
-      "url": "55/e8/2c65e2e5ab6e052cb5c3fac636bfdbe4a1f13a846776b5deb0b1d9c43ccb/PollEvBot-1.1.4.tar.gz"
-    },
-    "1.1.5": {
-      "sha256": "7cb48cf0c9d0974621b67bfe3ebac2e1e4d38bc7ad99d9c4b2fdb90a7b90fe95",
-      "url": "8f/f9/c367b9899d26ab4d020425981243e32bf928fdda5e9ae90d392326f21b52/PollEvBot-1.1.5.tar.gz"
-    },
-    "1.1.6": {
-      "sha256": "a1a5e54880e3347f198776acdc71f0dec318f3ba4df371ed0b24d5d8dacd92c9",
-      "url": "53/a2/f4660df05ab5ebadd095ea6c432b763057b563f776661ad537ba7a8a7d31/PollEvBot-1.1.6.tar.gz"
-    },
-    "1.1.7": {
-      "sha256": "ac6721a6fe1f8449db432fc9dc3aff036352d0d813ec569f56a8cb44b0e96182",
-      "url": "ba/8f/17be15a0f2e1fee77b330f3c75944949e4b5a141a87977ccde1f5b18e99b/PollEvBot-1.1.7.tar.gz"
-    },
-    "1.1.8": {
-      "sha256": "6c0f268fe9b9758d88ba76642eb7e662777ca9e52ce08cedb62893d389ff8ec5",
-      "url": "2c/bf/5aae768d3778f68622a0f663c96c457b0afb7af68f2026b5d6d58d755f1a/PollEvBot-1.1.8.tar.gz"
-    },
-    "1.1.9": {
-      "sha256": "72491fbcf06cbc3ebe36373fb6f724a159bddd2a599e6083aafc00f8a3d49548",
-      "url": "a7/c1/1328e0cca47c121c5d47ef63fbd8a9663470c42393ce95c3a5853dfaa708/PollEvBot-1.1.9.tar.gz"
-    },
-    "1.2.0": {
-      "sha256": "39a5341bae320f2873229cd72724c9e3ef9ffe296a476c590cedd5ee7ce18586",
-      "url": "09/4b/53fb86731c3db7bf59b2225b512b9af5544046d782540d44722759e87904/PollEvBot-1.2.0.tar.gz"
-    },
-    "1.2.1": {
-      "sha256": "18e2f1784202956264e3be123f3c9a8be78ba3bbbaab0e877b896e71b2b3a8e8",
-      "url": "72/12/b73bea0572689f19deb6900bcb04b2e756c392a54abfb650a4bbf0c880a4/PollEvBot-1.2.1.tar.gz"
-    },
-    "1.2.10": {
-      "sha256": "839348367a31598923e480f999f83a2334f9e3bb1a9370e097e07b2e7afaf64a",
-      "url": "9d/fb/e33781aca11dd7e6ab0ca9355be09da7714425582d58e0095be6a2caca14/PollEvBot-1.2.10.tar.gz"
-    },
-    "1.2.2": {
-      "sha256": "8658bc483c72080353773d76ecd736629fdb60cbdfd2fd5c86e74551aae5f475",
-      "url": "c8/39/661e13675385f125f295ff2ad9583048b525455e366b5fd60480b5ed8a99/PollEvBot-1.2.2.tar.gz"
-    },
-    "1.2.3": {
-      "sha256": "2348dacefe227b346c27d3fc88a395b3e681028ba84f77f3f14cb7dbeff45e2a",
-      "url": "22/75/92e7dd19313c1bc5fb71f001f9a6b5c3d7aa816f27cffa1cc42cd6986625/PollEvBot-1.2.3.tar.gz"
-    },
-    "1.2.4": {
-      "sha256": "fb6273b765e0585839c627f5d11e9d7c1d3712ba1392bdbbe5f33b21971e837f",
-      "url": "6f/ad/1e657192a07b94ccbd5424e71b4ae30b72e2986565754980dd2348177d0e/PollEvBot-1.2.4.tar.gz"
-    },
-    "1.2.5": {
-      "sha256": "19efe3be1dc0eca68acd6dae4f6dd3c8d2e4940d74c22c3500d4633bf5b75648",
-      "url": "55/86/d4ea5c78e6948949958363cb860869e0ed60a409881632d3856119700a9a/PollEvBot-1.2.5.tar.gz"
-    },
-    "1.2.6": {
-      "sha256": "4370dabf27541bd0f80225740f0cfd6d5d11fb4297bbcbd12fd7ba8f846e91fd",
-      "url": "e5/06/d1f16f1a9e62622eb8f9925b97c69491844d45c3bab249d3571449653575/PollEvBot-1.2.6.tar.gz"
-    },
-    "1.2.8": {
-      "sha256": "1146b28794ce1bab036f532a9fde04faa3150835b85248bb68cd0f23a5a7504e",
-      "url": "ad/14/1ccedf66393254fc260168dd1abc9cc376e9c061b8e830acf867544e2fa4/PollEvBot-1.2.8.tar.gz"
-    },
-    "1.2.9": {
-      "sha256": "18931a9be90af47ca0bf7202dec510e09137ab1cceadf51f1450d60dfc8fb196",
-      "url": "25/3f/72a9f5138a1a1dd64e7c41b49b71f1a22bd9db2129ccabeee3dfc60de629/PollEvBot-1.2.9.tar.gz"
+      "sha256": "160f7ac4179675ad7d74994a665e6f4b7f950799fefa71e3e44815e9cfd908a7",
+      "url": "5a/4c/9b3b5e646fb568e7edfb56492b868732a7c37cb64795d3f826ba3ff52f45/pollevbot-1.0.2.tar.gz"
     }
   },
   "poppycdn": {
@@ -20283,6 +20167,10 @@
     "2.5.1": {
       "sha256": "5909852f8ce350631cdaaecaf0aee45569148d22bd429360a1c92a203ba5706b",
       "url": "a4/41/0d2dd9bdf7e171fa20b6df24b1a87f311386d4e154c53e9f37bcab38d8da/tbm-utils-2.5.1.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "235748cceeb22c042e32d2fdfd4d710021bac9b938c4f2c35e1fce1cfd58f7ec",
+      "url": "9a/5e/2885c4f941d1d76f058994004d65c414ea74f354204670d3a2fc0288a049/tbm-utils-2.6.0.tar.gz"
     }
   },
   "tddc": {
