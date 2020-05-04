@@ -826,6 +826,10 @@
       "sha256": "effeae4fb370cbffd988b8ee8a472577f8cd05cb451d649109648d8960aeb089",
       "url": "e5/8c/e188c9546378dc3a75b3a14a5c249ac09eef58af6704d70e7014c4260481/ajenti.plugin.plugins-0.45.tar.gz"
     },
+    "0.46": {
+      "sha256": "36ac656bd7071bca598b2a8a335271c472e3dec9e40e616912510e7e4aa4610f",
+      "url": "99/63/7390d8245af4f235bcc552ed734da2fc77969831eeb1fff920c222fd43a4/ajenti.plugin.plugins-0.46.tar.gz"
+    },
     "0.8": {
       "sha256": "89d0d487a30d1b7b8271ecb1a5a52ee8f22277bcde6a0c70155e1c727899859a",
       "url": "7d/5e/e30fc1d0f781483e46df4797c271b137e5754889ebdc3570aad3b0a995a7/ajenti.plugin.plugins-0.8.tar.gz"
@@ -9087,12 +9091,6 @@
       "url": "8e/97/5aac9464d7d981d69820bf2438bddf992e4bb83187ce1aee5fff4cd8ea62/install-jdk-0.1.0.tar.gz"
     }
   },
-  "instanceof": {
-    "0.0.1": {
-      "sha256": "a70627ecc1fce9201818a4cb1ecac6e159b4b71cd618b7c3ff7dd32738c07606",
-      "url": "05/3e/0f94739a0c7936f95546841d564a55c5b4fa5d531f19ba412ebe68a1508f/instanceof-0.0.1.tar.gz"
-    }
-  },
   "internationalization": {
     "1.0": {
       "sha256": "996e82c023e26dbd622a1fd083199a0c7c63451b51a47ca95ba96d489bef2e5f",
@@ -13275,6 +13273,10 @@
     "1.13.1.0": {
       "sha256": "565cee945df50179544127643df0389ad2c3db4c22f43ac157e9698bb667ece0",
       "url": "8e/43/4121739c689eb50d5e4e3d23937bf5aa4e03d4560e39ce3b56a75d5ae303/mypy-boto3-quicksight-1.13.1.0.tar.gz"
+    },
+    "1.13.1.1": {
+      "sha256": "d12d74ec69c9f04e8fbc468522a2a6de8049957e04b4414cf41f79441f145c81",
+      "url": "c4/8b/f4ca9fbe97cf0037eeb05ac5191b99f6064ea6bbb8acd288408b08306b95/mypy-boto3-quicksight-1.13.1.1.tar.gz"
     }
   },
   "mypy-boto3-serverlessrepo": {
@@ -13817,6 +13819,10 @@
     "1.13.1.0": {
       "sha256": "196ca914c698e18e68427c12db0c6c9033858658870aa9ab7875ba8bdcc3f30c",
       "url": "44/5a/dd2fcf730e96c33c6c3b3c40a146620303a19884b332894587d82fcb0a97/mypy-boto3-serverlessrepo-1.13.1.0.tar.gz"
+    },
+    "1.13.1.1": {
+      "sha256": "49a8d39df86c40746f94852f08a2004f1cabdaf6346ece5dd3548b9808b9fb18",
+      "url": "f9/1d/7b76fa053a30e1c75e2162310c26a44f04fdb952786f4cc09a4aa74338e0/mypy-boto3-serverlessrepo-1.13.1.1.tar.gz"
     }
   },
   "myturtle": {
@@ -15733,12 +15739,6 @@
     "2.8.0": {
       "sha256": "dc4ec42c0ddb522a400fc95f0d2a7e067173cfc0339a80a7d07122d2ba4b8979",
       "url": "db/3d/ac5cd6c912e7f6efc302e171a8617f0a4e155cca9e98b265f0eb10488445/pyaux-2.8.0.tar.gz"
-    }
-  },
-  "pybkt": {
-    "1.0": {
-      "sha256": "6bcf47e49f4fe2fe191c1db4afa257a938d71a15fbff3c75ffdd121e16d7f3e1",
-      "url": "07/06/3180ff73cf8e6bed7bfdef36075a5a9db80055e7d3d0cf2ad2aa1aba3025/pyBKT-1.0.tar.gz"
     }
   },
   "pybotvac": {
@@ -19195,32 +19195,6 @@
     "0.3.0": {
       "sha256": "b2fb1fd0cb6fea0a26848dc307128ff036f329386f95ee65d407d09a4cfd6baa",
       "url": "53/81/93f0e7688ed47a17a4dfa6c2e3bac2e6fdb7131dc05a22c3446e0d8d745b/sift_pyocl-0.3.0.tar.gz"
-    }
-  },
-  "signify": {
-    "0.1.1": {
-      "sha256": "c3223509dd4946646f371a08a9569af8049d8ddea744ec0a5731156aa1f9b864",
-      "url": "c9/5d/0ecee2add51bbcfbfc66033dbd9cab018f5137d63808c912fb858e65aa17/signify-0.1.1.tar.gz"
-    },
-    "0.1.2": {
-      "sha256": "1c9f5c0c8241415d6b8064e447701dca01e6584031452b51116017ed5f9c54ee",
-      "url": "88/1e/198b343be3a2d39939d730b1324cb20c0a683b29997261380dbef0ba1305/signify-0.1.2.tar.gz"
-    },
-    "0.1.3": {
-      "sha256": "dbd44562dc2f2714bff40b08e57da592dfaba56fd0f85c4e9084241df2d5d71e",
-      "url": "32/90/cf7e25e23fccc099014e1a254899180ba501ef574b86cfb67b05f1c014f4/signify-0.1.3.tar.gz"
-    },
-    "0.1.4": {
-      "sha256": "97c34c7ea65b6a61f8e9324628f959e8a9c365fdcc6e90ec841ad2a221b388fd",
-      "url": "ac/d4/0344142484b1c8f44d61409e47d1dd699c05ac52262393d41f6633602e3f/signify-0.1.4.tar.gz"
-    },
-    "0.1.5": {
-      "sha256": "f00ecff9dd166f7216ea14598ec7c97bd3676ff2e99223b424d5cf8ee86c5fb9",
-      "url": "ea/32/27844aa637b42e36adeae720512b225239472669154f947af0dbfae1ab94/signify-0.1.5.tar.gz"
-    },
-    "0.2.0": {
-      "sha256": "f0bdbe8932e12f1b332ef7f5211681f780ca29812181d51aeb26db0892a75e39",
-      "url": "68/a6/383a508e62240f2ba457d0df9aaf38736e9fb8352b1c9a9024d1a7ac1ccf/signify-0.2.0.tar.gz"
     }
   },
   "silverberg": {

@@ -326,6 +326,10 @@
       "sha256": "115ad8825fc74296dfc9d70a384f0b7a1474ea4d0220f6d10490e5d5227c9ea1",
       "url": "f7/47/5d768ff493107faa9a0e5fced70b7a0782dd27c572ae2eab12d193f0505c/ajenti.plugin.terminal-0.36.tar.gz"
     },
+    "0.37": {
+      "sha256": "d0ed7ba9854499f1219ac47596d79737b1d64f580573f66f1fbc728f3bc7b82a",
+      "url": "bb/d4/eba56c0f25301d2e9db0ac66e20f2048afc60e3036c238c80b8bd07d922a/ajenti.plugin.terminal-0.37.tar.gz"
+    },
     "0.6": {
       "sha256": "3b1850503f024878671c5ef14157509b63c260013bbe3be167e7546ffff05823",
       "url": "cf/4b/9a125b2283ac151c973ecc471cb0ccfbcad12a962ac1bc8e9bea99728e2a/ajenti.plugin.terminal-0.6.tar.gz"
@@ -4979,6 +4983,16 @@
     "0.1.4": {
       "sha256": "5a49eb0def1a086e24f71262dc3016f298f304d53d0ae673749f686da8d4da3b",
       "url": "b6/8a/eb66db557e081a20f444d55dea7efc335f636f32bb4a8d35c56f5eec5333/django_mail_admin-0.1.4.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "38c5e8fd74103976f1137113c1f2d6d772418f139876bb53155c78c3f407c655",
+      "url": "83/ac/5fbef767417f28f805e57bb6c5a3e3cb6f94f841ac983c6800686287b55e/django_mail_admin-0.2.0.tar.gz"
+    }
+  },
+  "django-migrations-diff": {
+    "2.0.1": {
+      "sha256": "80501d1a130b8f5e3e0b6b7bff0da7494644a397a53ea6e078c437194838b9fe",
+      "url": "e4/f3/20705abe290d009692bfd999ca7b71fb81ae5d20ba35742f106a5ed4f200/django-migrations-diff-2.0.1.tar.gz"
     }
   },
   "django-model-changes": {
@@ -10973,6 +10987,10 @@
     "1.13.1.0": {
       "sha256": "cbe3b21274dafe5b197dc2e6ed38d2cfab3358f4783ffa3da414f63827bc8d5b",
       "url": "c1/e8/3de381970e235250aad829a11315b6a41223010fc9bdeb053dd7e4c5953b/mypy-boto3-discovery-1.13.1.0.tar.gz"
+    },
+    "1.13.1.1": {
+      "sha256": "26822c5b342ed46744b242999fa49c45df0e98a3211d58f9d1dc8f85caefe3b2",
+      "url": "50/51/77f6c3ff8ffdd501bac049801acdd93e9beb18c52083ff5ffcc16ba87022/mypy-boto3-discovery-1.13.1.1.tar.gz"
     }
   },
   "mypy-boto3-health": {
@@ -11515,6 +11533,10 @@
     "1.13.1.0": {
       "sha256": "cf2304fdb81c408c020dea6246abd8bcd8a7fff111370a8a05168227d99ea87f",
       "url": "ee/5e/471f7bc238a6e58c8442a7997a8b063194ce6ca19319a2cd815826f74cd2/mypy-boto3-health-1.13.1.0.tar.gz"
+    },
+    "1.13.1.1": {
+      "sha256": "c9ae949b7b6d0dc93cd36bed369c3481d79c9322158a94d718dceb13300b3799",
+      "url": "7b/cb/39c66a6fb9d4971324a6e5c387d21fadbeb3bfc096992cc346d64c412527/mypy-boto3-health-1.13.1.1.tar.gz"
     }
   },
   "mypy-boto3-lex-runtime": {
@@ -12057,6 +12079,10 @@
     "1.13.1.0": {
       "sha256": "f10b2f4a82c5c4e44d22a5b3f58209138b653b956b5d6a5bb9686a2c98c827ec",
       "url": "fd/0f/2f6f2a34a309522a7786b94066872bb6d1397786c9927c53cfafe19621ef/mypy-boto3-lex-runtime-1.13.1.0.tar.gz"
+    },
+    "1.13.1.1": {
+      "sha256": "f6060ab7490d2d449a2e0a621d2740acf070782ce816822f43fb7437631df8c5",
+      "url": "7c/a2/57dfef564a6f83f18ff3636eb751c9c4973028c311f5db5221df3e9c2662/mypy-boto3-lex-runtime-1.13.1.1.tar.gz"
     }
   },
   "mytopsis": {
@@ -12729,6 +12755,12 @@
     "0.0.9": {
       "sha256": "aeab6e751abe9e262f7282802b455722e2dc3b160193f70efe6ea6e526ef85e6",
       "url": "51/c4/43a8c37f81723ff9ee866b5b56b2d2fe1238c5b3fcd5a52f42837002a432/notes-gen-0.0.9.tar.gz"
+    }
+  },
+  "npdoc2md": {
+    "0.0.1": {
+      "sha256": "2fc9d872dbdfc9b743da38859a8e43ad730e62d01e1affa361dbdb3862056eb9",
+      "url": "1e/8b/dd39d2f050a6dfb2a54dc4ca054601829a9abe5e639cae85c9d5cb0f3422/npdoc2md-0.0.1.tar.gz"
     }
   },
   "nr.types": {
@@ -20223,6 +20255,144 @@
     "0.3.7": {
       "sha256": "cfd864b61adc2a2e635211790279c3b1fb5805817cf39d3dd50619ef55c47cbf",
       "url": "44/cc/ce93dced3e70ef5e87dda17f071d6837717e17bc5634382351b3f4f5d67d/summarizer4u-0.3.7.tar.gz"
+    }
+  },
+  "superhelp": {
+    "0.0.10": {
+      "sha256": "1aa0d070ae604ddbaef553a02bbf9aa274268afaa2abea84f8b5a49ed9e1e3bb",
+      "url": "8c/38/6a030eed482eb3f78a0515428b7e5b6a09e8ae39e7eadd8c6a9d9bf1eae0/superhelp-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "4928a101a96579e2149d037821b63ad855337e78750238dd3c8e7d9f86526cc0",
+      "url": "de/ec/36bbcc30dfa72196b3e0c8eb506b6c96d9cf7102602d8103643deee42e8d/superhelp-0.0.11.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "021987c4bb869bd1032d5529c50f60e35f81412bff2656a536ce22b5893080a2",
+      "url": "b4/55/82ad6b1c44e703a56431488da6468aefbc3768f9e25293038202dc56f387/superhelp-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0535525b301804a1bbba1d18f533e2248e4d19b3c0cf2d3ea74ce1a86eca3a25",
+      "url": "42/ad/07bdc1dde0297f61cbea9b84cc3b1551872362bcc5e00aea3e3344ec0c95/superhelp-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "8a613844af2a7ff5b2ac28c3abe85f7770edca492f756ab42260d13ca23b8e6f",
+      "url": "79/62/5067a70ab8cdd046e999fd9ceb7d756411f5cbe3a6b66eefbef3758b6354/superhelp-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "b9f30876f60d4d45a74404bb14989ae81375bfab4adbafac1fc2085555879ecd",
+      "url": "c5/ff/de422422b3278b9faa93b19b7433189c75bdf7dd577b6115b0fdbb726817/superhelp-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "a0c5d0478abbfdc8efcf4ddc22b547d0763cd9d927d89c3917db42f5be8ac928",
+      "url": "26/ce/520a1802582228ae397f6cb5c5cd4a51d67f8c91fd37e8aee4aabafb2526/superhelp-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "bb2a2dcc22168005f359f2d50b3975d29daee0360f7499944e0e50b6b6cfd4ac",
+      "url": "6f/02/bfeae738db36b9c8313a53ada98b9b9d6a3e1768bdb06d35a1aeab55f644/superhelp-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "96ce23f667787acca57eedcc20934376ce75f0be4c39a37665d7237640ff0556",
+      "url": "fc/3a/75106126be9911bbcf91edaa0c0a82e8c62c134b4b7140ec24a5c87f160f/superhelp-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "b2cbd73e03e271c045863ded7cf7f9f101cd9476e8cfc7001138938a8256b410",
+      "url": "e3/dc/2fdfe5cee787f07a3f13c4a19842df03d8bb9d70a36b3aa6902bda7135a6/superhelp-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "2dbdad241f03c62005cfb1424a07580ba7ed49e794296375ba4b6397cb435107",
+      "url": "0f/73/93025acb0ce4a1834704baf95bdf80e1dc90c14a137a46d10ef27f86ee79/superhelp-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "073d2c1c06ba0c25041cd020786f9354a368b803617d0f490f6b88ff9e1c0395",
+      "url": "d0/53/a576a7d39e86da4f1a13091d2068fb3bf50bea501baff1bf5836e6d039a4/superhelp-0.1.1.tar.gz"
+    },
+    "0.1.10": {
+      "sha256": "9c773f2e27b009005a14a6abe3d314006ce90604f516cabd6949730e613c654b",
+      "url": "95/60/5a839d688bf7354c4407cedaec2fda5752220113ece0b6c6be3c2382f6c5/superhelp-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "e40a9aca7332e42135ff7e55ebd99effca51e51b8a45536e59a9aab35956f609",
+      "url": "b0/1c/7b20f04a379e03cbd0d6ac2c5c9ee4ca2793e8350b293342f5f8f6178c30/superhelp-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "95b73e1a6ed2f86626aaf6a1b76c7882bedf3181d6d48ecd4c58ebe1677e17fd",
+      "url": "d1/98/fa65278efc348ad475620093ceacb31c06f5a670f037b8160f0c76da3fbf/superhelp-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "2ef4e1c7c21ab0e6e1a82a801f194ef38f38cb768784f7e130bcc2dd9f77cc2e",
+      "url": "5e/f9/adf0d128fbd5f9b126e90c22f020e87655b9e384f725bb21ed7e57290627/superhelp-0.1.13.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "98b5395f865ea50a1120b9c15b1fa8d34f09cd07f4f81bc859ceed05d84a62fc",
+      "url": "8e/1e/da3f9582fa38bd36205398185c9d677d423563e91b2716c3ba089ba21848/superhelp-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "c4c11551d66789a855fbf1f790c3aab71c55e72c265bfd26337e2c5c6f52b864",
+      "url": "3d/b5/bddd980f6f411e1ad911920efcb596cb28136477efb4c07f7b7ad1b7872c/superhelp-0.1.15.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "99d9af53ce8c88116a6c75d9e30f018c97e12b96a68dac4584b219129f7c8603",
+      "url": "84/69/5f9997be81bbb1504030ce8d8b90d587f3d360eb6db4b5d55ad0710f868e/superhelp-0.1.16.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "1bed19a2e85db91aa62097c82fa2f49911f1d22aa293806da2d3bc0eca015bd1",
+      "url": "94/b4/944bbcfdbff57e56eda1659ba8dbebeef530452ba112eeb37a46c9efd755/superhelp-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "0448b14398e59007883ccd6cbde39df20b075e70d7c481d22a7af6eb3011b782",
+      "url": "11/69/24063597adb8dc8e12ee9b9578c9bd630d2103367940d9668c96cb0b9f17/superhelp-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "235d8995102849234d095ee5f52f6ad08fb74cdc5904f84c8873dda89406bea0",
+      "url": "73/66/2a67efe5d1436f80c96f3905c60261fb7dd86dd6245b18133ccd22b691f2/superhelp-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "db72c95c4458b7e3b85cef3c9103d7ad32611d3e25e294b4da62d9fe466c97a3",
+      "url": "a2/5d/45af8fc4376c591d8ce34cbb1edb82f3cbc9be024435731f2d29652d359f/superhelp-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "9e36f8292d2bedc16fe3254b75175c973ca00e2cdd649f29bac9100009f12176",
+      "url": "d4/c8/3972dd5d3ef63bdc3d914cd71ba7a6e329d9d66674f94a4a86a98ca9d40d/superhelp-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "932cc2695c8ea439eca7cc09cb1ef3f45454a6aaf577b58d58080eedc74da1c8",
+      "url": "58/12/703938be02a2d6affbbb07f481afee01ccac374ff5f9ff64ec5fd52de43b/superhelp-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "42b03dea862cd080de1e383bc34d48443b426ab6cdfae0cadeaeb0f23adc687e",
+      "url": "df/d0/22c29ce781783230aba2103f0ed71c4fb9d1bf3ca4794613670b95a94acd/superhelp-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "ead2e90a1847ce5ec13f893aa1867375e443468912b8f310dac567e11b7b1a1e",
+      "url": "d9/7c/df7604b4efa6e5c28c0540a461e396ca2bd5393e54495c627d78b143dc9a/superhelp-0.1.9.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "68a77ba4b3e8b0b1cac5f1c5451a54548e2ec285cbb41705dfba7334ea464fbc",
+      "url": "3d/89/c35d6f92680104635b80b2c7c4adebba2ff63763da2401aced4d02010257/superhelp-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "9890e165ead00d970c8bed4d6cefd06fdede0b834c43398e19ec014be345a685",
+      "url": "5b/df/93d6a58549de55d1148c93cd836c47d7438e0a9d9eef5f29d6851e5037a1/superhelp-0.9.1.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "177078f0e436401ee31d572cede7fde1b07f785885a797c4c83a0ef2018b42b3",
+      "url": "ef/85/ca2726a6004e57bbf042fc88c50b498e2e5689653165236016a4edd44160/superhelp-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "9930b32b86480a1586dcedf80078c83e488852723852c896aadcda0f4a55fc3d",
+      "url": "e9/70/ffa27192e755440508390720d7ef820989cc1de745595f3bbdb337a3e333/superhelp-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "1c5f3b0884d61d619765bb98d064765dcd358be1dd31f95ed1dda46561504cd3",
+      "url": "c1/f3/bd2d2db0b421834c5826a83616fdee59306d71fd2972baa02a3dfbc48aeb/superhelp-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "4a835ecded09ff870c0f2cd98ba84360999d55dcf1975344ee2ba8784c7f4961",
+      "url": "ae/1d/60bacdef0a57eefbec2d7e54e2d3c12cf5c235a98c20074c7e12c8ba68be/superhelp-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "c0199a71cde58346d596bb321b420c83023f2216041e5e2589cd0d44a1362d98",
+      "url": "63/de/395540c38ccc48f5382f4b28a45c83177bfe3a01b022c0f6289668405ae0/superhelp-0.9.7.tar.gz"
     }
   },
   "surykatka": {
