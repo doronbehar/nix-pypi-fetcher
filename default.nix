@@ -24,7 +24,7 @@ rec {
     let
       sha256 = elemAt release."sdist" 0;
       filename = elemAt release."sdist" 1;
-      url = "https://pypi.org/packages/source/" + pkg_name_first_char + "/" + pkg_name
+      url = "https://files.pythonhosted.org/packages/source/" + pkg_name_first_char + "/" + pkg_name
             + "/" + filename;
     in
     pkgs.fetchurl {
@@ -36,7 +36,7 @@ rec {
     let
       pyver = builtins.elemAt (splitString "-" fn) 2;
       sha256 = release."wheels"."${fn}";
-      url = "https://pypi.org/packages/" + pyver + "/" + pkg_name_first_char + "/"
+      url = "https://files.pythonhosted.org/packages/" + pyver + "/" + pkg_name_first_char + "/"
             + pkg_name + "/" + fn;
     in
     pkgs.fetchurl {
