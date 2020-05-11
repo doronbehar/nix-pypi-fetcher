@@ -31,7 +31,7 @@ rec {
       inherit url sha256;
     };
 
-  fetchPypiWheel = pkg: ver: fn:
+  fetchPypiWheel = pkg: ver: pyver: fn:
     with releaseInfo pkg ver;
     let
       sha256 = release."wheels"."${fn}";
