@@ -31,10 +31,10 @@ rec {
       inherit url sha256;
     };
 
-  fetchPypiWheel = pkg: ver: pyver: fn:
+  fetchPypiWheel = pkg: ver: fn:
     with releaseInfo pkg ver;
     let
-      sha256 = release."wheels"."${pyver}"."${fn}";
+      sha256 = release."wheels"."${fn}";
       url = "https://files.pythonhosted.org/packages/" + pyver + "/" + pkg_name_first_char + "/"
             + pkg_name + "/" + fn;
     in
