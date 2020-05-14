@@ -7998,6 +7998,30 @@
         ]
       }
     },
+    "1.1b85": {
+      "wheels": {
+        "cima.goes-1.1b85-py3-none-any.whl": [
+          "df660f8d6ed686dbf58255f25acfd7ba76e00f9be69b055295c61d7f31feaafc",
+          "py3"
+        ]
+      }
+    },
+    "1.1b86": {
+      "wheels": {
+        "cima.goes-1.1b86-py3-none-any.whl": [
+          "f2abcec090f45988903029c13130ab8632b79c4d1963359311f4fa816c2b3e10",
+          "py3"
+        ]
+      }
+    },
+    "1.1b87": {
+      "wheels": {
+        "cima.goes-1.1b87-py3-none-any.whl": [
+          "d58434c165c29a9fdd17ca64d3795522f75966c670bc9d2cc3ec06f01d1288fa",
+          "py3"
+        ]
+      }
+    },
     "1.1b9": {
       "sdist": [
         "5dcfb4bb11cb83cdf89338ebf179aed1296bf7c3fd7f67a82418bf662641d364",
@@ -9774,6 +9798,18 @@
       "wheels": {
         "copyparty-0.4.0-py2.py3-none-any.whl": [
           "a24fe1202a2d0342892184ef95e389f995ff561dfea7a0c536dcd076231821c9",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "6c5291c9e38ddbbabb6d297b44be4649a702604c869026ec520eb5c594c79783",
+        "copyparty-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "copyparty-0.4.1-py2.py3-none-any.whl": [
+          "b735e9925f1a78bcf1c540fb0668b9c57aa82d9dfdf4387a20f11a7fdd40641b",
           "py2.py3"
         ]
       }
@@ -19962,6 +19998,18 @@
         ]
       }
     },
+    "0.4.17": {
+      "sdist": [
+        "afe7d32a8697d3215401b44a30cea6d418afcb8eda39fa575ece50a8ffc7423c",
+        "gdaps-0.4.17.tar.gz"
+      ],
+      "wheels": {
+        "gdaps-0.4.17-py3-none-any.whl": [
+          "0355a012fd908627b1d1c3f9d5e79c0373cdb4d162d0a38f6d3c7e661e5a1c8a",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "d9fcdae823f63b59dae661501a711a6994ae6a549dec8e9e3fe172c9e9be4076",
@@ -22862,6 +22910,12 @@
       "sdist": [
         "2e7a609a985a54effead95512a568d5b94e2957cfc821c2bee5d49850fdd9ae3",
         "horovod-0.19.1.tar.gz"
+      ]
+    },
+    "0.19.2": {
+      "sdist": [
+        "981f302ee8c71c3b7d0cb8007aced707ecdb44068f207f10c61fa610c6b61d85",
+        "horovod-0.19.2.tar.gz"
       ]
     },
     "0.9.0": {
@@ -30439,6 +30493,12 @@
         "10ad238a763abd6a09b8fe9bd67556913631171fa2687f9ca701911a518adf86",
         "mypy-boto3-codestar-connections-1.13.8.0.tar.gz"
       ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "c70184ff74c2abb64561d48860f67651c956a6e64a7946ed320024b3fb4c2b8f",
+        "mypy-boto3-codestar-connections-1.13.9.0.tar.gz"
+      ]
     }
   },
   "mypy-boto3-connectparticipant": {
@@ -31256,6 +31316,12 @@
       "sdist": [
         "f301f756ae4b0a3b413f2148dc9d582cbe4307153b84eaf652d9ccbe91226b65",
         "mypy-boto3-connectparticipant-1.13.8.0.tar.gz"
+      ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "81c2a4bb2b29a872a6bc961ca6c6ebecbdb1e97be501d153d903e1108559aadb",
+        "mypy-boto3-connectparticipant-1.13.9.0.tar.gz"
       ]
     }
   },
@@ -41401,68 +41467,6 @@
         "e1e403171327bcbbacb8d170d12ed6f718554b059e3641225a0005c3278b7922",
         "py-tictactoe-1.0.1.tar.gz"
       ]
-    }
-  },
-  "pyatom": {
-    "0.0.2": {
-      "sdist": [
-        "e1110dd5589a3b5a5cd813d234601ee986868b1e7c9f79c1c2749e086675f8c7",
-        "pyatom-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "pyatom-0.0.2-py3-none-any.whl": [
-          "f5a894de378c62eb72409b4f2eb61fa11483f1e804884f6bdaec2b3cb08d076c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "05dddbf3b98c2bf09ce04865be912b7a1210fc1170be903060e7399a738f5d6c",
-        "pyatom-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pyatom-0.0.3-py3-none-any.whl": [
-          "8e359b4225c86b53654c6f19b060c153ca33f7491027d35154c2bd1cf61ceefa",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "217df22077ebce1bd72d7b76ba3a92e33568d4de518ad16624a34e62a9582606",
-        "pyatom-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "pyatom-0.0.4-py3-none-any.whl": [
-          "fbac3d8a305306c776b0ba86e0fab1c702c22011dc756303924a5fcc247cf200",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "905f2085db6a60e7c29b0c69bdaed8692dc1fb3d02ea50571afec381eb83038b",
-        "pyatom-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pyatom-0.0.5-py3-none-any.whl": [
-          "3b25468d2622a6e5aa1e70d5d4f300637b5b67a88e40a4ac374fe00f915ec7b5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "8712ece0b093187490e996f0f162f7195d1cff8973d5b6ded6062c688a7afb8a",
-        "pyatom-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "pyatom-0.0.7-py3-none-any.whl": [
-          "83f614aad9ba989a285d64189d76d78e242a24824c63a63865d3723212ed721e",
-          "py3"
-        ]
-      }
     }
   },
   "pyats.topology": {

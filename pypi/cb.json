@@ -125,6 +125,20 @@
       ]
     }
   },
+  "addmul": {
+    "0.0.2": {
+      "sdist": [
+        "2813949d861aa1f39243b4a3c24e7d864c1b24f7589972e274b0cd4b8556a2a3",
+        "addmul-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "addmul-0.0.2-py3-none-any.whl": [
+          "1b2293289e93007d45f411165ffe090740f80277fbdfe94e2ae4b505318bdc60",
+          "py3"
+        ]
+      }
+    }
+  },
   "adjutant-odoo": {
     "0.2.0": {
       "sdist": [
@@ -19277,6 +19291,56 @@
         "1270d40b6b113f631191cbbde20958f2f23ff11a747d2f25f63bf0bb33ffa57f",
         "django-pint-0.3.tar.gz"
       ]
+    }
+  },
+  "django-puppeteer-pdf": {
+    "0.1.0": {
+      "sdist": [
+        "d760ff824b7c9d3ce1cbdc96889e0b7775395124c3204fef3789e31d0d9fc1ac",
+        "django-puppeteer-pdf-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_puppeteer_pdf-0.1.0-py2.py3-none-any.whl": [
+          "33eb4b5efb2e64b09eeedfd108e75f5324dc74628f1e169366247ed491e0492c",
+          "2.7"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "739209dd5bd92b319e45b4ccb816d9fcc062f2546e3e99429e5f202509ed32bd",
+        "django-puppeteer-pdf-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "django_puppeteer_pdf-0.1.2-py2.py3-none-any.whl": [
+          "f26bcb823c0b735c5848f5d203b064068e2821e76ae5798448c771f17c953f06",
+          "2.7"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "cc7ecf6d68ed4315d77f6e19108d21361faf4a67606145318f3489aaeac90924",
+        "django-puppeteer-pdf-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "django_puppeteer_pdf-0.1.3-py2.py3-none-any.whl": [
+          "175ae4b3471088bd1d70f64e9d9a3369f865934450ca8b6809d58c9a5aabc85c",
+          "2.7"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "12177f078a574e8e3390a7a2cb021256690d9973d145cec8306ec13e251ce44e",
+        "django-puppeteer-pdf-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "django_puppeteer_pdf-0.1.4-py2.py3-none-any.whl": [
+          "81c5e6304398096755f3469382b1e2c843779d4239d1764c0f004b4064620a6c",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-reservation": {
@@ -39466,6 +39530,12 @@
         "oddsgym-0.5.11.tar.gz"
       ]
     },
+    "0.5.12": {
+      "sdist": [
+        "a049ac59f1b3d41c17f66ef0a4b8d3c07015dd109f7706743c5cc6160e315273",
+        "oddsgym-0.5.12.tar.gz"
+      ]
+    },
     "0.5.2": {
       "sdist": [
         "b32e2e45d45b1adb62fb7d469b6ea864a6bf3b77eb974c0f8fb5eb79d90fc285",
@@ -44228,6 +44298,14 @@
       "wheels": {
         "pantsbuild.pants.contrib.python.checks.checker-1.28.0.dev2-py2.py3-none-any.whl": [
           "abd31a90c34480dc804f7a7d99f0ee488f54c8e24bf9ff325a8d7c9b3038927a",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.28.0rc0": {
+      "wheels": {
+        "pantsbuild.pants.contrib.python.checks.checker-1.28.0rc0-py2.py3-none-any.whl": [
+          "39e910a01d2641b3acf1660393a35cf06db93a901c56a1a1c3be664f4d6b6519",
           "py2.py3"
         ]
       }
@@ -51698,6 +51776,22 @@
       "wheels": {
         "scons_parts-0.15.0-py3-none-any.whl": [
           "dbd3f25651e7dd5cb94280215a8a1e3ae7081ad17a49b70a20c06eda5b79ff18",
+          "py3"
+        ]
+      }
+    },
+    "0.15.1": {
+      "wheels": {
+        "scons_parts-0.15.1-py3-none-any.whl": [
+          "5265a37e8cbca49a1f2091bc2f903904c4f874433b38a6108b6b7a0b043ec6ab",
+          "py3"
+        ]
+      }
+    },
+    "0.15.2": {
+      "wheels": {
+        "scons_parts-0.15.2-py3-none-any.whl": [
+          "576b56c88a093b3b75242e797d0dd08466bf581a4d1d789595d3b58b27104c16",
           "py3"
         ]
       }
@@ -60488,12 +60582,20 @@
           "449b83f0d39d1fb2521e0f5826afd546ff47e0cb1728fd55460030b9f9fedfa2",
           "cp35"
         ],
+        "tf_nightly_cpu-2.3.0.dev20200513-cp35-cp35m-win_amd64.whl": [
+          "75d899c224bbc9908b5f677e42cb028310e9ebb462f036cb9e0d5103f2d39231",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.3.0.dev20200513-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "a6fefccc58d49b3732fa77c9fd9fc523e1d6dc4a87cb070e0038d730fdb69f98",
           "cp36"
         ],
         "tf_nightly_cpu-2.3.0.dev20200513-cp36-cp36m-manylinux2010_x86_64.whl": [
           "043fa3879cd2dbc955104525a24abc007a2adad9257339ec8282e9f6f4c98b84",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200513-cp36-cp36m-win_amd64.whl": [
+          "57f4bc47e2b900bdf5307a26fe2621483a768cd8661e03b4e55632ee76cbfce2",
           "cp36"
         ],
         "tf_nightly_cpu-2.3.0.dev20200513-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -60504,8 +60606,16 @@
           "70a413bcbbc0635f2939f482971ff9595960916d63d33c0ad6ea087e9895e2f4",
           "cp37"
         ],
+        "tf_nightly_cpu-2.3.0.dev20200513-cp37-cp37m-win_amd64.whl": [
+          "2634073e46c119d1d3e01be663eb43d37b79088e732258a6ac65285dc3548a95",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.3.0.dev20200513-cp38-cp38-manylinux2010_x86_64.whl": [
           "81bd94d3e1d71e5838aa11f6a42666f55086fb1959a7c8b695a179ea23b766df",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200513-cp38-cp38-win_amd64.whl": [
+          "cb4203acc1c2852ae8a7a2d708c8c737f8068feb876c7c7ddd755535cb28f417",
           "cp38"
         ]
       }

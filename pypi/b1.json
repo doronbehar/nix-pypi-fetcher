@@ -22080,6 +22080,12 @@
         "edx-enterprise-3.2.11.tar.gz"
       ]
     },
+    "3.2.12": {
+      "sdist": [
+        "7ad318f3e3e0e039243621ff38bada7791c6bb335d5c904dd65400c3a0b250bc",
+        "edx-enterprise-3.2.12.tar.gz"
+      ]
+    },
     "3.2.2": {
       "sdist": [
         "3a538f246160a9268ad5f905185e66ff55076941697350a75b26074764f222ff",
@@ -22280,6 +22286,18 @@
       "wheels": {
         "EM_client-1.0a4-py3-none-any.whl": [
           "eb2e6c4556c642854044a1e9a9fa6c789790eb658bed6dc81f803f0f541f9cc6",
+          "py3"
+        ]
+      }
+    },
+    "1.0a5": {
+      "sdist": [
+        "adccd9742f7d91defaecc3171437ad82cdb8042823ed784c67d902e9d6b163f8",
+        "EM_client-1.0a5.tar.gz"
+      ],
+      "wheels": {
+        "EM_client-1.0a5-py3-none-any.whl": [
+          "94065c2288d7fcd01a7eb588975b202d126a88a15081b25abeefd2ea5ba979ca",
           "py3"
         ]
       }
@@ -39181,6 +39199,12 @@
         "5ea8ea3aa5067172e8cca32a07ae944836037e331141364aa96d5292b7c7fc57",
         "mypy-boto3-ecr-1.13.8.0.tar.gz"
       ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "5c30a9ac3951ac68488bd46fe25d7cc99be6f8ce8ed926fb415ed32aa34d379a",
+        "mypy-boto3-ecr-1.13.9.0.tar.gz"
+      ]
     }
   },
   "nabirds": {
@@ -54769,6 +54793,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "520a85e78f95bc5857f8e49fbfe1495f291529ad4ce3e4da98f656d9a3800687",
+        "rnaseqc-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "rnaseqc-0.0.2-py3-none-any.whl": [
+          "dfeef4ab5a732fd0c1a8d71b1eeb01b3b09a1fbb29851cba6145d831cc4293dd",
+          "py3"
+        ]
+      }
     }
   },
   "rng": {
@@ -62217,6 +62253,62 @@
         "toon-0.14.0-py3-none-any.whl": [
           "4518cf8e54ee55be1a9389d1f468914f8bcdbf76ceb47e014897e1c9768e869f",
           "py3"
+        ]
+      }
+    },
+    "0.15.0": {
+      "sdist": [
+        "8f82ed092df08819b355d29788cdb65cfbff18d387ebc728044fea33d25efad5",
+        "toon-0.15.0.tar.gz"
+      ],
+      "wheels": {
+        "toon-0.15.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "81842717305f4a9eb636edd6c392b5e919986434ff535b751b4e21f00f5480b9",
+          "cp36"
+        ],
+        "toon-0.15.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "766f8d66a0137d83561f3b4e1d0864710cc3b43f934393d355374657d2557d53",
+          "cp36"
+        ],
+        "toon-0.15.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c4d234965e9189bef9e52cf089bcfd67928e65accb47e6672769c436bdcd4c33",
+          "cp36"
+        ],
+        "toon-0.15.0-cp36-cp36m-win_amd64.whl": [
+          "2e29854953005c27cfab53b5672564e168693c25d85c1f2b36ebc65788e6fc70",
+          "cp36"
+        ],
+        "toon-0.15.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "29e5f15f6e8da5b17cd1569864cdc1c6c196a21636553601bb66b70faa3f438b",
+          "cp37"
+        ],
+        "toon-0.15.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c1a47535b1c65733de8cc118010ae3cd15ad868de6ad29a60cdc2c356c84ce84",
+          "cp37"
+        ],
+        "toon-0.15.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0f6d3114211a306b18122464a2391578b2540dd3c99f70889db8e510217f2675",
+          "cp37"
+        ],
+        "toon-0.15.0-cp37-cp37m-win_amd64.whl": [
+          "be41933af20e895ba8c46e57129fc47f4b86127a1c346f3618a2e48851e9987d",
+          "cp37"
+        ],
+        "toon-0.15.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "96a0d2b6323e2d849cacbd4ce27efd35c94a2c8445bd024ebed6edbbfc32f317",
+          "cp38"
+        ],
+        "toon-0.15.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "cdc5e25c3cfb067c3d1f2f8ba5e69eebc291e55b57d3b97bc0c8ea3ab5426379",
+          "cp38"
+        ],
+        "toon-0.15.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "40c251c5f7c47af3dabc4a0e5611acf7da8285e7ac7bd9ccb77bfb71c39582fb",
+          "cp38"
+        ],
+        "toon-0.15.0-cp38-cp38-win_amd64.whl": [
+          "99ab0a1c165a661469b948c38902725dcc23f3959fbdfbcc44675bdc17ba45b6",
+          "cp38"
         ]
       }
     },

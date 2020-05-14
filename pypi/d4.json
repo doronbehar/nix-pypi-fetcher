@@ -5213,6 +5213,20 @@
       }
     }
   },
+  "aws-ses-service": {
+    "0.0.1": {
+      "sdist": [
+        "6f7835f6e55ad24dc4f01e4733ccaf098c2e8c5d1ced7c4204cda502aa52df08",
+        "aws_ses_service-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_ses_service-0.0.1-py3-none-any.whl": [
+          "f9a18618d1edd64e14845bbc23d9cd9822a225a77f61635c18528af5e9191750",
+          "py3"
+        ]
+      }
+    }
+  },
   "awsassistant": {
     "1.0.0": {
       "wheels": {
@@ -22778,6 +22792,18 @@
         ]
       }
     },
+    "0.43": {
+      "sdist": [
+        "af8d36c76308e57d5a4656a126c5509485323ddc58e1a6811ad03e60cf289d32",
+        "eniam-0.43.tar.gz"
+      ],
+      "wheels": {
+        "eniam-0.43-py3-none-any.whl": [
+          "c7e823ac6b9ada44a5380b7947113f9d517a428289c46a8d620992e13e9a4962",
+          "py3"
+        ]
+      }
+    },
     "0.5": {
       "sdist": [
         "df629eea4a6a570db522a5be6d2bffa5da3621335004fdeaafe96e199dee8618",
@@ -28256,92 +28282,6 @@
       "wheels": {
         "imagesc-0.1.8-py3-none-any.whl": [
           "05716cfac0c64a75ca8bf89eebbc8a7b8daab8310146d3a7b134b01a1593213b",
-          "py3"
-        ]
-      }
-    }
-  },
-  "img2unicode": {
-    "0.1a1": {
-      "sdist": [
-        "65f1a5e8298f5071ce86229b5d44b2985ff23af1b9faaabffbd514c4cff14d92",
-        "img2unicode-0.1a1.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a1-py3-none-any.whl": [
-          "e7aca89459b16f9f0b3caf5c84b5314eec7c8b2655af412c5bd07012ce460e60",
-          "py3"
-        ]
-      }
-    },
-    "0.1a2": {
-      "sdist": [
-        "98bb7724b5ca01349f7cfb3bf221703c06588413833b436d7ef1057c3896a9fd",
-        "img2unicode-0.1a2.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a2-py3-none-any.whl": [
-          "bf3a81c3b62f7a227dbd793336c81b5536a98409d9459300c35877395e6fc77c",
-          "py3"
-        ]
-      }
-    },
-    "0.1a3": {
-      "sdist": [
-        "2b72011bce10583e2925bcd93b13b5bfd7a722ec2093f4741317161a57d5467b",
-        "img2unicode-0.1a3.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a3-py3-none-any.whl": [
-          "cd69cc1e5c3be69c6347067baf727fd6fbf3bcf0385a304949566528eac2ef44",
-          "py3"
-        ]
-      }
-    },
-    "0.1a4": {
-      "sdist": [
-        "0b179c1407bd97c3cd9a6d2d5dc5cec03f462b0ebab2d4faed554b783665f958",
-        "img2unicode-0.1a4.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a4-py3-none-any.whl": [
-          "3b8d690f1844d67a0fdf35cec5a54a3b0b32404d6ce7106d4a01a222f359a3b1",
-          "py3"
-        ]
-      }
-    },
-    "0.1a5": {
-      "sdist": [
-        "dd0616611e5839153f6c619bff21bed32cb699df7257a87a300195a0ea760f38",
-        "img2unicode-0.1a5.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a5-py3-none-any.whl": [
-          "ddb98d3a0717cef47aa5a640e8a9d5ce7e92f4edc0b1284b55a6de98aadbd57f",
-          "py3"
-        ]
-      }
-    },
-    "0.1a6": {
-      "sdist": [
-        "d74bfe2d9a2e6d7a7bee92f60898a92484abb06e816b3f29385ef6e74a6015a6",
-        "img2unicode-0.1a6.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a6-py3-none-any.whl": [
-          "34823802e801c550effd233938b2def2191ab7fd90e2e308acfa2c8b3c27c417",
-          "py3"
-        ]
-      }
-    },
-    "0.1a7": {
-      "sdist": [
-        "00d07d36a7c7ceba6fbaa5e807774619d6ff9d6484047c019168af953ebca4e0",
-        "img2unicode-0.1a7.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a7-py3-none-any.whl": [
-          "3237bb688cd80698fd7d0e5073b7613ab1af2167820cd3ed6e1e8ef4bc4d8067",
           "py3"
         ]
       }
@@ -38400,6 +38340,12 @@
       "sdist": [
         "8d700a87691974ff6f1df7ce1f5b337248f6a38e0292a4d08a95839259b8dff4",
         "mypy-boto3-cloudwatch-1.13.8.0.tar.gz"
+      ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "817ad0d0003fff4818cb63f708cc462aa8979ec7bfd375d8793fe1d50fb5c222",
+        "mypy-boto3-cloudwatch-1.13.9.0.tar.gz"
       ]
     }
   },
@@ -52639,6 +52585,24 @@
         "e9af9c487891ace65df1510e9fd5322c0e1ad1dab4c247279dc83ae00d1cd279",
         "pythonnest-1.1.6.tar.gz"
       ]
+    }
+  },
+  "pythonsdk1": {
+    "0.1": {
+      "wheels": {
+        "pythonsdk1-0.1-py2-none-any.whl": [
+          "2204a01be04e12a8c962c4954b806c1d0bbea31b2f4afdfc7879d6a491d71452",
+          "py2"
+        ]
+      }
+    },
+    "0.2": {
+      "wheels": {
+        "pythonsdk1-0.2-py2-none-any.whl": [
+          "a6629ca006b288140971e99bf4b825f0a2784126913978fed2081d8ed6889ff5",
+          "py2"
+        ]
+      }
     }
   },
   "pythonstringutils": {

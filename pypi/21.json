@@ -6299,26 +6299,6 @@
       ]
     }
   },
-  "ckanext-resource-indexer": {
-    "0.0.1": {
-      "sdist": [
-        "6cebc8dbab1035eb2db953a27cd42fe08615fa138716ffd79de4ee51e4c27427",
-        "ckanext-resource_indexer-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "53bd49f937399ad9196e84787fa7604677e7b1f06fd8e3cc7f02b66986b6f7bc",
-        "ckanext-resource_indexer-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "ckanext_resource_indexer-0.0.2-py3-none-any.whl": [
-          "72aea6ad4a9a7062352ad5425d85ff0f8e67cabd9f12d4b40d028dd274b417be",
-          "py3"
-        ]
-      }
-    }
-  },
   "cleverbotfree": {
     "1.0.4": {
       "sdist": [
@@ -9070,6 +9050,12 @@
       "sdist": [
         "35a290c290d29b7e20018f6d0862e3d44d65f857b1c1cbfdb2aa15ae771a6157",
         "distogram-1.1.0.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "c3b6f24520d2ed8d11f2b77b759d9a52c3cdb43a8a49ca55229637569a7e5e72",
+        "distogram-1.2.0.tar.gz"
       ]
     }
   },
@@ -25861,88 +25847,6 @@
       }
     }
   },
-  "mnn-fma": {
-    "1.0.0": {
-      "wheels": {
-        "MNN_FMA-1.0.0-cp27-cp27m-macosx_10_15_x86_64.whl": [
-          "17b0fcb0c722b0e41973b85a4ae39ba8e7303763efc4815b892eee9d3e1adc2a",
-          "cp27"
-        ],
-        "MNN_FMA-1.0.0-cp27-cp27m-manylinux2010_x86_64.whl": [
-          "50cc8b834823c4cdd65e1efbe0660df1f28b83f217bcf7e04a99cd4b29c8d9cb",
-          "cp27"
-        ],
-        "MNN_FMA-1.0.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
-          "8678a014cc9adb1302a462138e248824e14588eab158a069ae350df022cbfe4f",
-          "cp27"
-        ],
-        "MNN_FMA-1.0.0-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "c6bd25c2ed4015a9ecd972d5927dc1f2a0dddd64b50c8e686c30e68cdc31bec5",
-          "cp35"
-        ],
-        "MNN_FMA-1.0.0-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "4daf163df2ec06e886ce07c3822c14c2a1ec03e6743a64de3d3f10d4429ccb1d",
-          "cp35"
-        ],
-        "MNN_FMA-1.0.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "1fc31667cb25d046c30e047ce2a269e72a213703287897c81b4e4eed355f01b2",
-          "cp36"
-        ],
-        "MNN_FMA-1.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "cbae0a3693c84c823cb313859724e27851fa9ce9f672db4f143f43f881313e64",
-          "cp36"
-        ],
-        "MNN_FMA-1.0.0-cp36-cp36m-win32.whl": [
-          "b37bdda8030678b28f71b10f25e4570eda8ef70023869d402807331cd282ab4b",
-          "cp36"
-        ],
-        "MNN_FMA-1.0.0-cp36-cp36m-win_amd64.whl": [
-          "eafc45fc8b9514695152f523ec03da70e3e971c3cb34ec8ab39130a59b165259",
-          "cp36"
-        ],
-        "MNN_FMA-1.0.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "01f3a67e7e55be6a7cbf3743132a7fa62e96defaf5d29d3f733bbd84e122bf6b",
-          "cp37"
-        ],
-        "MNN_FMA-1.0.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "e7b99b5495a1bbf20c949f26f48abac1ca6d55eab0aa5f54015032c77f879077",
-          "cp37"
-        ],
-        "MNN_FMA-1.0.0-cp37-cp37m-win32.whl": [
-          "263c3534b7b58d86f1f7fff8b184a3cea0fc5b5d6d5c3cee44e1d24385259268",
-          "cp37"
-        ],
-        "MNN_FMA-1.0.0-cp37-cp37m-win_amd64.whl": [
-          "9863b0a3d88b0bbad47e716fae0c2495391b39767b3e28acdb5f1e95ef5a20d5",
-          "cp37"
-        ]
-      }
-    },
-    "1.0.1": {
-      "wheels": {
-        "MNN_FMA-1.0.1-cp27-cp27m-manylinux2010_x86_64.whl": [
-          "48cd138b165c847e59504cceff369e36be45659b8ebb9b4fcb1e05bb77598249",
-          "cp27"
-        ],
-        "MNN_FMA-1.0.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
-          "51ee0f64d02094667b4798ba69cb3b6f274098b9a9082520b74d331c0a0f11fe",
-          "cp27"
-        ],
-        "MNN_FMA-1.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "dcb550803bcba6dda62c5010e5bc2543a70c5a034c4b947e8eb4bb02f24f36f6",
-          "cp35"
-        ],
-        "MNN_FMA-1.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "4cbea3ef983a8bbd79821c1bdcc29bea668fb39aac7539c00fdf0ce19185fd0b",
-          "cp36"
-        ],
-        "MNN_FMA-1.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "fd9ec0ebfb81d0b6fb99a5a46d79724b389d80f20a88ef8e46f161cd0f9a6d62",
-          "cp37"
-        ]
-      }
-    }
-  },
   "mobcrush": {
     "0.1.0": {
       "sdist": [
@@ -28397,6 +28301,12 @@
         "350787a73f418fbadb0649fbf3b8583d30a1418d8fc6e6ac87a6ed922c4576f4",
         "mypy-boto3-apigatewayv2-1.13.8.0.tar.gz"
       ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "7bc28cb4d3bb39082ac24d8d92970fe6d8cebea3be75358c88c2f77fd10ad7f3",
+        "mypy-boto3-apigatewayv2-1.13.9.0.tar.gz"
+      ]
     }
   },
   "mypy-boto3-fsx": {
@@ -29414,6 +29324,12 @@
       "sdist": [
         "a1a550232a979408f90ac5cae6bf0b07284d2420002127bda0de806fde13bc49",
         "mypy-boto3-fsx-1.13.8.0.tar.gz"
+      ]
+    },
+    "1.13.9.0": {
+      "sdist": [
+        "3523b56b828db0e5cdb5ec612be66c92b2e436c40b686acaa82a61e852d7b4a8",
+        "mypy-boto3-fsx-1.13.9.0.tar.gz"
       ]
     }
   },
@@ -41421,6 +41337,16 @@
       ]
     }
   },
+  "risipy": {
+    "0.0.1": {
+      "wheels": {
+        "risipy-0.0.1-py3-none-any.whl": [
+          "a7db53d82450cee46bdc895596e00b9d037f0a4604e6ed0cf45403bd1e068be1",
+          "py3"
+        ]
+      }
+    }
+  },
   "rkpython": {
     "0.0.1": {
       "wheels": {
@@ -42460,6 +42386,30 @@
       "wheels": {
         "royalpack-5.8.0-py3-none-any.whl": [
           "b9110be0ae70f97a7a9c1a4c507e56434b3768c5a66332de546fdb5a9249fb74",
+          "py3"
+        ]
+      }
+    },
+    "5.8.1": {
+      "sdist": [
+        "53c068d66bbb518f1339236709007fa7f0240232c97ab26ddfe4609e55310a34",
+        "royalpack-5.8.1.tar.gz"
+      ],
+      "wheels": {
+        "royalpack-5.8.1-py3-none-any.whl": [
+          "a7b254bc58526cae54ad860b6e3fb12875cffb0c7d54fef61b4481cb02d714f0",
+          "py3"
+        ]
+      }
+    },
+    "5.8.2": {
+      "sdist": [
+        "a4adaa1494ee1abfa24094666115daecd31d0ef3beb5ab1a889e6b7c319fbdee",
+        "royalpack-5.8.2.tar.gz"
+      ],
+      "wheels": {
+        "royalpack-5.8.2-py3-none-any.whl": [
+          "99bf0d060c99ff42ac05fabeb7d7e760abd59ac25d83af666fef644a0c73d72d",
           "py3"
         ]
       }
