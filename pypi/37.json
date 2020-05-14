@@ -11637,6 +11637,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.3.1": {
+      "sdist": [
+        "4afc72de2952180ee00c22295b7a912c2e9aec30d295454a05360d84de1a9dcb",
+        "devo-sdk-3.3.1.tar.gz"
+      ],
+      "wheels": {
+        "devo_sdk-3.3.1-py2.py3-none-any.whl": [
+          "e613256d2cec5c5d64ab7258741c9927a8d35dcdf27f5c10fd495f43a4fad99c",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dgpre": {
@@ -27982,6 +27994,18 @@
         ]
       }
     },
+    "1.41.9": {
+      "sdist": [
+        "5e6fe2063ad6434403d4ee4e96b3137fb28415f739338fd12a51f2cc3ce237c6",
+        "honeybee-energy-1.41.9.tar.gz"
+      ],
+      "wheels": {
+        "honeybee_energy-1.41.9-py2.py3-none-any.whl": [
+          "1467dcc8728ee92babe3f840b1c64270f7b78e1583139b99cb101a281227f07d",
+          "py2.py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "b98082e95d611ed336955cd868f7f7fab0a70ad04db48541155b2d7f3c0563ce",
@@ -41232,6 +41256,14 @@
       "wheels": {
         "odoo12_addon_l10n_it_abicab-12.0.1.1.0.99.dev6-py3-none-any.whl": [
           "8cc7d2bcb4e44dc660c48e99505e335fdda6cc3f6a9c79d56bc94f2a6568bbcf",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.1.99.dev2": {
+      "wheels": {
+        "odoo12_addon_l10n_it_abicab-12.0.1.1.1.99.dev2-py3-none-any.whl": [
+          "f9c681e9903482cc5eba3933b3f82aec3356cea6fffc83712f3c816f15581a55",
           "py3"
         ]
       }
@@ -59746,7 +59778,117 @@
       "sdist": [
         "156a27548ba4e1fed944ff9fcdc150633e61d350d673ae7baaf6c25c04ac1f71",
         "SQLAlchemy-1.3.17.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "SQLAlchemy-1.3.17-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "fe01bac7226499aedf472c62fa3b85b2c619365f3f14dd222ffe4f3aa91e5f98",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27m-manylinux1_x86_64.whl": [
+          "b50f45d0e82b4562f59f0e0ca511f65e412f2a97d790eea5f60e34e5f1aabc9a",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "ce2646e4c0807f3461be0653502bb48c6e91a5171d6e450367082c79e12868bf",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "869bbb637de58ab0a912b7f20e9192132f9fbc47fc6b5111cd1e0f6cdf5cf9b0",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "703c002277f0fbc3c04d0ae4989a174753a7554b2963c584ce2ec0cddcf2bc53",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27m-win32.whl": [
+          "e4e2664232005bd306f878b0f167a31f944a07c4de0152c444f8c61bbe3cfb38",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp27-cp27m-win_amd64.whl": [
+          "925b4fe5e7c03ed76912b75a9a41dfd682d59c0be43bce88d3b27f7f5ba028fb",
+          "cp27"
+        ],
+        "SQLAlchemy-1.3.17-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "eb4fcf7105bf071c71068c6eee47499ab8d4b8f5a11fc35147c934f0faa60f23",
+          "cp35"
+        ],
+        "SQLAlchemy-1.3.17-cp35-cp35m-manylinux1_x86_64.whl": [
+          "8d01e949a5d22e5c4800d59b50617c56125fc187fbeb8fa423e99858546de616",
+          "cp35"
+        ],
+        "SQLAlchemy-1.3.17-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "a9e75e49a0f1583eee0ce93270232b8e7bb4b1edc89cc70b07600d525aef4f43",
+          "cp35"
+        ],
+        "SQLAlchemy-1.3.17-cp35-cp35m-win32.whl": [
+          "a87d496884f40c94c85a647c385f4fd5887941d2609f71043e2b73f2436d9c65",
+          "cp35"
+        ],
+        "SQLAlchemy-1.3.17-cp35-cp35m-win_amd64.whl": [
+          "6cd157ce74a911325e164441ff2d9b4e244659a25b3146310518d83202f15f7a",
+          "cp35"
+        ],
+        "SQLAlchemy-1.3.17-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "27e2efc8f77661c9af2681755974205e7462f1ae126f498f4fe12a8b24761d15",
+          "cp36"
+        ],
+        "SQLAlchemy-1.3.17-cp36-cp36m-manylinux1_x86_64.whl": [
+          "31c043d5211aa0e0773821fcc318eb5cbe2ec916dfbc4c6eea0c5188971988eb",
+          "cp36"
+        ],
+        "SQLAlchemy-1.3.17-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "a9030cd30caf848a13a192c5e45367e3c6f363726569a56e75dc1151ee26d859",
+          "cp36"
+        ],
+        "SQLAlchemy-1.3.17-cp36-cp36m-win32.whl": [
+          "f502ef245c492b391e0e23e94cba030ab91722dcc56963c85bfd7f3441ea2bbe",
+          "cp36"
+        ],
+        "SQLAlchemy-1.3.17-cp36-cp36m-win_amd64.whl": [
+          "128bc917ed20d78143a45024455ff0aed7d3b96772eba13d5dbaf9cc57e5c41b",
+          "cp36"
+        ],
+        "SQLAlchemy-1.3.17-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "2a12f8be25b9ea3d1d5b165202181f2b7da4b3395289000284e5bb86154ce87c",
+          "cp37"
+        ],
+        "SQLAlchemy-1.3.17-cp37-cp37m-manylinux1_x86_64.whl": [
+          "e8aa395482728de8bdcca9cc0faf3765ab483e81e01923aaa736b42f0294f570",
+          "cp37"
+        ],
+        "SQLAlchemy-1.3.17-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f35248f7e0d63b234a109dd72fbfb4b5cb6cb6840b221d0df0ecbf54ab087654",
+          "cp37"
+        ],
+        "SQLAlchemy-1.3.17-cp37-cp37m-win32.whl": [
+          "ce1ddaadee913543ff0154021d31b134551f63428065168e756d90bdc4c686f5",
+          "cp37"
+        ],
+        "SQLAlchemy-1.3.17-cp37-cp37m-win_amd64.whl": [
+          "9cb1819008f0225a7c066cac8bb0cf90847b2c4a6eb9ebb7431dbd00c56c06c5",
+          "cp37"
+        ],
+        "SQLAlchemy-1.3.17-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "65eb3b03229f684af0cf0ad3bcc771970c1260a82a791a8d07bffb63d8c95bcc",
+          "cp38"
+        ],
+        "SQLAlchemy-1.3.17-cp38-cp38-manylinux1_x86_64.whl": [
+          "8a0e0cd21da047ea10267c37caf12add400a92f0620c8bc09e4a6531a765d6d7",
+          "cp38"
+        ],
+        "SQLAlchemy-1.3.17-cp38-cp38-manylinux2010_x86_64.whl": [
+          "b7878e59ec31f12d54b3797689402ee3b5cfcb5598f2ebf26491732758751908",
+          "cp38"
+        ],
+        "SQLAlchemy-1.3.17-cp38-cp38-win32.whl": [
+          "ce6c3d18b2a8ce364013d47b9cad71db815df31d55918403f8db7d890c9d07ae",
+          "cp38"
+        ],
+        "SQLAlchemy-1.3.17-cp38-cp38-win_amd64.whl": [
+          "ed375a79f06cad285166e5be74745df1ed6845c5624aafadec4b7a29c25866ef",
+          "cp38"
+        ]
+      }
     },
     "1.3.2": {
       "sdist": [
