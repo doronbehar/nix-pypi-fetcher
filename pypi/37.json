@@ -1332,6 +1332,18 @@
         ]
       }
     },
+    "0.12.1": {
+      "sdist": [
+        "226545a0b03c243c1788be3de76498f564d266d26002cd9d8c146c6a03841cad",
+        "apphelpers-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "apphelpers-0.12.1-py2.py3-none-any.whl": [
+          "da91bec6275ece129b9b91e7d9fa2afde43c0dd446acbd5e6d984a6fcca6b3c3",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "10610346b71eece3182d9639288e9f3df3bbe6541d8e45c4a02003c7598b6382",
@@ -18752,6 +18764,18 @@
         ]
       }
     },
+    "1.8.12": {
+      "sdist": [
+        "22b7f1e15d038d90f15ea9237336024a782ddf4b36fc713ad8cedf85e2886657",
+        "dtale-1.8.12.tar.gz"
+      ],
+      "wheels": {
+        "dtale-1.8.12-py2.py3-none-any.whl": [
+          "d634ec04a5a34f33e6f22e5c40d35fc1c893e9d30ad245f38e54592443058c85",
+          "py2.py3"
+        ]
+      }
+    },
     "1.8.3": {
       "sdist": [
         "981e8195c4207fc60a48dc485f81d6e2a45b7eff01d449388bfc2651eb80d334",
@@ -28002,6 +28026,18 @@
       "wheels": {
         "honeybee_energy-1.41.9-py2.py3-none-any.whl": [
           "1467dcc8728ee92babe3f840b1c64270f7b78e1583139b99cb101a281227f07d",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.42.0": {
+      "sdist": [
+        "e39fb0cf082155e140f9c68834a10760f8c69bf310c1630edb47565cc2e1bd76",
+        "honeybee-energy-1.42.0.tar.gz"
+      ],
+      "wheels": {
+        "honeybee_energy-1.42.0-py2.py3-none-any.whl": [
+          "51b6a1706bc765f8a08d28db78f9a3383a86661f2298cf88b12c24a7fd5e5db9",
           "py2.py3"
         ]
       }
@@ -40642,6 +40678,16 @@
       "wheels": {
         "odoo10_addon_l10n_it_fatturapa_out_ddt-10.0.1.0.4.99.dev2-py2-none-any.whl": [
           "ff07452b6d7d592723b3f994870f2047cd2cf83a92ebb5c4390d5d5746218742",
+          "py2"
+        ]
+      }
+    }
+  },
+  "odoo10-addon-l10n-it-intrastat-statement": {
+    "10.0.1.0.0.99.dev1": {
+      "wheels": {
+        "odoo10_addon_l10n_it_intrastat_statement-10.0.1.0.0.99.dev1-py2-none-any.whl": [
+          "3ed5212f6e8bf0d64c3f2188407fd5122a021209b280179a20eaf55b02deb28f",
           "py2"
         ]
       }
@@ -53297,32 +53343,6 @@
       }
     }
   },
-  "qsync-control": {
-    "1.0.0": {
-      "sdist": [
-        "bd3252b460d838d593f36760171da62515aa5ef86a09ef02a28caebcc239250f",
-        "qsync_control-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "qsync_control-1.0.0-py3-none-any.whl": [
-          "e2dd4190b622688427a45b0e63f81b3f3b19600ce1e28d600038ed180092a251",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "sdist": [
-        "d6bc277555e2364f12ab27b4c74f68c6baafb3a3be5a9e3fd7e416b295d84452",
-        "qsync_control-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "qsync_control-2.0.0-py3-none-any.whl": [
-          "e1c47732c1f72444da726d3a016f8ab8ef8a5449bf2914bb4a64742cfcca244e",
-          "py3"
-        ]
-      }
-    }
-  },
   "quasarcode": {
     "0.4.0": {
       "sdist": [
@@ -55921,152 +55941,6 @@
         "rpaframework_excel-0.1.0-py3-none-any.whl": [
           "720c60496d26100b406c9a797072a23cc6e3a40102fccffffaa0e9500699c9be",
           "py3"
-        ]
-      }
-    }
-  },
-  "rplcd": {
-    "0.1": {
-      "sdist": [
-        "1fc19be5ee86a08486f4f4f19c1a8314556ef11790fe8278b8b2933d17b8b351",
-        "RPLCD-0.1.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "af5014f1e56bafb21c2bad963715362231bceec72de2f66c8077fff0ee75c3cc",
-        "RPLCD-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "119acbe88c393c6b79e9a18e8a0a273cf648d28af775c9102239deffe59c85d6",
-        "RPLCD-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.3": {
-      "sdist": [
-        "6a57987d03a2845b1b76c1a851843be22672046e689d542675db30a4971cab68",
-        "RPLCD-0.1.3.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "5d591e442da11e97663aca64d5b18491de3d50357223187f0f6a62b747e1d62b",
-        "RPLCD-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-0.2.0-py2.py3-none-any.whl": [
-          "8039fa676eb624ea36b2fab8c9f0b87882046cbcfd0bcdaa16b80c9c40520e98",
-          "2.7"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "b8b335c229f72d518a37e2b0f37793f0b447789ef7dfabb25ab5c6d0d9a84850",
-        "RPLCD-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-0.3.0-py2.py3-none-any.whl": [
-          "669e390699e5bd731934b02d5820fa7d4bf74087225d7e44eca4c7f0a9ddaaf2",
-          "2.7"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "e7512fa4a97c8dea39d8a92bfcfb68e96cc6845ec7bda84b2777c3c7d8cb4386",
-        "RPLCD-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-0.4.0-py2.py3-none-any.whl": [
-          "8f5e1e1601c86c1d18562a99d5af77fa4e8ac8a97806e776e7ad09cccf00ace9",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.9.0": {
-      "sdist": [
-        "bdac58f0b0401471689c8a0761f1fa96425e30e8b28ef665e47c89eea1417eff",
-        "RPLCD-0.9.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-0.9.0-py2.py3-none-any.whl": [
-          "c915b2791a91d129db197740e05e8f751f1d93fb51ba4ff6a9009ec9accaf3e4",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0": {
-      "sdist": [
-        "a741fa9358c12456a74719ce08143444acd1ececaf9fccc69fa9765446cef289",
-        "RPLCD-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.0.0-py2.py3-none-any.whl": [
-          "ab932f61959f2c80316331e0b6d00da238056fd3e15eeaa0613c6f2e8b084f1a",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "f43fefa3652d87abff3d61f10292578b77aec4509eb6529649cd0aae12e4449d",
-        "RPLCD-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.1.0-py2.py3-none-any.whl": [
-          "e9c23abed8c9d85963fc9ecda4c43f48232a53c9586d46bac743989f7f01c7cb",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "b7a2ed755095a8d143a7ec21d7476d6ef9fa36f2c38303c2cab769a8003dde10",
-        "RPLCD-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.2.0-py2.py3-none-any.whl": [
-          "b7735ba7805367e78a69a266615c19207ee0b36bbb2c8eee71b98fabd33a9f4d",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.1": {
-      "sdist": [
-        "c94b1eccf622d8d678bc3f5941fd491eccbf9257d5b157ac7f840a49010cd8ce",
-        "RPLCD-1.2.1.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.2.1-py2.py3-none-any.whl": [
-          "c9a8994147804209f70efebf7670afbcf400fa3a555736a2dea0781683b77378",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.2": {
-      "sdist": [
-        "7f6895054e69fb75adb01181e680fab8d1430d089908d234ffe96508279751b1",
-        "RPLCD-1.2.2.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.2.2-py2.py3-none-any.whl": [
-          "acc46cd53e56264a54cebcd21ebf07df05b395ae76c65f56549fa29d5e725370",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.3.0": {
-      "sdist": [
-        "0081222fe20f53be8317e3f4f1ce6aa2488971974d34327f2639e0d99dbdd8b6",
-        "RPLCD-1.3.0.tar.gz"
-      ],
-      "wheels": {
-        "RPLCD-1.3.0-py2.py3-none-any.whl": [
-          "fa475974e6964accd5fe9afac126d3b75be0fc3b31fe4f08513623d005783d06",
-          "py2.py3"
         ]
       }
     }

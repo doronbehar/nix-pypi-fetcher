@@ -7994,6 +7994,18 @@
         ]
       }
     },
+    "2020.5.15": {
+      "sdist": [
+        "77a20904093303a2b2bfef214850e85845221c148bca19dd055526f21fe8b357",
+        "dagster-snowflake-nightly-2020.5.15.tar.gz"
+      ],
+      "wheels": {
+        "dagster_snowflake_nightly-2020.5.15-py3-none-any.whl": [
+          "a9eb8835cff417ec5f3305d140f72cd3a4d64459f07ad6921d54afc025a1b2e2",
+          "py3"
+        ]
+      }
+    },
     "2020.5.6": {
       "sdist": [
         "10d615feabef849e4e058bee7ae06ed8eb86105dd1578b3abced36ecb38c900e",
@@ -16352,6 +16364,14 @@
         ]
       }
     },
+    "12.0.0rc1": {
+      "wheels": {
+        "flywheel_cli-12.0.0rc1-py3-none-any.whl": [
+          "744b87514d746b298736c02fa067dbb6c0d8f3789cfe3aebd9c080ea994deea8",
+          "py3"
+        ]
+      }
+    },
     "8.0.0": {
       "wheels": {
         "flywheel_cli-8.0.0-py3-none-any.whl": [
@@ -22076,6 +22096,18 @@
       "wheels": {
         "lagom-0.8.0-py2.py3-none-any.whl": [
           "c68ccac02501f519e42051d6be6408e32e14d4d296807e45e0832192e0ebe4a1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "8216000a3fd485bb489332f7c728614f256f40ad6eb2d665b94f7138fb13800f",
+        "lagom-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "lagom-0.9.0-py2.py3-none-any.whl": [
+          "d131c55e7ea6df968c43c6e7c417713902ab5addf6387427865bbe53855186e0",
           "py2.py3"
         ]
       }
@@ -30547,6 +30579,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.0.99.dev8": {
+      "wheels": {
+        "odoo12_addon_partner_contact_department-12.0.1.0.0.99.dev8-py3-none-any.whl": [
+          "def70023fc4e9ea151c35345d21c863da5d4a4dfc873b0938ed46f0911093c7b",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-sale-operating-unit": {
@@ -31122,6 +31162,184 @@
       "wheels": {
         "onaji-0.1.2-py3-none-any.whl": [
           "bd5fd8aaa9c22382688871a705f18983239c2cb969a80f3630f7cd233a9e8ecf",
+          "py3"
+        ]
+      }
+    }
+  },
+  "onnx-coreml": {
+    "0.0.2": {
+      "wheels": {
+        "onnx_coreml-0.0.2-py2.py3-none-any.whl": [
+          "33473ac96169dfa66af15542b851697589899c173b6e9e8741fc47734e9eca62",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "665e9401422aa1c5fd038c4066c5b5567e01a9282d5dd8f663b30387fc62c7d8",
+        "onnx-coreml-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "587599c64dd8cb017871a347646cbfd67bf59070292b081e35ad97c68a310af4",
+        "onnx-coreml-0.0.4.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "b895f33d9e1de5cb5aef1e3ce115f23dcf1cb44e78fee23b9e55a8e4347fb7a9",
+        "onnx-coreml-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-0.1.0-py2.py3-none-any.whl": [
+          "2473457f1e63b5296a459e02a97e1632808413a61dbe1e59e12b3f69bb3636b0",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "0a30ac9707f29255be4040142e2a9b9f1fcf5839d74c9ee22f9251f0c1667e64",
+        "onnx-coreml-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-0.1.1-py3-none-any.whl": [
+          "956029c44607f8bc298b023044ed93579f7d27b48c18fc0c2e504ad83e726889",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "24d968777c56132a6d7ee150090f3d28e2824ee937950f577b63124c96466ac7",
+        "onnx-coreml-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-0.2.0-py2-none-any.whl": [
+          "ea349054da43afdd3ea1aeab014f42852740c4a4a9475a5d443d9e44620aa97b",
+          "py2"
+        ],
+        "onnx_coreml-0.2.0-py3-none-any.whl": [
+          "c6051ac085f7475c382ae31a3ce6b5b3d94df497fb600079e461c86f8f69f79a",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "581f0e1d05180a1323b00d1f16ed8daa319695482061c15688aae9783c6b1f2d",
+        "onnx-coreml-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-0.3.0-py2-none-any.whl": [
+          "fe8e2fce6c9e73ea5586d2a8c261e899bf6e82491d5751e5edcb24835b129716",
+          "py2"
+        ],
+        "onnx_coreml-0.3.0-py3-none-any.whl": [
+          "ee38d82279a2fae5e0b222e70d67c2df7fce33d5ffd8bc9b04f83ff0a4d09ba3",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "ce36b5aafc73eef3ab98c9d35dced4922b4a792ec9f5398bf35f275eb56c02ab",
+        "onnx-coreml-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-0.4.0-py2-none-any.whl": [
+          "692804f715ab1dd30178732812d713ada4984599e9158c937fef142d0a4c84f0",
+          "py2"
+        ],
+        "onnx_coreml-0.4.0-py3-none-any.whl": [
+          "448d5c3a0012e6ed4ae95d0cde11b1e506cb8a19d3c306c2b041767c7fdbf49e",
+          "py3"
+        ]
+      }
+    },
+    "1.0": {
+      "sdist": [
+        "569988d52bc67250882006a5fa4c095a0fdf21064cd3df279559b9470f94c7fb",
+        "onnx-coreml-1.0.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.0-py2-none-any.whl": [
+          "d4d1f71243f95c4d12cafdbef900790bf2c1a30a463075b069dfa1b885bcf415",
+          "py2"
+        ],
+        "onnx_coreml-1.0-py3-none-any.whl": [
+          "632ba14485e204ecab7a8513ba55cae73a06fdc20a093366c60a994df56b4b62",
+          "py3"
+        ]
+      }
+    },
+    "1.0b2": {
+      "sdist": [
+        "60d6858a4c89ca69d44ae0c120f08fb548e70b290dd480abb7c521ed6e843b72",
+        "onnx-coreml-1.0b2.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.0b2-py3-none-any.whl": [
+          "174a9eb7cb2cc0f839ca01050cb19693a0629934c9bf492d26634ff1f5a45ecc",
+          "py3"
+        ]
+      }
+    },
+    "1.0b3": {
+      "sdist": [
+        "de8ceb7897f3f1a7ef09d37089f8d533b5da0f5bff9dc2618b2c1bc7571879de",
+        "onnx-coreml-1.0b3.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.0b3-py3-none-any.whl": [
+          "3303173b3212b81b40825dab73216ea601eb3fc1c0cbab4791797295f8f02f7a",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "139201a8319bc9ac873687305635f4288f8474cadd8e406e34c95e74a672539f",
+        "onnx-coreml-1.1.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.1-py2-none-any.whl": [
+          "d5b7450be88bb5fb02d856616d96575892f550b0375b391ff266da71562b3060",
+          "py2"
+        ],
+        "onnx_coreml-1.1-py3-none-any.whl": [
+          "110e2f8e1aaafdcc2ad4174ee99fccdeef10adfad69f196a6c5847ee18d5d7e7",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "09fe709f3b3ad59c7202641a2d83eedc5b56e66466151b4af60c3d69259b161b",
+        "onnx-coreml-1.2.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.2-py3-none-any.whl": [
+          "542ddb8a25f868551dea7699343407a5d61965401a6538c4fa6d8179a72d6222",
+          "py3"
+        ]
+      }
+    },
+    "1.3": {
+      "sdist": [
+        "4bfd71da03705350a5466e3e0f108371b3593c7d406763b25bf33ad7ae67084a",
+        "onnx-coreml-1.3.tar.gz"
+      ],
+      "wheels": {
+        "onnx_coreml-1.3-py2-none-any.whl": [
+          "2067af10a34b92a0d391fd16bee085482d498f58b9c3b267dfc27ec1c0404b10",
+          "py2"
+        ],
+        "onnx_coreml-1.3-py3-none-any.whl": [
+          "6ab40c5d0a32200eca01d9408b62b89559c2dc3d540c646fa875acae0a17e895",
           "py3"
         ]
       }
@@ -35260,6 +35478,392 @@
       "wheels": {
         "punctuation_remove-0.0.5-py3-none-any.whl": [
           "2f070780944ab1dd190b63640182b307965d5532cb39d2334ceb6cc3ad9a9a77",
+          "py3"
+        ]
+      }
+    }
+  },
+  "putio-automator": {
+    "0.4.1.dev3": {
+      "sdist": [
+        "3b457739ca5e9f56c02410872d09334e9b142841b79658078c26c188e3d3fbcc",
+        "putio-automator-0.4.1.dev3.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.1.dev3-py2-none-any.whl": [
+          "a9ba024d5f8627c2bc580642f5ef031743e7c70d5d61871cbfa30b042bba47e9",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev15": {
+      "sdist": [
+        "0a435300fd9ee2d5057cbb06171c33fd1c9e843ffeb157da83467b846bc99c9e",
+        "putio-automator-0.4.2.dev15.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev15-py2-none-any.whl": [
+          "37eb1a5951bf484aad4d070729c1df62189164157a17907ac773e89d1fdfc243",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev16": {
+      "sdist": [
+        "8c8da12d492004318cb757d58d87c469d53091e0d25b38f39937f12023cd52ee",
+        "putio-automator-0.4.2.dev16.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev16-py2-none-any.whl": [
+          "994282588b877bbfb42f1352684cf2d4191848d25cad1f0dab267d290e0a0590",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev18": {
+      "sdist": [
+        "9046808c21b252bd8571556099120c30387187342516740218941fd67fc4734c",
+        "putio-automator-0.4.2.dev18.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev18-py2-none-any.whl": [
+          "ead87d7451b2ead966d52fcfcfa7c93fc5985ca684a0c5be0d67d52ab342b33d",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev23": {
+      "sdist": [
+        "a2caf08b8dfbe376b5785a0d8b684e8f4591c595d33bde2dc62d4a516e6dde9f",
+        "putio-automator-0.4.2.dev23.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev23-py2-none-any.whl": [
+          "85b5529465b20e5c9336971617f9919d93ce78de4806ff309d1ca4c51617ce6e",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev24": {
+      "sdist": [
+        "b6ef759f4530d8731cd92b1a533ba115e3d3edb5da99024cba5dd47b27b1d059",
+        "putio-automator-0.4.2.dev24.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev24-py2-none-any.whl": [
+          "538438678eeaef8b16c7dbb77f997589fcd8bb144363014064f134e84839a1f7",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev29": {
+      "sdist": [
+        "df4921eb0715b999b10a200d84896dd23f2ff1924c93b662f0dcaa9a296d3aac",
+        "putio-automator-0.4.2.dev29.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev29-py2-none-any.whl": [
+          "f1d0f1c2cff110df0acc8e0b742094f8e626c81e6316bd574fcc833dc7374e51",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev34": {
+      "sdist": [
+        "a8a20dd13620d1bcd4b0ae349f1bd336c82025a1755fddc927b5b2159532d5d3",
+        "putio-automator-0.4.2.dev34.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev34-py2-none-any.whl": [
+          "3de3e01dd70d15d229bd2494076a358109faf9e4c91938bc31a4a9d54015e201",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev38": {
+      "sdist": [
+        "5ce17faa7f9609d49a027f7836311624190c52765b04d5fd50d899c55b44ffc5",
+        "putio-automator-0.4.2.dev38.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev38-py2-none-any.whl": [
+          "8a1804d54d5524b1b6d08d38cc3a143a4e06971dfe10703a1d79e167ba787465",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev40": {
+      "sdist": [
+        "c233ded7d596f19ce7cbdbe6f5dd04b33f503eb757f0e3c5cbc924df3ab8c545",
+        "putio-automator-0.4.2.dev40.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev40-py2-none-any.whl": [
+          "7d16ccc25d2fb801b5e35be69bb5a1fab5c9b80d37dbd3aaad1ac33f02c6607a",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev42": {
+      "sdist": [
+        "7cfd583ac0f2ff4175fbc525159c7f0cb2c1befc00fc20374dcae18225aeccd8",
+        "putio-automator-0.4.2.dev42.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev42-py2-none-any.whl": [
+          "50b6b780e56a0e613b349cad16289e70d68d33e591919e01634c4f1bd7ab84cf",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev44": {
+      "sdist": [
+        "ad2fce7bcbb8a5e762622cae3274e4e70cb021f1381107d597a12d8273adc9f0",
+        "putio-automator-0.4.2.dev44.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev44-py2-none-any.whl": [
+          "19a612a8d8c111dee9099477fa7e62f02d4c69d2e35a2a0baa073d0bc78b9ad8",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev45": {
+      "sdist": [
+        "85cffc742167b23f0fb3be055d6493d4619ffe56f4f668fbfbcdcba0ada6d414",
+        "putio-automator-0.4.2.dev45.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev45-py2-none-any.whl": [
+          "16f4358cd92dd1b98dff9856ee4cb6d2a92394c71c11243a807f87dbd79d6120",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev47": {
+      "sdist": [
+        "2328cff8cb1a53ace06a4a170db2475dca96df28752ccee8752a7d48ed73ad02",
+        "putio-automator-0.4.2.dev47.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev47-py2-none-any.whl": [
+          "f1829d2d2a1689c95655815ed7c52dcdbb3e940755167cb9c7d34f3087cd4921",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev51": {
+      "sdist": [
+        "ed3850cabacf973275b45a9cc82f2925ca858113f6b3547f9e1b4fd9f0180898",
+        "putio-automator-0.4.2.dev51.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev51-py2-none-any.whl": [
+          "35d32ca8cdda4b282d201ed65711a80eed21b353c4524157da1d782d8fc62ecb",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev62": {
+      "sdist": [
+        "dd4d8f3a0599e0164f5f8b5553319f357c4521c8acec833dc1cfb58067ec7594",
+        "putio-automator-0.4.2.dev62.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev62-py2-none-any.whl": [
+          "84b4a6c241e78a00cb2092a09d99777a1fc389e013eda0b1b226df3e028f6997",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev66": {
+      "sdist": [
+        "2180787538c6c2ba88daa89ad9d349e084bcde71f3afb9ba8718d2ab16032a52",
+        "putio-automator-0.4.2.dev66.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev66-py2-none-any.whl": [
+          "c5869acc18d6df97db2b75bda2e4b2503547e1bdbc74d12e1a8dde1f1b094194",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev68": {
+      "sdist": [
+        "dd2a86183b3f7b5b685647263701ec3a65227725ba647a6010ee42a9df2048c3",
+        "putio-automator-0.4.2.dev68.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev68-py2-none-any.whl": [
+          "d23da019f756d43369319e9d87467fb2ffa832ef82033a16e1e87f9d79678e2a",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev70": {
+      "sdist": [
+        "971f6468ac56022a11bcbad2494d6b7fdeb000bb318b7748d20c7d1f44808ac0",
+        "putio-automator-0.4.2.dev70.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev70-py2-none-any.whl": [
+          "c06bc60eebaabbbb9c8608f57fcd3b0c0a1a440a24006ac6ac63c4864345f088",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev72": {
+      "sdist": [
+        "b79ce20a89e2582bc3f3f70969b62e6cbeb06bfb1b110d98cf9162d255432361",
+        "putio-automator-0.4.2.dev72.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev72-py2-none-any.whl": [
+          "bfd639465e93cf87785e8f8377e9443099e334b3588d224762ac2e563ebe8773",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev74": {
+      "sdist": [
+        "ae27703c7df16c434d2ba462879d5ef94f83eeffb963fafafa01519e86112c0c",
+        "putio-automator-0.4.2.dev74.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev74-py2-none-any.whl": [
+          "38a3f813322f19878977c54d21d79ed82aa3cdf7f736a15c9d18f6539d43b5cb",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev77": {
+      "sdist": [
+        "849d97cdbe9015fa090c934f6cc7d0086d131ce0d910b2dc111b755656795dce",
+        "putio-automator-0.4.2.dev77.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev77-py2-none-any.whl": [
+          "fe3b31b7a78ba47500d8a0a0f12759a41eed921270396a5f74f154d3d38492bb",
+          "py2"
+        ]
+      }
+    },
+    "0.4.2.dev79": {
+      "sdist": [
+        "3647bc97fd9c1d69aaae2b19b0877f27ddb3bdf569cda76b37ef8016fb422853",
+        "putio-automator-0.4.2.dev79.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-0.4.2.dev79-py2-none-any.whl": [
+          "14edfbefd3bf6f355c17e5a4a93bd4b9341a9f08483a6a04686fec88dd71d7a5",
+          "py2"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "ef6f130d2c0a2682679b4c604e46446ca89a7c5725a280552263676fdbbf93f4",
+        "putio-automator-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-1.0.0-py2-none-any.whl": [
+          "b30229d4faf05baa11c02b611359d3a73644d93c15f7c2198337d592c286b4b9",
+          "py2"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "bb61b15e25956d23c2330475fb13bc01ca111bec2375c35ba9cdf69abf1c5df2",
+        "putio-automator-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-1.0.1-py2-none-any.whl": [
+          "e4ffd3431abea4e0c0725ff51f8ee4332a24f70620d76758861c88edede2b48f",
+          "py2"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "b587ac4d381107f4d8b4644c973f0ecd341b90a62bc7ed81d3cf7451bf899841",
+        "putio-automator-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-1.0.2-py2-none-any.whl": [
+          "f33412564f6ac69c8eced7e8e36d874d0c12de646ea49a6d3145d691ddadb0e0",
+          "py2"
+        ]
+      }
+    },
+    "1.0.3.dev3": {
+      "sdist": [
+        "4efac189b3c5860db5670a8dfeb22a7c439b74b37885ca84c592d8351bd3e6d4",
+        "putio-automator-1.0.3.dev3.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-1.0.3.dev3-py2-none-any.whl": [
+          "7b85833394b2499422c66f5a456a3f6c7733da17f19fb69b3d9f64f1582d8ade",
+          "py2"
+        ]
+      }
+    },
+    "2.0.0.dev2": {
+      "sdist": [
+        "4fa4b4e553735fd411e34e04f1a1c4f18f38292224f758dd242a9bbadbcb9b2a",
+        "putio-automator-2.0.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-2.0.0.dev2-py3-none-any.whl": [
+          "9b10f8d6b5b23a851a4e9f3de760fff3d229e58217300d9f3e692a392ce7328a",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev3": {
+      "sdist": [
+        "40b7d1ff769d8c7d0e88037d6a84913d58a0b7d2cbc4d910553f25a2e5d295fa",
+        "putio-automator-2.0.0.dev3.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-2.0.0.dev3-py3-none-any.whl": [
+          "deb14bbfd247494f5901834ad6543fe143195723678aab8429505d3ffb432f49",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev4": {
+      "sdist": [
+        "436ff4899a3b39b52b331afd5e6b29e189920f4794e52f43dee516cfbe93943a",
+        "putio-automator-2.0.0.dev4.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-2.0.0.dev4-py3-none-any.whl": [
+          "97dbd6f3a9568b0707086c74a3a847ec0e608039e39cbb0f6f84475dcd926265",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev5": {
+      "sdist": [
+        "86711a9e27cfbac3472cd5c85ab3655b9befb80cc53b0fa541f236937cb4872a",
+        "putio-automator-2.0.0.dev5.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-2.0.0.dev5-py3-none-any.whl": [
+          "a10e5ed4b124038befbb7758895ccfd7f5fc71fc76cfa08259e6a6dbe16cd7b7",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev6": {
+      "sdist": [
+        "bba685382a4f2914cf7bec97edd5e6909d450ea5a75d996dd3575e9444dc6ae0",
+        "putio-automator-2.0.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "putio_automator-2.0.0.dev6-py3-none-any.whl": [
+          "3129176bfc2a600b891a7b65116f721a1c313ee42ab7b9eb8a4a1842d8f1cfcb",
           "py3"
         ]
       }
