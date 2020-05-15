@@ -4439,6 +4439,18 @@
           "py3"
         ]
       }
+    },
+    "2020.1.1": {
+      "sdist": [
+        "7ef523f556dba33025ff4cf2f1ddeaf61b713bc84f867b9541951b0dc11b1777",
+        "binaryiotools-2020.1.1.tar.gz"
+      ],
+      "wheels": {
+        "binaryiotools-2020.1.1-py3-none-any.whl": [
+          "29404d6e9acac5738a01d6da2da3a4467f224ac2751e194f18b0256f2eac981f",
+          "py3"
+        ]
+      }
     }
   },
   "bio-hansel": {
@@ -24323,6 +24335,20 @@
       }
     }
   },
+  "leidenmark": {
+    "0.1.0": {
+      "sdist": [
+        "e065fa5849fb4be30541f7f977c935e20aba9ed102cabf6559637325e44923e9",
+        "leidenmark-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "leidenmark-0.1.0-py3-none-any.whl": [
+          "2ceeb8c406e60f3ea15ecd5783da73c7286bfa6cfd8ffda11d094a75ad95d539",
+          "py3"
+        ]
+      }
+    }
+  },
   "lektor-git-repos": {
     "0.1.1": {
       "sdist": [
@@ -27550,6 +27576,18 @@
       "wheels": {
         "mkdocs-1.1.1-py3-none-any.whl": [
           "9fe57f2631ea39ebb50571af9998004a90f010cbc9cb9f24c4237ecad7211a96",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "f0b61e5402b99d7789efa032c7a74c90a20220a9c81749da06dbfbcbd52ffb39",
+        "mkdocs-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "mkdocs-1.1.2-py3-none-any.whl": [
+          "096f52ff52c02c7e90332d2e53da862fde5c062086e1b5356a6e392d5d60f5e9",
           "py3"
         ]
       }
@@ -34549,16 +34587,6 @@
       }
     }
   },
-  "odoo12-addon-website-sale-hide-empty-category": {
-    "12.0.1.0.0.99.dev2": {
-      "wheels": {
-        "odoo12_addon_website_sale_hide_empty_category-12.0.1.0.0.99.dev2-py3-none-any.whl": [
-          "2501dda5f97a611fa9e507de8dfddb8a5949a5d98932bc8767b5bc0b3b0a0642",
-          "py3"
-        ]
-      }
-    }
-  },
   "odoo13-addon-base-technical-features": {
     "13.0.1.0.1.dev2": {
       "wheels": {
@@ -37757,20 +37785,6 @@
       ]
     }
   },
-  "pass-import": {
-    "3.0": {
-      "sdist": [
-        "dbc81e669711ba0bf9343d9dd3b05e7cf30f7f0b3cfa16a6e1f189080c7bd182",
-        "pass-import-3.0.tar.gz"
-      ],
-      "wheels": {
-        "pass_import-3.0-py3-none-any.whl": [
-          "6dabb32b335fffc721e6c58dc08145e1ad266648ad0ea8c7be4e942398b1fbaa",
-          "py3"
-        ]
-      }
-    }
-  },
   "pastas": {
     "0.10.0": {
       "sdist": [
@@ -39457,20 +39471,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "piptestmining": {
-    "0.0.4": {
-      "sdist": [
-        "8aab9984986e2e619436e2c336287b7178c4c643aaf0b33708c31c882dcad7eb",
-        "PipTestMining-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "7a63fac5adcddd3cf4bb2aa0c721b9915ccf0e9f7bc50d7e472bcde29330fc6d",
-        "PipTestMining-0.0.5.tar.gz"
-      ]
     }
   },
   "plc": {
@@ -42306,6 +42306,12 @@
       "sdist": [
         "f77d11f6dcd4124ab4382cebad155be44f1360ee7977b5954c3efae3cbb771d8",
         "pyecvl-0.2.1.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "9780467e3d0180ca290c4485a3f80614679f0d0b8e0eb476f7b6649b0c90fb0d",
+        "pyecvl-0.3.0.tar.gz"
       ]
     }
   },
@@ -46254,6 +46260,14 @@
       "wheels": {
         "QuarticSolverTest-0.2.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "0c45b44c5e41e44e53528d2696cb64cf277edda39177254bd5d8a13229863ced",
+          "cp36"
+        ],
+        "QuarticSolverTest-0.2.2-cp36-cp36m-manylinux2010_i686.whl": [
+          "2340e2cbd8f0bbd1ddec5e5d903bad8e1ec0870224f065b6c65fb8d9e5843f67",
+          "cp36"
+        ],
+        "QuarticSolverTest-0.2.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d85e9822a58e2eabe359ceacb585926de3ff6d069b46608adb51be92649eef97",
           "cp36"
         ],
         "QuarticSolverTest-0.2.2-cp36-cp36m-win32.whl": [
@@ -61998,14 +62012,6 @@
       "sdist": [
         "e732f5016c20a7abd56f8d93aa2c268f01b2d0876b3c3fec754007dddaa661ca",
         "zc.ngi-2.1.0.tar.gz"
-      ]
-    }
-  },
-  "zenghui": {
-    "2.1": {
-      "sdist": [
-        "3141a4b3dddec9a481867527581c40ecd215295dc3fdab45a63713c7807a3d97",
-        "Zenghui-2.1.tar.gz"
       ]
     }
   },

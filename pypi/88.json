@@ -26168,6 +26168,12 @@
     }
   },
   "kmaxtools": {
+    "2.0": {
+      "sdist": [
+        "af9b11e36134d8f51e7be2a10e50f80b0460f9d43fca1250de16ac094c60e57b",
+        "kmaxtools-2.0.tar.gz"
+      ]
+    },
     "2.0rc13": {
       "sdist": [
         "5156b5620d9c4d0aa711a1d6159ab17d8a66bc55806e3a6deac61c94d4f62a1c",
@@ -26286,6 +26292,12 @@
       "sdist": [
         "0ae1be83658f58d98bb3f7bf2fef7ea0f376dbb6761f9b8dbaaabeec72adfb22",
         "kmaxtools-2.0rc32.tar.gz"
+      ]
+    },
+    "2.0rc33": {
+      "sdist": [
+        "2f342254016105073c3f7203adfc1f6d2488628a284844cd9897be16d295aefd",
+        "kmaxtools-2.0rc33.tar.gz"
       ]
     }
   },
@@ -33438,6 +33450,12 @@
         "mypy-boto3-cloudhsm-1.13.1.1.tar.gz"
       ]
     },
+    "1.13.10.0": {
+      "sdist": [
+        "001c61941be4a69b5bdb4bfbe53ee8378b7e5a540784ae16b45cc93373ca1f20",
+        "mypy-boto3-cloudhsm-1.13.10.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "816e62d96f6ba05d8ba50410e91d0125efa780909c820b9f0d9beb4329b290be",
@@ -37342,6 +37360,38 @@
         ]
       }
     },
+    "1.3.30": {
+      "sdist": [
+        "c10c860803b76b130e61b13065dd145140760538dfe82a0b22cbbcd067d87f1b",
+        "OctoBot-Commons-1.3.30.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Commons-1.3.30-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "c5aec8690ff5fd1bc6b0eb98b8c06ab927675f9540ffb1140381ace217c38aba",
+          "cp37"
+        ],
+        "OctoBot_Commons-1.3.30-cp37-cp37m-manylinux1_i686.whl": [
+          "3f41ac7d573a6cc0ac6a48b34fed4401880df5a22ff34b3d2c2c2c1d2392df98",
+          "cp37"
+        ],
+        "OctoBot_Commons-1.3.30-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "4c3397d4fff414a6c6c3887715b3caadca64f50d580d6fd66e29f38d0122b3ef",
+          "cp37"
+        ],
+        "OctoBot_Commons-1.3.30-cp37-cp37m-manylinux2014_i686.whl": [
+          "092a304cad93616c9a24ed9fee0d0c4dc00099f465ad5117d908a25db11028ce",
+          "cp37"
+        ],
+        "OctoBot_Commons-1.3.30-cp37-cp37m-win32.whl": [
+          "2e3ae9ef4d3538f974f056b1d6719d999361265779fbcce7838b3f1c5294ab8f",
+          "cp37"
+        ],
+        "OctoBot_Commons-1.3.30-cp37-cp37m-win_amd64.whl": [
+          "3a733306da11acf9184a896d2aebd4828b07ad60389ebd876f3e1ea1b0dc8a55",
+          "cp37"
+        ]
+      }
+    },
     "1.3.4": {
       "sdist": [
         "8a5d9cd4616cb2b839ba752570033d8cbd2e77375cf5ffb5f970f27dc72fa124",
@@ -40882,6 +40932,32 @@
       "wheels": {
         "pockyt-1.4.2-py3-none-any.whl": [
           "54c668532f1e5fbcc16b06ecf28159539c35aa022a289b588496021b96f24c1e",
+          "py3"
+        ]
+      }
+    }
+  },
+  "poetry-deps-formatter": {
+    "0.1.0": {
+      "sdist": [
+        "78d2c16c0837d8592fbd4eda7309e75e41cede9e7108ccdecf2d4f1660974af5",
+        "poetry-deps-formatter-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "poetry_deps_formatter-0.1.0-py3-none-any.whl": [
+          "8307f6c16c5c30b0110899a62919ee72c32601aee9a0e06b71fec5c9d7f49900",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "bdd6382057b2250c8e6ef81584f76bea47bd706819e3609f25a1688a6833bd11",
+        "poetry-deps-formatter-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "poetry_deps_formatter-0.1.1-py3-none-any.whl": [
+          "a7e8a2eb0212b60b3e05591da5bafae0e6432e5e417ee24fc4ba56605be3b2d6",
           "py3"
         ]
       }

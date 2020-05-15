@@ -15090,6 +15090,14 @@
         ]
       }
     },
+    "12.0.0rc2": {
+      "wheels": {
+        "flywheel_sdk-12.0.0rc2-py2.py3-none-any.whl": [
+          "79f3eb04f2d2f6473c9f523dfb2be01be7593ebba9823b00c07ade7b6d8c968f",
+          "py2.py3"
+        ]
+      }
+    },
     "2.1.1": {
       "wheels": {
         "flywheel_sdk-2.1.1-py2.py3-none-any.whl": [
@@ -26987,6 +26995,20 @@
       ]
     }
   },
+  "mopidy-slack": {
+    "0.1.0": {
+      "sdist": [
+        "765be6ed47183109f6754cfd2103d74814b4f88ebc7039540e50144346769491",
+        "Mopidy-Slack-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "Mopidy_Slack-0.1.0-py2.py3-none-any.whl": [
+          "73b2b4635c720505e7620b4cd53f8fbd325e646cad7d50568449af1ea1259999",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "morris": {
     "1.0": {
       "sdist": [
@@ -29016,6 +29038,12 @@
         "mypy-boto3-apigatewayv2-1.13.1.1.tar.gz"
       ]
     },
+    "1.13.10.0": {
+      "sdist": [
+        "2ba5df40b46ff853e786d642341277a92537cb8f0627b8ae387b935b688e6544",
+        "mypy-boto3-apigatewayv2-1.13.10.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "1ba17971c36b3959a8035ff4f3ea2df25bdad52130ce50b2bef1f25216f886ca",
@@ -30038,6 +30066,12 @@
       "sdist": [
         "42908859306ec5aae870dc2974ed4cb443818a7a5b96933e74aca805c4c6d655",
         "mypy-boto3-fsx-1.13.1.1.tar.gz"
+      ]
+    },
+    "1.13.10.0": {
+      "sdist": [
+        "6f39d3685d4aec9332e4cd130ef68780d2d9f3ebf17191e107dd93e7218e9f05",
+        "mypy-boto3-fsx-1.13.10.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -37502,6 +37536,18 @@
       "sdist": [
         "88e5a4578435197799aa368fb1a5d87fe43e02a888cb7e85c2ad66173b383c89",
         "pure-python-adb-0.2.3.dev0.tar.gz"
+      ]
+    },
+    "0.2.4.dev0": {
+      "sdist": [
+        "96c5d33e175bc4ee2cb2479b0559b8a04658384db0c3ccc3744474f119d69537",
+        "pure-python-adb-0.2.4.dev0.tar.gz"
+      ]
+    },
+    "0.2.5.dev0": {
+      "sdist": [
+        "acf45111aa6e8fa26e1c272db9dbbb727764af4d2cd4c30fbea0538902683342",
+        "pure-python-adb-0.2.5.dev0.tar.gz"
       ]
     }
   },
@@ -52101,6 +52147,46 @@
           "cp38"
         ]
       }
+    },
+    "2020a9": {
+      "wheels": {
+        "supy_driver-2020a9-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "d6aa5f15a0010005fdafdfc114de02d61b5ff2b3e5891077fa99dbfa9fd4323f",
+          "cp36"
+        ],
+        "supy_driver-2020a9-cp36-cp36m-manylinux1_x86_64.whl": [
+          "17a7e78d0a672c946f1c09e34f02f2cd9cc22c1627625bcbc16053f8a5637a08",
+          "cp36"
+        ],
+        "supy_driver-2020a9-cp36-cp36m-win_amd64.whl": [
+          "70012c5b9beb40c964fab26928efa09e13ea8eeda9baf70b71df9a340f4fc291",
+          "cp36"
+        ],
+        "supy_driver-2020a9-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "46aa1ec1e3790bd73c4b70228339ecbffc6347b689c266f85dc3244e193ac028",
+          "cp37"
+        ],
+        "supy_driver-2020a9-cp37-cp37m-manylinux1_x86_64.whl": [
+          "61c0da68a7190f34e96b4a667db1f38396fe022764a4e79648e8bddc0fce8c11",
+          "cp37"
+        ],
+        "supy_driver-2020a9-cp37-cp37m-win_amd64.whl": [
+          "d754ed7d11f8a1793e18c39963b19e1f3b48ff8502a85c09f31c00ff0b117960",
+          "cp37"
+        ],
+        "supy_driver-2020a9-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "76f0edfff3ccaeaac20cbb0fe06dc10710823fc122c58e4da1f6fa24fca63da7",
+          "cp38"
+        ],
+        "supy_driver-2020a9-cp38-cp38-manylinux1_x86_64.whl": [
+          "2f96de0cd4425630aa9b130cfe07f361fc1d14e5508a6effa1da5622f906ffc4",
+          "cp38"
+        ],
+        "supy_driver-2020a9-cp38-cp38-win_amd64.whl": [
+          "411f2f8f99cdbec9a5d5db835029fff0791a7f7c2fa09dfbcee12c4824f8479a",
+          "cp38"
+        ]
+      }
     }
   },
   "svgwrite": {
@@ -53750,6 +53836,26 @@
         ],
         "symbolic-7.3.0-py2.py3-none-manylinux2010_x86_64.whl": [
           "d14c6bc70242d6e8c633cddbb18cb944d5da51d84c80b5a4e01d5527a0d32992",
+          "py2.py3"
+        ]
+      }
+    },
+    "7.3.1": {
+      "sdist": [
+        "56d0532b596a96bc107600c85f1ad00ab49a2ffe29a341334918f81bc9d22c43",
+        "symbolic-7.3.1.zip"
+      ],
+      "wheels": {
+        "symbolic-7.3.1-py2.py3-none-macosx_10_13_x86_64.whl": [
+          "bd17edf021d143f83c7fd67a19afb6a9465c98d17b29a0249e3a6d9f93b9acfb",
+          "py2.py3"
+        ],
+        "symbolic-7.3.1-py2.py3-none-manylinux2010_i686.whl": [
+          "cf2770c65f3f99569db3fcb40797237ec026045f35d3e2f86b76d196419447dc",
+          "py2.py3"
+        ],
+        "symbolic-7.3.1-py2.py3-none-manylinux2010_x86_64.whl": [
+          "1d7a3a5b9cf2aa98cf98a6fc10c07128e63524d96650773cbf56da91b1dbd694",
           "py2.py3"
         ]
       }

@@ -903,20 +903,6 @@
       }
     }
   },
-  "aleksis-app-ldap": {
-    "2.0a2": {
-      "sdist": [
-        "5c98284ec999ba8226004362d0048e08c80d7c56fec919001ee893d36125a4e6",
-        "AlekSIS-App-LDAP-2.0a2.tar.gz"
-      ],
-      "wheels": {
-        "AlekSIS_App_LDAP-2.0a2-py3-none-any.whl": [
-          "a9fd400e8208e5a19b12de2e05c893965e2dc7a9966575f405079b6a4925f4d1",
-          "py3"
-        ]
-      }
-    }
-  },
   "algopy": {
     "0.1.0": {
       "sdist": [
@@ -4731,6 +4717,16 @@
         "35b4a31b6e0165817685163572537d0df38d8834046574301821fee40c5390bf",
         "capsule8-1.9.tar.gz"
       ]
+    }
+  },
+  "cd-hibp": {
+    "1.0.0": {
+      "wheels": {
+        "cd_hibp-1.0.0-py3-none-any.whl": [
+          "86071627238768576af35b1451b3c9e651a2aaa692fd73cfcac143efe2fe57d4",
+          "py3"
+        ]
+      }
     }
   },
   "cds-sorenson": {
@@ -8949,6 +8945,20 @@
       }
     }
   },
+  "diorite": {
+    "0.1.0": {
+      "sdist": [
+        "4b5140b403c1bc18cfbbb90257b3bc33e122aa3a00eb953faf8d9283a252bf0c",
+        "diorite-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "diorite-0.1.0-py3-none-any.whl": [
+          "37a6fd70e61c4e7604eb7811c564e1a075dd82f7ef758cce39444b167d800cbb",
+          "py3"
+        ]
+      }
+    }
+  },
   "displaylists": {
     "1.0.0": {
       "sdist": [
@@ -9130,6 +9140,18 @@
       "wheels": {
         "django_access_tastypie-0.0.2b1-py2.py3-none-any.whl": [
           "0bfea4a01dea564fff9b7265d3e1f657f107f4c99be5f5a32b0d552279a84707",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3b1": {
+      "sdist": [
+        "9ff3f07d9c8121e828ee6e737918df9f4331ef197da7f29f06a84f4e9b5860ca",
+        "django-access-tastypie-0.0.3b1.tar.gz"
+      ],
+      "wheels": {
+        "django_access_tastypie-0.0.3b1-py2.py3-none-any.whl": [
+          "711f84f578792b0fb70d37e72e915a3bbed1850672196ef00fc56a46b224a88d",
           "py2.py3"
         ]
       }
@@ -13058,32 +13080,6 @@
       "wheels": {
         "fast_arrow_auth-0.0.4-py3-none-any.whl": [
           "f9bc29bbcbc9c5612872b9289cfa395eedc6639ca8f46c57d43df821d34b640d",
-          "py3"
-        ]
-      }
-    }
-  },
-  "fastrf": {
-    "0.0.0": {
-      "sdist": [
-        "919cf621312d9fbd33ec42a3f0ba24918ce58b2e09136289a6dba811fc11ca00",
-        "fastrf-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "fastrf-0.0.0-py3-none-any.whl": [
-          "b512e0575dc0c012347bf2fc8e5d8030ce5e67d4fac316659301f1458c391573",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "d22c112c8297d4bbb19572374356aedefa0998d4953d6e1eddc5e34a05903287",
-        "fastrf-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "fastrf-0.0.3-py3-none-any.whl": [
-          "8da386fc943e51bf887ff453fb94e3412f6b56f3c0289471a574ff64b6083fdf",
           "py3"
         ]
       }
@@ -28487,6 +28483,12 @@
         "a86c80cb26f4cb042d17a6e35b3a45f8122c1846d77b9ef8a3223a100e167ba3",
         "h2o_pysparkling_2.4-3.30.0.2-1.tar.gz"
       ]
+    },
+    "3.30.0.3-1": {
+      "sdist": [
+        "421d0f9a2fa4d2b2d36c2e957d1cf9be127c420e2e586c024bf9e58bcbb28123",
+        "h2o_pysparkling_2.4-3.30.0.3-1.tar.gz"
+      ]
     }
   },
   "hashin": {
@@ -37508,6 +37510,12 @@
         "mypy-boto3-datapipeline-1.13.1.1.tar.gz"
       ]
     },
+    "1.13.10.0": {
+      "sdist": [
+        "1ffafccc8dfb91c07de623d374a2fbb39bd4cb7c439cef47950839a2b3f3b434",
+        "mypy-boto3-datapipeline-1.13.10.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "8e813499e176ddfda206b632a521cf5643f1dea4c7345940d8faf0c77a302cdf",
@@ -39597,6 +39605,32 @@
         "5ece57664b6ab850057fe76694933fa936aa40f6017b4c21af1026bc364fc3d8",
         "nyaa-cli-0.0.1.dev9.tar.gz"
       ]
+    }
+  },
+  "object2urdf": {
+    "0.1": {
+      "sdist": [
+        "2527a0068a09097bdaaf70898b1946691f8e9dc81fdc31a902a8a2ef3fcf59aa",
+        "object2urdf-0.1.tar.gz"
+      ],
+      "wheels": {
+        "object2urdf-0.1-py3-none-any.whl": [
+          "95d846c0ddfd896b01a8b7cc4898ad3e00148577635866f8947046d5b6a7b644",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "6b4378ef30afb90b83adc4695db016f067a56e8725c27e9b5f3a6bee1a6721a1",
+        "object2urdf-0.2.tar.gz"
+      ],
+      "wheels": {
+        "object2urdf-0.2-py3-none-any.whl": [
+          "034b14074c6103a710896efccddde7ceeaf33a1e0003767c9951d977399a712b",
+          "py3"
+        ]
+      }
     }
   },
   "ochoneycomb": {
@@ -61993,6 +62027,20 @@
         "c91b1a671493a73caa8c82deadb59edccae120f750fb7ead4068a598cc97f832",
         "transperth-0.1.2.zip"
       ]
+    }
+  },
+  "trg-etcd3-client": {
+    "0.1.6": {
+      "wheels": {
+        "trg_etcd3_client-0.1.6-py2-none-any.whl": [
+          "06549d13c9f14e3ca9a39ab22b3b424a551f76531310ad3fd671b22683e4e37f",
+          "py2"
+        ],
+        "trg_etcd3_client-0.1.6-py3-none-any.whl": [
+          "7f9801070b551bb8437d1cb20eec51a8897be618e2fb0ba84e0e7b3a3a57b8f9",
+          "py3"
+        ]
+      }
     }
   },
   "triplecask": {
