@@ -6239,6 +6239,12 @@
         "3fd0dbe096010ff979f4283fd757567dc056b81287f32cb55686ef2bdb4a956a",
         "certbot-netdot-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "0570e9974981c252d60ffd805253852485d178b7cd3389e4d3a2677c73b1c437",
+        "certbot-netdot-0.1.1.tar.gz"
+      ]
     }
   },
   "cframe": {
@@ -7526,6 +7532,14 @@
       "wheels": {
         "cnx_publishing-0.17.11-py2-none-any.whl": [
           "843a3af99352597d2ba6339fc1991f4060dfabcee55ff78b0dba86b15e4450fa",
+          "py2"
+        ]
+      }
+    },
+    "0.17.12": {
+      "wheels": {
+        "cnx_publishing-0.17.12-py2-none-any.whl": [
+          "6a8202ff9e787e57b4db454d95ed1955e22a6422c30859378ea7d565346805d6",
           "py2"
         ]
       }
@@ -22619,6 +22633,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.3": {
+      "sdist": [
+        "67fb734d2094b6985a956381f7f00404ebdde44fd51128b1e7830de756eb5825",
+        "izitest-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "izitest-2.0.3-py3-none-any.whl": [
+          "8039249b848dcc36f2d252d4f5239ba0f65282be81a3466201e847127d21e268",
+          "py3"
+        ]
+      }
     }
   },
   "jareutil": {
@@ -26237,6 +26263,22 @@
           "cp38"
         ]
       }
+    },
+    "0.5.4.dev20200515": {
+      "sdist": [
+        "305b4d7a0016bb35a79505380d121452e94f3e7e50bf36039e1f2fff8b6a06e0",
+        "mmcv-nightly-0.5.4.dev20200515.tar.gz"
+      ],
+      "wheels": {
+        "mmcv_nightly-0.5.4.dev20200515-cp36-cp36m-manylinux1_x86_64.whl": [
+          "9ca95a21cd02c6e5449d20ee7b3998469c3274edb70ef9c66cd586dcff70d332",
+          "cp36"
+        ],
+        "mmcv_nightly-0.5.4.dev20200515-cp37-cp37m-manylinux1_x86_64.whl": [
+          "560ff758ff229efb0b9d9651470180a96c9827a930470723262e57ce773c16b1",
+          "cp37"
+        ]
+      }
     }
   },
   "monasca-events-api": {
@@ -28152,6 +28194,12 @@
       "sdist": [
         "fa14e5419e625efadef0080523ae549c7bcb683c678a82caf1648bc90bf98619",
         "mypy-boto3-kinesisanalytics-1.13.10.0.tar.gz"
+      ]
+    },
+    "1.13.11.0": {
+      "sdist": [
+        "217065ab9c6e7df2626c4ee4207687d9ed22b0ff2dfc4454ead4f373adaa319a",
+        "mypy-boto3-kinesisanalytics-1.13.11.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -53153,6 +53201,66 @@
           "3.7"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "de9aaccdbed20466c886adf9949607813135369f7ff7bdd469b2c1c73a8e5bcb",
+        "sob-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "sob-0.5.1-py3-none-any.whl": [
+          "b72859fbf0630a8c4b64ff57d0c39b1d895e4e7d0271f08643cb26cd462af768",
+          "3.7"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "6c38db517deea5eb90eeb543499b3be87f8452b9f9e8c78d5e58f4c3463e9265",
+        "sob-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "sob-0.5.2-py3-none-any.whl": [
+          "12bdd399957c34e95a2100397d5d44094d46db8530c3dd809606c86079914e6f",
+          "3.7"
+        ]
+      }
+    },
+    "0.5.3": {
+      "sdist": [
+        "74559b7a83ce1ca28f0872467b076cf5d74a56e3b8f046acb31467b493518672",
+        "sob-0.5.3.tar.gz"
+      ],
+      "wheels": {
+        "sob-0.5.3-py3-none-any.whl": [
+          "e926bd408dbea4536f4f654f298135399648589b095eecfaff09f98cb59cd5fc",
+          "3.7"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "d4aa0420b8d013827e8dad88c3fdf6c46e7ba0783ca4dc28a8210df2c344449a",
+        "sob-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "sob-0.5.5-py3-none-any.whl": [
+          "13a12b777c87820aa93fa18e4fbbcd1b405e56e34cc09ac951594e269bfddcf2",
+          "3.7"
+        ]
+      }
+    },
+    "0.5.7": {
+      "sdist": [
+        "13e8c93e9416874927b5500e6178dd1744259edf13af23cc83fcae6bf08599db",
+        "sob-0.5.7.tar.gz"
+      ],
+      "wheels": {
+        "sob-0.5.7-py3-none-any.whl": [
+          "5938c07b580f168d1c44b9bfe2d5697837c24d8031c9bc3c553e997f65c48555",
+          "3.7"
+        ]
+      }
     }
   },
   "sockjs-cyclone": {
@@ -55698,6 +55806,12 @@
       "sdist": [
         "7d3776fa2ed3f61e00d7c51c1a4351d85c72d8f31c3f10e0ed89ba444995432e",
         "tensorflow-cloud-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "1744ddee7ddad952584d16c9467e5ff14a62d2aeed2f34c5836124b3d1c2afad",
+        "tensorflow-cloud-0.1.2.tar.gz"
       ]
     }
   },

@@ -21098,6 +21098,38 @@
         ]
       }
     },
+    "1.11.1": {
+      "sdist": [
+        "bcbe5ca473ad64e0d556f20babef778ae52a4f8d2035eedbe48af80ae0c679a6",
+        "glfw-1.11.1.tar.gz"
+      ],
+      "wheels": {
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_10_6_intel.whl": [
+          "58571b8c87c4632bf7031c8e3508d668e9d4e4a7963ad26995e1db3615e31205",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_i686.whl": [
+          "abd6fba448a5b76d020f0c6e8d9906c685e8ab9db20f5ef33315bd00d931767a",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_x86_64.whl": [
+          "0decb3cfe8f5a6df48134bd1ec4541863a0e24a93efa4da31f3f7c172681567c",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_x86_64.whl": [
+          "c967955b5b77fee562b3faaa538683c169319a6e68f78cd848f9f95c2dd5d15d",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl": [
+          "39fa85aa27a5eb140efc90e23304388473733b98c6ee66c373c9b3e201ec6d7b",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-1.11.1-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl": [
+          "ad99b4a4bac848fa963813ccc839e9311c563248772063f7874f8da4fbe5414f",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "de081c9baf578710a985f8a1c18c648fb00d5d499c910fcb6f3d71b5b40958b5",
@@ -31116,6 +31148,12 @@
         "mypy-boto3-cognito-identity-1.13.10.0.tar.gz"
       ]
     },
+    "1.13.11.0": {
+      "sdist": [
+        "f9c62b7da6b7288e456abec326ff1b78984fd53d730fbd9e7abedb27ce6cf12a",
+        "mypy-boto3-cognito-identity-1.13.11.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "163376b8c5e8b4c1282d03d8adfb2af3512954bada8d11266ad3711fdd5659ce",
@@ -32136,6 +32174,12 @@
       "sdist": [
         "da01c044de5e1d1c8675a93e30c093bbe9490c1115a213110d656b34ed027f0d",
         "mypy-boto3-kafka-1.13.10.0.tar.gz"
+      ]
+    },
+    "1.13.11.0": {
+      "sdist": [
+        "44afabe51dd5929c5c3422998505a688adb245279aaccad41abd942663fd205e",
+        "mypy-boto3-kafka-1.13.11.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -43104,6 +43148,12 @@
       "sdist": [
         "f3ba5953c5428cee2819197c7509526928d5db7aa8bbba19e53a3f7b35b5a267",
         "pulumi_signalfx-2.3.0a1589375026.tar.gz"
+      ]
+    },
+    "2.4.0a1589566247": {
+      "sdist": [
+        "49177a482b95803276327353315bf1e9439cc0710244a3e51db93b4b9bfc7ba9",
+        "pulumi_signalfx-2.4.0a1589566247.tar.gz"
       ]
     }
   },
@@ -57277,6 +57327,20 @@
       ]
     }
   },
+  "snowdaemon": {
+    "0.1.0": {
+      "sdist": [
+        "5f729d7fa3c311cecf1e1c9ceba069bc3d7c69a8722bce9720867baa14231e9a",
+        "snowdaemon-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "snowdaemon-0.1.0-py3-none-any.whl": [
+          "9d8182472ff429eb2b8693dc8313d8aba800dbab8e12d47b5e7605620004e85e",
+          "py3"
+        ]
+      }
+    }
+  },
   "socket.engine": {
     "0.0.1": {
       "sdist": [
@@ -63184,6 +63248,18 @@
       "wheels": {
         "torchlayers_nightly-1589501130-py3-none-any.whl": [
           "6e6db345feb60b3190f07335f1909d0ff7c8d448ef200b47e77287563caca348",
+          "py3"
+        ]
+      }
+    },
+    "1589587548": {
+      "sdist": [
+        "2120586c9721b6049b87613ba248bbaef884ccadb4ab7c77cacfddeafb80ceab",
+        "torchlayers-nightly-1589587548.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1589587548-py3-none-any.whl": [
+          "0b2754e8659c0a87abef8a4881b16c5887a292dd4646c3be4aeb08adf697cfe3",
           "py3"
         ]
       }

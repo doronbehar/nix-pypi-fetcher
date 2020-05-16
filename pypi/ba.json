@@ -10418,6 +10418,18 @@
         ]
       }
     },
+    "2.3.10": {
+      "sdist": [
+        "bd1e6345bcd06cb75bc4bed3749c1f8b89679d53a803f3c61da003897ffd1598",
+        "deriver-2.3.10.tar.gz"
+      ],
+      "wheels": {
+        "deriver-2.3.10-py3-none-any.whl": [
+          "7d67d77c319bdde2f5b50d4089bcf966a738573b9c37b54921b48229f75c3d6b",
+          "py3"
+        ]
+      }
+    },
     "2.3.2": {
       "sdist": [
         "1e91fb0feccf8621dfd06d3b26bdda420f229487a29fa1332e8afb0a49b7301b",
@@ -35922,6 +35934,12 @@
         "mypy-boto3-amplify-1.13.10.0.tar.gz"
       ]
     },
+    "1.13.11.0": {
+      "sdist": [
+        "f6a4f55af559720eacfe4225ebfd755e67a776c1bc5c3e06bdfd6938170919a2",
+        "mypy-boto3-amplify-1.13.11.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "227a806ea2571467e0266808278c5e765bdd376f4210aa9c7ce691b09646fa24",
@@ -36952,6 +36970,12 @@
         "mypy-boto3-elb-1.13.10.0.tar.gz"
       ]
     },
+    "1.13.11.0": {
+      "sdist": [
+        "635908bebfbee7a0898996e7241eb8ecf0185caaaac0d870e6133b7bfb9aea79",
+        "mypy-boto3-elb-1.13.11.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "f837df30aada5f425e02815546f16850d6f216ad22fd39a0fedba77a7c7a282b",
@@ -37972,6 +37996,12 @@
       "sdist": [
         "880f61700a1843a14e1665f72e611c0d130707dde67dd6f40c89353fc98eb8de",
         "mypy-boto3-meteringmarketplace-1.13.10.0.tar.gz"
+      ]
+    },
+    "1.13.11.0": {
+      "sdist": [
+        "e1bbed5d5ec96ab4066dff815871e29e20196d5ea8b908e02ad1146b9ef9a38f",
+        "mypy-boto3-meteringmarketplace-1.13.11.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -66262,12 +66292,20 @@
           "cf01693d21ec66415d138c9827fee6df7f621f8470d968f766c91c314ed2dcd5",
           "cp35"
         ],
+        "tf_nightly-2.3.0.dev20200515-cp35-cp35m-win_amd64.whl": [
+          "dbd293fb67fbfe242fc35f4709471810c6563b6b9fd4a9a9f337da6089be91af",
+          "cp35"
+        ],
         "tf_nightly-2.3.0.dev20200515-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "ec272b409ab26e19124de9e9b0f13e12c013f7d3b344bb4f531497aea20cd23a",
           "cp36"
         ],
         "tf_nightly-2.3.0.dev20200515-cp36-cp36m-manylinux2010_x86_64.whl": [
           "7aac227fa909a4437193f3b9c18ad8dcc277238ff6748be05dc98c207ee65323",
+          "cp36"
+        ],
+        "tf_nightly-2.3.0.dev20200515-cp36-cp36m-win_amd64.whl": [
+          "e731241d35d66d9b28bc8f7e810fbf74d9ee2b19709ebf93da312b2617bdb4b0",
           "cp36"
         ],
         "tf_nightly-2.3.0.dev20200515-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -66278,8 +66316,16 @@
           "81bf3158e56dc7f0d7b1242766130e9030a65dd58ae2b2d72a4df938fe19fc1c",
           "cp37"
         ],
+        "tf_nightly-2.3.0.dev20200515-cp37-cp37m-win_amd64.whl": [
+          "b9e135b167872c7cf91bf950218a95b9bf3487846dedb9670bc4a015af801841",
+          "cp37"
+        ],
         "tf_nightly-2.3.0.dev20200515-cp38-cp38-manylinux2010_x86_64.whl": [
           "7e972cad4d5fd15e6b3bee54131e314d4692b191855c54943401a348b70315f8",
+          "cp38"
+        ],
+        "tf_nightly-2.3.0.dev20200515-cp38-cp38-win_amd64.whl": [
+          "f8b91c55dbeb59f848feda4b5390e0bc0259fb3635d88268d188c84e4e51079c",
           "cp38"
         ]
       }
@@ -69866,18 +69912,6 @@
     }
   },
   "vtt-to-srt3": {
-    "0.1.0": {
-      "sdist": [
-        "5e1bf4b6b080bda918560eb50b1385fa8979ef3bf8ae44c15db808d4d1f8fc68",
-        "vtt_to_srt3-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "vtt_to_srt3-0.1.0-py3-none-any.whl": [
-          "18fe767d95f3bf483f479fe16a895a4e02b3d399e0f30461cd30de1f12137b1e",
-          "py3"
-        ]
-      }
-    },
     "0.1.1": {
       "sdist": [
         "8bb7c5ee33cd26e1cd2d1ceb8c0ccc045e2e6b8d927010019c92f0457fb3abe5",
@@ -69954,18 +69988,6 @@
         ]
       }
     },
-    "0.1.8": {
-      "sdist": [
-        "a7b26fa05c63df6cad0fca8183a5371e09f5d97ce890f412567acb7265353822",
-        "vtt_to_srt3-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "vtt_to_srt3-0.1.8-py3-none-any.whl": [
-          "8884087e8a6e53e4e9e9a30c22db9118c31c778b3257237bfa90558ec73d6270",
-          "py3"
-        ]
-      }
-    },
     "0.1.8.1": {
       "sdist": [
         "33febae5c360140dc50b5de0c25fda582e9e98a6d0f71b1832d93f472a6dfd85",
@@ -69977,6 +69999,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.8.3": {
+      "sdist": [
+        "dd21ae2a8158db51853c1ff6a6b7d3a1445f3c809e6d80871ec19257c2d9e706",
+        "vtt_to_srt3-0.1.8.3.tar.gz"
+      ]
+    },
+    "0.1.8.4": {
+      "sdist": [
+        "6fb7a19e98f8ccc61b8ca841757fa52681c28defb630681ea2b0f65ab42a6bcb",
+        "vtt_to_srt3-0.1.8.4.tar.gz"
+      ]
     }
   },
   "wafo": {

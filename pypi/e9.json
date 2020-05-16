@@ -1127,6 +1127,34 @@
           "py3"
         ]
       }
+    },
+    "0.2.4": {
+      "wheels": {
+        "animated_memory-0.2.4-py3-none-any.whl": [
+          "d4d457ff0aaa27d788cf477ffa44885171c283589b81b906a960b5c02fc93c7a",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "a3fa2beeefa9363b8a993f8fc542778eacd618ca8207bfd66be67b014513bf6f",
+        "animated-memory-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "animated_memory-0.2.5-py3-none-any.whl": [
+          "78337107b2b92c7148e7c06ec0ffd4699ec35997e3c34b2e31bd1cedb82950c9",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "wheels": {
+        "animated_memory-0.2.7-py3-none-any.whl": [
+          "b5d75f1fbe5f2c6390fbdd9941b9a077682321416863f1e82b74a726bdd3e6ad",
+          "py3"
+        ]
+      }
     }
   },
   "anndata": {
@@ -19665,44 +19693,6 @@
       }
     }
   },
-  "floydpink.jsii-native-python": {
-    "0.0.1": {
-      "sdist": [
-        "322f8ed41c2e404bc4658497f380e5142bf5076c05fa38f970e04151d2cf5a5c",
-        "floydpink.jsii_native_python-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "floydpink.jsii_native_python-0.0.1-py3-none-any.whl": [
-          "44100c0a4df4aba61e3d8b01a45c6c281ea2e06a46a4e1fc9040dcbb9dafd326",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "3e515e38f58962d21265aba2cac6e26fd497457bb85dc23d806a42ecd2e3e9f5",
-        "floydpink.jsii_native_python-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "floydpink.jsii_native_python-0.0.3-py3-none-any.whl": [
-          "2d77cecca4ca9aaaaac800b15f8e4e39452cbcd64261f822f3eb3a8bb11bb326",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "0e7f5664f4e92121ddbf32760b9f791841d6667dfce8bd31efc5b020119a7ff2",
-        "floydpink.jsii_native_python-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "floydpink.jsii_native_python-0.1.0-py3-none-any.whl": [
-          "e1f55ee90f65a1f51f4b7d2506d899f8d49d71e35e7ca5f89f5dc61f2ad55f8e",
-          "py3"
-        ]
-      }
-    }
-  },
   "flv2img0.1.2": {
     "0.1.2": {
       "sdist": [
@@ -22830,26 +22820,6 @@
       "sdist": [
         "4e33f387cfee85333e7f8d53d6abd403d575b25b9d820eba03d81a6741fbe2d2",
         "hst-0.1.9.tar.gz"
-      ]
-    }
-  },
-  "hubspot-api-client": {
-    "1.0.0": {
-      "sdist": [
-        "b48052d7a82203c23a3e6f5156bf45344ba43b2839346cfc8f5c0c1dd8c1eab1",
-        "hubspot-api-client-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "hubspot_api_client-1.0.0-py3-none-any.whl": [
-          "7d00396469dd47b5e78c61f9fd081572c26f8c6e90d16a258a62f689384dd887",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0b0": {
-      "sdist": [
-        "8f964b9d68cef2d51dbc09246236545eaba03ba7cdc8948713b6f329b6549156",
-        "hubspot-api-client-1.0.0b0.tar.gz"
       ]
     }
   },
@@ -33732,6 +33702,12 @@
         "mypy-boto3-frauddetector-1.13.10.0.tar.gz"
       ]
     },
+    "1.13.11.0": {
+      "sdist": [
+        "dbb7f831d5b608971f20dcc2f241cd4a1eaae13713d1bc3c2c0cf9060e9df178",
+        "mypy-boto3-frauddetector-1.13.11.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "d94b6a629cfeba2695f2f9de23e51a7cb07c2f4769b9fff0acf88971726a9fd5",
@@ -34764,6 +34740,12 @@
       "sdist": [
         "a8f25af289c26b0d86ea5c1a41409d0164213d90978d685baa7779886e449bd1",
         "mypy-boto3-qldb-1.13.10.0.tar.gz"
+      ]
+    },
+    "1.13.11.0": {
+      "sdist": [
+        "7bbe6507978ea652b1efbcf257bbd1fefeefa12244908a986412a57845a20342",
+        "mypy-boto3-qldb-1.13.11.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -43023,98 +43005,6 @@
         "pyg_plot-0.0.1-py2.py3-none-any.whl": [
           "9e067af10c12e8806b87eedf843240dad506808df0e824d4168221702c19b523",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "pygad": {
-    "1.0.15": {
-      "sdist": [
-        "4a7cb02b875370335d426ac51ef8075bc94d4d0dad0a34cf5e74a15647054c3c",
-        "pygad-1.0.15.tar.gz"
-      ],
-      "wheels": {
-        "pygad-1.0.15-py3-none-any.whl": [
-          "fc2a1baae22c3d8009ea9da9ac7735649772547ba249daa7236717505653aa6a",
-          "py3"
-        ]
-      }
-    },
-    "1.0.16": {
-      "sdist": [
-        "49468d28a3dc355fbebff4ac55875aff4a0222d0c8ef3118a5ede0c5bce6bb5f",
-        "pygad-1.0.16.tar.gz"
-      ],
-      "wheels": {
-        "pygad-1.0.16-py3-none-any.whl": [
-          "da040efbc811fb394622cac0ca845847a3316db6f75036a981f761a191675174",
-          "py3"
-        ]
-      }
-    },
-    "1.0.17": {
-      "sdist": [
-        "86e8d32e1f8a0e095e7d7853c4ebb56589d1fb60fe41babf975f011e6448b0e5",
-        "pygad-1.0.17.tar.gz"
-      ],
-      "wheels": {
-        "pygad-1.0.17-py3-none-any.whl": [
-          "bba5514388b8ec30d0d7532cc0455fe998328f3f697139afb0a989bd82ba8f5d",
-          "py3"
-        ]
-      }
-    },
-    "1.0.18": {
-      "sdist": [
-        "3774a1a0532a85dbd97c55ea3d39cd2b7dd6ec2155ef3d93658898f9219f17bb",
-        "pygad-1.0.18.linux-x86_64.tar.gz"
-      ]
-    },
-    "1.0.19": {
-      "sdist": [
-        "6c698f0213bd42e761d9f05c20c80975503b9a3657130aa76612e9b819a7c8db",
-        "pygad-1.0.19.tar.gz"
-      ],
-      "wheels": {
-        "pygad-1.0.19-py3-none-any.whl": [
-          "e49556205b755642c060f5de9b5fb8aa1b9d887fdd0b23e995483ff775c0497a",
-          "py3"
-        ]
-      }
-    },
-    "1.0.20": {
-      "sdist": [
-        "676b132509ea1eb5c31fbc04f5094627483a02cb5622f4e5ca41e8e229dbb077",
-        "pygad-1.0.20.tar.gz"
-      ],
-      "wheels": {
-        "pygad-1.0.20-py3-none-any.whl": [
-          "0da53ab98dc2cca8e35134f9200061a86420f0fb570ed25bbf4eab5993b21119",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "sdist": [
-        "5ecfb948ab66f773b2f93496274916958a15aec9214d98599469a4370c94493c",
-        "pygad-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "pygad-2.0.0-py3-none-any.whl": [
-          "7f948f4f6ddd50ab4253a669ba40fdee7455ca0311914c76865f7ef059c675e1",
-          "py3"
-        ]
-      }
-    },
-    "2.1.0": {
-      "sdist": [
-        "24548dba168e590f20b47c9ef86bb367d158d7c70e61c1b4f7f0a8bd26f32de8",
-        "pygad-2.1.0.tar.gz"
-      ],
-      "wheels": {
-        "pygad-2.1.0-py3-none-any.whl": [
-          "25ebe6772b0e90f1e82d1fe8ed16735d10d0773f3842b82f03c2e8e6bab8ab50",
-          "py3"
         ]
       }
     }
@@ -67298,6 +67188,12 @@
       "sdist": [
         "2fd9934aed4a6c37dadc609f64b6e28ea45cf9073e7ee62f304cb9cfa3b47140",
         "sshdeploy-1.1.4.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "75c8df28db272b4490c3b0175b0ede4b0b2755b6b0e376dd68ab034e333fb8bb",
+        "sshdeploy-1.2.0.tar.gz"
       ]
     }
   },

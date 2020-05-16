@@ -297,6 +297,12 @@
         "c384ad299f39df5fb43476d737ccda2e9e6df1f19f371e176abebf1469fea75d",
         "aerich-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "6847202d4ff4709bb9a01a1744cc5c2bafb50739c9c91efbb69198a34e166b63",
+        "aerich-0.1.2.tar.gz"
+      ]
     }
   },
   "aerospike-connpool": {
@@ -11878,6 +11884,62 @@
         ]
       }
     },
+    "0.37.1": {
+      "sdist": [
+        "2f7062701acb919fedf89aebe607b16cc9309449d447f4dd772785c949f9b0d6",
+        "ddtrace-0.37.1.tar.gz"
+      ],
+      "wheels": {
+        "ddtrace-0.37.1-cp27-cp27m-manylinux2010_i686.whl": [
+          "48b2f6b39e29ea008adf8a31ba9083adb4a29f27764607ed2750f9ccf5918692",
+          "cp27"
+        ],
+        "ddtrace-0.37.1-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "82dc697902cdbfe3da479342e42925e6ed0aa5f4670c097bf5470e948f77bf1e",
+          "cp27"
+        ],
+        "ddtrace-0.37.1-cp27-cp27mu-manylinux2010_i686.whl": [
+          "17a0bdf3fe6f7494d8c4c59e75a9f5fd9cd8a047a490e12baf4e3fd71dab5b40",
+          "cp27"
+        ],
+        "ddtrace-0.37.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "c4988f57bc52528f4fa197ee5be33c1663e29c91ca00acd5e08f0ae96a41fd58",
+          "cp27"
+        ],
+        "ddtrace-0.37.1-cp35-cp35m-manylinux2010_i686.whl": [
+          "88079ca36519153fbf05c1a38be9e77913d48fc2b4f6441021f631003d9db578",
+          "cp35"
+        ],
+        "ddtrace-0.37.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "24ec703d5cb0a4d1a1eff0c7929439123d8f824062cc1beec2eb1a99eb849342",
+          "cp35"
+        ],
+        "ddtrace-0.37.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "84d559e7d0cf03ec2821c6060d6732ef98a7a21e9396db231899c1fe67a98a52",
+          "cp36"
+        ],
+        "ddtrace-0.37.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9d49d7a74854840dc1e00f8d9a94d0bcbcdac7f3e2a743abb8324d12b9d218f1",
+          "cp36"
+        ],
+        "ddtrace-0.37.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "ee06a29bb29c26818fec5b86676d1873653e927a18c55736523bd15ea0cafec5",
+          "cp37"
+        ],
+        "ddtrace-0.37.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "71f5ba20fd36f5eb00cbb4365ebe27ab78716955450b8b9ea8976ba3cc4d1a78",
+          "cp37"
+        ],
+        "ddtrace-0.37.1-cp38-cp38-manylinux2010_i686.whl": [
+          "9b37750c36cef1d77270e46ebfa13a45fddaa02306ce62e98755666658485fff",
+          "cp38"
+        ],
+        "ddtrace-0.37.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "3c32f7504a30de0f817c24306e825eb6ce680c2a3968b09c5c6c33b6b4c8d360",
+          "cp38"
+        ]
+      }
+    },
     "0.5.3": {
       "sdist": [
         "85168d34f684f15b0c677d53089d60e1e1ac8966b6ede3894037dcd89e3707a6",
@@ -22166,6 +22228,18 @@
       "wheels": {
         "dkredis-0.1.2-py2.py3-none-any.whl": [
           "12d0f6b22653db7533b840159e22683cbae340bd9c6065211115d0627d096fc7",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "c0a77f2a5bac1671669d6d349ddef364f06d0dad264fe3ffeb341b1ba3f074eb",
+        "dkredis-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dkredis-0.1.3-py2.py3-none-any.whl": [
+          "cbd2e665a4da2a365666d135854d6764751f9f32b1d4210db0cdeadf7e0b3318",
           "py2.py3"
         ]
       }
@@ -35773,6 +35847,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "eb0fc5dbdcb13f61685cc2328b6df76d726a5a563858b8b326cc7c95f9aa8ec6",
+        "lasier-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "lasier-0.1.0-py3-none-any.whl": [
+          "5cbef564b4116e653f50eff86ceacfffdd261969f02db3b98abc7c007c817c60",
+          "py3"
+        ]
+      }
     }
   },
   "lbcondawrappers": {
@@ -40289,32 +40375,6 @@
       ]
     }
   },
-  "multitool": {
-    "0.1.0": {
-      "sdist": [
-        "755d9159e87c0254852a7409293e466cc0399a175c6b8baeaa46a5d70c6c2407",
-        "multitool-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "multitool-0.1.0-py3-none-any.whl": [
-          "9623d428c213759da9608b46512ceca329676a9c29543bd3ed4a33c45229137f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "d04a48a2041554073543b54ed5fa617b7e2cdfd97850d3cfc9f1a6135883c8df",
-        "multitool-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "multitool-0.1.1-py3-none-any.whl": [
-          "453463a1adf85359d2007414df59535836f8bbdbdf11ff14eb57797fef908fbc",
-          "py3"
-        ]
-      }
-    }
-  },
   "munin-plugins": {
     "4.0.0": {
       "sdist": [
@@ -41376,6 +41436,12 @@
         "mypy-boto3-dms-1.13.10.0.tar.gz"
       ]
     },
+    "1.13.11.0": {
+      "sdist": [
+        "f59192605d6040a523d5b99cdf59e03fc14b766adf2af97b32091d7cf6559af6",
+        "mypy-boto3-dms-1.13.11.0.tar.gz"
+      ]
+    },
     "1.13.2.0": {
       "sdist": [
         "d3c6d2b6a5620a473a454762f8e2c3705201b0824c629bd121b8962be19cabe4",
@@ -42408,6 +42474,12 @@
       "sdist": [
         "fe95367d5a0775fd38fe9a7da47d1ddfa1c84caf42b06aabaa9a968cf9763c94",
         "mypy-boto3-transfer-1.13.10.0.tar.gz"
+      ]
+    },
+    "1.13.11.0": {
+      "sdist": [
+        "10b791b41e224cc71240c5138d2b55574a6dfcfba5cf5af739c9d704a7359fe5",
+        "mypy-boto3-transfer-1.13.11.0.tar.gz"
       ]
     },
     "1.13.2.0": {
@@ -64707,104 +64779,6 @@
       }
     }
   },
-  "tess-point": {
-    "0.1.0": {
-      "sdist": [
-        "aa88cc1ef1a7f0d14d8a60efde8faff862a893474784a2cb0eb5f2140c9dd1e1",
-        "tess-point-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "c164e284f6ab1499f95dd769198e623677c115e4aecc34b8cab0173785de98ac",
-        "tess-point-0.1.1.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "63c1ac7930f492622e8741890df1c9e7afe2de7cf4233c8589654791ab6153c4",
-        "tess-point-0.2.0.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "4a340f89d86cb8bb2e5bfebadb9fd9d161a70e6f8189f137eed44aaf3ae2b39d",
-        "tess-point-0.3.0.tar.gz"
-      ]
-    },
-    "0.3.1": {
-      "sdist": [
-        "0b52f4d1a3e7df5870361f40584d4a9afb8c8b7654903c4177397ac59f8a3f59",
-        "tess-point-0.3.1.tar.gz"
-      ]
-    },
-    "0.3.2": {
-      "sdist": [
-        "2e10a9618031c0200b3d395847f4551cd7d7027b7dc6c8c89cb47eb6bb8236ad",
-        "tess-point-0.3.2.tar.gz"
-      ]
-    },
-    "0.3.3": {
-      "sdist": [
-        "58bfa1305c324362dbc4d8d3a8c4f8f67b7cde70b117b79334f23d0d59a0a9de",
-        "tess-point-0.3.3.tar.gz"
-      ]
-    },
-    "0.3.4": {
-      "sdist": [
-        "29d9ff6173736147b13fda411da51925c1f4512b86655b91ffe1f558e5960784",
-        "tess-point-0.3.4.tar.gz"
-      ]
-    },
-    "0.3.5": {
-      "sdist": [
-        "9cd736ef98a8de302307940aa29547d9eec3f2bc50d732de29ddd9010d69eb46",
-        "tess-point-0.3.5.tar.gz"
-      ]
-    },
-    "0.3.6": {
-      "sdist": [
-        "e078dfa4c4d95d61d2f8d3400d9a4c9031b85faac0f989afd845de14a3075c6f",
-        "tess-point-0.3.6.tar.gz"
-      ]
-    },
-    "0.3.7": {
-      "sdist": [
-        "8a45358d1881c125ce0e2e97b4b54db72bfdffdce9bf261136c74e37ec680a8e",
-        "tess-point-0.3.7.tar.gz"
-      ]
-    },
-    "0.3.8": {
-      "sdist": [
-        "2037c9052f3c7f3f038cf5631c93beb74a0c9106889b3097bec7d18837d39872",
-        "tess-point-0.3.8.tar.gz"
-      ]
-    },
-    "0.3.9": {
-      "sdist": [
-        "e2aef4d6782479f7a3e5af6a0ff4c28f850521d2a31022f967cc9fba01d8d39d",
-        "tess-point-0.3.9.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "b8f9b2590d098cdb43d4136a5de899e4db205e68a99f894467a911b8ed900ead",
-        "tess-point-0.4.0.tar.gz"
-      ]
-    },
-    "0.4.1": {
-      "sdist": [
-        "ea361ca75a3984f9afb0c2e6c19b2b169cfe9c4a603721ccea82003eeb3d4656",
-        "tess-point-0.4.1.tar.gz"
-      ]
-    },
-    "0.4.2": {
-      "sdist": [
-        "d24c6648c12e414ce40ebafb246045c3b833232eb61e02d43b86a2b6510b2b5e",
-        "tess-point-0.4.2.tar.gz"
-      ]
-    }
-  },
   "testjg": {
     "1.1.0": {
       "sdist": [
@@ -70176,20 +70150,6 @@
       "wheels": {
         "yandex_translater-6.0-py2.py3-none-any.whl": [
           "e83856a0ec84a1673dae5f136b1276d1a9fa0a82b9b180f0cdcd6491f7d5a9d9",
-          "py2.py3"
-        ]
-      }
-    }
-  },
-  "yippi": {
-    "0.1.1": {
-      "sdist": [
-        "14f870acf9896d7fc7e034856a6071da8e2ed4d4bdc87e9ba7522a7cafa29945",
-        "yippi-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "yippi-0.1.1-py2.py3-none-any.whl": [
-          "0bd2e86973625634b89f301dd0eef50731f6736a3b398ee85ce72871f615a98e",
           "py2.py3"
         ]
       }
