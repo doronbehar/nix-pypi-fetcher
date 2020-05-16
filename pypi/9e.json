@@ -8963,6 +8963,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "f80906f344f3aabd90587fd5088786e47e547e3734b339055e18391f2cb718e0",
+        "django-replay-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "django_replay-0.8.0-py2.py3-none-any.whl": [
+          "a9d072d271ba115916abe88cc80a828644b97af54ac31c414a38d3cca6b6bc5f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "f3fc9a63431c0b763985786ebf8866f5d76c77e3518adea22f27fde22cd3f330",
+        "django-replay-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "django_replay-0.9.0-py2.py3-none-any.whl": [
+          "f5c2a5667cf68c4fbc17d7f18ca07ec7b49ccaa3c84dc00a86e960d3f6f83851",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-slackin-public": {
@@ -43302,6 +43326,14 @@
         ]
       }
     },
+    "1.28.0rc1": {
+      "wheels": {
+        "pantsbuild.pants.contrib.confluence-1.28.0rc1-py36.py37-none-any.whl": [
+          "05d8b21826a33fa84b8996064720870631a8a4d6239fbf4f869cb03c6e9670c3",
+          "py36.py37"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "53389ce7c8d911ad94a276c792cbb721f5a84a7c155cf2be73d23fdabe27c573",
@@ -55702,6 +55734,106 @@
         ],
         "rapidfuzz-0.7.9-pp36-pypy36_pp73-win32.whl": [
           "56c748091e9ace01531b325fa2a5e769acf64243e8a04e57a659b9c2243b194a",
+          "pp36"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "d9b25ebb723eec68c3c3abc66bde66338cb5fa727624943ed13f20052ec9bff6",
+        "rapidfuzz-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "rapidfuzz-0.8.0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "690b760d3442c2d36eee1d8e816c8b904367998b0afcddfc50311dbdc348b205",
+          "cp35"
+        ],
+        "rapidfuzz-0.8.0-cp35-cp35m-manylinux2010_i686.whl": [
+          "e2ee954a7a3bbe93e4ed798006a0205562da4367f3ec5ea1395b2dfe17520d0f",
+          "cp35"
+        ],
+        "rapidfuzz-0.8.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "e240a87d0bfc40a7aa165a86b4d4ac29a4da3ab7796a34eb6c4a1f59691994dd",
+          "cp35"
+        ],
+        "rapidfuzz-0.8.0-cp35-cp35m-win32.whl": [
+          "e62b8f0372f822aabc6645a83be41000baaba0b5f1ea7e67d79c61c5b1f23ffe",
+          "cp35"
+        ],
+        "rapidfuzz-0.8.0-cp35-cp35m-win_amd64.whl": [
+          "3a4d7a2d530fa4341d354d0bf98b5f95f10558bc8ba17d62b5b2ccea7defea19",
+          "cp35"
+        ],
+        "rapidfuzz-0.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "112af23a1c5f636d313ecb0f970f7239487c5cb3aa74423e7182da42335e3dfe",
+          "cp36"
+        ],
+        "rapidfuzz-0.8.0-cp36-cp36m-manylinux2010_i686.whl": [
+          "c516c5028acf90b1fc9b5bc366314a33e2872c2b731743d1d3ee4b40dd763212",
+          "cp36"
+        ],
+        "rapidfuzz-0.8.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "bcf3bf859f393bc3cc7a1c7032b8525e70edd5aa1e6cdcc9a14dbf9f7a6d7864",
+          "cp36"
+        ],
+        "rapidfuzz-0.8.0-cp36-cp36m-win32.whl": [
+          "9f66ecf8c48ed2a74be0e1a06bf31dea9ca6890522cbfe0f90693e84f14766bc",
+          "cp36"
+        ],
+        "rapidfuzz-0.8.0-cp36-cp36m-win_amd64.whl": [
+          "11794ad86fc5af3a5a896399e1d3983aa9465effe59653c1a8dc4bea4491c7f4",
+          "cp36"
+        ],
+        "rapidfuzz-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "620a100fb42ac2dd5345b3db1c6d7c4bd29267e60d8ac3d407c118681f70d0b0",
+          "cp37"
+        ],
+        "rapidfuzz-0.8.0-cp37-cp37m-manylinux2010_i686.whl": [
+          "6ab221b7e7585fd21f4fb8142f3e86e0938769647aac5e5df54ee0471b440f6e",
+          "cp37"
+        ],
+        "rapidfuzz-0.8.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "39dc8218447a263ba09a847a28a6ce23bb69f16f52537b031d1025b30afbf780",
+          "cp37"
+        ],
+        "rapidfuzz-0.8.0-cp37-cp37m-win32.whl": [
+          "dd9b21cabd2753b9ab58a78bdd49dba7d717b63d7c5c8d1e857c97cc2d094f4e",
+          "cp37"
+        ],
+        "rapidfuzz-0.8.0-cp37-cp37m-win_amd64.whl": [
+          "ca0fab9f8646b5ec669aa8c21df6eeb970f0160b6742bed06b53d533a7837efb",
+          "cp37"
+        ],
+        "rapidfuzz-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "e44603e28bc731e02fe1f201cce2a4c0b0f321a2a7d155f6c62e8632b016f555",
+          "cp38"
+        ],
+        "rapidfuzz-0.8.0-cp38-cp38-manylinux2010_i686.whl": [
+          "0d5855597399d9f4e08b32f6e74853441629caf565a444e6ad0c5d265232445a",
+          "cp38"
+        ],
+        "rapidfuzz-0.8.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1c23423a807ce722a0881719427e85b17544b88ffd5706f1b55f22ae60294b81",
+          "cp38"
+        ],
+        "rapidfuzz-0.8.0-cp38-cp38-win32.whl": [
+          "d987c1ddc639f26f45a56f5c02605f8414682e45ba739f51351acb368f23a314",
+          "cp38"
+        ],
+        "rapidfuzz-0.8.0-cp38-cp38-win_amd64.whl": [
+          "6c7937ebafe35526ab04a484a723ef48c7c3e217f4b0f3bc474b9c18e0dea7d8",
+          "cp38"
+        ],
+        "rapidfuzz-0.8.0-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "5cad5b7158e1d14dff93711af851f8519d6d43745eed0a9292c9946c338e9f12",
+          "pp36"
+        ],
+        "rapidfuzz-0.8.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "e53ef1283ac82f19f050b93acb1455f89771bc3b1f0f3a0bdbb0363661d24997",
+          "pp36"
+        ],
+        "rapidfuzz-0.8.0-pp36-pypy36_pp73-win32.whl": [
+          "09e23f3213eec5d04853e55c377777c08514c65c8555517d6e748e51955a5558",
           "pp36"
         ]
       }

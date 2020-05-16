@@ -5290,6 +5290,18 @@
         ]
       }
     },
+    "1.39.0": {
+      "sdist": [
+        "9641287f6e74225331660543170aba65d92151e5532d7f1862739808de8ffe5e",
+        "aws-cdk.aws-dax-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dax-1.39.0-py3-none-any.whl": [
+          "13c5d343c671d666f095ce77b92f4b1b05e7a40d016ff84094291a2e98693b44",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "8f6eca3477e588e35c9327796b05bfaaddc7667f5bc68db6b50acb1f8ec82415",
@@ -7177,6 +7189,32 @@
         "callfire_api_client_python-0.0.9-py2.py3-none-any.whl": [
           "e8dc31bcf209ef5b14d14a2f0adc779c6accc80a82e58a1f6f07ed3a8631e0af",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "callword": {
+    "0.1": {
+      "sdist": [
+        "4ca9bb168d3f0a0a77d3cd630ca54ee81d8737ba847419d9400cc907addcfa25",
+        "callword-0.1.tar.gz"
+      ],
+      "wheels": {
+        "callword-0.1-py2-none-any.whl": [
+          "40e336a8612687ad7a6ea49dada4375c0d23e937cfac563958c998cf97228a5c",
+          "py2"
+        ],
+        "callword-0.1-py3-none-any.whl": [
+          "80137115c0195c78885050a04ca751268e14ca44b5307f48822a54c8ae9e13de",
+          "py3"
+        ]
+      }
+    },
+    "0.11": {
+      "wheels": {
+        "callword-0.11-py3-none-any.whl": [
+          "e857a9d42eae579a178189578967ea6836258aa9b477baa831de835e5e75e540",
+          "py3"
         ]
       }
     }
@@ -11115,212 +11153,6 @@
         "e92aa86b864e601eb0248669eca0657703ddde875db80a07077d0af9d052909d",
         "dh-poetry-0.1.2.tar.gz"
       ]
-    }
-  },
-  "digicubes-common": {
-    "0.0.10": {
-      "sdist": [
-        "9c0a23040f1b35e638363d90804f3a9761c971f9ca960a302315fa858e6e51f0",
-        "digicubes-common-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.10-py3-none-any.whl": [
-          "547ad5447c2805637f52fdd434b5256654065142ee01c70e10b05c1dec064322",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "e7de1a95ce9e5115b805072ef7f41cdbdc34efa675df5c6a976eaef5f16c2f3c",
-        "digicubes-common-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.11-py3-none-any.whl": [
-          "2ddf7c22dd923bf7b9f6b8a0c7b06ae599f2b4c0d0ec79e543242404fcdf96ca",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "8146276014e632b8a56c292bd66860d5af7044f4d647e2b49e7e31dfbdbeace3",
-        "digicubes-common-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.12-py3-none-any.whl": [
-          "2cfd6a458af128fea3e7a88789a67226a96a4b0b6492e24548968b255676b5a5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "e94423708934ca68cc614a2718a1b29ee8f7f163758bfe787e19c5597e0ca184",
-        "digicubes-common-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.13-py3-none-any.whl": [
-          "c3fe96664e427d5f7a2882b8180ed4e3ca0da53190cc60966632a1ed9de91c4c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "b5b38ba12edfb075efa1a6d6af0dfd4375cf154d527df5dd955df78c6b27b9c0",
-        "digicubes-common-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.14-py3-none-any.whl": [
-          "dd0d72c6bcc8269076772f00c41481a09720ec4866e0960571ec47e022af8d6a",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "f1abf87cccff417d8bba498c21eb3d1909f9a61d31426805446d24bc4120d474",
-        "digicubes-common-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.4-py3-none-any.whl": [
-          "2f3437a04d977bcf2e90276ef0700db1820adacd8484a949f129db23cc3675b7",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "d89d08ef2c206f60d5d49a15824625d6ca3ab051228a181044d1c69f8df85a9b",
-        "digicubes-common-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.5-py3-none-any.whl": [
-          "cb2e4ee3b8f7015132ef46776008ae85a669650436738f2181dba602c5834c69",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "0628a9b6b59b1d8a6eab54114c18ead42fe4f3e7b8498d00f7ba0a2c2767be30",
-        "digicubes-common-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.6-py3-none-any.whl": [
-          "a9121c9766ddc482ecff552479d11abf217675442ce7a8d2fdeffacab783b6bf",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "9d132f72ffe6351942dd05a592bc99e6d201a1abe39479c35001b6828efdd2d1",
-        "digicubes-common-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.7-py3-none-any.whl": [
-          "9d6aa3123330aecaf3260192cc35286d9c5995e28c3b056ae474404cb7762bf5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "f636f038b6c92982b3dd64e5e2e68614083153425b231c0474db4dc611a06cab",
-        "digicubes-common-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.0.8-py3-none-any.whl": [
-          "f45fb7137f53c72464f85253658757b267b69bb74a75815ef0bccc2fae785a8c",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "c7b0eab760dc5e1218d0993d36279af13230fecdc6f8c7eeae296a8f963a7765",
-        "digicubes-common-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.0-py3-none-any.whl": [
-          "67fda1111bde6aad8c8b6ee737f0899e1a0bec7ff7930d39c1bf4d53b9cb4127",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "7dce0b633c723db9577f430d22e5285633dba52d92fd70a47b84eb8d6aca1f78",
-        "digicubes-common-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.1-py3-none-any.whl": [
-          "517915dea5d7643b213c9df8b021e8a991b95bed16c3d629c9541da8f3cf25b6",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "82516dd0773d840a63961efe359320ee47d48c899150d2361773881267c445e5",
-        "digicubes-common-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.2-py3-none-any.whl": [
-          "c1ee2ab7e10d9a6e88ec499e42c94350354b50f9fb874b480fe6f7f99aa45125",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "6dd90c54b872be3e57703a4a7050ebfe4f047f9ce80eff725d8765ea266b1154",
-        "digicubes-common-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.3-py3-none-any.whl": [
-          "7bcce2f8536c5787f60f27d8b0ea5908dbbc93127d6ef23ee4d71ef6402635de",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "60cc2916a2008b9dcfbcc0ed0e26a30a4fc4b97717c837804431b8744f23f8da",
-        "digicubes-common-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.4-py3-none-any.whl": [
-          "3956b50757d451ee320ac99957ab8069578485fb902911f80b8276345da2e14c",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "bd2c7150a99df331b5b14252d9096eb21ca09ab780da69fa6f8e41baf9404586",
-        "digicubes-common-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.5-py3-none-any.whl": [
-          "cb149b6841f13797db457f2671683795c015a19378acc464fc2927986f3588e4",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "dfd5ee5b98799027d9cb52c0d2cd68a9ab94920c6032263e33a7b05f9a342948",
-        "digicubes-common-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "digicubes_common-0.1.6-py3-none-any.whl": [
-          "b3d230c1f0e07912ac0e4a3214328e00356b194b3a677659a9123d0733ffbce1",
-          "py3"
-        ]
-      }
     }
   },
   "dingpy": {
@@ -23195,6 +23027,32 @@
           "py3"
         ]
       }
+    }
+  },
+  "graphlou": {
+    "1.0.0": {
+      "sdist": [
+        "16eab64d698da485f3c2dcb98b0baedc9d56f985513162244749bd31912a875b",
+        "graphlou-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "b50980669a309fbd2f5a5117bc49a633a83ff45cd0df518ef3d3cf247f6944fe",
+        "graphlou-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "959d5a594981acf9fdcec41cfd01984553b611499ff805c02a0f2114e0e12681",
+        "graphlou-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "a776513579533e6acd751a7121f3418570fb5ff37100df7852744c1474b683ea",
+        "graphlou-1.0.3.tar.gz"
+      ]
     }
   },
   "graphviz-sql": {
@@ -37617,6 +37475,20 @@
         "pdrtpy-2.0b4-py3-none-any.whl": [
           "5583dba213ced07e8ddb35e94e7337f6d59105ef0314b6c7cf57f51df229ebe8",
           "py3"
+        ]
+      }
+    }
+  },
+  "peewee-validates-updated": {
+    "1.0.8": {
+      "sdist": [
+        "7cc050d1b636d317a4c238f9ed36a003776ef43a0ba6de3aeef22dafd4cae2ff",
+        "peewee-validates-updated-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "peewee_validates_updated-1.0.8-py2.py3-none-any.whl": [
+          "318cd78d86efa9317b8bb2b5c4601bc700e4a3a3d47d165409604e444825c29d",
+          "py2.py3"
         ]
       }
     }

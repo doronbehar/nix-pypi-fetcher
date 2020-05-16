@@ -2029,6 +2029,12 @@
         "9dd9b97f4bebfb363a42c1ca72233a7e8428fcd12e3626e4e256151799e5038f",
         "asv-0.4.1.tar.gz"
       ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "9134f56b7a2f465420f17b5bb0dee16047a70f01029c996b7ab3f197de2d0779",
+        "asv-0.4.2.tar.gz"
+      ]
     }
   },
   "at-address-compare": {
@@ -3312,6 +3318,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.38.0-py3-none-any.whl": [
           "c57792d7332880b86ad838d0283b75022ef4d69bae14da4d4fe738009e9a0ff0",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "sdist": [
+        "126bbbce9a96d085c32df1b2ef01093ad8932de7fb8c4100277f00e974fbcc1f",
+        "aws-cdk.aws-dlm-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.39.0-py3-none-any.whl": [
+          "e1a687f7dac971e1083cf8fe4ad9a42524d292053eec4eba67c0184c1e710f89",
           "py3"
         ]
       }
@@ -31001,6 +31019,18 @@
           "py3"
         ]
       }
+    },
+    "0.23.0.0": {
+      "sdist": [
+        "7f60f277f881a4ee7f4dba0c7a93b8b4f07aaf1a77713cebf2831eed803fd5d2",
+        "inaccel-scikit-learn-0.23.0.0.tar.gz"
+      ],
+      "wheels": {
+        "inaccel_scikit_learn-0.23.0.0-py3-none-any.whl": [
+          "1908d4214125453ddf5a0591cd64149b6cbe2e0475f2aa7981647de1e413b1c4",
+          "py3"
+        ]
+      }
     }
   },
   "independentsoft.msg": {
@@ -45550,6 +45580,14 @@
       "wheels": {
         "pantsbuild.pants.contrib.python.checks.checker-1.28.0rc0-py2.py3-none-any.whl": [
           "39e910a01d2641b3acf1660393a35cf06db93a901c56a1a1c3be664f4d6b6519",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.28.0rc1": {
+      "wheels": {
+        "pantsbuild.pants.contrib.python.checks.checker-1.28.0rc1-py2.py3-none-any.whl": [
+          "c657d079ce1457fece1be05319f36c7d40787ae085057713838a946b6c659196",
           "py2.py3"
         ]
       }
@@ -62578,6 +62616,38 @@
         ],
         "tf_nightly_cpu-2.3.0.dev20200515-cp38-cp38-win_amd64.whl": [
           "2ecf0095b9559007b64fa6bc1214148a6c140250f14218317e219803f0ecb014",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0.dev20200516": {
+      "wheels": {
+        "tf_nightly_cpu-2.3.0.dev20200516-cp35-cp35m-macosx_10_6_intel.whl": [
+          "b8af7c0219cc4fc2af7df18210800d450c155ce82e325bcc850e3ee2967e6991",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "01fa5a58dcc6410546b52c2755d3e1d715f03585ed87e68268c713a83f589039",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "25f659d1b7fa6d57d8d4cd3dccb5725d3a32fa2e3cff5fd410c0c997bba6736d",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "2ed23799a8b1480013b09109b016221c22859646758c3d20bac16a32a806bd17",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "75d165f1d87b276544cecd1fb7ae81986edf794811d99c4985a3fac889abf674",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "8a02103c43792c945264d3d9b9cecc7c46327e8345a660cf6911e5562246fcbb",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200516-cp38-cp38-manylinux2010_x86_64.whl": [
+          "afbb875d11725fc17ee368aa6e93853a5bb933bf9c68170d2f07e086a78ff245",
           "cp38"
         ]
       }

@@ -9089,14 +9089,6 @@
       }
     }
   },
-  "commondist": {
-    "0.2": {
-      "sdist": [
-        "7556bd18acbdb038c1d346fdeb23def08991e7d3b69d2a244633a3ded02c563c",
-        "commondist-0.2.tar.gz"
-      ]
-    }
-  },
   "competeapi": {
     "0.1": {
       "sdist": [
@@ -31753,32 +31745,6 @@
       ]
     }
   },
-  "logger-tt": {
-    "1.0.0": {
-      "sdist": [
-        "061ef1f81a05eafb9880b1412c340690f520bcef2bd3e1540c86a1770c6f3b80",
-        "logger_tt-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "logger_tt-1.0.0-py3-none-any.whl": [
-          "31308860d4e5a2526839b8fd90323fd2b05b28dde2bb44f30b09a0763243c89a",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "e665cbb84c8b9d5edcf9707c331b622a377bb2ebb9ea3f0914046eb2e2aa2b0b",
-        "logger_tt-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "logger_tt-1.1.0-py3-none-any.whl": [
-          "68335a3c0487ae7cbc2c96799e067ce869bd6d9cd566c679e0e70c55dbefc218",
-          "py3"
-        ]
-      }
-    }
-  },
   "luminoso-api": {
     "0.2.1": {
       "sdist": [
@@ -46199,6 +46165,48 @@
       ]
     }
   },
+  "progplot": {
+    "0.1": {
+      "wheels": {
+        "ProgPlot-0.1-py3-none-any.whl": [
+          "da08f90d23966d392864e8f8f83f4d323bbd027c6f9276fa5f9e5cad5e4a2c10",
+          "py3"
+        ]
+      }
+    },
+    "0.11": {
+      "wheels": {
+        "ProgPlot-0.11-py3-none-any.whl": [
+          "d146f6f9178a17d12065c3171355a61f12241b73fe0ef832fed2d1bb0f1106ae",
+          "py3"
+        ]
+      }
+    },
+    "0.12": {
+      "wheels": {
+        "ProgPlot-0.12-py3-none-any.whl": [
+          "90cd2bc8237cd50f277229aa0747c43c083974a0a8cd0b1ea6bae3f9f396a3b4",
+          "py3"
+        ]
+      }
+    },
+    "0.121": {
+      "wheels": {
+        "ProgPlot-0.121-py3-none-any.whl": [
+          "c7e3fc5ee9ef724b30f315c2a1d6d36d462093e1a456a5ae40dea0bffa71f676",
+          "py3"
+        ]
+      }
+    },
+    "0.122": {
+      "wheels": {
+        "ProgPlot-0.122-py3-none-any.whl": [
+          "a80a4ee5ff3f45596240dfeef40fb6d7199dc910259a2a17239c4eb758c09084",
+          "py3"
+        ]
+      }
+    }
+  },
   "propor": {
     "1.0": {
       "sdist": [
@@ -46621,32 +46629,6 @@
         "51d497044cfa7dc9f4b0e2e075fe0207443b1a06ba6fa8c0196b716861b1788b",
         "ptbr_postag-0.7.tar.gz"
       ]
-    }
-  },
-  "py-droplets": {
-    "0.1": {
-      "sdist": [
-        "aae58857e7ee7f0c943af9c30ddf9c44a77a58a2465176268a0e3d2007264b3e",
-        "py-droplets-0.1.tar.gz"
-      ],
-      "wheels": {
-        "py_droplets-0.1-py3-none-any.whl": [
-          "fe7e578af17c00891523ed6431008d6e67dd22eaea9490da245b2c041598f1a4",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "0d55276eddd4ca6e51ee54d9cab2d10a8fc24bca75e062700b035ded7a476619",
-        "py-droplets-0.2.tar.gz"
-      ],
-      "wheels": {
-        "py_droplets-0.2-py3-none-any.whl": [
-          "140265c7caafc61edbf9437ffcf6d8426aed3cc365bc5f18800b58dfc93487ec",
-          "py3"
-        ]
-      }
     }
   },
   "py-todo-cli": {
@@ -55983,6 +55965,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.9.0": {
+      "sdist": [
+        "fa4b820ae620b6ebf65e100f17f7a6c128c9dec86c356f1aad9342b3a476e73a",
+        "secretpy-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "secretpy-0.9.0-py2.py3-none-any.whl": [
+          "78f059fa77e7912b5c1d5d345b4984436b03115347fc214832d1aed5bf74a0c4",
+          "py2.py3"
+        ]
+      }
     }
   },
   "seedslabeler": {
@@ -63292,6 +63286,26 @@
         ],
         "tf_nightly_gpu-2.3.0.dev20200515-cp38-cp38-win_amd64.whl": [
           "c712627ff6d543d208b74fdf2a0e6b3c6329f83ba785cfc48934b2d4a30dc68e",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0.dev20200516": {
+      "wheels": {
+        "tf_nightly_gpu-2.3.0.dev20200516-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "a10fc33f587fee8654a4b672486ae20bea1b5f3587a3e78964923552759d3690",
+          "cp35"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200516-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "eb2ff7099efdd4860e1eea5a5ec46206567abcb6b5a2c675ac11772c56c42b2f",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200516-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "449adb790d88d0438fb67fecfa720ff95b62f508b394ec5880b69617335c3e28",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200516-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cf8e0dc14c715a6af43162d376d59afd48ee4eedbefa7fa982314f071dfa897e",
           "cp38"
         ]
       }

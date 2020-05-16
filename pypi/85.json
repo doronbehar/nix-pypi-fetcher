@@ -3387,6 +3387,18 @@
           "py3"
         ]
       }
+    },
+    "1.39.0": {
+      "sdist": [
+        "c519b131f88ee513219c13f6d5b57ca6406ae469155f7b5e7e32500c916c29be",
+        "aws-cdk.aws-mediaconvert-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_mediaconvert-1.39.0-py3-none-any.whl": [
+          "1d807a16593e63c97a13b78d3feb3a034cebe5233b351dbe23797d5521a6fefa",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-sagemaker": {
@@ -4118,6 +4130,18 @@
       "wheels": {
         "aws_cdk.aws_sagemaker-1.38.0-py3-none-any.whl": [
           "0aeb4d348d51172916bb168894185ba376e426d720aab67eda9e7ec1f010de57",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "sdist": [
+        "e549f4249eccb8d77492b949fa2d83bdb99bd6f4bfdfefe9c711225558cc1d06",
+        "aws-cdk.aws-sagemaker-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sagemaker-1.39.0-py3-none-any.whl": [
+          "413ebd778dcbd238bb2654bfa8c987d875fee7e23e50bc56ea5b5351a4f57a12",
           "py3"
         ]
       }
@@ -15405,182 +15429,6 @@
         "dnspod_web-3.0.0-py3-none-any.whl": [
           "13076074b0061ab0299bd89bd223f8389486616267a08658c849276cbfd35cd4",
           "py3"
-        ]
-      }
-    }
-  },
-  "docfly": {
-    "0.0.1": {
-      "sdist": [
-        "2518bb3db607d34fe2620d96d1dc523f876cc6838b3b6aaa4b27c10b859e6a4e",
-        "docfly-0.0.1.zip"
-      ]
-    },
-    "0.0.10": {
-      "sdist": [
-        "4bb66f3f0906ea26312920ef5aef8fbe973bb210b32d5260725030539784e903",
-        "docfly-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.10-py2-none-any.whl": [
-          "b67cff9fa941eb077b51118a30fa7c31bcaa5e5e1048a6c50d28c99d65ecc7c8",
-          "py2"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "af65ca0e8725d28a1380a838f570a57bd87825be2a94126349dbf90a15bfeb7b",
-        "docfly-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.11-py2-none-any.whl": [
-          "6bab77757ff9b3a28a8cbd70996865128ee0d39480d31ccddd0d08d7e6582a18",
-          "py2"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "5db8c91a3aa40f019121e06ba995bc51b1d6e339e965f173b92ae35ec2088384",
-        "docfly-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.12-py2-none-any.whl": [
-          "d5362e07f3b310830dbb26c8a6d0dbfed92cf06ba00a8e01e1495d3a7192d0f4",
-          "py2"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "6f5eede9d443100e3491101ab4fa08b230ad76e780de667e0cdafd6298084a0a",
-        "docfly-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.13-py2-none-any.whl": [
-          "b664a7a30ab7aa249ad88987348bd58f54c369464a325c38c86e5cc402e45862",
-          "py2"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "02fb81c2bf7eb83f561a0e5b1fdc024adf1c6262666eba5773f5226aac3c8809",
-        "docfly-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.14-py2-none-any.whl": [
-          "01c084ebac380cb2219534c899102529f8cb2c7f666033c968a19bf57589ca08",
-          "py2"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "5bf24f8a45df944302b83f04333c1b1d94ca25448f4b4ae158892b0ed040e75f",
-        "docfly-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.15-py2.py3-none-any.whl": [
-          "98907258ab4f08d26a89c4315457d739f45e874e068f3b62d319ca7397af583e",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "2f9637878018fb14b9af65009c6f1f49d0b67e92d9d9f75bf332a6ed8398f856",
-        "docfly-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.16-py2.py3-none-any.whl": [
-          "133f2f32315f9bd4819c9656efa46f52c6e2b824d718a11df2f9cb8cb33620e2",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "03bce45244638be725c7c577534ec79239206f88be98c024f39cb9f1a6ca7d98",
-        "docfly-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.17-py2.py3-none-any.whl": [
-          "b8a84ffa8447782ea94b7c27a553f2c70a06f24ea1c6e73ea914bce3d7a2c6ec",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "805e6714a34b4a3d688f1f50f4a2425933944ef2d8908631133e46cf97ee6033",
-        "docfly-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.18-py2.py3-none-any.whl": [
-          "fb8ca8cc9aa573ba8072f407628cbce9321ab77700d0e3c5beb5f4dde3f6aea9",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "ebf62bb02488545e7b105f419ee2ecfd3879ccb48c6a622625dce1f50d099950",
-        "docfly-0.0.2.zip"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "676b467bb3f4485d4ad347deb469ed93a4abdf3ca563e5fe6775f43c7aba3f26",
-        "docfly-0.0.4.zip"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "6725c0530664e200147f59eb64f6e4ae32e6619f3a5e1305cd285ff348d6d51f",
-        "docfly-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.6-py2.py3-none-any.whl": [
-          "7865a9045251f1a802758522215aecb28a7e071ae56adf0eecc0bad8f2f3b3e6",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "707fa82989fcd47d5e2c171a9a7eedbb982fdfbfd3e4347b8efcb4144640f865",
-        "docfly-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.7-py2-none-any.whl": [
-          "7bec5f2c7763ae07b704b041ad8c0a992deda25363e8db3efa63cb132c31ec42",
-          "py2"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "9cabf61fad8de1262c7f031a2a24f2bba273b23847612f641e777f1c87f6a955",
-        "docfly-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.8-py2-none-any.whl": [
-          "c7885f6f244245f3cb7dffac2023380f3db399d507dd729f7dd53a1c35ca7d25",
-          "py2"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "3627da676c6df21db3b628384b1f0ad1cf8f0a7f8e2a2d7044021f695e6665ac",
-        "docfly-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "docfly-0.0.9-py2-none-any.whl": [
-          "33a0bc50353e89767cde209ffe66ac6254fdf7a77ce8288a9564b4a1b48eb9c3",
-          "py2"
         ]
       }
     }
@@ -39884,6 +39732,18 @@
       "wheels": {
         "pydcs-0.9.6-py3-none-any.whl": [
           "0b5da10de550d1913b2be883bd2f5fd5ecbb6a21fd148c7bb799aaf5cb28ce0c",
+          "py3"
+        ]
+      }
+    },
+    "0.9.7": {
+      "sdist": [
+        "b14141b1ea7c6a96c132e57372d4942e2ed61424d97fa8f57e2561be2bb1875b",
+        "pydcs-0.9.7.tar.gz"
+      ],
+      "wheels": {
+        "pydcs-0.9.7-py3-none-any.whl": [
+          "209367a6b86b9048182a4226974293f99961b57411f453be936ca3f000ea5780",
           "py3"
         ]
       }

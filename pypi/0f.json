@@ -2477,44 +2477,6 @@
       ]
     }
   },
-  "automl-alex": {
-    "0.5.10.1": {
-      "sdist": [
-        "8ff107115d7c7cd1a5b9206f03d13a5ee7134ff2c3fdf0b94206effa2bb825f9",
-        "automl_alex-0.5.10.1.tar.gz"
-      ],
-      "wheels": {
-        "automl_alex-0.5.10.1-py3-none-any.whl": [
-          "933eec44731aea8ab5dba20075143fbdc7cfc6235fc7a751ffcf932de87a4f39",
-          "py3"
-        ]
-      }
-    },
-    "0.5.10.2": {
-      "sdist": [
-        "424013ae222cafd359ca574ceed425d725320079512345286a1130b62150c76f",
-        "automl_alex-0.5.10.2.tar.gz"
-      ],
-      "wheels": {
-        "automl_alex-0.5.10.2-py3-none-any.whl": [
-          "7e9df554a7316e6623542e02e7a498961760243d83d570763a73c9fbef05f1f7",
-          "py3"
-        ]
-      }
-    },
-    "0.5.9": {
-      "sdist": [
-        "1bbb3f1cd3544d8758df64f1e723a5df5a01afed41755332e5766341226897e0",
-        "automl_alex-0.5.9.tar.gz"
-      ],
-      "wheels": {
-        "automl_alex-0.5.9-py3-none-any.whl": [
-          "47a9b1da3c3a7c7c9a5ae5f31c8f428d4868cd4dfded534203146ed23bd182a7",
-          "py3"
-        ]
-      }
-    }
-  },
   "autorelease": {
     "0.0.1": {
       "sdist": [
@@ -3192,6 +3154,18 @@
       "wheels": {
         "aws_cdk.aws_lambda_destinations-1.38.0-py3-none-any.whl": [
           "c79805c8851f101486b63a06c04b161764d3c2e00188607a2eb8a0fd5aa7f249",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "sdist": [
+        "949cab2cb44be78c97959ce922356d40763ab32f5d5da22ef6d0d7e2ef489533",
+        "aws-cdk.aws-lambda-destinations-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.39.0-py3-none-any.whl": [
+          "7b60c01bee072906d519b93b9521ff5c9b94bc00c16a73e29c9d3498b667682a",
           "py3"
         ]
       }
@@ -3926,6 +3900,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.38.0-py3-none-any.whl": [
           "ce776ece9704c143190cf68e0da85cd30bac1e6db96f12479702518b22f6d2fb",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "sdist": [
+        "255632367c6761c1cb2af90c48dc3143bccbaebde81e61d2a5bb786e0ac06f84",
+        "aws-cdk.aws-rds-1.39.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.39.0-py3-none-any.whl": [
+          "9c943aec956627949bebaa437a23826fdd0393133f717a1c831e8ae617d39bee",
           "py3"
         ]
       }
@@ -17783,20 +17769,6 @@
       ]
     }
   },
-  "flection-dict": {
-    "0.0.1": {
-      "sdist": [
-        "7a672707344a38cb281c8842a2953e184a59e1578843014c1201e31e7e55f866",
-        "flection_dict-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "flection_dict-0.0.1-py3-none-any.whl": [
-          "ae51a21a85eec5611795acccd098478b9262530733e18eee8a0d6a6fa07c846e",
-          "py3"
-        ]
-      }
-    }
-  },
   "flit-callable": {
     "0.1": {
       "sdist": [
@@ -28284,50 +28256,6 @@
       "sdist": [
         "53cdf76458a14f6ff6fbaff053792a48d04cc725c45ca99f9563f50ff1248ab2",
         "lazy-write-0.0.1.tar.gz"
-      ]
-    }
-  },
-  "lbbutils": {
-    "0.0.2": {
-      "sdist": [
-        "4f6c4ecda68a01ec51fb2d1c36eccbef48439a60cd51b4d0fe7d636b1b0d04c4",
-        "lbbutils-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "8770d469c09ce20b8322af51d4b734ca0857ef9c8a3ca1d7cdf98fc4efa8807c",
-        "lbbutils-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "b355ae6854ef1e68052c9c3bfca9692d58a4f1d2092ec717a78678ccb481a9a2",
-        "lbbutils-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "0eea8f14a18054f84123c9dd6b5efbc5484780ca61bbddcbefbbc1c2cb61de71",
-        "lbbutils-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "6a4136c6d669889ff06347ba623e0ea8ed50e885a20973b85b84f9f8239923e2",
-        "lbbutils-0.0.6.tar.gz"
-      ]
-    },
-    "0.0.7": {
-      "sdist": [
-        "bc9b137cbd4d1a0ec5d3413fcdc3d12eebd785cd99a6c7bfe7f04cb6d29afa1d",
-        "lbbutils-0.0.7.tar.gz"
-      ]
-    },
-    "0.0.8": {
-      "sdist": [
-        "bb3a0e89805ea2f9ea55faae034ed92113305d07f5396a6a4bc782ab09860c25",
-        "lbbutils-0.0.8.tar.gz"
       ]
     }
   },
@@ -44330,20 +44258,6 @@
       "wheels": {
         "PyFileIO-0.0.2-py3-none-any.whl": [
           "6aaad2332f4456a752cc485ddf55e925460c15014224edee2d6f7eb59b82636a",
-          "py3"
-        ]
-      }
-    }
-  },
-  "pyidr": {
-    "0.1.0": {
-      "sdist": [
-        "f88a4c1bcd1b0ba0daf18e21b360baf3c709e40f7403024cbbf7cec82b5d41a5",
-        "pyidr-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "pyidr-0.1.0-py3-none-any.whl": [
-          "73c6c2546d2bcf34b09d2e44a7d8d4151f88f4ce02ce0a94815a0b32a655b717",
           "py3"
         ]
       }
