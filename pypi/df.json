@@ -3583,20 +3583,6 @@
       ]
     }
   },
-  "bengali-letters": {
-    "0.1.0": {
-      "sdist": [
-        "35a8c8cd77d033c1e15ffd6f4d926731af79e8f22d8ed5384c73eaefc1b4928b",
-        "bengali_letters-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "a99e9d4690cb3d8fd223294578d238e8a60323a8050563823f6900ee92972180",
-        "bengali_letters-0.1.1.tar.gz"
-      ]
-    }
-  },
   "bert-document-classification": {
     "1.0.0": {
       "sdist": [
@@ -9149,6 +9135,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "afd0be91a035ccc601faecdd0a623a20cd3e36fb46888db8f8fed8c47cd65c2c",
+        "diff-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "diff-0.6.1-py2.py3-none-any.whl": [
+          "4043c52ec3405d007a6bf172ba912ca04631080684a236855ab206cfd694ca3f",
+          "py2.py3"
+        ]
+      }
     }
   },
   "difio-dotcloud-python": {
@@ -12832,6 +12830,12 @@
       "sdist": [
         "27e9e82da922c639c0351184a432c4bbc1198623b54ee5305be00b10b77d54ed",
         "djangoshop-paypal-1.0.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "602f2eceaa05fd75cc6ad504a4354e7698003b31354a63c849a308ab719aa669",
+        "djangoshop-paypal-1.2.tar.gz"
       ]
     }
   },
@@ -17543,6 +17547,20 @@
       }
     }
   },
+  "gspoty": {
+    "0.0.1": {
+      "sdist": [
+        "748873646ed4fb4ab557ec00546716ed429f6b650bbdb1cfad00af0917b07cb0",
+        "gspoty-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "gspoty-0.0.1-py3-none-any.whl": [
+          "f49fea31ee440144b3ab7a7b29661f5430a4a919ed42cc69112338447344ea0c",
+          "py3"
+        ]
+      }
+    }
+  },
   "gumo-storage": {
     "0.0.1": {
       "sdist": [
@@ -19950,20 +19968,6 @@
       "sdist": [
         "bbfcd35f0d75afede2668056f3efb551b2f33ef0e7e627337a83b214e1dcaf9d",
         "isnuts-1.0.1.tar.gz"
-      ]
-    }
-  },
-  "iva-tpu": {
-    "7.0.2": {
-      "sdist": [
-        "876b139b674f9ddb5545aaf08499d0ab4d07350728d3fc31f3f7196be5498a98",
-        "iva-tpu-7.0.2.tar.gz"
-      ]
-    },
-    "7.0.3": {
-      "sdist": [
-        "cb8ce1ba612465cc9b509b3e5284fb180e574de0ae708af87df1eb192bec1e7f",
-        "iva-tpu-7.0.3.tar.gz"
       ]
     }
   },
@@ -45222,116 +45226,6 @@
       "wheels": {
         "reverse_forward_proxy-0.1.0-py3-none-any.whl": [
           "0133f1ba548894d4838765d59e85fa2c522d358bb73ed05b8521518fa5683e5b",
-          "py3"
-        ]
-      }
-    }
-  },
-  "rfdocgen": {
-    "0.0.1": {
-      "sdist": [
-        "37d993441d09f452fa12fa76c3bd4ba65ae1689db977bbc79609c5b9573f8bce",
-        "rfdocgen-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.1-py3-none-any.whl": [
-          "127af62021aad2c6c4df23ef21f7f5f36a0ef83215033c59406cb44a6fa3d34b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "b280cde5faa071493537c1a7baa39afac8362b4a0bb337d740a1cd3dfc285823",
-        "rfdocgen-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.2-py3-none-any.whl": [
-          "2bc02d1b4d7ac756a1fca72ba548399d434c5a67d007d8e7ae8ae44447abeaf9",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "fb7fbb1a2589d09b3f1d059ee0f278eb63ce614934c6cab84e2ce2193ae706a2",
-        "rfdocgen-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.3-py3-none-any.whl": [
-          "fb42378fa0096e24cdb3075fcd65b53295386a8aa349dddbd92f133a707be210",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "bad2ac61a112315ee286fc2b4eff762e39d24fd8c5c8e013602035895144843b",
-        "rfdocgen-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.4-py3-none-any.whl": [
-          "d9c3f829d17b0961a99afdee43d2d34dd44277e0517a066258d366b030c2f370",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "8b543c57f4b7e02f7c5bde39922fae14a62fc4a6719ee8669ca24333e2e6c4b1",
-        "rfdocgen-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.5-py3-none-any.whl": [
-          "948d410400548c824e75f4ef164f72f77cadb2d03a2deae1840d55d2c3230d00",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "61a3e9b3304c830c7d3abe0eba5c111452ccbe61094dd3856b232418c56af0b1",
-        "rfdocgen-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.6-py3-none-any.whl": [
-          "840562949ad52902ea98d6badcad5c5991341fd6e2126ec2fe4d4d74b4a982a5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "da75c27cfd0a138d7c078d89dd1b0112ae73bc72444d3e191fec0c78c4ce5d00",
-        "rfdocgen-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.7-py3-none-any.whl": [
-          "d1ae434e96637afc613efd57aee387cefb0480fa77a743e16ba59aebbe9a03c1",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "bbf94affd45f9ac60180787c437893a51218c03c35650f2891a232711b777f3a",
-        "rfdocgen-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.8-py3-none-any.whl": [
-          "bf03d1c5225dbdf8b1e5cf3296d815d3576b456f60cfdb63098e32412fead375",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "17337920513a719573df0081555c3cfca47be5a55a19af3e4e49e0e365f3b442",
-        "rfdocgen-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "rfdocgen-0.0.9-py3-none-any.whl": [
-          "f2cfca84c8c662ac9c2422e413a78a42e86797006279a970e60146e340a26ccd",
           "py3"
         ]
       }

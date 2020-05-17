@@ -18051,6 +18051,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "cb4412be81173a048859b8b2fa9565ea016caf97a8845c2ed979c4d563460fcc",
+        "fn_graph_studio-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "fn_graph_studio-0.8.0-py3-none-any.whl": [
+          "3e706248269952b0599247ebae6c8616be0d6bbd7e713ef09b3fa9f0bc80adec",
+          "py3"
+        ]
+      }
     }
   },
   "formencode-jinja2": {
@@ -20243,66 +20255,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "hdyndns": {
-    "0.0.1": {
-      "sdist": [
-        "137cf21efc69d3ba11ced6042bf64902fa96ceb5efd2ce06659f7bf040ddaa89",
-        "hdyndns-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "9f1160ddbd564ec560f519a673898618aa249bf2e74087c6e49ceab18cb9f47e",
-        "hdyndns-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "d22ff434e67c021c0ad98a86bc628bfd9ae61a9a0f732bc033a35773e3faedab",
-        "hdyndns-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "03d27bab45abbf0eefe053a5aaa8681da09601ff59bb8283b40e7a18792495ae",
-        "hdyndns-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "wheels": {
-        "hdyndns-0.0.5-py3-none-any.whl": [
-          "34fc27ed0231a6003a2037bd5add62ccc9a9999aee135fcc3ea832223f1b856b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "wheels": {
-        "hdyndns-0.0.6-py3-none-any.whl": [
-          "0eee61c549f19f233fdb1a99b6631d1a21d7981a4ec88826924185c791407bfe",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "c28cf984d01bf77ec9f71d02fe91f2133138e2c0208e6524265c608e6becb72e",
-        "hdyndns-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "hdyndns-0.0.7-py3-none-any.whl": [
-          "a829d4810b77fcc39e63e3e77f5d4a6c56194418959e5eb4da92eee12c6175ad",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7rc1": {
-      "sdist": [
-        "1b2575a644755ffe06cc606c0364d90065cdd0536763e960f1129095a2359202",
-        "hdyndns-0.0.7rc1.tar.gz"
-      ]
     }
   },
   "heddex.tranquility": {
@@ -38328,6 +38280,50 @@
         ],
         "ovito-3.0.0.dev802-cp38-cp38-win_amd64.whl": [
           "66b4cff27314d21b2d4a27e255148bda3bc857eaa91a7029a79d612e0b976be4",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.0.dev806": {
+      "wheels": {
+        "ovito-3.0.0.dev806-cp34-cp34m-manylinux1_x86_64.whl": [
+          "b7c2c78b50289c942bae0342953d313337049c586d58bc2b3fed88a4db6772fd",
+          "cp34"
+        ],
+        "ovito-3.0.0.dev806-cp35-cp35m-manylinux1_x86_64.whl": [
+          "4b29837674ca68c9740117b99720b8524da56122ad17ba3744486adefa1e6479",
+          "cp35"
+        ],
+        "ovito-3.0.0.dev806-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "01736dde1f8a4f4626a6e8a7d12de1be6921d9caca8519c36025a62fff2dbc52",
+          "cp36"
+        ],
+        "ovito-3.0.0.dev806-cp36-cp36m-manylinux1_x86_64.whl": [
+          "da15d8b3053b0f43223aefbb90487453e606ffa076ed4d1a01dd5aaec76b557c",
+          "cp36"
+        ],
+        "ovito-3.0.0.dev806-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "776bae134bdb5aee44710107fe346a83361de5e81a6a328061e0ddb0c5033c08",
+          "cp37"
+        ],
+        "ovito-3.0.0.dev806-cp37-cp37m-manylinux1_x86_64.whl": [
+          "0c6fb3f2258e25d746d452023e87edd3e8c19f71476bb8931fdceb267127a48e",
+          "cp37"
+        ],
+        "ovito-3.0.0.dev806-cp37-cp37m-win_amd64.whl": [
+          "28fa2c3d32dde62de9946f62c9db317ec9b29386ea688abc2df5fdaa941151f8",
+          "cp37"
+        ],
+        "ovito-3.0.0.dev806-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "90546540c90227280feed776a9a7bd636e05fddcd2c58442b325639aa4b279dd",
+          "cp38"
+        ],
+        "ovito-3.0.0.dev806-cp38-cp38-manylinux1_x86_64.whl": [
+          "8c2ad20834c45239d4d61fe5272309d8ec073371f8739be95abc1c4b6ed4ce2f",
+          "cp38"
+        ],
+        "ovito-3.0.0.dev806-cp38-cp38-win_amd64.whl": [
+          "a05fbe52be442f1a08e588d1ed8f11c2f99f4531c72387c582fd573b570bf2a6",
           "cp38"
         ]
       }
