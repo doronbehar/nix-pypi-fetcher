@@ -787,32 +787,6 @@
       }
     }
   },
-  "als.milo": {
-    "0.15.0": {
-      "sdist": [
-        "c7bad8060a56040dcf2a4d9ad1fd5253fa5901b81c7817c5f81dfafb16f0a3ad",
-        "ALS.Milo-0.15.0.tar.gz"
-      ]
-    },
-    "0.15.1": {
-      "sdist": [
-        "dba0e652e596c9ebc0a957ccc065e10e6431ba828bba31c15ef19ca7651910cd",
-        "ALS.Milo-0.15.1.tar.gz"
-      ]
-    },
-    "0.15.3": {
-      "sdist": [
-        "0c160d7a4c823986367357cbcf7482bfbf4df8eba626a974a48e16c2cfed598a",
-        "ALS.Milo-0.15.3.tar.gz"
-      ]
-    },
-    "0.15.4": {
-      "sdist": [
-        "7a9a14a244b946e5859a700bab3bc45a2f8a3598334a7bbd5dd4060200df0e98",
-        "ALS.Milo-0.15.4.tar.gz"
-      ]
-    }
-  },
   "android-missingdrawables": {
     "1.0": {
       "sdist": [
@@ -8267,38 +8241,6 @@
       ]
     }
   },
-  "check-ml-mod": {
-    "0.0.1": {
-      "sdist": [
-        "8aa03934c96e7fa7d00310d640d2091c5d8f3b307a8a8c683414fb1624793d71",
-        "check_ml_mod-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "5714a46eee36080b14fb3c22d48e1c315c66a895c256dbf3f0abda5bdc509510",
-        "check_ml_mod-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "81a8d5420149a0c691400556d2bbd484b96e3d182950b04fb8ddc8bcc2e9a4ae",
-        "check_ml_mod-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "963463069baa84883722321b3594063e558e3b900e1a98b8c7758209f133fc28",
-        "check_ml_mod-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "86b98dc77c7988a2c4a69979990e6c4ddc74b02bd3d4b8110fbde09ecb84b317",
-        "check_ml_mod-0.0.5.tar.gz"
-      ]
-    }
-  },
   "cheshire3": {
     "1.0.0": {
       "sdist": [
@@ -15004,6 +14946,18 @@
       "wheels": {
         "encoder_lib-1.1-py3-none-any.whl": [
           "33cd08e9c61efae77bf40087d6df38e064412b60d0040c0e053eb187d75fd532",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "bf8e3fdee22fc184f69a749bbc61522e6617afb4722085bf019e8698f6bcbbfd",
+        "encoder_lib-1.2.tar.gz"
+      ],
+      "wheels": {
+        "encoder_lib-1.2-py3-none-any.whl": [
+          "8c091216fd4c05d69a14da8be44f30e2a74d132414daccec846ccf4b33253801",
           "py3"
         ]
       }
@@ -33824,16 +33778,6 @@
       "wheels": {
         "odoo12_addons_oca_multi_company-12.0.20190620.0-py3-none-any.whl": [
           "5f5a31b805b97e20667e7ba36bede9277857b6126f041f773b64a886abeff0fe",
-          "py3"
-        ]
-      }
-    }
-  },
-  "odoo13-addon-hr-attendance-modification-tracking": {
-    "13.0.1.0.1.dev2": {
-      "wheels": {
-        "odoo13_addon_hr_attendance_modification_tracking-13.0.1.0.1.dev2-py3-none-any.whl": [
-          "7a7b54665875273f95b5784bc9b4c7e0e76ef786fd9513321f12e351b867e8ab",
           "py3"
         ]
       }
@@ -56444,14 +56388,30 @@
     }
   },
   "xingyunlib": {
-    "1.0": {
+    "1.3": {
+      "wheels": {
+        "xingyunlib-1.3-py2.py3-none-any.whl": [
+          "7799828c5972a93e851583b0b751f7a607a6f4b7b392add97b1e61d730cea4f5",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.41": {
+      "wheels": {
+        "xingyunlib-1.41-py2.py3-none-any.whl": [
+          "e579905fc2668160aa200b2ba0828e3ac15dcd9919445973bd3c670f678f0cc9",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.42": {
       "sdist": [
-        "c17b907f5e86fafc54ef45ada55cbe2e00524d2ed543ab55d862396f71d2e30d",
-        "xingyunlib-1.0.tar.gz"
+        "c29b3b9605525b702688652e4a31a3949242386e68eb056055bf9ffc32eb4f4f",
+        "xingyunlib-1.42.tar.gz"
       ],
       "wheels": {
-        "xingyunlib-1.0-py2.py3-none-any.whl": [
-          "2b5a9bc7291ec7c9c066b812d7f69f409f8834f6429c73e4aebf79747215b869",
+        "xingyunlib-1.42-py2.py3-none-any.whl": [
+          "121bbf1c705939f6fc416b701a0aeeecb004d2495e0c243f94ce7bb42611e236",
           "py2.py3"
         ]
       }
