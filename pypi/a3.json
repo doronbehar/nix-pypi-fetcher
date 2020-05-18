@@ -987,6 +987,20 @@
       }
     }
   },
+  "apache-airflow-backport-providers-jdbc": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "b005faf355d04eb95015de71b0fcf9953c740f9160775befbd43349cc2093a9e",
+        "apache-airflow-backport-providers-jdbc-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_jdbc-2020.5.20rc1-py2.py3-none-any.whl": [
+          "bc71a27938af3459706a1d0b67317f0b0743cd7c300ba7cdd2b016edbc07a6e6",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "apc": {
     "0.1.0": {
       "sdist": [
@@ -17349,6 +17363,12 @@
         "a546b65c9d7dbd1fcfae1c66f9cd6a04f684ad3e4bc587d6d68b62014ec4c053",
         "draftjs_exporter-3.0.1.tar.gz"
       ]
+    },
+    "4.0.0": {
+      "sdist": [
+        "843004e5628f3cda8de39f0d3a8ca923d737140681ee2db64c017395c59c8027",
+        "draftjs_exporter-4.0.0.tar.gz"
+      ]
     }
   },
   "drat": {
@@ -27742,80 +27762,6 @@
       "sdist": [
         "e324f7fd423b16394550566a77636ecbd935fd709c8c3fdef7177bac551dbf40",
         "ircpdb-1.8.1.tar.gz"
-      ]
-    }
-  },
-  "isinmrtbx": {
-    "0.4": {
-      "sdist": [
-        "133d154932273b05256a9df27f937d5cf3aeb6bcad35063c345358450260fc76",
-        "isinmrtbx-0.4.tar.gz"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "f6991aa202d7441a5625707250ee02c912819cd9e1fcc801a5f6b3e3048a75dd",
-        "isinmrtbx-0.5.tar.gz"
-      ]
-    },
-    "0.6.1": {
-      "sdist": [
-        "b9286e7327267b59f0451790f7028940357269f5256ef10161298702439ea93c",
-        "isinmrtbx-0.6.1.tar.gz"
-      ]
-    },
-    "0.6.2": {
-      "sdist": [
-        "dd532d328e2eaad32474d78ff7de2426ac4102481c573a2b43c9b2eec0c87072",
-        "isinmrtbx-0.6.2.tar.gz"
-      ]
-    },
-    "0.6.4.1": {
-      "sdist": [
-        "7f398ab3b0d5b9794bd47a3585955ea6baed7a8b4cbc79610617837cf9b09ad8",
-        "isinmrtbx-0.6.4.1.tar.gz"
-      ]
-    },
-    "0.6.5": {
-      "wheels": {
-        "isinmrtbx-0.6.5-py3-none-any.whl": [
-          "25d56ade10632eeb5d6c48f59840c871504939c3b447c27827fb4064f772e884",
-          "py3"
-        ]
-      }
-    },
-    "0.6.6": {
-      "sdist": [
-        "eaa1da92154cfa2ae43fc3352602debe9964e5a586c903dc6d60cf231bc7e7bf",
-        "isinmrtbx-0.6.6.tar.gz"
-      ],
-      "wheels": {
-        "isinmrtbx-0.6.6-py3-none-any.whl": [
-          "b3d65e1654590f566b962258797e4cc1e8e7ca8c51d551bbb4f6466b069eb7e3",
-          "py3"
-        ]
-      }
-    },
-    "0.6.7.1": {
-      "wheels": {
-        "isinmrtbx-0.6.7.1-py3-none-any.whl": [
-          "dc18f8e31566b00a6f3a0399ac8167c53b7f2ddb065b0deabf84228c74924561",
-          "py3"
-        ]
-      }
-    },
-    "0.6.7.2": {
-      "wheels": {
-        "isinmrtbx-0.6.7.2-py3-none-any.whl": [
-          "83f40827e930589a5ed3612f36c500db71d61642fb5e1360c6b3e94177051ccc",
-          "py3"
-        ]
-      }
-    },
-    "0.6.7.3": {
-      "sdist": [
-        "d365e1d1443c9604c2c49428c0836532d301ad52c502aca07a9df6a9ddfd6d67",
-        "isinmrtbx-0.6.7.3.tar.gz"
       ]
     }
   },
@@ -46377,6 +46323,44 @@
       }
     }
   },
+  "pydeer": {
+    "1.0.1": {
+      "sdist": [
+        "e87291d030dd744695258b318d331deb12f4c508d1f5c83fa93bf93c501b3675",
+        "pyDEER-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyDEER-1.0.1-py3-none-any.whl": [
+          "8c207206b23550946734d6dc21c92a772bce1a6f9228b532fca49546c24b44bc",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "c686867a1e0a8e96490cc2106a9940515159aaa4f158b05a198f32e9e51bc4d2",
+        "pyDEER-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyDEER-1.0.2-py3-none-any.whl": [
+          "edc247302245780c449f179bf7c82550e7a0a6899ec68429eef1fe2a6140ac29",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "678b68256e59bd33853745f3362fa635e690d19fa6e726adea4263d5f530e299",
+        "pyDEER-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyDEER-1.0.3-py3-none-any.whl": [
+          "27956f2359075d118d60b14e779f942243002aa2d113f2d426f327facd870bda",
+          "py3"
+        ]
+      }
+    }
+  },
   "pydepend": {
     "1.0.0": {
       "sdist": [
@@ -54818,6 +54802,18 @@
         ]
       }
     },
+    "3.0.0.0a3": {
+      "sdist": [
+        "a5d889dd07c2f9cb890943930eae4c6b7c74d9818a15589a35a130b00839d7d4",
+        "rkt_utils-3.0.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "rkt_utils-3.0.0.0a3-py3-none-any.whl": [
+          "3dec0bdb4c866999d1335cffac7f7e93c501f11c09cebbc858835a8548a2f6de",
+          "py3"
+        ]
+      }
+    },
     "3.0.0.dev1": {
       "sdist": [
         "8297f86e123a2014b21ab22043d1eed22ef89409bfe03298336d35fc6102dc07",
@@ -54826,6 +54822,18 @@
       "wheels": {
         "rkt_utils-3.0.0.dev1-py3-none-any.whl": [
           "8f05f8b55b9e9ef8430e91029292a8208ad6d6f1af89366b9c2ada0ce5d979a6",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0.dev2": {
+      "sdist": [
+        "0c77dbecfa2e96c429b3fc97b6e117d98d8b151402ece3c79bd0917fcf570d23",
+        "rkt_utils-3.0.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "rkt_utils-3.0.0.dev2-py3-none-any.whl": [
+          "e1e9176f720489a9874f3ccf3f1eba47ffad756088c3d53e356b3a7f1bc1a97c",
           "py3"
         ]
       }
@@ -54862,6 +54870,18 @@
       "wheels": {
         "rkt_utils-3.0.1.dev3-py3-none-any.whl": [
           "c34000978b2482355862d84d4ddd0118db9561dda534488bb0ca53bb2bfee9f7",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1.dev4": {
+      "sdist": [
+        "cb9876f04ff865403484a05d30845b06c49a7e8d50ae8a9363d8123b0394af3e",
+        "rkt_utils-3.0.1.dev4.tar.gz"
+      ],
+      "wheels": {
+        "rkt_utils-3.0.1.dev4-py3-none-any.whl": [
+          "749a057d07e06c322debf2e555290ab0d487c18b057468e6c3904c47255938e1",
           "py3"
         ]
       }

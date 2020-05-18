@@ -2473,6 +2473,20 @@
       ]
     }
   },
+  "apache-airflow-backport-providers-elasticsearch": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "08b1f5bada23dd7ed94442cbd9dcc8a8d92b05e87dbaf360b3b4d90a2085bd68",
+        "apache-airflow-backport-providers-elasticsearch-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_elasticsearch-2020.5.20rc1-py2.py3-none-any.whl": [
+          "0822170d1b81170d623d704626478e9f676b29534b17a5b203294440c21dc136",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "api-data-go": {
     "0.1": {
       "sdist": [
@@ -6321,6 +6335,26 @@
       ]
     }
   },
+  "ckanext-resource-indexer": {
+    "0.0.1": {
+      "sdist": [
+        "6cebc8dbab1035eb2db953a27cd42fe08615fa138716ffd79de4ee51e4c27427",
+        "ckanext-resource_indexer-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "53bd49f937399ad9196e84787fa7604677e7b1f06fd8e3cc7f02b66986b6f7bc",
+        "ckanext-resource_indexer-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_resource_indexer-0.0.2-py3-none-any.whl": [
+          "72aea6ad4a9a7062352ad5425d85ff0f8e67cabd9f12d4b40d028dd274b417be",
+          "py3"
+        ]
+      }
+    }
+  },
   "cleverbotfree": {
     "1.0.4": {
       "sdist": [
@@ -9150,6 +9184,18 @@
       "wheels": {
         "dependencies-1.0.1-py2.py3-none-any.whl": [
           "ffe1a939eb244bcdf89542ce219d85de1147f45e56e659201e04fde36bfc4b30",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "eb913abb4044da8664bff19f63ca50154cad36c0aa720bbfb67e131997666679",
+        "dependencies-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "dependencies-2.0.0-py2.py3-none-any.whl": [
+          "9134335480dfc46c2af594b3d3b5f2bd61d6b4103a8ada135a792b58621b88f3",
           "py2.py3"
         ]
       }
@@ -26499,6 +26545,18 @@
           "py3"
         ]
       }
+    },
+    "3.7.6": {
+      "sdist": [
+        "44e216bd1cdc5048de46f1f49379a02a5538c89db73fd44e5a6d799606031b26",
+        "mlconjug3-3.7.6.tar.gz"
+      ],
+      "wheels": {
+        "mlconjug3-3.7.6-py3-none-any.whl": [
+          "d5d87819826aa846ca851ba6b898ad435635113ab8b0b380d502fe0ca99ed103",
+          "py3"
+        ]
+      }
     }
   },
   "mmttools": {
@@ -26507,6 +26565,88 @@
         "MMTtools-0.1-py2-none-any.whl": [
           "9df3e4ff91c46abd71888355c028cc90badc556a0d80827923a2b2b345d76ee2",
           "py2"
+        ]
+      }
+    }
+  },
+  "mnn-fma": {
+    "1.0.0": {
+      "wheels": {
+        "MNN_FMA-1.0.0-cp27-cp27m-macosx_10_15_x86_64.whl": [
+          "17b0fcb0c722b0e41973b85a4ae39ba8e7303763efc4815b892eee9d3e1adc2a",
+          "cp27"
+        ],
+        "MNN_FMA-1.0.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "50cc8b834823c4cdd65e1efbe0660df1f28b83f217bcf7e04a99cd4b29c8d9cb",
+          "cp27"
+        ],
+        "MNN_FMA-1.0.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "8678a014cc9adb1302a462138e248824e14588eab158a069ae350df022cbfe4f",
+          "cp27"
+        ],
+        "MNN_FMA-1.0.0-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "c6bd25c2ed4015a9ecd972d5927dc1f2a0dddd64b50c8e686c30e68cdc31bec5",
+          "cp35"
+        ],
+        "MNN_FMA-1.0.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "4daf163df2ec06e886ce07c3822c14c2a1ec03e6743a64de3d3f10d4429ccb1d",
+          "cp35"
+        ],
+        "MNN_FMA-1.0.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "1fc31667cb25d046c30e047ce2a269e72a213703287897c81b4e4eed355f01b2",
+          "cp36"
+        ],
+        "MNN_FMA-1.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "cbae0a3693c84c823cb313859724e27851fa9ce9f672db4f143f43f881313e64",
+          "cp36"
+        ],
+        "MNN_FMA-1.0.0-cp36-cp36m-win32.whl": [
+          "b37bdda8030678b28f71b10f25e4570eda8ef70023869d402807331cd282ab4b",
+          "cp36"
+        ],
+        "MNN_FMA-1.0.0-cp36-cp36m-win_amd64.whl": [
+          "eafc45fc8b9514695152f523ec03da70e3e971c3cb34ec8ab39130a59b165259",
+          "cp36"
+        ],
+        "MNN_FMA-1.0.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "01f3a67e7e55be6a7cbf3743132a7fa62e96defaf5d29d3f733bbd84e122bf6b",
+          "cp37"
+        ],
+        "MNN_FMA-1.0.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e7b99b5495a1bbf20c949f26f48abac1ca6d55eab0aa5f54015032c77f879077",
+          "cp37"
+        ],
+        "MNN_FMA-1.0.0-cp37-cp37m-win32.whl": [
+          "263c3534b7b58d86f1f7fff8b184a3cea0fc5b5d6d5c3cee44e1d24385259268",
+          "cp37"
+        ],
+        "MNN_FMA-1.0.0-cp37-cp37m-win_amd64.whl": [
+          "9863b0a3d88b0bbad47e716fae0c2495391b39767b3e28acdb5f1e95ef5a20d5",
+          "cp37"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "MNN_FMA-1.0.1-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "48cd138b165c847e59504cceff369e36be45659b8ebb9b4fcb1e05bb77598249",
+          "cp27"
+        ],
+        "MNN_FMA-1.0.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "51ee0f64d02094667b4798ba69cb3b6f274098b9a9082520b74d331c0a0f11fe",
+          "cp27"
+        ],
+        "MNN_FMA-1.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "dcb550803bcba6dda62c5010e5bc2543a70c5a034c4b947e8eb4bb02f24f36f6",
+          "cp35"
+        ],
+        "MNN_FMA-1.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "4cbea3ef983a8bbd79821c1bdcc29bea668fb39aac7539c00fdf0ce19185fd0b",
+          "cp36"
+        ],
+        "MNN_FMA-1.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "fd9ec0ebfb81d0b6fb99a5a46d79724b389d80f20a88ef8e46f161cd0f9a6d62",
+          "cp37"
         ]
       }
     }
@@ -31165,6 +31305,20 @@
       }
     }
   },
+  "networking-omnipath": {
+    "0.0.1.dev22": {
+      "sdist": [
+        "e20172f80eb09ef67743531fc269d61ff89d3f7afb62ee4af859291c369e17a5",
+        "networking-omnipath-0.0.1.dev22.tar.gz"
+      ]
+    },
+    "0.0.1.dev43": {
+      "sdist": [
+        "a7b418bf8b8741b94c8a3c68ad74c906517e30a7a4be888145b816b3c165ff99",
+        "networking-omnipath-0.0.1.dev43.tar.gz"
+      ]
+    }
+  },
   "news-collector": {
     "0.1": {
       "sdist": [
@@ -31530,6 +31684,20 @@
       "sdist": [
         "3317b3b98df8231f95e1e39b2bf102b50c1db65b4dd6de95a1a0eba7f6205447",
         "oauth10a-1.9.1.tar.gz"
+      ]
+    }
+  },
+  "oautom": {
+    "1.0.0": {
+      "sdist": [
+        "fb173953cb2f4fd682a15133aa63f2d090f3370c9c7dbe41607533c624deb8d4",
+        "oautom-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "0abeedf0a7285c993f622e006e30ee804facb8693f82c9a225f254fc5dfa71fa",
+        "oautom-1.0.1.tar.gz"
       ]
     }
   },
@@ -38697,6 +38865,20 @@
         "aef7cb3167552cdc15472f7fd8475a71519c79baa9da8389b155dc2172edd991",
         "pylev2-1.0.0-beta.tar.gz"
       ]
+    }
+  },
+  "pylinebot": {
+    "1.0.0": {
+      "sdist": [
+        "1dc8ee7b2c9263905a49892f6e85ea756802ccf6e0f9d95f230f76176fa878e0",
+        "pylinebot-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pylinebot-1.0.0-py3-none-any.whl": [
+          "78f9cc30de313fd81a8b50e040e26d62d6f338ba606d1040d7e9061027756081",
+          "py3"
+        ]
+      }
     }
   },
   "pylms": {

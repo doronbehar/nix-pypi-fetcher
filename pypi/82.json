@@ -4663,6 +4663,20 @@
       }
     }
   },
+  "apache-airflow-backport-providers-exasol": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "8fac638067b42b33098551bb84dd9f1ee85e289dd7f0b0a5bddbcac88989452e",
+        "apache-airflow-backport-providers-exasol-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_exasol-2020.5.20rc1-py2.py3-none-any.whl": [
+          "836b66f551f453afd2831219ef9c99c3a44141be729263f3e505492412b25262",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "api-data": {
     "0.1.0": {
       "sdist": [
@@ -27919,6 +27933,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "b9187004accb2eb75e9d9d9506be48082c4f74a915b5b0962b46d4a03ecde3c8",
+        "hypothesmith-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "hypothesmith-0.1.1-py3-none-any.whl": [
+          "65c44b952ba334d49bd550046c9d5d8eab5b0d8d511ec158d3ee7e7a6d7f480d",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "46ebfac39be46d77c119e9725b9f611453573a053358cf7a2a64db79b50e6324",
+        "hypothesmith-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "hypothesmith-0.1.2-py3-none-any.whl": [
+          "2e82186cfb171295ea9825dd9e5308d5b8189221fe700ca33931a130b09ceee6",
+          "py3"
+        ]
+      }
     }
   },
   "i2t2": {
@@ -47819,6 +47857,46 @@
           "cp38"
         ]
       }
+    },
+    "2.1.3": {
+      "wheels": {
+        "OpenVisus-2.1.3-cp36-none-macosx_10_9_x86_64.whl": [
+          "652c079cd9bf0dfaa33c15eddaa2adffc1ccfa925ec9d852d40bc4aba9022825",
+          "cp36"
+        ],
+        "OpenVisus-2.1.3-cp36-none-manylinux2010_x86_64.whl": [
+          "f15fd31080632a4aed440a26d383944f47be62f37d3dfb89bd719f983eece710",
+          "cp36"
+        ],
+        "OpenVisus-2.1.3-cp36-none-win_amd64.whl": [
+          "48a593beddbda093ff491b139208ece4d1f02e7b3661c0a9a26c08f8ed0f0ebb",
+          "cp36"
+        ],
+        "OpenVisus-2.1.3-cp37-none-macosx_10_9_x86_64.whl": [
+          "531f7cf393d1b13d10e31823e38faa7e192f7ff3bcaca7aa9b10df09bf8f5454",
+          "cp37"
+        ],
+        "OpenVisus-2.1.3-cp37-none-manylinux2010_x86_64.whl": [
+          "e84214aaa244c7959273500bc97b03b3033194c3f495e8dda5438e7d190aed0f",
+          "cp37"
+        ],
+        "OpenVisus-2.1.3-cp37-none-win_amd64.whl": [
+          "f520f01aa70b9b90bfb062d4dd94dcc65527d7c236b1a02f1640c695259c2f1f",
+          "cp37"
+        ],
+        "OpenVisus-2.1.3-cp38-none-macosx_10_9_x86_64.whl": [
+          "daabfb5bf410be1705aceafff89dafc5bf93f23f7bd6218b2a98910767344596",
+          "cp38"
+        ],
+        "OpenVisus-2.1.3-cp38-none-manylinux2010_x86_64.whl": [
+          "a1bd754459ebe058dc95e576f40e2a1158033fc8182247e3670c38b5ae51a9ea",
+          "cp38"
+        ],
+        "OpenVisus-2.1.3-cp38-none-win_amd64.whl": [
+          "1dfbd0c4f18e8d380931716845b0bd386c2964720170afe4f0866c97752dd101",
+          "cp38"
+        ]
+      }
     }
   },
   "orchstr8": {
@@ -55012,6 +55090,18 @@
         ]
       }
     },
+    "0.2.0": {
+      "sdist": [
+        "db4c8efe6eda0dea399f74663208c00ca7801380006504765e9d7643176c862c",
+        "pySonyBraviaPSK-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pySonyBraviaPSK-0.2.0-py2.py3-none-any.whl": [
+          "60cd5b3efe06e31201997bcc7424258812a622eeb85b48e6fa611608a6515c37",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.0b0": {
       "sdist": [
         "e863eeee0d271dff1894b475028944595d0272439877b8f014dadc253f829546",
@@ -59496,6 +59586,18 @@
       "wheels": {
         "rising-0.1.0rc0-py3-none-any.whl": [
           "dccd8740e44ab129d93b08d5cab9aa84c0f65839db709b2b77f80c8c300d1b2a",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "13db15c56efa3e668ca9bb3642ebff3665f486904fa8d9abb404401241bf6fef",
+        "rising-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "rising-0.2.0-py3-none-any.whl": [
+          "0f89acb53b9fca9c6ed4558878eebf29a9d839c1a8a4d732d345da04d186bd93",
           "py3"
         ]
       }
@@ -71636,6 +71738,12 @@
       "sdist": [
         "6d031accb4c3aab4e48d7f64d60e57d5d71722b81fb634490ccb59f8e58aed2d",
         "udkanbun-2.0.7.tar.gz"
+      ]
+    },
+    "2.0.8": {
+      "sdist": [
+        "ccfe2d9d5cdc8a7e05bb51ede0496ed4752c9e8c687fd1908fef99505f1723de",
+        "udkanbun-2.0.8.tar.gz"
       ]
     }
   },

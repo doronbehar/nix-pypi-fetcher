@@ -1351,6 +1351,20 @@
       }
     }
   },
+  "apache-airflow-backport-providers-segment": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "17d41cca7f7026bf195c0c2e06bb52783a744d23a05d20a7ab3d0931851941fa",
+        "apache-airflow-backport-providers-segment-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_segment-2020.5.20rc1-py2.py3-none-any.whl": [
+          "0ce04f1b3ae40d3655f47ee11cf6f41d8433e1e2926840e6cc63d1a7177deaba",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "apeeper": {
     "0.1": {
       "sdist": [
@@ -2166,20 +2180,6 @@
       "wheels": {
         "au_notebook-0.0.3-py3-none-any.whl": [
           "6c9dbbf7d81335e2970600288e5967a3bca5d05e1ffb2c527d2e05c67630aec6",
-          "py3"
-        ]
-      }
-    }
-  },
-  "audiospectrum": {
-    "1.0.5": {
-      "sdist": [
-        "a9b3fe8432a54953a1946eff047f81a20c29fe1f9e259934b4052ce6f2708e9a",
-        "audioSpectrum-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "audioSpectrum-1.0.5-py3-none-any.whl": [
-          "a676f1b731d4140ba47150dd6e3e7ef934f2c6ee26cc0740ee1ae23046724e77",
           "py3"
         ]
       }
@@ -14863,6 +14863,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "9f1bb1c77eb6e5b3157eef39fb6ba289f26cda34d8117ce43e9cb09a3d27105e",
+        "empower-core-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "empower_core-1.0.5-py3-none-any.whl": [
+          "353dd1474b1924f0a7d90cfacabea8faf699093a0c1485707ed5832cb557a74b",
+          "py3"
+        ]
+      }
     }
   },
   "enlightns-cli": {
@@ -23139,16 +23151,6 @@
         "0309604ce4e205affc2dfbfe2426225a20e4e6eec5dc761ff4dfbb2aee6aea67",
         "handi-0.9.8.9.tar.gz"
       ]
-    }
-  },
-  "haoqiren": {
-    "0.0.1": {
-      "wheels": {
-        "haoqiren-0.0.1-py3-none-any.whl": [
-          "5d97c9f6898ea696b45747b65da6d67e1c54c71da80ad28dbb2b0d636d68c7c0",
-          "py3"
-        ]
-      }
     }
   },
   "hdkey": {
@@ -32975,56 +32977,6 @@
         "34983a06aefdcd01cc4181ce5e146b68c75622ecafe08605968b96c567eaf4ae",
         "nester1217-1.3.0.zip"
       ]
-    }
-  },
-  "netbox-ddns": {
-    "0.2": {
-      "sdist": [
-        "86478a7106df7682b3c51084a732fc864c2deb9d9c88035f76d783ac8bc52632",
-        "netbox-ddns-0.2.tar.gz"
-      ],
-      "wheels": {
-        "netbox_ddns-0.2-py3-none-any.whl": [
-          "ca992c820352d7fa1b28826cb843bef5012611661abba1ae908ef1653b43ef90",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "2bae949faa5917f78070c92361aae1c0f08674bf176b9a316be4ae6179936c1a",
-        "netbox-ddns-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "netbox_ddns-0.3.1-py3-none-any.whl": [
-          "a9dc9d8c6bf867af6125651a7903e7e02b19d809381f8d76c4bfb9ae98ff9bf5",
-          "py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "2570709da44ef6982a5e9f087acf22896c741fb5bac84c75f9de14b59e78e9de",
-        "netbox-ddns-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "netbox_ddns-0.3.2-py3-none-any.whl": [
-          "e9c1c0e63447814d33aff0eb6cb5f28ad571be8cd411ffe66176fc137f5d0708",
-          "py3"
-        ]
-      }
-    },
-    "1.0": {
-      "sdist": [
-        "2e56f6d13a08569832bcdd17ddce6528a2852a07310c92490b4f06e3abb18b68",
-        "netbox-ddns-1.0.tar.gz"
-      ],
-      "wheels": {
-        "netbox_ddns-1.0-py3-none-any.whl": [
-          "7252a12d21a0b4d45a282663442f828133c8620621ce35845a09b16c6b15dc1a",
-          "py3"
-        ]
-      }
     }
   },
   "networkqit": {
@@ -43165,6 +43117,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "7f9993778e30ab9bd2fb06dcdea345c67dd607fcc61857c4f9c2e647e0acf2dc",
+        "py-aiger-coins-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "py_aiger_coins-2.0.0-py3-none-any.whl": [
+          "7248e547096a8fd761bd80a76a1ef04103a047df756df1aa2edf958f228cb520",
+          "py3"
+        ]
+      }
     }
   },
   "py-li": {
@@ -46650,6 +46614,12 @@
       "sdist": [
         "3528704a89e98f3db9193aa672effea039e159e5805148c28d9df1ea6a8c22a6",
         "pynetworks-0.5.2.tar.gz"
+      ]
+    },
+    "0.5.3": {
+      "sdist": [
+        "9d7303337158ca0472c4667891dcee961d40e3ec64771eb714fcf1750d1c8b79",
+        "pynetworks-0.5.3.tar.gz"
       ]
     }
   },
@@ -50379,38 +50349,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "rockchisel": {
-    "0.1": {
-      "sdist": [
-        "de5f18c71ddda6aa3e61683eeef12a22ab65251ab7acfa76422f05c7279b31e3",
-        "rockchisel-0.1.tar.gz"
-      ]
-    },
-    "0.4": {
-      "sdist": [
-        "66db30975733a728991a7ebd1c5602ffa99e68201a2146cbbeabf7740d07ac55",
-        "rockchisel-0.4.tar.gz"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "3241dd54e77f82f71f674ba7286cf1acf2ada0793d94925172fdfbaf933baf32",
-        "rockchisel-0.5.tar.gz"
-      ]
-    },
-    "0.6": {
-      "sdist": [
-        "b417cf83fcb2d3c1683b3d7a435db8af634103d37bc9e8617ea1b3bac7074771",
-        "rockchisel-0.6.tar.gz"
-      ]
-    },
-    "0.7": {
-      "sdist": [
-        "8660260a4f1790e9e6b48801921a22aa7516a1ac7c26123287092e4abcad47e1",
-        "rockchisel-0.7.tar.gz"
-      ]
     }
   },
   "rosreestr2coord": {

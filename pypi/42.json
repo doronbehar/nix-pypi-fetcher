@@ -3065,6 +3065,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.6": {
+      "sdist": [
+        "9cbfb08d7db39adf52fc8ad28ac872cc786c8bba44e97c23567ed63c422d3a27",
+        "asciietch-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "asciietch-1.0.6-py3-none-any.whl": [
+          "90cea9317891e4553b9b7cd987b8665ea2771316b41fb8c9f20cb424fe8af0c3",
+          "py3"
+        ]
+      }
     }
   },
   "aserve": {
@@ -10998,6 +11010,18 @@
       "wheels": {
         "dgp_server-0.0.67-py2.py3-none-any.whl": [
           "04c59929f8d18446556c4297f5aaf93db6ce5fb65e8f2736f4052867befba625",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.68": {
+      "sdist": [
+        "72ae6cdd6192783abf07b2a8bbe94c42e096e245b8e204c0940c931769e774de",
+        "dgp-server-0.0.68.tar.gz"
+      ],
+      "wheels": {
+        "dgp_server-0.0.68-py2.py3-none-any.whl": [
+          "465c67eeb14b894a738cc545e50a5863bb0af233329af3d6401d1897554052bb",
           "py2.py3"
         ]
       }
@@ -21431,32 +21455,6 @@
         "grimoirelab-0.2.32-py3-none-any.whl": [
           "47c1d929e9f50e2adcf0a94f905ef00a7457eb8f149a8e1bb5bb5fb5af61ad3a",
           "py3"
-        ]
-      }
-    }
-  },
-  "gripy": {
-    "0.0.1": {
-      "wheels": {
-        "gripy-0.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "703252584170a1913535459aac04d06be3f4e1760162b2dad5724d57217fefce",
-          "cp36"
-        ],
-        "gripy-0.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "18129b483dd1e9f43f7d50a95c3a2b57d3bcf8597e1b76889e82ef0aa7e2936e",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "gripy-0.0.2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "e2ee33c4d6c15f4a27329a838319a3767255731628073966a2e253fcb675363c",
-          "cp36"
-        ],
-        "gripy-0.0.2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "7c30613e649a3f2d5c375786b99085d83a50c98ab6779aad7802676d3541656e",
-          "cp37"
         ]
       }
     }
@@ -34303,40 +34301,6 @@
       }
     }
   },
-  "odoo11-addon-membership-variable-period": {
-    "11.0.1.0.0": {
-      "wheels": {
-        "odoo11_addon_membership_variable_period-11.0.1.0.0-py2.py3-none-any.whl": [
-          "b2ae0336e41886fb6179921bb5e4e3f729635905f8662b362dfc806bd8fb1476",
-          "py2.py3"
-        ]
-      }
-    },
-    "11.0.1.0.1": {
-      "wheels": {
-        "odoo11_addon_membership_variable_period-11.0.1.0.1-py2.py3-none-any.whl": [
-          "095e98ea4413f6782ba168ecf1c84475e41d7e56d55da4f10bace1b5afdd3732",
-          "py2.py3"
-        ]
-      }
-    },
-    "11.0.1.0.1.99.dev1": {
-      "wheels": {
-        "odoo11_addon_membership_variable_period-11.0.1.0.1.99.dev1-py2.py3-none-any.whl": [
-          "4e6e0a8dd9fee4db0ecf87b8e088b01c5d599a2f1fab41c00ca0c436cbc5b7e6",
-          "py2.py3"
-        ]
-      }
-    },
-    "11.0.1.0.2": {
-      "wheels": {
-        "odoo11_addon_membership_variable_period-11.0.1.0.2-py2.py3-none-any.whl": [
-          "9cf8bf1909c6bc9cbc2000f72699929723a6f2c5e45374a96fa53647de956dbb",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "odoo11-addon-procurement-purchase-no-grouping": {
     "11.0.1.0.0.99.dev2": {
       "wheels": {
@@ -38805,6 +38769,24 @@
         "f4660366da8387863b61c517882bc895c023e2617370e71014e5fb3d08c25f34",
         "pipm-19.3.5.tar.gz"
       ]
+    },
+    "20.0.0": {
+      "sdist": [
+        "ea6877939ee91823742a18328ea3f748290eef55bb305136ca8195a17ef0c01a",
+        "pipm-20.0.0.tar.gz"
+      ]
+    },
+    "20.1.0": {
+      "sdist": [
+        "1669769db4372ef6422e2d78c3cdf2efcd277559804b0b1ee9fcadb90921d31a",
+        "pipm-20.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pipm-20.1.0-py3-none-any.whl": [
+          "92327abbaeed5c8ad3f69cea4e06f1a75aa45ae4ac42d1105167281fa563fc5d",
+          "3.8"
+        ]
+      }
     },
     "9.0.0": {
       "sdist": [
@@ -66668,6 +66650,58 @@
         ]
       }
     },
+    "0.11.0.dev20200517145130": {
+      "wheels": {
+        "tfa_nightly-0.11.0.dev20200517145130-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "cd9fbe3f14900e6edc100b10fcfdf8f5a228c84f350a6228d131cd7dff9ce3a6",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "2f8e5aa42875dd7b1a09c9d20d0174170d2f740ddc1e3a703d5c58418fd426b1",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp35-cp35m-win_amd64.whl": [
+          "4e9392c35b0a62be2213f4604653ac26d795f07932bb1e406d4481450299182c",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "d78e03c48d02e4e704f5a1f81eb7ece3aafebf639a7be6fc9890a3ad0df5747e",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d83a23cd5d64d35b904b2c117b9842d0141082f3e097558db2c101ef57ca2582",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp36-cp36m-win_amd64.whl": [
+          "9e2bfe35ad18e5f62a6ac3a5f3a85366f830161d7d189e8e8df6ea9910ae53e9",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "a368e879d8b9183550f640a241b402470f1d83273ac919c04d83bac885ae516d",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "5952a696d68a3303e245b397d4e8670722c0e9653d59d437aa9b56db48906320",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp37-cp37m-win_amd64.whl": [
+          "3e0446627d60a26fbb744edfba8c867b16d2c4316fdac1d97c065bf0403fcea0",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "42cebcec1d9660b8f7cae6909a51ba3ecb076029366f30b90985cd914de4d9bc",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp38-cp38-manylinux2010_x86_64.whl": [
+          "44595b644323b862b976f62c50f47e3f19d0c0997cce62b99d223f8613515b97",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200517145130-cp38-cp38-win_amd64.whl": [
+          "b0c60b43684eb8427910b227024a83c31d47809297ff376dadc090186ac17c8c",
+          "cp38"
+        ]
+      }
+    },
     "0.3.0.dev20190422": {
       "wheels": {
         "tfa_nightly-0.3.0.dev20190422-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -87321,68 +87355,6 @@
       }
     }
   },
-  "tfaugmentor": {
-    "1.0.2": {
-      "sdist": [
-        "acfa4a022263e81cdff76fe227ed4ecb5aed95f44ee64a26a8e20d77b7ac573b",
-        "tfAugmentor-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "tfAugmentor-1.0.2-py3-none-any.whl": [
-          "fbba479ea990a93a0f0984dea49915e358055a571ee37b4eb3e89115ad4182f0",
-          "py3"
-        ]
-      }
-    },
-    "1.1.1": {
-      "sdist": [
-        "761bf080212ef82c6c15e6b3362655e991f1c28c32418f5a86bb210953b0e54e",
-        "tfAugmentor-1.1.1.tar.gz"
-      ],
-      "wheels": {
-        "tfAugmentor-1.1.1-py3-none-any.whl": [
-          "acfb67c3406cc69249f1cd64eeec343776c055d7d9fd380c386dd859139aec42",
-          "py3"
-        ]
-      }
-    },
-    "1.1.2": {
-      "sdist": [
-        "b94195f067adc21de9989ff7500c9709020d8ef0581fa2d859c10e8f34127bf3",
-        "tfAugmentor-1.1.2.tar.gz"
-      ],
-      "wheels": {
-        "tfAugmentor-1.1.2-py3-none-any.whl": [
-          "400956e0b662963a5e7dab0414c9dd2d35e5299a2b660f6627bfd4f69e95fbc9",
-          "py3"
-        ]
-      }
-    },
-    "1.2": {
-      "sdist": [
-        "fded76c40623c3b8e4797c1ef98a5207cf5d0abc7626a9c387d1d26940bd8244",
-        "tfAugmentor-1.2.tar.gz"
-      ],
-      "wheels": {
-        "tfAugmentor-1.2-py3-none-any.whl": [
-          "e7abda1531acc194ac305715264f0ee44ae48b373c11dd9ca6557c7003e0283c",
-          "py3"
-        ]
-      }
-    },
-    "1.2.1": {
-      "sdist": [
-        "b8d6987dacfed0737210e3ac5fa4fa15667af1ab3f7ad1f7d9cd73df36d8ca16",
-        "tfAugmentor-1.2.1.tar.gz"
-      ],
-      "wheels": {
-        "tfAugmentor-1.2.1-py3-none-any.whl": [
-          "b867f5cccb076536be55066b755410a33742211b5450da2861fbae6894ecf94a",
-          "py3"
-        ]
-      }
-    }
-  },
   "tgapp-permissions": {
     "0.1.0": {
       "sdist": [
@@ -88738,6 +88710,12 @@
       "sdist": [
         "483b015f313b3cf0fcc761205a294ceee345a8fc9587635b86df1de854ff9c92",
         "tropycal-0.1.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "da3797b4006489bdb659e8a8e9b9fea3b5f28c94f0c98a0e68bb7ce71a6dca2a",
+        "tropycal-0.2.tar.gz"
       ]
     }
   },

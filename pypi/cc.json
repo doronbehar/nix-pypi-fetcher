@@ -2081,6 +2081,34 @@
       }
     }
   },
+  "apache-airflow-backport-providers-google": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "3230a78e65f7b006b9729768f9c8966683347f6f0c9e475928beede1e421ec65",
+        "apache-airflow-backport-providers-google-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_google-2020.5.20rc1-py2.py3-none-any.whl": [
+          "279bf3b18ba9e64000d52a4b2a6df86377f352d303e819593445600f16a16fbc",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "apache-airflow-backport-providers-oracle": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "cb91e5da1ff3b4754415c0d227dd92d194b64be6d80ce39b79abc2b048851c03",
+        "apache-airflow-backport-providers-oracle-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_oracle-2020.5.20rc1-py2.py3-none-any.whl": [
+          "952ab2e9244090ec4fb467f6b622cbd5f8f59e94c925e4e6564199f2d064ee9c",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "app-utilities": {
     "0.1.5": {
       "sdist": [
@@ -28975,14 +29003,6 @@
       ]
     }
   },
-  "json-metadata": {
-    "1.1.0": {
-      "sdist": [
-        "e94a2079c26393ce18ac1452c6c561b7040a90aca0943df995dc988eef413704",
-        "json_metadata-1.1.0.tar.gz"
-      ]
-    }
-  },
   "jsonio": {
     "0.1.2": {
       "sdist": [
@@ -40205,6 +40225,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "19820d3e2c27b76c78b545961bbc8122dd206d6c62254656cf8243150eba0bbb",
+        "purdy-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "purdy-1.1.0-py2.py3-none-any.whl": [
+          "936e2619f8f27d6be4840231cb49abd4f18e126092745c4206e680aa04d23726",
+          "py2.py3"
+        ]
+      }
     }
   },
   "puresecvulndep": {
@@ -44383,26 +44415,6 @@
       ]
     }
   },
-  "quickocr": {
-    "0.0.1": {
-      "sdist": [
-        "066b1738de014408b45edfbc9969a65c1d7a59847b6a9c447fad7521e10a9bdb",
-        "quickocr-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "d87e3af37124f2b5ee0cfbd4d6e49a27583887da38e55114f67dd0a72b7b98a3",
-        "quickocr-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "2f3d49c7ee45317ae46f8457c2c56cfaba05f01c433e1794087540bee48a7b4b",
-        "quickocr-0.0.3.tar.gz"
-      ]
-    }
-  },
   "r3d3": {
     "0.1": {
       "sdist": [
@@ -45108,6 +45120,18 @@
       "wheels": {
         "rec_to_binaries-0.4.1.dev0-py3-none-any.whl": [
           "470df6186e116449114693632bc29a4731f9a90f7a579f0db0af0ec72f2a94e5",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2.dev0": {
+      "sdist": [
+        "d621426f07cd952f1c2ec26b2d483965745d9280925cebb8e717f134cb12ede0",
+        "rec_to_binaries-0.4.2.dev0.tar.gz"
+      ],
+      "wheels": {
+        "rec_to_binaries-0.4.2.dev0-py3-none-any.whl": [
+          "c3e5c0982d942168d2ac66740e6652de30d28b68e7b4a8d6ee78b9ef8776fda2",
           "py3"
         ]
       }

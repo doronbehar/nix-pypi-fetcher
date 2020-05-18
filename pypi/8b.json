@@ -1093,6 +1093,20 @@
       }
     }
   },
+  "apache-airflow-backport-providers-apache-pig": {
+    "2020.5.20rc1": {
+      "sdist": [
+        "a8b231c6715c2f642484c2382be9bb22c0a367c9715c628cec7c6b53daafee13",
+        "apache-airflow-backport-providers-apache-pig-2020.5.20rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_apache_pig-2020.5.20rc1-py2.py3-none-any.whl": [
+          "57455ae09405ede77e74aad08a69a1a0078eef446a7b8c52ca8eb8ae84e63e4f",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "apyref-g5": {
     "0.1.1": {
       "sdist": [
@@ -7198,6 +7212,12 @@
       "sdist": [
         "897d992c1b98eb7222bd5225383a8a98ef2f0424307223a50d2637ca4b7957d5",
         "datenguidepy-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "84bf477f036cff681bc57030cebd91b169b822d7cc5a2564dd70de678c3bc575",
+        "datenguidepy-0.2.1.tar.gz"
       ]
     }
   },
@@ -19789,110 +19809,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "geotiler": {
-    "0.1.0": {
-      "sdist": [
-        "d3f870e8606a0c3d70788d1a62452b74ed50ede8c2610b0fd9df6e2be61de3af",
-        "geotiler-0.1.0.tar.bz2"
-      ]
-    },
-    "0.10.0": {
-      "sdist": [
-        "eef5f679628f52fddec05ddfb9bbf6797cdd0ff6a8100ce5d9680c52c3037fec",
-        "geotiler-0.10.0.tar.bz2"
-      ]
-    },
-    "0.11.0": {
-      "sdist": [
-        "7cdc80930a37c2d1c20df26d112bfd884003ca3e9e365a1bbbe06ba6d9e026b1",
-        "geotiler-0.11.0.tar.bz2"
-      ]
-    },
-    "0.12.0": {
-      "sdist": [
-        "01c8ab7f4b96b284c4f32587344d0fcf06c4a3e424039d5d16a0af9ae33cd733",
-        "geotiler-0.12.0.tar.bz2"
-      ]
-    },
-    "0.13.0": {
-      "sdist": [
-        "409a8075a25184bda02ccf7f6137fa8d1d89c8901231f35c16a09d11b8988ce6",
-        "geotiler-0.13.0.tar.bz2"
-      ]
-    },
-    "0.14.0": {
-      "sdist": [
-        "95b5f2cdc6aff9e828f3d7e5fa19e59aa68db5520ece0a1e5309241f229d9cd2",
-        "geotiler-0.14.0.tar.bz2"
-      ]
-    },
-    "0.14.1": {
-      "sdist": [
-        "65977b5535f2c55c46fcb88168402cd3f2f8b29d078a552464cebec2f9be29d1",
-        "geotiler-0.14.1.tar.bz2"
-      ]
-    },
-    "0.14.2": {
-      "sdist": [
-        "25be30830d5983b0961cc7447671293ad7496b188b6ec538307a279350f20695",
-        "geotiler-0.14.2.tar.bz2"
-      ]
-    },
-    "0.14.3": {
-      "sdist": [
-        "fd38a8f8855bbcfeaf4e5ffa85e4e43bf51c9f4ac6650a8e43b09342f8610a82",
-        "geotiler-0.14.3.tar.bz2"
-      ]
-    },
-    "0.14.4": {
-      "sdist": [
-        "ad4104fa92f16cf973500b39d6bb7ba394829138e7e44f827e358b286e53db9b",
-        "geotiler-0.14.4.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "4014e0ab6da245afffcd61db9b92242f39eea06b92231979dc5f5b3ba8812e9f",
-        "geotiler-0.3.0.tar.bz2"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "d4226a66bb04490643f46b28b933de92eff3b810f14e7af25bdd00ab66d694cd",
-        "geotiler-0.4.0.tar.bz2"
-      ]
-    },
-    "0.5.0": {
-      "sdist": [
-        "866bc379533dbd3b04c5f6cb8a5d9465194079708ac18a8a33c0d2419bdbb3b0",
-        "geotiler-0.5.0.tar.bz2"
-      ]
-    },
-    "0.6.0": {
-      "sdist": [
-        "8f4347f0819353d230242a8c604874cfc74cf58870b7649081090ff2025822e3",
-        "geotiler-0.6.0.tar.bz2"
-      ]
-    },
-    "0.7.0": {
-      "sdist": [
-        "d18d9b0f83f05fa20d99eb6689b27d27ab0ddd100075bb8c530980dc90f2ec0d",
-        "geotiler-0.7.0.tar.bz2"
-      ]
-    },
-    "0.8.0": {
-      "sdist": [
-        "a0b6becb6d8940d8c8bce70987016528d518d1b9626805a7fc2dd34bd8d8bd2c",
-        "geotiler-0.8.0.tar.bz2"
-      ]
-    },
-    "0.9.0": {
-      "sdist": [
-        "4a04f2e617c29f439160f2043d2b074af19a89fa44d9b9771747873c25aa886a",
-        "geotiler-0.9.0.tar.bz2"
-      ]
     }
   },
   "gerritexec": {
@@ -60051,56 +59967,6 @@
         "5301d98ead44dac6b582b903d8b0fabaae199f353a4e0249ed5a267d54da43d0",
         "uri_handler-0.0.2.tar.gz"
       ]
-    }
-  },
-  "urllib-ext": {
-    "0.1.0": {
-      "sdist": [
-        "706b2a46c0d06af84ef40c5a727edb3976c201d18b10eeac77fb86184165c265",
-        "urllib_ext-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "urllib_ext-0.1.0-py3-none-any.whl": [
-          "af961e2897e137cdc7204f88b731c961332c39b13bd81b17ef7c0e5d0e204eab",
-          "py3"
-        ]
-      }
-    },
-    "2020.4.28": {
-      "sdist": [
-        "3485eb31d67f11444eff5dc908cee45ce32f4cd9786940489409bd4282a3ae3b",
-        "urllib_ext-2020.4.28.tar.gz"
-      ],
-      "wheels": {
-        "urllib_ext-2020.4.28-py3-none-any.whl": [
-          "b897a11832bcedc67116403f24d1d6fa07a39e7bb8ea2081c147ba6e5b3c6bea",
-          "py3"
-        ]
-      }
-    },
-    "2020.4.28.1": {
-      "sdist": [
-        "de80d8a1bd03613fb1c48c0927280595f5b0784eff65a22e1ba627d4df105b0e",
-        "urllib_ext-2020.4.28.1.tar.gz"
-      ],
-      "wheels": {
-        "urllib_ext-2020.4.28.1-py3-none-any.whl": [
-          "9be6ba70eb8750840a48928c173833511a1ce53e58795ef807c48c37d7c447ca",
-          "py3"
-        ]
-      }
-    },
-    "2020.5.1": {
-      "sdist": [
-        "beb915ca7d503f8fb9e39d6940e2151ce0edbea0e8b496b584a3ca1529cc4c11",
-        "urllib_ext-2020.5.1.tar.gz"
-      ],
-      "wheels": {
-        "urllib_ext-2020.5.1-py3-none-any.whl": [
-          "d6077bddac2b831e634bedca25d0702f0cc9358fe3bfe527270c9761088b92b2",
-          "py3"
-        ]
-      }
     }
   },
   "usury": {
