@@ -391,26 +391,6 @@
       }
     }
   },
-  "aliyun-python-sdk-cas": {
-    "0.1.1": {
-      "sdist": [
-        "29853ab818f5f6366d9dd571733acdbdc1a135d0f3d30f26acf4993f3df14ad8",
-        "aliyun-python-sdk-cas-0.1.1.tar.gz"
-      ]
-    },
-    "20180713-0114": {
-      "sdist": [
-        "a48ad8dc3dc83d2d19b7b18271f291dbaf4de93ed63ebcd644bd3ae7ac02ecd1",
-        "aliyun-python-sdk-cas-20180713-0114.tar.gz"
-      ]
-    },
-    "2020.4.7": {
-      "sdist": [
-        "2e4761c255540f8ddcf9a88e1ad0e8d31dbf9a83fb51937c3baeefde78e2b60a",
-        "aliyun-python-sdk-cas-2020.4.7.tar.gz"
-      ]
-    }
-  },
   "amiandopy": {
     "0.1": {
       "sdist": [
@@ -23878,7 +23858,25 @@
       "sdist": [
         "d5e80bd6365d75574ffd110d7d5740935ff23303fdf81fa8caa3c1e9aad6a03a",
         "igeCore-0.4.12.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "igeCore-0.4.12-cp37-cp37m-win32.whl": [
+          "8b9f4ac76358019bdca89dbba5df92d2eaf08807d8de5502604769caf96cb891",
+          "cp37"
+        ],
+        "igeCore-0.4.12-cp37-cp37m-win_amd64.whl": [
+          "3128108e766e45bc4d5d2fcaa122fb3514efa47a357aded30791126ee6ebf6f2",
+          "cp37"
+        ],
+        "igeCore-0.4.12-cp38-cp38-win32.whl": [
+          "8ac15a044d85434abf9e276aab71ad46d9e002f55ebbc63cef4243f25733cc8b",
+          "cp38"
+        ],
+        "igeCore-0.4.12-cp38-cp38-win_amd64.whl": [
+          "1847717baba41ba0d772349ba7555bb38cb5693562084354f7a65904a354229d",
+          "cp38"
+        ]
+      }
     },
     "0.4.13": {
       "sdist": [
@@ -23939,6 +23937,34 @@
         "ed206f8056d2e8f0a3ebc5fb731fe25de83390e3a7fe39d85da4048ac3a6ffbc",
         "igeCore-0.4.24.tar.gz"
       ]
+    },
+    "0.4.27": {
+      "wheels": {
+        "igeCore-0.4.27-cp37-cp37m-win32.whl": [
+          "aacd4fdd9c46c4c0914c852d5cbfaa64faae1f5c0900fb34a46d608fb85becd0",
+          "cp37"
+        ]
+      }
+    },
+    "0.4.28": {
+      "wheels": {
+        "igeCore-0.4.28-cp37-cp37m-win32.whl": [
+          "039e22b1ac4a043c3bc9b32efa6a1cafb3131baf1163d16225156ac5e24cbe66",
+          "cp37"
+        ],
+        "igeCore-0.4.28-cp37-cp37m-win_amd64.whl": [
+          "d62268c19fe00f26e8592cbddf351dc49545cd80ecddc92e775bdacfc9809b5c",
+          "cp37"
+        ],
+        "igeCore-0.4.28-cp38-cp38-win32.whl": [
+          "cdbe84fe2639b8b221b5036f4646997d6898729a1318f26a98bbbbad34620364",
+          "cp38"
+        ],
+        "igeCore-0.4.28-cp38-cp38-win_amd64.whl": [
+          "e3d7d1052cd86e004bde68eaca5e8bac1e0c72febb7870c39230c00640825028",
+          "cp38"
+        ]
+      }
     },
     "0.4.3": {
       "sdist": [
@@ -24069,56 +24095,6 @@
         "ilovejkf-0.1.6-py2.py3-none-any.whl": [
           "5064425330e7cd219c70b3c1c2c7137369982e4a676e1365e63809b90d10274e",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "imgoptimizer": {
-    "0.0.1": {
-      "sdist": [
-        "393f60af77a10ec70ccccef8abedc258effca4e7b1650fa17cdc4fbc7edbd79f",
-        "imgoptimizer-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "imgoptimizer-0.0.1-py3-none-any.whl": [
-          "7eef757bb73de0dbaf6dcb0d9a529a031d7ab84b30e0902c155fee3016881c5c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "534a244540ae9c7becd78de1bee607797955261cb144a9177ace3bb0748964f6",
-        "imgoptimizer-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "imgoptimizer-0.0.2-py3-none-any.whl": [
-          "48f236c5e1c6c288d49928f79874d79c723617c44568709aac0a895de62fd91b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "bdc80b5f252f31c29b2bcada64e2c9b81687e5d61eb4e799e3e5aa692ccfbad5",
-        "imgoptimizer-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "imgoptimizer-0.0.3-py3-none-any.whl": [
-          "f70800e2d5175f6b51f87a499129cf7b8be82415b2ddc51721201bf5d62c1708",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "c9238f74bcf71d87d8dedc8eacacae90b2b27067335fc03c15f34c61db9bc89d",
-        "imgoptimizer-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "imgoptimizer-0.0.4-py3-none-any.whl": [
-          "41370b521d847277fd8927f7ed2bc7bac76ad7df92ffb30b62232e4fa95faaf7",
-          "py3"
         ]
       }
     }
@@ -40772,6 +40748,14 @@
       "wheels": {
         "paddleslim-1.0.1-py2.py3-none-any.whl": [
           "37ed8921017b7d4681812303a6939b1e28f983ceff83929a6bf98f0f4a491480",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "wheels": {
+        "paddleslim-1.1.0-py2.py3-none-any.whl": [
+          "60e06eb23719fdc2279962f6970fc6708d7fdedad0ab0413a37da84ae0fdb9a1",
           "py2.py3"
         ]
       }
