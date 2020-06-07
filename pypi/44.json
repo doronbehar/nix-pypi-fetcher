@@ -3355,6 +3355,30 @@
           "py3"
         ]
       }
+    },
+    "1.43.0": {
+      "sdist": [
+        "5810e3123e6321076f69fa77d1e88d6770f1027490c6b5aa6d1e7faf0c8ca2d3",
+        "aws-cdk.aws-ce-1.43.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.43.0-py3-none-any.whl": [
+          "bb6f77a748beb4e3cf909a103b62703407692114d37cc640b645ff75ca650faa",
+          "py3"
+        ]
+      }
+    },
+    "1.44.0": {
+      "sdist": [
+        "abd0f1f31a02743c27d2ea8ed69182f05592b5a5829663231823934be7fcbf35",
+        "aws-cdk.aws-ce-1.44.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.44.0-py3-none-any.whl": [
+          "85737cbc89776aa3b55c70e932c42600dc7e10c5e7b0a5d7dac50eb515fcb6e6",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-deployment-test-utils": {
@@ -3618,6 +3642,18 @@
       "wheels": {
         "aws_ssm_secrets_cli-0.0.8-py3-none-any.whl": [
           "2e2746c276b37ac9c73793eef813b8091ac423925d9b4c65a2a7eab5bb63dd6e",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "5515ddf4bd47a16e7d84bdd82543c87e1f0222e490f602f29dbdfb32ca341c06",
+        "aws-ssm-secrets-cli-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "aws_ssm_secrets_cli-0.0.9-py3-none-any.whl": [
+          "40bc415dfae381741ac5d1282bd511cd4058c4ebae876ed9fd4d362cb304882d",
           "py3"
         ]
       }
@@ -4349,6 +4385,22 @@
         "bark_simulator-0.0.7-py3-none-any.whl": [
           "3308bc1764af51d23524cee529d234e9eaab957656e42e7106c6b9174f9b7673",
           "py3"
+        ],
+        "bark_simulator-0.0.7-py3-none-macosx_10_9_x86_64.whl": [
+          "5669559cfcd7f8bbfd20bbcb3651d442bc0bdd510b3ccf33bf7a5bb24420a20b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "09494315246fcdf326ff4206cb00d9ffcabfc97602539a91b9547cf2cb3dc96f",
+        "bark-simulator-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "bark_simulator-0.0.8-py3-none-any.whl": [
+          "c89043ec518b45ee7d746ba0055309ce69bd551889d5c1a8418ac7e145121ee1",
+          "py3"
         ]
       }
     }
@@ -4832,6 +4884,12 @@
         "biorefineries-2.13.0.tar.gz"
       ]
     },
+    "2.14.0": {
+      "sdist": [
+        "ffafef96f84e75fc2ce718cfd8d51f0d5b537f76045e1cac918ab886fa90ae35",
+        "biorefineries-2.14.0.tar.gz"
+      ]
+    },
     "2.2.5": {
       "sdist": [
         "402bf26a689c62649a24f85b5d6e9fea786217087aeb996706e58f9f851d37e8",
@@ -5242,6 +5300,18 @@
       "wheels": {
         "bleumi_pay-1.0.7-py3-none-any.whl": [
           "4e7b28f47706d0879e6e07d70c3f1bbdef74803154cbbf06ca5dd0f66ff3e57f",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "d44babe84f014290c059499a2df7ae0b02874333ab5aebd089134d2d2ef75597",
+        "bleumi-pay-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "bleumi_pay-1.0.8-py3-none-any.whl": [
+          "828d462b6600f93c7446bc8ed657acce37fa1c534cd2d0014e224318ddc1e2a8",
           "py3"
         ]
       }
@@ -10082,6 +10152,18 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "8057ebcef51e26cac647f0d9891e6b85fe3fb4f19430cb4eba4b4de3f59d8853",
+        "dataget-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "dataget-0.4.10-py3-none-any.whl": [
+          "d89a8c97917fa0a0ae08eabf1a1698f1ee103f999d1bba9bd0187703ce980529",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "bd2e3b0a39cce0e65a2d8882cad64fa3f0907244377dcd43cf96715fab172041",
@@ -13334,6 +13416,12 @@
         "dlib-19.19.0.tar.gz"
       ]
     },
+    "19.20.0": {
+      "sdist": [
+        "a3f5070df590c3f510dde2f4c84b1b20e3ef64a02932ed657da490834ecac7e4",
+        "dlib-19.20.0.tar.gz"
+      ]
+    },
     "19.3.1": {
       "sdist": [
         "0f35259d9da0ed24e3aefb4ad475045d469ffbf6a256dfa26edf59bbd4ac8670",
@@ -13455,6 +13543,42 @@
         "6d8ac7570f516a9292ee9f87b8e3e06b8ca5b34141b556d3bace3f82b0a45db3",
         "dnassembly-0.1.3.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "e58e1bbbaeb471b2c6d4625aaaa3bb4a36dc70c1ffe8aa7489bc5443c31921c0",
+        "dnassembly-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "dnassembly-0.1.5-py3-none-any.whl": [
+          "511b1f561f4d751481e3316b9d685b00a7a8ff37ffb07618409fde11c7912a9e",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "0b3c2e41d03af22399f08063bf9fb11d9501c96b2c4c13874a1aa29878e89f97",
+        "dnassembly-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "dnassembly-0.1.6-py3-none-any.whl": [
+          "1688ff08ba36fbec37e4b2e985aa858d3e434bc4b6194ec7f7bb039f153b0cab",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "626a57b545495846db13771f7e261132ca8de526b8a246bc809276802bb569a8",
+        "dnassembly-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "dnassembly-0.1.7-py3-none-any.whl": [
+          "fa4e7b7261e06699adf5b0269e1eb70668b9a1c0fc12abea2992f26672422716",
+          "py3"
+        ]
+      }
     }
   },
   "dndbeyond-websearch": {
@@ -19875,6 +19999,14 @@
       }
     }
   },
+  "hypnospy": {
+    "0.0.1": {
+      "sdist": [
+        "fab01736446e806e0d2a3dbaa282364b49595890395ff48b606158b5f73ba061",
+        "hypnospy-0.0.1.tar.gz"
+      ]
+    }
+  },
   "iambic": {
     "0.1.0": {
       "sdist": [
@@ -24654,6 +24786,18 @@
         ]
       }
     },
+    "0.21.0": {
+      "sdist": [
+        "2a650dd8eec5a8128b6b6c96d98a60c28d839ca9ba995e35c1c30e86da94dd8f",
+        "jupyterhubutils-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "jupyterhubutils-0.21.0-py2.py3-none-any.whl": [
+          "d75cfca176f37347fb149e3818da195e8168c3fa3497db88d86a0e2e9539d277",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "67a5b870d5b74789bb404cd0cddc55c7d046259116a1357462aaf7a28797a95d",
@@ -24939,6 +25083,20 @@
         "jupyterhubutils-0.8.1-py2.py3-none-any.whl": [
           "66e61ac9b44e3bfda685480bfa0783dd27e844f80d9900e6ce5d669244cb2661",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "jupyterlab-snippets-multimenus": {
+    "0.1.1": {
+      "sdist": [
+        "66b1c042641cee6376f79191a44225b7be423550ee924f19544c62b5f72e013a",
+        "jupyterlab-snippets-multimenus-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_snippets_multimenus-0.1.1-py3-none-any.whl": [
+          "92b8cd72152fa8c1b37c6084263d3b9ca4b9876a8ad5455bed14b2bab5705d53",
+          "py3"
         ]
       }
     }
@@ -25646,6 +25804,18 @@
       "wheels": {
         "lins_dbfields-0.3.1.6-py3-none-any.whl": [
           "55f6ea34348e1f0af8b4bc0967c3b3261297351d6329dccc63d3c9c649737cad",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0.13": {
+      "sdist": [
+        "133ead81c9f29acd8081e4b6148d861d0655468a83773c2f8e31e7a65df36e09",
+        "lins_dbfields-0.4.0.13.tar.gz"
+      ],
+      "wheels": {
+        "lins_dbfields-0.4.0.13-py3-none-any.whl": [
+          "3edb0c2a0d17e4e802d76cfc6b9741e3a0a3d983aa9a9e951f4901acf71ae3c6",
           "py3"
         ]
       }
@@ -28334,6 +28504,42 @@
         "mypy-boto3-schemas-1.13.20.0.tar.gz"
       ]
     },
+    "1.13.21.0": {
+      "sdist": [
+        "9d71e35a885c2d0959f7cd83ddae1581ebf327e94f899eb59ed14b1c1681e2b0",
+        "mypy-boto3-schemas-1.13.21.0.tar.gz"
+      ]
+    },
+    "1.13.22.0": {
+      "sdist": [
+        "ee247fe3fa86d9734af17cd06d3484a70943c7d7db7ba0503e9c44eae5b8e725",
+        "mypy-boto3-schemas-1.13.22.0.tar.gz"
+      ]
+    },
+    "1.13.23.0": {
+      "sdist": [
+        "6e0583a3cec4c8c09f29e3e8017f1487fe8db10d062c7b17d5a596849639d4f0",
+        "mypy-boto3-schemas-1.13.23.0.tar.gz"
+      ]
+    },
+    "1.13.24.0": {
+      "sdist": [
+        "838e19927ad9156ed2ba0e3a5f04976f33fe34980291ec85db0faa6094eba1c8",
+        "mypy-boto3-schemas-1.13.24.0.tar.gz"
+      ]
+    },
+    "1.13.24.1": {
+      "sdist": [
+        "aed454e469d42cb1de14322a01bab6626d6aac8f41cf3fb326d71f74a015c596",
+        "mypy-boto3-schemas-1.13.24.1.tar.gz"
+      ]
+    },
+    "1.13.24.2": {
+      "sdist": [
+        "08afa66819f637814b60d1d20f1840fe1518cb32859db789101cd57e170278a6",
+        "mypy-boto3-schemas-1.13.24.2.tar.gz"
+      ]
+    },
     "1.13.3.0": {
       "sdist": [
         "6949a3c48d1c86c278988d8bef3053866c4838dd43783d6aeaf4af8799eef712",
@@ -29052,6 +29258,52 @@
       "wheels": {
         "NoteShrinker-0.2.0-py3-none-any.whl": [
           "93f224de84018e52fba5b27676648f08b94efb29f8c4c564423945a9cd440290",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nuclyr": {
+    "0.1": {
+      "wheels": {
+        "nuclyr-0.1-py3-none-any.whl": [
+          "173dfd8758a873a0a74d24cf821209621e30a7e097707b03d6d6fa52c54edd64",
+          "py3"
+        ]
+      }
+    },
+    "0.11": {
+      "sdist": [
+        "a8b251061f9be3e16fdbd58597547826907a8888cb9dcca18dfc7d8a842b5f0d",
+        "nuclyr-0.11.tar.gz"
+      ],
+      "wheels": {
+        "nuclyr-0.11-py3-none-any.whl": [
+          "b9882d5decf2abfb1c05b13cda3974a5f32c33bee6a5884c58dc39ea05453910",
+          "py3"
+        ]
+      }
+    },
+    "0.12": {
+      "sdist": [
+        "1ac43b240c2e0718cb26abc88e942b780127038cd25b02f39b5cccec47145f09",
+        "nuclyr-0.12.tar.gz"
+      ],
+      "wheels": {
+        "nuclyr-0.12-py3-none-any.whl": [
+          "655994c88ee6f38cf9265fda2fd981252e439647f8a516c42c99e86ba34192e6",
+          "py3"
+        ]
+      }
+    },
+    "0.15": {
+      "sdist": [
+        "abaed56d9649cbe73edeb4923252e3ee7abf7b81ee0addfdeca9a48726236ef5",
+        "nuclyr-0.15.tar.gz"
+      ],
+      "wheels": {
+        "nuclyr-0.15-py3-none-any.whl": [
+          "1dc29ee4f00263ca2d682336e312975fa0c0a7c1fa22580032680026efd7e6a0",
           "py3"
         ]
       }
@@ -34405,6 +34657,30 @@
         "3eec5c9c889103af60a267dd66a89948d2b25a449fa9aae65bec162eaf96146c",
         "pipelineviewer-0.2.tar.gz"
       ]
+    },
+    "0.3": {
+      "sdist": [
+        "a6c7c0c8c5110a7d7ae15bd900069f7e870af92cac46a44751a324565e15490e",
+        "pipelineviewer-0.3.tar.gz"
+      ],
+      "wheels": {
+        "pipelineviewer-0.3-py3-none-any.whl": [
+          "9ffb0d2f36d009a6aadddeb21c59c70542c79169cf0878ba0fd2ee114e19ae97",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "d97c6e796752c3ddc50c51e49fcdac5745169cef076601c10d8f28c00f6317db",
+        "pipelineviewer-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pipelineviewer-0.3.1-py3-none-any.whl": [
+          "eecdb66be5459a0f134624eadec4e6bfe882a613d3756ff9a173a8e9909b7f4b",
+          "py3"
+        ]
+      }
     }
   },
   "pipex": {
@@ -37713,6 +37989,12 @@
         "65adb99ec1c25f809af49c45cc1c4ce6d6a5f9d9968c2f13d4377c5b7f62ae7b",
         "pychromepdf-1.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "5ab5fcb5eac98f1c5e487e7c76aa086cc5bd8ddbcdecfa5fb9e6888167f1f99a",
+        "pychromepdf-1.0.1.tar.gz"
+      ]
     }
   },
   "pyclam": {
@@ -39665,6 +39947,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.0b1": {
+      "sdist": [
+        "bde0bc03fcfb60f56a2829526988bebc6f3877d6304f6e4ce3720a8e071b935a",
+        "PyOTA-3.1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "PyOTA-3.1.0b1-py2.py3-none-any.whl": [
+          "55fd217588ad2e86afcfcbdebcaeaeefb75f4cfc727319b754bce59823658b55",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pypackets": {
@@ -41169,6 +41463,12 @@
         "e58be2a0a30029812c9ee26883ba9475e1ade430c2a594a0f433426a822e782e",
         "pytest-inmanta-1.2.0.tar.gz"
       ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "2122fac9f4fbbbdc1a137a6ef5346468490d31741691d30be1656186af739226",
+        "pytest-inmanta-1.3.0.tar.gz"
+      ]
     }
   },
   "pytest-ngrok": {
@@ -41224,6 +41524,30 @@
       "wheels": {
         "pytest_reraise-1.0.1-py3-none-any.whl": [
           "8291481e5c9b1581f48390b4f18bc6540d0ca0ffb5f813a4b187159d7c9b16d4",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "fa5c9e6810bdaf67e87744232de1bb83f29aebdb217cc77de4f628dfaeab109b",
+        "pytest-reraise-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_reraise-1.0.2-py3-none-any.whl": [
+          "6d55497ccf51e9f45e02fc8f779687160b5a42636f84608264df8f24906dd6a8",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "f3a13088aa22e549dc43ff85864a7631ed2526245a34f278f77f07f7cbb622c6",
+        "pytest-reraise-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pytest_reraise-1.0.3-py3-none-any.whl": [
+          "b23fa04cbac2efa4e45a8d2a10aa294b368955bc5171e5fea41e9cea44a33377",
           "py3"
         ]
       }
@@ -53581,6 +53905,12 @@
         "f4c30f871014a03ca5d54640a5d45e931993e830c8e35a6394cad6879439d1cf",
         "uptrace-0.1.0b2.tar.gz"
       ]
+    },
+    "0.1.0b3": {
+      "sdist": [
+        "15f34c2c52438bf2a8d2395a2a46f27c166f8da17751b7a13d7bcbf33f5e92b5",
+        "uptrace-0.1.0b3.tar.gz"
+      ]
     }
   },
   "urlunshort3": {
@@ -54641,6 +54971,18 @@
         "311893b1479a6dac28c96c9ef35ee3beca3db96f63eb6120d1658ee4a886c756",
         "wwpdb.utils.cc_dict_util-0.3.tar.gz"
       ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "4847346e4ec9e356b9586e134c6b906b5f76fa1305522c7b159018e75c8d9318",
+        "wwpdb.utils.cc_dict_util-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "wwpdb.utils.cc_dict_util-0.3.1-py2.py3-none-any.whl": [
+          "8771e9413c8139b198ef9c7d983a6962134f2bf1047f5bf80fc2a75995194ba1",
+          "py2.py3"
+        ]
+      }
     },
     "0.3.1.dev1": {
       "sdist": [

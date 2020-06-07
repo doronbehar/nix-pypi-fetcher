@@ -8715,6 +8715,30 @@
           "py3"
         ]
       }
+    },
+    "1.43.0": {
+      "sdist": [
+        "005b3e2ed1c7e59d12eae4ec7e2f38367c69f085a1970f9ed782a9c4ed1b7d65",
+        "aws-cdk.aws-networkmanager-1.43.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_networkmanager-1.43.0-py3-none-any.whl": [
+          "19c5e7b1d86d4e0ce3a06b9b1c9d491ffffe75241483bd64c0f0843b3fe809e3",
+          "py3"
+        ]
+      }
+    },
+    "1.44.0": {
+      "sdist": [
+        "397848e6bfd5dcde842845a5f61a3637a36a9f9ffcf44191a488a61422cb09fb",
+        "aws-cdk.aws-networkmanager-1.44.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_networkmanager-1.44.0-py3-none-any.whl": [
+          "8cab1544371bd05f164773a7608089776de24efaa40edc6a2bdfc1c88bb467e3",
+          "py3"
+        ]
+      }
     }
   },
   "awshelper": {
@@ -14293,6 +14317,12 @@
         "25ab4ffbc0bdfcb8f509d14ee95b3c64bc2a93bcb3f8bd87fc9e94ccc6679671",
         "corona_api-0.8.8.tar.gz"
       ]
+    },
+    "0.9.0": {
+      "sdist": [
+        "65e5b69b18e10caed3a6aabaa3d53af23658f93139752288f8efc5fbba3eaa4f",
+        "corona_api-0.9.0.tar.gz"
+      ]
     }
   },
   "corvis": {
@@ -14989,6 +15019,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "f2b8925b81c586384715b83d646e2e1df21665f8fb824ef4f3fbd91f516f2550",
+        "cwinpy-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "cwinpy-0.3.1-py2.py3-none-any.whl": [
+          "8a4a52ede72e4daeaa83a83dc5d49e41cb2e4a99a9934799c84db66b7221cad0",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cytoflow": {
@@ -15466,6 +15508,26 @@
         ],
         "daltons_tensorflow-0.0.13-cp37-cp37m-manylinux2010_x86_64.whl": [
           "6c9d5d0c0df33d5d144981a47f2a31d395514c89b5d2d9285049eeb926a061c2",
+          "cp37"
+        ]
+      }
+    },
+    "0.0.14": {
+      "wheels": {
+        "daltons_tensorflow-0.0.14-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "60c9f0aad3c56725bd16f48257daff0bf28e64dc92f1f37767a7eece6e692b71",
+          "cp36"
+        ],
+        "daltons_tensorflow-0.0.14-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "699f61ff5f41d4912fd87321a9fbc0de2a118f0852c587c799e5dc510ad70543",
+          "cp36"
+        ],
+        "daltons_tensorflow-0.0.14-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "7213cbf2bf30d3690b897b2190e87a0fe8e52d93d6fb303dd99ea1b72c89b508",
+          "cp37"
+        ],
+        "daltons_tensorflow-0.0.14-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1682539e9e2609248ec906974c2d9c51b47c8dd5108b55ea39d00f06317e330e",
           "cp37"
         ]
       }
@@ -15950,6 +16012,30 @@
       "wheels": {
         "deemix-1.0.11-py3-none-any.whl": [
           "458963ae12a580f69e3530536a764f8ba49db06ddacb3d2e31978bfab10da3b2",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12": {
+      "sdist": [
+        "688ed8677a650537ff1ef05324f30a12b30729ddf834d25adb3b97dea09d7147",
+        "deemix-1.0.12.tar.gz"
+      ],
+      "wheels": {
+        "deemix-1.0.12-py3-none-any.whl": [
+          "11d478e8783567a6a2b7e463aa0276f12d901963dc24199ec65114c161759ba4",
+          "py3"
+        ]
+      }
+    },
+    "1.0.13": {
+      "sdist": [
+        "c69f1cf66279ae0a70d92b93efadcdf1cd63dafe2caaadff7a2ec3841e2c25b6",
+        "deemix-1.0.13.tar.gz"
+      ],
+      "wheels": {
+        "deemix-1.0.13-py3-none-any.whl": [
+          "bffa777d5ba778d16bbc01496fe2bc99983d9437918befa3f7ad04e714b4d4be",
           "py3"
         ]
       }
@@ -19088,10 +19174,16 @@
     }
   },
   "django-starter-configuration": {
-    "2020.6.3": {
+    "2020.5.25": {
       "sdist": [
-        "8620a821d62b8cc784ed32579b5d7b7512336df4231490afe075f61101d2edf1",
-        "django-starter-configuration-2020.6.3.tar.gz"
+        "c41f366ea5b929490354d1971416020fdd2aa25256203d4495838028e3c9354a",
+        "django-starter-configuration-2020.5.25.tar.gz"
+      ]
+    },
+    "2020.5.26": {
+      "sdist": [
+        "5ec249102c56af4c0a0e9d41aabc4687fbc9b1212b497918905f3fcf2d686142",
+        "django-starter-configuration-2020.5.26.tar.gz"
       ]
     }
   },
@@ -19898,6 +19990,42 @@
       "wheels": {
         "dropt_util-0.2-py3-none-any.whl": [
           "08c215f7b016d92ed0054b6d32612649944056cdc712425b9d08e236b19a9f62",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "8be07bcae3ac1812bcefb790d286f33f1acd8c104c056adae5bb5f00c13cfb8f",
+        "dropt-util-0.3.tar.gz"
+      ],
+      "wheels": {
+        "dropt_util-0.3-py3-none-any.whl": [
+          "4985e16210f6ead25ccb735ba5421acd07e9119fbcbea6b1f395f80c4f8342b3",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "0d96055c21f2c3d38613a18795a0ba0311b6b4bd60b67355ad40d046f05e668d",
+        "dropt-util-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "dropt_util-0.3.1-py3-none-any.whl": [
+          "ba399411005b47a310ff6019703af0a9416e0370383fcf8b270c0514b7627b2d",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "2e56025e03ef7722d0d66f521f304142f7f86b8493da25287d0642aa90c36cea",
+        "dropt-util-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "dropt_util-0.3.2-py3-none-any.whl": [
+          "b26ffef6819d32502d55941eeb8d14e8e65cc61906b176204991658f1f381832",
           "py3"
         ]
       }
@@ -20804,6 +20932,30 @@
       "wheels": {
         "eddington_core-0.0.6.dev1-py3-none-any.whl": [
           "b4a3feefa1db470e7ee941ffe7512ba41e9b0d69590565d33af6a93efa8b7d89",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "2b503652a0ae96d74c8652d26944d9a7a293d1a21dba675004059de9e0da6124",
+        "eddington-core-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "eddington_core-0.0.7-py3-none-any.whl": [
+          "fbea944966c2b6da939efc6cddf57a4d9e7ec214daa2d8eece3fa77f881ce469",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7.dev1": {
+      "sdist": [
+        "645880799b8deff1814bdb72a609de22c7a1dc2ca14dfa9b9c2ffe1635860b0f",
+        "eddington-core-0.0.7.dev1.tar.gz"
+      ],
+      "wheels": {
+        "eddington_core-0.0.7.dev1-py3-none-any.whl": [
+          "47064d8a2c3fa54c171c628324148774f80cc6c40fcff99f44c238eb17efc03d",
           "py3"
         ]
       }
@@ -22162,6 +22314,12 @@
       "sdist": [
         "4be9484bb48312c38db05cfce16a0abbcd11af4ab3beb282eec2149f2527a68b",
         "flipper-0.14.0.tar.gz"
+      ]
+    },
+    "0.15.0": {
+      "sdist": [
+        "efca5f1955ed456963d2856f7ccfca8aa0214288264ebb43ccf83d46c9b109aa",
+        "flipper-0.15.0.tar.gz"
       ]
     },
     "0.7.0": {
@@ -26053,6 +26211,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.20200604": {
+      "sdist": [
+        "e1cb4362cb308a6bf568a4a34ae3a371b106d6ffdee477d6e39cc0f0d37bfcfc",
+        "HPI-0.2.20200604.tar.gz"
+      ],
+      "wheels": {
+        "HPI-0.2.20200604-py3-none-any.whl": [
+          "b6cb37c2b2e33236351362d34cc6bb0f1a1f12f2cd9d6015ebcc72651f97d7c3",
+          "py3"
+        ]
+      }
     }
   },
   "hpogrid": {
@@ -26076,6 +26246,66 @@
       "wheels": {
         "hpogrid-0.0.3-py3-none-any.whl": [
           "b5c7888dad7c12eb03081989fde2e4a1034e796ca4801bfe7349789ad060b966",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "d0e39ba73cfae53842efe6178656829a7a853f99faf37e1611b58aabe6c66d3e",
+        "hpogrid-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "hpogrid-0.0.4-py3-none-any.whl": [
+          "14bf33433127be560554f64958b36d9318f7d6a9a2efd09288f2f396984545f2",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "213b291ca3478186deb765f36f00c32df70d2414145beac582dcf7d9e6498276",
+        "hpogrid-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "hpogrid-0.0.5-py3-none-any.whl": [
+          "acb1e0e598d499c39e92ed07eab1c608f7239fff861c6e9001d4b02f1a6976a2",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "63c365401fd2d476a44fe3cacd8e4fa01f8cefd3682468640a085a77cbda67d5",
+        "hpogrid-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hpogrid-0.1.0-py3-none-any.whl": [
+          "ba998bd36a6afad80d7f1092f9577818eb4190ea77eb30a5e19ad7681732bc40",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "5e20c53edc30b78ecb42292d90946a6c64c73e0afd2ec3e8434ba2b9f9580efc",
+        "hpogrid-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "hpogrid-0.1.1-py3-none-any.whl": [
+          "cd57f7b4338470298f8085fadf46d312b852d979e737e107e31a613fa1db7690",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "3e04b87ca056f4545a0561b94c4af39c0e040228d5ef38a303d3e6243549d52c",
+        "hpogrid-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "hpogrid-0.1.2-py3-none-any.whl": [
+          "c5bb0c8ddc91a8b71fbc8a28300338fa4f41e204de2323dac628ce3d57fa5c76",
           "py3"
         ]
       }
@@ -34859,20 +35089,6 @@
       ]
     }
   },
-  "mlqa": {
-    "0.1.0": {
-      "sdist": [
-        "cb140c427d279534a5935c5e4c0307ffebdcc11224ec16992fd95821207d1531",
-        "mlqa-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "mlqa-0.1.0-py3-none-any.whl": [
-          "4e603969a535ab4bf2be5a8ff37604672655c833ea392f593579eeb6adc76eb0",
-          "py3"
-        ]
-      }
-    }
-  },
   "mmf-setup": {
     "0.1.0": {
       "sdist": [
@@ -38048,6 +38264,54 @@
         ]
       }
     },
+    "0.54.0.dev42": {
+      "sdist": [
+        "f9460acb0519fa5f8c69e10f074a9988133f989acf083129433759a71cf5a31b",
+        "mpf-0.54.0.dev42.tar.gz"
+      ],
+      "wheels": {
+        "mpf-0.54.0.dev42-cp34-none-any.whl": [
+          "12f079350dc75e81efddfcbd9ad1b8f069c65860896cf6df80ec801b979819dc",
+          "cp34"
+        ]
+      }
+    },
+    "0.54.0.dev43": {
+      "sdist": [
+        "1d1e108665a4edb28b6550da888ac309bf105e29b0284def22154392c936188b",
+        "mpf-0.54.0.dev43.tar.gz"
+      ],
+      "wheels": {
+        "mpf-0.54.0.dev43-cp34-none-any.whl": [
+          "6e6df0c4897c61a01970b2160558b070e6c46bc0040aa593c9032f35af027da7",
+          "cp34"
+        ]
+      }
+    },
+    "0.54.0.dev44": {
+      "sdist": [
+        "e1f359a624be25c701d224e78c3e2f66b096dde0e21556539bc34a231a5e2082",
+        "mpf-0.54.0.dev44.tar.gz"
+      ],
+      "wheels": {
+        "mpf-0.54.0.dev44-cp34-none-any.whl": [
+          "c273581d7580eceabb33bb5f956ccd956aa62008b6bb772edd9e07b87a946750",
+          "cp34"
+        ]
+      }
+    },
+    "0.54.0.dev45": {
+      "sdist": [
+        "1dfb7b6e86e6135c4ef0109392c3d65970e16ea16c4385f2a7431f210f09080b",
+        "mpf-0.54.0.dev45.tar.gz"
+      ],
+      "wheels": {
+        "mpf-0.54.0.dev45-cp34-none-any.whl": [
+          "ee5e7990f0be95f25f84f71c250a4e3302fb5e3ed18bcf7e14e791bdaa4a2444",
+          "cp34"
+        ]
+      }
+    },
     "0.54.0.dev5": {
       "sdist": [
         "0bd6920a2aacfcf9800a1509618694076811fbf85fd3572eef34a04b9f351645",
@@ -38144,6 +38408,44 @@
       "wheels": {
         "mqtt_coordinated-0.0.2-py3-none-any.whl": [
           "76382fdfab9309c2f2e9d4e185f59acf77feba7bed2e7a45756202a5843235e9",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mreschke-serverbackups": {
+    "1.0.0": {
+      "sdist": [
+        "03aa4a7803e3e4550067a1b5a44dea4c64ac1f5d86db10ddcc3fc1e631e9f23c",
+        "mreschke-serverbackups-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mreschke_serverbackups-1.0.0-py3-none-any.whl": [
+          "9b0ad8c9a9b59238e859d0c579f8d5993793974be8e78d03f7feda505c72f9c8",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "4b8a686dbce1acb2c97b6503c11952a275bb97187857c73cc1b3d9fbd03ac9e3",
+        "mreschke-serverbackups-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mreschke_serverbackups-1.0.1-py3-none-any.whl": [
+          "de371add9a857ea41dfaf03e197f9aee42f33bc989ba40877174fd13a691e9bb",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "43baf48ade24a9d923a25cc77287850ddf3c91eeeafca265e91e5a1d0c23caf1",
+        "mreschke-serverbackups-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mreschke_serverbackups-1.0.2-py3-none-any.whl": [
+          "a2abd68d87576054f7e20e56cb9b012b62838a9024ed56d005cfec3b7ec0e5c3",
           "py3"
         ]
       }
@@ -38468,6 +38770,12 @@
       "sdist": [
         "cf94b77358d19c6d54ceda9ba1827aacbf564bf87a086c412f1d28941a33c4ea",
         "mypy-zope-0.2.5.tar.gz"
+      ]
+    },
+    "0.2.6": {
+      "sdist": [
+        "344b46f1e1cdfe70e00de370acfd8ac8f4b082feed5fbf04f9a81e8057822410",
+        "mypy-zope-0.2.6.tar.gz"
       ]
     }
   },
@@ -41639,6 +41947,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.3.0": {
+      "wheels": {
+        "odoo13_addon_queue_job-13.0.1.3.0-py3-none-any.whl": [
+          "37b58da553f6115dd8a8a21e99410743d45eebfa32c86a14975a68a0b1677df9",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-sale-product-set": {
@@ -42776,6 +43092,18 @@
       "wheels": {
         "OktaJWT-0.3.4-py2.py3-none-any.whl": [
           "b1a05946e19b02d62bdf3e207d4c6e45cf853d3d10da923e0c92f1733b76f9e1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "e0b1508ed98b107bc3407ad0276588f343092e49d9c5bc1f23c09ad683c24065",
+        "OktaJWT-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "OktaJWT-0.4.0-py2.py3-none-any.whl": [
+          "93dd00809fc937aac8b5b827ccb8e448bdb5dfef3780820e55e187c99c04ec9d",
           "py2.py3"
         ]
       }
@@ -43987,6 +44315,18 @@
         "a6091a4d64a1f51c4d15a31d1a908d074477154b3dcfbc0b3e1e5866a1f29624",
         "passcat-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "090023ad56f36df78438bfb8c9a9eeb26ab5416b13f1211cc6a2346b649c663b",
+        "passcat-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "passcat-0.1.2-py3-none-any.whl": [
+          "831510e3979bfa0d009fde29bd779c2e2c71e505f71a42222e4f45ee984cff3d",
+          "py3"
+        ]
+      }
     }
   },
   "pdfhandoutcrop": {
@@ -60973,6 +61313,18 @@
         "8e69ba05940dd3551cc01347933e6b5583f246efb0bf30289eb5b1b6a427b5f0",
         "tgutils-0.2.29.tar.gz"
       ]
+    },
+    "0.2.31": {
+      "sdist": [
+        "19eedc3ea1501664d0682077225978700182326a079766fe6dd53325511aca8f",
+        "tgutils-0.2.31.tar.gz"
+      ]
+    },
+    "0.2.32": {
+      "sdist": [
+        "73182fb21b817eeb806047863aab99489a13c89b2377e10307e0bbe14774cf3f",
+        "tgutils-0.2.32.tar.gz"
+      ]
     }
   },
   "theo": {
@@ -61775,6 +62127,30 @@
           "py3"
         ]
       }
+    },
+    "0.4.5": {
+      "sdist": [
+        "8a9184db83167f73948369626c9010a0f3e01925e3c05e6175246a4dc11c68fd",
+        "torchtrain-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "torchtrain-0.4.5-py3-none-any.whl": [
+          "9d9d79a2b02ee885609f81a1b55d04eb4bdf0f89316d892d389d8d5a54f93c51",
+          "py3"
+        ]
+      }
+    },
+    "0.4.6": {
+      "sdist": [
+        "e2ed06d9ce6753ef8baff262fae8e5b8b8372c51af9ddda00961df7e98385ea9",
+        "torchtrain-0.4.6.tar.gz"
+      ],
+      "wheels": {
+        "torchtrain-0.4.6-py3-none-any.whl": [
+          "d46838b3496efc53784fb695d6682e2bb54e0d1bbdff3315ac19d7651d49aa19",
+          "py3"
+        ]
+      }
     }
   },
   "tornado-prof": {
@@ -61984,6 +62360,14 @@
       "wheels": {
         "translators-4.5.8-py3-none-any.whl": [
           "0bb764af6f44ac51d174b0fbc47f9c18c17a835514a7816b26111201c32c7754",
+          "py3"
+        ]
+      }
+    },
+    "4.6.2": {
+      "wheels": {
+        "translators-4.6.2-py3-none-any.whl": [
+          "ff7b3d37b387764605b8cfebdc9e1963bc5565c40655c2fa9434a198a4c0e501",
           "py3"
         ]
       }
@@ -63782,6 +64166,18 @@
       "wheels": {
         "uproot-3.11.6-py2.py3-none-any.whl": [
           "63618f14e8653ac1af27765b6162d918bc6853e7a6d3bef3e8295d76a7992ec1",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.11.7": {
+      "sdist": [
+        "3fbf9dfe5ce996ffda3a49d16eba804b95fb05bc041fc4e7bc05317a03bf6cba",
+        "uproot-3.11.7.tar.gz"
+      ],
+      "wheels": {
+        "uproot-3.11.7-py2.py3-none-any.whl": [
+          "058434ff193399de9c5a7ddecde170a9c6f8f31263b0a98af2d893dd28e53585",
           "py2.py3"
         ]
       }
@@ -66880,6 +67276,12 @@
       "sdist": [
         "c9d439aff514ccf8183ad17ed3cb597b298dcee27261726285e17800c5d97084",
         "yt_videos_list-0.3.9.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "25849de1cab0a48f727bdc81efc475cafa819ef08cc6d8e0f39109e10695a170",
+        "yt_videos_list-0.4.0.tar.gz"
       ]
     }
   },
