@@ -11527,6 +11527,14 @@
       }
     }
   },
+  "distributions-na": {
+    "0.1": {
+      "sdist": [
+        "c2710a45f5364a36a5bf590c96de37ae26e831eafd56d30fc602d9d6364737fe",
+        "distributions_na-0.1.tar.gz"
+      ]
+    }
+  },
   "diu": {
     "0.0.4": {
       "sdist": [
@@ -15218,6 +15226,12 @@
         "dnn-0.3.5.18.tar.gz"
       ]
     },
+    "0.3.5.19": {
+      "sdist": [
+        "64e1eef2cbc14e9d0ac841edafb2523194a30181dd574913c36de66bf7d1bad4",
+        "dnn-0.3.5.19.tar.gz"
+      ]
+    },
     "0.3.5.2": {
       "sdist": [
         "1e90b0cdeb05fee3cf141da13fe19d46d6d523ac2e0faee9c853afabffbcde63",
@@ -15534,6 +15548,12 @@
       "sdist": [
         "f72280dea5d3a75ffcc5f072bca938d4637d05d989d20bc398c01203f9287085",
         "dnn-0.3a9.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "85ae781e99a6fe78402c02b861b66cafd5cbf1f7bd33237ad0e8162bb4f603b0",
+        "dnn-0.4.0.tar.gz"
       ]
     }
   },
@@ -35079,6 +35099,18 @@
           "py3"
         ]
       }
+    },
+    "1.14.9.0": {
+      "sdist": [
+        "6d17fd7cc32fe61faa6ff8480aa86af2703cfc07ca1b8072402f15a4479b14bc",
+        "mypy-boto3-datasync-1.14.9.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_datasync-1.14.9.0-py3-none-any.whl": [
+          "b1dc26b91c67d5f88104b0bb8da108f15e28c265b5ca9a58123533d472d4825d",
+          "py3"
+        ]
+      }
     }
   },
   "myrcella": {
@@ -35292,6 +35324,18 @@
       "wheels": {
         "napari_aicsimageio-0.1.1-py2.py3-none-any.whl": [
           "72e8a4ac4d3dff569686d39ea6bdcd60158dbe64eab0d83685f799a7999e870e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "52da28c7c19b3593adec00c8bee1f991f379205586449d30c33fc56b1ed89bae",
+        "napari-aicsimageio-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "napari_aicsimageio-0.1.2-py2.py3-none-any.whl": [
+          "ee60bc3d982583edf7a92abd3c5568c01e33d88d1ffc70d669b88e53868343e9",
           "py2.py3"
         ]
       }
@@ -47656,22 +47700,16 @@
     }
   },
   "ricks-amdgpu-utils": {
-    "3.2.2": {
-      "sdist": [
-        "511e22b0c46f9fa85c5ec001821e22f3c4ca3b46077fd4a920e948c62f51e2eb",
-        "ricks-amdgpu-utils-3.2.2.tar.gz"
-      ]
-    },
-    "3.2.3": {
-      "sdist": [
-        "d46390a113326108867a773d598d747645465cb46d5d9cac6495f77967c87257",
-        "ricks-amdgpu-utils-3.2.3.tar.gz"
-      ]
-    },
     "3.2.4": {
       "sdist": [
         "36c1c23152abf18595b366a0135a24d36785d9ecb83baf18e6d250c1f8943a0b",
         "ricks-amdgpu-utils-3.2.4.tar.gz"
+      ]
+    },
+    "3.3.0": {
+      "sdist": [
+        "afd993fb047601a2e3efea8e7f90d7804c3d1cd541149381603fa116102fce1b",
+        "ricks-amdgpu-utils-3.3.0.tar.gz"
       ]
     }
   },
@@ -51944,6 +51982,74 @@
         ],
         "snowflake_connector_python-2.2.7-cp38-cp38-manylinux2010_x86_64.whl": [
           "d4d8e4e9555a48557b41107d39b3211ae6877e2e7169f6cac70dac5533ac083f",
+          "cp38"
+        ]
+      }
+    },
+    "2.2.8": {
+      "sdist": [
+        "fdc8e857ea5166a0bd2a34f9c7b3e4cd388c45f2d24bf92ada6d8e0250dbd546",
+        "snowflake-connector-python-2.2.8.tar.gz"
+      ],
+      "wheels": {
+        "snowflake_connector_python-2.2.8-cp35-cp35m-macosx_10_12_intel.whl": [
+          "16af5250deac3414a8cf9abaa9486030b5b31653f96fb7ff21cdffb7ca56ce60",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.2.8-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e45e92e619077a6edd369013334ee566024f77eef2e1e19d878fc96ba662f81d",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.2.8-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "117d4d7dc39238bab80c6016f7ea21ad27e0a7e8cf2512a4df523e92ea8eaf7e",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.2.8-cp35-cp35m-win_amd64.whl": [
+          "2c80fbb95f2341b5b739608e2b31c27ad437101f1a0b31aa42c2ddc2b96d8873",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.2.8-cp36-cp36m-macosx_10_12_x86_64.whl": [
+          "2b72913f23da486805a4d7e41b27656d6ed420f49b087bf1b7d37bac312b3d27",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.2.8-cp36-cp36m-manylinux1_x86_64.whl": [
+          "bf0be8f7929c82b98f6374a8209ef7017364c638b64be72c4e832bfa1c1dd39b",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.2.8-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "6e222fe77c488521fedddddff9bffcfae3829ff509afc5564a06162e8da928af",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.2.8-cp36-cp36m-win_amd64.whl": [
+          "a2b8c37735d38721453fb39fef865605eaa33bef26b3b8aafa518ba25debbbd4",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.2.8-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "a93b66c17e66f5e264120acbc1649a1a1abc7055d23f815061c5166a9ea724cf",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.2.8-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ccde3cfbad1d2159f57a3c4d419a8286c39dac259f4722e5cf0097d592aed9a2",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.2.8-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9655c009497723c75f580499c2bd6f3ed6812a7bdad3f9712c23ffcd4728830a",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.2.8-cp37-cp37m-win_amd64.whl": [
+          "42cbf6b861224b2c46dace462710040f6865a1aab95f66e806a9b10ccc45585d",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.2.8-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "f457bb87ff012374de24574e24e90882cdc7c9a45f54e034e65b3720d0503356",
+          "cp38"
+        ],
+        "snowflake_connector_python-2.2.8-cp38-cp38-manylinux1_x86_64.whl": [
+          "cbde7e776a1b7fe2f89931c0ab3948ddf6b6b35b228296d922c700830f985a8c",
+          "cp38"
+        ],
+        "snowflake_connector_python-2.2.8-cp38-cp38-manylinux2010_x86_64.whl": [
+          "63ba465b09c459118025432a358f0cb9302cc248ba74c89eafeec67df87cf611",
           "cp38"
         ]
       }

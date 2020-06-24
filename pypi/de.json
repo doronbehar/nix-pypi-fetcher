@@ -12949,6 +12949,14 @@
       ]
     }
   },
+  "distributions-perl": {
+    "0.1": {
+      "sdist": [
+        "0b34423b4787e88701e0949bb11f582f62da99599ce78f3eb80f18017c992d6c",
+        "distributions_perl-0.1.tar.gz"
+      ]
+    }
+  },
   "dj-anonymizer": {
     "0.1": {
       "sdist": [
@@ -35577,6 +35585,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.0rc1": {
+      "wheels": {
+        "monai-0.2.0rc1-202006231908-py3-none-any.whl": [
+          "8c99670f847e8937313f4ce3608a2b5d08979e81b2db3865fc4560d1ae6e81c5",
+          "py3"
+        ]
+      }
     }
   },
   "motils": {
@@ -37347,6 +37363,18 @@
           "py3"
         ]
       }
+    },
+    "1.14.9.0": {
+      "sdist": [
+        "5b56658e88aac3c29801764d2f4976b2ca77c3c4d37b7b99ce52ab97b38e2961",
+        "mypy-boto3-rekognition-1.14.9.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.9.0-py3-none-any.whl": [
+          "36b58bebae033225e91d89c457cc2a2d246c7e8955e2320ed6839fe4fe380e47",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-route53resolver": {
@@ -38662,6 +38690,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.8.0-py3-none-any.whl": [
           "c1f2eb3040f6b5541c63b4c6c5c6afc3f40a5d6f26a9b760f7e99fd43c36b6c5",
+          "py3"
+        ]
+      }
+    },
+    "1.14.9.0": {
+      "sdist": [
+        "20214a46eb3cc8506844dd9cbdb43bfc5460dac633596719097c2c8b0f318543",
+        "mypy-boto3-route53resolver-1.14.9.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.9.0-py3-none-any.whl": [
+          "53d6e169e9a3f33aaae92f18fdca2e68c531e0e6bac5a6fc7fd4ccd6654cb6de",
           "py3"
         ]
       }
@@ -43104,6 +43144,18 @@
     }
   },
   "opentelemetry-ext-aiohttp-client": {
+    "0.10b0": {
+      "sdist": [
+        "0f63f0489a0b5d524fa07e4e06c09c36c584284035911c87033ae3ed3894700f",
+        "opentelemetry-ext-aiohttp-client-0.10b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_ext_aiohttp_client-0.10b0-py3-none-any.whl": [
+          "16a609d296e44ffcba762cbd36fcf40fb19ead1017f280a0ee75cbacd0cd3602",
+          "py3"
+        ]
+      }
+    },
     "0.7b0": {
       "wheels": {
         "opentelemetry_ext_aiohttp_client-0.7b0-py3-none-any.whl": [
@@ -66988,16 +67040,32 @@
           "76316bf6f52edb78275dde4af4c7230226d0ee10be752baa07340531148afb26",
           "cp35"
         ],
+        "tf_nightly_gpu-2.3.0.dev20200623-cp35-cp35m-win_amd64.whl": [
+          "a4a5195ab6b5a171f031364cc0b4144b53b4a29df989dcc1082473aec335defc",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.3.0.dev20200623-cp36-cp36m-manylinux2010_x86_64.whl": [
           "36048d0edd392ff3cd301c2105fec8958f24e24677fd600016dcf73cdd8da414",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200623-cp36-cp36m-win_amd64.whl": [
+          "de6066e16cd2de60aa1f8f1a6beec68f8cd9b9770d13846301923f2e0ecd6e20",
           "cp36"
         ],
         "tf_nightly_gpu-2.3.0.dev20200623-cp37-cp37m-manylinux2010_x86_64.whl": [
           "f5fef20e3ca2fe792d58754a658f2a9885d3b8916a0cf5544aee8fa807fa852e",
           "cp37"
         ],
+        "tf_nightly_gpu-2.3.0.dev20200623-cp37-cp37m-win_amd64.whl": [
+          "c03e7086b52cd07dc3374721c9d8766c15e22b7705b73e73aab7ea87ec831b87",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.3.0.dev20200623-cp38-cp38-manylinux2010_x86_64.whl": [
           "a5bdedea39eca8d7cc266b8ddf2657cf9e458cf1efed0ee35435c5d0c523e22c",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200623-cp38-cp38-win_amd64.whl": [
+          "79217382205ece3412700afce498fdc539b258687bbff5c43da81460004dbaf5",
           "cp38"
         ]
       }
@@ -69640,6 +69708,18 @@
       "wheels": {
         "wagtail_linkchecker-0.5.1-py3-none-any.whl": [
           "d51735637fb3c4ae809902ab711ba31d6205045c461205aafc053cebec3ce97b",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "4d40afe3a5f64f6635ca1f6f778c3ba3e030322e01302b11bbaa0c68b587c816",
+        "wagtail-linkchecker-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_linkchecker-0.5.2-py3-none-any.whl": [
+          "41d3cb1af3c4890d0f15fce26d504b92053acc8207c76e0354711ded103ef832",
           "py3"
         ]
       }
@@ -72321,6 +72401,32 @@
         "873326a94ca966cfc911974c4b9f47440fc991aa788841d5117ea3c9249f08f6",
         "zsharp-0.60.tar.gz"
       ]
+    }
+  },
+  "zthreading": {
+    "0.1.0": {
+      "sdist": [
+        "6c1405cec5d15e0f6dd52345e4b479d498f744982bbb4518a14046b8c165ec12",
+        "zthreading-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "zthreading-0.1.0-py2.py3-none-any.whl": [
+          "e95faf2c399f0bf0db1dd4a4294bbf28fdfe837cc879602ca26dd0065c354279",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "e0792c1cd2ca7a295082073760f225c29f4fac6172a02f1cfa9dd595988bf9c0",
+        "zthreading-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "zthreading-0.1.1-py2.py3-none-any.whl": [
+          "b7104520b56e15c5f77745ea1d35e2b8a152e8f1a5f0ee0d16a217b2964319d2",
+          "py2.py3"
+        ]
+      }
     }
   },
   "zucked": {
