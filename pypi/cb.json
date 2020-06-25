@@ -1634,6 +1634,18 @@
         ]
       }
     },
+    "2020.6.24": {
+      "sdist": [
+        "41578d883fc2e193c9b9a3bdbf36583022ecd1b14054a0931de7e4453d91fcc2",
+        "apache-airflow-backport-providers-microsoft-azure-2020.6.24.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_microsoft_azure-2020.6.24-py3-none-any.whl": [
+          "ba0b589b797e678f9187f5084fe303182d7b4ba67db01029fda8bfe9c3da23c4",
+          "py3"
+        ]
+      }
+    },
     "2020.6.24rc1": {
       "sdist": [
         "a0873254f877b5ad57118d829986355a1eb417753dfc14fa5ca55ae946b155ed",
@@ -1680,6 +1692,18 @@
       "wheels": {
         "apache_airflow_backport_providers_postgres-2020.5.20rc3-py3-none-any.whl": [
           "22970b0e11a7075af24a63dae028fc6bff32fc80a6e5c25f473d34ed13523ca4",
+          "py3"
+        ]
+      }
+    },
+    "2020.6.24": {
+      "sdist": [
+        "1a65cef86d9601fd89068ede00153c54a1ead5be7ef7a37173205d844aa0848b",
+        "apache-airflow-backport-providers-postgres-2020.6.24.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_postgres-2020.6.24-py3-none-any.whl": [
+          "2faa5804c98506e3989a13e4294b89e9bd4d10d9a6c4099e25ff7db0af5e76f4",
           "py3"
         ]
       }
@@ -3614,6 +3638,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.46.0-py3-none-any.whl": [
           "719bf69b0ff6cbd0d3e7c86299f96443c202bc7e15b5b65c67d93ef6ce4c4816",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "362d9404549c1c95cf76c802c2484193a4b60c34af8aecf113558ef9218c21e8",
+        "aws-cdk.aws-dlm-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.47.0-py3-none-any.whl": [
+          "5a4685727a8feb21d5559c63b65d6ac9e4fb9784fcb396ea32cde9b3f595be40",
           "py3"
         ]
       }
@@ -51960,7 +51996,25 @@
       "sdist": [
         "16a6c1d3633e3560a40cfaddc77714187881f7699fcbf8f27d67f4c28e6466b6",
         "pydexcom-0.1.6.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pydexcom-0.1.6-py3-none-any.whl": [
+          "9bf59625f4a8576420ed1850aeded2d4f77f1404818dc954be2b47818cb2d5ff",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "e0d6ca22d0e145c515f56490ad642a18fde02f920541f73c109cd45eadaea115",
+        "pydexcom-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pydexcom-0.2.0-py3-none-any.whl": [
+          "17ee3941c974df7f4e7fb5604e4b2e4fbeb5929eaf3f886645985bff9dd587aa",
+          "py3"
+        ]
+      }
     }
   },
   "pyema": {
@@ -56730,6 +56784,20 @@
       "wheels": {
         "romanify-0.0.8-py3-none-any.whl": [
           "9549d491362b21aa4468110e2ec297db7d3c984b15ec7142b99ff0c3643dd5c2",
+          "py3"
+        ]
+      }
+    }
+  },
+  "rpaframework-core": {
+    "0.1.0": {
+      "sdist": [
+        "59bda5d4e1240f2b2303b3d5cdb281ef6816f9e7f378e7096b581f9d0971c653",
+        "rpaframework-core-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rpaframework_core-0.1.0-py3-none-any.whl": [
+          "f4711e52fc8b89286983573923590756d267c9188e5aa98b19a52699cbeaab42",
           "py3"
         ]
       }
@@ -68912,6 +68980,54 @@
         ],
         "tf_nightly_cpu-2.3.0.dev20200623-cp38-cp38-win_amd64.whl": [
           "819e69d218365b931835013d216d569d40f456f21eaed6346fe969effe40c01a",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0.dev20200624": {
+      "wheels": {
+        "tf_nightly_cpu-2.3.0.dev20200624-cp35-cp35m-macosx_10_6_intel.whl": [
+          "036bf2dc91cb279fd4411230b64e076112af72ef0ba5b869684f29f26a4935e4",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b8e6fd00e404765cd03a80a70926b1f6136b901952c8c5f43407b573e3e2b020",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp35-cp35m-win_amd64.whl": [
+          "10e9434c53272cb86af5a093fa6fb71cd96aa5af28de6b39b420898084384b11",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "96a55097edb043c30d9bc83fed8d3d362e71036ff82521a0b4c65097ee622720",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "80edf41478f39689779b7d07b5a459dec2088347b0aff356c90ac74243dbb831",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp36-cp36m-win_amd64.whl": [
+          "ac795223fc4f450f701032aedcab0897ca42d84e2c39c568d7a574b85f31db02",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2e6da45ff5d3093968e9b71e9bf8365d57115cd99a80074eacc8f47164a519e7",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f23ccd35c5fb8ace42640df558fde1f41f67d126beed2c4b74af698cfc735dc9",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp37-cp37m-win_amd64.whl": [
+          "c448ac15fb460ecca85cec833bf663d2442461b5b827f130bb68d036f501fc79",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cd61df18274bc6db1b8f63fbdce75435caf72a07851647c10daabef08c6f82e1",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.3.0.dev20200624-cp38-cp38-win_amd64.whl": [
+          "d3ea17004c140f49c7377af281e97e1f9d563de75b5cb14172cd056142d0d3cb",
           "cp38"
         ]
       }

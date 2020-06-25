@@ -2011,6 +2011,18 @@
           "py3"
         ]
       }
+    },
+    "1.47.0": {
+      "sdist": [
+        "991b7f9cbbbbbcbce05ed03c69727986bda01056b98d1ab46452f8dec7dd9788",
+        "aws-cdk.cloudformation-include-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cloudformation_include-1.47.0-py3-none-any.whl": [
+          "8a5b720eabe1e402aed3f23de3e3940df15a1c463e2d381773524702ce0b16f8",
+          "py3"
+        ]
+      }
     }
   },
   "aws-sqs-alert": {
@@ -2252,6 +2264,12 @@
       "sdist": [
         "10402f7f401652298ed5eb896997b0258773e93a9568440e98b5699aa7b77390",
         "b2sdk-1.0.2.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "b76c92afd9cdc3e8ce664e3d85aaab16bedd5207c22733534a752950af3e5dca",
+        "b2sdk-1.1.0.tar.gz"
       ]
     }
   },
@@ -33106,6 +33124,18 @@
         ]
       }
     },
+    "1.14.10.0": {
+      "sdist": [
+        "bb280e74ca43f4cb85e84a85799a226f2a84d488d77c6c3f0ae4bffa85f6d1d1",
+        "mypy-boto3-opsworks-1.14.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_opsworks-1.14.10.0-py3-none-any.whl": [
+          "cfc42d9f0a62482aa9b5d50912b986eb87392bf4af3d88cd89539a4763ff930b",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "81f66877ccf8f0ce9cf7c53a11590377a9bbb0cfac9e034338376ed19680a0d0",
@@ -36490,6 +36520,14 @@
       "wheels": {
         "odoo12_addon_hotel-12.0.1.0.0.99.dev13-py3-none-any.whl": [
           "a978b92b21ebb216d509fb19f9e29239b8147126fe7a9c679456297ae88e5a41",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev15": {
+      "wheels": {
+        "odoo12_addon_hotel-12.0.1.0.0.99.dev15-py3-none-any.whl": [
+          "94154fb7d7a734eb62f14304764df8d6ffc8fe718305804db9b455aa52a96354",
           "py3"
         ]
       }
@@ -51334,6 +51372,98 @@
         ],
         "PyMuPDF-1.17.1-cp38-cp38-win_amd64.whl": [
           "844998ee720fae8ed743164acbbd6ecc9bb938ca68c342d5afc7f3a4a850bc73",
+          "cp38"
+        ]
+      }
+    },
+    "1.17.2": {
+      "sdist": [
+        "ba2932e784b76a688347c475214229eebe9926ae3cc74efb3d2773068d9bc4b6",
+        "PyMuPDF-1.17.2.tar.gz"
+      ],
+      "wheels": {
+        "PyMuPDF-1.17.2-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "f2a194ead1a1d8ae1b6dc5e1750847e74ba141d4bb80b1d1fe83ec5b660eda87",
+          "cp27"
+        ],
+        "PyMuPDF-1.17.2-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "c2850554db7218e251dd7eb1f7e6fcffde04965ed4759b45c6bf0e3f1713be5f",
+          "cp27"
+        ],
+        "PyMuPDF-1.17.2-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "be33793177b486a43a6fdc88f8003f030bc40989deb92e8f3ba180a362d18aa2",
+          "cp27"
+        ],
+        "PyMuPDF-1.17.2-cp27-cp27m-win32.whl": [
+          "bb765209a93a0982506a6bf49bd9888ec9aca2d7bfd32de5d90f0e405c84c067",
+          "cp27"
+        ],
+        "PyMuPDF-1.17.2-cp27-cp27m-win_amd64.whl": [
+          "969272275fa21b1e5136ac51a323c6f803d8f295608ba53d3dae0cd323d49255",
+          "cp27"
+        ],
+        "PyMuPDF-1.17.2-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "42418929f02604a1d0e4126600915469c470cb4d3d749a505c7445d8afb852a7",
+          "cp35"
+        ],
+        "PyMuPDF-1.17.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "f27479b916fecfff0df6a3d9fb9786538a4f12370eda3930e3e72a6c084072af",
+          "cp35"
+        ],
+        "PyMuPDF-1.17.2-cp35-cp35m-win32.whl": [
+          "e83b5444c9dfd5a02003540b5fb6159371ebc7c8f15bc81493cfa2f83940bafe",
+          "cp35"
+        ],
+        "PyMuPDF-1.17.2-cp35-cp35m-win_amd64.whl": [
+          "3b19455441a01d98b6f059064cf8405065e39d3ba9b00e324e5954564880c59a",
+          "cp35"
+        ],
+        "PyMuPDF-1.17.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "09be5420f4ac0ec03bf0eb3bf00df719b14f831d3b36362ef8e190a16c3512a3",
+          "cp36"
+        ],
+        "PyMuPDF-1.17.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0ea03ae81eaf174c47220d757f40b8b5e30bc189ca97123f9b749a5d031120a9",
+          "cp36"
+        ],
+        "PyMuPDF-1.17.2-cp36-cp36m-win32.whl": [
+          "fcb8c5828a851f93acfb682c27da6dc9f2e0d1a296c798b10e8f1551c3e8e370",
+          "cp36"
+        ],
+        "PyMuPDF-1.17.2-cp36-cp36m-win_amd64.whl": [
+          "e5492fbfbb361d5936e2e1ccd58e98e94641edf54d76a5ff5e7c047fd5496adb",
+          "cp36"
+        ],
+        "PyMuPDF-1.17.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4e392793153ca9099db27f73fbd2886a07d83baba6e38b43474c2c1d7148217b",
+          "cp37"
+        ],
+        "PyMuPDF-1.17.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0e69222434c64e159345d0bbe5b09832afe9ce1c68930e633a46fe6d9b057d60",
+          "cp37"
+        ],
+        "PyMuPDF-1.17.2-cp37-cp37m-win32.whl": [
+          "62bb7e3ee6fd17d96fc12a0cbac5367416b1f032c4889e9f063eeff01977ad0c",
+          "cp37"
+        ],
+        "PyMuPDF-1.17.2-cp37-cp37m-win_amd64.whl": [
+          "23cf13121f3ea4af1f008632e03eaa4d4468a9d799e577c52a2f63d3ed7b7aa3",
+          "cp37"
+        ],
+        "PyMuPDF-1.17.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "e7a38afb4e95e7101c7f8a3a81784fd048df09f31e530b90c367e19c9b390866",
+          "cp38"
+        ],
+        "PyMuPDF-1.17.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "45807e4f0662021a5aa1a4e834d45aa3cd1ac729b329b200df65d4d59bdb48c4",
+          "cp38"
+        ],
+        "PyMuPDF-1.17.2-cp38-cp38-win32.whl": [
+          "cfdb3926c90c3c6188cf89e65c93637acb6c84fc6e2ea7e09d396cda79087b0a",
+          "cp38"
+        ],
+        "PyMuPDF-1.17.2-cp38-cp38-win_amd64.whl": [
+          "90b796ecd22dac13a4e7bf2bbddaeb7be180887b5b70cdffa3e5c9b6246806fe",
           "cp38"
         ]
       }

@@ -1112,6 +1112,18 @@
         ]
       }
     },
+    "2020.6.24": {
+      "sdist": [
+        "ba2f556ee17846cbf745f6ad0273cd1c02ddd78db884f2bf69cafd734373ef3d",
+        "apache-airflow-backport-providers-apache-hive-2020.6.24.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_apache_hive-2020.6.24-py3-none-any.whl": [
+          "fec7d4bc4c9ac2553b17e56ad41a747bb0829f8fc3135fc4b341470df48d630d",
+          "py3"
+        ]
+      }
+    },
     "2020.6.24rc1": {
       "sdist": [
         "f39845e6d14343e88ed72df97e2efc8c3a71d11d008ed04248c0933a321a7f18",
@@ -2842,6 +2854,18 @@
       "wheels": {
         "aws_cdk.aws_autoscaling-1.46.0-py3-none-any.whl": [
           "ebc4e186972306db88120d320c0e1214d12a8809729ea07db47849ae471e6b52",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "c6354df4525078227d183e5a6a59b0c757edd2fed8449788828240ae677a163b",
+        "aws-cdk.aws-autoscaling-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscaling-1.47.0-py3-none-any.whl": [
+          "7483341a0cad62c48bd066ba4886f5e0eb34a7fcebf690290f16b253d5531b25",
           "py3"
         ]
       }
@@ -6181,6 +6205,18 @@
           "py3"
         ]
       }
+    },
+    "1.0": {
+      "sdist": [
+        "94eeaba9f58f4d12dbf0b04755a04975f6323715551022ee90148f3b0991659b",
+        "char-collection-1.0.tar.gz"
+      ],
+      "wheels": {
+        "char_collection-1.0-py3-none-any.whl": [
+          "61245f7f4ae9704e08000b15f51e0e8a5b9b917346c1e9cdfc34b635bbfee7ac",
+          "py3"
+        ]
+      }
     }
   },
   "chara": {
@@ -8659,6 +8695,42 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "0f2c560f3f8dc7e63bd762d29df5eb4e6d007a8f0efd264e00e43e70f6047d82",
+        "cssaw_central-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "cssaw_central-1.1.0-py3-none-any.whl": [
+          "c6bc6802f1281127ef5892eed548377ab05265ca814a183cf8c241fba88a426d",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "77b13b25eada57d9e78056799da8d69f2b756f3419c18564dab623df892afed3",
+        "cssaw_central-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cssaw_central-1.1.1-py3-none-any.whl": [
+          "03cd4d1d96efecb1b200596e104d28b71afdf0f53bc1ffabc5210ebd028ee1d0",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "bcd73aad467da0fe7b35578c042c47b904e6444bf0ea6f432c46e405b0de4692",
+        "cssaw_central-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cssaw_central-1.1.2-py3-none-any.whl": [
+          "191afc71fa79cc13276de86476a8c134fc5cf0075606b073caa02131fa13f4ef",
+          "py3"
+        ]
+      }
     }
   },
   "csv2anki": {
@@ -10852,6 +10924,18 @@
       "wheels": {
         "dagster_celery_nightly-2020.6.23-py3-none-any.whl": [
           "b9473edb5f554727215b71fb710af1bef74c1407c3d1bd0fb9393e9dffad3ea9",
+          "py3"
+        ]
+      }
+    },
+    "2020.6.24": {
+      "sdist": [
+        "2e65ca2c3ae4bb778306c5994a1d8a7a6839fe28ff0ce0eff029e80ac79b7835",
+        "dagster-celery-nightly-2020.6.24.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery_nightly-2020.6.24-py3-none-any.whl": [
+          "ced3405ffbdacd1c5239529102470c6259fdbb9b844ba43f573153f01fde7dad",
           "py3"
         ]
       }
@@ -21489,6 +21573,26 @@
           "cp38"
         ]
       }
+    },
+    "2.0.2": {
+      "wheels": {
+        "httpstan-2.0.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3ef527b8c629744976ee7a4111f0560904d80e5b56148c5cdbe71225d356dcdb",
+          "cp37"
+        ],
+        "httpstan-2.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "2f4322780e4fc0564a178da71e7b290f57f769028dc49de1b5e271a6b39c42c2",
+          "cp37"
+        ],
+        "httpstan-2.0.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "d63c7e4dbd5d36e0d5e206e20613187ef97c5484da90cce0026e500e6978e62b",
+          "cp38"
+        ],
+        "httpstan-2.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "7a2f68dbb0c6df5f62ee2bd68dca43fe594fcc22114e64c27759df710de2125e",
+          "cp38"
+        ]
+      }
     }
   },
   "huaweicloudsdkcore": {
@@ -24399,6 +24503,18 @@
         "labs_cdk-0.0.10-py2-none-any.whl": [
           "5e520b505c98eff961cecf8e314cb00e4b005ae025472d9341ec54f7a6f07c7b",
           "py2"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "ea890a41e26b3e72d0cd15116e3618851d98b96412dab8f1ad3080c37228ca83",
+        "labs_cdk-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "labs_cdk-0.0.11-py3-none-any.whl": [
+          "c88b78366616d1a82f7179e4455be0fe9a36d7915070c05f4f396facd391098e",
+          "py3"
         ]
       }
     },
@@ -30166,6 +30282,18 @@
       "wheels": {
         "mypy_boto3_pi-1.14.1.0-py3-none-any.whl": [
           "d8063cc4257c96600ce8e3faff643aff10ef15dc51e3c056b393a4dd68d181a3",
+          "py3"
+        ]
+      }
+    },
+    "1.14.10.0": {
+      "sdist": [
+        "ce548b208fa3d0cd38600aa40757419bf5652973943d2d7d949bfedc61a653dc",
+        "mypy-boto3-pi-1.14.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pi-1.14.10.0-py3-none-any.whl": [
+          "4dfba302d58a0e11295a8ebba526072ffc6889d2f2bef37fe7d83bfeb3390eae",
           "py3"
         ]
       }
@@ -44344,6 +44472,18 @@
       "wheels": {
         "PythonTwitchBotFramework-1.12.0-py3-none-any.whl": [
           "fffeaedb1715040aa33de5947b0b8038a1d5f45e769ac60ef16827e23348e7ab",
+          "py3"
+        ]
+      }
+    },
+    "1.12.1": {
+      "sdist": [
+        "416b2abeba50686aeff3421b60099de543ad36d01d72316b7bb7fb1e02addab1",
+        "PythonTwitchBotFramework-1.12.1.tar.gz"
+      ],
+      "wheels": {
+        "PythonTwitchBotFramework-1.12.1-py3-none-any.whl": [
+          "d2c10ffbd3410d39ce24beb44c40e9277e2d785667d6cae0633ddce46f05ff4a",
           "py3"
         ]
       }

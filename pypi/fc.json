@@ -3754,6 +3754,18 @@
         ]
       }
     },
+    "1.47.0": {
+      "sdist": [
+        "3ecd6d0eb7951613510320fc806c7cfeca9ced234531c460b90c51517e40ee4e",
+        "aws-cdk.aws-datapipeline-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datapipeline-1.47.0-py3-none-any.whl": [
+          "1909248b5ce00fe75f412cb738a00f3d1b5921dfd99b0b2f4187ef4edddea797",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "9ed2e4849d8295ef01f91ef2b0dbad4bbb19757e99530bbeb75efeb7e0223571",
@@ -4676,6 +4688,18 @@
       "wheels": {
         "aws_cdk.aws_sqs-1.46.0-py3-none-any.whl": [
           "32233c01761a6395aba3a3c00bd264c335f9c45c0c21adc0129976b679fd2f34",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "934edccdd6edb1844741eb3a1fba9f5b9fbe09528c91420123ad4bca0e468c73",
+        "aws-cdk.aws-sqs-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sqs-1.47.0-py3-none-any.whl": [
+          "0bf7f45700fcb7692dbcf0ce98cdc5d280907ca3952bff877d8295f4f2a400c5",
           "py3"
         ]
       }
@@ -15271,6 +15295,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "697c2de9b0d3dc05eba461ff0a1ea1d36d4495ad4240e0219a7637ef52029f9f",
+        "emn_sdk-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "emn_sdk-0.0.3-py3-none-any.whl": [
+          "ff462f5d8bb383191c597da0457c7f53cd2adceee66d50f947da62db07362268",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "33d8cb68544abcff220a6a8d8fa382cdb67931d787a362285ecf1f2bffca79bf",
+        "emn_sdk-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "emn_sdk-0.0.4-py3-none-any.whl": [
+          "6ffe223ecc883beefe2739709ae125e0940d523c2efd08f25965ef86b134fbbb",
+          "py3"
+        ]
+      }
     }
   },
   "endi-payment": {
@@ -15820,6 +15868,62 @@
         ],
         "ensmallen_graph-0.1.4-cp38-cp38-manylinux1_x86_64.whl": [
           "15372c9e155ec13923f4320eb0814bc38d35856e9325f64e3bca4ed0d75599fc",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "cf498883581109684633f98816fa456f0c4cc4564fb93496d3d6874579f39ced",
+        "ensmallen_graph-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "ensmallen_graph-0.1.5-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "cc6e62a93e1388696b14a0f0295abcc9102e6b8a15d2ee52f0a118dcb4a172ae",
+          "cp35"
+        ],
+        "ensmallen_graph-0.1.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "1fe1d44ab8ff65857820306b4c12b9dcbc26acd02f0cfed5c7657e4348474820",
+          "cp35"
+        ],
+        "ensmallen_graph-0.1.5-cp35-none-win_amd64.whl": [
+          "e9bd105da76a36e0cc4445d9b3e0f3dd040bc6a2e246f2e28a30bd1074f90441",
+          "cp35"
+        ],
+        "ensmallen_graph-0.1.5-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "caef8c56900f45b71701107c725f3d6810629c96e5778bb827f0c7d109713485",
+          "cp36"
+        ],
+        "ensmallen_graph-0.1.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "27d730965e42898381acde9125b13bacbc982a2615def12967bb8e157abb1623",
+          "cp36"
+        ],
+        "ensmallen_graph-0.1.5-cp36-none-win_amd64.whl": [
+          "0d0de0c0461bd3a4fc9481f0d375fec80dc0ab9c60ab48143c20edba9b439ffc",
+          "cp36"
+        ],
+        "ensmallen_graph-0.1.5-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "6853001789300c5530f430a48280785203a0a4a5e4306c845407d5b7a76235e4",
+          "cp37"
+        ],
+        "ensmallen_graph-0.1.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "39ab6e227b9b9565646108f053d399963da93242fe1a8ab600651ac1b8da7898",
+          "cp37"
+        ],
+        "ensmallen_graph-0.1.5-cp37-none-win_amd64.whl": [
+          "e705c37190a65f652fc0b778b227b68211ee1e8c57a6e01ac484d8cf58bd6d1f",
+          "cp37"
+        ],
+        "ensmallen_graph-0.1.5-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "575abc0b0a317aa08bb1a6413b378fb171515ddd21016858ecf47d7883cb4cd4",
+          "cp38"
+        ],
+        "ensmallen_graph-0.1.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "1fcb95a65b78cfd46b6a34c40df7728f8126113892d1bdc02173977c1b674902",
+          "cp38"
+        ],
+        "ensmallen_graph-0.1.5-cp38-none-win_amd64.whl": [
+          "9d2592f5f91eb222de8c1a05a28c12d8df94ba9e61631f2a441c902c5c70ad75",
           "cp38"
         ]
       }
@@ -24322,6 +24426,14 @@
       "sdist": [
         "d67fd11f46458991a48f71c64708b667413deca4ac7c200dc999837cf98ebee1",
         "html5prescan-0.1.0.tar.gz"
+      ]
+    }
+  },
+  "huzhuo-pkg-test": {
+    "0.0.1": {
+      "sdist": [
+        "3201ba0a70d36ea21907009123be520b07de096bb88ddc0ef8f1fc8714bf4d8a",
+        "huzhuo-pkg-test-0.0.1.tar.gz"
       ]
     }
   },
@@ -35100,6 +35212,18 @@
       "wheels": {
         "mypy_boto3_sso_oidc-1.14.1.0-py3-none-any.whl": [
           "b680bfd469d8c72543a3e7a8dbfc7fe7dd5996b2406b03d209b4142db9b09562",
+          "py3"
+        ]
+      }
+    },
+    "1.14.10.0": {
+      "sdist": [
+        "f7e6c1a5349b412a0800d7f2387678d5e327dd2ecd6798f3f173497eda907f99",
+        "mypy-boto3-sso-oidc-1.14.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sso_oidc-1.14.10.0-py3-none-any.whl": [
+          "45c8746f26e03e5da6d9612a557c60bc672c8bfbf046a8dd93d6c25c62c00034",
           "py3"
         ]
       }
@@ -50241,6 +50365,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.6.1": {
+      "sdist": [
+        "4fd8c47893b948f107fe0521cb9ba63a24e785dc1e38c644b4b37d926959ae54",
+        "seakylib-1.0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "seakylib-1.0.6.1-py3-none-any.whl": [
+          "48d958f20d66b2d1002e0ee9d3cc419d10051f524c428646dc701ea0285aec46",
+          "py3"
+        ]
+      }
     }
   },
   "seed-phrases-for-kin": {
@@ -51413,6 +51549,20 @@
       }
     }
   },
+  "snbpy": {
+    "1.0.0": {
+      "sdist": [
+        "ed0d38ce7014acac4dc5433da1528511b2e606e36d17570bb498cd63a8e1424a",
+        "snbpy-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "snbpy-1.0.0-py3-none-any.whl": [
+          "de3560d90899f271b3dc543d5ce3ee1bde4e6379509e35113f5f60846bea1806",
+          "py3"
+        ]
+      }
+    }
+  },
   "sng": {
     "0.3": {
       "sdist": [
@@ -52117,6 +52267,20 @@
         "767f76bcb589a6ac2349ecd19b7d9bebeedf13306d06a7abab046dc98736a9b2",
         "sqlalchemy_gbase8s-0.0.6.tar.gz"
       ]
+    }
+  },
+  "sqlalchemy-query-helper": {
+    "0.0.1": {
+      "sdist": [
+        "cbecc20ced98210d606163d4a2c909cd2339915b6f30999db0d946ef72a738d2",
+        "sqlalchemy-query-helper-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sqlalchemy_query_helper-0.0.1-py3-none-any.whl": [
+          "25ba554fb10080dc2bb70d342a468cd37100f590d3432f7337d5137579e10629",
+          "py3"
+        ]
+      }
     }
   },
   "sqlalchemymanager": {
@@ -57986,6 +58150,12 @@
       "sdist": [
         "3bfcc5b810a6445b7d2e7c4d445834b0d826476adc14bad42777842cbbfbf7f4",
         "yolov4-0.1.0.tar.gz"
+      ]
+    },
+    "0.10.0": {
+      "sdist": [
+        "05962262372f98306555076d985d8e29d2ba097b6422a8895bac78f98405a689",
+        "yolov4-0.10.0.tar.gz"
       ]
     },
     "0.2.0": {

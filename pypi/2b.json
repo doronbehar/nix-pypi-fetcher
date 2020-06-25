@@ -1594,6 +1594,18 @@
         ]
       }
     },
+    "2020.6.24": {
+      "sdist": [
+        "876a35eb9de04fcfb79ca8b234370f03da95656d059be7a2b6b0313d57e1ab00",
+        "apache-airflow-backport-providers-sftp-2020.6.24.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_sftp-2020.6.24-py3-none-any.whl": [
+          "c49577ce05098aee6e1541b668dc767fed80afa8a0cd01a2530c4546e1a8128d",
+          "py3"
+        ]
+      }
+    },
     "2020.6.24rc1": {
       "sdist": [
         "b5eec61f7b882c5ac01ec2b1cd56e0434483abd6d646ba49d14413e766c5e147",
@@ -7595,6 +7607,26 @@
           "cp38"
         ]
       }
+    },
+    "8.0.0b4": {
+      "wheels": {
+        "cupy_cuda102-8.0.0b4-cp35-cp35m-manylinux1_x86_64.whl": [
+          "d431122a2dcab947992a6d1e4e36ea10544e718448bd45ffa5b04ae7d50ebf48",
+          "cp35"
+        ],
+        "cupy_cuda102-8.0.0b4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "02b183a9cb4a1a68d2890ca4b60e9da061f1ba51a3a5ce6654d65dc95c88cb72",
+          "cp36"
+        ],
+        "cupy_cuda102-8.0.0b4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "007f3950dac8e68b4aeba494750f190abac3229aa5cce114fd65b618d6fdffc0",
+          "cp37"
+        ],
+        "cupy_cuda102-8.0.0b4-cp38-cp38-manylinux1_x86_64.whl": [
+          "f1bc2b9308de8d9234973930cbec9984b65b194fd7ce220ca8b28c8d87c94f2b",
+          "cp38"
+        ]
+      }
     }
   },
   "cvxpnpl": {
@@ -9248,6 +9280,18 @@
       "wheels": {
         "dbispipeline-0.6.3-py3-none-any.whl": [
           "5e941156b383df8148d0807237eaac1371277e77fd810bd06dd65544fe8708d7",
+          "py3"
+        ]
+      }
+    },
+    "0.6.4": {
+      "sdist": [
+        "751d9b255960628d7015b155f4bacba8ef9a37f7dc7b846ec9d2ea6083905930",
+        "dbispipeline-0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "dbispipeline-0.6.4-py3-none-any.whl": [
+          "51ed5f554beea977658ec282389d0f9eee8305bf59d1797fb60bfe4a960996bf",
           "py3"
         ]
       }
@@ -22614,6 +22658,12 @@
         "halo_bian-0.11.88.tar.gz"
       ]
     },
+    "0.11.89": {
+      "sdist": [
+        "9075a3f4b87f6818bd772e110132481114ca705a1702c91d732dd89056cb2c0e",
+        "halo_bian-0.11.89.tar.gz"
+      ]
+    },
     "0.11.9": {
       "sdist": [
         "cae38b137a83cfd5bb5caaa9a632ec40ff9c52cd4de8a3155b980b3c0503521b",
@@ -34501,6 +34551,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "5c1cee4a4b9207aabee4f1aec1b630f226f70660b60f7070b59e5f077c026af4",
+        "nlprep-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nlprep-0.1.0-py3-none-any.whl": [
+          "4a8ec71bfc6208eeb1b8c8724372f8b9a047305748d35f6199127a0422185e95",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "74d17833584ab6b9803d6f4ad5866683d00ad2a6e8dd34a27ba66ae77af32064",
+        "nlprep-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "nlprep-0.1.1-py3-none-any.whl": [
+          "bacb44557bdfd8d6b40aa5310705c9bd01de449a6c7f66ec30757cb623b99bf3",
+          "py3"
+        ]
+      }
     }
   },
   "noat": {
@@ -35984,6 +36058,20 @@
       "wheels": {
         "odoo12_addon_pos_empty_home-12.0.1.0.0.99.dev6-py3-none-any.whl": [
           "99380be65e31def25473dd8ef976a104fc5bb958bb2262e4aa9d070117ad00a0",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-somenergia": {
+    "12.0.0.0.1": {
+      "sdist": [
+        "b4a16b091e9c9a0bf8a1185766a55362a3743602bcaaaca766d1cec4d3d82b2e",
+        "odoo12-addon-somenergia-12.0.0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "odoo12_addon_somenergia-12.0.0.0.1-py3-none-any.whl": [
+          "f26210764e0edfaab9590181c7eaaa95a2aa8a914a8c44ec611981845004f692",
           "py3"
         ]
       }
@@ -54699,6 +54787,18 @@
           "3.6"
         ]
       }
+    },
+    "1.7.5.dev20200624": {
+      "sdist": [
+        "a8f4c76ec5447dabd96980f288c4ab7792ef1d61892e48cf8e8cdfb8f7a12757",
+        "pyramid_oereb-1.7.5.dev20200624.tar.gz"
+      ],
+      "wheels": {
+        "pyramid_oereb-1.7.5.dev20200624-py2.py3-none-any.whl": [
+          "7d5cc5ed28750bc79a6eceb138fd0f4f0c65fba6e3737723e29da5d71763e138",
+          "3.6"
+        ]
+      }
     }
   },
   "pyredisrpc": {
@@ -58983,6 +59083,12 @@
         "29120ec941dbe1c6fa9469579b98b9bc18fa996986d7d2b00229adb52507a4db",
         "racpy-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "e4597baa1568cf606e74317e108aed0b6c0d1c5111431da184def662d0d06ba8",
+        "racpy-0.1.5.tar.gz"
+      ]
     }
   },
   "ragavi": {
@@ -61280,6 +61386,18 @@
       "wheels": {
         "sciolyid-0.4.5-py3-none-any.whl": [
           "14c77d4e2277d14f167745d2679972a77668082bcfc79c3158c06652688375c4",
+          "py3"
+        ]
+      }
+    },
+    "0.4.6": {
+      "sdist": [
+        "e24268b0d4a6c52aa20f7098f984eb05469ecf56d720bfaa8f822a90018a0eb3",
+        "sciolyid-0.4.6.tar.gz"
+      ],
+      "wheels": {
+        "sciolyid-0.4.6-py3-none-any.whl": [
+          "f312a35a13eb0fff6c7bf0d576c53129e891f4d598cdedce7a75cb77b6993a34",
           "py3"
         ]
       }

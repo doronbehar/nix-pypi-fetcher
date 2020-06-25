@@ -13969,6 +13969,12 @@
         "28920e6cd8b170a34afa36ec87e398b285abc0913430f28466f44248d08c23b7",
         "envelope-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "f635fb0a7f09012309ae413ae63ff4fc0191989bc9c1423070100470879b14ca",
+        "envelope-1.2.2.tar.gz"
+      ]
     }
   },
   "environ": {
@@ -14156,6 +14162,30 @@
       "wheels": {
         "EQTransformer-0.1.13-py3-none-any.whl": [
           "ff25993d1d51096638e7d47cf4ab1bbf54f2e96c43563690aaeae4863afce168",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "a36983a594b4a3f4fb82b408f64097e6d409eccfc0e9fdb31167bc0923ef12fb",
+        "EQTransformer-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "EQTransformer-0.1.14-py3-none-any.whl": [
+          "b798e324c574de853ddbf4dd656cd5ee6e4f0abca19e056a6a98f1b6e5500066",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "8ceb3d514d33e4dcfff8772730e5bb7c0c1b36224afa6cd3822739b9ec74f96d",
+        "EQTransformer-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "EQTransformer-0.1.15-py3-none-any.whl": [
+          "0599fceef7a72d596fd5655239e7778ee5dda6c68775708198337c1fed1bcba8",
           "py3"
         ]
       }
@@ -22183,6 +22213,20 @@
         "0841a6cbb28d074ed87c9c4953e0ad5037a7cc99d3396e01bd5bc08b856cc9c8",
         "ice-0.0.2.tar.gz"
       ]
+    }
+  },
+  "icgen": {
+    "0.2.1": {
+      "sdist": [
+        "e20e1c650be7b8ce59711420dc2bb415c6eb503b76389ce0e15706e28fbbd253",
+        "icgen-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "icgen-0.2.1-py3-none-any.whl": [
+          "9fe8d99cc10010a14a3114c7909b42cdeb1f72a86080ba994c8e89fc21e890cc",
+          "py3"
+        ]
+      }
     }
   },
   "idem-darwin": {
@@ -31266,6 +31310,14 @@
       "wheels": {
         "odoo12_addon_project_recalculate-12.0.1.0.0.99.dev13-py3-none-any.whl": [
           "e9fb5f1ae63a14330b761649a06e339ddac5c2db6ba8038319ecff161c5942f3",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev14": {
+      "wheels": {
+        "odoo12_addon_project_recalculate-12.0.1.0.0.99.dev14-py3-none-any.whl": [
+          "dd8860c3e10f34e344cce2ce4cda27853c720693742485d78dac6ce59323b1cd",
           "py3"
         ]
       }
@@ -43058,6 +43110,12 @@
       "sdist": [
         "4a96e981f22b24fd782cb76fb2bbbf70672f1107cc08c3301044019b69bc4cbc",
         "rhasspy-asr-pocketsphinx-0.1.7.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "60e7e69519389ad00498715b04fe158336b25ad215ef6dcdbf555967b27d0a8f",
+        "rhasspy-asr-pocketsphinx-0.2.0.tar.gz"
       ]
     }
   },
@@ -55633,6 +55691,18 @@
           "py3"
         ]
       }
+    },
+    "3.7.4": {
+      "sdist": [
+        "6b783cb06df00a3e8be6f9e60cedca50a17d37a739c2e902b528e66c30eab2a4",
+        "trimesh-3.7.4.tar.gz"
+      ],
+      "wheels": {
+        "trimesh-3.7.4-py3-none-any.whl": [
+          "4f4cfab55f09ba2d8cca5c8c78616c2d3a71216d53fe6d0c971aec24d3d3f3dc",
+          "py3"
+        ]
+      }
     }
   },
   "trio-websockets": {
@@ -59680,6 +59750,26 @@
         ],
         "wasmtime-0.18.0-py3-none-win_amd64.whl": [
           "17ffcc547fd6bf95f11b8b9bbe42cc7dae7e348f77127e8d8fba1235b9014d91",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1": {
+      "wheels": {
+        "wasmtime-0.18.1-py3-none-any.whl": [
+          "86dac3aefba479d2ee9819724cd71e6892b2b8ae4c0a5f082b2f370dc796b279",
+          "py3"
+        ],
+        "wasmtime-0.18.1-py3-none-macosx_10_13_x86_64.whl": [
+          "9cb2a2f4c81ba2f57da8f9b02d6739b1f3f7d0024e66e88f041d9ed520bf0913",
+          "py3"
+        ],
+        "wasmtime-0.18.1-py3-none-manylinux1_x86_64.whl": [
+          "b3d331f0dcf49978c5a0c105423f3bf52af7e7c15ace1474adabda851e8de971",
+          "py3"
+        ],
+        "wasmtime-0.18.1-py3-none-win_amd64.whl": [
+          "c09a685a4e0c200c508f3b4111071d6085a79c6855a249c1b850601554bc8786",
           "py3"
         ]
       }

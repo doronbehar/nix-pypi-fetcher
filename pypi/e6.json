@@ -3346,6 +3346,18 @@
         ]
       }
     },
+    "1.47.0": {
+      "sdist": [
+        "9514be00f3fb03fcea175951605d6861c8094c1492d8b86710307066bca1e736",
+        "aws-cdk.aws-sam-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sam-1.47.0-py3-none-any.whl": [
+          "149f99ce991e60ebfec6e5d993b0bce8b1be9e10fa80be91ccbf941ac2264fed",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "c8182db4a342c274d5fa61d7978860bc405d5d86e65982a291ffd023b41c067c",
@@ -5114,6 +5126,18 @@
       "wheels": {
         "carim_discord_bot-2.0.2-py3-none-any.whl": [
           "f6a3e1f4e3abf003db5b207806dd4d4df48fabdbf9bfd08bec237bbe35be3d94",
+          "py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "sdist": [
+        "b5e7ebbf06a2f1c184fb0d77e5eefa1fc81465df75151d1159ba94469826032b",
+        "carim-discord-bot-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "carim_discord_bot-2.0.3-py3-none-any.whl": [
+          "5d40f6f0bfad7067e519e1c9538a5cd6f6404c4a380fa5eafeb54a0fabf716c9",
           "py3"
         ]
       }
@@ -10093,6 +10117,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "a739c241e0e4335d4865e34015b67451c3a1b08ad86dc73d6d347732080a76f5",
+        "content-filter-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "content_filter-1.0.3-py3-none-any.whl": [
+          "a2cc0b0a3fbb25638edd2329ba4984332f2418f698c6a03249a8b154db864e4e",
+          "py3"
+        ]
+      }
     }
   },
   "contextdecorator": {
@@ -10300,6 +10336,18 @@
       "wheels": {
         "cree_sro_syllabics-2020.5.11-py2.py3-none-any.whl": [
           "34058c89709226a0db02cdb2ae2f55ddee4521694af4dabc731aad368a2530a3",
+          "py2.py3"
+        ]
+      }
+    },
+    "2020.6.23": {
+      "sdist": [
+        "c1278bf7c48c9c13b5ea410c335b49a451ffde8143e30309fd79011df75e5773",
+        "cree_sro_syllabics-2020.6.23.tar.gz"
+      ],
+      "wheels": {
+        "cree_sro_syllabics-2020.6.23-py2.py3-none-any.whl": [
+          "fd6648f82a4f38a9c19a8d1a0892a9ecab64e62dc238815c60f6e18243cc3b56",
           "py2.py3"
         ]
       }
@@ -13840,6 +13888,58 @@
         ],
         "deepspeech_tflite-0.8.0a4-cp38-cp38-win_amd64.whl": [
           "a8d5f1ee80b5a1305ff074ea84be26ca7d7daaa665ca7db96ac0e21cbc2c2cac",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.0a0": {
+      "wheels": {
+        "deepspeech_tflite-0.9.0a0-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "a8e4b260671d5aae209f70cf15188b56c48ac2ebaa64a07350c85853e5aa4800",
+          "cp35"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "72ea2bf633a0c5b6f8ccdcd4161299bfa1fdbdd9f4ad9c546e653269c2ec90aa",
+          "cp35"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp35-cp35m-win_amd64.whl": [
+          "bf200c526009bd19d58dd7f00cdadd57160510a4bc3b7e0bb3de4eafd1985868",
+          "cp35"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "1e33ab25a254d1552f58797b75ba65fd3c0d7203060fe74e0f39f10fb7a347cf",
+          "cp36"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "45147587267021e0c8db28d08d4220196931c273029a86291326ad04e50e4e45",
+          "cp36"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp36-cp36m-win_amd64.whl": [
+          "b80ba77446cd3a56c293ade28caf98ed18c72669ac90d6881db7aee017892f98",
+          "cp36"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "0cf75c8b323e33942a294fdf71715a3708763e42ae42e17e89bbd151edbc2603",
+          "cp37"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c3d8a63625dbe2ca5349ce11017827917069b93b1bdf6b32cd62ae0112ae474b",
+          "cp37"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp37-cp37m-win_amd64.whl": [
+          "b30a04473ed06d66448dcccc1e18367ffa5d741eb41fc1e8d15dc366f6d1d168",
+          "cp37"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "ec3a4898485a4dc7be62fd4c261926e01afbe2ca62b93925fe96cc4d57740040",
+          "cp38"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp38-cp38-manylinux1_x86_64.whl": [
+          "3221de6fa4968ca783c19d2c3ac2a80f4b8aeff69d5bc6d88815d066442e6480",
+          "cp38"
+        ],
+        "deepspeech_tflite-0.9.0a0-cp38-cp38-win_amd64.whl": [
+          "6bda187bc46592904211f18019f32365340b94d7d19ba0231d84ab6127baefe7",
           "cp38"
         ]
       }
@@ -19063,6 +19163,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "d76da01c27fad870f965d83c79b35950a2e410e95a1d908b04ea816698ee42e9",
+        "drf-viewset-profiler-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "drf_viewset_profiler-0.3.0-py3-none-any.whl": [
+          "6afa1aba6d23253d6180e643a23c5427dc3cc090ba5d7b7301ef3fc490ecfa40",
+          "py3"
+        ]
+      }
     }
   },
   "dxskytap": {
@@ -21154,6 +21266,12 @@
       "sdist": [
         "65027e6b2166ae7cb78b549cb353bd1cbe7add2ee911b052ecb832368f5d5e4b",
         "Flask-Atomic-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.30": {
+      "sdist": [
+        "464e9fc2fb97fd68da982289775acc99dde82b6bc0e97bc250ececd80f6c9b7d",
+        "Flask-Atomic-0.0.30.tar.gz"
       ]
     },
     "0.0.4": {
@@ -25336,6 +25454,18 @@
       "wheels": {
         "injectable-3.4.2-py3-none-any.whl": [
           "f37afd0037f7dbd571095f63d6411189581130e0e7befe427b54b9b875e2e3cd",
+          "py3"
+        ]
+      }
+    },
+    "3.4.3": {
+      "sdist": [
+        "8198dcb6e52f74eb0c264d735c58d2a3a80ba086f6fb48dd68a1072a787ec890",
+        "injectable-3.4.3.tar.gz"
+      ],
+      "wheels": {
+        "injectable-3.4.3-py3-none-any.whl": [
+          "10487754bb159bc4f57fbbdbcadee89dd3596c977240ac6cd7cc73aa1feef89f",
           "py3"
         ]
       }
@@ -46059,6 +46189,18 @@
         "60b0700aa76e3934432cf2043dfd2adb0d0a53c1a8e5e6b5aec307601cb14081",
         "pygyver-0.1.0.0.8.tar.gz"
       ]
+    },
+    "0.1.0.1": {
+      "sdist": [
+        "6a55e3b10c1237901ee910154490d98fb57e0f2d0d80ab608716efac3a8428c9",
+        "pygyver-0.1.0.1.tar.gz"
+      ]
+    },
+    "0.1.0.2": {
+      "sdist": [
+        "51b36b00fb67118c3d528b027e98565f0c48dff17fb9ee33533ab8586a2fb57f",
+        "pygyver-0.1.0.2.tar.gz"
+      ]
     }
   },
   "pyhcrf": {
@@ -47044,7 +47186,13 @@
       "sdist": [
         "c13123e11a8bab4a5d55f24c3851c61b65bb2467353a8f5ebd07a4ae9b35d81b",
         "pyobjc-framework-QTKit-6.2.1.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pyobjc_framework_QTKit-6.2.1-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "f33567ee3343c92b6b4c8defbef9e14a1a6217c5f1dde395f669b3180531f462",
+          "cp36"
+        ]
+      }
     },
     "6.2.1b1": {
       "sdist": [
@@ -54947,6 +55095,30 @@
           "py3"
         ]
       }
+    },
+    "2.1.0a3": {
+      "sdist": [
+        "4f1d97ff7ff770226b03466521161fbe2cd0a00b49e3d5c804e7c80385c895c8",
+        "samil-2.1.0a3.tar.gz"
+      ],
+      "wheels": {
+        "samil-2.1.0a3-py3-none-any.whl": [
+          "7458c86fc44006c8432674932a7aeed7652e206f5eabdafe90ff9378a7234d1d",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0a4": {
+      "sdist": [
+        "b63c7116f9fa7de0ab482ba6eb9748950c49c58710ea32675755b4ec77da9075",
+        "samil-2.1.0a4.tar.gz"
+      ],
+      "wheels": {
+        "samil-2.1.0a4-py3-none-any.whl": [
+          "9c8a53db97b83515b29851a2396a2cfea5241cd64bebabcda3b1a3b0c8fafbc7",
+          "py3"
+        ]
+      }
     }
   },
   "sanic-csrf": {
@@ -61004,6 +61176,14 @@
         ],
         "thehive4py-1.7.1-py3-none-any.whl": [
           "65438d4fb4ad24cb41b6eb30b4b67ce0e71b56098346e291c765146c82c7d477",
+          "py3"
+        ]
+      }
+    },
+    "1.7.2": {
+      "wheels": {
+        "thehive4py-1.7.2-py3-none-any.whl": [
+          "ffc3c025742ec2c5581ee339afab4773bd990476b644ea8a6e845f285bd4b86c",
           "py3"
         ]
       }

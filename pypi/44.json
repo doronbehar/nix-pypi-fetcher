@@ -3415,6 +3415,18 @@
           "py3"
         ]
       }
+    },
+    "1.47.0": {
+      "sdist": [
+        "fb5a13783facdb933eaaddb39099d485979140b07f31ce5539a19d0f0a37e655",
+        "aws-cdk.aws-ce-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.47.0-py3-none-any.whl": [
+          "f1dd3426d3f2d7df66bd13c2947238db2123826f2808bddc9519c1f88a32bbc3",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-deployment-test-utils": {
@@ -4279,6 +4291,20 @@
         "39b45770017c980d221d3047360fdd1d2e8015897d843fd7357ed2ca0105ba44",
         "b2gperf-v2.0-0.1.tar.gz"
       ]
+    }
+  },
+  "b3buf": {
+    "0.9.1": {
+      "sdist": [
+        "ca06f6893bcdd1a87d435d7d8e66d7e03d26277c555608597fa6db38e361b1e2",
+        "b3buf-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "b3buf-0.9.1-py2.py3-none-any.whl": [
+          "ccd4545ca689bc1726a922041fe0300c2d0b5014e90ed6a3b30c29c29bde4e71",
+          "py2.py3"
+        ]
+      }
     }
   },
   "backports.cached-property": {
@@ -14649,6 +14675,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "dsnd-probability-2020-0-1": {
+    "1.0": {
+      "sdist": [
+        "8245e58fcd1619a97203b9f4e9b5a72515838ff2912adb6ec7153ea230652d2a",
+        "dsnd_probability_2020_0_1-1.0.tar.gz"
+      ]
     }
   },
   "durex": {
@@ -27469,20 +27503,6 @@
       ]
     }
   },
-  "momotor-engine-proto": {
-    "3.0.0": {
-      "sdist": [
-        "f68a6eebb1e498840f0ff825563faeea613049736827aa4d89f8df52f6e3d935",
-        "momotor-engine-proto-3.0.0.tar.gz"
-      ],
-      "wheels": {
-        "momotor_engine_proto-3.0.0-py3-none-any.whl": [
-          "eac740ce9364e45ba108253c58d0a1e2b18a26b2105a59f3a406133299318450",
-          "py3"
-        ]
-      }
-    }
-  },
   "monero": {
     "0.5.4": {
       "sdist": [
@@ -29250,6 +29270,18 @@
       "wheels": {
         "mypy_boto3_schemas-1.14.1.0-py3-none-any.whl": [
           "f62920e6ae2e1b7ef1681e7e661ea6c556b8be24aeb83dfe5e1c0ff50df5f162",
+          "py3"
+        ]
+      }
+    },
+    "1.14.10.0": {
+      "sdist": [
+        "75ae4a386adb59efa26c10ca4acc6026e1559368d9058fcd82a62d57c109e003",
+        "mypy-boto3-schemas-1.14.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_schemas-1.14.10.0-py3-none-any.whl": [
+          "492f06917ba328fb8065729c0b9da407ce7cfe293779ab4f7a241b81c020e5a1",
           "py3"
         ]
       }
@@ -39204,6 +39236,18 @@
       "wheels": {
         "PyCmdex-1.1.16-py3-none-any.whl": [
           "6826b70bb3d881d14aa41dfae4f9f4338c24d6d12a6e00f9fff3eec94a283353",
+          "py3"
+        ]
+      }
+    },
+    "1.1.17": {
+      "sdist": [
+        "6fc6824d3a42144ec4952718b71f152fc0a50c6a45762aea36cee301080363b9",
+        "PyCmdex-1.1.17.tar.gz"
+      ],
+      "wheels": {
+        "PyCmdex-1.1.17-py3-none-any.whl": [
+          "f9411346f71fd8b221fcfe50cc4664bf5beecf5164939ee1da9fdda3995be514",
           "py3"
         ]
       }
@@ -51337,6 +51381,30 @@
           "cp37"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "a06443b5bcac696a0be22dc8904b67f31bd98ae8e9b730df5dea0284202ad063",
+        "stringanalysis-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "stringanalysis-0.2.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "dc2831af0a2e9f07dd5e1ebf411e5b093740c541c074432096ac44293bc03eff",
+          "cp35"
+        ],
+        "stringanalysis-0.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "287600794dd8faedf321d7baf05176e444c427c5749c7e58d49e292a83908c5c",
+          "cp36"
+        ],
+        "stringanalysis-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "75481a147124f981dacf27b91df9cf7d3aefaa6e9ec28e23a59e6c6e8d151d7f",
+          "cp37"
+        ],
+        "stringanalysis-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "5d4ea0da8e0bca799918fc628d1cc77da2c90e4861a2655a4764737a7fc1157d",
+          "cp38"
+        ]
+      }
     }
   },
   "stylelens-search-vector": {
@@ -52390,6 +52458,20 @@
       "wheels": {
         "timecopts-1.6-py3-none-any.whl": [
           "a650b5020e990a6ade376cce0bbeb0254d3f9481c7ced7f0d78adf0212452970",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tinyearn": {
+    "0.0.1": {
+      "sdist": [
+        "fc76e61e676b45b8d6b6778b5ef2df55bf8d691ba2fa878bca1a70253e429c99",
+        "TinyEarn-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "TinyEarn-0.0.1-py3-none-any.whl": [
+          "7e9fd36ad5a403530b91376c455af91a1ca5d25db53194d24303d17b8cdaa633",
           "py3"
         ]
       }
