@@ -11798,6 +11798,38 @@
         ]
       }
     },
+    "7.6.0": {
+      "wheels": {
+        "cupy_cuda91-7.6.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "9ab98b2b571d0044592dae0a785477a6b8927ee9111b3ebaa083f9d68cc31cec",
+          "cp35"
+        ],
+        "cupy_cuda91-7.6.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "e50acbd260cc773d0334605ac56fb27d01f66c946f4144bd367142ffff1b15b1",
+          "cp36"
+        ],
+        "cupy_cuda91-7.6.0-cp36-cp36m-win_amd64.whl": [
+          "22bf482e296b1452a20f0c2a57440450a7299c812b6630afaa969993d43b70f1",
+          "cp36"
+        ],
+        "cupy_cuda91-7.6.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9c6d758a7ec781da2a7f81e5aeabf7887c30dc9646c29e2c891a4f50c0c4b795",
+          "cp37"
+        ],
+        "cupy_cuda91-7.6.0-cp37-cp37m-win_amd64.whl": [
+          "0a264d6cdd20e5e4ca20ee18a552ab3d2d80521d35ccb7ff0dafe4de489a719f",
+          "cp37"
+        ],
+        "cupy_cuda91-7.6.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "0ce2671d95475dae1e6eaa67c8d7397067229aa9d4edf4133514fdc2defb5fe7",
+          "cp38"
+        ],
+        "cupy_cuda91-7.6.0-cp38-cp38-win_amd64.whl": [
+          "00e9beb8736e40b8006b75d0c4c3f84bb1bb2ac8591b7100f044fb3f9e49e475",
+          "cp38"
+        ]
+      }
+    },
     "8.0.0a1": {
       "wheels": {
         "cupy_cuda91-8.0.0a1-cp35-cp35m-manylinux1_x86_64.whl": [
@@ -11936,12 +11968,24 @@
           "521351537db4f3ce5effcdb6252816958a32c7af02debcb5573a8870b705901b",
           "cp36"
         ],
+        "cupy_cuda91-8.0.0b4-cp36-cp36m-win_amd64.whl": [
+          "f646bfd79fa5c1ccbbe1c2690851ba1125fc123cc974856148ebb8862962488a",
+          "cp36"
+        ],
         "cupy_cuda91-8.0.0b4-cp37-cp37m-manylinux1_x86_64.whl": [
           "dc5e48ed81075f9ec230fcb019581b88a0d16397b96728ecf6fac9042da6b584",
           "cp37"
         ],
+        "cupy_cuda91-8.0.0b4-cp37-cp37m-win_amd64.whl": [
+          "bb4e02a66ad2b26d2aa0e3418c799692cf1b9d053a3b7759817f343b23f5406b",
+          "cp37"
+        ],
         "cupy_cuda91-8.0.0b4-cp38-cp38-manylinux1_x86_64.whl": [
           "7c97c5a5d8b5bdbaa1925bcfefe2b36cd8ac3dc2b0c50372b56da545803e09b8",
+          "cp38"
+        ],
+        "cupy_cuda91-8.0.0b4-cp38-cp38-win_amd64.whl": [
+          "fd8c8b6e89e6478f2e9d7e02d39c0fa54f9fc072cc8bcca80d75065350a81fb4",
           "cp38"
         ]
       }
@@ -71246,6 +71290,66 @@
       "wheels": {
         "xyztest-0.0.7-py3-none-any.whl": [
           "f4f4b3a87f63fe51c4b8da536910eac8944f4d3718d3e8dadbeb8d12f61af7e7",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "a6c3ab0c6467a529b032ee99e9b96bc4e741c68a9b5abd0d78708834d9d77234",
+        "xyztest-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-0.0.8-py3-none-any.whl": [
+          "4fd3295fa4f2242b012a35ef219536eeccc00248efc508efd29b59fa418c34ca",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "0e1b6a36dd8fb7e71ae8681a4426c39cd509e0f54c178eca84caf8d6c5c8d799",
+        "xyztest-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-0.1.0-py3-none-any.whl": [
+          "273affbec97727af6150ad26fd3501968c112c938ba500600b8b65734591605c",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "d7df0f9c034bc8ce6686b3a04ed0ff6b075afcf04a1f31d7bcae394a30900376",
+        "xyztest-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-1.0.0-py3-none-any.whl": [
+          "f2b6d11f7f771da5b84efc713438db138c56166b3d7d32cf7658b1f0e3cbf74a",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "d8e3dacd05059ec3ee4b1cd41b10cf4e17402bcea9d85189df33681f5c51bc00",
+        "xyztest-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-1.1.0-py3-none-any.whl": [
+          "722f8fed5cc5efb6c983aef97f133be7bbc3ae337cf0ca1ccd83dfc66476e9c8",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "1a3a488d04d4439cf825592eefc95b874a47fe8d549606ced814eff77941548a",
+        "xyztest-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-2.0.0-py3-none-any.whl": [
+          "280a10e72de9ef74282271872006ebfded606e43a3338d45f305a8a954881d4e",
           "py3"
         ]
       }

@@ -3411,6 +3411,12 @@
         "e5d2647bfe3b35b00347e10c53f3623987d607fbe6ff742aec74c3fd1b90506c",
         "auxly-0.7.1.tar.gz"
       ]
+    },
+    "0.7.2": {
+      "sdist": [
+        "dddd615f16d8179b82c4e9b5ea392fb8da290bfa21da9a7ff143a3651aeeb01a",
+        "auxly-0.7.2.tar.gz"
+      ]
     }
   },
   "awsbuilder": {
@@ -23892,6 +23898,38 @@
         ]
       }
     },
+    "7.6.0": {
+      "wheels": {
+        "cupy_cuda92-7.6.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "46876b8a688211f5dac0a02cae6c6955f4ba81243774a76cce5deb2153bb0e85",
+          "cp35"
+        ],
+        "cupy_cuda92-7.6.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "08caaf762193c35d211d8c611d4cb2912f294c7c15f3846797713373c46d773a",
+          "cp36"
+        ],
+        "cupy_cuda92-7.6.0-cp36-cp36m-win_amd64.whl": [
+          "7ffa0b10ab64e6f9c0f6009d0e0de9bb73031174d1cc9f68902fa6f2d1bb18f3",
+          "cp36"
+        ],
+        "cupy_cuda92-7.6.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "435e54fae20c56c5acb090cf0027540a0a10bd3315a6ce755b51264a79946a26",
+          "cp37"
+        ],
+        "cupy_cuda92-7.6.0-cp37-cp37m-win_amd64.whl": [
+          "22043a24932fccf2733e8ef9db1d410a222c2752cf2da4ca36ac07d99c72354b",
+          "cp37"
+        ],
+        "cupy_cuda92-7.6.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "e98db7bde68a24959eb2f3f924f33e3ae696568bc7ed6e58c5cfacbd0287085f",
+          "cp38"
+        ],
+        "cupy_cuda92-7.6.0-cp38-cp38-win_amd64.whl": [
+          "800759c72de076e63cd3ae43761f00bbbba26f401ee63b87155e9427bdc7947a",
+          "cp38"
+        ]
+      }
+    },
     "8.0.0a1": {
       "wheels": {
         "cupy_cuda92-8.0.0a1-cp35-cp35m-manylinux1_x86_64.whl": [
@@ -24030,12 +24068,24 @@
           "643eeca524ecc721859f8ccc78ca60cc63e7a8d04743a4f749f0e1f4482958bd",
           "cp36"
         ],
+        "cupy_cuda92-8.0.0b4-cp36-cp36m-win_amd64.whl": [
+          "53348fe4bd2bccb7e6d460f969e172f3da8cec1c5c518e5ffa5e78515537077c",
+          "cp36"
+        ],
         "cupy_cuda92-8.0.0b4-cp37-cp37m-manylinux1_x86_64.whl": [
           "b628b5ffa3e0211131a2addd598a2520ea3abd0690318eedb97edbe9d595e9b6",
           "cp37"
         ],
+        "cupy_cuda92-8.0.0b4-cp37-cp37m-win_amd64.whl": [
+          "09a83b2874c6ba23ffa90c28094b9e85e9157d609df57a3baf584c4f4fc726e9",
+          "cp37"
+        ],
         "cupy_cuda92-8.0.0b4-cp38-cp38-manylinux1_x86_64.whl": [
           "b33a079ad49d2b721cc504bbb464f2536bab5bec63b6355e0fb61730614bbfd5",
+          "cp38"
+        ],
+        "cupy_cuda92-8.0.0b4-cp38-cp38-win_amd64.whl": [
+          "4c0fc685965f693ebdeb26378e955a9ad72b531c62d685ddc5418a3d8dc6a7de",
           "cp38"
         ]
       }
@@ -31832,6 +31882,18 @@
       "wheels": {
         "Flask_RESTful_DBBase-0.1.5-py3-none-any.whl": [
           "eed221ea2d86f797a05cc43d134609bddadf6c1b4d1438aa4b05a4fe3718c477",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "2413bc8910aaa9b7d858e65fd0c1beff5a100883413724b800faf04a6f361187",
+        "Flask-RESTful-DBBase-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "Flask_RESTful_DBBase-0.1.6-py3-none-any.whl": [
+          "9bac9fda02aac35d9c0ade51fea75d4eb7ff46a9022f2cea36e0fe3302fc7acc",
           "py3"
         ]
       }
@@ -74709,6 +74771,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "e42d8a259efc5a27269844a5ffd57ea7431bd9652ad14c6a7a4d346b523c284a",
+        "system-intelligence-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "system_intelligence-1.2.1-py2.py3-none-any.whl": [
+          "33fe55938838298b07c5cc47bb0177fb8830c25bc2c59ecb2486d8f697ede05c",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sz-realpython-reader": {
@@ -79788,6 +79862,12 @@
       "sdist": [
         "da7bc401f395c7d084b93b9fd1e5716fbe5d74a13b5be43f8c6db91213c38a74",
         "z0lib-0.2.8.tar.gz"
+      ]
+    },
+    "0.2.9": {
+      "sdist": [
+        "791dd29165fc3a5d30015285cb9e293e473ec79c44f55205188af28d1111c0d0",
+        "z0lib-0.2.9.tar.gz"
       ]
     }
   },

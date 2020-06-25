@@ -5601,6 +5601,18 @@
         "de602394e1178c4c896451a4220d5c326b82decf3b7565f0a64dd001a6242e41",
         "aws_ses_service-0.0.7.tar.gz"
       ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "7d439e8136c02dc24bcdc01ebf3b5ef69ca337cb82f4411177775e4926674649",
+        "aws_ses_service-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "aws_ses_service-0.0.8-py3-none-any.whl": [
+          "81e935fb81931f7768eb4af0a31ca3c0413c8502d6e59a99d192d251dd00c811",
+          "py3"
+        ]
+      }
     }
   },
   "awsassistant": {
@@ -13248,6 +13260,18 @@
       "wheels": {
         "dagster_pyspark_nightly-2020.6.24-py3-none-any.whl": [
           "a7750d34c7e64bdd9d360044addd896eed54aa6a54e17c7c4bde0e2e2fa83c6e",
+          "py3"
+        ]
+      }
+    },
+    "2020.6.25": {
+      "sdist": [
+        "acf1c1d21f2b3c2aa4d84a16a22af78d3ebfcf14d568af7d18169a37f3eeeb13",
+        "dagster-pyspark-nightly-2020.6.25.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pyspark_nightly-2020.6.25-py3-none-any.whl": [
+          "c952d45e8354e56551c55574b0ab7a66c607a8b4a280174ddd088adb0ec786ae",
           "py3"
         ]
       }
@@ -63574,6 +63598,12 @@
         "sphinx-bluebrain-theme-0.1.5rc1.tar.gz"
       ]
     },
+    "0.2.0": {
+      "sdist": [
+        "4e5d65ff36cfb615a374c0b093b6900b4bc37bb223523f8447f1cfd96591ca4f",
+        "sphinx-bluebrain-theme-0.2.0.tar.gz"
+      ]
+    },
     "0.2.0rc1": {
       "sdist": [
         "7334d324f4acf0ea00bc4f1f1f061449d26b16c91b253259ec09c687fbb1f02e",
@@ -63584,6 +63614,12 @@
       "sdist": [
         "9c76ae93987fb684889ee75fe2ec624972c2a5b4b5675baefc768b1631483440",
         "sphinx-bluebrain-theme-0.2.0rc2.tar.gz"
+      ]
+    },
+    "0.2.0rc3": {
+      "sdist": [
+        "778014525e86cdaa5f8155d4ef0e4791aec9ffda5e4e0e56f039a79143b1232f",
+        "sphinx-bluebrain-theme-0.2.0rc3.tar.gz"
       ]
     }
   },
@@ -65484,50 +65520,14 @@
     }
   },
   "tb2j": {
-    "0.2.2": {
+    "0.2.6": {
       "sdist": [
-        "7c5080b08185f49f0eb517c8fe3b62e9946653c6f50a98912902d3e242887d21",
-        "TB2J-0.2.2.tar.gz"
+        "49377cefe8348cd2565de200f3e5cb2fa55d4dcce6985b42d482195035f62c1b",
+        "TB2J-0.2.6.tar.gz"
       ],
       "wheels": {
-        "TB2J-0.2.2-py3-none-any.whl": [
-          "c99187f2e61e0a885ad2be4657cad2a4bfec5f1c0f8cbff74f57e59d9430f1cc",
-          "py3"
-        ]
-      }
-    },
-    "0.2.3": {
-      "sdist": [
-        "8b000dd4533651fad78fcd20cc088174fc7d23b5c8a5d513a9350c36c15d15cc",
-        "TB2J-0.2.3.tar.gz"
-      ],
-      "wheels": {
-        "TB2J-0.2.3-py3-none-any.whl": [
-          "2b6b1b364eb93065476acf9f5822a49075c70ca1f738bec8304c202b281da11d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.4": {
-      "sdist": [
-        "bd11bbaed5931208f037ea248bac87996f655fd31b2c994abab5f06cbc649ab3",
-        "TB2J-0.2.4.tar.gz"
-      ],
-      "wheels": {
-        "TB2J-0.2.4-py3-none-any.whl": [
-          "43bff0fe9b5cecf474c35fb501318580b45a2c49d33e4a1cab79bcbfab1668d7",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "sdist": [
-        "e2490dcbd4ebd34acd217aa280407fc311c5e59c7d52370c1fdab478191a0b08",
-        "TB2J-0.2.5.tar.gz"
-      ],
-      "wheels": {
-        "TB2J-0.2.5-py3-none-any.whl": [
-          "c379cd190a1d0b499de1d5e234794b81c0bfe7ea530056fedd9f457d1fc4d03f",
+        "TB2J-0.2.6-py3-none-any.whl": [
+          "8f3d167a6ae581c65d71321349fef040e04acba78046a8393da9beaf8d0ebeb2",
           "py3"
         ]
       }
@@ -74207,6 +74207,16 @@
         "f84964891abe36002dbf5270ba1824660d576ec183074c2c9f0b8c5f810c3cb1",
         "yhat-1.9.9.tar.gz"
       ]
+    }
+  },
+  "yowasp-nextpnr-ice40": {
+    "0.0.post2616.dev1": {
+      "wheels": {
+        "yowasp_nextpnr_ice40-0.0.post2616.dev1-py3-none-any.whl": [
+          "f3fa3a4b2c755d39eb7e2ea79d9b67264b5aebeb86ec137a2c7b6ab4d8a5b8dc",
+          "py3"
+        ]
+      }
     }
   },
   "z3c.conditionalviews": {
