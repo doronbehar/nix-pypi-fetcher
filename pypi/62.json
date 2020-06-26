@@ -5905,6 +5905,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.5": {
+      "sdist": [
+        "8867703c2d1ae6ac08880ffdbb4dfd2b7bd31377930160a12145847dc5df1557",
+        "bits-auth-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "bits_auth-1.1.5-py3-none-any.whl": [
+          "0a43de888298c9d49e6640ad838bb45d7b90e0507f5edebb4e016168713d2060",
+          "py3"
+        ]
+      }
     }
   },
   "biztime": {
@@ -7484,10 +7496,22 @@
         "bunga-0.38.0.tar.gz"
       ]
     },
+    "0.39.0": {
+      "sdist": [
+        "36c4d0cca7d35a4e69421dc49efd45fea55ec7d24068a24001d1e4fafa20d5e1",
+        "bunga-0.39.0.tar.gz"
+      ]
+    },
     "0.4.0": {
       "sdist": [
         "0a4711ab5bcd7ec781e8355f139a096aac857e7612380f07fba12d44fb34cff2",
         "bunga-0.4.0.tar.gz"
+      ]
+    },
+    "0.40.0": {
+      "sdist": [
+        "04591ab4679edf4ddacd5d85762388225cd6b26586f2138ea18bd609fefb505b",
+        "bunga-0.40.0.tar.gz"
       ]
     },
     "0.5.0": {
@@ -26460,6 +26484,18 @@
       "wheels": {
         "http_request_args-0.1.13-py3-none-any.whl": [
           "7898f82232fb836afa56bc88cfb788df39a18660202e0a92972e575fbc872091",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "3006f2bf89586437bf63074ab43f2823bfa7309f41ea70d47d1af40db23d4e37",
+        "http_request_args-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "http_request_args-0.1.14-py3-none-any.whl": [
+          "812b2b39dd7c8930d290148c383c67d9c51a51d60dd8187f46768cfd6eab792d",
           "py3"
         ]
       }
@@ -56570,6 +56606,18 @@
         ]
       }
     },
+    "0.3.16": {
+      "sdist": [
+        "1367d38e5428a7165f51ab4c6736f01da1a008ddd277c7c77a5036e338058777",
+        "v3io-0.3.16.tar.gz"
+      ],
+      "wheels": {
+        "v3io-0.3.16-py3-none-any.whl": [
+          "b17db0d473071c26cf3a2c36c503717ec12673839a9e35499c0697e67aff2cd2",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "sdist": [
         "870e5ed0fc9654946419b8e18361813181bb24e1f503289a7f4a568ecb16b883",
@@ -58892,92 +58940,6 @@
       "wheels": {
         "wmidevicemanager-1.2.3-py3-none-any.whl": [
           "15c3ea4bd92f536e4cfd15706db263a69e632b0791ceffb0be8a73fcabc2b4f0",
-          "py3"
-        ]
-      }
-    }
-  },
-  "woe-bin": {
-    "0.1.1": {
-      "sdist": [
-        "2df8ee91b25c4c2bd474b69a48583d61e6663a65942fa8b7a8847e0388e2fccd",
-        "woe-bin-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.1-py3-none-any.whl": [
-          "97b6fcb7079a1760e3a8aa9d3f4b6890b63c520db17078a196a8ab00cfebc5c4",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "96a64ecae1a27447e29dabd23a707345fd1338dd96974eba46049ea736b331a1",
-        "woe-bin-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.2-py3-none-any.whl": [
-          "92263ddd08220746d1317ed01a5db37280357f67c1eacfa16fbaafe72441be82",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "bde2c371053318c58dc22fcff68b6ee93ed26300bd01152467ae3c3fad30fb39",
-        "woe-bin-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.3-py3-none-any.whl": [
-          "78e439bd04b1fe978da145fe773ba9a2872061fc0c987bb5fd503529d78c129c",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "f1f10e921e09776b4fd186a0b2e1914370d87686cbdb6247b5e6acee762bcb75",
-        "woe-bin-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.5-py3-none-any.whl": [
-          "835d9d60c1c23f271cf314686b03ac5cd69f7d4907ab97bf04274f4506773b8f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "b1026ac37f22c23fd47820d2f491ee19ef19f9d95fef1c10eeeb2a2517bcc95a",
-        "woe-bin-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.6-py3-none-any.whl": [
-          "9bd96eec55f377b289504e58b67d09b7e885d6c8b5f7c826c0acd91e6f92eb7f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "d95bce22edf82557db71d2dc46bd7590f0900ca4fa45df98e258e0332a196a34",
-        "woe-bin-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.7-py3-none-any.whl": [
-          "22cc11fa169f437d02eb577172b632195ae266a0a2d54c9d2179d83fb3af261f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "dd7080de9871366ef3e12ab71b86e7d6de41ffa6340c5c713765914789f37274",
-        "woe-bin-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "woe_bin-0.1.8-py3-none-any.whl": [
-          "ab5f57139fb8f242c5c5349c98f6a396bbbf8216a2c64173d442be9aa7bb0d26",
           "py3"
         ]
       }

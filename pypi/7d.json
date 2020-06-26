@@ -31201,6 +31201,12 @@
         "8f22e2be557ab267a042720c631e2bf9d6aaf3c266917c45f2dcb407db16ed1a",
         "mmcv-0.6.1.tar.gz"
       ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "75d6a94db24f8e4225e587bd2cea27fb0a023a6ee4f23e3fa59f726d90c29d6d",
+        "mmcv-0.6.2.tar.gz"
+      ]
     }
   },
   "mmir": {
@@ -36348,6 +36354,18 @@
       "wheels": {
         "moto-1.3.15.dev915-py2.py3-none-any.whl": [
           "081a30a193d4b66d03359a9103cdc84502404996c2cdf0ed895ececf35e76fb7",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.15.dev916": {
+      "sdist": [
+        "3e7989c0d715e87775d23c7267f31ec95c398a164df9217cb55d16b693b7dc0c",
+        "moto-1.3.15.dev916.tar.gz"
+      ],
+      "wheels": {
+        "moto-1.3.15.dev916-py2.py3-none-any.whl": [
+          "486e9c1fcaf5286d57e4d66df8221fb9d065d66f24f22e045d34212a17d7bcba",
           "py2.py3"
         ]
       }
@@ -56455,6 +56473,38 @@
           "py3"
         ]
       }
+    },
+    "3.1.1": {
+      "sdist": [
+        "08eb235f95517ef5abd079d052e6d17baf0ea77981f3cd07a6292ae0028eb170",
+        "ServeLight-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ServeLight-3.1.1-py2-none-any.whl": [
+          "10a763c8e9b67581ba2525de85a56b77e2f0a89d6f0c9b1118dbe9373dea56e5",
+          "py2"
+        ],
+        "ServeLight-3.1.1-py3-none-any.whl": [
+          "7a712c6d4a03cff602100df7194fcb3017962071c77e011f9bdb78d8bd8a3fc2",
+          "py3"
+        ]
+      }
+    },
+    "3.1.2": {
+      "sdist": [
+        "b2099636bc65439cc30ffcd6c4f11e5a9eb994fcad564eac74ecc5187fd800f1",
+        "ServeLight-3.1.2.tar.gz"
+      ],
+      "wheels": {
+        "ServeLight-3.1.2-py2-none-any.whl": [
+          "c8f522ba8b212f831fd2ccd97d8afb0b66eae082e78486ae992e4dde2ea5e7ba",
+          "py2"
+        ],
+        "ServeLight-3.1.2-py3-none-any.whl": [
+          "dfcd78609fee4cfdf8f53b8859084c3b86e69bd5371514260a5cdb201529b270",
+          "py3"
+        ]
+      }
     }
   },
   "sg-socket-constants": {
@@ -57227,6 +57277,20 @@
         "sitri-0.7.0-py3-none-any.whl": [
           "57236596ec9a0879fc9bfe2aa4a1a6a03fb931d1f25035537f8c64c2ec9b7bc9",
           "py3"
+        ]
+      }
+    }
+  },
+  "sixfab-diagnostic-tool": {
+    "0.0.2": {
+      "sdist": [
+        "da215e7119bef72e00f5bdae2d7c38b67589c8a6cb6da529db0d390422385535",
+        "sixfab-diagnostic-tool-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sixfab_diagnostic_tool-0.0.2-py2-none-any.whl": [
+          "1b1a332ea35445db215841cca7ccaf235734e0e0c7b54603ea6acc03f07af052",
+          "py2"
         ]
       }
     }
@@ -63306,6 +63370,14 @@
       "wheels": {
         "tfp_nightly-0.11.0.dev20200625-py2.py3-none-any.whl": [
           "3c016346601a4a3e3432429bef068b8685115f81b4d22638bec4334ad70caa20",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11.0.dev20200626": {
+      "wheels": {
+        "tfp_nightly-0.11.0.dev20200626-py2.py3-none-any.whl": [
+          "801ee15fb0739c4ac569f70134bf45ea83f33c2a103644a4225d31e4743b8d04",
           "py2.py3"
         ]
       }
@@ -70188,6 +70260,38 @@
       "wheels": {
         "wait_for_cassandra-1.1-py2.py3-none-any.whl": [
           "a74b8de0cef5d3b465ceafe23790fb32acd2f92d481f873cba4579ac8c24f722",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2": {
+      "wheels": {
+        "wait_for_cassandra-1.2-py2.py3-none-any.whl": [
+          "6842fc12e8a87747e9778c6b0df12536501ddf61e31d520d364794f55dee7dfc",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3": {
+      "wheels": {
+        "wait_for_cassandra-1.3-py2.py3-none-any.whl": [
+          "b6695f52960764a371bde3f1703df8f9effe07126d70078812e415bfe56d0f4f",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4": {
+      "wheels": {
+        "wait_for_cassandra-1.4-py2.py3-none-any.whl": [
+          "9e9c8090084cf438b4b9026324e3fe9c6f7835e7d0bb34ab8d3044f4f7e8f785",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5": {
+      "wheels": {
+        "wait_for_cassandra-1.5-py2.py3-none-any.whl": [
+          "57f44846091ba47e8b1d089910b91ced95fa3a43e8b4f0975c282c7b0e79e8f3",
           "py2.py3"
         ]
       }
