@@ -3342,30 +3342,6 @@
     }
   },
   "ansar": {
-    "1.0.32": {
-      "sdist": [
-        "e9f2eb02f42b8c4a483bcd15c288362bbc00ed0497afb6b5a9c276fe99798aed",
-        "ansar-1.0.32.tar.gz"
-      ],
-      "wheels": {
-        "ansar-1.0.32-py3-none-any.whl": [
-          "f4225713a3e041001c86f3c56913381795429c73bd3b4c84a6806077e0b093f6",
-          "py3"
-        ]
-      }
-    },
-    "1.0.34": {
-      "sdist": [
-        "8b5ce9b591f2f59713e24b43c873cb5435a7fe321157b66226176648b3d1c93a",
-        "ansar-1.0.34.tar.gz"
-      ],
-      "wheels": {
-        "ansar-1.0.34-py3-none-any.whl": [
-          "d9402c42df00b9268df59be3e074dac0b23cfa3d0f2c1b9ff3cd4f3f06d0a9ce",
-          "py3"
-        ]
-      }
-    },
     "1.0.36": {
       "sdist": [
         "393ec37594b532141489e3418be5e164d6362c70cef11255291cd3ca0947bdbe",
@@ -3374,6 +3350,18 @@
       "wheels": {
         "ansar-1.0.36-py3-none-any.whl": [
           "eec52a3a552a907e357b33ba9d72997add52b848afb37b3f7048041f21f87c5e",
+          "py3"
+        ]
+      }
+    },
+    "1.0.39": {
+      "sdist": [
+        "71bd4f3f22150841eaee77ccd5208318afc2d8682cba66e92ef254c1c850f0bb",
+        "ansar-1.0.39.tar.gz"
+      ],
+      "wheels": {
+        "ansar-1.0.39-py3-none-any.whl": [
+          "4ae8ecd2b6a38973bb23a330fc9a40e615d7c2f5b208ae493386d86e7a5d4725",
           "py3"
         ]
       }
@@ -4830,6 +4818,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_sns-1.46.0-py3-none-any.whl": [
           "aa56c2d81e1f1f2021363683259d54f67140dccaec61b02f9500be8da829de0a",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "62c34d497eb95a98ed1a4b2b306f558136ce660db807b583154c7dbd4e4f7986",
+        "aws-solutions-constructs.aws-lambda-sns-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_sns-1.47.0-py3-none-any.whl": [
+          "12625ede73f77ff7f1ee9a9c46ed258c4cef8c3cc9d777f3ea46ef944f1fcd58",
           "py3"
         ]
       }
@@ -8272,6 +8272,18 @@
       "wheels": {
         "boto3_stubs-1.14.10.0-py3-none-any.whl": [
           "13831cb410aa23414651643b4355f9554bea382a72d7f6b47acc2ea492410c2c",
+          "py3"
+        ]
+      }
+    },
+    "1.14.11.0": {
+      "sdist": [
+        "16c80ddec023721f44c1ac8b42e064ff04d68a93aab148173ed7e3f21f940908",
+        "boto3-stubs-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs-1.14.11.0-py3-none-any.whl": [
+          "ab82218591d073733d6d8fe4565499c8bb2b948da9ea3f9155942da2441a6784",
           "py3"
         ]
       }
@@ -15434,6 +15446,18 @@
       "wheels": {
         "dco_check-0.0.6-py3-none-any.whl": [
           "f796aea11ad5fbb404142501d2f119d8132d1652d2c34bd4f05c94a22d11d24f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "67b512a09302ad450a0232db0f9168ffd407be1610fd27be3e5d0c9ed3617aa6",
+        "dco-check-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "dco_check-0.0.7-py3-none-any.whl": [
+          "2bccd51a75410e5310e814d3b8da44ea315d5758d4ad4e138c60ae68d9c6ec5f",
           "py3"
         ]
       }
@@ -32346,6 +32370,18 @@
         ]
       }
     },
+    "0.2.10": {
+      "sdist": [
+        "5b89cef1863ee1a74c79a8ae8dcc611ddc4ea723748c398f6a878e43e8cefaee",
+        "luna-publish-utils-0.2.10.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.10-py3-none-any.whl": [
+          "e66e453aa57589d381328f910e0509b4079bfb509f90002709dee926c426a972",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "dd8caa465a3a94c45ed79683fdff54f222c4a2abe672fac6df18f52b6b252ca1",
@@ -32354,6 +32390,90 @@
       "wheels": {
         "luna_publish_utils-0.2.2-py3-none-any.whl": [
           "4a55162ed6ddb03120fee0a1eb142dc7b00125966178cc30a50aa44e82f6bd82",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "17b975835d70a40329482fbdff00286b7e8b9c4477bf2443ddd0db85165ee88a",
+        "luna-publish-utils-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.3-py3-none-any.whl": [
+          "d4a2c05a6e3d5f80add7a00a5986395e3dd76f7acbad55c5fb409d047f8886dd",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "2bed9d2ca3ed2c18fb8945e89d2e754b1efdaeda44c373b70ea67e7e91f4a55d",
+        "luna-publish-utils-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.4-py3-none-any.whl": [
+          "61af7c3aeeec20e46be79e98e528c02d8cdf9e626a32b5016dcd01a92aaa7ac3",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "dc37152fb890d928d173cbd8089b33f3997eb7f5b730657e697f69d3768786c8",
+        "luna-publish-utils-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.5-py3-none-any.whl": [
+          "573018a6b8f9b7ace89e2daa8fccc36daeaa198dae2da2fc4408ec431fd53e05",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "f10b63ffca2ee9c3af61fd1efc0d83e4d9a0b3b9001bc04c77edb0a161233c25",
+        "luna-publish-utils-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.6-py3-none-any.whl": [
+          "c433ded87aac381daca6add3e9c6c74409646ee0b5431c75c4ed7d7a89d925ac",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "d891ca5976bde71145a6921c1e25930e4f33c4fd4b56f5e78462b5ce7e87ab5f",
+        "luna-publish-utils-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.7-py3-none-any.whl": [
+          "443106fdb45840031cc411d11ce71fd031707699cb0a321d34ae4ce3eb7b1bf1",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "134eea5c48ca2e8c8c7291b1352c2a2f2bc0fda7313df083a313f05854dc74a7",
+        "luna-publish-utils-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.8-py3-none-any.whl": [
+          "f26757644458ecb7c2e479b0b1add591fa57d1f4486e23887634ddd307879ee1",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "af84ac054de36b2ade6c4261187fdfbcfebb98d2073cd07a4d593d90f3595463",
+        "luna-publish-utils-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "luna_publish_utils-0.2.9-py3-none-any.whl": [
+          "e8b1730981788ef656de24197a556a7d81a9f140b10bdb76395ccff4d8c4be84",
           "py3"
         ]
       }
@@ -37900,6 +38020,18 @@
       "wheels": {
         "mypy_boto3_appconfig-1.14.10.0-py3-none-any.whl": [
           "30508ec7afe0a00399f33824c8216ce7094dddd7e7005bcfe2ef200c5d2adaa9",
+          "py3"
+        ]
+      }
+    },
+    "1.14.11.0": {
+      "sdist": [
+        "418ea383cc1126577a15682988c82a3aa8d81c2a55389f3185f613857c13b7fb",
+        "mypy-boto3-appconfig-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_appconfig-1.14.11.0-py3-none-any.whl": [
+          "0c165dc0cbfac92c8c840ff8ed584f5df1a4c618ba9af1359ba33a9c8d062f9e",
           "py3"
         ]
       }
@@ -53864,6 +53996,18 @@
       "wheels": {
         "Simba_UW_no_tf-1.2.3.8-py3-none-any.whl": [
           "14c5667907eea95184eae2f309ea5dfb5e832a132e921b51a8bd8a372342d2c3",
+          "py3"
+        ]
+      }
+    },
+    "1.2.3.9": {
+      "sdist": [
+        "66c3185815a42c7d3109e9f7601a506328e43e7789ec45853df92ec3005855f6",
+        "Simba-UW-no-tf-1.2.3.9.tar.gz"
+      ],
+      "wheels": {
+        "Simba_UW_no_tf-1.2.3.9-py3-none-any.whl": [
+          "e8117f636df36946d3f56f0dff1ba31f07e267e51eb9547ef70e5ef51a6f8bee",
           "py3"
         ]
       }

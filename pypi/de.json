@@ -697,6 +697,12 @@
         "06d32c03a7d0ce13c0dc65b386b49de363904305e6a1583d051361e159d49157",
         "aiosolr-1.1.2.tar.gz"
       ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "ff6d26d899b3d5f1af8e5063fb592c68afea05b91dc39c7e2147b398b92f904b",
+        "aiosolr-1.2.0.tar.gz"
+      ]
     }
   },
   "algonautsutils": {
@@ -11496,6 +11502,18 @@
       "wheels": {
         "dbt-0.17.1rc1-py3-none-any.whl": [
           "53cd67cb2558479fb837a4786dfbd1e8846c21c5d1b6376616a30dec7dff9a9a",
+          "py3"
+        ]
+      }
+    },
+    "0.17.1rc2": {
+      "sdist": [
+        "cc5d8a52279a36d705cc4c3777231c64069cfb852a877193da6173c4384e619c",
+        "dbt-0.17.1rc2.tar.gz"
+      ],
+      "wheels": {
+        "dbt-0.17.1rc2-py3-none-any.whl": [
+          "76301d25ae47f29809f015b717576057f89c4ded15d6db72c2caa62c5bb2a509",
           "py3"
         ]
       }
@@ -35891,6 +35909,18 @@
           "py3"
         ]
       }
+    },
+    "3.141.2": {
+      "sdist": [
+        "b6677f55341a9f41128e233288edec39947a4c758f62db81cb996f9a7299c95b",
+        "msedge-selenium-tools-3.141.2.tar.gz"
+      ],
+      "wheels": {
+        "msedge_selenium_tools-3.141.2-py3-none-any.whl": [
+          "69f6c11fc9b325283cf3dcbff6b63c2cf4c12366423e43969a46d19016bc4ea8",
+          "py3"
+        ]
+      }
     }
   },
   "msmbps": {
@@ -37280,6 +37310,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "7c113a9ba2126a87dc6a2751bb20751429f22a89aadd5c63518fedb4cc1b2521",
+        "mypy-boto3-rekognition-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.11.0-py3-none-any.whl": [
+          "6e95282a7bb15ca9ff42ea4b073250b7ecbe45befd47ef077687cafe8ef27f9d",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "702ed6ae7599ab29468367bf9f2adf107d3008bc3ea2f7bbd5bc4bfbc4161001",
@@ -38618,6 +38660,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.10.0-py3-none-any.whl": [
           "d0202e0e79db668b9777359cf29f5f3abb5483b8c956322bbb0e7676c27d6215",
+          "py3"
+        ]
+      }
+    },
+    "1.14.11.0": {
+      "sdist": [
+        "dfc5fd2a613ee25fa247a8ea26032dd057929ff9b50e16a45a73d5d522410329",
+        "mypy-boto3-route53resolver-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.11.0-py3-none-any.whl": [
+          "504061b42bc0b5106ff5a2c437cbc1c54aab49f69b2b1a611ceff83c99a3953f",
           "py3"
         ]
       }
@@ -53411,6 +53465,12 @@
         "284a033648749f213c89aa6abc2665d4796fea57a82d5e5e9bc088953b25572d",
         "pyqs-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "f16c97f054446fb6a269ff01dd0eeab91b10e7135fd40bb2eef06adbb4abdf3e",
+        "pyqs-0.1.5.tar.gz"
+      ]
     }
   },
   "pyqstem": {
@@ -55832,14 +55892,6 @@
       "sdist": [
         "7d31a4fe1ed417fc2f7c24c4ccf1a8a3016841fd85621fd03ada62b47d63ec78",
         "qidicom-2.3.9.tar.gz"
-      ]
-    }
-  },
-  "qraphql-py": {
-    "0.1.0": {
-      "sdist": [
-        "b138b1af2c7c0166041ef2268bb9b3248cd0dea393b76aa3d00aae0a85d58da3",
-        "qraphql-py-0.1.0.tar.gz"
       ]
     }
   },
@@ -67170,6 +67222,10 @@
           "87f36496db6728b0fbedb8d66e10f9cf8182b0884126850df9729b2b79865be3",
           "cp35"
         ],
+        "tf_nightly_gpu-2.3.0.dev20200625-cp35-cp35m-win_amd64.whl": [
+          "0f9368684d8b30aac75b3a45e96e4ce10b0eefaae125ea2bbc70a6f2017c76b0",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.3.0.dev20200625-cp36-cp36m-manylinux2010_x86_64.whl": [
           "aa65065c976a96f8b2f43a493cac276f0068dc6760f1311b01135b394092c6f3",
           "cp36"
@@ -67178,8 +67234,16 @@
           "9a942f365f1fb23b3a0275b09bdc880f3bc2baea392375b68c33ef3bef6077b0",
           "cp37"
         ],
+        "tf_nightly_gpu-2.3.0.dev20200625-cp37-cp37m-win_amd64.whl": [
+          "ad6488c6c8cd94f9465eae05d0c04c2200394534e8e6427f595141c28352d67c",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.3.0.dev20200625-cp38-cp38-manylinux2010_x86_64.whl": [
           "ae1b7b33c12901d871ee1d1587c9ffa290b8822832521a0873a4e0d802e3cae9",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.3.0.dev20200625-cp38-cp38-win_amd64.whl": [
+          "b1717b329bfd77120451d6c7e25e476ee4c0492968f4e462e2213a24b01c0908",
           "cp38"
         ]
       }

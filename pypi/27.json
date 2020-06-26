@@ -5525,44 +5525,6 @@
       ]
     }
   },
-  "cdm-cli": {
-    "0.1.0": {
-      "sdist": [
-        "68886cd215a6a35b764f76b5dfdf63980c824178093fd008d0f24ad491d759cd",
-        "cdm_cli-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "cdm_cli-0.1.0-py3-none-any.whl": [
-          "ada8a7668b105496fbdb777bb8d188df30253db3534ab63a6b283438001916b1",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "1d5da844ff90b8bf408f656be30692c8db525458b662941798920780612a7541",
-        "cdm_cli-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "cdm_cli-0.1.1-py3-none-any.whl": [
-          "473864188536af93bd40b442bf235c5431db40664b17d21e480cedd41fdf6244",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "949cd7225576573f2935919baaf958f67be2da5e57ef422b5c4ea5275e557923",
-        "cdm_cli-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "cdm_cli-0.1.2-py3-none-any.whl": [
-          "d8851b477936dcd50ae5d8317ce220bb3475401822fd3aa8bf5836668977e207",
-          "py3"
-        ]
-      }
-    }
-  },
   "celery-haystack": {
     "0.1": {
       "sdist": [
@@ -13947,32 +13909,6 @@
           "2.7"
         ]
       }
-    }
-  },
-  "dust-extinction": {
-    "0.6": {
-      "sdist": [
-        "cfbc062b832c076032158e5fe168ee1657bcd7dd892adaa6ebe603995521e8b4",
-        "dust_extinction-0.6.tar.gz"
-      ]
-    },
-    "0.7": {
-      "sdist": [
-        "68c096e60b133cfaa60e641cd6a1c9b45a0f9b82d2cd4c8560ce68db3182373d",
-        "dust_extinction-0.7.tar.gz"
-      ]
-    },
-    "0.8": {
-      "sdist": [
-        "f0e0fa0515f545f920f96b9f2fe5fabe299f1d8d297744421c256cf17915ae1a",
-        "dust_extinction-0.8.tar.gz"
-      ]
-    },
-    "0.9": {
-      "sdist": [
-        "20ca052229fa1e171ad21d3a841ba5c83b0b818259298d0fe146af305a26fbe3",
-        "dust_extinction-0.9.tar.gz"
-      ]
     }
   },
   "dynetx": {
@@ -42727,6 +42663,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "b753b867c309c176a85a17d0b6c819e7f27201aec760a841bac3aa0e1de01dd3",
+        "pyPreservica-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pyPreservica-0.3.1-py3-none-any.whl": [
+          "01991688dbcc4831d02345bc4357deafd2991b207511ac7872d5c353e5ddedbe",
+          "py3"
+        ]
+      }
     }
   },
   "pypupil": {
@@ -50573,6 +50521,68 @@
         "f011deff9dfd76516c55ece77c79e82192cc0b1d8c38cf2d6ef226aa18d91858",
         "statepub-0.0.0.9.tar.gz"
       ]
+    }
+  },
+  "statsservice": {
+    "0.1.0": {
+      "sdist": [
+        "678aa284ab422feda174284ab4e04cbcabfe0974c29b88a0385b744cc9c83df9",
+        "statsservice-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "statsservice-0.1.0-py3-none-any.whl": [
+          "6517a7c9d64ad5afee46b27bdac201d45d9b5a82d897a782f92973ad0188b703",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "a9e559bf6b0e9758f4be5a259e9ff1b556eaf490a67a46ebc88ec905f4733000",
+        "statsservice-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "statsservice-0.1.1-py3-none-any.whl": [
+          "e014a5a17b779c39b2d1e1ac0729005d9e82e2b9b192a1ae83e78c4abc79ccca",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "b764fb608a3f3bdd49e358693a8581b025063e854fc138029371ab9198e6c4b4",
+        "statsservice-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "statsservice-0.1.2-py3-none-any.whl": [
+          "10813ba84e9a9584f959483251c80c3fedf02e0d3fd27907f5945e83adf01fca",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "b410861662b264e775995b8815ed86da907140390753d64d511bab295183d212",
+        "statsservice-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "statsservice-0.1.3-py3-none-any.whl": [
+          "4016cee5faf9dc4d126b379e28a978b5f185a572303cb8ec28dec8b84379d2fb",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "fe9029029d24284e4701d3258454181fd8642310a3ad27758cf197832f319627",
+        "statsservice-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "statsservice-0.1.4-py3-none-any.whl": [
+          "5c31626d17d4250ae01151242e5562aa968a3abb652850f417707cf9ca8605f2",
+          "py3"
+        ]
+      }
     }
   },
   "stdin-tagger": {

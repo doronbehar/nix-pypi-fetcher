@@ -10231,6 +10231,32 @@
       }
     }
   },
+  "cryptonice": {
+    "0.0.2": {
+      "sdist": [
+        "becd55afc02cd55abb4f4576bcc822ee90a5a757fa60198e4a07f139637a4831",
+        "cryptonice-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cryptonice-0.0.2-py3-none-any.whl": [
+          "ba4fa28eb3edc86ad0cb140c0efbb720cc832ce1db6a85efe49eb8830ecbdd6f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "fd5aee4c59e5884360ef91e59a85d18919dcf70177173ce5672afb2d0b3351a0",
+        "cryptonice-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cryptonice-0.0.3-py3-none-any.whl": [
+          "0b67f41dbf57016df2ddeddad55c83d71857b8189745f3394f08ad9f0b996bd0",
+          "py3"
+        ]
+      }
+    }
+  },
   "csr-azure-scripts": {
     "0.0.1": {
       "sdist": [
@@ -39274,6 +39300,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "36e8c77779bc5716c8120b9dd22805233ffc298e75dc933e0e45fd922c5a9bce",
+        "mypy-boto3-docdb-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_docdb-1.14.11.0-py3-none-any.whl": [
+          "1e84b20c12c2566919835d73dff669019a6f2c6ba328a80046b34f81dd9ed345",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "4bbd5e77daae1ae3ebf0c6c258d541ef1d8c5dd7e510307109c9b81c45ba1a18",
@@ -40628,6 +40666,18 @@
       "wheels": {
         "mypy_boto3_ec2-1.14.10.0-py3-none-any.whl": [
           "0fc49adf768dcca5e02d694977b75a3c20f8f0b9de056a96a45fa6333bf0cd60",
+          "py3"
+        ]
+      }
+    },
+    "1.14.11.0": {
+      "sdist": [
+        "7348598c8d2aceafe9aaa99026790d0b7f449280af767f5f23ede20786d73403",
+        "mypy-boto3-ec2-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ec2-1.14.11.0-py3-none-any.whl": [
+          "c80809d9315fc4d92467077956437aa1b53e383e2607e5d5e0d05e272058c3da",
           "py3"
         ]
       }
@@ -51386,24 +51436,20 @@
     },
     "0.5": {
       "wheels": {
-        "pyinvariant-0.6-cp34-cp34m-manylinux2010_x86_64.whl": [
-          "6d5bbe729b26ea0a5a95ea519fffa3d47a463b55e9402131cf74804e3c0b555a",
-          "cp34"
-        ],
-        "pyinvariant-0.6-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "869af4e633596b6f4e0364345efc5b18649ad28f3fee194bb3c4fe00665386f9",
+        "pyinvariant-0.5-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "ee962e5082bb95aa6feb2b664f7166ac01a9cd8bd226bdb7a54e0538634afb40",
           "cp35"
         ],
-        "pyinvariant-0.6-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "a70a274bcfed4d9c10b2881551a481025ff863fc88c27d3929859ac42088ccad",
+        "pyinvariant-0.5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "3f87bd343a091a93cbab6797e3b27a9201693accb7bc1c361439afaff6eac1c3",
           "cp36"
         ],
-        "pyinvariant-0.6-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "8e2d700fd59b70f6eb23bedb1a607a51bdeb35f81166b6f7b46a6c71b690e291",
+        "pyinvariant-0.5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "d7ba3813a867152906f592c7624f9a9b70a5590cca96b11aeb389d8cc3ddd355",
           "cp37"
         ],
-        "pyinvariant-0.6-cp38-cp38-manylinux2010_x86_64.whl": [
-          "757cc969fc9b5fc603485a6a674ed49845f3da1d84af5e3365968e6f56820740",
+        "pyinvariant-0.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "4192abb6a32130c85b974798795ec557b7c998ca7ff8f20b6e6c5f27ed656053",
           "cp38"
         ]
       }
@@ -61002,6 +61048,42 @@
       "wheels": {
         "simple_s3fs-0.1.1-py2.py3-none-any.whl": [
           "278a39ab101a9b841daa7898d8fea712da9e17927fb8928c6b92b17d8ccb4f31",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "283c7b6724245509d341f5f2d56b27e68aaf1202326f90f75b9444fabc323852",
+        "simple-s3fs-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "simple_s3fs-0.1.2-py2.py3-none-any.whl": [
+          "0ba286144ce5a90a7a3786185ae2edac0b3e042f4785367a7a000d0d3a8ee3d6",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "562eb1c608564a8fb05eb651a24313880cf52778001b61489a3299e5e437010b",
+        "simple-s3fs-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "simple_s3fs-0.1.3-py2.py3-none-any.whl": [
+          "c07a4019748a280af69308b8947e8f7e761e62915a2011adf742cced54cadc69",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "e281c870910468afae12aac139359079d8b94eef7969172bafb6882841a2d7de",
+        "simple-s3fs-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "simple_s3fs-0.1.4-py2.py3-none-any.whl": [
+          "e42b651281dd25e780415db991bb53887aa62e07a754cd76591882401de1c234",
           "py2.py3"
         ]
       }
@@ -71350,6 +71432,18 @@
       "wheels": {
         "xyztest-2.0.0-py3-none-any.whl": [
           "280a10e72de9ef74282271872006ebfded606e43a3338d45f305a8a954881d4e",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "03f8e5b13e3df6a5a3b22340a6af1e027706376c1540aa9159ec3e354563b3c5",
+        "xyztest-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "xyztest-2.1.0-py3-none-any.whl": [
+          "831d808a3411f39fddc68ca5d8c5ccd4cdcc69d692be6dcf9361324bdb7ced4b",
           "py3"
         ]
       }

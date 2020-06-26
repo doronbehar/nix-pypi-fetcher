@@ -711,6 +711,14 @@
       }
     }
   },
+  "ajenti.plugin.cron": {
+    "0.1": {
+      "sdist": [
+        "b2b22b369299dd09d5107239f0077cf2c101690202ef8075b113858371764e46",
+        "ajenti.plugin.cron-0.1.tar.gz"
+      ]
+    }
+  },
   "alfpdf": {
     "1.0": {
       "sdist": [
@@ -11455,6 +11463,12 @@
         "8e1b8fff0bff0379ab884ce67bf18fb5dc5ece08b5582ef15704c6a866f5ccbb",
         "django-jacc-3.4.6.tar.gz"
       ]
+    },
+    "3.4.7": {
+      "sdist": [
+        "cdb69fde9d3596ce1c7516c77b03ba4bac88699b4a716ff213d26002dc8fb4cd",
+        "django-jacc-3.4.7.tar.gz"
+      ]
     }
   },
   "django-js-error-hook": {
@@ -13368,6 +13382,18 @@
     }
   },
   "do-mpc": {
+    "4.0.0": {
+      "sdist": [
+        "ea36d18894191be17a4b8308e3def98c6140b153c78e0aadce6d7ea862bf61f6",
+        "do_mpc-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "do_mpc-4.0.0-py3-none-any.whl": [
+          "708157c32427900f9dac2cecd8179441c70e1e61133cb4cc9eafed2e7f9224b1",
+          "py3"
+        ]
+      }
+    },
     "4.0.0.dev0": {
       "sdist": [
         "200e2ee51078e5b646dd860dbfcf79216fb8feb9af2b9ee5a9d2203f2a6216f4",
@@ -28692,6 +28718,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "519fef1e3e3d84e31deaa941590441897a9544056de31647c9a1b9fba302efb8",
+        "mypy-boto3-appmesh-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_appmesh-1.14.11.0-py3-none-any.whl": [
+          "3326bb2ef152daa6ae03c48d4a743da2eb37e522b011e74c8564ccbeea406105",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "bd21501b773d8cf4684c98dc1c97a19e9b1f1ae38405ef1f043bc0528f922be7",
@@ -30038,6 +30076,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "e3032af60dcca34453d1858745fe679824c095e2c8633fe04cd860940663bffb",
+        "mypy-boto3-ram-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ram-1.14.11.0-py3-none-any.whl": [
+          "4c93a9dd73c28a81b538ae5d7a3f0685ee0e10dd2c1d28d728095d27c0488610",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "f9053a11b53ae0b208a545b571750f902598d8f8ffe654a51f6e0daf18bbb232",
@@ -31376,6 +31426,18 @@
       "wheels": {
         "mypy_boto3_ses-1.14.10.0-py3-none-any.whl": [
           "4f9fbd23a5badb9ebade7d393153d901a27c0e1a0cf7231dbd2e7bc7e6a44b68",
+          "py3"
+        ]
+      }
+    },
+    "1.14.11.0": {
+      "sdist": [
+        "2a84ebf9adcdf8e5a7aa5824a1f9a09781f5d0d8e44a33399c5ed9d79edf30b9",
+        "mypy-boto3-ses-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ses-1.14.11.0-py3-none-any.whl": [
+          "4117d582838360328f0b846a435c2fda3ed9670769436075d062afeda8bbe8d1",
           "py3"
         ]
       }
@@ -48158,6 +48220,12 @@
         "sagemaker-1.65.1.post1.tar.gz"
       ]
     },
+    "1.66.0": {
+      "sdist": [
+        "751c44d5b9b5966c7510ff47cd8ed8236646bcbdc064bee7818a1d03f7a8fd12",
+        "sagemaker-1.66.0.tar.gz"
+      ]
+    },
     "1.7.0": {
       "sdist": [
         "ed140c76f8f665d90de630d398c30f3e391348cc858a14e4e4ebce14bc771732",
@@ -48745,6 +48813,30 @@
         "sdmetrics-0.0.0-py3-none-any.whl": [
           "0c77ac9c95e8c00723475d46e29f27c16b79e0e42dcfa93e51d4ddca337c053c",
           "py3"
+        ]
+      }
+    },
+    "0.0.1.dev0": {
+      "sdist": [
+        "6aa7fa1e34dd91f354023e700df4b520258e4d8892ba8e67809c4e9318033b2c",
+        "sdmetrics-0.0.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "sdmetrics-0.0.1.dev0-py2.py3-none-any.whl": [
+          "790034a94b187b76db3eaa2105839feea6e589aa7498e3384e3c195679792468",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.1.dev1": {
+      "sdist": [
+        "6e0eb076441115fece28d81853a7136f2c750969706625013f9ca873543f696c",
+        "sdmetrics-0.0.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "sdmetrics-0.0.1.dev1-py2.py3-none-any.whl": [
+          "1f7ba9ffc005a4513b9573233a00f668063062f6d262811aac26800ada606488",
+          "py2.py3"
         ]
       }
     }
@@ -51099,6 +51191,20 @@
         "spycy-0.2-py2-none-any.whl": [
           "08db6ad3243040a974a74e89a125cc29b37ddbac7ba3c492243252fc50f6c301",
           "py2"
+        ]
+      }
+    }
+  },
+  "sql30": {
+    "0.0.1": {
+      "sdist": [
+        "649bfcb29a587f33c9a228b688634ad9e25da1fb7f54df2553d346fb5e022704",
+        "sql30-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sql30-0.0.1-py3-none-any.whl": [
+          "32255f18e12bccecac31f7910575f48e4395ea7be8250855503a97261be4cba5",
+          "py3"
         ]
       }
     }

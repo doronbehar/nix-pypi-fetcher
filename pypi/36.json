@@ -829,20 +829,6 @@
       }
     }
   },
-  "anonfile": {
-    "0.1.1": {
-      "sdist": [
-        "0e595f9668fda22645bfcd917adcac931ad9ee43d738e1e8bf3b37a637949d90",
-        "anonfile-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "anonfile-0.1.1-py3-none-any.whl": [
-          "e6a34bf323ae6075927bdfcde6deb78a6a134105de4aba89580bd9230d4c6ead",
-          "py3"
-        ]
-      }
-    }
-  },
   "apache-airflow-backport-providers-presto": {
     "2020.5.20rc1": {
       "sdist": [
@@ -1856,6 +1842,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_sns_lambda-1.46.0-py3-none-any.whl": [
           "6f3dc03814aff397a7faae54f2c8e16c2ab2c99b0390ad42f9ca9a1521446d91",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "sdist": [
+        "d0852928b67b5fffd1d52313801c49769de11dc49b9425d676c71c2011d5a0f3",
+        "aws-solutions-constructs.aws-sns-lambda-1.47.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_sns_lambda-1.47.0-py3-none-any.whl": [
+          "4753f4346dfac8e11334f130a938b330f8c81346380adf321d1ed108cf331f03",
           "py3"
         ]
       }
@@ -7924,6 +7922,22 @@
         ]
       }
     },
+    "2.0.81": {
+      "sdist": [
+        "cea97f79983c1031621f2b8def44c8d503f26ee01c75ddc1abc1874f6296f8fe",
+        "coreir-2.0.81.tar.gz"
+      ],
+      "wheels": {
+        "coreir-2.0.81-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ec13274d05269521973044fb57bb6b782cf04444b388dee54e31e35cc7445ed8",
+          "cp37"
+        ],
+        "coreir-2.0.81-py3-none-manylinux1_x86_64.whl": [
+          "4be533a7906fbca2fa426ee4f683bfb2d336f6ba3676632deb16bf15eb624f0d",
+          "py3"
+        ]
+      }
+    },
     "2.0.9": {
       "sdist": [
         "f19d293fd03e8b1088cabf0b7d49db5e5ea18cec22313f44fe64ea8e98fb3cdd",
@@ -12441,44 +12455,6 @@
         "django_quantity_field-1.0.1-py2-none-any.whl": [
           "054c8b325e10c06987424d0a970a19d18c39c0bb0c30b93578db030417d740f0",
           "py2"
-        ]
-      }
-    }
-  },
-  "django-report-builder-rq0": {
-    "6.3.3": {
-      "sdist": [
-        "277fd95ea8dc6bee0b0eee7057cd2dae74868353746abe274993f53738edb178",
-        "django-report-builder-rq0-6.3.3.tar.gz"
-      ],
-      "wheels": {
-        "django_report_builder_rq0-6.3.3-py2.py3-none-any.whl": [
-          "45d6991b4279fea9c4bfb36d503110ff41ee061e4208440df22b44554d014b1d",
-          "3.6"
-        ]
-      }
-    },
-    "6.3.3.1": {
-      "sdist": [
-        "25f5d15429e1fde938c1a61d6aa0326fed758c361133a97799af8557311cf2b0",
-        "django-report-builder-rq0-6.3.3.1.tar.gz"
-      ],
-      "wheels": {
-        "django_report_builder_rq0-6.3.3.1-py2.py3-none-any.whl": [
-          "b1371ba2b6b19458fe6339f0d000788d4bb8d1fb2d3c35d8b8e9cf07666f4ddd",
-          "3.6"
-        ]
-      }
-    },
-    "6.3.3.3": {
-      "sdist": [
-        "d27c68287811591ce656bacde5d9e9ad3afbc39b9fa1cd401962f92a298da9d9",
-        "django-report-builder-rq0-6.3.3.3.tar.gz"
-      ],
-      "wheels": {
-        "django_report_builder_rq0-6.3.3.3-py2.py3-none-any.whl": [
-          "a2cad12215bb5fa4917a2f421b9ef8b15844a69840398f069d65d5bf6def596d",
-          "3.6"
         ]
       }
     }
@@ -18009,6 +17985,20 @@
         "53ad50e0e33c4297f67d9beb96e5bbb46dc325117d5148786b29030eac9add5b",
         "gping-0.1.tar.gz"
       ]
+    }
+  },
+  "gpssi": {
+    "0.1.0": {
+      "sdist": [
+        "7140c0f0765edc6e09a38c8714a17b0104de671d027da33d540c7b6bbbc6e8ce",
+        "gpssi-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "gpssi-0.1.0-py3-none-any.whl": [
+          "a3aba30359d2dc9afd6aad5f5ad399e21ac0d71cd99050c2d5071c0819ebd8bb",
+          "py3"
+        ]
+      }
     }
   },
   "graphstar": {
@@ -27572,6 +27562,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "98455d63fa6fd0ddfef28d6a44db0445cc43424ff80960a877dd38e521699b97",
+        "mypy-boto3-dax-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dax-1.14.11.0-py3-none-any.whl": [
+          "f9ce16688db583f8e9c9d10796d38ea1b3390c3830100858e71d5b2c90155ac1",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "bace7e6e446a013be768e53bad189380e8b27d920871332222ea7ecd2bb48ff8",
@@ -28918,6 +28920,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "2a158539fadcbf9106e79dbdcabd096ff8b9035e95fb70cd14d38a51bc88b43e",
+        "mypy-boto3-qldb-session-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_qldb_session-1.14.11.0-py3-none-any.whl": [
+          "d5366ac0b99d28791dae7b89678816389197fbf83949e0f31b966b2742e638cf",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "fd7534a4ddb79b0e06431332f18531cf56e01b767a5c153a5255e68747658d22",
@@ -30260,6 +30274,18 @@
         ]
       }
     },
+    "1.14.11.0": {
+      "sdist": [
+        "e9e911989359093f337a5934b229ceceb792fe256ce8b339b9eb1d2a1dcaf580",
+        "mypy-boto3-workspaces-1.14.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workspaces-1.14.11.0-py3-none-any.whl": [
+          "8a882a5830fe520ba0f6a171630f379c55d76e0f0fcf5119e1c138f4c2246052",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "741866f6fa6072bab731840edb5c31c832fb0aa1e895796b49ffdce14ba0415a",
@@ -30956,6 +30982,14 @@
       "wheels": {
         "mzutils-0.1090-py3-none-any.whl": [
           "e41491fc34561176b9f88656fb2ae3922fccd801d330713ea1e8aea3c666a9a3",
+          "py3"
+        ]
+      }
+    },
+    "0.1091": {
+      "wheels": {
+        "mzutils-0.1091-py3-none-any.whl": [
+          "40e423fc5cf19c377a8aeb871b4085191d85f17f86551e89e3e750e5ac0e4f42",
           "py3"
         ]
       }
