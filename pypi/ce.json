@@ -2481,6 +2481,14 @@
       ]
     }
   },
+  "bgdistribution": {
+    "0.1": {
+      "sdist": [
+        "75ee7102c131d83fa598cb5975dfdaeb914a507e858bf75fc972039c99f6cfb0",
+        "bgdistribution-0.1.tar.gz"
+      ]
+    }
+  },
   "bifrost-src": {
     "1.0.4": {
       "sdist": [
@@ -35054,6 +35062,18 @@
         ]
       }
     },
+    "1.14.12.0": {
+      "sdist": [
+        "e5625c7e2a1357df60ebd9c5bbc18afe0d9617efea397f9adf3c4735e308b5bf",
+        "mypy-boto3-xray-1.14.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_xray-1.14.12.0-py3-none-any.whl": [
+          "54d9cc9d1a4cb2688e027a73574dfa9303b195ad1cf96027226bb597204d71d2",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "683e283c1f722a5b97c1d09eb5bfaf1dad3f9b85bb1a6b3c5be7875991fe3810",
@@ -39021,6 +39041,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "264f48865affa080e481dce42d6976eda38580a36aa79f35cc4ebec0e9a6e68a",
+        "opytimizer-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "opytimizer-2.0.1-py3-none-any.whl": [
+          "75063163416557557226b5fffe8d9a45d528cca8a6475332d8212c8153ca7c73",
+          "py3"
+        ]
+      }
     }
   },
   "orgreport": {
@@ -42497,6 +42529,20 @@
         "ce5fde3929c682a37e51fd458d6b51920dae048516dfe9dddc11a778b98f9b00",
         "print-1.3.0.tar.gz"
       ]
+    }
+  },
+  "printp": {
+    "0.1.1": {
+      "sdist": [
+        "e36cea547dd33586a8d44a9c50cc580a256820878423a90062d477c99f9d30cb",
+        "printp-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "printp-0.1.1-py3-none-any.whl": [
+          "a91a8dddf2f974cdc57200c986decce01721f35772495759c0d1e44753fa7bb4",
+          "py3"
+        ]
+      }
     }
   },
   "progressbar-latest": {
@@ -50835,6 +50881,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.5.0b4": {
+      "wheels": {
+        "rsconnect_python-1.5.0b4-py2.py3-none-any.whl": [
+          "aae4e2b8b56f62b185f14109c38a4379e1aff406c435b11c636d86451867c6e6",
+          "py2.py3"
+        ]
+      }
     }
   },
   "rt.simpleslider": {
@@ -53665,6 +53719,20 @@
         "6feded23e00d6abb25d2cd22f0daf16ea10a0ad7cda49eb81ecc022f5573c52f",
         "sparsegrad-0.0.9.tar.gz"
       ]
+    }
+  },
+  "sparselinear": {
+    "0.0.2": {
+      "sdist": [
+        "8b191296757fc67ee3bdae6afbf3f145797c6e318c6d7f497d0b62be0c048b24",
+        "sparselinear-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sparselinear-0.0.2-py3-none-any.whl": [
+          "591008a2df7d2a8bdd2045efbb1ea0d001c243a8062c47716a30398d3206d4b0",
+          "py3"
+        ]
+      }
     }
   },
   "spemm": {
@@ -60580,6 +60648,58 @@
         ],
         "tensorflow-2.2.0rc4-cp38-cp38-win_amd64.whl": [
           "2f1332394b6d438732b5458aaafce31b549331337892a72c93106ccefd4aeaec",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0rc0": {
+      "wheels": {
+        "tensorflow-2.3.0rc0-cp35-cp35m-macosx_10_11_x86_64.whl": [
+          "9bf55dc57548b9152c3f3d6037b4b22387f158c43577568d4e24e3662f5c6bad",
+          "cp35"
+        ],
+        "tensorflow-2.3.0rc0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b7103d9961222ee2ca7d3887dd846f985550f364b7612648b1d78c07e6073404",
+          "cp35"
+        ],
+        "tensorflow-2.3.0rc0-cp35-cp35m-win_amd64.whl": [
+          "ba6766a77c3188ea66896f372d6b093942f5e5fb6f1e4594504426117ca729ec",
+          "cp35"
+        ],
+        "tensorflow-2.3.0rc0-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "8c4236dd8052a5a020698cf81b2109b61097e739c4a9c5f1eb4a4c4056332e2f",
+          "cp36"
+        ],
+        "tensorflow-2.3.0rc0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "e241249c208931622ff358c9f0648bb6a865bdd2852685ae882690a58549ae6c",
+          "cp36"
+        ],
+        "tensorflow-2.3.0rc0-cp36-cp36m-win_amd64.whl": [
+          "ef99e064bb222b10ecb74d04e8b966855fef5479d231d31ae7f2c15212c913c0",
+          "cp36"
+        ],
+        "tensorflow-2.3.0rc0-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "afdc1664a61547cebcb5713d4f0c56ec8e91e051251b750d1b40eef960e9191b",
+          "cp37"
+        ],
+        "tensorflow-2.3.0rc0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "284ddcd10191d0034077ac583b225a3684962fdc69d622dbda93a29aaa8e3c6c",
+          "cp37"
+        ],
+        "tensorflow-2.3.0rc0-cp37-cp37m-win_amd64.whl": [
+          "749ae2547193577f87ebef3c6ab71781c9aff77c1125d3005b057190dfd87ec0",
+          "cp37"
+        ],
+        "tensorflow-2.3.0rc0-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "8fd62c6f6ccc96b46fa8fad28e9efb0507c6356627f76b4a732e822c03936d0b",
+          "cp38"
+        ],
+        "tensorflow-2.3.0rc0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e6300410295729f73be6ea5a11cf3e48d898d068cd03f7ccbbb525ba31c84928",
+          "cp38"
+        ],
+        "tensorflow-2.3.0rc0-cp38-cp38-win_amd64.whl": [
+          "159ac30845e9a166ed6a97424f706ffd3fdc2f7e035a702acaeccf08428afd8d",
           "cp38"
         ]
       }

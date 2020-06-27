@@ -126,8 +126,20 @@
         "adzerk-decision-sdk-1.0.0b3.tar.gz"
       ],
       "wheels": {
+        "adzerk_decision_sdk-1.0.0b3-py2-none-any.whl": [
+          "1c948b85abb77658a4ca5c53d39d4528a41653e7c20db797476dfb7c9471a4a7",
+          "py2"
+        ],
         "adzerk_decision_sdk-1.0.0b3-py3-none-any.whl": [
           "ad94fa8b0ba73a29976e76d4bb04b4748d7361b37e18a8045015c99e4b3ea924",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0b4": {
+      "wheels": {
+        "adzerk_decision_sdk-1.0.0b4-py3-none-any.whl": [
+          "dc9003997d592f9e7c21c62e3572e09e046087fce9288779016a75803874f19a",
           "py3"
         ]
       }
@@ -9006,6 +9018,12 @@
         "canvasapi-0.15.0.tar.gz"
       ]
     },
+    "0.16.0": {
+      "sdist": [
+        "7458d47d9d6d22b10ecd51f158e6a7d12ddce6b1d5c0a21d8aaa86f5bc25d541",
+        "canvasapi-0.16.0.tar.gz"
+      ]
+    },
     "0.3.0": {
       "sdist": [
         "d6425a1917736d6ecd145b39a0436343995f4d6e2a53707dff53d5c2bd43f1ec",
@@ -10010,6 +10028,14 @@
       "wheels": {
         "checkerboard-0.2.3-py3-none-any.whl": [
           "e51c2535606a44106d61b5e70fc66ef1e06f5258f3e08e58e8e51f079d0759dc",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "wheels": {
+        "checkerboard-0.2.4-py3-none-any.whl": [
+          "1fda1b835bb0c861fa90e8f3555629efc5457bd6c6afa36b4ca3c5c7b1417969",
           "py3"
         ]
       }
@@ -36648,6 +36674,18 @@
         ]
       }
     },
+    "1.14.12.0": {
+      "sdist": [
+        "b1e0f351b3b8aad2a6539d117dc21c1a2d04b15d53f9403a16db1f4382f1a227",
+        "mypy-boto3-workmailmessageflow-1.14.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workmailmessageflow-1.14.12.0-py3-none-any.whl": [
+          "42ce088b91ad783ca8ecf5af77941dfb900d9ca3d00b0fc952180a9a8aeccb73",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "c81ee61831786d623d102cd4777adf5fa8511491c6133e7eb2fb1dbfb43caccb",
@@ -53766,14 +53804,6 @@
       "sdist": [
         "976947fa4256d4340406f9165371b1f7ccbff8bca36678adcffaabf425c6ad8f",
         "sphinxcontrib-plantuml-0.9.tar.gz"
-      ]
-    }
-  },
-  "spiders": {
-    "0.0.1": {
-      "sdist": [
-        "1c735a898c199eda3aadad08efaeeb3f78a985648be2465886e6a0a391af6f43",
-        "spiders-0.0.1.tar.gz"
       ]
     }
   },

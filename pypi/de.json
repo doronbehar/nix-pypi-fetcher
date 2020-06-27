@@ -703,6 +703,12 @@
         "ff6d26d899b3d5f1af8e5063fb592c68afea05b91dc39c7e2147b398b92f904b",
         "aiosolr-1.2.0.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "db139798467536c7f320d670a132ce8b46e4e2eae89e7d085243994bee016bed",
+        "aiosolr-2.0.0.tar.gz"
+      ]
     }
   },
   "algonautsutils": {
@@ -37322,6 +37328,18 @@
         ]
       }
     },
+    "1.14.12.0": {
+      "sdist": [
+        "6fd5388b52c770c45f05fef91505287d5e58b6d5cc2b4f58e271e52ee3a95aa4",
+        "mypy-boto3-rekognition-1.14.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.12.0-py3-none-any.whl": [
+          "0bddaa2dfd7d1529269495c1b421db5cfe7f0dd62cb7e880638e2dc2afe2830a",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "702ed6ae7599ab29468367bf9f2adf107d3008bc3ea2f7bbd5bc4bfbc4161001",
@@ -38676,6 +38694,18 @@
         ]
       }
     },
+    "1.14.12.0": {
+      "sdist": [
+        "003abd94aee7ea061724b7a8bf19d1440dd2ec9dc52c046de0e2b8dd29c30907",
+        "mypy-boto3-route53resolver-1.14.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.12.0-py3-none-any.whl": [
+          "1c4defdfac4856dad191eb1e44133937481474bd80c8abe20611795944583882",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "0a5cf903f73cb4ffe6a5eeeb7ce16cc66b37bf5fb91b895567d063677e569aca",
@@ -39868,6 +39898,18 @@
       "wheels": {
         "novelWriter-0.9.1-py3-none-any.whl": [
           "b70c3b46b774000cbc0557b2424bbd009a629cbb6b5ebb527af2fa65f3c65849",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "c76a58524aa3e3bca226fe9f76d746dc1faa32262efad7489bd2de797c1e40b1",
+        "novelWriter-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "novelWriter-0.9.2-py3-none-any.whl": [
+          "578e4977c5c567cb574f902956e843d6b2d2086ec773c6880548d94ce544f096",
           "py3"
         ]
       }
@@ -67278,16 +67320,32 @@
           "a8caa5f3afe55aa52474c9fff8833b763ac3bbc68fc96c7e910652954ec2a725",
           "cp35"
         ],
+        "tf_nightly_gpu-2.5.0.dev20200626-cp35-cp35m-win_amd64.whl": [
+          "ced841ca80cd67e533f84bb1f1ed9a3fe87d73287a227f676d7ff7ac014ee606",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.5.0.dev20200626-cp36-cp36m-manylinux2010_x86_64.whl": [
           "e295406814c68a153058e95e7c41a7ed95978b3a7833573e2e253a490f2cdc48",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.5.0.dev20200626-cp36-cp36m-win_amd64.whl": [
+          "ce0b5c170544fc5998183fe4f80111ff844aec8ed369a3e584cf2434a6f55ff6",
           "cp36"
         ],
         "tf_nightly_gpu-2.5.0.dev20200626-cp37-cp37m-manylinux2010_x86_64.whl": [
           "08f8c9e270875a461c877949218473aee8466c733758f1d674ccef935e417efc",
           "cp37"
         ],
+        "tf_nightly_gpu-2.5.0.dev20200626-cp37-cp37m-win_amd64.whl": [
+          "0334c976bf651e18a9ef0fc2048cf0491bc2ed254fedfab9fd949c64653c31ad",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.5.0.dev20200626-cp38-cp38-manylinux2010_x86_64.whl": [
           "f58110b2ed3867b7c58517b3eff78459a887c76cdb0a93b0a5e31a5e65868355",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.5.0.dev20200626-cp38-cp38-win_amd64.whl": [
+          "5189ffd4721386c3cdf228814927cb4bc9869361f4c2ec703e82cee2ff94e51f",
           "cp38"
         ]
       }
@@ -71449,6 +71507,20 @@
         "xbos_services_getter-0.0.2.dev9-py3-none-any.whl": [
           "81e6aa4d18b786a2c0981beaf211728d35b07bf4daea50bd8e2167b9ec6e9f84",
           "py3"
+        ]
+      }
+    }
+  },
+  "xfsort-collection": {
+    "1.0.3": {
+      "sdist": [
+        "a5f593093eadaae93ba196f0587f9dd7eee504d904a0c240c7c53665d8c39928",
+        "xfsort_collection-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "xfsort_collection-1.0.3-py2.py3-none-any.whl": [
+          "95ee06d79d201f7034babb8be1b0ac3420f4273583e6f5a1db2efbaf13b4d239",
+          "py2.py3"
         ]
       }
     }
