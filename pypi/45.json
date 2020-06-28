@@ -1096,6 +1096,18 @@
         ]
       }
     },
+    "1.10.7": {
+      "sdist": [
+        "2c9fd670411424e84f4fa7513476b4b459711beaed8a6d49cc1d79ddfa895aea",
+        "AlexaPy-1.10.7.tar.gz"
+      ],
+      "wheels": {
+        "AlexaPy-1.10.7-py3-none-any.whl": [
+          "59b5256efd29555104f0230f3dce334f093691a3f2eb7073e83ab5fbd93a9cdb",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "a060a2f807f1c1a9928d3a1453543ffe2a96908714d988255ca2fe48eccb5f41",
@@ -7465,26 +7477,6 @@
       ]
     }
   },
-  "classifiers": {
-    "2019.4.13": {
-      "sdist": [
-        "bcffff331a5582394a576d318bc17fae1874b50603cac683afe46c746b9d42a6",
-        "classifiers-2019.4.13.tar.gz"
-      ]
-    },
-    "2019.4.2": {
-      "sdist": [
-        "c6520b341600bfdab4125595f0281e09686883671b916ee6a8fd28dcea11ed19",
-        "classifiers-2019.4.2.tar.gz"
-      ],
-      "wheels": {
-        "classifiers-2019.4.2-py2.py3-none-any.whl": [
-          "2c923f311332b9c7d4dbe2efb8195d4290b41c3dc4083e7d757bdde66b5ef2f9",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "clicast": {
     "0.4.5": {
       "sdist": [
@@ -9884,110 +9876,6 @@
       "sdist": [
         "8612847f10cbea4836238602b7820b91c9af30d0e8bef269b364234d89c9d4b3",
         "ctkapi-1.0.tar.gz"
-      ]
-    }
-  },
-  "ctpn-text-detector": {
-    "1.0": {
-      "sdist": [
-        "380580d981ca2f38f1459d3f6f3e7c4ff2c484e0a785d28193554ebce68b4144",
-        "ctpn-text-detector-1.0.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-1.0-py3-none-any.whl": [
-          "42080e45c329968452d3c2fe2c0ced964f91e90b4cf60e45d888ac89f0cf168f",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "f6ea674530538c66d5350074703d303f29cbd95c66f152415c3c91c4dfeff36a",
-        "ctpn-text-detector-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-1.0.1-py3-none-any.whl": [
-          "5f8713f04903869bbf2a737bdd7b0f522cd6e37a21c1faaa123d4584f492d084",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "04609e275bbbc5500c5b5ea85f36b747bada5edae3f6d74adfe602620f8f5976",
-        "ctpn-text-detector-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-1.0.2-py3-none-any.whl": [
-          "93df0ef490bc081fc7ca1da0653f5005c5518ca59f6d226c2b926dfb028cbe8a",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "1506da3c5c134e73aec3a93418b8baf11772e64bb43c93a99155136ba71a9af6",
-        "ctpn-text-detector-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-1.1.0-py3-none-any.whl": [
-          "f1fba08b56c212731a2101d97b0f9a40719b923cc8e0e2e245c31df2adf3bc87",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "sdist": [
-        "abc7daee2720ec948c1f0dbd5f6e516454030f927f5978be84b679dfbe3d9b5b",
-        "ctpn-text-detector-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-2.0.0-py3-none-any.whl": [
-          "86eff435baffd95f6c28260099dfd7861a05a99779398b1c8fdece546f6369c0",
-          "py3"
-        ]
-      }
-    },
-    "2.0.7": {
-      "sdist": [
-        "cac8d6110a2f592f5ea31ccd5dd8f96e70aef36510be7c05f562ab7885b6d7d4",
-        "ctpn-text-detector-2.0.7.tar.gz"
-      ],
-      "wheels": {
-        "ctpn_text_detector-2.0.7-py3-none-any.whl": [
-          "bc7ac44c02a29ee35f648427c34e3635c8f6dbbc342e067b956148a4f92cfab6",
-          "py3"
-        ]
-      }
-    },
-    "3.0.1": {
-      "sdist": [
-        "b317d4a2eedb21baec00efdaad8d301715d69c4e7eaa686d88831348ea9c63e9",
-        "ctpn-text-detector-3.0.1.tar.gz"
-      ]
-    },
-    "3.0.2": {
-      "sdist": [
-        "9442b368dd08de67360ef9f49c11f645c3852e2a07fa883d1fd0f5b1819e1b1a",
-        "ctpn-text-detector-3.0.2.tar.gz"
-      ]
-    },
-    "3.0.3": {
-      "sdist": [
-        "2a9d1bab2a75bc67881f29ee1be4f07c61fa3afa4fe0d4bf0a290a2904ac4966",
-        "ctpn-text-detector-3.0.3.tar.gz"
-      ]
-    },
-    "3.0.4": {
-      "sdist": [
-        "f22a57c8f7453e3b3d41c429d7062ef6a0aea713fc7ab7428171e8e988fddccf",
-        "ctpn-text-detector-3.0.4.tar.gz"
-      ]
-    },
-    "3.0.5": {
-      "sdist": [
-        "c1fa3030ba3ef2ee17654ce540773d8e7338b614314d50e6d5c5fece273f1fe5",
-        "ctpn-text-detector-3.0.5.tar.gz"
       ]
     }
   },
@@ -50885,6 +50773,12 @@
         "3e6db0709a65d9211ab8d2aa91137dc573c611f870a43c9b2c73114103a1c5c0",
         "pyTigerGraph-0.0.6.1.tar.gz"
       ]
+    },
+    "0.0.6.2": {
+      "sdist": [
+        "da6813613907c3ae1282fa61093f06d5efb2287d1efb7585ab139ff6d6585820",
+        "pyTigerGraph-0.0.6.2.tar.gz"
+      ]
     }
   },
   "pytket-honeywell": {
@@ -65312,6 +65206,12 @@
       "sdist": [
         "7566a88e81c63a578b569675de982bd2e1dfa9ea7220359c148791b9b821fdda",
         "x-atp-cli-0.2.5.tar.gz"
+      ]
+    },
+    "0.2.6": {
+      "sdist": [
+        "b8b40b7be380525c65839f50a7dd2d04a93059271c3f321df8e254915bbf0ed7",
+        "x-atp-cli-0.2.6.tar.gz"
       ]
     }
   },
