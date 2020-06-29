@@ -16573,6 +16573,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "33f06c0374e20b2a06f66b21724fadc3441d53c661f6510d943949ff0ed50586",
+        "energysim-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "energysim-1.0.1-py3-none-any.whl": [
+          "0836dba8c09c51cdcda93cac51e51577e87bc938b5d4cf08634f00c207cc1776",
+          "py3"
+        ]
+      }
     }
   },
   "enocean-async": {
@@ -20204,6 +20216,12 @@
       "sdist": [
         "073c30ab191531211fa4f717ef3f24d6de7e6fdf3d13bfb7dda910011a27da52",
         "fireant-5.9.1.tar.gz"
+      ]
+    },
+    "5.9.2": {
+      "sdist": [
+        "9dac2e04e84ec775261758e24029329f9c8b372b7b72eabdeaf77d02ee32391a",
+        "fireant-5.9.2.tar.gz"
       ]
     }
   },
@@ -33587,6 +33605,18 @@
         "e45aab7421615957a5735c24856a64606db29f730471a47d8611a8699766da76",
         "nb2md-0.0.25.tar.gz"
       ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "2744f5bb83269028713aad62c7207c3928357094960735c7a5f3d7e8b0f1867f",
+        "nb2md-0.1.4.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "790a26b318ca4a785054ebd9c37e2e3bd8811880750540db3f2d9934cd319aaf",
+        "nb2md-0.1.5.tar.gz"
+      ]
     }
   },
   "nbcrawler": {
@@ -37825,6 +37855,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_sale_timesheet_rounded-12.0.1.0.1-py3-none-any.whl": [
+          "11056ae48c92adab6e47d4c55055a0a50febecce7758b7595aca5486d4a2354a",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-web-send-message-popup": {
@@ -40803,80 +40841,6 @@
         "479f4848869366550cd23612f2c74cc0c6b75b73f5e25c843f17e1613b8738e0",
         "oodt-1.1.dev0.tar.gz"
       ]
-    }
-  },
-  "opencv-python-nonfree": {
-    "4.1.1.1": {
-      "wheels": {
-        "opencv_python_nonfree-4.1.1.1-cp27-cp27m-macosx_10_8_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "4e7a877019a9fb9419e68d1090f84b3656e404be802c375f7add992e9a711a95",
-          "cp27"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp27-cp27m-manylinux1_i686.whl": [
-          "c300080820d55580fe4f78bec8e424f5f0804b55d1ef6f485749296e54d27cf0",
-          "cp27"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "187711af075c3e4ec669a17f001e62be36cc52971dae0e8cf28d5619d02a4ebb",
-          "cp27"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp27-cp27mu-manylinux1_i686.whl": [
-          "f3c5d5e38e0d2236dd1c3344b3610053fa9c0d8ae8cf8d5ca374481863a6da53",
-          "cp27"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "377936efa7712a525fcc8313f834611b2b2d1bed09facc60e09d17e0661c4132",
-          "cp27"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp34-cp34m-macosx_10_8_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "538ab81c4238645f18b47722d79b46a4b37d6824fac53cdebf06a6b7f138b09c",
-          "cp34"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp34-cp34m-manylinux1_i686.whl": [
-          "32b7d83683749da03bca650b13c153def8fa5f12f4e262009c1f99ddaa14a357",
-          "cp34"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "24756505a1b63428014a58d399907bfbab24413cfea8c6cc83402215817b8183",
-          "cp34"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp35-cp35m-macosx_10_8_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "bb31270bb0316eff485fed85754d0c4408ade28a8b06a5fbd49bf064d605ad31",
-          "cp35"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp35-cp35m-manylinux1_i686.whl": [
-          "730722f03c9bc1a86b5d25be4a8c17f663950e3bb551e3dd6a4258b262633cfe",
-          "cp35"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "b2af5a698e41e83911966dbce7f5c6af1dd1aef201e00be20962105046f48eac",
-          "cp35"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp36-cp36m-macosx_10_8_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "7a7a0c88fe8753518f94e3c4d3ef048e18bddaf2a26d72882727f65d1c85619f",
-          "cp36"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp36-cp36m-manylinux1_i686.whl": [
-          "67e6a3e537faf257fac250b7f0d1a7347aa6edb55b6113e99562bead4cb815d6",
-          "cp36"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "35a86f6249f7581491e6aa33ff0467a2886650ce5abe6e6385484d65cdbc44bb",
-          "cp36"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp37-cp37m-macosx_10_8_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "061878a89e7efd84f9c2b0398b9fa3dbfbcb618260d18e27a72e6892a7e5ac09",
-          "cp37"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp37-cp37m-manylinux1_i686.whl": [
-          "a66b5643d2a9f5a937754297eca963105527691f530eb673b680ee683fa6804f",
-          "cp37"
-        ],
-        "opencv_python_nonfree-4.1.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "4ea7e4a84ee315c41e89f9d291d6256f6cc28b566d2e9aeadc14b37ddc0441c6",
-          "cp37"
-        ]
-      }
     }
   },
   "openerp-client": {

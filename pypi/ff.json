@@ -11369,20 +11369,6 @@
       }
     }
   },
-  "customfn": {
-    "1.4": {
-      "sdist": [
-        "14199d7c89c13e782c4efde12e880435d0751c790471bde74b59daa51e1a1054",
-        "CustomFN-1.4.tar.gz"
-      ]
-    },
-    "1.7": {
-      "sdist": [
-        "7d614ac58b238f87dfde138e12e5ad6cb60e782f4bea8386ebce4506a7a7d469",
-        "CustomFN-1.7.tar.gz"
-      ]
-    }
-  },
   "cvra-bootloader": {
     "1.0.0": {
       "sdist": [
@@ -12754,6 +12740,18 @@
       "wheels": {
         "dagster_k8s_nightly-2020.6.28-py3-none-any.whl": [
           "a09d721816083f20df8bb9d0ed57e41a9d63d99d29e2448d7dbc44dc37524bc8",
+          "py3"
+        ]
+      }
+    },
+    "2020.6.29": {
+      "sdist": [
+        "3e12e08f610068a8f0d870cda12d758712a71b2d756100e48f6870b5b7c1b60d",
+        "dagster-k8s-nightly-2020.6.29.tar.gz"
+      ],
+      "wheels": {
+        "dagster_k8s_nightly-2020.6.29-py3-none-any.whl": [
+          "2227b2fd589fba964a78cf0f86fc5fcc06030cd1c012b600263d579388e1c524",
           "py3"
         ]
       }
@@ -33169,6 +33167,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "wheels": {
+        "MoveItPa-0.0.3-py3-none-any.whl": [
+          "89e9c8701566e4b9cf7dc483b2d481cb1f704d2613e53e796225e532fffaa3a3",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "MoveItPa-0.0.4-py3-none-any.whl": [
+          "cfdbc6ef59330981fd6a85c062184a460f5a24575f1bc9f8dd5cd51781026219",
+          "py3"
+        ]
+      }
     }
   },
   "mozdownload": {
@@ -34100,32 +34114,6 @@
       "sdist": [
         "b3cffbb0aacc083fd7cf9be9325c80ff95347b42b4ef9607e8f4c1130764fe4b",
         "nesterfaund-1.3.0.tar.gz"
-      ]
-    }
-  },
-  "nesterkh1688": {
-    "1.0.0": {
-      "sdist": [
-        "5ca719e98fe66031c52c179598893c030600211e9c21dc9e668edb19d5dcfc30",
-        "nesterkh1688-1.0.0.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "11e21d590d112f5aea4b7b2063b87f1c6ad4568e73fe2428df4547943217e638",
-        "nesterkh1688-1.2.0.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "9b19c9f24f4672c6814da124822eea241edc6bf5e3265cce85759685adc684e7",
-        "nesterkh1688-1.3.0.tar.gz"
-      ]
-    },
-    "1.4.0": {
-      "sdist": [
-        "e574f01bfbf23851745c7d52a500a3633e60667fd0f1f77e05bf8dc41cc4036f",
-        "nesterkh1688-1.4.0.tar.gz"
       ]
     }
   },
@@ -49197,116 +49185,6 @@
       ]
     }
   },
-  "pyrtable": {
-    "0.5.0": {
-      "sdist": [
-        "bfc7cab78dd1eeb0f592cde9bfb4092d0da02e57fbafacc88352b4a423616b7f",
-        "pyrtable-0.5.0.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.0-py3-none-any.whl": [
-          "40bf0dc6d0897c6014899bbb42dfeef086ebde9830e29307ec57ac272101a869",
-          "py3"
-        ]
-      }
-    },
-    "0.5.1": {
-      "sdist": [
-        "beb28949c0555510b7e7a25163946206bb005dd669cac57187dcfac13ee9003f",
-        "pyrtable-0.5.1.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.1-py3-none-any.whl": [
-          "a7f8c655f4f1e4f3e13417c9b1160c80fd8fa4be2b2fcb9244cf212bcfd3d5b6",
-          "py3"
-        ]
-      }
-    },
-    "0.5.4": {
-      "sdist": [
-        "736e19a47551c9a6c99957081c79397486e783cce995f582e3cc4e24614be358",
-        "pyrtable-0.5.4.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.4-py3-none-any.whl": [
-          "ba9bcd97bad1d3f3dd0f03ea856ced00d9d609dbfaf95e71df8288d663ec28e2",
-          "py3"
-        ]
-      }
-    },
-    "0.5.5": {
-      "sdist": [
-        "72f87a37312df16bf966c97c191b64f6223dc6ac68e42fbf10519b8023c9f5b0",
-        "pyrtable-0.5.5.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.5-py3-none-any.whl": [
-          "f4d1595073aa1f55e8fa5ef531bc0f0e00daa6f1caeb806dfb519f3c0fc4ba2e",
-          "py3"
-        ]
-      }
-    },
-    "0.5.6": {
-      "sdist": [
-        "c4061f7824299178caf6d446b6eef61c341d45f255353c10d1f41409c428d639",
-        "pyrtable-0.5.6.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.6-py3-none-any.whl": [
-          "233cef6846e86a23821fc38d01e165486e243e903d60c74ebecdc483d4c56683",
-          "py3"
-        ]
-      }
-    },
-    "0.5.7": {
-      "sdist": [
-        "5f6862271322fdb82b56114b9519afe39fbac1f31c0ddf6046da25cfae79a2a0",
-        "pyrtable-0.5.7.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.5.7-py3-none-any.whl": [
-          "123c470535d5b369f1fcd77f6af7a6775dbd50934d914c0d28d7d16e6b65ffa2",
-          "py3"
-        ]
-      }
-    },
-    "0.6.1": {
-      "sdist": [
-        "36d92754b0183cbc6caf26ecf37c9ce0ec4c06fba6d3a64ce5e190e9ce5135e4",
-        "pyrtable-0.6.1.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.6.1-py3-none-any.whl": [
-          "23337d73bb18d30e19fcfe7c7dff66fbc081922f5a4baf7c4fe42d4cdf057565",
-          "py3"
-        ]
-      }
-    },
-    "0.6.2": {
-      "sdist": [
-        "55d9c05b02e2da5d746a09e20ab9af3afe3fa05b3c75ece70b7b744c00a02fc9",
-        "pyrtable-0.6.2.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.6.2-py3-none-any.whl": [
-          "5743e6aba311689c0040c138aeaa4531b18d449a157482772bfc42aeda5a9a5e",
-          "py3"
-        ]
-      }
-    },
-    "0.6.3": {
-      "sdist": [
-        "4646d36d2e381423947370dda17045073a51767b9df399dd10b369af4a5b2250",
-        "pyrtable-0.6.3.tar.gz"
-      ],
-      "wheels": {
-        "pyrtable-0.6.3-py3-none-any.whl": [
-          "8594b4bc89e876bd0fd84f0110cf7e2e8444a69b5162a3ef8d75de429a2f08ba",
-          "py3"
-        ]
-      }
-    }
-  },
   "pyserverpilot": {
     "1.0": {
       "sdist": [
@@ -53669,56 +53547,6 @@
         "b9f63bd4077084f4b18fa0ddb74ca9afafe80ea369fcc8ad09c23795dab61e1d",
         "relays_manager-0.0.1.tar.gz"
       ]
-    }
-  },
-  "remarkable-keyboard": {
-    "1": {
-      "sdist": [
-        "738b3bba7cc87c133015a1cba8ef32f0664a807723d8ce0118b93d986b53062c",
-        "remarkable-keyboard-1.tar.gz"
-      ],
-      "wheels": {
-        "remarkable_keyboard-1-py3-none-any.whl": [
-          "cab3aed5466758e3139d1944c3188bc0d6e4cbe142766ad5d51c40aca8362aa5",
-          "py3"
-        ]
-      }
-    },
-    "2": {
-      "sdist": [
-        "2b3dc32f0ed66172c052858c26fa75a1cec4474032b532541d425ed716faf4de",
-        "remarkable-keyboard-2.tar.gz"
-      ],
-      "wheels": {
-        "remarkable_keyboard-2-py3-none-any.whl": [
-          "95bfff8fe54258b43ff5e71fb751e1ff35309baa907220504d9a920dbc93ddc2",
-          "py3"
-        ]
-      }
-    },
-    "3": {
-      "sdist": [
-        "0fe7abbb92b8b105e3c054b82a35e211394a8e3a3d0455057658e74de78b25a4",
-        "remarkable-keyboard-3.tar.gz"
-      ],
-      "wheels": {
-        "remarkable_keyboard-3-py3-none-any.whl": [
-          "08eb6ca02465177cdbca7a68591a9cec0159d01522cf5ba694403ccd4cd732c1",
-          "py3"
-        ]
-      }
-    },
-    "3.1": {
-      "sdist": [
-        "7866c9ada8467dd168fbf3246d1625d637f052e4bde8758eb70128aaa83e2126",
-        "remarkable-keyboard-3.1.tar.gz"
-      ],
-      "wheels": {
-        "remarkable_keyboard-3.1-py3-none-any.whl": [
-          "671d9b45ccff28265d88990616f22ea6b4ad93a9f7b733957490889205962d2d",
-          "py3"
-        ]
-      }
     }
   },
   "removezmedia": {
@@ -58306,6 +58134,14 @@
       "wheels": {
         "spaceone_identity-0.9.1.148158105-py3-none-any.whl": [
           "ba758cf3f6abdcdf5756c1ea1e02b51b55d1487faa07d1511082197f8f71d00f",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1.151269568": {
+      "wheels": {
+        "spaceone_identity-0.9.1.151269568-py3-none-any.whl": [
+          "b7376aea1a6b4fa2c627b95fc4e6c1fed48e15047dcdf40986ac16a1bad426f8",
           "py3"
         ]
       }
