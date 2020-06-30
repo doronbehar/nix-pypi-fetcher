@@ -32799,6 +32799,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "574dab27395b9f1d106da7189eb6a2626ed809d45f07e6287173628519fc8240",
+        "gobits-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "gobits-0.0.2-py3-none-any.whl": [
+          "6c5cd9fea1500de9df15db07c0b29b1619b8eb8c49765a3ad2979d61c275aaca",
+          "py3"
+        ]
+      }
     }
   },
   "gocept.cmmi": {
@@ -33130,6 +33142,18 @@
       "wheels": {
         "graphene_sqlalchemy_auto-0.1.0-py3-none-any.whl": [
           "345c4997b8235422edc5f4dd21751e82877481d939dc0567125ac789ae0a1202",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "70091f24f6a5897820d96580f6e14afe38e2a76d0968fb863ef659d78e80fbc7",
+        "graphene-sqlalchemy-auto-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "graphene_sqlalchemy_auto-0.10.0-py3-none-any.whl": [
+          "4a5925d3abafb37c6581658f801fb26f84551593da9d547b1689fcde4cf46f0b",
           "py3"
         ]
       }
@@ -49764,6 +49788,16 @@
       "wheels": {
         "odoo13_addon_fleet_vehicle_service_kanban-13.0.1.0.1.dev2-py3-none-any.whl": [
           "899024cf4abe795947e8ed6c8830aaaca78d5984d5f4125000aab54a5f7e60ee",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-product-packaging-unit-price-calculator": {
+    "13.0.1.0.1.dev5": {
+      "wheels": {
+        "odoo13_addon_product_packaging_unit_price_calculator-13.0.1.0.1.dev5-py3-none-any.whl": [
+          "ddafc6e3b012675d8207b85047e1d79716e7f86725339a96849fb73dc745be6d",
           "py3"
         ]
       }
@@ -75547,6 +75581,12 @@
         "0a3c584e9a42296d7a25624d8372b7a30ebb08d9aa23497c407c26379e72964e",
         "trio-socks-0.1.1.tar.gz"
       ]
+    },
+    "0.1.1.post2": {
+      "sdist": [
+        "a230f349418a111821c8e94b36bc1f2640855b1f5b086ac7d5664e48d10fa082",
+        "trio-socks-0.1.1.post2.tar.gz"
+      ]
     }
   },
   "trtools": {
@@ -76412,7 +76452,89 @@
       "sdist": [
         "b5b18da5d2d0392ab449701b63cd023e1f45088717b0c09a2cd009b77a620fd6",
         "ufal.morphodita-1.10.1.1.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "ufal.morphodita-1.10.1.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "2d67dc286d6734df53df79590216a16b89626db2a68575d9a8f6dacd39908d21",
+          "cp35"
+        ],
+        "ufal.morphodita-1.10.1.1-cp35-cp35m-manylinux2010_i686.whl": [
+          "c351ae1509c160e2c55f4bfd1de255987f1d367a5477e449ef24c77a415464cb",
+          "cp35"
+        ],
+        "ufal.morphodita-1.10.1.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b9cfe39645036542a8e9c067ee25f8c073321d009497a5d375c939013c894f92",
+          "cp35"
+        ],
+        "ufal.morphodita-1.10.1.1-cp35-cp35m-win32.whl": [
+          "eafa806856e223f1014deadda753ddd928073f9c753e0d5391067f9cac860365",
+          "cp35"
+        ],
+        "ufal.morphodita-1.10.1.1-cp35-cp35m-win_amd64.whl": [
+          "2dab5aabb34022137771f79427b42c3514316a8196f2fb684cbff0242cf7b78c",
+          "cp35"
+        ],
+        "ufal.morphodita-1.10.1.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "a8d6563967056a5bedf0645e633e53a0efb597089fc5f8fe6e2ca08ab81d7427",
+          "cp36"
+        ],
+        "ufal.morphodita-1.10.1.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "7528550e21776a12a02ac0deaf9ed7101362c344f697793d2764408459ca3d10",
+          "cp36"
+        ],
+        "ufal.morphodita-1.10.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "17c521ef45731496be08d756edf5d9c878e86bea973779714062a253cde4d226",
+          "cp36"
+        ],
+        "ufal.morphodita-1.10.1.1-cp36-cp36m-win32.whl": [
+          "20cd70a22da25d879a8954a98539e892e7fb6f28250407241243b34153cfe2e1",
+          "cp36"
+        ],
+        "ufal.morphodita-1.10.1.1-cp36-cp36m-win_amd64.whl": [
+          "5b9746387152c478562d8f734922da8493ecc7f0c3f641a7ea146011140712dc",
+          "cp36"
+        ],
+        "ufal.morphodita-1.10.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "6bc3fdb6c83435c2e7d63221946940d344d3e7859b3ed3d3a4b1e6c7b23df7d5",
+          "cp37"
+        ],
+        "ufal.morphodita-1.10.1.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "c9c8669c474b0cb5f122845ee194b4942876c97fed9e465667b2115e93ca3e24",
+          "cp37"
+        ],
+        "ufal.morphodita-1.10.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e21f8e52dbddb81d8d645b930812572d4dd8984ef5db9481a24f1d389e81a9b3",
+          "cp37"
+        ],
+        "ufal.morphodita-1.10.1.1-cp37-cp37m-win32.whl": [
+          "6f3a050d5b6e35b1f8f7df21918258f1ac08b61a453b7ba217aee685c6d84d82",
+          "cp37"
+        ],
+        "ufal.morphodita-1.10.1.1-cp37-cp37m-win_amd64.whl": [
+          "1630c3814ee8ed95ec21bea3e076ffb9911c11a0e619f17c8ffe888c33e189f6",
+          "cp37"
+        ],
+        "ufal.morphodita-1.10.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "23a5afd2334d8b567989fbc4b6c4a9a58bfb9128c60d5b1413df5e9800d61737",
+          "cp38"
+        ],
+        "ufal.morphodita-1.10.1.1-cp38-cp38-manylinux2010_i686.whl": [
+          "706c341ed02124cbba1f134129b6bbbcd664033cbe7eddde035a5304ff468975",
+          "cp38"
+        ],
+        "ufal.morphodita-1.10.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "361155758f66f67d8bb49dd322460e5456834fae786aed8cc28997c1dec909c6",
+          "cp38"
+        ],
+        "ufal.morphodita-1.10.1.1-cp38-cp38-win32.whl": [
+          "ea6e7aea3d64aae85c094cc8c8e730a8f7d91be8257dd314137cbdc0f3935557",
+          "cp38"
+        ],
+        "ufal.morphodita-1.10.1.1-cp38-cp38-win_amd64.whl": [
+          "83fc8ee8badeb3d60737c3cc011008744460fa358e31634653608c8f9365d475",
+          "cp38"
+        ]
+      }
     },
     "1.2.0.1": {
       "sdist": [

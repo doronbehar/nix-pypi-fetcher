@@ -4376,6 +4376,18 @@
         ]
       }
     },
+    "1.47.1": {
+      "sdist": [
+        "94380ee4229a503098f74faa8c1b6e3e6f43b707242d5a552bf2a01af1422724",
+        "aws-cdk.aws-config-1.47.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_config-1.47.1-py3-none-any.whl": [
+          "1ce40ef01421ff8a30518f0ca47092cbb9d7b7ca179a1af48263c8891c4f48d4",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "3e1a1f663ddca469160c47c5b529ae6e5bc999e004904a13ace51290597caefb",
@@ -5310,6 +5322,18 @@
       "wheels": {
         "aws_cdk.aws_elasticbeanstalk-1.47.0-py3-none-any.whl": [
           "1133ec74df4d40a7eb87217d9c2739473bef745047b79f7b2f1c6224e6cf59b6",
+          "py3"
+        ]
+      }
+    },
+    "1.47.1": {
+      "sdist": [
+        "784139b689965c01bf84b00c183e221fcfcd0aedbf874875ac4680dc4de8f5c9",
+        "aws-cdk.aws-elasticbeanstalk-1.47.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticbeanstalk-1.47.1-py3-none-any.whl": [
+          "107a842c491774b802353259c00b27127762baabcc73ecb84a13e377460f710c",
           "py3"
         ]
       }
@@ -18022,6 +18046,18 @@
         ]
       }
     },
+    "2020.6.30": {
+      "sdist": [
+        "3c8dc16cb58215b34ac4f6e5e7fd4f9ab1c843f84d9eb67e0dc06142ca540106",
+        "dagster-twilio-nightly-2020.6.30.tar.gz"
+      ],
+      "wheels": {
+        "dagster_twilio_nightly-2020.6.30-py3-none-any.whl": [
+          "297a7577f9331f1c9bac824717447d16da9e995b5f6926df76c0f5925cd3f317",
+          "py3"
+        ]
+      }
+    },
     "2020.6.4": {
       "sdist": [
         "cc07ab591982bc5bab83e813549cda70fce8e95127c367f6ae954c3db488140b",
@@ -29503,6 +29539,14 @@
       }
     }
   },
+  "flask-appbuilder-redirect": {
+    "2.1.13": {
+      "sdist": [
+        "f3df6c83ec216ddfc8f8d9a511f6ad253ba7c4c4b14ad6b741561ef707ff5fb5",
+        "Flask-AppBuilder-redirect-2.1.13.tar.gz"
+      ]
+    }
+  },
   "flask-bundler": {
     "1.0": {
       "sdist": [
@@ -34297,6 +34341,56 @@
       ]
     }
   },
+  "hcrystalball": {
+    "0.1a0": {
+      "sdist": [
+        "0f4b991dfd1897f5d593e28e54dea72d06bbf2567244a88a17a490f3a6640955",
+        "hcrystalball-0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "hcrystalball-0.1a0-py2.py3-none-any.whl": [
+          "3c7572f09ae03f1e4f9902c2c5561e2546f72e7b07022e42fcb84646280c17c2",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1a1": {
+      "sdist": [
+        "6f6774c7f3b5338c6e9f22024d518e1c2b428815a1cf31d10398adadb334ff45",
+        "hcrystalball-0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "hcrystalball-0.1a1-py2.py3-none-any.whl": [
+          "301874b3efdcc97736ca554e7d7f9cd1b34a2e77cdb846f06d9e0c1c569fefbb",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1a4": {
+      "sdist": [
+        "785763840e491d7b0bf0a82e024ca1937cee7d9eb566445cb27231ce6503e865",
+        "hcrystalball-0.1a4.tar.gz"
+      ],
+      "wheels": {
+        "hcrystalball-0.1a4-py2.py3-none-any.whl": [
+          "cb4956c886c6a6fa924e7be9b7d9fa05cc9db7ace64c26f10777c46803364529",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1a5": {
+      "sdist": [
+        "e11bca5fb27541fbea3ad6045b924e9be585d38cbbf1e8e319a392bfa76c353b",
+        "hcrystalball-0.1a5.tar.gz"
+      ],
+      "wheels": {
+        "hcrystalball-0.1a5-py2.py3-none-any.whl": [
+          "e67db7d2bcc51b61a295063e67befe52d237b78f6b7722ff1fe6437f0fa8bb73",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "healthy-cli": {
     "0.0.1": {
       "sdist": [
@@ -35074,18 +35168,6 @@
       "wheels": {
         "hipims_io-0.3.4-py3-none-any.whl": [
           "d4513391cb9d919e84fdb335cb6d1e1bd41287bd0b6970642ed82b79d7c5b71a",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "8c80253bf45c1be05197713fa229e4f8de23d4f738ed5a5e3c084d9ff8916969",
-        "hipims_io-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "hipims_io-0.4.0-py3-none-any.whl": [
-          "94d0546eb380601a7b638f22a573ea29f16471e98a22a48b7a7824a5884ea9b9",
           "py3"
         ]
       }
@@ -43018,6 +43100,18 @@
       "wheels": {
         "momotor_django-1.4.1-py3-none-any.whl": [
           "e8ec05d0b594f5a658ddeb8ba407b4cc85e6bd74fe81c74ca8f5662149d3627e",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "8ea380be1e41d1191421b3e1b9b44784a189e3de5351367755bf044a4ab6f2c0",
+        "momotor-django-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "momotor_django-1.4.2-py3-none-any.whl": [
+          "2aa8306910f618db9a1d54dec3e54510af5f1ca06dfc9becf7cec6f21d183e35",
           "py3"
         ]
       }
@@ -56135,6 +56229,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "0760ecea8a2d782593e30788ec213d86d05c1608b6f74febd9b835807ae774ff",
+        "pyserialem-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyserialem-0.3.0-py3-none-any.whl": [
+          "fdb64effddd9025e13ae52e3c7497d0d9315ad74f21e31db849845d997274e22",
+          "py3"
+        ]
+      }
     }
   },
   "pystun": {
@@ -65213,6 +65319,14 @@
           "py2"
         ]
       }
+    }
+  },
+  "time-series-dataanalysis-tool": {
+    "0.1.9": {
+      "sdist": [
+        "64dece6f58abb7c9631c423eeb2252c58e78ef14e9f598b036963b8b463401f8",
+        "Time_Series_DataAnalysis_Tool-0.1.9.tar.gz"
+      ]
     }
   },
   "time2pull": {

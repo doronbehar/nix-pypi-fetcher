@@ -3260,6 +3260,18 @@
         ]
       }
     },
+    "1.47.1": {
+      "sdist": [
+        "b6dc36f0716f931fd06fc8c764c90bce9952b55d5a5ba9865403c52a7a669d1a",
+        "aws-cdk.aws-cloudfront-1.47.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.47.1-py3-none-any.whl": [
+          "19de97fde61b1e63a40a9e05fc4eec34bea6a8c68cea907fb7cb5a42b026aa55",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "b6bab21d0db542ba19aadfddd9db76431402468522c7a2bd81b637d70a4537bb",
@@ -35536,6 +35548,42 @@
         ]
       }
     },
+    "8.0.dev126": {
+      "wheels": {
+        "NEURON_nightly-8.0.dev126-cp35-cp35m-macosx_10_9_intel.whl": [
+          "845c8ba9947d6f1c5f14ad72c946b988fc0c434cfa1993c2f1062b14446ebfc9",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev126-cp35-cp35m-manylinux1_x86_64.whl": [
+          "8d0870a36568915fee291652afc48f8a7e028102fe4c943a0c2e84f2a8f7b1fa",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev126-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "8260c70a70814a9bf126002087d37c5e44f87abd6f48a1bd9ab50a96cf2f718e",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev126-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f84e72bf907b98348c26554019ea4d77879576eadfda128d8586dbd3ef67e6d7",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev126-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "c8a14575b7a88453c0d59cc5b5638189bcef0749ed6e8b1eeb57b3c64451e112",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev126-cp37-cp37m-manylinux1_x86_64.whl": [
+          "beab215412aec5594d698e94aaa9ff622692392a77683841eadbe46597486982",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev126-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9a6c577ddf250b49a367f2fbb038b8d4cdc6f5f91f12cde82cc559afeb33e610",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0.dev126-cp38-cp38-manylinux1_x86_64.whl": [
+          "746102736a379d6f485d4fe97f51dd643a9f2cd8de5fbe5de209d870d8c6147a",
+          "cp38"
+        ]
+      }
+    },
     "8.0.dev89": {
       "wheels": {
         "NEURON_nightly-8.0.dev89-cp35-cp35m-macosx_10_9_intel.whl": [
@@ -59046,6 +59094,86 @@
       "wheels": {
         "visii-0.1.0a0-cp38-cp38-win_amd64.whl": [
           "e121a3051e4d81744bbb0311359ade05ff98e72dc66d3d25b9ddd5ca4967eca8",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.0a2": {
+      "wheels": {
+        "visii-0.1.0a2-cp27-cp27m-win_amd64.whl": [
+          "1ba2b5fcc152c961cee1d2c0bee747e541b58f309ae44242d0629234be37c661",
+          "cp27"
+        ],
+        "visii-0.1.0a2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "5f72b82e35446c5f860e3de2b5cf29943e12a7e2af0d2e0cb49c4e75c7a91df3",
+          "cp35"
+        ],
+        "visii-0.1.0a2-cp35-cp35m-win_amd64.whl": [
+          "ab709e1798ab65dd04566a5771e90ad741dcf385eec049cec01daa08edbb7204",
+          "cp35"
+        ],
+        "visii-0.1.0a2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "44c81d42788f2e1103491877d1eb1ec055482bbab4412ba8e28a7cb3631430fc",
+          "cp36"
+        ],
+        "visii-0.1.0a2-cp36-cp36m-win_amd64.whl": [
+          "60714b1f4547eb9b2c35bbe428460bc1ce0844b8b242519c4bafab3274272b28",
+          "cp36"
+        ],
+        "visii-0.1.0a2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "a7967a0d5e2fbc20bfd220db8aaad592722af6c05f5105875071422e95de13e9",
+          "cp37"
+        ],
+        "visii-0.1.0a2-cp37-cp37m-win_amd64.whl": [
+          "b23c57f0c7f72871fbd5749da8706d47bfd2b13e09befa4ccfa8f40b8ad035e9",
+          "cp37"
+        ],
+        "visii-0.1.0a2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "251b00743eafc3221d10114b4863fb942d98deacaf6ca55cb9f411598dbf1c81",
+          "cp38"
+        ],
+        "visii-0.1.0a2-cp38-cp38-win_amd64.whl": [
+          "99847281a9b77073b6bafb4dfbdd7448f24e7e6360eec56ed53b703db95023f0",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.0a3": {
+      "wheels": {
+        "visii-0.1.0a3-cp27-cp27m-win_amd64.whl": [
+          "0dbd4aeeb51f59625762379338227b812bc134294615e624e1963b57824580eb",
+          "cp27"
+        ],
+        "visii-0.1.0a3-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "613fa4ecf9d3ddc2655f3b81b431876198e1de4a5291507ff6bb34817d39a4da",
+          "cp35"
+        ],
+        "visii-0.1.0a3-cp35-cp35m-win_amd64.whl": [
+          "6a9d5ce11b8efe9bf491275f013ad9cdb776d81795655ccbe09c1e637dfbc009",
+          "cp35"
+        ],
+        "visii-0.1.0a3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "dc253ba8f9e3bb77f30c341a5ecc97bf64907cfbe39a98dd9dbc6a6e019d1b22",
+          "cp36"
+        ],
+        "visii-0.1.0a3-cp36-cp36m-win_amd64.whl": [
+          "94b51e6f0658f6825d16ddc5b3754778b503745a813e287e6d354fbc8840e7d2",
+          "cp36"
+        ],
+        "visii-0.1.0a3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "ff93ee84dbcfe17a314e03dcfa395128cca88398bd1b732f993fd39adfe68c3f",
+          "cp37"
+        ],
+        "visii-0.1.0a3-cp37-cp37m-win_amd64.whl": [
+          "2e9e1b7a1897fa2ea6323cf696db81553bfa729206b1ff13eb066b26f39827e7",
+          "cp37"
+        ],
+        "visii-0.1.0a3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "9d9e991ac968c70911b94b497eb13fa625797c2dade27c7e754a586612871d08",
+          "cp38"
+        ],
+        "visii-0.1.0a3-cp38-cp38-win_amd64.whl": [
+          "de5a271decd804c5dddcc9baf2751c9320a9e3e0ac295902f6caf89113c8384d",
           "cp38"
         ]
       }

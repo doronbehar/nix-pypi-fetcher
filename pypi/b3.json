@@ -2895,6 +2895,18 @@
           "py3"
         ]
       }
+    },
+    "1.47.1": {
+      "sdist": [
+        "3584dcfa4c3f541a9017aa8c6609c0bac0336f9c111eb61ecf3bf3992d687690",
+        "aws-cdk.aws-cassandra-1.47.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cassandra-1.47.1-py3-none-any.whl": [
+          "b329fcabcdd8cfbe03844f14db99effd256cc6cba94d8db3c6918d688147bb6d",
+          "py3"
+        ]
+      }
     }
   },
   "aws-console": {
@@ -28480,6 +28492,78 @@
       "wheels": {
         "margot-0.10.4-py2.py3-none-any.whl": [
           "6ed3a96294dd648ea28eec04de54304d52f796e778ed8740e31eafa3a669c156",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11": {
+      "sdist": [
+        "562fc70b0b29c0a800d6c9d6e1063548bf79ae494df27c65a44fadb78f0072e9",
+        "margot-0.11.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.11-py2.py3-none-any.whl": [
+          "96ba2bd13fe70b41f70f3fcff862a8cdc6fccd04e3f172546e80df9eac04a8ff",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11.1": {
+      "sdist": [
+        "a9dfd383796565b87c677d2e5aa95eddf1328becf7a875a2cb81854bb2c5e3dd",
+        "margot-0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.11.1-py2.py3-none-any.whl": [
+          "a57a5d57a05bdf113c020766e64d8e4df0ae4bdc365dd0ff6578d8dd8c4a8d70",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.12": {
+      "sdist": [
+        "783b772149146124601670c305eaf26e9327e4bca94b50de5510d0aadec13bec",
+        "margot-0.12.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.12-py2.py3-none-any.whl": [
+          "8c738a04d8b9f410de63b62026f6ef6fa65a731f58c69208c349044acdaa9933",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.12.1": {
+      "sdist": [
+        "f9a925b756444c1af0d40887ff0379f174bcfed3bd0f8723518f67d2a2b5a467",
+        "margot-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.12.1-py2.py3-none-any.whl": [
+          "8e063f3b43ab718973dd38fbf470d73722780628e60527ce5f27518f2dc781f6",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.12.2": {
+      "sdist": [
+        "7681301bd2023f45360a454ddf0497f4ae0fbdbf6f64b53563ed389f5a15558f",
+        "margot-0.12.2.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.12.2-py2.py3-none-any.whl": [
+          "c7ce7445b747c39c8565d6d7858d3e0322530a7bc3a77a7e08cc842f82836e40",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.12.3": {
+      "sdist": [
+        "207e63e2345647b846dc2c3adad9885f82dd9b2d4a82088290251c722a942574",
+        "margot-0.12.3.tar.gz"
+      ],
+      "wheels": {
+        "margot-0.12.3-py2.py3-none-any.whl": [
+          "c22dbf74f543e6fb92badbe67ab78bd0e758e87e5a3aa47dc04b3895b59fc8d8",
           "py2.py3"
         ]
       }
@@ -57610,16 +57694,10 @@
     }
   },
   "setup-dist": {
-    "2020.6.14": {
+    "2020.6.16": {
       "sdist": [
-        "a6f1c668b577653b428c4d59fa7452d66a01ffe3213c7937002f41ce6278367a",
-        "setup-dist-2020.6.14.tar.gz"
-      ]
-    },
-    "2020.6.15": {
-      "sdist": [
-        "4189efa0df2419edb131c4a78b1404e1a7b7f562d6859dbe26880d303dbee635",
-        "setup-dist-2020.6.15.tar.gz"
+        "bba8f9232b85e66b6aaa009f6359e968f990c6b467881676b357ca098a07f47a",
+        "setup-dist-2020.6.16.tar.gz"
       ]
     }
   },
@@ -59306,110 +59384,6 @@
     }
   },
   "skia-python": {
-    "0.0.1": {
-      "wheels": {
-        "skia_python-0.0.1-cp35-cp35m-macosx_10_13_x86_64.whl": [
-          "4c88b79a5104809e5bf5d9ac702ed7f1983d785cb1c7def808c2c07c665e163c",
-          "cp35"
-        ],
-        "skia_python-0.0.1-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "58dc5ff77944850deca3759c3b4e0e6c3bbef8e1461a920634a91780e8add572",
-          "cp35"
-        ],
-        "skia_python-0.0.1-cp35-cp35m-win_amd64.whl": [
-          "8b1c34876a87e36cea0c07f97d94eba4efbad23025e802c62a823f5a2e38e008",
-          "cp35"
-        ],
-        "skia_python-0.0.1-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "4578ce3fc4f07167f0da69586d1626e880701dfa7965da41dd9538fdd0103f82",
-          "cp36"
-        ],
-        "skia_python-0.0.1-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "b29a6c9bff1eabefbfe3553fee6a9679d8aeb2dcdb2e84883f1d3a3a56b5de2c",
-          "cp36"
-        ],
-        "skia_python-0.0.1-cp36-cp36m-win_amd64.whl": [
-          "70bfddce266da81f9b27814021b58ab61ae5b0be72908d8f3995b5382b6fef71",
-          "cp36"
-        ],
-        "skia_python-0.0.1-cp37-cp37m-macosx_10_13_x86_64.whl": [
-          "9a502cbb0e443e15d0f28ccf771db9f4c238fc7241c7c8049b4e18ea606366cf",
-          "cp37"
-        ],
-        "skia_python-0.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "bb0bfc68fecf4d2ec0c35009be633159ec3a6d91a5051f4dbb0a722e777f5186",
-          "cp37"
-        ],
-        "skia_python-0.0.1-cp37-cp37m-win_amd64.whl": [
-          "4b5d6ab696898a3422887841213167141b6d661e5cc9d933ac2de1f370cebaa9",
-          "cp37"
-        ],
-        "skia_python-0.0.1-cp38-cp38-macosx_10_13_x86_64.whl": [
-          "1869c4624376ecb656fda7c1c5746f44be7c285e6188c40f5d33be6eebd10ed1",
-          "cp38"
-        ],
-        "skia_python-0.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
-          "682653596df11d2edd7df6b0e5698e02f9d89827e3d0805be6daf3755e863c20",
-          "cp38"
-        ],
-        "skia_python-0.0.1-cp38-cp38-win_amd64.whl": [
-          "70d1dd3ecb1afe41b376f5ffc4c37425fa15109e2d0b3129672f05281ea7b0c0",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "skia_python-0.0.2-cp35-cp35m-macosx_10_13_x86_64.whl": [
-          "5f5a28fd6269febd9aade97c634b5218e0b2acfc8ecc57fe762fa93ccd4c46f9",
-          "cp35"
-        ],
-        "skia_python-0.0.2-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "df834a37fe9ec5d069cea99c2824eaed699f7d41b604ce0732d1ba9043cc0a2c",
-          "cp35"
-        ],
-        "skia_python-0.0.2-cp35-cp35m-win_amd64.whl": [
-          "537eb4f4d0199daa252cc53e3517a4c739e9e0c1944ec1a2accd49fe1a86aaee",
-          "cp35"
-        ],
-        "skia_python-0.0.2-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "20760af10ba91a4bb52e1356f9c23029c259dcb70d8525b48aa1e0b158f40a23",
-          "cp36"
-        ],
-        "skia_python-0.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "0df8498d1725b622d23c9c853d192d01373df709833c7cfb0df62a798af50369",
-          "cp36"
-        ],
-        "skia_python-0.0.2-cp36-cp36m-win_amd64.whl": [
-          "ed4537a8d4b7334abb353eae399160c1fc0c6544f3faad18f64b059e7fc4c714",
-          "cp36"
-        ],
-        "skia_python-0.0.2-cp37-cp37m-macosx_10_13_x86_64.whl": [
-          "fe65dd1ca9e62c58fa664b821490e9c45f5c1edd95e03aae36a4fab681cc7ce5",
-          "cp37"
-        ],
-        "skia_python-0.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "4554e739ce8b642e475dae28ee8554e12b88393340b3ec239d1a6de8119b0a5a",
-          "cp37"
-        ],
-        "skia_python-0.0.2-cp37-cp37m-win_amd64.whl": [
-          "143300eddb43be1c9f752f4f9141b5ba2e6e39b1de523f4a3b515333e99260e3",
-          "cp37"
-        ],
-        "skia_python-0.0.2-cp38-cp38-macosx_10_13_x86_64.whl": [
-          "0b4c3604821f9781d7d8574cb11f80d11a64c8f98752d49a10588aacfb3f6308",
-          "cp38"
-        ],
-        "skia_python-0.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
-          "27f6e65530382a191c1805593118fa4ed8bc50c1585c8709cdd9c026bef41098",
-          "cp38"
-        ],
-        "skia_python-0.0.2-cp38-cp38-win_amd64.whl": [
-          "952e7bc278d758d8a46199eb52140fff8e2f4ab38f11c518bce83950c87e47b4",
-          "cp38"
-        ]
-      }
-    },
     "0.0.3": {
       "wheels": {
         "skia_python-0.0.3-cp35-cp35m-macosx_10_14_x86_64.whl": [
@@ -59556,12 +59530,20 @@
           "baeb1bbe9edb0d4bd8c604d96e8a4890164a2624b1b6db1cd35274e73529f46b",
           "cp35"
         ],
+        "skia_python-0.0.6-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "be051241e6c34505b1365779d2ee01b745bf6725573f130679b8553e3615e471",
+          "cp35"
+        ],
         "skia_python-0.0.6-cp35-cp35m-win_amd64.whl": [
           "2213c617c26b09c0d7f4251887546768d0e56700c8dde3868c89aa5f8acbd4ae",
           "cp35"
         ],
         "skia_python-0.0.6-cp36-cp36m-macosx_10_14_x86_64.whl": [
           "0f883bea4dd49d51a970b309336cc2e00c67d3d8a29307f992642da82befaf86",
+          "cp36"
+        ],
+        "skia_python-0.0.6-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "747fbd138f97858a29cebae8a2951a35fad0e3fca8413cad6fbdb1904cb0b6b6",
           "cp36"
         ],
         "skia_python-0.0.6-cp36-cp36m-win_amd64.whl": [
@@ -59572,12 +59554,20 @@
           "3aebc7b46e017eef844c0cb7e767ffd9edb1eb5b686ac092c2d3a4e084f26b77",
           "cp37"
         ],
+        "skia_python-0.0.6-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "ae7220d6473ad1a73212f7536824795f031bd91e67b7a236c20d9aca5356891c",
+          "cp37"
+        ],
         "skia_python-0.0.6-cp37-cp37m-win_amd64.whl": [
           "5a32f4af31d90db0588caf218ec180bf07daa9afe19947d44564bae1f663ef2c",
           "cp37"
         ],
         "skia_python-0.0.6-cp38-cp38-macosx_10_14_x86_64.whl": [
           "db0a0d13eb43922b81f8585e48b9df160b6f8f3f6ca2fdff0f911f131a91f2b3",
+          "cp38"
+        ],
+        "skia_python-0.0.6-cp38-cp38-manylinux2014_x86_64.whl": [
+          "1bc1c30cadb17390c2b946b29322d18a7f8b67f4c9ae88e3f3fe23535402da09",
           "cp38"
         ],
         "skia_python-0.0.6-cp38-cp38-win_amd64.whl": [
@@ -67926,6 +67916,12 @@
         "yamlf-0.1.4.tar.gz"
       ]
     },
+    "0.1.5": {
+      "sdist": [
+        "1e051ab717f1220a502bdbc01b90fb9a3bff747d61081317e40680ac6966962b",
+        "yamlf-0.1.5.tar.gz"
+      ]
+    },
     "v0.1.2": {
       "sdist": [
         "2cfb48b10f4d76a725c2755939fa73e76b9e031b7feae5a8abcfae85382115f6",
@@ -68266,6 +68262,14 @@
       "sdist": [
         "6fbec94a4d61ac87c4712e6cc14002a2cb33763247e177d5096f27022a67931f",
         "zope.introspector-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "zs-advancedviz-test1": {
+    "0.1": {
+      "sdist": [
+        "506a967395aa4b220b9be88d477d052823987333f3a6c813f32c2012c2b0682e",
+        "ZS_AdvancedViz_test1-0.1.tar.gz"
       ]
     }
   },
