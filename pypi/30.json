@@ -9085,6 +9085,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.7.2": {
+      "wheels": {
+        "detectem-0.7.2-py2.py3-none-any.whl": [
+          "faa836716fbc43660997958a338563d158048fce1c5286cb297ea552adec82f4",
+          "py2.py3"
+        ]
+      }
     }
   },
   "detection-utils": {
@@ -18875,6 +18883,12 @@
         "55edf882f3a314b971cfd85d8cfdf49b810203ccaf7d79070001597b7aba8106",
         "hichesslib-1.2.4.tar.gz"
       ]
+    },
+    "1.2.9": {
+      "sdist": [
+        "692c55e888943cf3d1d61f325a1caee756e586116c9b6221ed1b4edbb0618c9c",
+        "hichesslib-1.2.9.tar.gz"
+      ]
     }
   },
   "hippie": {
@@ -25511,6 +25525,12 @@
         "db487d901d2a924341de0c22655fbc2a4acdc5c50dc52fb040264e5c04e6b7e0",
         "locald-0.1.tar.gz"
       ]
+    },
+    "0.2": {
+      "sdist": [
+        "7cda706dd6a7b0ce533a181db816c5688bc2020b2a209ce15a99c0782320f5a9",
+        "locald-0.2.tar.gz"
+      ]
     }
   },
   "loopfield": {
@@ -30020,6 +30040,18 @@
         ]
       }
     },
+    "1.14.13.0": {
+      "sdist": [
+        "f1d1c3adf7c3d28a6636ce3ed58977d96f99bc6dee8025d8bb5baaefb6b792be",
+        "mypy-boto3-comprehend-1.14.13.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.14.13.0-py3-none-any.whl": [
+          "10dd832b4709bd4931abfefe754fdfc5bc028854df73dd95f07e9c8e1c8fef04",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "2d03b9741db2805342a2ed5959ddd8c47162832fbcaf6d540ae31d9a49451726",
@@ -31017,6 +31049,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "nvidia-torchvision": {
+    "0.0.1.dev0": {
+      "sdist": [
+        "46ea1a77be2bf0752550f2eae627f5896be6c4d4a39fea6b81167f2bcfd2d668",
+        "nvidia-torchvision-0.0.1.dev0.tar.gz"
+      ]
     }
   },
   "nyckelmastaren-casahl": {
@@ -44759,6 +44799,12 @@
         "f84c860404d4c90a70a5d3821d5b5caa7d6af7010920af644973cd6fef5b01d5",
         "pyutl-2.7.1.tar.gz"
       ]
+    },
+    "2.8": {
+      "sdist": [
+        "5b675704112eabddbda20973ef8c2c1a738fb057b40256a9556e4fd8b3087b8d",
+        "pyutl-2.8.tar.gz"
+      ]
     }
   },
   "pywimi": {
@@ -57376,6 +57422,62 @@
         ],
         "tcod-11.14.0-pp36-pypy36_pp73-win32.whl": [
           "3d22a0b78e66b746aa0209a42b8415c3798a7ca0a6d5e5a4a327e1906a4961e9",
+          "pp36"
+        ]
+      }
+    },
+    "11.15.0": {
+      "sdist": [
+        "27e1ac292b53d14629878925bb7661e1a5cbfd2f866d0b57c0e6f4e9d61381ec",
+        "tcod-11.15.0.tar.gz"
+      ],
+      "wheels": {
+        "tcod-11.15.0-cp35-abi3-macosx_10_9_x86_64.whl": [
+          "d3910bb31ac95443837405d9686bf25607fca7826050a992571a3a3a974ff39d",
+          "cp35"
+        ],
+        "tcod-11.15.0-cp35-abi3-win32.whl": [
+          "610f6829e4d8baafb432e46c7d8afd528b6e99012866d5929d508990e7457d98",
+          "cp35"
+        ],
+        "tcod-11.15.0-cp35-abi3-win_amd64.whl": [
+          "97f3ef2edc655945245e147bcb28d1c592cfd57e79b81891d7428217882e650e",
+          "cp35"
+        ],
+        "tcod-11.15.0-cp36-cp36m-win32.whl": [
+          "3dd56e149500931f2d351401c7d7c61689bc3709221efc0b03a839473f16ebdd",
+          "cp36"
+        ],
+        "tcod-11.15.0-cp36-cp36m-win_amd64.whl": [
+          "1c5cd0a90c418c293e5e8d7e3391e3ca60b0e8d714d953426a45452832f97828",
+          "cp36"
+        ],
+        "tcod-11.15.0-cp37-cp37m-win32.whl": [
+          "8afdbbe2e1da4af874a5bc571ce2c659232250b06df908bff8562183f4665256",
+          "cp37"
+        ],
+        "tcod-11.15.0-cp37-cp37m-win_amd64.whl": [
+          "2bb43d0eb1d24a3ce9db28c6b0c18bc353b5339d3f4fd428c1ec0d4e31d995c6",
+          "cp37"
+        ],
+        "tcod-11.15.0-cp38-cp38-win32.whl": [
+          "5d3f110664b4c9f1286a8c3648d3036c47465ee764b87611b4ae3d336fac6465",
+          "cp38"
+        ],
+        "tcod-11.15.0-cp38-cp38-win_amd64.whl": [
+          "a78ffe944d64bdbab0b0049da48bc6bb599a8f5ca946c63f20566bfbfbcd1d6f",
+          "cp38"
+        ],
+        "tcod-11.15.0-pp36-pp36-win32.whl": [
+          "fde1512c00c80f0fb3ca129d3d868f2be0927ac46a76507ac0cbd5aa2234d1be",
+          "pp36"
+        ],
+        "tcod-11.15.0-pp36-pypy36_pp73-macosx_10_13_x86_64.whl": [
+          "c43bc609244dd5407bd0ba16b6c36b0f9059be0b2604ec08b7204e4801121c5e",
+          "pp36"
+        ],
+        "tcod-11.15.0-pp36-pypy36_pp73-win32.whl": [
+          "d1f624e736eecdd67b88e38f2b7c32b6210c5939857cb94adeec275218113599",
           "pp36"
         ]
       }
