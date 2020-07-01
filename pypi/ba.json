@@ -491,6 +491,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "d3acac94492ebd3b33524af71eb10167adbc82072910d67bd2f895901fb57692",
+        "aioretry-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "aioretry-2.0.0-py3-none-any.whl": [
+          "53523a1f1d6d6e4d69c28993af2325ff3639877ca344a72dfe55aa733574cfd4",
+          "py3"
+        ]
+      }
     }
   },
   "aitech": {
@@ -3072,6 +3084,18 @@
         ]
       }
     },
+    "1.48.0": {
+      "sdist": [
+        "8cf2164ffe86771cc5915fb554470f3d30de38ae4b6ad8d5d01a74d833c4849e",
+        "aws-cdk.aws-cloudtrail-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.48.0-py3-none-any.whl": [
+          "e90607ca3530e8ebcf0cd318edb3e9193126bd8e76424d079948e2e78c7e0f56",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "1dd339c915e9b93725226560529b3d0ace6b5db8e3af8f51aefaffe1e7342fe0",
@@ -4018,6 +4042,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.47.1-py3-none-any.whl": [
           "d5bc69f921944c31138e88587e9452a2408f498a4e93d2e36450adced45f6348",
+          "py3"
+        ]
+      }
+    },
+    "1.48.0": {
+      "sdist": [
+        "6d6d7416bd8b1e003de5a12d2e93b50e86d72bf43ece24d2fdc35bf7a64f5371",
+        "aws-cdk.aws-ecs-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.48.0-py3-none-any.whl": [
+          "bd3a6675340cb1b67e24b890d06ee4a8555ca88358e434f47d396bf52b8e69b8",
           "py3"
         ]
       }
@@ -33490,34 +33526,22 @@
     }
   },
   "missingvalueshandler": {
-    "0.0.1": {
+    "1.0.0": {
       "sdist": [
-        "854756ec1747e25ec04d3b1d113b23c4ece28b64d8b1de4009f01a2ff9b76a55",
-        "MissingValuesHandler-0.0.1.tar.gz"
+        "ee49b602d7266514cfde73b12d2c62a2795cda2ec38c9c19eba32513bcdb3a56",
+        "MissingValuesHandler-1.0.0.tar.gz"
       ]
     },
-    "0.0.2": {
+    "1.0.2": {
       "sdist": [
-        "9a32c50c5c856022f5493b4d3745b21681b55bbc2db6545356c06ebe1e54964a",
-        "MissingValuesHandler-0.0.2.tar.gz"
+        "22ce658dd8fd94acabb4de56da3e79752edbf38f2a55098e1f46650b6773ae35",
+        "MissingValuesHandler-1.0.2.tar.gz"
       ]
     },
-    "0.0.3": {
+    "1.0.3": {
       "sdist": [
-        "7b31248de6f0b4de8f95e19d45d18668debf468173e4b157abf874087d0a7d2f",
-        "MissingValuesHandler-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "edf4234323018505b1009ac59341bbb73209d7c663be35cc58740c6ade515a59",
-        "MissingValuesHandler-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "7298d045764d8fdacf2798ae70e8d61be319f9abc30e8c73c44a9d75ef69ca16",
-        "MissingValuesHandler-0.0.5.tar.gz"
+        "1223f017b75c146fe8c8bc404c8b1b005a692dceadd51be43ab095c3dc626b0a",
+        "MissingValuesHandler-1.0.3.tar.gz"
       ]
     }
   },
@@ -44582,6 +44606,22 @@
       "wheels": {
         "ofa-0.0.4.post2006292306-py3-none-any.whl": [
           "80e0e6ba629b11b133cf0dc646c80a7e681c8fce321ddd6094171454b244227a",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4-2007010500": {
+      "wheels": {
+        "ofa-0.0.4.post2007010500-py3-none-any.whl": [
+          "6d63dfac50f683bb01cb93f043389615f541f8566cbc7581afbfa503f044bb86",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4-2007010513": {
+      "wheels": {
+        "ofa-0.0.4.post2007010513-py3-none-any.whl": [
+          "3f307e98c756879116da6b868bb59d11b37ac746e38d5c3185f2ebd01212ac29",
           "py3"
         ]
       }
@@ -71039,6 +71079,38 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20200701": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200701-cp35-cp35m-macosx_10_6_intel.whl": [
+          "bb50087fa2eee465e505165f659974205d2143d30a46c60690e83e97352c1e6e",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "5bec0ae712ad2c1090040275a2c2622628c8f4a3519fb623236aa8e127bcb220",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "39b35fec59606c92075756694a610c67f589dd8681ee6967101bc13c67aedd6a",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c977f5b6e1daa4b6a87e6009ea0354c81ee08efccbc20c92e2d44e99e5f2b24f",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4800464cf5403e5a425680b33c82099b695c2bf160d71a34e34a8d3b2ac04232",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d346991671e7f1ca2ed141ec427eccc6d9103305ca5c6ede091d80159739ade0",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200701-cp38-cp38-manylinux2010_x86_64.whl": [
+          "5f3592859f197eaa8904990562245a5f400b313db3a93bc81f8e0a258cb124dd",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -72348,6 +72420,18 @@
       "wheels": {
         "tradedangerous-10.7.1-py3-none-any.whl": [
           "8a83c9edec56b172717206be8bff075fef676797545d6b66c6dd0b9668b3aa2a",
+          "py3"
+        ]
+      }
+    },
+    "10.8.0": {
+      "sdist": [
+        "2173a10d74f56b83c20d41c76caa315bd19b5acf7e9d95aebdf3b9b9a421d699",
+        "tradedangerous-10.8.0.tar.gz"
+      ],
+      "wheels": {
+        "tradedangerous-10.8.0-py3-none-any.whl": [
+          "468c81ff06eb3304f9ba1008cec99f1ee467707089de801ce50ce7958649187f",
           "py3"
         ]
       }

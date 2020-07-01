@@ -4734,6 +4734,18 @@
         ]
       }
     },
+    "1.48.0": {
+      "sdist": [
+        "ea347ae4ff1edc1b582a91138dcbbfe791f7d65f9279a24afd4656305cfc83d5",
+        "aws-cdk.aws-transfer-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_transfer-1.48.0-py3-none-any.whl": [
+          "5fa2dfd81a9330d2a0fdccd199925b74098dc72a1a599ad7f6f3f738e7c69b4f",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "1bbfb97a8cd8ef151975dae072050838dd47f9df4d6c8c037c9794f9ae74b028",
@@ -5680,6 +5692,18 @@
       "wheels": {
         "aws_cdk.aws_waf-1.47.1-py3-none-any.whl": [
           "ccf93860a5f1bea36ebfb0ee6521a953043d164ea1564af64ef0b626332a3e9b",
+          "py3"
+        ]
+      }
+    },
+    "1.48.0": {
+      "sdist": [
+        "76aa8efbedb25003502d350331e08fb7074dd71cd92b7d53e79cbd4044ea7c4f",
+        "aws-cdk.aws-waf-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_waf-1.48.0-py3-none-any.whl": [
+          "bf0bebde008b80a879822f66ee2f87cca5649f82ee7b2c5cf51ea3b7e8311a26",
           "py3"
         ]
       }
@@ -13171,6 +13195,32 @@
         "cue_sdk-2.1.0-py2.py3-none-any.whl": [
           "af601f362b6ad98a543201979e5e3e6c62c94ef1398dad8311b0fabb7b036442",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "custom-models": {
+    "0.0.1": {
+      "sdist": [
+        "ae37d37aa0ed9e6defa6b71d0252d325c889783c600eead1004b029a47485ab0",
+        "Custom_models-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Custom_models-0.0.1-py3-none-any.whl": [
+          "9fdad416497ad9fe8633ceea653dce2dad174250180d24d0a9ba079a080f525c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f5817f3fdbc71df355f64ac4cb72c0bc6d5a89c7d3b836b1a714aa1453aab5d5",
+        "Custom_models-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "Custom_models-0.0.2-py3-none-any.whl": [
+          "995a6d36f594ecef3e002c207845f4693a0b6b54c89136a63eb79ec43b10d583",
+          "py3"
         ]
       }
     }
@@ -28154,6 +28204,12 @@
       "sdist": [
         "29ddc8de7dcb8c807ab9a4fe77b4138f39dc44fc3fab8b4a71411cb0c0e2416a",
         "mac-terminal-interpreter-2019.5.6.tar.gz"
+      ]
+    },
+    "2020.7.1": {
+      "sdist": [
+        "2b3a5c7a17701a8056b69643241bce05c1708767d0f94b2dbf826f8ece6ff7a4",
+        "mac-terminal-interpreter-2020.7.1.tar.gz"
       ]
     }
   },
@@ -82751,6 +82807,98 @@
           "cp38"
         ]
       }
+    },
+    "0.18.0.9.dev202007011592768535": {
+      "wheels": {
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27m-macosx_10_6_x86_64.whl": [
+          "461d3558c8c9e47e71bd1a21ec95e5806b1af29b478e719e32d6750b2b136de3",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27m-manylinux1_i686.whl": [
+          "50671a6b5f8e0f35d2c3418772f8d20b73d3cfa98ea7bd8c5583573dad2f91a8",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27m-manylinux1_x86_64.whl": [
+          "dadabd1e520a9857680ba68c9a324593eebfbd5979d2634767d61afa8b5d5cbf",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27mu-manylinux1_i686.whl": [
+          "6d2e26c85a2ab156b575abcb8cc3169bbe4b4f3f982abb4f4cd2ed011be83f25",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "1ff9579592e9f681e43a3e2cddc13a7ed4dee3ddcd4a5343ecd1f466e306e442",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27m-win32.whl": [
+          "34b7ee6efcdf880c134e9c0264b559165d230652d498b3bc5cb5b1362009d922",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp27-cp27m-win_amd64.whl": [
+          "1f8ae1c02b7c84698d2c6b9c7108b889fe2eb0efbe4e722d8af2d4ba42db1342",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "cf035437eae81e7fe657fa2943a8356f50b1182d2dc9b7dbb48f04d89566186e",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp36-cp36m-manylinux1_i686.whl": [
+          "0d6c6e2db43cfbdc6ea619a525c4a62aac81b2d65ff89b2f46b1b0341daddddc",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp36-cp36m-manylinux1_x86_64.whl": [
+          "482b24201d4677c5df5641d3eec5bbda684e14b59e3ac2c55933cd98cf1b5848",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp36-cp36m-win32.whl": [
+          "6d6f2c830bb2d3c331e866148cf337ac20145cecb6e787e55f28426c99be2844",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp36-cp36m-win_amd64.whl": [
+          "9aaa44ef91876a477d22ef02f0627fbe8cd06c006f855be14c80efec41f30c5e",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "9db89f057bdd1633f7eef5da00081a215d5c5bb203894f78c545481de29ce811",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp37-cp37m-manylinux1_i686.whl": [
+          "c75eccd8f3801e602877c6c13063cb72905e0c23f1f0ee63c7f10c3125a90734",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a84c1c734c9f8d23a5ef44ff4abda23d1aad9e8e66e32e355dd3877dadf7380d",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp37-cp37m-win32.whl": [
+          "ff65b805b10ececf12719c00b6dea4cddbe9f04ef4df1bef280adb23dff97901",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp37-cp37m-win_amd64.whl": [
+          "2f2a07ede7a4b0c1ed01e3568094c482f6fc16439e9f1e836639deca7fdbdfe9",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "0092185197f008924473b2c8c3d3dd5a421bc33b064cb12c72aecb90df186be8",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp38-cp38-manylinux1_i686.whl": [
+          "915f19b459afdc689d2250b4913d3f6729c0fddfd6877dfd7af524edc4c8099a",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp38-cp38-manylinux1_x86_64.whl": [
+          "9a9f276ef3d858a9bf00cc1560c0d369c9dd18987df4bcdbb99c6d3145eed05a",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp38-cp38-win32.whl": [
+          "d0f2b72befc489925b5d0ac682f30ec055f16d1e1f93b0b39c3a43372bf57d7f",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.0.9.dev202007011592768535-cp38-cp38-win_amd64.whl": [
+          "cb36a53620792e43921e21bba82e45928fd403fe7c47694fe3ae837570817b7a",
+          "cp38"
+        ]
+      }
     }
   },
   "pyaltt": {
@@ -93085,6 +93233,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "b2eb6048349c0f27bf8d97e6363e4a4f54b8cbaca7ca7f63425b3e9496214357",
+        "snakefmt-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "snakefmt-0.1.1-py3-none-any.whl": [
+          "9f89fb588e2a2e9858be3cd953baa20db0140c800dc095dc9b633617b3a9f90d",
+          "py3"
+        ]
+      }
     }
   },
   "snipping": {
@@ -99116,6 +99276,18 @@
       "wheels": {
         "var_io-0.2.7-py3-none-any.whl": [
           "129ea43df40cdfeccebb071373e050c31d26615eef6a2e3df9bdab1f561fc075",
+          "py3"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "64e2a5124ebec25f9a14ea55da2848b6809ca15e1e6eff0c37b9b6eb0e7039aa",
+        "var-io-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "var_io-0.2.8-py3-none-any.whl": [
+          "137b38e5a946eb8e74bac6de4a2e1783b685172cfcde4fbedbf1da604f3480e0",
           "py3"
         ]
       }

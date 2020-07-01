@@ -4564,6 +4564,18 @@
         ]
       }
     },
+    "1.48.0": {
+      "sdist": [
+        "ee4e8b8063582d006b52595bb3db372a8723434bf7e1f006048717e145c01145",
+        "aws-cdk.aws-codepipeline-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codepipeline-1.48.0-py3-none-any.whl": [
+          "d5d53df4161bc449a1fbc026ed1ed9969f8a7a74b13107a521ec3ec05be2803a",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "282308f422edfe752f2372b4ff608872824a50105383705170f6adab4a3d4e65",
@@ -5270,6 +5282,18 @@
       "wheels": {
         "aws_cdk.aws_elasticloadbalancingv2_targets-1.47.1-py3-none-any.whl": [
           "b62a495889da1bd0b5565744fc2f9bba708789c6ee36ad3a51f25af98d2e0ef0",
+          "py3"
+        ]
+      }
+    },
+    "1.48.0": {
+      "sdist": [
+        "8b1fc3d6ad71807a64422d94039dec8767329b8dd951d583c3909ab366d55437",
+        "aws-cdk.aws-elasticloadbalancingv2-targets-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticloadbalancingv2_targets-1.48.0-py3-none-any.whl": [
+          "17c24510c90ed12ce4ae1d68c03f793490951becb5e52db902f7a687877358f8",
           "py3"
         ]
       }
@@ -6912,16 +6936,10 @@
     }
   },
   "bfpack": {
-    "1.2": {
+    "3.0": {
       "sdist": [
-        "37d30c7678bc022cffbf03f1e1e9f50a20352414f45261470cc7f62cc94a3e23",
-        "bfpack-1.2.tar.gz"
-      ]
-    },
-    "1.4": {
-      "sdist": [
-        "69e16c98158950ed09b45f110092d4fbbc317b97dcfc1e2b256b9ea66a5f2ada",
-        "bfpack-1.4.tar.gz"
+        "22ee5abe54de85b26b2b0e7588aa94e6e5a0c9f4ec36544eb4073d22084cbfc1",
+        "bfpack-3.0.tar.gz"
       ]
     }
   },
@@ -25821,6 +25839,16 @@
       ]
     }
   },
+  "genomeworks-cuda-9-2": {
+    "0.5.0.dev200701": {
+      "wheels": {
+        "genomeworks_cuda_9_2-0.5.0.dev200701-cp36-none-any.whl": [
+          "2c3be2c4a7f457d8ef401c0a526b0f1fcf9d24491bc2b074973b3a551a096500",
+          "cp36"
+        ]
+      }
+    }
+  },
   "geofound": {
     "0.2.1": {
       "sdist": [
@@ -26004,6 +26032,12 @@
       "sdist": [
         "94acada41eba5ac154fb2899d53b8a30f89cb63488cd4c1dafac8f503c82456f",
         "gist-generator-2019.7.19.tar.gz"
+      ]
+    },
+    "2020.7.1": {
+      "sdist": [
+        "dd02216abd34ea66a16988209f078c2c942c37a01eb9c4428ae86d0f291d2cfb",
+        "gist-generator-2020.7.1.tar.gz"
       ]
     }
   },
@@ -34942,6 +34976,30 @@
         ]
       }
     },
+    "2.0.0.dev24": {
+      "sdist": [
+        "a4c4097995de3546faad224b21cd4768117237fc766c03dd1189df4cc7583541",
+        "hikari-2.0.0.dev24.tar.gz"
+      ],
+      "wheels": {
+        "hikari-2.0.0.dev24-py3-none-any.whl": [
+          "3e55fd68821e05bf302a9567118abb64fddf1e5e7d80aa2f169f3755a9caf788",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev25": {
+      "sdist": [
+        "1b5831a82324ff6d2e7b49775f973792d2a46a57203b2eba09ea2a78e21f2753",
+        "hikari-2.0.0.dev25.tar.gz"
+      ],
+      "wheels": {
+        "hikari-2.0.0.dev25-py3-none-any.whl": [
+          "c85f63b5b4232f7825e9490340345c54282ba35058a9db8c8d7e2096f1e439af",
+          "py3"
+        ]
+      }
+    },
     "2.0.0.dev3": {
       "sdist": [
         "abf73e3dcaac21e3fba395cc4650105f6a01420d2c889567f61416b002c84aba",
@@ -39210,6 +39268,12 @@
       "sdist": [
         "7171783e36bc0ddb7d126454d0a457ad970d97ce259bccce7bc2e9fa913ef09a",
         "mac-app-bundleid-2019.4.14.tar.gz"
+      ]
+    },
+    "2020.7.1": {
+      "sdist": [
+        "2c7dd7dbdeb59d3f0558f2888dafac5608d18e57db1a77a19a1bb92c25a4f61d",
+        "mac-app-bundleid-2020.7.1.tar.gz"
       ]
     }
   },
@@ -48568,6 +48632,12 @@
       "sdist": [
         "8fd57fb16f2c90ef4a76b04b8701c4db8ded170e53fac9514b5ea0272da5d36f",
         "post-2019.4.13.tar.gz"
+      ]
+    },
+    "2020.7.1": {
+      "sdist": [
+        "b7cafe650fb82e37504ceb5d10806f21b86c2ea9b09050f04b392f779f628634",
+        "post-2020.7.1.tar.gz"
       ]
     }
   },

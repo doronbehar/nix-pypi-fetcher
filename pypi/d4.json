@@ -4602,6 +4602,18 @@
         ]
       }
     },
+    "1.48.0": {
+      "sdist": [
+        "7605bbcef22cd95fba4184920b697bfafc9b0abdf93eeeeb9bc70b2c3c5c9f3f",
+        "aws-cdk.aws-cloudformation-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudformation-1.48.0-py3-none-any.whl": [
+          "a196d6ce1a4794d69b788cd6d73d2148e81a209c6726cd8fbfaf0f85e76d4549",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "e3b972937ff95b47ab61b1df79193b8c292a0d7006440481b04b37bfc844794f",
@@ -5548,6 +5560,18 @@
       "wheels": {
         "aws_cdk.aws_sns-1.47.1-py3-none-any.whl": [
           "0651133f45d34d5bb15d5433f4ffc0d2d307b2844350a9597b2de191390120f8",
+          "py3"
+        ]
+      }
+    },
+    "1.48.0": {
+      "sdist": [
+        "4461ec25a1df22267b71f6e9fda3e015e91eb960486c9002253f2b7593ad4e9c",
+        "aws-cdk.aws-sns-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sns-1.48.0-py3-none-any.whl": [
+          "f191e5ea21f41462d7e133c7a5fb25e71841886075a34c7f3f976fc6a4ff473a",
           "py3"
         ]
       }
@@ -13466,6 +13490,18 @@
       "wheels": {
         "dagster_pyspark_nightly-2020.6.9-py3-none-any.whl": [
           "1bad0d106acb6b2288686cd92ad0fd1a72cb9dc2ebbf47f281fc85921bc302f5",
+          "py3"
+        ]
+      }
+    },
+    "2020.7.1": {
+      "sdist": [
+        "a8d4924c7c1db23f169c734042e2e305fb410c013bee4e9f55470debf9f9340d",
+        "dagster-pyspark-nightly-2020.7.1.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pyspark_nightly-2020.7.1-py3-none-any.whl": [
+          "649ac453e4668436673f5cfc5a77930ccc1c64b010e75f987b404eec4bf4a763",
           "py3"
         ]
       }
@@ -22356,6 +22392,12 @@
         "docassemble.base-1.1.42.tar.gz"
       ]
     },
+    "1.1.43": {
+      "sdist": [
+        "4a134b7998c0bc9f9723d42471b0a117af6611a897afd07366b54e2100074bf8",
+        "docassemble.base-1.1.43.tar.gz"
+      ]
+    },
     "1.1.5": {
       "sdist": [
         "8630296e370b76c37d24366406a7b6db0b4d2c067b95443955a519215417860c",
@@ -30771,92 +30813,6 @@
       }
     }
   },
-  "img2unicode": {
-    "0.1a1": {
-      "sdist": [
-        "65f1a5e8298f5071ce86229b5d44b2985ff23af1b9faaabffbd514c4cff14d92",
-        "img2unicode-0.1a1.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a1-py3-none-any.whl": [
-          "e7aca89459b16f9f0b3caf5c84b5314eec7c8b2655af412c5bd07012ce460e60",
-          "py3"
-        ]
-      }
-    },
-    "0.1a2": {
-      "sdist": [
-        "98bb7724b5ca01349f7cfb3bf221703c06588413833b436d7ef1057c3896a9fd",
-        "img2unicode-0.1a2.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a2-py3-none-any.whl": [
-          "bf3a81c3b62f7a227dbd793336c81b5536a98409d9459300c35877395e6fc77c",
-          "py3"
-        ]
-      }
-    },
-    "0.1a3": {
-      "sdist": [
-        "2b72011bce10583e2925bcd93b13b5bfd7a722ec2093f4741317161a57d5467b",
-        "img2unicode-0.1a3.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a3-py3-none-any.whl": [
-          "cd69cc1e5c3be69c6347067baf727fd6fbf3bcf0385a304949566528eac2ef44",
-          "py3"
-        ]
-      }
-    },
-    "0.1a4": {
-      "sdist": [
-        "0b179c1407bd97c3cd9a6d2d5dc5cec03f462b0ebab2d4faed554b783665f958",
-        "img2unicode-0.1a4.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a4-py3-none-any.whl": [
-          "3b8d690f1844d67a0fdf35cec5a54a3b0b32404d6ce7106d4a01a222f359a3b1",
-          "py3"
-        ]
-      }
-    },
-    "0.1a5": {
-      "sdist": [
-        "dd0616611e5839153f6c619bff21bed32cb699df7257a87a300195a0ea760f38",
-        "img2unicode-0.1a5.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a5-py3-none-any.whl": [
-          "ddb98d3a0717cef47aa5a640e8a9d5ce7e92f4edc0b1284b55a6de98aadbd57f",
-          "py3"
-        ]
-      }
-    },
-    "0.1a6": {
-      "sdist": [
-        "d74bfe2d9a2e6d7a7bee92f60898a92484abb06e816b3f29385ef6e74a6015a6",
-        "img2unicode-0.1a6.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a6-py3-none-any.whl": [
-          "34823802e801c550effd233938b2def2191ab7fd90e2e308acfa2c8b3c27c417",
-          "py3"
-        ]
-      }
-    },
-    "0.1a7": {
-      "sdist": [
-        "00d07d36a7c7ceba6fbaa5e807774619d6ff9d6484047c019168af953ebca4e0",
-        "img2unicode-0.1a7.tar.gz"
-      ],
-      "wheels": {
-        "img2unicode-0.1a7-py3-none-any.whl": [
-          "3237bb688cd80698fd7d0e5073b7613ab1af2167820cd3ed6e1e8ef4bc4d8067",
-          "py3"
-        ]
-      }
-    }
-  },
   "imgdisplay": {
     "2016.12.24": {
       "sdist": [
@@ -33902,6 +33858,18 @@
       "wheels": {
         "klib-0.0.86-py3-none-any.whl": [
           "88e256a66d08b263105170c3d46ec26afa5dcff5790507c5cdeb7f27f44aa9fb",
+          "py3"
+        ]
+      }
+    },
+    "0.0.87": {
+      "sdist": [
+        "e973565658f625d5e0d7ab2e82d30eb6cba2b43f2a092b4357813a481b3f0375",
+        "klib-0.0.87.tar.gz"
+      ],
+      "wheels": {
+        "klib-0.0.87-py3-none-any.whl": [
+          "8c09fa3a5b09794baff93e538c7fe524d931d7d6e92ac44125eaeb8c63e0649c",
           "py3"
         ]
       }
@@ -61460,6 +61428,22 @@
         ]
       }
     },
+    "0.13.0": {
+      "sdist": [
+        "7bf77d7ca1abab2318595ad5d0845258cd7f1f1ac4f3b7aa751f7d52b800ca01",
+        "semgrep-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "semgrep-0.13.0-cp36.cp37.cp38.py36.py37.py38-none-macosx_10_14_x86_64.whl": [
+          "20db1547bdbb7dc8be25cc73095b611931ae4fdb7c3fe64225460a90bedfe448",
+          "cp36.cp37.cp38.py36.py37.py38"
+        ],
+        "semgrep-0.13.0-cp36.cp37.cp38.py36.py37.py38-none-manylinux1_x86_64.whl": [
+          "327648f02084c2353efadc2366c2f2396e278f5d1bb346db24dfe5e75f21f389",
+          "cp36.cp37.cp38.py36.py37.py38"
+        ]
+      }
+    },
     "0.6.0": {
       "sdist": [
         "edd40260fb2be636f8c88fff8cd6f051b4ad52d592fa76e37a8675f7380efdd6",
@@ -64059,6 +64043,12 @@
         "70f65f9d3c78e7fa3e5bde4fa5139a9ef9d0c16911f41ab906384b47a291072e",
         "sphinx-bluebrain-theme-0.2.1.tar.gz"
       ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "4b3f24a64dbb7ee9f2e7d5adbd640ba0e3bd3207edfd70263da4085d561d238c",
+        "sphinx-bluebrain-theme-0.2.2.tar.gz"
+      ]
     }
   },
   "sphinx-materialdesign-theme-nopyc": {
@@ -66488,6 +66478,18 @@
       "wheels": {
         "tccli_intl_en-3.0.34.1-py2.py3-none-any.whl": [
           "00db9e76b9e1f134a7a5c20a771a4308ecc2e52fd1a32a846596049bfb12ae51",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.35.1": {
+      "sdist": [
+        "b33856ca59c48f0eff1bf702a93b228c8d3fbac2f26cca7e1efd90b46cbf936a",
+        "tccli-intl-en-3.0.35.1.tar.gz"
+      ],
+      "wheels": {
+        "tccli_intl_en-3.0.35.1-py2.py3-none-any.whl": [
+          "b491f75c577dbe35f832cfff8b7fc8057057779f48e5628834beb3d67d53925b",
           "py2.py3"
         ]
       }

@@ -167,6 +167,14 @@
           "py3"
         ]
       }
+    },
+    "20.7": {
+      "wheels": {
+        "aapns-20.7-py3-none-any.whl": [
+          "2e004b4056d0b9abe376b718328df47f7e534edfa18408fd24a2ae8c3c47146b",
+          "py3"
+        ]
+      }
     }
   },
   "abhilash1-optimizers": {
@@ -9148,6 +9156,18 @@
       "wheels": {
         "dagster_snowflake_nightly-2020.6.9-py3-none-any.whl": [
           "893ac0344e236956b3761eead134a71ad51b3fad863fa52950f0db7a9aa3dcc7",
+          "py3"
+        ]
+      }
+    },
+    "2020.7.1": {
+      "sdist": [
+        "2f830022ab170fcb54b419f4e9407fdcf6aef6362f8827ab670a8c9029e89675",
+        "dagster-snowflake-nightly-2020.7.1.tar.gz"
+      ],
+      "wheels": {
+        "dagster_snowflake_nightly-2020.7.1-py3-none-any.whl": [
+          "7be68e1bbc72003fdc32088de1bd2f9521aad061983379ccb65e7b9d4b959399",
           "py3"
         ]
       }
@@ -24278,6 +24298,18 @@
       "wheels": {
         "lbt_honeybee-0.2.31-py2.py3-none-any.whl": [
           "a38849f68470f915c763a6a311ee2777aaab944c71c23cf5dd874ff4ca0d8c6f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.32": {
+      "sdist": [
+        "cd02331d06a5cc88891a9678c96f65f830a9ba877d3315ee760c52ba8a625a30",
+        "lbt-honeybee-0.2.32.tar.gz"
+      ],
+      "wheels": {
+        "lbt_honeybee-0.2.32-py2.py3-none-any.whl": [
+          "0c3a86232df78b8db92f00c7137756e3cfeacb2b5266fdf29b71a580b60ae201",
           "py2.py3"
         ]
       }
@@ -43599,6 +43631,82 @@
           "pp36"
         ]
       }
+    },
+    "0.2.0": {
+      "wheels": {
+        "quantized_mesh_encoder-0.2.0-cp35-cp35m-manylinux1_i686.whl": [
+          "bcf357a59fd4d57dae0e782636e344a0ad7eb2ed8506205eacc067993434b9f3",
+          "cp35"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "5f89de58cc4d2c42de93f1d1fef468d47a4b0f665ee0762014ea4a62fbff88bc",
+          "cp35"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp35-cp35m-manylinux2010_i686.whl": [
+          "5cd67cc413fe412e52fe1c80d5676a23047e7232e8e6141c6b32494ba3ea7cc2",
+          "cp35"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "5e1318e878b22643955e38bcd8a8cddf66e52cf403fc45bfc590471e9b57727b",
+          "cp35"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp36-cp36m-manylinux1_i686.whl": [
+          "0f8321393ebff3c5cd4fc612b85aa7aa3acea55f7a437eee71454f0cefae81fc",
+          "cp36"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5dd6ca3b7e1ac0b41e8583c3cd4a4efedf9fe99b99d152d8376567b8e7b340f9",
+          "cp36"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp36-cp36m-manylinux2010_i686.whl": [
+          "8674be75071c3771ebdbdb288bf1dede7f580e580aa58073fa8ff7f5fc8d36fc",
+          "cp36"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "88a91e3deb511b82a72a5655ff8e4b6c05d65bad2d82d7c6fa0c28553806862a",
+          "cp36"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp37-cp37m-manylinux1_i686.whl": [
+          "f6ae4549d8a827203a2a87e75fc5d3317edf14293ffeefe4afac68faea891f95",
+          "cp37"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d0e6da5013969d99b6da2158cd7b3950d0e2a185a9a7100b631156762b5adeee",
+          "cp37"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp37-cp37m-manylinux2010_i686.whl": [
+          "8ce7439f833a5f4ba5837abf36be419749a69b457b6c2a8b6c5b1f12a8acec65",
+          "cp37"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9799847949197e5515ff1b455bb8a319652d1a18139dfa878eea8228dd70afcd",
+          "cp37"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp38-cp38-manylinux1_i686.whl": [
+          "7657d760be7363c5b143ba34ecf290ae5fb8d12effcaf1caa4c644e5e4c04815",
+          "cp38"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "9ad6602aa9cc67fb5cc3a5f8d287fc91f09df2d4a399f8372ed0a844f3e956f0",
+          "cp38"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp38-cp38-manylinux2010_i686.whl": [
+          "7cfee8220badeddb7f6134856380d4b74ce15dcaecd391eecee5c227489e6722",
+          "cp38"
+        ],
+        "quantized_mesh_encoder-0.2.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "ce29d1d710ee0f5a5ab087f461fe54b6af213b6933088499f64a3dcaecc236d8",
+          "cp38"
+        ],
+        "quantized_mesh_encoder-0.2.0-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "a881a87fcf4505c53c5ef71c36e3ee78b2068a59d133c9ba0e8a27c208b01d39",
+          "pp36"
+        ],
+        "quantized_mesh_encoder-0.2.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "5210a127c71117cfc1def1d33b8a225cac7276c8b7d72e8d326c78a971c9b130",
+          "pp36"
+        ]
+      }
     }
   },
   "quantumcore.contenttypes": {
@@ -49513,6 +49621,18 @@
         "19567a44d8dd1c6804be2b2e4d24d0801d44f5acf299a3177e80832dfe71276f",
         "sphinxcontrib-ditaa-0.7.tar.gz"
       ]
+    },
+    "1.0": {
+      "sdist": [
+        "b14ddd486f8697f03fd89082008bce179f3b4cbc25804a1e52149abe4c7a582c",
+        "sphinxcontrib-ditaa-1.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "757a318bbd5c8a09bfb4cf7676757314ea43906a792c5eef1fd118cb8ec3f84e",
+        "sphinxcontrib-ditaa-1.0.1.tar.gz"
+      ]
     }
   },
   "spliterator": {
@@ -50780,6 +50900,12 @@
       "sdist": [
         "124d376fa45e66dcdc7c4e3184aea6ea591e531d18a81151e43d3c722a9ab648",
         "templates-s3-2019.8.9.tar.gz"
+      ]
+    },
+    "2020.7.1": {
+      "sdist": [
+        "e10c0bf4aed2ce685741223d23aa726c76811cc795405098ac3474b56e93616a",
+        "templates-s3-2020.7.1.tar.gz"
       ]
     }
   },
@@ -54620,6 +54746,12 @@
       "sdist": [
         "baa3619cdffd177b2b05fe494ffe1f1e7ce6daba8eb86a531b7ecd260a204495",
         "vrt_lss_delivery-3.0.159197.tar.gz"
+      ]
+    },
+    "3.0.159457": {
+      "sdist": [
+        "2e66b9edcda0504af6b396d65bd9817cf34988e40c6a1e52711394b7473a2848",
+        "vrt_lss_delivery-3.0.159457.tar.gz"
       ]
     }
   },
