@@ -5605,6 +5605,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.9": {
+      "sdist": [
+        "2a6cd0467dbce5c27efd18a978b744b7af2279b6b5ac272490d990f5b3ad3951",
+        "azfs-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "azfs-0.1.9-py3-none-any.whl": [
+          "0a5b09aa6e7c5378ce7adf92b40cb3172195b89bf9ff9da2c7f8efc6d1efd235",
+          "py3"
+        ]
+      }
     }
   },
   "azure-cli-privatedns": {
@@ -19384,6 +19396,18 @@
       "sdist": [
         "57a5318034fb2e6dfd834c0979c4041dfde231cc54aecbf780aba2f0c84047d4",
         "driftage-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "1bc9c54d68a817b11cb358f89c16ef78c38d62b41c87c843dd4346c23e743f76",
+        "driftage-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "04f34229770143b02fabb7f8d97de47e05a09c80491dd266c2134e3543390c1a",
+        "driftage-0.0.4.tar.gz"
       ]
     }
   },
@@ -34906,6 +34930,18 @@
         ]
       }
     },
+    "2.0.0.dev23": {
+      "sdist": [
+        "77af8904e519e92e8156560ab84e6f8ef5fa8ebb76729776728149c45f895a45",
+        "hikari-2.0.0.dev23.tar.gz"
+      ],
+      "wheels": {
+        "hikari-2.0.0.dev23-py3-none-any.whl": [
+          "d3761ba6ee01f1190987aef244adf2efb5de01ce140e0b16eb980ed47acf1d21",
+          "py3"
+        ]
+      }
+    },
     "2.0.0.dev3": {
       "sdist": [
         "abf73e3dcaac21e3fba395cc4650105f6a01420d2c889567f61416b002c84aba",
@@ -41817,6 +41853,20 @@
         "c1d8b7a42e059c8b9349713e33d38dece25477d9f4212ef304f1aa6dfadfde76",
         "nlab-0.0.1.tar.gz"
       ]
+    }
+  },
+  "nmodl-nightly": {
+    "0.2.62": {
+      "wheels": {
+        "NMODL_nightly-0.2.62-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "e2ea32c71a4ced6e75b9c12a12acb2c9121a6021dd7132976e5108593b3437f7",
+          "cp37"
+        ],
+        "NMODL_nightly-0.2.62-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2bd1eaa6216dd993cb5f1a16a57386909a022f596b5a481867b9b90dba86e107",
+          "cp37"
+        ]
+      }
     }
   },
   "nnabla-ext-cuda90-nccl2-mpi1-10-2": {
@@ -56107,6 +56157,32 @@
       ]
     }
   },
+  "repomirror": {
+    "1.0.1": {
+      "sdist": [
+        "78791836a27748812b331edb9beebbc1979f8baa4e64f356d8eb4437b7aaed75",
+        "repomirror-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "repomirror-1.0.1-py3-none-any.whl": [
+          "e25c060306d003837af4da7f7b1f5aeb25c77a542dda7edec1362be62c2001d5",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "07ea6ab7024f643c2d3768454d5d9c6941e3d4719031f6808bf466dc8020a549",
+        "repomirror-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "repomirror-1.0.2-py3-none-any.whl": [
+          "f2b84ed307b0f521221a01eddd2fe07d062017ef73075d3528174d3a804c0a30",
+          "py3"
+        ]
+      }
+    }
+  },
   "request-log-info": {
     "0.0.1": {
       "sdist": [
@@ -58429,6 +58505,44 @@
         "4c78e747bf916241b25c7e614585862df1987c45a36c69c5030d0a62a849a8eb",
         "seen-0.1.5.tar.gz"
       ]
+    }
+  },
+  "selia-admin": {
+    "0.1": {
+      "sdist": [
+        "6a79759adab4dddcb443647395d3263579614a08f93cff4b89522f06c3cc2858",
+        "selia-admin-0.1.tar.gz"
+      ],
+      "wheels": {
+        "selia_admin-0.1-py3-none-any.whl": [
+          "99339ce624495e1b7390f0a6dd193fed1a93e5079e5d699ddb04ec5b64965eb6",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "9e4dcf6dc8aaf825375992c354078bd746554ee07027e5041b252120513292d5",
+        "selia-admin-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "selia_admin-0.1.2-py3-none-any.whl": [
+          "1ddd686654407a230aca5da82fe89eccb264448e252c4763beac011d5670dc7f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "7be19001a4684abd90c4a2bec2218b2c36ddc6ee4ea53c8f277cf23403f5e420",
+        "selia-admin-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "selia_admin-0.1.3-py3-none-any.whl": [
+          "f06cc80309729ccf36c89e141a80bcae149edce5649e6370f06e049d942ab227",
+          "py3"
+        ]
+      }
     }
   },
   "sensormotion": {

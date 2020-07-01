@@ -14215,6 +14215,12 @@
         "8451eb1253ef5290f3698825a909edecfa75d4967eccd90923ca317916c49622",
         "docker-cron-cli-0.3.0.tar.gz"
       ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "d2e2ec4ed25bd0c3cc911bbbaff6f6efb33d2f7cad333fbce1ff5223e50b22f7",
+        "docker-cron-cli-0.3.1.tar.gz"
+      ]
     }
   },
   "dockerfactory": {
@@ -18178,6 +18184,18 @@
       "wheels": {
         "flytekit-0.10.0-py3-none-any.whl": [
           "2b1dba491dafcc0934789767d1a1505724d92fdb984767db3e0a557f319c6304",
+          "py3"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "0a78bfb0a162fec68a885b7e8e6bc095b0880936969c87bc9bbfbd9cbf311b26",
+        "flytekit-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-0.10.1-py3-none-any.whl": [
+          "6f1ad53c040f2b0c5f474f2dcaf600804fa58b22a0ddd06eafa59daa4cfa0d01",
           "py3"
         ]
       }
@@ -51080,6 +51098,14 @@
         ]
       }
     },
+    "0.38.3": {
+      "wheels": {
+        "spell-0.38.3-py2.py3-none-any.whl": [
+          "137df48f91415648ebca5d55b8204aac26dbc4fd4db444caf16699a49b1c1929",
+          "py2.py3"
+        ]
+      }
+    },
     "0.9.0": {
       "wheels": {
         "spell-0.9.0-py2.py3-none-any.whl": [
@@ -52217,6 +52243,12 @@
         "fdb85b8196e7b91d9e658b1a08c95219d742c34837a418911cedfcf11b84e3ca",
         "stratus-api-tasks-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "074adc575d02cdfdd6302ab01ea7ecbf5d8bebef77a6c6025e85f09d2e2a8b6e",
+        "stratus-api-tasks-0.0.5.tar.gz"
+      ]
     }
   },
   "sublime-backup": {
@@ -53254,6 +53286,30 @@
       "wheels": {
         "testwizard.android_set_top_box-3.1.9-py3-none-any.whl": [
           "09a8e28cb95c4e144aaac5b92f7e7646a1744a4abd0f4253783446433a7200d2",
+          "py3"
+        ]
+      }
+    },
+    "3.2.0": {
+      "sdist": [
+        "a4554bebb627d829a7f54e2dceb3835049b599dfa60dc859f8c4b366e8590b6b",
+        "testwizard.android-set-top-box-3.2.0.tar.gz"
+      ],
+      "wheels": {
+        "testwizard.android_set_top_box-3.2.0-py3-none-any.whl": [
+          "e926a03879981cf718babba84f9324f334414e8529539c145f7d24896404a8cf",
+          "py3"
+        ]
+      }
+    },
+    "3.2.1": {
+      "sdist": [
+        "627cf02bb8034e7f3123b2de7d417eb1bf03d3d479119ea88cc39b495c82f233",
+        "testwizard.android-set-top-box-3.2.1.tar.gz"
+      ],
+      "wheels": {
+        "testwizard.android_set_top_box-3.2.1-py3-none-any.whl": [
+          "431c43dd96e9db66ce29b0d124c807621a7bfd68d4222e376d6d133dc6d35c7c",
           "py3"
         ]
       }
@@ -57803,232 +57859,6 @@
         "e4ec48d43156a979e82ba5e19c6595bbfc128c7e540d87ddec9f1383e3865a4d",
         "wtime-0.4.tar.gz"
       ]
-    }
-  },
-  "wwu-autospec": {
-    "0.1.1.dev0": {
-      "wheels": {
-        "WWU_AutoSpec-0.1.1.dev0-py3-none-any.whl": [
-          "a8ea9b5144c9a62555cc3cd4f2910e91d2be7b3ce87d304e8c6a5aa06b707d63",
-          "py3"
-        ]
-      }
-    },
-    "0.1.10": {
-      "sdist": [
-        "db406393c8b10a9a2920eaa0b767f51391e148a7054b723cf035cd0c099d4f55",
-        "WWU-AutoSpec-0.1.10.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.10-py3-none-any.whl": [
-          "7ea0682736ee8ce9875b3f075bc264bc8fd4238912bfa386c83de40aad105510",
-          "py3"
-        ]
-      }
-    },
-    "0.1.11": {
-      "sdist": [
-        "0a380db28afc14dcb839a1751337bd3b8669beaa1c7c4113c559844fd5e95ac0",
-        "WWU-AutoSpec-0.1.11.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.11-py3-none-any.whl": [
-          "59514655c06728f129fa4bd655c9740ef4608808822a87b090de5f6d5340508c",
-          "py3"
-        ]
-      }
-    },
-    "0.1.12": {
-      "sdist": [
-        "e4b51929361adac7cc42bc2e330fd060e79307bc614a2d0393f7905981e6b29b",
-        "WWU-AutoSpec-0.1.12.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.12-py3-none-any.whl": [
-          "36c4f0930ff67e8c4b0d25f821fae374878dd808bb2ba69f79b5110d272bc7ad",
-          "py3"
-        ]
-      }
-    },
-    "0.1.13": {
-      "sdist": [
-        "74cc45221973727204bad29134699534f2360b3215913ad6271deef399607796",
-        "WWU-AutoSpec-0.1.13.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.13-py3-none-any.whl": [
-          "0442db64848dc6d15515c997a6e611f8f795dc670306ab7039a0807341628498",
-          "py3"
-        ]
-      }
-    },
-    "0.1.14": {
-      "sdist": [
-        "a49ef2d346ca2f447a1eefc0ffdea535fa58d3f2e666ada473979d763c23a226",
-        "WWU-AutoSpec-0.1.14.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.14-py3-none-any.whl": [
-          "9f6dfdaedc4205d0b242c06aa4b33761d5359dc2e258d6b8d978235bfca4f7c0",
-          "py3"
-        ]
-      }
-    },
-    "0.1.15": {
-      "sdist": [
-        "07c77212e80cf82c92bc465fb021110fdf065c310d3a33e1b5e26033259105b7",
-        "WWU-AutoSpec-0.1.15.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.15-py3-none-any.whl": [
-          "2d54667ab24c7173e2a57ad481578acfc38fc39edf0cad7c253724e61d99352a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.16": {
-      "sdist": [
-        "42f7379d7310ba1dff38710ab38914333fde13baeb4390d8f900d13b0f6dc693",
-        "WWU-AutoSpec-0.1.16.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.16-py3-none-any.whl": [
-          "cf25e66a6a0de1eedf9a81e75ac09f364d786484d6281085589c9cb885695268",
-          "py3"
-        ]
-      }
-    },
-    "0.1.17": {
-      "sdist": [
-        "90518ee0c593515198784d116383e649d1c053ade09ff1062143c347bd27d225",
-        "WWU-AutoSpec-0.1.17.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.17-py3-none-any.whl": [
-          "e530f929a291058e016120c2e7f18bf63b4d76fe4caf43eceebcdbb3edbfbbda",
-          "py3"
-        ]
-      }
-    },
-    "0.1.18": {
-      "sdist": [
-        "26a87407b89e1fb1db37ca59202dda67ce9b564757d60b8bcc083e2cd3487c89",
-        "WWU-AutoSpec-0.1.18.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.18-py3-none-any.whl": [
-          "3e5458dd905427ea9b8fb68c3f0777a41d4434fce71af1b853fa9f1773291190",
-          "py3"
-        ]
-      }
-    },
-    "0.1.19": {
-      "sdist": [
-        "4aac33e697d1b4257a14357b9f924f090becfffe69c5b478ed93372bdedb823b",
-        "WWU-AutoSpec-0.1.19.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.19-py3-none-any.whl": [
-          "8259097ee48af3957e3a544bb4b8055f963453fe28d6e4291142e7321c9712bf",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "wheels": {
-        "WWU_AutoSpec-0.1.2-py3-none-any.whl": [
-          "0b5fa910cff5c885ecd2fe92b5882638d6d6cd0399d95cfccd914032ba205d9e",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "wheels": {
-        "WWU_AutoSpec-0.1.3-py3-none-any.whl": [
-          "5118555b198d856d9c7e9a693ccca5ad32cfe4d11976d6baf0c01e39641f6065",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "40d895b9d7b55d12572152389ab5739b8e5832e589c4dc4c4aec2728a17f9fae",
-        "WWU-AutoSpec-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.4-py3-none-any.whl": [
-          "8676a474157ac92c0dff6712835c033f62526d6206b2646cec7ceeaf348ca8cb",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "3ee79d344640cf50fbef29ba2750bc7ee6542d459ba1a2f560174efffe688a42",
-        "WWU-AutoSpec-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.5-py3-none-any.whl": [
-          "d7819a954c6371c3d520ba2ae1b13318109fcb0bd4b0e79f7193a059ce2aa90d",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "9f9bb4e7913585844df5041e665eb91e1913fccf643785b80a7e64bf709ed113",
-        "WWU-AutoSpec-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.6-py3-none-any.whl": [
-          "4b0b12c93390bcad68b76358cc942aeac9cf0c214aca5f8799676e7162580ddd",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "f18177c1aeef7d2e5cf282996096ceca7696d8bcdc8466d4ffc4fa45cbf87283",
-        "WWU-AutoSpec-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.7-py3-none-any.whl": [
-          "3b1c8a5723cb9c8d4960be6cb0fba863ad0b3aca6fc85ae3186cfd77495286c7",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "b6b3f2f9776da02f4cca473fc73c74794d64a6099dc516144c0164b50b6bdd97",
-        "WWU-AutoSpec-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.8-py3-none-any.whl": [
-          "3c0ebb124b8b966d6c5fe932d26b6d75a710c1f1f858436327eb2762450fe1c8",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "5d24822c4640b033023e7938c14ad73ead9177ad054e03ec39832f65b4b2f7eb",
-        "WWU-AutoSpec-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "WWU_AutoSpec-0.1.9-py3-none-any.whl": [
-          "7224143db6c3d946f84d8047fb1cffceb910a1a5792d4ed8b3cf50fa4f237f15",
-          "py3"
-        ]
-      }
-    },
-    "0.1.dev0": {
-      "wheels": {
-        "WWU_AutoSpec-0.1.dev0-py3-none-any.whl": [
-          "482ffd3de131cecfc58bca21b050dcc6cccf840f07631bf541adf8f6dfa48bd7",
-          "py3"
-        ]
-      }
     }
   },
   "xacto": {
