@@ -5644,6 +5644,18 @@
         ]
       }
     },
+    "0.5.0": {
+      "sdist": [
+        "211527511d7616a383cc196956eaf2b7ee016f2367d367924b3715f2a41106da",
+        "azure-mgmt-appconfiguration-0.5.0.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_appconfiguration-0.5.0-py2.py3-none-any.whl": [
+          "9d7e2ceebc09c8b2b46173712032590769f61ddffc94b9e27fe418345a3e433c",
+          "py2.py3"
+        ]
+      }
+    },
     "1.0.0b1": {
       "sdist": [
         "2a89ec8be41c8153ab363187c037d509eabf7037163d7dea9b57a8e51bf3066c",
@@ -24166,6 +24178,18 @@
       "sdist": [
         "5ab7e1de04a029be5f40b7d930a4d0bbaa3894705eafbbe45d4018ae53c732d6",
         "forkheart-0.4.tar.gz"
+      ]
+    },
+    "0.5": {
+      "sdist": [
+        "04439f7a1e13a4aa1d752d1e676f8c68ed495dae08633be32f555bdf36299fb6",
+        "forkheart-0.5.tar.gz"
+      ]
+    },
+    "0.6": {
+      "sdist": [
+        "68abf47e988ba779da709b538fa263fe8d8b92d475628088b19abba2a57765a2",
+        "forkheart-0.6.tar.gz"
       ]
     }
   },
@@ -72698,6 +72722,78 @@
         ],
         "zhinst-20.1.1335-cp37-cp37m-win_amd64.whl": [
           "7fcd7a7672ad4c13f1885e14bee68f9338d0bc88bbcdda87ce61e79e51c5cdfd",
+          "cp37"
+        ]
+      }
+    },
+    "20.1.1818": {
+      "wheels": {
+        "zhinst-20.1.1818-cp27-cp27m-macosx_10_11_x86_64.whl": [
+          "4fa937df7ded4b05bcfa1c185e7945473571dd74b9e0266369df654262d597f2",
+          "cp27"
+        ],
+        "zhinst-20.1.1818-cp27-cp27m-manylinux1_x86_64.whl": [
+          "d54dbc68fb4e821f254c63501a7b0c6ec688ea5a4a89f978fc2b2f230e5bea6b",
+          "cp27"
+        ],
+        "zhinst-20.1.1818-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "f9549bfa83c6cfe7a1ce3ba05499bda2c91098f72bfbbbbff84f5e0d87abcb5c",
+          "cp27"
+        ],
+        "zhinst-20.1.1818-cp27-cp27m-win32.whl": [
+          "2905e19cc3d21f9e733541fd3caad15d64f477b58beccf8570b60d11719d5fd1",
+          "cp27"
+        ],
+        "zhinst-20.1.1818-cp27-cp27m-win_amd64.whl": [
+          "8fe0068cdcbc4df7f126e84b260565cfc944739bd3ed762f8af480136b74d299",
+          "cp27"
+        ],
+        "zhinst-20.1.1818-cp35-cp35m-macosx_10_11_x86_64.whl": [
+          "34011d0e7300890ff68baba723613d543c167a28f7e13d6a4b5b5d4c71e4db1f",
+          "cp35"
+        ],
+        "zhinst-20.1.1818-cp35-cp35m-manylinux1_x86_64.whl": [
+          "a72422ff3a98703c453e4ea71d8945fb6779f84204d9cf190ba7c57fbfcfb935",
+          "cp35"
+        ],
+        "zhinst-20.1.1818-cp35-cp35m-win32.whl": [
+          "319cca1be8a1cc75f0c57234a00d75c525cf4fde4cdd4d9410963d7cff0d24d1",
+          "cp35"
+        ],
+        "zhinst-20.1.1818-cp35-cp35m-win_amd64.whl": [
+          "fd037d949455b0d6b433d46c4b750fc5a06f3892c426ce7ec7cf2a84c6583ddf",
+          "cp35"
+        ],
+        "zhinst-20.1.1818-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "4251ea7a02311de1a86ab1193702f26420e986ff42624dc6ef4dc75b6eae6248",
+          "cp36"
+        ],
+        "zhinst-20.1.1818-cp36-cp36m-manylinux1_x86_64.whl": [
+          "eb3144d4457a21f038d51a9f29fa49bbec8f883cfe3f3e33f44e2b2966e901db",
+          "cp36"
+        ],
+        "zhinst-20.1.1818-cp36-cp36m-win32.whl": [
+          "21c62e1ec9f5bb776ad6775082433c52d43d7e2d38c6ded8cbc2b236366c7d2d",
+          "cp36"
+        ],
+        "zhinst-20.1.1818-cp36-cp36m-win_amd64.whl": [
+          "96dc7e931b31bde62990474885d1c87772a6761d427deacdc743186d71c2a57d",
+          "cp36"
+        ],
+        "zhinst-20.1.1818-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "4691e68859b1752ec52d650caa53302c67215a12693a67e9f61649c9e10c0a35",
+          "cp37"
+        ],
+        "zhinst-20.1.1818-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a4d510f9483b69c9b8e747860f8c298e83eb46701976cb3aca723847eea56a4d",
+          "cp37"
+        ],
+        "zhinst-20.1.1818-cp37-cp37m-win32.whl": [
+          "8c81e933ac2c4f1c68e9a844b746abcfe4055aa9c8a165209adbff80349b3105",
+          "cp37"
+        ],
+        "zhinst-20.1.1818-cp37-cp37m-win_amd64.whl": [
+          "70c65d55ff384ab0f16a6000e52fc1d5d9500f960d71923771590aa0663f6ea5",
           "cp37"
         ]
       }
