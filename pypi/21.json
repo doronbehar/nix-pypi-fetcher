@@ -4395,6 +4395,12 @@
         "de8607cabf7d88ebe3412d391ba7faf36c70e9c832e5b4bc6b13df1935cee77b",
         "bbc-dslib-0.0.18.tar.gz"
       ]
+    },
+    "0.0.19": {
+      "sdist": [
+        "78682941495bc8d41da8be3355810ff74ca5f1288e573dc9bc448ccf55b9355f",
+        "bbc-dslib-0.0.19.tar.gz"
+      ]
     }
   },
   "beanbot": {
@@ -8956,6 +8962,18 @@
       "wheels": {
         "datasette_init-0.1a3-py3-none-any.whl": [
           "3ba7f6ed24928d02ece0932d9469f88047447020e3b9c97ded79d89e15a02ed8",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "6b92a3cb396fbf777d2891d385da6238e9c7c4b7a1cf02c7966d2206123be398",
+        "datasette-init-0.2.tar.gz"
+      ],
+      "wheels": {
+        "datasette_init-0.2-py3-none-any.whl": [
+          "230b5570f247d5483a93cacf1f220a7b45d336a564dc6e6e60afc3a5957040b7",
           "py3"
         ]
       }
@@ -16022,6 +16040,22 @@
       "wheels": {
         "flywheel_sdk-12.1.3a0-py2.py3-none-any.whl": [
           "d662c127eb3565e2bd8b67a18483f2c60e79b5a60827d3b5ca24e5dbf91747c5",
+          "py2.py3"
+        ]
+      }
+    },
+    "12.1.4rc0": {
+      "wheels": {
+        "flywheel_sdk-12.1.4rc0-py2.py3-none-any.whl": [
+          "6643378b6906db4cc7ff6b941ef645131586d3011c76baf659e4513b48f0b11d",
+          "py2.py3"
+        ]
+      }
+    },
+    "12.1.4rc1": {
+      "wheels": {
+        "flywheel_sdk-12.1.4rc1-py2.py3-none-any.whl": [
+          "900f0bd45b0eff89a64b5a65eec611ef064b4f1ce61a8d68c4c9068398b2f9d8",
           "py2.py3"
         ]
       }
@@ -31090,6 +31124,18 @@
         ]
       }
     },
+    "1.14.15.0": {
+      "sdist": [
+        "b05904e36101411173842074fb941e31188da4d4849afeef72032e937bac1471",
+        "mypy-boto3-apigatewayv2-1.14.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_apigatewayv2-1.14.15.0-py3-none-any.whl": [
+          "568c265b4d4c6a5b8c6eb925c178ffe65c6fefbff0b76faa4c3918236e54446e",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "a404d2dd57258abfd548d294a8cbafdb91a8857cab03d5e54aeacb8bbcf30c50",
@@ -32476,6 +32522,18 @@
       "wheels": {
         "mypy_boto3_fsx-1.14.14.0-py3-none-any.whl": [
           "953881278383dbf02e73ba18365af1dc009c2258aa1983a9a803a847469ced54",
+          "py3"
+        ]
+      }
+    },
+    "1.14.15.0": {
+      "sdist": [
+        "245c8fd4ea0ddd0c22134775b3e2226d60e8df6920508f50aa4cda974032810e",
+        "mypy-boto3-fsx-1.14.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fsx-1.14.15.0-py3-none-any.whl": [
+          "0ae007d9eb982b101131e1fe3fef293f05d9421cd2f09a74bf6176bb04868201",
           "py3"
         ]
       }
@@ -46803,6 +46861,18 @@
           "py3"
         ]
       }
+    },
+    "5.9.4": {
+      "sdist": [
+        "6d114b04f94fd747cc2b3a0e05502349a8ab79c7c79437a9777adb4166bbaf45",
+        "royalpack-5.9.4.tar.gz"
+      ],
+      "wheels": {
+        "royalpack-5.9.4-py3-none-any.whl": [
+          "abcffe1b5ae2a5d42bf181d16eb0c50bc8ae05e800b072631efe2166c31fd455",
+          "py3"
+        ]
+      }
     }
   },
   "rpimax7219": {
@@ -52672,6 +52742,50 @@
         ],
         "spacy-3.0.0.dev8-cp38-cp38-win_amd64.whl": [
           "47849bd735c539e7d0a94eed311755953b917ad6186ec1f6516e584d2cc39474",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.0a0": {
+      "sdist": [
+        "7ab3fd29e4d0d50a576a7f5ee27133e310a69710074a35c2b4f5b816fe6c5939",
+        "spacy-3.0.0a0.tar.gz"
+      ],
+      "wheels": {
+        "spacy-3.0.0a0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "8691241445bc0975e921497b167936a4c8140452420fde58155d954ab40f46aa",
+          "cp36"
+        ],
+        "spacy-3.0.0a0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a97cb95e08a2a60e47198c43e95512ac77b90126a4633ab8576131e8496d02b1",
+          "cp36"
+        ],
+        "spacy-3.0.0a0-cp36-cp36m-win_amd64.whl": [
+          "a9141616a4eb111058a912b0fae8e2d188572228f72c768e0c341970eda0d35f",
+          "cp36"
+        ],
+        "spacy-3.0.0a0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "594b4563a3096ca05e03311591085d79be057676c81b639819355698dab102c3",
+          "cp37"
+        ],
+        "spacy-3.0.0a0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2b11878932b7dd7f7b2a8c10c7f60c58539cabc17764d9c4af31dfe5efd25f07",
+          "cp37"
+        ],
+        "spacy-3.0.0a0-cp37-cp37m-win_amd64.whl": [
+          "d14082352372bc1a57ef3f9d141a51c3fadac3eebe4e4cb3c20b07d225c0d58c",
+          "cp37"
+        ],
+        "spacy-3.0.0a0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "89cd42e282cd0bc6ee701b51ea596e4081e7b894427dae35c8513fce2f3c3f1f",
+          "cp38"
+        ],
+        "spacy-3.0.0a0-cp38-cp38-manylinux1_x86_64.whl": [
+          "5a801d11f0c28d899c444b103bf8e301f9a4bd97758af152e438c4dea2ed7dc9",
+          "cp38"
+        ],
+        "spacy-3.0.0a0-cp38-cp38-win_amd64.whl": [
+          "960cb80923f63abf2d4dc6dfce4323deb493c1ee0bf51ef6d98c95762495dcdc",
           "cp38"
         ]
       }

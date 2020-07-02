@@ -2686,15 +2686,9 @@
   "black-with-tabs": {
     "19.10b0": {
       "sdist": [
-        "12ccd63ee87cc958f7b024a8b2a750d2bd038487c7588054f3d3df9d39242b2d",
-        "black-with-tabs-19.10b1.tar.gz"
-      ],
-      "wheels": {
-        "black_with_tabs-19.10b1-py36-none-any.whl": [
-          "5e9232f4ebb145967f98f10ce39f8dac5cb673f62897b4d74cc14d13a81412a1",
-          "py36"
-        ]
-      }
+        "1fc8344fcb904bdefea6ead3f7be18035aca00f3a5e34dc7e49feb7ac316fc9f",
+        "black-with-tabs-19.10b2.tar.gz"
+      ]
     }
   },
   "bnpreprocessing": {
@@ -7846,6 +7840,14 @@
       "wheels": {
         "cirq_unstable-0.9.0.dev20200625203957-py3-none-any.whl": [
           "a084e56ab2dba71aee1cd381e6897567712a8672f767dd042eea37f4a8a6f395",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0.dev20200701220242": {
+      "wheels": {
+        "cirq_unstable-0.9.0.dev20200701220242-py3-none-any.whl": [
+          "b20967f31332e60fd728edcd778a1fdf8cfdacea21d6cebc81b22349cd6f224c",
           "py3"
         ]
       }
@@ -17300,6 +17302,18 @@
       "wheels": {
         "django_pwa-1.0.1-py3-none-any.whl": [
           "db653b7eb23369e2e415969283de6245a94c2702f1cfaec8caaff1d1106a6f92",
+          "py3"
+        ]
+      }
+    },
+    "1.0.10": {
+      "sdist": [
+        "07ed9dd57108838e3fe44b551a82032ca4ed76e31cb3c3e8d51604e0fe7e81e9",
+        "django-pwa-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "django_pwa-1.0.10-py3-none-any.whl": [
+          "b1a2057b1e72c40c3a14beb90b958482da185f1d40a141fcae3d76580984b930",
           "py3"
         ]
       }
@@ -36352,6 +36366,18 @@
         ]
       }
     },
+    "0.2.17": {
+      "sdist": [
+        "3fcbf547a1e1e31534b36893e8ff7a23308d0e12e884b7665cb8d626af064216",
+        "lbt-grasshopper-0.2.17.tar.gz"
+      ],
+      "wheels": {
+        "lbt_grasshopper-0.2.17-py2.py3-none-any.whl": [
+          "dd54c8952c4013472625b835e84c84b2c8e910e68b5b5d8805aa8b401833d3ee",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "eea604f90bcf1b3497a4295785bbcf47698cc489ecf522bf0f1c777e81426353",
@@ -37102,6 +37128,18 @@
       "wheels": {
         "linformer_pytorch-0.12.0-py3-none-any.whl": [
           "26543835e458eab75ffebe23d9b3ed28a8a5bd8f3fe45b24a2d7527330427e68",
+          "py3"
+        ]
+      }
+    },
+    "0.12.1": {
+      "sdist": [
+        "9ae9510b77fa2340ce08921d30c97094ca3fdb5acb58378ca5119b6139e17e5d",
+        "linformer_pytorch-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "linformer_pytorch-0.12.1-py3-none-any.whl": [
+          "dd1efaffbe585ec1638dce20606bc606f4c384456c5cae21e8b0dde6a83b23e7",
           "py3"
         ]
       }
@@ -43056,6 +43094,18 @@
         ]
       }
     },
+    "1.14.15.0": {
+      "sdist": [
+        "fd6e10e6a1df267b1b324272a191662a9f4e61beb021c7eabd48d6b88fa3aedf",
+        "mypy-boto3-resource-groups-1.14.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_resource_groups-1.14.15.0-py3-none-any.whl": [
+          "9698046c80b9f2cbd4f2797c683e5c931de8d29e02b7437e40065e4e663bc21a",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "5d8bf0a4cd6e275a3bbac9f809b936f0ab91dde8c90e06bcfc33b47d844bafff",
@@ -44500,6 +44550,18 @@
       "wheels": {
         "nr.databind.core-0.0.20-py2.py3-none-any.whl": [
           "d442148068b742b9d325656c84f55bf50f778d02a478e42761cf91d8548778c1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.20.post1": {
+      "sdist": [
+        "47323a0a0b6d547708e3c2bd472debdf44f5f9b0d52fd77066c9f30cd626c3d7",
+        "nr.databind.core-0.0.20.post1.tar.gz"
+      ],
+      "wheels": {
+        "nr.databind.core-0.0.20.post1-py2.py3-none-any.whl": [
+          "0c477d3336575d56ee179ce7eb05773c62fae51511d93b145afac569e5048644",
           "py2.py3"
         ]
       }
@@ -62463,6 +62525,26 @@
       }
     }
   },
+  "pytorch-fast-transformers": {
+    "0.1.1": {
+      "sdist": [
+        "c2823a900eb5275f7ec2f35681dccd7a6adf853206dbcb70973ada4cee098296",
+        "pytorch-fast-transformers-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "15b9a48d204e54e1eb413126c19556c766df9a1bf64dd0c3a1f09c30ffdd564e",
+        "pytorch-fast-transformers-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "cf89b628bb4defc016a8fbc109b94d87a877f449a9d1ae2bb6b3a0fd1fb08c4c",
+        "pytorch-fast-transformers-0.1.3.tar.gz"
+      ]
+    }
+  },
   "pyupdater-azure-blob-plugin": {
     "0.1.0": {
       "sdist": [
@@ -65676,6 +65758,18 @@
       "wheels": {
         "sett-1.1.0-py3-none-any.whl": [
           "333c6ec204773e0af7b6db0194e1d74a2337e483fbb5bbf09b26da397ceb100e",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "a53fbbf78144da7b3697ff9c4fc4e579df2867e038b8a3bf3c433e943d6e5e21",
+        "sett-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "sett-1.1.1-py3-none-any.whl": [
+          "b413a7e416fb6cc35b50292cf0016b8f1d7ce6766a29ba0cf69de594408cb82f",
           "py3"
         ]
       }
@@ -69364,6 +69458,12 @@
       "sdist": [
         "bc222ff063a2761a7f916703b56e937288f53afea2dc6ea62b745a45f453c001",
         "tap-autopilot-0.2.0.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "81a5f0663fe0e7463e51143fd08ba58a47b79af853abf74d83b132d0ddcdc359",
+        "tap-autopilot-0.3.0.tar.gz"
       ]
     }
   },
