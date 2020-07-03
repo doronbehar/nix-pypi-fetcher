@@ -4013,6 +4013,30 @@
           "py3"
         ]
       }
+    },
+    "1.49.0": {
+      "sdist": [
+        "4497f7f64d7925dbadd6fcba46d61bb95b0074f0e34eda82cc10d62b13c54663",
+        "aws-cdk.aws-apigatewayv2-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2-1.49.0-py3-none-any.whl": [
+          "ed393505b13f5bf58c33fdd9d89d9ec0f016824751cf677dd3ef4b6499ca0b5c",
+          "py3"
+        ]
+      }
+    },
+    "1.49.1": {
+      "sdist": [
+        "fc75e8c97daa7950b7082762e5db5b14b2261bcfac5a1ecf7cf3ae9d05c0bdda",
+        "aws-cdk.aws-apigatewayv2-1.49.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2-1.49.1-py3-none-any.whl": [
+          "fbe7290c1cc7d6f1084622b2a33987e08c18d312e0387bb7175e0a6a8cbdc84e",
+          "py3"
+        ]
+      }
     }
   },
   "azcat": {
@@ -12737,6 +12761,20 @@
       ]
     }
   },
+  "dimensigon": {
+    "0.1b11": {
+      "sdist": [
+        "5555f906a067a1199d57f6ff1c4deee5fa5ed5fe3d0e171ed7dbc4dc90823c23",
+        "dimensigon-0.1b11.tar.gz"
+      ],
+      "wheels": {
+        "dimensigon-0.1b11-py3-none-any.whl": [
+          "3cc42fe5cf20bb1fd36a1af2bfbea5a1d30ea92f05b43dcdd6e03820f0fc69ee",
+          "py3"
+        ]
+      }
+    }
+  },
   "dimstore": {
     "0.0.11": {
       "sdist": [
@@ -20506,6 +20544,18 @@
       "wheels": {
         "gcloud_aio_auth-3.2.2-py2.py3-none-any.whl": [
           "0cf37c522e97cbd36c23171953b78a54efcf396b0f8a05e564e7834acd144d00",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.0": {
+      "sdist": [
+        "6f0cb2f8a6703d3088ce264d23a80854d340fe7e3853155a7dcb3defad0af68d",
+        "gcloud-aio-auth-3.3.0.tar.gz"
+      ],
+      "wheels": {
+        "gcloud_aio_auth-3.3.0-py2.py3-none-any.whl": [
+          "86e2acef9726a1178bb243ccbccecd01415a3c3ad8f31a41ca238334c74a1f72",
           "py2.py3"
         ]
       }
@@ -34918,6 +34968,18 @@
         ]
       }
     },
+    "1.14.16.0": {
+      "sdist": [
+        "8fafda6e2ec71b927acb1a0f5529b19949c871d97b74fc7f350ee05df2a3343f",
+        "mypy-boto3-sagemaker-a2i-runtime-1.14.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_a2i_runtime-1.14.16.0-py3-none-any.whl": [
+          "1cf6f74587220d94c2a2dc92fb39d4cee151823884d93f98c16e37134974b44b",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "ff9f0e3315b679f391e54c3c7252a7d38d707da567805cf337dcbc4bb525671d",
@@ -44636,6 +44698,12 @@
         "pulumi_ns1-0.0.1a1592974237.tar.gz"
       ]
     },
+    "0.0.1a1593706664": {
+      "sdist": [
+        "bb810beddfda5a88ba4c4f3d67d78712ae596894e80e74a0e5c5cddf23fd3027",
+        "pulumi_ns1-0.0.1a1593706664.tar.gz"
+      ]
+    },
     "1.0.0": {
       "sdist": [
         "5f9059a282c249cf94f2e343ebabc74b2b4e70a1ec3e523c50b2a6d88706c911",
@@ -45784,6 +45852,42 @@
       "wheels": {
         "pyfiniium-0.0.1-py2.py3-none-any.whl": [
           "2c007d975ecad7814488acd80b7b73ef99d3a25248a3b7605612482689a39145",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "103eb78c60b4ffe6f6dc5d886445f2cdc3b395a60bbdb3d683c2649effd2a5b0",
+        "pyfiniium-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyfiniium-0.0.2-py2.py3-none-any.whl": [
+          "8d3633a3ba0f909dc416d7fe8d012f5c518075a92717b20bd59d10e58fe231c8",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "0bed8685621194af46e9b4564741f103df6176047567069fd0ce5a7dbab9b821",
+        "pyfiniium-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyfiniium-0.0.3-py2.py3-none-any.whl": [
+          "2e3039f75ec89b046300d6191854f4530da75e0ad2006202f652470488208101",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "3ca3e7173373e489cd62f90c03ade47f0aa296254164a299f81151261b567d2b",
+        "pyfiniium-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "pyfiniium-0.0.4-py2.py3-none-any.whl": [
+          "f6e9eb976b1915daa7eb002b0139a7753634de8450be69504efcb8193046a89d",
           "py2.py3"
         ]
       }

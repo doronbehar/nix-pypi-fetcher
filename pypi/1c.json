@@ -9769,6 +9769,30 @@
           "py3"
         ]
       }
+    },
+    "1.49.0": {
+      "sdist": [
+        "5f71be99e168ca79a34272952c4d5c5da75ba1ee884fbf50b3fcf884e98789fc",
+        "aws-cdk.aws-networkmanager-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_networkmanager-1.49.0-py3-none-any.whl": [
+          "b5b07beec3b6548830e829f98031e386f363d8401ff35473f3e437cfc0cb5ec9",
+          "py3"
+        ]
+      }
+    },
+    "1.49.1": {
+      "sdist": [
+        "aed9ab3ddfc4e5ab92291b51a69eab67eacde3d1d3a35e567b86dc5b0f1d0280",
+        "aws-cdk.aws-networkmanager-1.49.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_networkmanager-1.49.1-py3-none-any.whl": [
+          "881fc12ec1b6eb7e2f1d3c1e39e9af6ddd4d65d9867a16615bb8d3c29d6c3e0e",
+          "py3"
+        ]
+      }
     }
   },
   "awshelper": {
@@ -17700,6 +17724,30 @@
       "wheels": {
         "deemix-1.1.2-py3-none-any.whl": [
           "e6b518f7904a4eed1c5144012eecee79420c0b2812d33165300c63456fb8032d",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "160e348b20d73c1d3831da768445c24013276b31486ffff9936f5d7a160d19c9",
+        "deemix-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "deemix-1.1.3-py3-none-any.whl": [
+          "6878cf1c3c35790a7400cad7c5b58b1e33517cc38097e415a06aea41fc2531c1",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "43f84f996899f6646dee27d51a4fe2b4051e7e202813ddb947ab4d7b6cb8f8d7",
+        "deemix-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "deemix-1.1.4-py3-none-any.whl": [
+          "7b7c77eea7de0f5988a4d4df4630a003cda86871479e70f0d777b344f053be87",
           "py3"
         ]
       }
@@ -27564,6 +27612,18 @@
       "wheels": {
         "hip_data_tools-1.47.3-py3-none-any.whl": [
           "5ebbecea08f0354d9963e9e6c5ae1276dc8732b27a367ef0e9d8b99de8e9e2f4",
+          "py3"
+        ]
+      }
+    },
+    "1.47.4": {
+      "sdist": [
+        "f12329ec0cd7c890c39b5044eadd9b28a034cd445d4e31cf7e28acfef23c6c76",
+        "hip_data_tools-1.47.4.tar.gz"
+      ],
+      "wheels": {
+        "hip_data_tools-1.47.4-py3-none-any.whl": [
+          "96636eae2d9ce1e04ccb4e639c12e11ef6e674885822ee1c54bf1bd595f6159e",
           "py3"
         ]
       }
@@ -58917,6 +58977,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "da1a2e215b1edf43b6f640f74e2a63cc0e983aea03c99e6a784e6d45bed3fe09",
+        "scimma-aws-utils-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "scimma_aws_utils-1.1.2-py3-none-any.whl": [
+          "eac838631948391ac3a1880544357dfd3cd3b7d1b6f9136d84c333eb67ed479c",
+          "py3"
+        ]
+      }
     }
   },
   "scrapeo": {
@@ -59838,77 +59910,11 @@
     }
   },
   "signaturizer": {
-    "1.0.0": {
+    "1.1.0": {
       "sdist": [
-        "425928a6b01a29800a19efe123c21a403856e9a55bf607540ef882f226d26cad",
-        "signaturizer-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.0-py2-none-any.whl": [
-          "36737daa327ec42b5841b6e8f05329d60f04ec5cb88af60fcd5bdf8f7d0efce0",
-          "py2"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "d1b6e6f391c7b16b9d3d33049594c568c6ddadb914bd1de5c40a87b40b3ee0b1",
-        "signaturizer-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.4-py2-none-any.whl": [
-          "e85b144f1f84fa4bb58522c481bc8f944ccea3db98a1add06a5f6b853d8d8700",
-          "py2"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "0ef212363ec58b02ed129a88b97d8c5f9d30e5131fc81c35c660c16feee4e730",
-        "signaturizer-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.5-py2-none-any.whl": [
-          "557a22aacb1ade541c454369ba68c0e657762c42491928bedcc4f5b1dd4fdc76",
-          "py2"
-        ]
-      }
-    },
-    "1.0.6": {
-      "sdist": [
-        "8c82b1f91594f2432da3b3bf57bed1dfcdf985a4f546813f869b285a73f2fd48",
-        "signaturizer-1.0.6.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.6-py2-none-any.whl": [
-          "50f7814ee25e528c4e76147cc42752b07d22f59ba3857a7a65e41de176887ebd",
-          "py2"
-        ]
-      }
-    },
-    "1.0.7": {
-      "sdist": [
-        "73a50f100647bd421f9e794c32d1e12d295cb0782f525b061949bb0c265d65f6",
-        "signaturizer-1.0.7.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.7-py2-none-any.whl": [
-          "47ade3d6d34545b68363ed71563293b318a7b3f26de6653806757f64dbbca2bf",
-          "py2"
-        ]
-      }
-    },
-    "1.0.8": {
-      "sdist": [
-        "7fc2440216a301175eaac2b12944c256c6b0dac4413d79f2fd26936578cbba35",
-        "signaturizer-1.0.8.tar.gz"
-      ],
-      "wheels": {
-        "signaturizer-1.0.8-py2-none-any.whl": [
-          "bd8a0afc350ad367940f150749e974d1321d80186d028a518d8fb8a6ffb4701a",
-          "py2"
-        ]
-      }
+        "21361a6a614b0af7cb0f1267972454ce03e09b0b2ffbeba9844c80722ca1600a",
+        "signaturizer-1.1.0.tar.gz"
+      ]
     }
   },
   "silva.core.layout": {

@@ -4212,6 +4212,30 @@
         ]
       }
     },
+    "1.49.0": {
+      "sdist": [
+        "16aae530d9e7adf1d434e020045c7c2ebc53dc7b747e462552ec33d72f0926dd",
+        "aws-cdk.aws-inspector-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_inspector-1.49.0-py3-none-any.whl": [
+          "7896d779543228d786cc57da95cdf1e647d0b7c78a3aa01e60371f7a296e43c4",
+          "py3"
+        ]
+      }
+    },
+    "1.49.1": {
+      "sdist": [
+        "7dc2eaae320b4c2160b1a7c244403bc3a5644d83fce34d6fc3b579ee6e93a2e6",
+        "aws-cdk.aws-inspector-1.49.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_inspector-1.49.1-py3-none-any.whl": [
+          "abfb04d1b3b67bd06444cae1a662ec1e6b5d91a1dbc793acf830f3949038a228",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "5e4fa2cb0d97573c4704d6814bd8e86ffd5450049c2072973e99a210cd09f977",
@@ -10802,6 +10826,18 @@
       "wheels": {
         "datadog-0.37.1-py2.py3-none-any.whl": [
           "99f754b1bf3fd12d5132cab910e99d4905229a4adc2488021764ad119a1af73b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.38.0": {
+      "sdist": [
+        "401cd1dcf2d5de05786016a1c790bff28d1428d12ae1dbe11485f9cb5502939b",
+        "datadog-0.38.0.tar.gz"
+      ],
+      "wheels": {
+        "datadog-0.38.0-py2.py3-none-any.whl": [
+          "b5ebf25e88cf6891ff26a4a82898ae5ff23d712ad5501e1043113bd0a1903c16",
           "py2.py3"
         ]
       }
@@ -32670,6 +32706,18 @@
         ]
       }
     },
+    "1.14.16.0": {
+      "sdist": [
+        "2f8e9d534cad9fe4497d7bc5b5f14c6635f67e5d7e4fa6b3d44eb0bd9b4d50e5",
+        "mypy-boto3-firehose-1.14.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_firehose-1.14.16.0-py3-none-any.whl": [
+          "e526b360a1224352087cc36ab71abde427f3cbd0078241c6a1dabf68b4f7ab54",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "f628ded3041cfa1f3ce29a23fdae60bcff499afa77346c8439d43a8f630ea5fc",
@@ -34072,6 +34120,18 @@
         ]
       }
     },
+    "1.14.16.0": {
+      "sdist": [
+        "dc2d351cbd6670d98e5624496b2c80c95f49ac5d50645d7bcd3c1b98fbf73a14",
+        "mypy-boto3-iot1click-projects-1.14.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot1click_projects-1.14.16.0-py3-none-any.whl": [
+          "32b2488f1d8e83b49779928956717672ef296d034dbe1f4e7e9f51ea86b95527",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "5b28e999f8886e0310a5a99ce241e349cf0b703e155406dbbf81bbd8b2afe79d",
@@ -35470,6 +35530,18 @@
       "wheels": {
         "mypy_boto3_support-1.14.15.0-py3-none-any.whl": [
           "a570fccb756bf8895187497148de08e75ea423520d6841a7b30a6a848d2ff125",
+          "py3"
+        ]
+      }
+    },
+    "1.14.16.0": {
+      "sdist": [
+        "000a238818774a427b16e53804e8227d047c0a6967c2dc71428bacfab5f6011c",
+        "mypy-boto3-support-1.14.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_support-1.14.16.0-py3-none-any.whl": [
+          "3a6bfe282012fc34b5ab70613fef7283c92024d33943927eba3b51f66771218d",
           "py3"
         ]
       }
@@ -47776,6 +47848,22 @@
     }
   },
   "pulsetracker": {
+    "0.2": {
+      "wheels": {
+        "pulsetracker-0.2-py3-none-any.whl": [
+          "21e5194f1fee39ff3d5b112f81d3ec6777440d69f65706ba45e5b083115dd949",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "wheels": {
+        "pulsetracker-0.3-py2-none-any.whl": [
+          "25703c05409b9f35b09f952f101a251744a60abddf8d90aef448babafcb9359e",
+          "py2"
+        ]
+      }
+    },
     "0.5": {
       "sdist": [
         "b5356238a1bef92c5df948a5a1ac22dfca6bcec744d7c42b2c25f19c77c86dac",
@@ -59124,6 +59212,20 @@
       "wheels": {
         "spacy_plug-0.0-py3-none-any.whl": [
           "cd8ab9a638902767187b671d1a3fc2b1a682db5756240a7de8174f372f7e1093",
+          "py3"
+        ]
+      }
+    }
+  },
+  "spdx-py-build-tool-ek7": {
+    "0.2": {
+      "sdist": [
+        "341a1ec3ab67f2ab5aef6a76df571cad3709cec0c2ca1f9a6e1a524fa7317991",
+        "spdx_py_build_tool_ek7-0.2.tar.gz"
+      ],
+      "wheels": {
+        "spdx_py_build_tool_ek7-0.2-py3-none-any.whl": [
+          "0392a86c93505fdf601254a7b23370af6a94aa8bb690c40d94c01cd7fafefcab",
           "py3"
         ]
       }
