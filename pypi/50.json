@@ -139,6 +139,22 @@
           "py2"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "418d45d42cb8e2b92a007ed87abc12e0345a781849c89f9b6a07a5db65395094",
+        "adg-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "adg-2.0.0-py2-none-any.whl": [
+          "41b9ba4e489099bc85714eba74c4e3e308f3720178183c0370ea2e6ec6b0719f",
+          "py2"
+        ],
+        "adg-2.0.0-py3-none-any.whl": [
+          "e112a7e8391336098bcc1b3a1a86021892e7139024706e1489a53861fe8a3f18",
+          "py3"
+        ]
+      }
     }
   },
   "af": {
@@ -11773,6 +11789,14 @@
       }
     }
   },
+  "dist-prop-ability2": {
+    "1.0": {
+      "sdist": [
+        "e49db53ff34a9d55c54d236b34f92b66ed12a9bbe0c39cd6f003382445218c6f",
+        "dist_prop_ability2-1.0.tar.gz"
+      ]
+    }
+  },
   "distributions-hunterk": {
     "0.1": {
       "sdist": [
@@ -14634,6 +14658,18 @@
       "wheels": {
         "djingles-0.1.7-py2-none-any.whl": [
           "724120dc69d668d31d90c243467058472df426e7901d8f413a43e099e09b7cac",
+          "py2"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "ead84d9bee47a43f99095a2d7c30dc05ebd53bd162ff12f8b935d8d8f4eb20d0",
+        "djingles-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "djingles-0.1.8-py2-none-any.whl": [
+          "72b49cab0e628993220eda9ed36cd0f36364d9bb35011b09ddf647abcaf1019b",
           "py2"
         ]
       }
@@ -19080,6 +19116,18 @@
       "wheels": {
         "flask_api_tools-1.0.8-py3-none-any.whl": [
           "b2fd2a8366d261fe2a449eca916840dd5405d5a5adc530230717f9aabb80c461",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "835be0f839e898b084e5201c676671cd22b497cceda107ba69b881c557799978",
+        "flask-api-tools-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "flask_api_tools-1.0.9-py3-none-any.whl": [
+          "0e21e3999782a48f0568378c0e6d54445f4a1a614474f8de7dd27fe42de8962b",
           "py3"
         ]
       }
@@ -42894,6 +42942,18 @@
       "wheels": {
         "podsearch-0.2.0-py3-none-any.whl": [
           "c025c0fadc36bba9a20af039647ccac4153ec5b4304e640fc252aeb093d66bae",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "fa7125f16db6965690e165d86b46b764171d543a9b8939541186dbfedd1fe5ec",
+        "podsearch-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "podsearch-0.3.0-py3-none-any.whl": [
+          "e8bca90f5103817df2145311b5911a1160f6f1ba9ecf4f4302209fd03c0e6c9e",
           "py3"
         ]
       }
@@ -71668,6 +71728,58 @@
         ],
         "tensorflow_io_nightly-0.13.0.dev20200701191741-cp38-cp38-win_amd64.whl": [
           "f2968a29efaad32a8809e4f63703fe14b86b0e2b92e33ffde30aa4a683e14529",
+          "cp38"
+        ]
+      }
+    },
+    "0.13.0.dev20200703183713": {
+      "wheels": {
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "e817e25bf692d83d86cfa9f39f1a9fc7f77c976ab03df7b8446ed9f627c37849",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "e7025e84b1c03884cb4caff0ffdc354032088dbee0e00a66c0d28b7b595e0d7a",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp35-cp35m-win_amd64.whl": [
+          "18201fa204969ec7316856f569d6afd5e13b8ca8aa034daeb05d843de4a5f279",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "397a72c515de52b1db12143b0dbf130caa07634ab99fefadc56abccb91a3bc28",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "09af014ce2e91e847c1f044438eee600337bc4d793a0bfb991be899870690759",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp36-cp36m-win_amd64.whl": [
+          "b4b33c241097cc341fddafdda6a736844c1f5fc10a78440be62abcb9500801d2",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "5c839c494369403eff87852a90f4c752f1c41f783dea3d9ed3dffa7b97f0e09e",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3cd40f8dcec158fd50e682e8f39e24c99b3ebf3fe3f93b8fbc5509f7b17590ac",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp37-cp37m-win_amd64.whl": [
+          "546e47991d8071384235592740a7a1847001129dd438adb572d4973c86107b35",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "ca640fb80e64fc26997a654ef3c78c2a17b7d38601a113e48f3523a80f0f72a9",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e986e4b6b55cb15e69c2804a35877c535aba6351a78d24e33dc426ec2ce18801",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.13.0.dev20200703183713-cp38-cp38-win_amd64.whl": [
+          "6c494ee22aea52b5aef5756dc37afd4667341c283523c5d7feb97c458405aabc",
           "cp38"
         ]
       }
