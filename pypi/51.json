@@ -4745,6 +4745,12 @@
         "a16b4ad59ac935da53a50aa974150f31415eb3ed2b0448ea1e6702a4c726f6f8",
         "asyncua-0.8.3.tar.gz"
       ]
+    },
+    "0.8.4": {
+      "sdist": [
+        "17064d4005b49430fbe943014e94c2678f25fa7b7c38c850a8161c4da2edc618",
+        "asyncua-0.8.4.tar.gz"
+      ]
     }
   },
   "autolink-py": {
@@ -12755,6 +12761,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "5caaa5d14b3ae5c6fff354a02113bcfca883882096f2444ef8d34a0eb2b70c48",
+        "d3graph-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "d3graph-0.1.6-py3-none-any.whl": [
+          "832c9041113ed78b46e95ddb620fb7cb0b7addd41f3611bfdb37334ec8215ff2",
+          "py3"
+        ]
+      }
     }
   },
   "dag": {
@@ -17099,6 +17117,26 @@
           "cp38"
         ]
       }
+    },
+    "0.5a200704": {
+      "wheels": {
+        "dgl_cu101-0.5a200704-cp35-cp35m-manylinux1_x86_64.whl": [
+          "90752cb418150eeea39883f8ab9e5bf2b3d6f9bc8b17f91bf3f2a541805f3684",
+          "cp35"
+        ],
+        "dgl_cu101-0.5a200704-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ef6bebf8df305b10e94fbb189f42c7cec485298363643fe76007be7a9531a982",
+          "cp36"
+        ],
+        "dgl_cu101-0.5a200704-cp37-cp37m-manylinux1_x86_64.whl": [
+          "24f8046a3f8d14f417e0d251ee05cf1227a00fac57d72ad3589a207c82b31697",
+          "cp37"
+        ],
+        "dgl_cu101-0.5a200704-cp38-cp38-manylinux1_x86_64.whl": [
+          "3f77964e95b31fe55ad101f1912e9346e6194a801fe8f8875e33d2ba9eed5609",
+          "cp38"
+        ]
+      }
     }
   },
   "dhm-module-example": {
@@ -17882,6 +17920,12 @@
       "sdist": [
         "d3e29b52b07020ce612494eb1f76cbd6b30f042964ffab5c53d772a4e9ea6715",
         "django-feedreader-2.2.6.tar.gz"
+      ]
+    },
+    "2.3.0": {
+      "sdist": [
+        "4865778b0f078daad13a9004cbf87dadb413b9619945fda869629a6b56fb4501",
+        "django-feedreader-2.3.0.tar.gz"
       ]
     }
   },
@@ -58631,6 +58675,60 @@
         "99066f3790fd38ff9f76ae2b83e36c29f423057ab3747178466511e7d9e0adb4",
         "pysparse-1.3-dev.tar.gz"
       ]
+    }
+  },
+  "pyspnego": {
+    "0.1.0b1": {
+      "sdist": [
+        "0dcd112c20115233e774224113cbbcc1fbc632f5f2283f292db41512f0fa93dc",
+        "pyspnego-0.1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "pyspnego-0.1.0b1-cp27-cp27m-win32.whl": [
+          "754812b0aa9ea2103ea8090293d03c12f748d3ffc159056d9129963eca04fddd",
+          "cp27"
+        ],
+        "pyspnego-0.1.0b1-cp27-cp27m-win_amd64.whl": [
+          "43d8a9207e26aea40125d2b4b2adc054c8a3e6b659876b96df283a98abc67a98",
+          "cp27"
+        ],
+        "pyspnego-0.1.0b1-cp35-cp35m-win32.whl": [
+          "590a1837536eb32582d1cb9a66d758f01fa12b1fe8eae241f5e384e8070eeb33",
+          "cp35"
+        ],
+        "pyspnego-0.1.0b1-cp35-cp35m-win_amd64.whl": [
+          "f5717585082332e9d852ab7d58e0f930d2b2310bd2a2b179dad05c146220ac97",
+          "cp35"
+        ],
+        "pyspnego-0.1.0b1-cp36-cp36m-win32.whl": [
+          "5ae07acba87eb95c0034238806e3d0e91abcaf0764196749e838b7aa2e8cb7f7",
+          "cp36"
+        ],
+        "pyspnego-0.1.0b1-cp36-cp36m-win_amd64.whl": [
+          "bc493d3e40531943b3108a80d2437de21e83f50116f493b3763904f97fffe6a9",
+          "cp36"
+        ],
+        "pyspnego-0.1.0b1-cp37-cp37m-win32.whl": [
+          "691a1c2ede489ad49d1cae6cf733a05278f16045fa037fcf92e3dfe7071b44cc",
+          "cp37"
+        ],
+        "pyspnego-0.1.0b1-cp37-cp37m-win_amd64.whl": [
+          "07a452ef70d3d8fc48f0485593db26fb39dd6cc804f3b68107061ad844f81df5",
+          "cp37"
+        ],
+        "pyspnego-0.1.0b1-cp38-cp38-win32.whl": [
+          "8db41b6caa57955f776243556b256917733bef326f4da3c86862817303352b9e",
+          "cp38"
+        ],
+        "pyspnego-0.1.0b1-cp38-cp38-win_amd64.whl": [
+          "d7287edb996f2123a17e915ca50ee51104f228936a0b0be492f1aae7a7874f5f",
+          "cp38"
+        ],
+        "pyspnego-0.1.0b1-py2.py3-none-any.whl": [
+          "4db931b3460160c8461b7da6c826fa707c117e46bffbd294f999cc2fb98b26bb",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pysra": {
