@@ -10866,6 +10866,30 @@
         ]
       }
     },
+    "0.27.18": {
+      "sdist": [
+        "db86c7624bc9174aee5995dc59c3b034200cfa8a25b3545aef8070bd389a1355",
+        "dbnd-airflow-0.27.18.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.27.18-py2.py3-none-any.whl": [
+          "fa588eef396239a0ea167f76cc9bfdcece16077bfba52f3a69eefd702619d868",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.27.19": {
+      "sdist": [
+        "2604d933e0bed8d31b005f3adfb5b2149cf03fc69baaa84a94fc801f4b23be13",
+        "dbnd-airflow-0.27.19.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.27.19-py2.py3-none-any.whl": [
+          "a5ee3e3db319331f12bdaa8202843026cf3eae0e5ebbd6f03ed5982b49db25a2",
+          "py2.py3"
+        ]
+      }
+    },
     "0.27.2": {
       "sdist": [
         "9270ed04e7db509078185e8db85bf80e1e97415c486f73f6e5fb14ed95bd7eca",
@@ -33639,6 +33663,18 @@
         "91e4026df1aaa7f19c8905d6b8b641fc440d3308a57f5ea310defe59dda0d9ef",
         "MissingValuesHandler-1.0.6.tar.gz"
       ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "d263b38caa63a7c4d5fc5f4de190896c97f4f0e495cf244e7ed51ddbac5c1fe0",
+        "MissingValuesHandler-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "a64ccc7a0a6a6cb3167dc9e87cc18049852ee287afbdc719f166715c0f87765b",
+        "MissingValuesHandler-1.0.8.tar.gz"
+      ]
     }
   },
   "mkinx": {
@@ -55275,6 +55311,18 @@
         "df9213f9f9e0a894ca8eac1df2cada7f70e7a55deab5c556c6ef4a8816a8b104",
         "pylrc-0.1.0.tar.gz"
       ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "6eb742b732a14987d82f1770c3d276659c8fadab0a23daa93a0540ea49fd73fd",
+        "pylrc-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "b9d6a07b7d211f71299b3faea5a1ca64c2fc45e3d704227c07ccdb0cc09386d1",
+        "pylrc-0.1.2.tar.gz"
+      ]
     }
   },
   "pymbt": {
@@ -71496,12 +71544,20 @@
           "9672f9d2ee0bf948071a9fa17145eb020ffa2546e1ce8e1fdac2e0f85e0e0189",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200705-cp35-cp35m-win_amd64.whl": [
+          "e2f01252daee4c8e099aeaeaf65255d8231d726411ff751b5a3e5269f2a7a2fe",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200705-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "c24db6bcbedb594cd5dab7de5d598beddad1531f848880fbc4152168fb66348c",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200705-cp36-cp36m-manylinux2010_x86_64.whl": [
           "8ff9c5152e67bdd43c5828a57d5266b551602e58cfa421e0df869ce706312a37",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200705-cp36-cp36m-win_amd64.whl": [
+          "d7da599661c04b47334992e7c2bb8e30d79c5c8210709a87beeff6c945cfff22",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200705-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -71512,8 +71568,16 @@
           "837699dfaddc78d714d4d9e02bdbfccc5f5b915adc1d5498cf4691e80ac02e4a",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200705-cp37-cp37m-win_amd64.whl": [
+          "f6c6f6d59cc08c04b872bfd190e9b291dcb0943de8588e059b718878373eb5ae",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200705-cp38-cp38-manylinux2010_x86_64.whl": [
           "64db17e8f98ba0d9097db03b8934a4836e3fbc85ce100a29d576ac427a418bd0",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200705-cp38-cp38-win_amd64.whl": [
+          "aa64c51c621ba2f5965153e9938b8dc7abc02deda7c0280144dcd565c6f9eaeb",
           "cp38"
         ]
       }
@@ -75916,6 +75980,18 @@
       "wheels": {
         "wfaccountmanager-0.0.3-py3-none-any.whl": [
           "6e99675325c771e7cef5658707108228c01bed9c5efd16ccc246b2055e6ab96f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "095615cddb98ef5cc31b2a0f07820c73df90ec152e011f4c1ce0c2526a6382b2",
+        "wfaccountmanager-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "wfaccountmanager-0.0.4-py3-none-any.whl": [
+          "eac9d3f5f5c3de058cb1843b5c6eb61a54251bf7c071c03e64e801ba57436f05",
           "py3"
         ]
       }

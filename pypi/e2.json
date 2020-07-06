@@ -11023,6 +11023,12 @@
         "52662c7c18b743a3ce9cb32956f77e170fe95fccd96fe5f4a6902e5a2192752a",
         "cocktail_shaker-1.1.5.tar.gz"
       ]
+    },
+    "1.1.6": {
+      "sdist": [
+        "f84809082882e9a0c5acdd9d3472fa892fe7e6ad43c189e6968445e5f18c25c7",
+        "cocktail_shaker-1.1.6.tar.gz"
+      ]
     }
   },
   "codeomatic": {
@@ -13462,6 +13468,30 @@
       "wheels": {
         "dbnd_hdfs-0.27.17-py2.py3-none-any.whl": [
           "11afce45625d70f51939afbe37904d14ffda9a001abe62ab4a88d53072f29afb",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.27.18": {
+      "sdist": [
+        "b4b1601361ab6dab613d006c794739cca49c2b41b37771bd0a38bd370e03edc4",
+        "dbnd-hdfs-0.27.18.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_hdfs-0.27.18-py2.py3-none-any.whl": [
+          "273b56c5d75d1d475add989c26f3dfac79e8ebc772bbb2781c59dba197e19b23",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.27.19": {
+      "sdist": [
+        "2f403810f5b235278f352f44d4fe4dc73a3bb5454dcfb6e75807c4e225cca0e5",
+        "dbnd-hdfs-0.27.19.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_hdfs-0.27.19-py2.py3-none-any.whl": [
+          "425970854c8e7462f1e9f4d6092a1934ec9f18b108e5193a008ce819f8e36925",
           "py2.py3"
         ]
       }
@@ -22085,32 +22115,6 @@
         "gh_release-0.1.2-py2-none-any.whl": [
           "9e2cd4eca54f664a6de9d6a492251ae5aed4ca34e43193cb0eb7cb81df3fcd69",
           "2.7"
-        ]
-      }
-    }
-  },
-  "ghpusher": {
-    "0.1.0": {
-      "sdist": [
-        "e28c4702623ba113ced017f2fea55295d6113099b6a7636e6ef242920cf45a0e",
-        "ghpusher-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "ghpusher-0.1.0-py3-none-any.whl": [
-          "9daa030bd0bee22313dd46c6fb5a6320311ac48bb3f3ea34fa45e31bad5aa2c2",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "40c3450330dfeeb83bbe6fbecfc5a0ee14f92b17ea661ba40656bc4123b0000c",
-        "ghpusher-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "ghpusher-0.1.1-py3-none-any.whl": [
-          "724cd9572b80fd1f02a6d25ea036a2fd94a20ce84b746f49655cafc7cb8d8211",
-          "py3"
         ]
       }
     }
@@ -40177,6 +40181,86 @@
         "opencv_contrib_python_headless-3.4.1.15-cp36-cp36m-win_amd64.whl": [
           "74c61a29524ed2790f97776ef2637fdc82b33f947b063f83e456e9156aa73654",
           "cp36"
+        ]
+      }
+    },
+    "3.4.10.35": {
+      "wheels": {
+        "opencv_contrib_python_headless-3.4.10.35-cp35-cp35m-manylinux2014_i686.whl": [
+          "b52d97e66714825ed2fdc241d047a9b0b2a38104b04b2c5c94c7e1d63d11668a",
+          "cp35"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "a7059b72bfbeef6512eca6e04fd20df35319660ff77877f8a4687b6264c44687",
+          "cp35"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp35-cp35m-win32.whl": [
+          "84c78f7e211f83934cae443eed8628f24d84324a8c3522cb804cf51cd37c8ef0",
+          "cp35"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp35-cp35m-win_amd64.whl": [
+          "c256ada96c76e09249006c80611aaad5b332d7f613bcf6eb66b1570cbfc2e777",
+          "cp35"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "1f5fb8bb3eb4cced1b8e310ed5ef0c7649ef34f8f6a9b9b0da14d2c53c0cae59",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp36-cp36m-manylinux2014_i686.whl": [
+          "ba43470344d6c57415f232c898e9a0f739eb1270811ba8c62fd2b3bbfb4de5a3",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "b14557a7d722ce1605795615daeced9de4e68b0434c4a349f45ad06da67c3488",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp36-cp36m-win32.whl": [
+          "82cf8f2f23f13a0485c420acc46f6e1fa6ed985291de22fa3a15c21c8795135b",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp36-cp36m-win_amd64.whl": [
+          "560b874eb830ac26ea0c0d5a3f31341cdb41a70d0a863b05f5a4d92981e80724",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2602e3600a0a96f43c1562e6bc4028db6eedf50d8e35e1fc013bc77ee4bb55e6",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp37-cp37m-manylinux2014_i686.whl": [
+          "3aa0724b5a61ee02f33291b1b1eba6ba77a4d40bb054ab62f83e145020a1ab8e",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "adb54efc9e6b176fb701155cae907cfef56bd79c95163438772261dcf6f43ae5",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp37-cp37m-win32.whl": [
+          "7edab0bb0e5b605bc7656e553d8d890b890f11fa44db788838e4ea3fa32d37aa",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp37-cp37m-win_amd64.whl": [
+          "3736b9784a1552c11d139592de71710c1674e0f64c9e31c60920dc5f897706e5",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1fc5a40ccfbe8a7fb2ce3104beb0692ba0be5cc66400e6673b7042ba5cc89092",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp38-cp38-manylinux2014_i686.whl": [
+          "26b2aad35d56c421c466d76d59e1e38ec56f46c049503d0b12290c8c91afb4ef",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp38-cp38-manylinux2014_x86_64.whl": [
+          "2d82bc19452eea07b9de3e3e85bceb95bd4d1cb49d777c314e0bb9b465c456a3",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp38-cp38-win32.whl": [
+          "9334d966ff71eaf16b920ba75c15340970f99868f3f84e6e5bd9bb0b617cf227",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-3.4.10.35-cp38-cp38-win_amd64.whl": [
+          "94224d4e1c9f7d9fbb0aa77d220598353a3c534146cc86df30d64a1d59946656",
+          "cp38"
         ]
       }
     },
@@ -68315,6 +68399,18 @@
           "py3"
         ]
       }
+    },
+    "1593994317": {
+      "sdist": [
+        "fcb5ab61a6c80278423bd1f32e1de2a9dd77351c1dbf61fda4e39a0c7d317b15",
+        "torchlayers-nightly-1593994317.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1593994317-py3-none-any.whl": [
+          "6c8c5372b67cd2ee0c173765611cb97b460a429159b5d0b13e667006af78c58a",
+          "py3"
+        ]
+      }
     }
   },
   "toxicbuild": {
@@ -72432,6 +72528,18 @@
       "wheels": {
         "zerology_algorithms-0.0.3-py3-none-any.whl": [
           "69eb7319ffc8a3eae97d6ed536b6f1707de65c47ae68454920ca2db80082ccdc",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "9c99a8194f5497eda2dd888b56cea5a5f3b9eb9c700a194497c74cc9691aae0b",
+        "zerology-algorithms-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "zerology_algorithms-0.0.4-py3-none-any.whl": [
+          "6e739ad5e1945b7902f44ccaff56a7f086fcf62af9524c06dcfdcfd39f51a468",
           "py3"
         ]
       }
