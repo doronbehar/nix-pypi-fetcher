@@ -8751,6 +8751,22 @@
           "py3"
         ]
       }
+    },
+    "1.3.5": {
+      "sdist": [
+        "1e4c24db0d1fd257b4ba919098c1e1d82de5ba0e85759d880423966e2a8fa84a",
+        "cmasher-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "cmasher-1.3.5-py2-none-any.whl": [
+          "41c56f6ec3181b6b1936ccd4e2e84b8616ef3751efca0987dca859e14460ad65",
+          "py2"
+        ],
+        "cmasher-1.3.5-py3-none-any.whl": [
+          "a9da9c69838a7d3d8f6aa6850509d5a4ddc0ba18dfbe426585324a450cee14c0",
+          "py3"
+        ]
+      }
     }
   },
   "cmdcache": {
@@ -28165,6 +28181,44 @@
       }
     }
   },
+  "lazytype": {
+    "0.1.0": {
+      "sdist": [
+        "78af5e75a4d72b9295335a774ac64edd685e884a0c69c9b342b3fe2e50fb6200",
+        "lazytype-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "lazytype-0.1.0-py3-none-any.whl": [
+          "f153eaed66187c3085f8071688c64e24e684f38bad9b7b740022de3313ef30b0",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "cebe24e7b450dab41cc60dca6897e25d54c7ad4c71b49635a4a67a1ad0f468a5",
+        "lazytype-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "lazytype-0.2.0-py3-none-any.whl": [
+          "b8f07f22c6c676eea773bf25192387da86274e5cecad3ba28d1fa79c34f27ad8",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "7f9b121b0d98e82b984c6c506c5f6130c36bb67aa1be907c1830aca693bae20e",
+        "lazytype-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "lazytype-0.2.1-py3-none-any.whl": [
+          "453ace11b87c505a4afa10dc30d78e6c6121fb986611fb25fb5e8b3ad4f5e4c1",
+          "py3"
+        ]
+      }
+    }
+  },
   "leap.auth": {
     "0.1.0": {
       "sdist": [
@@ -34274,6 +34328,18 @@
       "wheels": {
         "mpkg-0.0.1-py3-none-any.whl": [
           "c6fedd0a6ca191204b2335465a448373381ee80fc6671a67a1c180bf4e316b9a",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "6a71d3cac5573c7b1bc98924cbf6af8e705c9f5e9990cdcc388237175b339992",
+        "mpkg-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "mpkg-0.0.3-py3-none-any.whl": [
+          "ce32d092bbdff505dafdc5a11c9d4d3c125c22a3157ae8994daa383a49011399",
           "py3"
         ]
       }
@@ -71667,6 +71733,38 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20200707": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200707-cp35-cp35m-macosx_10_6_intel.whl": [
+          "05321454f982fb4fd5704e83b815932655b8f7d3512163502cd33590200906f9",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "76be71724e0628fcea24b88b8c640408a54bf29b73960db08c4f4912d307de25",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "8766ec4a7a8a196808cc3fb564b22e84b65c438cd0f92822ee8ae9cc582245a6",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "80475b2d72286599de81e0daea508819fd07994b15e8127fe08603d350dc4c6b",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7a2487a13ceb783c5801f051519da2ddf3026fa9cbd57f0c167a61082c4130fd",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2ddcbb3895f5f7dc3613499c2429d05c88e698a433a4e01eb1bbde6ce09e0b07",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200707-cp38-cp38-manylinux2010_x86_64.whl": [
+          "93b77cfbeea6b858680c91c6d9efaf6059d7bc06e686e5c9b3e4353d25192172",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -71698,6 +71796,14 @@
       "sdist": [
         "1ed6725ac522affbfed37e87e28672201f0355c2873ec1dd6cebd3630850eefb",
         "therefore-0.0.2a0.tar.gz"
+      ]
+    }
+  },
+  "thoth-glyph": {
+    "0.0.0": {
+      "sdist": [
+        "405faa22285bd9e5b1cf0ad561ab618fcc3948759be931f1199236034f94fbc4",
+        "thoth-glyph-0.0.0.tar.gz"
       ]
     }
   },

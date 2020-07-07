@@ -3152,6 +3152,12 @@
         "automation_rest_server-2.1.27.tar.gz"
       ]
     },
+    "2.1.28": {
+      "sdist": [
+        "6e23c2a328f86eb1ca007661b7261112219da488f438cd03f84167b625d84353",
+        "automation_rest_server-2.1.28.tar.gz"
+      ]
+    },
     "2.1.3": {
       "sdist": [
         "e2d7dea6420a40f17822185d36ca5dc696e4dc9ebacba0d159a3a13aa09145d0",
@@ -3180,6 +3186,12 @@
       "sdist": [
         "d158ec22ed4267da47ca8cbe223b3205be261d6d9c76c1cb3e23b8942970a36d",
         "automation_rest_server-2.1.9.tar.gz"
+      ]
+    },
+    "2.2.1": {
+      "sdist": [
+        "4452b5604af78c8931a07e6223e80715030c975ddffa5fcf3a4b1ab09e2694eb",
+        "automation_rest_server-2.2.1.tar.gz"
       ]
     }
   },
@@ -4380,6 +4392,14 @@
       "wheels": {
         "azureml_designer_classic_modules-0.0.125-py3-none-any.whl": [
           "6e319396644a3522d58e429f76fcae8dc8d4084faffd5a932c13a24c1a3790b9",
+          "py3"
+        ]
+      }
+    },
+    "0.0.126": {
+      "wheels": {
+        "azureml_designer_classic_modules-0.0.126-py3-none-any.whl": [
+          "3bcda3ef3a56cf3373deaa386438acaf9114572c6c27f3fe04167893111c071b",
           "py3"
         ]
       }
@@ -9099,6 +9119,20 @@
         "c43d2aeb0532f7e4f662462e924f5f572bd9f1061eb3737984b245179ff1156a",
         "darcs-cgi-0.01.001dev.tar.gz"
       ]
+    }
+  },
+  "dash-pathway": {
+    "0.0.2": {
+      "sdist": [
+        "758b123d4bbec47e636289a7c0ae55afde7ed922f32ea424e15ccd9e84daf55a",
+        "dash-pathway-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dash_pathway-0.0.2-py3-none-any.whl": [
+          "5302f48d40e1bbfadfefe64be8825d6cb321417d688f63c55e5936742f484d0a",
+          "py3"
+        ]
+      }
     }
   },
   "datagovsg": {
@@ -46636,14 +46670,6 @@
     }
   },
   "samdata-terminal-dev": {
-    "2.1.10": {
-      "wheels": {
-        "samdata_terminal_dev-2.1.10-py3-none-any.whl": [
-          "ce01796ebb99bfd74257ada3856ce77dbc1d1652760913c47f558f37e85ac783",
-          "py3"
-        ]
-      }
-    },
     "2.2.0": {
       "wheels": {
         "samdata_terminal_dev-2.2.0-py3-none-any.whl": [
@@ -46672,30 +46698,6 @@
       "wheels": {
         "samdata_terminal_dev-2.2.4-py3-none-any.whl": [
           "57331b1a4e6d5338c5c1043aecc90308e67de8583874bf14a57f4fbed1d69552",
-          "py3"
-        ]
-      }
-    },
-    "2.2.5": {
-      "wheels": {
-        "samdata_terminal_dev-2.2.5-py3-none-any.whl": [
-          "9830c2c0a1a2d78f993bd69838d8daf5fdc66824db66d1686a5e19859f2654a4",
-          "py3"
-        ]
-      }
-    },
-    "2.2.6": {
-      "wheels": {
-        "samdata_terminal_dev-2.2.6-py3-none-any.whl": [
-          "30c1a61c85300b890851c95a672adf430bf6e37607a04f23c5b12df15f344adb",
-          "py3"
-        ]
-      }
-    },
-    "2.2.7": {
-      "wheels": {
-        "samdata_terminal_dev-2.2.7-py3-none-any.whl": [
-          "f917955932fd3ec004aceb3c4e443eb2b7b530368c7f710b8f9ae31b0c12afe0",
           "py3"
         ]
       }
@@ -58938,6 +58940,14 @@
       "wheels": {
         "tb_nightly-2.3.0a20200706-py3-none-any.whl": [
           "bb4e4012364f0422aa63ecf63ed6602b6df8e5922ab6629788de6f372c288ed3",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0a20200707": {
+      "wheels": {
+        "tb_nightly-2.3.0a20200707-py3-none-any.whl": [
+          "d16e2937de0b030c0382256b59b723cc9c7f5cacff7ef3e8a7ae44c1c08ed1a2",
           "py3"
         ]
       }
