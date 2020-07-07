@@ -218,12 +218,24 @@
     },
     "5.40": {
       "wheels": {
+        "aardvark_py-5.40-1-py2.py3-none-macosx_10_6_intel.whl": [
+          "8940921caf676074b741b0f5450d1c5f96da53757345e30553fd9d31389716c5",
+          "py2.py3"
+        ],
         "aardvark_py-5.40-1-py2.py3-none-macosx_10_9_x86_64.whl": [
           "df4fb261e555410ead7fe5be796322ad202fc3e1f2ae2bf8e5daca3a4bcf6554",
           "py2.py3"
         ],
+        "aardvark_py-5.40-1-py2.py3-none-manylinux1_i686.whl": [
+          "6edb4f73e332e1a2ac9c0d4800f1e235e3c2b73fc2806c5cc2656b3e9d8b3ef1",
+          "py2.py3"
+        ],
         "aardvark_py-5.40-1-py2.py3-none-manylinux1_x86_64.whl": [
           "a8a980d7c27061d8685999557c909dcc8d46c8a0a5160725bc6dd51e02bd896f",
+          "py2.py3"
+        ],
+        "aardvark_py-5.40-1-py2.py3-none-win32.whl": [
+          "86db62df178e53faf935f6689474737709b7120011ec1a0a73aeb02b8f7de402",
           "py2.py3"
         ],
         "aardvark_py-5.40-1-py2.py3-none-win_amd64.whl": [
@@ -2364,6 +2376,12 @@
       "sdist": [
         "b76c92afd9cdc3e8ce664e3d85aaab16bedd5207c22733534a752950af3e5dca",
         "b2sdk-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.2": {
+      "sdist": [
+        "b46cccb6c374dc0046d01ff4c9212df8bb9b41adc4713fc781923b8a3e272ed6",
+        "b2sdk-1.1.2.tar.gz"
       ]
     }
   },
@@ -27095,6 +27113,32 @@
       ]
     }
   },
+  "lambdata-noah40povis": {
+    "0.0.1": {
+      "sdist": [
+        "07fcc61e10ee682c6d658cba2e584b350ad9461b253a828aaf900ab472c97e24",
+        "lambdata-noah40povis-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lambdata_noah40povis-0.0.1-py3-none-any.whl": [
+          "09636feedcc71e4284b2042c3efd191615da7a5799169bcf59b918b3c2c60e95",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "c39453fcdab9c3129a83f2aee2bf7f5621b943b685557bc11b92c389f5972aa9",
+        "lambdata-noah40povis-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lambdata_noah40povis-0.0.2-py3-none-any.whl": [
+          "94b70fb0c1c6e6986d0f15aa889219502610c0a5a7896cbace99294986ad7fa9",
+          "py3"
+        ]
+      }
+    }
+  },
   "launchpanel": {
     "0.0.1": {
       "sdist": [
@@ -33538,6 +33582,18 @@
       "wheels": {
         "mypy_boto3_opsworks-1.14.16.0-py3-none-any.whl": [
           "a4c4b5191d71617b5ff8eefa40bad93dc2bf49102312212d21c3b588d835774e",
+          "py3"
+        ]
+      }
+    },
+    "1.14.17.0": {
+      "sdist": [
+        "e2d0156ddf702daffe671565e84a20b4472c737b7d992894bcee1376a9a92b84",
+        "mypy-boto3-opsworks-1.14.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_opsworks-1.14.17.0-py3-none-any.whl": [
+          "d74ae352564c0e01c393d92796d42155d03ec51b38138e5931dd654f388eea17",
           "py3"
         ]
       }
@@ -42896,6 +42952,18 @@
       "wheels": {
         "pip_gui_tools-0.0.1-py3-none-any.whl": [
           "287f637420b6931dc02d6cc78f7f3a97c63547a43244530647bdd314f3f862bc",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "df6dfdce86d0f5842e1195b695f1a201fec2f141933c964a89d0b9f85c07ea7a",
+        "pip-gui-tools-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pip_gui_tools-0.0.3-py3-none-any.whl": [
+          "77d206d2ecfa01662c01f9256d569cba519fac533b62b46a99a13deccdfda335",
           "py3"
         ]
       }

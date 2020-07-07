@@ -12233,6 +12233,14 @@
           "py3"
         ]
       }
+    },
+    "1.0": {
+      "wheels": {
+        "datasette_configure_fts-1.0-py3-none-any.whl": [
+          "626cf337030c6f1b7b437d6421312006ca8165085c0e4617e3d2371e0056c8ad",
+          "py3"
+        ]
+      }
     }
   },
   "dateformatextractor": {
@@ -35537,6 +35545,14 @@
       ]
     }
   },
+  "nstap-probability": {
+    "1.0": {
+      "sdist": [
+        "6a963e9c6bf7191e33b1018604abc340542be2efcb11482ffddf2537f6be0a12",
+        "nstap-probability-1.0.tar.gz"
+      ]
+    }
+  },
   "nucleotide": {
     "0.1.3": {
       "sdist": [
@@ -42527,6 +42543,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "408f91c557774cbc739054ceb17aff20c0a92c7265ed2cab126265140ad4831c",
+        "pyaml-processor-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "pyaml_processor-0.4.0-py3-none-any.whl": [
+          "977296a82f76d203081aa60270b1d7b7998fe13772be1e82b4ae65de32ec4830",
+          "py3"
+        ]
+      }
     }
   },
   "pyanisort": {
@@ -46723,104 +46751,6 @@
         "pytorchtools-0.0.2-py2.py3-none-any.whl": [
           "67e3285624e2c721a80c286bc562fca44fc0aca6f05fc4dd06db83c65befaee4",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "pytse-client": {
-    "0.1.0": {
-      "sdist": [
-        "23828347956708fdb8f92dc640a0c5649ecbf238c2545a96e255aeb4bc91d92c",
-        "pytse-client-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.1.0-py3-none-any.whl": [
-          "e7ac399cf379a6200a8eb1c81a665a5c7e3aff5e20db70e24d460709b081ef3a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "f24045c310f8f80f53fd42de5fa7c7b088df7b139f5b4b5979d2c734d16734fe",
-        "pytse-client-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.1.1-py3-none-any.whl": [
-          "f455982ff11d8581eac966126b578667b322dca31e7f8cd01b674be19d70eb53",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "6bc8b5078136297a9751700d0c770f4987ff2ca748a103480003c36e80b1fc33",
-        "pytse-client-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.1.2-py3-none-any.whl": [
-          "1be9b951f00e8f2944ff582d0be04180c51fa35f7335248c52c24864da13be3b",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "899172e1e0f3dd6a935e976cdeb2d9acc94a9531294e5b2e9c731be5e317f703",
-        "pytse-client-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.2.0-py3-none-any.whl": [
-          "6ec4dc98620008bc1a9f56934595cb42f00ed5907949238231022d6dce20c51d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0a0": {
-      "sdist": [
-        "4bbb86b508919aac087f31b58d6402b239f0d22a6759a9cae10e6ab54686ce6a",
-        "pytse-client-0.2.0a0.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.2.0a0-py3-none-any.whl": [
-          "b57b66d85690df062cdd6a9aaec4bf2799a6c47d8f63400123b813418c7db1ca",
-          "py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "sdist": [
-        "007460d906fb7a8c8a993a5355f3b32f43c92f068073e491a8c6fbcfb9e9d653",
-        "pytse-client-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.2.1-py3-none-any.whl": [
-          "730b84cf9dc89706ca41c154b3d5df008c3f63930eedfdbcc60fbe356263edfa",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "9dfdfb68022c5a456d8ae82276a113cd22a2bad76bbcc349381d6c1a9fb9fe1d",
-        "pytse-client-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.3.0-py3-none-any.whl": [
-          "874007d00916a6fa10c5c71d576c808cbb571b7848a4faa0d58115a7d1a40c8c",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "87add451d886c3b6b6f2cf44d2b5762d2a648ca6838ef5f41ffd9885aedb44f4",
-        "pytse-client-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "pytse_client-0.3.1-py3-none-any.whl": [
-          "8a53e10489f9e487d0ab303a96e372a60670bf8321b9d37b0bba06308c4204e9",
-          "py3"
         ]
       }
     }
@@ -53333,6 +53263,18 @@
           "py2.py3"
         ]
       }
+    },
+    "5.8.9": {
+      "sdist": [
+        "3f4db34846eb1b143e37e3a309e1e75884bec567dda354cba53279765f608dc9",
+        "SoftLayer-5.8.9.tar.gz"
+      ],
+      "wheels": {
+        "SoftLayer-5.8.9-py2.py3-none-any.whl": [
+          "953f7820c2135bfcee40bd2f64794fe6ab2e8eccea50780890edaedfddf99d44",
+          "py2.py3"
+        ]
+      }
     }
   },
   "soupcan": {
@@ -55733,20 +55675,6 @@
         "58730fceb1530a954b909c80f73bb67e9a7eb3ccda4c0c9ca9dd20f05642e2e8",
         "taxi-5.0.tar.gz"
       ]
-    }
-  },
-  "taylor-pyweather": {
-    "1.0.0": {
-      "sdist": [
-        "bc194d87e8b9dfc018c8f9834d4c9331c6e8b37be666ffd0ccf5ad0cebea9b2c",
-        "taylor-pyweather-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "taylor_pyweather-1.0.0-py3-none-any.whl": [
-          "08a2eae945025278b03e5003009054dfb43446907d0b0c579312a322817c909f",
-          "py3"
-        ]
-      }
     }
   },
   "tb-cli": {
@@ -62116,6 +62044,12 @@
       "sdist": [
         "383c60ffc4b9c2128a76b9939e6168076eb94fc84ab2823d3a9b2e28749d3f0f",
         "xsamtools-0.3.0.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "b596d890bb868f2b7cea8bebfb21f9adfcb2668a33cc8b4a7f66228e72918f1b",
+        "xsamtools-1.1.0.tar.gz"
       ]
     }
   },

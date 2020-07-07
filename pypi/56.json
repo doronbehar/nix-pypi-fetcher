@@ -13188,6 +13188,18 @@
         "distkv-0.3.3.tar.gz"
       ]
     },
+    "0.30.13": {
+      "sdist": [
+        "cfd60d7fe2cddcc70578eb53bf58ce5405ce88c85d2c6471142634b9fa649993",
+        "distkv-0.30.13.tar.gz"
+      ]
+    },
+    "0.30.14": {
+      "sdist": [
+        "fbd79c200edcdc6a5aea1f44f967883b68a35517bc94937a8ef87c523e5db98c",
+        "distkv-0.30.14.tar.gz"
+      ]
+    },
     "0.30.7": {
       "sdist": [
         "8aed231bb5c1589e9e1902048d15c1e4984f1cb298a10e3f4eb72bf99c18d21e",
@@ -19986,26 +19998,58 @@
     }
   },
   "faultdiagnosistoolbox": {
-    "0.12rc3": {
+    "0.12": {
       "sdist": [
-        "18716ef56b78fa9e45a6241b1316be7635459ab6c1564a829206040d1c1ecabb",
-        "faultdiagnosistoolbox-0.12rc3.tar.gz"
+        "eaf1ba7d4d413080828b3debc1798f4f98ee9e0f64dc2668bf5d27b75dfaeedb",
+        "faultdiagnosistoolbox-0.12.tar.gz"
       ],
       "wheels": {
-        "faultdiagnosistoolbox-0.12rc3-cp36-cp36m-win_amd64.whl": [
-          "072e0a8f6dc8480920d7ba3c2cb319faa0adbca16c5c9b4498d9df1c3ad632c3",
+        "faultdiagnosistoolbox-0.12-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "2a35de1aa916375bd8725ece50e0efaaa0f27d04bda60d25245edb427f8d7194",
           "cp36"
         ],
-        "faultdiagnosistoolbox-0.12rc3-cp37-cp37m-win_amd64.whl": [
-          "ba4d2cb3cc60ffe6f3424ea081b1cf8992b71cc8a963569ee2b12a166fe944e2",
+        "faultdiagnosistoolbox-0.12-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "029e732072d087d07c0e913d297ac533c833ba5ccb8b51deb759b767de8f5b7d",
+          "cp36"
+        ],
+        "faultdiagnosistoolbox-0.12-cp36-cp36m-win_amd64.whl": [
+          "85ed6c6fe4451cf6be15e025c1400d94ee9964e115e1dd29dc8d12de7fa6fc97",
+          "cp36"
+        ],
+        "faultdiagnosistoolbox-0.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "037d2a5c71b94c8115b54f7b686a56deee9e17e9f20c0594b3427cadb8dd47e2",
           "cp37"
         ],
-        "faultdiagnosistoolbox-0.12rc3-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "40c41056bfdde5f487e05e2c62da45439b75d4343fc1ba71dd72b4065d368e06",
+        "faultdiagnosistoolbox-0.12-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9c82a957957c950170011e243bf8678a76213b1af7e2304b0c6b9a7fd5589fae",
+          "cp37"
+        ],
+        "faultdiagnosistoolbox-0.12-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "2b8e6e9fc3b8b3533a503f9fb8fec7d3aee05271183f52305fbd7576df308a58",
+          "cp37"
+        ],
+        "faultdiagnosistoolbox-0.12-cp37-cp37m-win_amd64.whl": [
+          "380b769ce0362e6d869c8692430a80e3f4b92c0af8bec13900852b9adb7861a8",
+          "cp37"
+        ],
+        "faultdiagnosistoolbox-0.12-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "51c15959a4099f753b786c15e3cafc9602da025ad2ef2e536ae6cd6da3116437",
           "cp38"
         ],
-        "faultdiagnosistoolbox-0.12rc3-cp38-cp38-win_amd64.whl": [
-          "fb6c0292dbf83311b92949f41a65afbf1589704aa7656460c4fda8c3fb9669eb",
+        "faultdiagnosistoolbox-0.12-cp38-cp38-manylinux1_x86_64.whl": [
+          "4a6f11772278fcaed3d97f91c571e75185d7d27a7cad1569a06df71642f97baf",
+          "cp38"
+        ],
+        "faultdiagnosistoolbox-0.12-cp38-cp38-manylinux2010_x86_64.whl": [
+          "27cbe0a8ad4e2f141ce56aa079c72a0652d3c345f03cd215756e25c7237d7116",
+          "cp38"
+        ],
+        "faultdiagnosistoolbox-0.12-cp38-cp38-manylinux2014_x86_64.whl": [
+          "d4de8179bcd17fecb9cc7ca6958ee8ff7b3d945d203be8f48da8691cfa60b2c5",
+          "cp38"
+        ],
+        "faultdiagnosistoolbox-0.12-cp38-cp38-win_amd64.whl": [
+          "ac498def5e651b1e65745411aae7b62b26d16f791dc53a53a4ab98bcdb817fa1",
           "cp38"
         ]
       }
@@ -20670,6 +20714,18 @@
       "wheels": {
         "figgy_cli-0.0.56-py3-none-any.whl": [
           "ca2af3d21911228a0ca844c0d89f8c8ad29cf5d990377fdcbe41a2b10365a60f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.57": {
+      "sdist": [
+        "dd2ba60f6201effabb8b1122a3988edcd6c8137ae3ba78096d13d2f65b2c04e3",
+        "figgy-cli-0.0.57.tar.gz"
+      ],
+      "wheels": {
+        "figgy_cli-0.0.57-py3-none-any.whl": [
+          "de726010579bc2f067c6d9d7fdf12d1898084e60ee27e96c67a18748235d4fa7",
           "py3"
         ]
       }
@@ -30994,6 +31050,42 @@
         "lol_esports_parser-0.1a1.tar.gz"
       ]
     },
+    "0.1a10": {
+      "sdist": [
+        "ceef679eb8f7fcf2f37282a008a5cc1dd13231921b4ddff718382ed7a0679b98",
+        "lol_esports_parser-0.1a10.tar.gz"
+      ]
+    },
+    "0.1a11": {
+      "sdist": [
+        "b3566f610729f9ffcdae946884cda52ee6e38abbac04c5ce1eeb23171f2ef86e",
+        "lol_esports_parser-0.1a11.tar.gz"
+      ]
+    },
+    "0.1a12": {
+      "sdist": [
+        "2d8e739dee9a52c77800f5a49603c113663195c9d2bf3197ddcbe37817015bc6",
+        "lol_esports_parser-0.1a12.tar.gz"
+      ]
+    },
+    "0.1a13": {
+      "sdist": [
+        "70cc9d85c0103b6739f6f33d46b0e5820619c98895c88733994338886fdcb353",
+        "lol_esports_parser-0.1a13.tar.gz"
+      ]
+    },
+    "0.1a14": {
+      "sdist": [
+        "95b62edf070b24dc3a88f021043da153dc0a9fb48b17aac50ddc3158016c2e82",
+        "lol_esports_parser-0.1a14.tar.gz"
+      ]
+    },
+    "0.1a15": {
+      "sdist": [
+        "0e15903d6407f99429e39be7b18dc10cef8eaf224784054bc12354d92ce632d9",
+        "lol_esports_parser-0.1a15.tar.gz"
+      ]
+    },
     "0.1a2": {
       "sdist": [
         "a6d3101ea78532fa8951ba82f47bb51c3ef2645e407b7951a205fa527c014548",
@@ -33364,6 +33456,42 @@
       "wheels": {
         "MkNxGn_Essentials-0.1.35.6-py3-none-any.whl": [
           "f42fd685c6e3f29642936d8930a7a8fac351c909eb9fe71ffde7a0ce60dd733f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.35.7": {
+      "sdist": [
+        "bc6bf0c5734399084d1781f07a39e74588efc150ffefda78de4df5f4afa97020",
+        "MkNxGn_Essentials-0.1.35.7.tar.gz"
+      ],
+      "wheels": {
+        "MkNxGn_Essentials-0.1.35.7-py3-none-any.whl": [
+          "cfecc9f1fa9e74e705232c3e1ab0c1e2be6f154cea734bd8d6dafb51a7253f17",
+          "py3"
+        ]
+      }
+    },
+    "0.1.35.8": {
+      "sdist": [
+        "d2ebbc420559dfacba7a14f66ab8d2ec59cd1824bb822630e4c364deca4c7f18",
+        "MkNxGn_Essentials-0.1.35.8.tar.gz"
+      ],
+      "wheels": {
+        "MkNxGn_Essentials-0.1.35.8-py3-none-any.whl": [
+          "22fb4baccaaff7a1e7dd3a9e61445dca6cbae35ca6e96e6a5f3f8b45da9fe078",
+          "py3"
+        ]
+      }
+    },
+    "0.1.35.9": {
+      "sdist": [
+        "64929c313a1ee16280d1bf7faeb7bde31afcfbdd723bccc99190e8ad1956a265",
+        "MkNxGn_Essentials-0.1.35.9.tar.gz"
+      ],
+      "wheels": {
+        "MkNxGn_Essentials-0.1.35.9-py3-none-any.whl": [
+          "fc6da3c6ae25efb1d4d987cc4853ea7182eb284f30af2e7f359c58a24ce313a5",
           "py3"
         ]
       }

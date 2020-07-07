@@ -1215,6 +1215,20 @@
       ]
     }
   },
+  "archinstall": {
+    "2.0.1": {
+      "sdist": [
+        "c6ef18f417a70529fcdba1210e62a85fdfe5d93e3f5946d74228411d5dc2328d",
+        "archinstall-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "archinstall-2.0.1-py3-none-any.whl": [
+          "874ebbbf61c6644ed2e300e40f2b70fb63ab0662925f5f1a387752b45c1b2557",
+          "py3"
+        ]
+      }
+    }
+  },
   "ards-sll-scrape": {
     "0.1.0": {
       "wheels": {
@@ -3884,6 +3898,14 @@
       "wheels": {
         "azureml_pipeline-1.8.0-py3-none-any.whl": [
           "43ce39789d9a255f147311e40274b5f2571c7ef3b52e218f248724ccb377a02c",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0": {
+      "wheels": {
+        "azureml_pipeline-1.9.0-py3-none-any.whl": [
+          "2867728f5809526e02a3b1020178e9a1e4bdeed677ec87086f635affd1b4d433",
           "py3"
         ]
       }
@@ -20769,6 +20791,30 @@
           "py3"
         ]
       }
+    },
+    "1.673.0": {
+      "sdist": [
+        "30787502f496ba44ffd98d090d2feb517ec9726f8dceec57bc653b536b5c1332",
+        "gardener-cicd-cli-1.673.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_cli-1.673.0-py3-none-any.whl": [
+          "e7171ee3b3d68be3ec9cc4878885a1ee9065c137025c64203c8d86efc653713f",
+          "py3"
+        ]
+      }
+    },
+    "1.674.0": {
+      "sdist": [
+        "c0f3bbf033168bea2cfb8acc0e18e9934c2a3a7be97ce5322c85f3bd523e757e",
+        "gardener-cicd-cli-1.674.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_cicd_cli-1.674.0-py3-none-any.whl": [
+          "1fa169154e0e72fdbb407ca62e8ea514f0b3631d69ac8d156937fe37aea93c45",
+          "py3"
+        ]
+      }
     }
   },
   "gaus-bi-distrib": {
@@ -33758,6 +33804,92 @@
       "wheels": {
         "netacess-0.0.1-py3-none-any.whl": [
           "8ed8c4fa6e3d1d5e5addba56025f015e34e563cc0a98e073b9f7f9f6de4101f7",
+          "py3"
+        ]
+      }
+    }
+  },
+  "netdata-insights": {
+    "0.0.1": {
+      "sdist": [
+        "564a3f39c6265f528c70b60fd67572d0e0fe2815a06dd5b15dc24d9d4f18ad99",
+        "netdata_insights-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.1-py3-none-any.whl": [
+          "2cd9f90a0867bd65325d9d27791ecf348e15eab69c86ad60f1b84d979624c8cd",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "fa9068db38bc765f22ce199c43a110dadac1a611753e8d57abf426f8f0b4ac8e",
+        "netdata_insights-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.2-py3-none-any.whl": [
+          "68c615771f45eeebb96b656958eb19fe430016efb95df09b9b99651dde41139b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "776fa4942ff228a9eb7224bf2e76e79120624dc83a110d0c39dfc3153c61a448",
+        "netdata_insights-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.3-py3-none-any.whl": [
+          "983d70769d3daf36c048015e5327631ed858c22807d600570390230a8a6f7ae9",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "7c1b5b04c9e830604e604475ab93b857811cb18b0648511b89df2730f726cd4e",
+        "netdata_insights-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.4-py3-none-any.whl": [
+          "f788d8d0770f3cfec611e7cc46c25c47b5ccc1830cb15dc522957aa52126c2d5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "5cd7868fdae71b5727874881f3357e56e4d0a3c63dcfc812220b8da0851e9031",
+        "netdata_insights-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.5-py3-none-any.whl": [
+          "741d017c5c5d99976abde545004e167b2a1987a4892cd2e7141a534b429f9f3d",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "258daf94a2e4924aa96258e7f7349d0f8ae03f6797f03ef85f256c31ccce81ff",
+        "netdata_insights-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.6-py3-none-any.whl": [
+          "addf05819465213e1e03404456e9f4cc5acd2f942490e13c9da9e83dda08db7d",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "fa2c8c25898b3d2eedd9ec372e2046673f40c8e0a0c0d84479edacca214aeb2e",
+        "netdata_insights-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "netdata_insights-0.0.8-py3-none-any.whl": [
+          "ee1fd04899d4eec668a8b43abe50d6de89749f9af34f451c2049de4f2fb68e66",
           "py3"
         ]
       }

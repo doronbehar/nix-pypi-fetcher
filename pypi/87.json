@@ -20569,6 +20569,12 @@
         "663b6bcac32bdd8e246cbfd06fdabf4938caa19201539683aa3fafdd0bf31c7b",
         "faucetconfrpc-0.6.tar.gz"
       ]
+    },
+    "0.7": {
+      "sdist": [
+        "558d22ac622e9bb217a50e15fe6110aadd85cab1ea4252db2004f43c667ea39a",
+        "faucetconfrpc-0.7.tar.gz"
+      ]
     }
   },
   "fc-oogmsh": {
@@ -31618,6 +31624,18 @@
         ]
       }
     },
+    "0.4.71": {
+      "sdist": [
+        "b086b11862dad1e24143ff7a9314cd550133ae59e6d379a02d60ea7b2364659c",
+        "lbt-dragonfly-0.4.71.tar.gz"
+      ],
+      "wheels": {
+        "lbt_dragonfly-0.4.71-py2.py3-none-any.whl": [
+          "366da70c9e61ca96df2e1a173a59b4d966046bbf0e172ecb3afd1777aa1b4e90",
+          "py2.py3"
+        ]
+      }
+    },
     "0.4.8": {
       "sdist": [
         "2b1c65c86316046cd43039b7157186cc8eae487795249a65dfa9c41c0d94abb1",
@@ -35032,6 +35050,18 @@
         ]
       }
     },
+    "1.14.17.0": {
+      "sdist": [
+        "295c7e2c3f7c6ff21fbb61594a621a1f28a3299ed3bd9e59f8e0be197cfb0256",
+        "mypy-boto3-compute-optimizer-1.14.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_compute_optimizer-1.14.17.0-py3-none-any.whl": [
+          "5a645176c35628a73506380262fe6895fbb02cf2ec11fa68ecff79f3bc9515cc",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "3a5a56129ebf2b0bfe7fdeedeebf370ef70df16a9a8263a610e6efbf3f8e913a",
@@ -36434,6 +36464,18 @@
       "wheels": {
         "mypy_boto3_medialive-1.14.16.0-py3-none-any.whl": [
           "404e83027e4e152df17072b57558b90a6735184392daf836b20bd4c1c096ba3c",
+          "py3"
+        ]
+      }
+    },
+    "1.14.17.0": {
+      "sdist": [
+        "cd441d6d2905f2707fcfb6f3ca321e7a2a87f1a003d6d565e399ad81559241df",
+        "mypy-boto3-medialive-1.14.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_medialive-1.14.17.0-py3-none-any.whl": [
+          "25bdb7e89ab868a731c6970511a97588485dbfba8bb7e6776fd8538c3ecd6e8f",
           "py3"
         ]
       }
@@ -37852,6 +37894,18 @@
         ]
       }
     },
+    "1.14.17.0": {
+      "sdist": [
+        "913ee56719d0251cfbd0b417d1cc68578621455dec74c847386e7d35b8cdc2ac",
+        "mypy-boto3-robomaker-1.14.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_robomaker-1.14.17.0-py3-none-any.whl": [
+          "9bca960f173fb073c48e90ae48264b69a61e89ad23559bf4ce271cd0d4cc8dcc",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "ea7fe7be44e47ce8690768da11f013b2594e97f587a8922cc7ebe91690f9ae81",
@@ -38252,6 +38306,62 @@
         ],
         "nagisa-0.2.6-cp37-cp37m-win_amd64.whl": [
           "bb6f32240d0348f50855254416a86290b3d6462b96441408a67baad778763597",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "1654650efbc3424fee90ba0259701949bc00843fd2b83bb27a27dddd96f0fbdc",
+        "nagisa-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "nagisa-0.2.7-cp27-cp27m-manylinux1_i686.whl": [
+          "c12c3ac51f9aaaa7a5ff08a04d2fd57277f7bb97eacff744bfb8e86c47fca6ae",
+          "cp27"
+        ],
+        "nagisa-0.2.7-cp27-cp27m-manylinux1_x86_64.whl": [
+          "b009fbde4300dd37e688bc21c6de502645955728532907d1665dde4c8e71f6d2",
+          "cp27"
+        ],
+        "nagisa-0.2.7-cp27-cp27mu-manylinux1_i686.whl": [
+          "271f9c747f4ffe00580babd06a4edc164dab1198857433750bca25f172f8438d",
+          "cp27"
+        ],
+        "nagisa-0.2.7-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "afa6673b846ebe0a5d9015bf78d1aeb82554b8cd023968b1ae8ecee2f46eb298",
+          "cp27"
+        ],
+        "nagisa-0.2.7-cp35-cp35m-manylinux1_i686.whl": [
+          "b7537e3c4a14dc2decb5a3daa389a3c8d8fc079200fb4b56c079a66782fe5c1b",
+          "cp35"
+        ],
+        "nagisa-0.2.7-cp35-cp35m-manylinux1_x86_64.whl": [
+          "23aa8e5eadf2502410a23863e6347b5763c86cae01ed7600dd4a632306670bca",
+          "cp35"
+        ],
+        "nagisa-0.2.7-cp36-cp36m-manylinux1_i686.whl": [
+          "eb889e12d1f3a68fa7fb1440453aa9130c13244633ebd4f16b97d373dadbc122",
+          "cp36"
+        ],
+        "nagisa-0.2.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "07fa155ec5fcb80208d31bb6fd7039d6c2988c3b82c0cdba4baf60624e936c62",
+          "cp36"
+        ],
+        "nagisa-0.2.7-cp36-cp36m-win_amd64.whl": [
+          "eb21e331064f9f8f3d9021761efc30ff94bb36b4ee7f0b9ce7a055c46abe93c0",
+          "cp36"
+        ],
+        "nagisa-0.2.7-cp37-cp37m-manylinux1_i686.whl": [
+          "2c70681c0dc6dc717f93dfb065a14916592a9c702752b2a2e31234dbb3f012f5",
+          "cp37"
+        ],
+        "nagisa-0.2.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "f4883c362440ec5594696e4c1f17831182d20cb845f2b080e838944d711c4c13",
+          "cp37"
+        ],
+        "nagisa-0.2.7-cp37-cp37m-win_amd64.whl": [
+          "8b948f73d4884057eb2c20c70a9462823e00779fc35de14afd848467b91299c3",
           "cp37"
         ]
       }
@@ -51781,6 +51891,20 @@
         "8bd6cfa0ae3321781e47b34eb803e24ff12f2f839322d1f35bf4fe139ddf4fc2",
         "PyramidAuthService-0.1.tar.gz"
       ]
+    }
+  },
+  "pyrawsocket": {
+    "0.0.1": {
+      "sdist": [
+        "a44c863436cdffdebd3c953f5b174d61f71eb4073c089c89b6d967e5ba3d07bc",
+        "pyrawsocket-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyrawsocket-0.0.1-py3-none-any.whl": [
+          "9842c6a05559b2af530d5c3f16bbc3a352eebc925cf48e0ad25091a746923176",
+          "py3"
+        ]
+      }
     }
   },
   "pyrcon": {
