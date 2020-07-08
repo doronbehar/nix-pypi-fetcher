@@ -18590,6 +18590,18 @@
         ]
       }
     },
+    "4.2.1": {
+      "sdist": [
+        "ccf4159025df2330912f1c7c0946a0542b21fab667ac0841e942272cad0301fd",
+        "ciphey-4.2.1.tar.gz"
+      ],
+      "wheels": {
+        "ciphey-4.2.1-py3-none-any.whl": [
+          "ea683f28242d6704b72410c27986c149e7c4daf35aafbec5489436641145b13f",
+          "py3"
+        ]
+      }
+    },
     "4.2.1rc1": {
       "sdist": [
         "b179127c77731fb127d00420c3aaab52596ce9cf8fc172a0c0cee34d94d930c2",
@@ -47420,6 +47432,12 @@
         "ktrain-0.18.1.tar.gz"
       ]
     },
+    "0.18.2": {
+      "sdist": [
+        "d34569b5b657f734de968ccd4751c56ee5a374ad275403018e837431b7475096",
+        "ktrain-0.18.2.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "98e5902d5aabe422c888e855c3397aca743d9a47dcfe5e48577132b90050e612",
@@ -54538,78 +54556,6 @@
     }
   },
   "neuralqa": {
-    "0.0.10a0": {
-      "sdist": [
-        "41bea8248590934aa72fb66b338b10384f80bbe7c7fcb2e748c58b902d079884",
-        "neuralqa-0.0.10a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.10a0-py3-none-any.whl": [
-          "6b6068f339f48558396cb3968749fae9c74d8131bde804429567a6b3004f4a2a",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11a0": {
-      "sdist": [
-        "0b36ed7146ad2c16d43f44c64bd26f540a8cd276568b9559df6fe95e8d515a5b",
-        "neuralqa-0.0.11a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.11a0-py3-none-any.whl": [
-          "b131248a5833d9f7aeef6c60cc7f9754d09cd5f584856feeb3605fdffdb79ce9",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12a0": {
-      "sdist": [
-        "eabcb36c03554a9920a7889df43e640bc9e2b6a6bdcfb63f4d7449b2db4e033a",
-        "neuralqa-0.0.12a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.12a0-py3-none-any.whl": [
-          "02d67f677845dd2ab807f6fceecd514c66883ce8ae379aa02dff1ab140f6e27b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13a0": {
-      "sdist": [
-        "ba24e3b8d289552b0bf8e1f5a03174933c1b32a18cba1d18b22dd4564c3a57a7",
-        "neuralqa-0.0.13a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.13a0-py3-none-any.whl": [
-          "c2b2d8ca0e35090bb5de3cc058e76738281a87f5a0c51ee87c3747a6553775c3",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14a0": {
-      "sdist": [
-        "11d09a66c867a5fc371a8cb6977b8c3ab933d3788b56496fcef2ddc347be368c",
-        "neuralqa-0.0.14a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.14a0-py3-none-any.whl": [
-          "284bff2c4775361ea520a3f94c36008d996ee448ad09606505cfa3fd1b4202a6",
-          "py3"
-        ]
-      }
-    },
-    "0.0.15a0": {
-      "sdist": [
-        "76ff45c51a7c03313475b196c18b0a9171042b567e97fb206b3274b5960f0507",
-        "neuralqa-0.0.15a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.15a0-py3-none-any.whl": [
-          "3630535c584e691ed92ed0ef21561f25fe0102f555bf8733f9cdf1857c724912",
-          "py3"
-        ]
-      }
-    },
     "0.0.16a0": {
       "sdist": [
         "dac1eac485c81dcd02ab9543dcdc44de453467b35b74a568702c51a05330396b",
@@ -54618,114 +54564,6 @@
       "wheels": {
         "neuralqa-0.0.16a0-py3-none-any.whl": [
           "353ce8894b85ae2e6429be30b793ec8cb19b4fc3544c40db3763c132f114ec5f",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1a0": {
-      "sdist": [
-        "ac2398615ade7f91596b7f22ef89eeaba46ad17d8bccd38a7cf67a6b121399de",
-        "neuralqa-0.0.1a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.1a0-py3-none-any.whl": [
-          "ffbc76067b28f4a18c1b33053f23b4f4e8e14a46916d3738ec5b4d1cdc76463c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2a0": {
-      "sdist": [
-        "8791dc58c2ddea5203d79cee3ea19cc8590f65bf170e5ba0e21347874e6ff7ae",
-        "neuralqa-0.0.2a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.2a0-py3-none-any.whl": [
-          "b75f76d2edc3df3f3a83a3c5fe3fbc559a0e596af6783a333152b34515019449",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3a0": {
-      "sdist": [
-        "bc5e8a5d5602bd6cf6f383036383a9969eddf8e0f359c8786565c0c8b28e0f07",
-        "neuralqa-0.0.3a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.3a0-py3-none-any.whl": [
-          "68d4d409e18ed5bc4dc6b6925ddd5e84c80375a21a76bc754fbe6ec4c9d21a82",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4a0": {
-      "sdist": [
-        "05f5e1c8bd3fd980e887a050bf3f893f881570aaede0da2f346e10d9ecbf7e63",
-        "neuralqa-0.0.4a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.4a0-py3-none-any.whl": [
-          "d7222449fa48c1c13ad56504bcfdefb97b2b5a40b2636b454671d9d1fdad91dc",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5a0": {
-      "sdist": [
-        "6f856dd13a2363cad11a20f18b441d9d7e164d98c9fe3baa87eae29b8f738e5c",
-        "neuralqa-0.0.5a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.5a0-py3-none-any.whl": [
-          "b8089c220066bb01c96ab55726c7d6a74fdd5b701b04e28292903316f417ddbc",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6a0": {
-      "sdist": [
-        "e0c904952541d0c95439adc879fc495668b20440b008e7aa64ceeee7f35d736c",
-        "neuralqa-0.0.6a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.6a0-py3-none-any.whl": [
-          "2b717d935a73c4f433081dfac2296044e013f7d873dc422874ef348339a0ccec",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7a0": {
-      "sdist": [
-        "b043e70090139a9fa2eb6a05a7c1cf45d74c5da35f63d45bad305eff3a4fcb68",
-        "neuralqa-0.0.7a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.7a0-py3-none-any.whl": [
-          "8601c4dbddd2b13430fcdeaba7762100e47bfccbc76accf747e276fa702d7607",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8a0": {
-      "sdist": [
-        "9102d12e16d01d91cdefe76641466968f42ebfce1d66eec3870fc508e7880b4c",
-        "neuralqa-0.0.8a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.8a0-py3-none-any.whl": [
-          "f78be21d76a355f66ccd436f31b4e43e3c18b41cd400502cabbbe9359f9f8323",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9a0": {
-      "sdist": [
-        "001f6ed8bfda780c62f61c352fa106b0b9f30b4913e0ccff111cc954f595c02f",
-        "neuralqa-0.0.9a0.tar.gz"
-      ],
-      "wheels": {
-        "neuralqa-0.0.9a0-py3-none-any.whl": [
-          "b49b58199b393f6b49b48de7f2081e79055f200dd2a6db34d9f50bbf768ea184",
           "py3"
         ]
       }
@@ -68328,6 +68166,12 @@
       "sdist": [
         "31d0f7842d16fbe086192e28026b4f50105c320d18f8064477cf2a070ff296c6",
         "sagemaker_mxnet_training-4.2.0.post0.tar.gz"
+      ]
+    },
+    "4.2.0.post1": {
+      "sdist": [
+        "f79950106cd5b52080d5b47c5f0ffcd4d96359727f603d074629cca50e024ed7",
+        "sagemaker_mxnet_training-4.2.0.post1.tar.gz"
       ]
     }
   },

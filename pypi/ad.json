@@ -787,20 +787,6 @@
       }
     }
   },
-  "aleksis-app-hjelp": {
-    "2.0a2": {
-      "sdist": [
-        "684353f607ed305be676131ff2bfefbd09cba086d2d4e37c382a1a4b31aef0cb",
-        "AlekSIS-App-Hjelp-2.0a2.tar.gz"
-      ],
-      "wheels": {
-        "AlekSIS_App_Hjelp-2.0a2-py3-none-any.whl": [
-          "bdece9d1fbb2d3b2a587b1f14f8cbf9d2938e8451bd36baa800d416860ef8af2",
-          "py3"
-        ]
-      }
-    }
-  },
   "aleksis-app-untis": {
     "2.0a2": {
       "sdist": [
@@ -51167,6 +51153,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.5": {
+      "sdist": [
+        "9a166778c76ea21bbd3bdee3e8842b98484bac1b2269fd36b8997fa391794330",
+        "kedro-great-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "kedro_great-0.2.5-py3-none-any.whl": [
+          "ec919f34b0e72aaccaa2d1bd91280d9d75255c1db7f9243babbad0dc2cd7502d",
+          "py3"
+        ]
+      }
     }
   },
   "keepassc": {
@@ -72134,6 +72132,14 @@
         ]
       }
     },
+    "4.1.13": {
+      "wheels": {
+        "robocode-4.1.13-py3-none-any.whl": [
+          "beb07036ada20459153465f8ca60b2257dc8d1f833166c071dfe411821cefc2d",
+          "py3"
+        ]
+      }
+    },
     "4.1.4": {
       "wheels": {
         "robocode-4.1.4-py3-none-any.whl": [
@@ -78119,184 +78125,6 @@
       }
     }
   },
-  "tensorflow-estimator": {
-    "1.10.10": {
-      "wheels": {
-        "tensorflow_estimator-1.10.10-py2.py3-none-any.whl": [
-          "308e71cbe62737b4f38332c91329d1df93a988da35c9f850248da3c03f4bdd3b",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.11": {
-      "wheels": {
-        "tensorflow_estimator-1.10.11-py2.py3-none-any.whl": [
-          "a966c6c34f7b0e97e00434e4c46170fce56563e50edc7d39cd115cb5ebb36474",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.12": {
-      "wheels": {
-        "tensorflow_estimator-1.10.12-py2.py3-none-any.whl": [
-          "3e460f43682c7d789e5fe966630029558434d32502e632ee7f6703451258528c",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.6": {
-      "wheels": {
-        "tensorflow_estimator-1.10.6-py2.py3-none-any.whl": [
-          "fc62efb34ecb3242fe0b530bfc0f38b5f50ad362727f3e1c74c5350bf6ea6651",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.7": {
-      "wheels": {
-        "tensorflow_estimator-1.10.7-py2.py3-none-any.whl": [
-          "ac0db0608c50699dc53c6c8218e2fee93103fa5c8bf5ab6a571d0ffa23cd5471",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.8": {
-      "wheels": {
-        "tensorflow_estimator-1.10.8-py2.py3-none-any.whl": [
-          "c13a54f8f4196412cdcd258829fa1264cd3292907e5264f6441a421f6680a231",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.9": {
-      "wheels": {
-        "tensorflow_estimator-1.10.9-py2.py3-none-any.whl": [
-          "b313b595849bfefe5253ac7603058e78459c6b1e55b3b5c4eff0eefb8c4dd847",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.13.0": {
-      "wheels": {
-        "tensorflow_estimator-1.13.0-py2.py3-none-any.whl": [
-          "7cfdaa3e83e3532f31713713feb98be7ea9f3065722be4267e49b6c301271419",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.13.0rc0": {
-      "wheels": {
-        "tensorflow_estimator-1.13.0rc0-py2.py3-none-any.whl": [
-          "9948e222a033c724c52d2096b0d395ee67fb1ccb1077a89925a01312bd02671a",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.14.0": {
-      "wheels": {
-        "tensorflow_estimator-1.14.0-py2.py3-none-any.whl": [
-          "ca073f66063407a091d610ec1b22e39ea30248710198cc6f13769320bdbe3992",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.14.0rc0": {
-      "wheels": {
-        "tensorflow_estimator-1.14.0rc0-py2.py3-none-any.whl": [
-          "0e09ed47cc598b4b18883d508e00b83fcdd3ddbcd39be318d9dffffbbf281770",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.14.0rc1": {
-      "wheels": {
-        "tensorflow_estimator-1.14.0rc1-py2.py3-none-any.whl": [
-          "83d83d987808f1e90fd5ccf36f2b63a70e4f3c173db174537ddaab88b22447bc",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.15.0": {
-      "wheels": {
-        "tensorflow_estimator-1.15.0-py2.py3-none-any.whl": [
-          "840a61267c775e0e52c6d4e16a78810c12040757fe75af5845078c482136df92",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.15.1": {
-      "wheels": {
-        "tensorflow_estimator-1.15.1-py2.py3-none-any.whl": [
-          "8853bfb7c3c96fbdc80b3d66c37a10af6ccbcd235dc87474764270c02a0f86b9",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.15.2": {
-      "wheels": {
-        "tensorflow_estimator-1.15.2-py2.py3-none-any.whl": [
-          "9aacfb60d1ae87fad506c54c338b4123416ca693d1fdbaa2107c2a64c07da05f",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "wheels": {
-        "tensorflow_estimator-2.0.0-py2.py3-none-any.whl": [
-          "54fdfe8712d54627579bc6d524ced43bbd57042cb2ce411bdf2ae46b29a772da",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.1": {
-      "wheels": {
-        "tensorflow_estimator-2.0.1-py2.py3-none-any.whl": [
-          "aa8deab25d09a9730dfbae8ec58f4eb00ec2a90b5ca3dcbd8fa0717103d3bbb3",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.1.0": {
-      "wheels": {
-        "tensorflow_estimator-2.1.0-py2.py3-none-any.whl": [
-          "e5c5f648a636f18d1be4cf7ed46132b108a2f0f3fd9f1c850eba924263dc6972",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.1.0rc0": {
-      "wheels": {
-        "tensorflow_estimator-2.1.0rc0-py2.py3-none-any.whl": [
-          "7d835eeb7eaff4d3c3d640be9d9296e9a9213b6172cb4a95317817d180e682c7",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.2.0": {
-      "wheels": {
-        "tensorflow_estimator-2.2.0-py2.py3-none-any.whl": [
-          "d09dacdd127f2579cea8d5af21f4a918036b8ae246adc82f26b61f91cc247dc2",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.2.0rc0": {
-      "wheels": {
-        "tensorflow_estimator-2.2.0rc0-py2.py3-none-any.whl": [
-          "c24aba63b33de5db089e66585399e1abefad75038c4aacca8d8d1328ab3e8282",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.3.0rc0": {
-      "wheels": {
-        "tensorflow_estimator-2.3.0rc0-py2.py3-none-any.whl": [
-          "fc212c74fb356a97a22f5f7454d1f4bebad40281d04a5748a851ee99999144ae",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "tensorflow-serving-api-python3": {
     "1.4.0": {
       "sdist": [
@@ -79274,6 +79102,12 @@
       "sdist": [
         "275340705ab574724e608c8b1b50df3466f5865ff083289d7e4071d5679e30f6",
         "testflows.core-1.6.200706.1230446.tar.gz"
+      ]
+    },
+    "1.6.200708.1013905": {
+      "sdist": [
+        "1f5e6a5d84673ec782d29cd3694261d736b5d9842f419aece6eed3629362357a",
+        "testflows.core-1.6.200708.1013905.tar.gz"
       ]
     }
   },
@@ -80654,6 +80488,14 @@
       "wheels": {
         "tff_nightly-0.0.1.dev20200707-py2.py3-none-any.whl": [
           "0cde6e561347cef06783acc3d9bd084628564971309f13db3ced7ff0ac0d3b5b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.1.dev20200708": {
+      "wheels": {
+        "tff_nightly-0.0.1.dev20200708-py2.py3-none-any.whl": [
+          "ab77345d1bfdaa7b3f3a6875c3ba720f664dd367b3282a4f3a0311bfd30f09cc",
           "py2.py3"
         ]
       }
@@ -82901,14 +82743,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "umpy": {
-    "0.1.0": {
-      "sdist": [
-        "cc4f61131a242d46b3cdc258fc71d45a6c9248476a5c2641a8904859918d9f77",
-        "umpy-0.1.0.tar.gz"
-      ]
     }
   },
   "unimon-ctl": {
