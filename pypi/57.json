@@ -6682,6 +6682,18 @@
         ]
       }
     },
+    "1.50.0": {
+      "sdist": [
+        "3352640e9d651b8211300e1aca82dc55955f5e487fd4c3424d7617f6248aa2a6",
+        "aws-cdk.aws-codebuild-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codebuild-1.50.0-py3-none-any.whl": [
+          "09dece2a39582296918baffe4c7da8ccfe179d43d2d7d3e236609f1fbfd164d9",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "9503d06cabeb79d68f9c02f6aa07b15e32de06021d23b0b45d9601782fdff342",
@@ -13293,6 +13305,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.2": {
+      "sdist": [
+        "5ca87d75a548f69bc6de4de9b67749beda00b251e1efcbb4360e7918f4b45378",
+        "cloudsync-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cloudsync-2.1.2-py3-none-any.whl": [
+          "d4425f79b3388ee67db0c3258d184da4a4eb3b252b20ceb4cb5d565cdba2eba7",
+          "py3"
+        ]
+      }
     }
   },
   "cnb": {
@@ -19057,6 +19081,24 @@
         "8aa10c84c588c923ca3d76bca5425691fbd3628d419c3cc558db93dbe8bf88d9",
         "django-security-logger-1.0.6.tar.gz"
       ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "80ba815bd0ae8281619c9b25abc40b8d709ef3428421bdf9297594706a9137f2",
+        "django-security-logger-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "c85fcb9e2560eced63ea2d2be96d08c79671c0478fa7a29f5515c4eeaaaf76ca",
+        "django-security-logger-1.0.8.tar.gz"
+      ]
+    },
+    "1.0.9": {
+      "sdist": [
+        "c1235d0c636c9a243f76289dcbda93098ef73e3f1cba1bcc53658bf32996589f",
+        "django-security-logger-1.0.9.tar.gz"
+      ]
     }
   },
   "django-simple-address": {
@@ -22649,6 +22691,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.7": {
+      "sdist": [
+        "0c965ebcd62f0221db8837b57ce3faf37ce3506c2088c79a9583d21baae30ceb",
+        "eve_utils-0.5.7.tar.gz"
+      ],
+      "wheels": {
+        "eve_utils-0.5.7-py3-none-any.whl": [
+          "76f8b2416f696c02c57a1653e7b91efa046bc3a6c3ec8015f48af8b2719602da",
+          "py3"
+        ]
+      }
+    },
+    "0.5.8": {
+      "sdist": [
+        "b49c2a18608b184168ee2ceb801f544864103a6621f2789155aab970d83b5b95",
+        "eve_utils-0.5.8.tar.gz"
+      ],
+      "wheels": {
+        "eve_utils-0.5.8-py3-none-any.whl": [
+          "8406058708c6f4bb4ba56cd1290149e2b248a9db1455e881478a4cd32eec70fd",
+          "py3"
+        ]
+      }
+    },
+    "0.5.9": {
+      "sdist": [
+        "a67617c5ad73c7a00a4198c7d559fc2444805620c9d1811a0e64668b70fe2480",
+        "eve_utils-0.5.9.tar.gz"
+      ],
+      "wheels": {
+        "eve_utils-0.5.9-py3-none-any.whl": [
+          "3d4bac0d82563d98de25962143f0e1d6e7163f7d44abd279fa44a10c2afd9dce",
+          "py3"
+        ]
+      }
     }
   },
   "ex-package-jstox": {
@@ -24015,6 +24093,30 @@
         "d6fa2dd8e894a2020d8c0f60a9ad7ca9a07ea0b283afdf3fc1de73030a13b188",
         "flat-tree-0.0.1a5.tar.gz"
       ]
+    },
+    "0.0.1a6": {
+      "sdist": [
+        "a5ae026e6810832bd20173bcfc361de44224e96651a0516e7379d64e0e121a63",
+        "flat-tree-0.0.1a6.tar.gz"
+      ],
+      "wheels": {
+        "flat_tree-0.0.1a6-py3-none-any.whl": [
+          "dc2c8627d7dca44d49b22ffe648da87e38a0e0fffba289c1468c5a9cdd5a42c6",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a8": {
+      "sdist": [
+        "c6fe90ec5dcd5ac353c04440bbe8d19631258b04297a6464fbd7a425e2c9c80a",
+        "flat-tree-0.0.1a8.tar.gz"
+      ],
+      "wheels": {
+        "flat_tree-0.0.1a8-py3-none-any.whl": [
+          "03ecedf09f47a668f83e6a8c6b396045063323756baa604aeff2ff2a32245ee0",
+          "py3"
+        ]
+      }
     }
   },
   "floo": {
@@ -62100,140 +62202,6 @@
       "wheels": {
         "uc_logging-0.0.2-py3-none-any.whl": [
           "b19bd2494a946f3664c64548dba0f42ede4b06178594315bbb72b524f775f302",
-          "py3"
-        ]
-      }
-    }
-  },
-  "udp": {
-    "0.0.1": {
-      "sdist": [
-        "c46511f4ea4f2f5ed7e677206cd4930de597df5bf851a53418f059acbb06ec73",
-        "udp-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.0.1-py3-none-any.whl": [
-          "584f03a10cd67d80d5f077e9e7c90b1e62a7732cf2e5b888acc9eb9a9ed52c24",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "edfc2818c151ed564f4fdd63e1c1a079bd5ba486922a21e8357902540dc44b4a",
-        "udp-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.0.6-py3-none-any.whl": [
-          "f9468abcfb0483a0e1b4acc2487ec6ec133d926696243fb987007435de05fc3f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "1b34d065a742ff1a0aa4011b11ffb1350f98fe2acf8063126d50058359ebcf2c",
-        "udp-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.1.0-py3-none-any.whl": [
-          "0906a2fcd2cd5822679729d3789544541c331b3fdda4922e195ad09acde7b200",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "63a32af44369c3072afff2434e2d0ccca8baa61dcb870f5e3a669a8252bfbf9a",
-        "udp-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.1.1-py3-none-any.whl": [
-          "db5f24bde8c203f52aaab1d946e6b6979053da50456cb69d2e612de473bcbe22",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "5afea8adb0279d4929f3ab1a78c3a8e181610debf277ac17ce72e5acd1c02ee4",
-        "udp-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.1.2-py3-none-any.whl": [
-          "88ef798537c89d75020ae925ae4c8a2da2c8ea8306efc8bdf2e0a235eafd260a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "7b519445583ec4e42a1c50ebf376a165462386c3b8dd1c363fbaf11e48cb5ae6",
-        "udp-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.1.3-py3-none-any.whl": [
-          "97e9fc4f56af7b55064d2e14703ce369a89db7a1c58f939685199d954214a64a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "4611f6aad479868f92caa6fd2027295491b1eb06ed7c9003d5a1e18e1dfa4964",
-        "udp-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.1.4-py3-none-any.whl": [
-          "b891c4f541b0dc41206bc8ea6ca71eb9b14183ddc1d28b608d8a027ed40769b8",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "de938bce2d4f977d9c64dbc550da0f6a58066d4485dde2d45dc55c9f91c02b9c",
-        "udp-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.2.0-py3-none-any.whl": [
-          "92df1499fa46ca72a315e7b9199ee7695af412a51a4200b488d66c9afcffc988",
-          "py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "sdist": [
-        "e2c731e591530c9c13d85c548a9a507e37891e1cb1765dced20455ee869dda70",
-        "udp-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.2.1-py3-none-any.whl": [
-          "9f1b8bddb4c6d6bc806b88a3455f257fdfc4b4051a009d3be908d88705e6a0e8",
-          "py3"
-        ]
-      }
-    },
-    "0.2.2": {
-      "sdist": [
-        "34e0528353af93b500c472d60fb3de6b6fd0e3050812d3b2cba1b50287bd871e",
-        "udp-0.2.2.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.2.2-py3-none-any.whl": [
-          "a5f2edb1c20a08c84cff0f7f299cf73689dfb4a9ab27494b8bd4b69b02f6d454",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "sdist": [
-        "08212df939543f780c4f30072af5f37808c33602c3a096cf4f4a380ebde3b472",
-        "udp-0.2.5.tar.gz"
-      ],
-      "wheels": {
-        "udp-0.2.5-py3-none-any.whl": [
-          "0079d6aa495692cabb7e42dca59395183b4ca94dea4af748a5aedc08a49cfff4",
           "py3"
         ]
       }

@@ -3129,6 +3129,18 @@
           "py3"
         ]
       }
+    },
+    "1.50.0": {
+      "sdist": [
+        "e81bf692ae8c1f4441389365f293869062c17ca8da5485619efd5336b0ed5a2e",
+        "aws-cdk.aws-resourcegroups-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_resourcegroups-1.50.0-py3-none-any.whl": [
+          "6224f73d18dd93269b136cec96a0e429b01f669b578a0d42c4b6a34468dde539",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.custom-resources": {
@@ -3932,6 +3944,18 @@
       "wheels": {
         "aws_cdk.custom_resources-1.5.0-py3-none-any.whl": [
           "13c33b6279475b81e5d8136a3eff4cbb2aa294bfb5c7749111ec9c8a564c630b",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "42f8210fc55a0ca775533c245cae28bd3d8eb74b2f313bd0faffab88587cf828",
+        "aws-cdk.custom-resources-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.custom_resources-1.50.0-py3-none-any.whl": [
+          "de5efb7e94fdfa80f0c6d42124f90286ebd49fc83abdfdc1d16866d2ff0e6f84",
           "py3"
         ]
       }
@@ -5554,6 +5578,14 @@
       "sdist": [
         "5a2d7df171e6f2a24acb8c0701a8ebc3fac9c75c899e424b919b6c2ed966f5f2",
         "bgcache-0.1.tar.gz"
+      ]
+    }
+  },
+  "bin-gaussian": {
+    "1.0.1": {
+      "sdist": [
+        "86ba4acf8e1b96cb99977f8aa1dcca995322a43de2aaa622b47995b0077192ab",
+        "bin_gaussian-1.0.1.tar.gz"
       ]
     }
   },
@@ -19937,6 +19969,56 @@
       ]
     }
   },
+  "gax-google-logging-v2": {
+    "0.7.10": {
+      "sdist": [
+        "3ea250d042e1eceea33272ef8bfa12bac88d16d8722e4fb63c3b70f1c4855be8",
+        "gax-google-logging-v2-0.7.10.tar.gz"
+      ]
+    },
+    "0.7.11": {
+      "sdist": [
+        "962380069b34c9b9657d1db50a87a5e8b464e88ee87842bf4ce1c452c5957ef0",
+        "gax-google-logging-v2-0.7.11.tar.gz"
+      ]
+    },
+    "0.7.8": {
+      "sdist": [
+        "2d60b1029536c65688bf91ca347b21545f5d9b8f4274744ca5aceb29f8676c65",
+        "gax-google-logging-v2-0.7.8.tar.gz"
+      ]
+    },
+    "0.7.9": {
+      "sdist": [
+        "6c2aa1328d5605c92bf87a023f8aa834a9872b7c9e1cb1b6dcb1b01041ed8130",
+        "gax-google-logging-v2-0.7.9.tar.gz"
+      ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "881cf2dd26cbc1aa9c7a08dab6bddea4cf4f53172cb91a72faba8bce3c27bdd3",
+        "gax-google-logging-v2-0.8.0.tar.gz"
+      ]
+    },
+    "0.8.1": {
+      "sdist": [
+        "1d568346d88650efda0eb207da8f309d0b87e8ec9ef6b1a6df7c8bb2664bb853",
+        "gax-google-logging-v2-0.8.1.tar.gz"
+      ]
+    },
+    "0.8.2": {
+      "sdist": [
+        "f9734787e4d762fe3bcbdcd6ef96c304454e763990aba4b03b3d63443bf60d50",
+        "gax-google-logging-v2-0.8.2.tar.gz"
+      ]
+    },
+    "0.8.3": {
+      "sdist": [
+        "c36cbb93e070b3b535e9fffff6879efe447e525dff75b62eb4564def515e1a18",
+        "gax-google-logging-v2-0.8.3.tar.gz"
+      ]
+    }
+  },
   "gdal-pds": {
     "0.1": {
       "sdist": [
@@ -22722,6 +22804,30 @@
       "wheels": {
         "i6-0.0.2-py3-none-any.whl": [
           "63b6088782b6c3bf54fb3a9284a1a824861c7b33e086d55567aebef19f2f83e1",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "df0ec4db92b0585b887f6fb3a733adf4d6ed6281b45b5a85e952ecd5b4104402",
+        "i6-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "i6-0.0.3-py3-none-any.whl": [
+          "e204aef6684604e972a27a3ca4fedeff96e199ace7350d80e0aca670f7f33349",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "603ae6f1f8b7b29f2865ada62af6da75dc28fb5950bc25e2ca06d829fce6bdf7",
+        "i6-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "i6-0.0.4-py3-none-any.whl": [
+          "0a6d13f14278f4a0dd59fad6c39ed3a1d2ca492cd1da78bacf7e5fff4de22136",
           "py3"
         ]
       }
@@ -31812,6 +31918,18 @@
       "wheels": {
         "mypy_boto3_iot_jobs_data-1.14.17.0-py3-none-any.whl": [
           "ac6880fe228db6c5182572ecf44b8eca7f85f1fa376b7c31c4d74d0c3e355339",
+          "py3"
+        ]
+      }
+    },
+    "1.14.18.0": {
+      "sdist": [
+        "e55a8e0a01902e717cfef39d236cd6767c47f079e31f806d01e2a5c9c00b44bc",
+        "mypy-boto3-iot-jobs-data-1.14.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.14.18.0-py3-none-any.whl": [
+          "02f6335d6747daefb6373ddbf544c89dd5fa13145a9815b7ce342697bbf49d8c",
           "py3"
         ]
       }

@@ -6814,6 +6814,18 @@
         ]
       }
     },
+    "1.50.0": {
+      "sdist": [
+        "2cd68c5d7ade9b623ccc8cf4c82608d0bad91dc08dd7370c96b0b38aaa12c40d",
+        "aws-cdk.aws-dynamodb-global-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dynamodb_global-1.50.0-py3-none-any.whl": [
+          "6014e78215779bff67caf754ada86e0c90b3108cf8cde5efc4805efad208476a",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "f5303102e401e6b143e077928e19a0c079f404af4af76b25e00c1b9f7a337213",
@@ -43017,6 +43029,58 @@
           "cp38"
         ]
       }
+    },
+    "20.6": {
+      "wheels": {
+        "pyats.reporter-20.6-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "1ec4eddf27782c39205d57e857d26e16598db7e9f4b24a00d5b48bdbd16fd5e3",
+          "cp35"
+        ],
+        "pyats.reporter-20.6-cp35-cp35m-manylinux1_i686.whl": [
+          "98dfc35fd85dc072d83496a34604b371a65c157b410215ee89db0418ee8c62b3",
+          "cp35"
+        ],
+        "pyats.reporter-20.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "f011cddf92852d3536e517f1a18e6d475e7c8d349543470d93af071b6eaabd44",
+          "cp35"
+        ],
+        "pyats.reporter-20.6-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "351a2de5a073ded99965c094f43703846e99fbed8590e0c626c7edc5f4ad4325",
+          "cp36"
+        ],
+        "pyats.reporter-20.6-cp36-cp36m-manylinux1_i686.whl": [
+          "52640e7b243cb380fccc0ecfe6f6cf4846dede821aa9589bacbe3ded25264b55",
+          "cp36"
+        ],
+        "pyats.reporter-20.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7a64cedb3a3a923d8b2b6cababa3eec7601952bda3128a6828ef48f531d9d750",
+          "cp36"
+        ],
+        "pyats.reporter-20.6-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "0184a815282f60e8db1366924c8c81caaea29f3c1baec1533e83ebb5c944ed2a",
+          "cp37"
+        ],
+        "pyats.reporter-20.6-cp37-cp37m-manylinux1_i686.whl": [
+          "d5764f03ddf24aa2bc1ef016aea520c754225dd0f318104a6511faaca5946c99",
+          "cp37"
+        ],
+        "pyats.reporter-20.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b39c6e887a09265aff3095cf5b4c80ad581304f2ae18fff291a6553a79c34e46",
+          "cp37"
+        ],
+        "pyats.reporter-20.6-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "a9cee39cbdbfcc138252b7f092bea6cffb236fd88e758749aed28020c3e61c4d",
+          "cp38"
+        ],
+        "pyats.reporter-20.6-cp38-cp38-manylinux1_i686.whl": [
+          "532f98997be20c38a117d09b79da2be0ae3a7f8c23c881200edf801a89a5c5ff",
+          "cp38"
+        ],
+        "pyats.reporter-20.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "0ccd774922ad630c2b2ccbdb8f65350a8572bc490b914e054847592c92a5134f",
+          "cp38"
+        ]
+      }
     }
   },
   "pycnet": {
@@ -50826,6 +50890,14 @@
         ]
       }
     },
+    "1.11.5": {
+      "wheels": {
+        "shuup-1.11.5-py2.py3-none-any.whl": [
+          "25d721931e54365b8b7ad6b28a5b53cecbed4a74bd498b7e44c2d31d42599253",
+          "py2.py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "6aa1b2e38e24da67ebdf75aff0ff78906f902af73796b4980a067abdafc780a5",
@@ -58630,6 +58702,26 @@
         ],
         "virtru_sdk-2.1.2a189-cp38-cp38-win_amd64.whl": [
           "8dc209345382d722bb583715098bbe9427c831c6e514f356fbc5bae30561381d",
+          "cp38"
+        ]
+      }
+    },
+    "2.1.2a191": {
+      "wheels": {
+        "virtru_sdk-2.1.2a191-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "f0f5c582b48552458351a38594904342b906706a8a207c3dcb3eb51e89f76c1a",
+          "cp37"
+        ],
+        "virtru_sdk-2.1.2a191-cp37-cp37m-win_amd64.whl": [
+          "9d306144a83fd6c3eb034499edc162acc68eb87073f9c9f6f18125bcda67c152",
+          "cp37"
+        ],
+        "virtru_sdk-2.1.2a191-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "7fda005b68f4a67814396b4ca7577c59f44f7b6615ac73a9489a0990e98d7fd2",
+          "cp38"
+        ],
+        "virtru_sdk-2.1.2a191-cp38-cp38-win_amd64.whl": [
+          "4bb98aa508d1dfccb7ffce7454835ea8eea8b6675d704ef57adbe9ca58a07add",
           "cp38"
         ]
       }

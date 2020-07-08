@@ -3114,6 +3114,18 @@
         ]
       }
     },
+    "1.50.0": {
+      "sdist": [
+        "2ab632641dc64cb9dd7936159226e6386e36537069fca8fd148c69f644962364",
+        "aws-cdk.aws-dms-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.50.0-py3-none-any.whl": [
+          "b0a797a391d466f3ad5d44f8fc29a6720cb536e976b2da0ab4454487ca3b64e7",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "11616161e95fe85fd14c66bd0d6a9b17824746d5d2d99bbc0908853809485ee7",
@@ -5592,6 +5604,14 @@
       "wheels": {
         "c7n_azure-0.7.2-py3-none-any.whl": [
           "b5168ddd0a3214f0238b2af8fa1c813109fe658ccee6a8d2ef5fef1ade094e62",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3": {
+      "wheels": {
+        "c7n_azure-0.7.3-py3-none-any.whl": [
+          "5e902c4a705bea8d753e8f9c49a567f0da4f4493061059289564bf3f556c7cb2",
           "py3"
         ]
       }
@@ -16821,6 +16841,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1a6936aeb11252c31c05ba34a4d2831f9b72fe26ae2f88acad5d8b4c58d0eb9c",
+        "ftpvl-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "ftpvl-0.1.2-py2.py3-none-any.whl": [
+          "d1059c94fe8a5c535fcd1b732403f8951a95e686f6df8fdaa6386bd2bdaecb14",
+          "py2.py3"
+        ]
+      }
     }
   },
   "func2pipe": {
@@ -19512,6 +19544,12 @@
       "sdist": [
         "2d6fd47773ddbe2f14b36393718298fed367c136d7b4fb3c037fbf8c39e26468",
         "imnet-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "cc8c377ae18bcab835b112d76b134f690e39e755fe1d0485769e257c4b5a10e6",
+        "imnet-0.2.1.tar.gz"
       ]
     }
   },
@@ -30320,6 +30358,18 @@
         ]
       }
     },
+    "1.14.18.0": {
+      "sdist": [
+        "a5ace2b2fccb079f3ea598d80f23f730087e6d3d397c404e4d965711232371ed",
+        "mypy-boto3-comprehend-1.14.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.14.18.0-py3-none-any.whl": [
+          "73269a8f252428e2c2faece9641d3d480b03460897d833dc1c3a0d291cb3e0da",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "2d03b9741db2805342a2ed5959ddd8c47162832fbcaf6d540ae31d9a49451726",
@@ -35139,6 +35189,12 @@
         "d768ca0085424a49b804213c34233657f4a969efdb9fd78c66c70a23ad89cd01",
         "picoweb-1.8.1.tar.gz"
       ]
+    },
+    "1.8.2": {
+      "sdist": [
+        "fa948b773eef81ff1f97900facf34f59e6a5edabf5d3abb83897c7b3c7cd8758",
+        "picoweb-1.8.2.tar.gz"
+      ]
     }
   },
   "pims": {
@@ -38764,6 +38820,58 @@
         ],
         "pyats.easypy-20.5-cp38-cp38-manylinux1_x86_64.whl": [
           "9a012075374958c989c12b72849b93caef0f15fc02b397a36ced3bef6f649a30",
+          "cp38"
+        ]
+      }
+    },
+    "20.6": {
+      "wheels": {
+        "pyats.easypy-20.6-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "94186ad2d631a1f635922ec794a8a831d936968a448f45035a54e9b43a013929",
+          "cp35"
+        ],
+        "pyats.easypy-20.6-cp35-cp35m-manylinux1_i686.whl": [
+          "f9dd867fb915c6131dd282c42a854377825d4b430bc9e5b8904878906cdfaecb",
+          "cp35"
+        ],
+        "pyats.easypy-20.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "fe51c93c2a0df78069d68fd15904774c32b937cf60b6e7843dd81eb318633dff",
+          "cp35"
+        ],
+        "pyats.easypy-20.6-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "be3c689c695b026dd8a4adce445988c8d4f6472b7d795b1603bc14e4e3382a6c",
+          "cp36"
+        ],
+        "pyats.easypy-20.6-cp36-cp36m-manylinux1_i686.whl": [
+          "43999d1acd45a17a47c817085ece8f706f4d308549fb8af9e87077e6099d70ad",
+          "cp36"
+        ],
+        "pyats.easypy-20.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fd138a8918f49847870c0de3a2901aeb051cbf8fc8f2d321e1d0093441e1eb92",
+          "cp36"
+        ],
+        "pyats.easypy-20.6-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "464bf0054a4740492dd8c961b62f5b074c3c95480dc1cd9701fe476f3a1065f5",
+          "cp37"
+        ],
+        "pyats.easypy-20.6-cp37-cp37m-manylinux1_i686.whl": [
+          "cba92ccaeace39028ae3109d915f79c4d708ec9d581eb979931be19103f53802",
+          "cp37"
+        ],
+        "pyats.easypy-20.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b92175439de76010f413bfab7118146b1e88faeaba5018594a7cd4d2beaaf775",
+          "cp37"
+        ],
+        "pyats.easypy-20.6-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "a09d6edd9bd972e509541f149c4f37b618f566228203bc96e4edf7fd7828ff47",
+          "cp38"
+        ],
+        "pyats.easypy-20.6-cp38-cp38-manylinux1_i686.whl": [
+          "48021e3da05d4a63232731f1250b4d9906029958463ca7ef55887ac05cd4c65a",
+          "cp38"
+        ],
+        "pyats.easypy-20.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "eac0101c4980d27bc995929d476863fbda2a73d3ca4c1df2cadba7f3a80541b3",
           "cp38"
         ]
       }
@@ -45642,6 +45750,18 @@
       "wheels": {
         "ranking_metrics_torch-0.2.0-py3-none-any.whl": [
           "a1a1e7d91b21374214422cb427da63f7838b430e6d9b0e25602d385c882d7a64",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "5a4139ff1870f5b4bde55b020abf7c9606dc07a45248d2eb02b21fd228507201",
+        "ranking-metrics-torch-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "ranking_metrics_torch-0.2.1-py3-none-any.whl": [
+          "32797ce9fb6cae5bed7294552bfede6b3393140da15823335f7ad28f84e254ad",
           "py3"
         ]
       }

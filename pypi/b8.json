@@ -10349,6 +10349,12 @@
         "8aa2b50cf9c8bcd5a0561a939569fc165696e40c49fbb7760353546d711269d5",
         "ctpfrec-0.1.7.tar.gz"
       ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "0b2f33428d38cc945ac2864639c50f0dd06f5702b96639dc9de75cb0585d0b6c",
+        "ctpfrec-0.1.8.tar.gz"
+      ]
     }
   },
   "cubicweb-conference": {
@@ -32246,6 +32252,18 @@
         ]
       }
     },
+    "1.14.18.0": {
+      "sdist": [
+        "17ec7f68db0e21670ef406026256456029a0e58c10efecd1129760bb10b8e17c",
+        "mypy-boto3-personalize-1.14.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize-1.14.18.0-py3-none-any.whl": [
+          "74d33ce48127bbd402a0c8fca332ca4a70a71b35de75c4c18bc54def4d75eca3",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "998fcee35107586bee2ec21490fbf36f4ca4ba748adf62d33acdc38c62bb02ce",
@@ -37709,6 +37727,22 @@
           "py3"
         ]
       }
+    },
+    "0.9.7a0": {
+      "wheels": {
+        "pairinteraction-0.9.7a0-py3-none-macosx_10_12_x86_64.whl": [
+          "9cc336c9aa6c7bf025481d7686ede181c17790f8d2db42a6ee6d5aac8d4f1e6a",
+          "py3"
+        ],
+        "pairinteraction-0.9.7a0-py3-none-manylinux2010_x86_64.whl": [
+          "d6ccf4e8b186f13b452bf4b697342fe862b54335ea4f92a2a96a5b55716a394a",
+          "py3"
+        ],
+        "pairinteraction-0.9.7a0-py3-none-win_amd64.whl": [
+          "3c7d3024f96efba259a98b4d9b8dc4812fc42c343a220aab6589bb6cc42cfd68",
+          "py3"
+        ]
+      }
     }
   },
   "pandoc-shortcaption": {
@@ -41064,6 +41098,58 @@
         ],
         "pyats-20.5-cp38-cp38-manylinux1_x86_64.whl": [
           "f82a481d887e6dcc82b310f29c4b16f3861017cf8be4e3d6bce5b3d34f9afd8f",
+          "cp38"
+        ]
+      }
+    },
+    "20.6": {
+      "wheels": {
+        "pyats-20.6-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "44e977fa5f72eb76f17d78ea08f7afb444efaaaf76ed6310aac58e1e2c064639",
+          "cp35"
+        ],
+        "pyats-20.6-cp35-cp35m-manylinux1_i686.whl": [
+          "f64b7c0574d396901c44047ee727f684679fc3a76de20df5f6cbdab5423ef64d",
+          "cp35"
+        ],
+        "pyats-20.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "680e6ab48f8d3245e639a20dba356bf5931a96bd2ccf3f79d83de279f64cf4c7",
+          "cp35"
+        ],
+        "pyats-20.6-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "2a9512eeebe9026032bb2afabc1c06649b3ea50e0d75503ad797560ec6890895",
+          "cp36"
+        ],
+        "pyats-20.6-cp36-cp36m-manylinux1_i686.whl": [
+          "33cc038ecba15e77e1c59032a5c24ab0b9986719d56e701a873c22b365d0bb80",
+          "cp36"
+        ],
+        "pyats-20.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "96a06ef5f033c5a4707dce5367174537a5a5fd2851ebe8d3bd69903552ad4b50",
+          "cp36"
+        ],
+        "pyats-20.6-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "95b446e042c4817d629dc7dadbbcb96713121991291b7f2acfe5b8c1340b490d",
+          "cp37"
+        ],
+        "pyats-20.6-cp37-cp37m-manylinux1_i686.whl": [
+          "3af8b90076c32c0902e6b05a15fd2baeacb5f810bc25ce574e56dbf94cb572ae",
+          "cp37"
+        ],
+        "pyats-20.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7a043634ed7cd8eb4bd3217e0d4cd8fb8796ff57f6ebd231882e9ffb93c1f342",
+          "cp37"
+        ],
+        "pyats-20.6-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "0f22ace11c7c745c29923d0f6c6b57a627f2ed7b1c4f939fd1e50f1b4a3857d9",
+          "cp38"
+        ],
+        "pyats-20.6-cp38-cp38-manylinux1_i686.whl": [
+          "51142800460543c88e06f15b824a1b29601e07a8f5f4e932ff0c42e8889c09f8",
+          "cp38"
+        ],
+        "pyats-20.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "ec13aa43b7982c9a7cafa79ab3cbdda083b5ef3dd6000f5db36d6808485d3368",
           "cp38"
         ]
       }
@@ -44994,6 +45080,30 @@
       "wheels": {
         "pysplitter-0.0.15-py3-none-any.whl": [
           "35281e054135288f58fc39c40097294cef916ba87f6357b9accaf21b9a835639",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "bbc4bed7a95bc88821cf062ebbc0549a28951efcb854c74cf32aa94a86e891b1",
+        "pysplitter-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "pysplitter-0.0.16-py3-none-any.whl": [
+          "cad2b0fee7da15de944d656707e7bf1dfa50a3018b0a534d5fdde182f13a94f5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.17": {
+      "sdist": [
+        "6d43d22994934b0273ef85417a656c18758276bcf7375cbb199ff6778dc7c9e4",
+        "pysplitter-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "pysplitter-0.0.17-py3-none-any.whl": [
+          "554d2b9c5d0193f36811d68609f64ead67a16210a77c1e5188055e0e2c971346",
           "py3"
         ]
       }
@@ -53073,6 +53183,20 @@
         "bedc53e681c16fa4ac830d04977827838a4027e8613e2b73a24b2d2a5d6de1de",
         "these-1.tar.gz"
       ]
+    }
+  },
+  "thonny-codegrinder-plugin": {
+    "2.5.0.dev1": {
+      "sdist": [
+        "82836f75b4a95ca5f6064821d5acaeeefbbcfcf353ee6afdf20f31457dd67fac",
+        "thonny-codegrinder-plugin-2.5.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "thonny_codegrinder_plugin-2.5.0.dev1-py3-none-any.whl": [
+          "96d3eb686a824e8b69d717553c5310f42b6218bce764f1dffe678ecb5a10b893",
+          "py3"
+        ]
+      }
     }
   },
   "threaddownloader2608": {
