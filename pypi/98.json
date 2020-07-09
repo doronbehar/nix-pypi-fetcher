@@ -31573,6 +31573,48 @@
       ]
     }
   },
+  "faiss-cpu-noavx2": {
+    "1.6.3": {
+      "sdist": [
+        "eefcaa735eb916b354a20b2b29c23d7cc22563e0da8d4c45fb63a9086b19f6d0",
+        "faiss-cpu-noavx2-1.6.3.tar.gz"
+      ],
+      "wheels": {
+        "faiss_cpu_noavx2-1.6.3-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "3950d3cd80de15bd577cb8beb4dd9320f3b71663633f251cccc0f051c92bf33c",
+          "cp35"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d493c8e21344d4dde97d59ca6dc4ea29870550cbeec74e2d381456c05b25b8d9",
+          "cp35"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "650302c2411c5eeeb8b49c03b9c7a15694e218bff2243e0f550c2fc9dd1dc8e4",
+          "cp36"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7a296acb7ad91c15375dde7c620437b9432256c0950cda56fe72f580fa0cf27d",
+          "cp36"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "f1d63ffaf6ca3621b30c6f96dd67fd56a25a0d509baa6748959aaa13c1fa2d31",
+          "cp37"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "721d4a17073d1e554fa2312928343734f249698f6e2522b77aab8c4c46af412e",
+          "cp37"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "364ecb109464add44f3a2f3c3fb0b92589a40218a853cc121268eadc7a7669d0",
+          "cp38"
+        ],
+        "faiss_cpu_noavx2-1.6.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c5041512d32cb07e4937f1a991548c57ccde78fdb88f9ae7b55a7200f1d16740",
+          "cp38"
+        ]
+      }
+    }
+  },
   "faudmutils": {
     "0.1.0": {
       "sdist": [
@@ -32072,6 +32114,18 @@
     }
   },
   "flask-restful-dbbase": {
+    "0.1.10": {
+      "sdist": [
+        "e0b1198c98978d546acf4570683d1ca57d7748b11ab002163df6323411a8f676",
+        "Flask-RESTful-DBBase-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "Flask_RESTful_DBBase-0.1.10-py3-none-any.whl": [
+          "43e903cad78229aa97250d5f0e90416884b12560533760c64fe182a9cb3f6ed4",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "sdist": [
         "71f442244f5407f5cdb115eb6a3faf366c0b9bc6df6268344adddcbf79fd4ec0",
@@ -47086,6 +47140,18 @@
         ]
       }
     },
+    "1.14.19.0": {
+      "sdist": [
+        "bf4bb42e75035cfe026b0948019cc0759835d4ac443cd7d53d9e1c1ef30130f6",
+        "mypy-boto3-apigateway-1.14.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_apigateway-1.14.19.0-py3-none-any.whl": [
+          "5c6cb2a716f0246810ac3dae1d55747d0a5f2d666f6cafb2a412d34bf17d3509",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "06bb65051a61c5ad61b39e1d2b6f53aaa7aac75d74ab89574a3f55aa3e1ce176",
@@ -48512,6 +48578,18 @@
       "wheels": {
         "mypy_boto3_pinpoint-1.14.18.0-py3-none-any.whl": [
           "327fc4ba3f19776edb66fde562f2bdbfae620f041ade52be01af32f3ba5dedde",
+          "py3"
+        ]
+      }
+    },
+    "1.14.19.0": {
+      "sdist": [
+        "d73a369317d7e736ba6565d185f0f303e8b6a6da33fca692f184fe9ba6ba645d",
+        "mypy-boto3-pinpoint-1.14.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint-1.14.19.0-py3-none-any.whl": [
+          "96afc45e9c72714c43794d5afaf7a6b444a245ea236c7627d8a1b2b035f03200",
           "py3"
         ]
       }
@@ -60542,6 +60620,18 @@
       "wheels": {
         "pulp_deb_client-2.5.0b1.dev1594144407-py3-none-any.whl": [
           "61c75dbd68f714b54f9f278838467219908f787b8c44aa5025bae2ed7c816fda",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0b1.dev1594231190": {
+      "sdist": [
+        "1b103dc178cc6741697226d5ac02a0ebcbc788142692a9acaef10306af4a7589",
+        "pulp_deb-client-2.5.0b1.dev1594231190.tar.gz"
+      ],
+      "wheels": {
+        "pulp_deb_client-2.5.0b1.dev1594231190-py3-none-any.whl": [
+          "e08d210440679d59d965a10cb985a9c812da094ce8d48bcbed695780cf238317",
           "py3"
         ]
       }

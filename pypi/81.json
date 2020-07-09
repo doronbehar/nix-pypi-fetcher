@@ -2075,6 +2075,18 @@
           "py2.py3"
         ]
       }
+    },
+    "8.0.5": {
+      "sdist": [
+        "0942ca5feff0b95b96a79ba93a70042daf9304015f15f489801709173796c486",
+        "aioboto3-8.0.5.tar.gz"
+      ],
+      "wheels": {
+        "aioboto3-8.0.5-py2.py3-none-any.whl": [
+          "909e01ad05c43c0fc5c0d3e1e1f795377c2d0091bc37d969bf2cbc46ee4545ba",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aiohug": {
@@ -8797,53 +8809,73 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "ad1d8c9dfcb77c6805afc5392582f4015a45801bd6395abe33187a477736491c",
+        "ceja-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ceja-0.2.0-py3-none-any.whl": [
+          "b008263c2e692a40a3884f864055b2a74d4295f20045969bd2416ade275fe56a",
+          "py3"
+        ]
+      }
     }
   },
   "celerite2": {
-    "0.0.1.dev0": {
+    "0.0.1.dev1": {
       "sdist": [
-        "aee1691891345057f417b61c676db174b28c482d20a47b4639ca370d0d976db7",
-        "celerite2-0.0.1.dev0.tar.gz"
+        "628573c2b3802581e0b5f12f4ca411581f6041a6123fc51b0c8c306ce0a42bdd",
+        "celerite2-0.0.1.dev1.tar.gz"
       ],
       "wheels": {
-        "celerite2-0.0.1.dev0-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "eeb72659a9be0deec493b3d7fc0860ebe6d81ae3f7d70ad6c4ac2045d55c405f",
+        "celerite2-0.0.1.dev1-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "bd564646a8b635310721866afce7c6f3ceb4810d10d6c92400adff62446deae4",
           "cp35"
         ],
-        "celerite2-0.0.1.dev0-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "8b85f4cf8f762e7ba3116ea3d206895be99f9bfbf6e429ac36c1fd5404559387",
+        "celerite2-0.0.1.dev1-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "79e93f0e028e95010263188f32c8dd69562ea5ef84e132ec334c3444fb1964d2",
           "cp35"
         ],
-        "celerite2-0.0.1.dev0-cp35-cp35m-win_amd64.whl": [
-          "8068a930a05730f5b7f0f7aa8d1f68aeb840669e432c9bbba9ea1db2a653c44b",
+        "celerite2-0.0.1.dev1-cp35-cp35m-win_amd64.whl": [
+          "238809d92381fbb0dd76607b395dfe182712ed137d4bce766e850cfd09f01229",
           "cp35"
         ],
-        "celerite2-0.0.1.dev0-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "d6608619be44c20f0ed930240855bdcf1dbe91c805997afd291e1eec7d6cedcc",
+        "celerite2-0.0.1.dev1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "f830b7ffdd1ed8b5438039ef093b1a9c4666d0a63a3ca24cae0d98d5af7fedf0",
           "cp36"
         ],
-        "celerite2-0.0.1.dev0-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "8644121aa9579d727c95b91c5405c080df386fc6d3a74bda6f2a8824dade370d",
+        "celerite2-0.0.1.dev1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "1a2ec1aa69a503607a2160a8449ccf671393e980a4b8910313e576a9b8b34fd0",
           "cp36"
         ],
-        "celerite2-0.0.1.dev0-cp36-cp36m-win_amd64.whl": [
-          "eb0bf6acd7b91f3f424a7b8ec07ecf3bc1982bb47195089289b912ae1278b171",
+        "celerite2-0.0.1.dev1-cp36-cp36m-win_amd64.whl": [
+          "48708f69d385d6f85c0056f93b93a56c02840c4919ce4ae728dedcc84635fc6e",
           "cp36"
         ],
-        "celerite2-0.0.1.dev0-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "cb32e1e02c4a9bbcd583eb1dcbf57557e6f959aa66df2017e176dc7dc0f5a576",
+        "celerite2-0.0.1.dev1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "48ccc2410d1f9785cefc8d751da56f3727711302deb7ae75ebfbd616aae67b11",
           "cp37"
         ],
-        "celerite2-0.0.1.dev0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "5d5d836c05d5573f36a44347e3ae7a83162c44dadd8ee1254325009f583f3662",
+        "celerite2-0.0.1.dev1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "d9d311322fe9663078bb1f2ebd21fb1e0485d34b54ff921cbc1fee9b182cb67a",
           "cp37"
         ],
-        "celerite2-0.0.1.dev0-cp37-cp37m-win_amd64.whl": [
-          "bbe8350e7b0be9da6b6af8ff7e59a9b44af7e657ac9fa20a0c7f9bca913d2a4e",
+        "celerite2-0.0.1.dev1-cp37-cp37m-win_amd64.whl": [
+          "d56e781298449b4356d8f6e0ee8ada45f2f68f91ceac5be4a01fe41b1cd42a5f",
           "cp37"
         ],
-        "celerite2-0.0.1.dev0-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "56cc5571ab125685be34c4c9a84ee5512b2f6852775a3c3494aa07bfd75ca72a",
+        "celerite2-0.0.1.dev1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "df26bb3e2ec09d08ba6313cf2428622f0c71c48ae5c14c819c40028191eb9d70",
+          "cp38"
+        ],
+        "celerite2-0.0.1.dev1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "4752f9cc34e7215fa66c8ffbd3b2c69e77431e62a1ad5870f5f07eb23911e126",
+          "cp38"
+        ],
+        "celerite2-0.0.1.dev1-cp38-cp38-win_amd64.whl": [
+          "e482b93bf512a5c286a9c25188ec182df6c998068ace2069df813e1a0260d899",
           "cp38"
         ]
       }
@@ -9040,6 +9072,46 @@
         ],
         "charm_gems-0.4-cp38-cp38-win_amd64.whl": [
           "787b2afe82ce3f9af47b77679ff0558bf82d04afe35e56a5cb20cde2cc12e5c3",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.1": {
+      "wheels": {
+        "charm_gems-0.5.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "323e2ae84f31f3b72e143efc2f9cb63104fb68f5b62df766ed462fbe6b9cd01d",
+          "cp36"
+        ],
+        "charm_gems-0.5.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "f59a7f27e9a80b2ba19c97d800e020d13a7ed0503a816a7a2fb67eeca48f1a18",
+          "cp36"
+        ],
+        "charm_gems-0.5.1-cp36-cp36m-win_amd64.whl": [
+          "3db979585b79ee213300deb8b7aabcaa698f2bb5a2422fb6f6d2d7bbda462b34",
+          "cp36"
+        ],
+        "charm_gems-0.5.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2b9ce0f24a864a0e775ada2b351e6f882af1219510f17f3598c6510e25e1e1ea",
+          "cp37"
+        ],
+        "charm_gems-0.5.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "0e8af9395120ef488b904494b2438d894b1664b15b9ea6c5e0aa2573e06ec0e5",
+          "cp37"
+        ],
+        "charm_gems-0.5.1-cp37-cp37m-win_amd64.whl": [
+          "2559daff19bee1afdd747680fba68fdc792ebf8b4e4b44d62cf474af2c2e241e",
+          "cp37"
+        ],
+        "charm_gems-0.5.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "c825f01eb8d47c93416ba3112cc5c9667fdfeba022f9943aaf91a29040228852",
+          "cp38"
+        ],
+        "charm_gems-0.5.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3b30bf69730ed49b5d40f002b18328eb0821ca8066a36203bd53015c6f26b947",
+          "cp38"
+        ],
+        "charm_gems-0.5.1-cp38-cp38-win_amd64.whl": [
+          "ca83abb32ccc5e96a4ba4f192671ab50f67cd4d35b348da050c5b2cca93f52f7",
           "cp38"
         ]
       }
@@ -28178,6 +28250,12 @@
       "sdist": [
         "831706a9090aece9817760e942808b4db011f77929a4990760a8783ad5585bef",
         "hoss-1.0.14.tar.gz"
+      ]
+    },
+    "1.0.15": {
+      "sdist": [
+        "e82bded9b8895937d07084472c4fdd8fff99fed55cbd91828dc4b4cd90fe2b9f",
+        "hoss-1.0.15.tar.gz"
       ]
     },
     "1.0.2": {
@@ -49855,6 +49933,44 @@
       }
     }
   },
+  "pyliblzfse": {
+    "0.4.0": {
+      "sdist": [
+        "31b0136239c8968fe10c794a5ddd90f318bbbc659d769ee53cdd2525abeb6fd4",
+        "pyliblzfse-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "pyliblzfse-0.4.0-cp36-cp36m-macosx_10_6_intel.whl": [
+          "ffb17efb71d7b7c14b1ea986d6097b112b7c23990c2f30dc761fb05d7b8e90c2",
+          "cp36"
+        ],
+        "pyliblzfse-0.4.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ab10061682d29164019d703b7043636abaeaf5e0b98186faf0982f630744ba0c",
+          "cp37"
+        ],
+        "pyliblzfse-0.4.0-cp37-cp37m-win32.whl": [
+          "b9400b183e07e507b31799f33617f3bb7056bf07ff4f634a4ed9a4bcbef82aba",
+          "cp37"
+        ],
+        "pyliblzfse-0.4.0-cp37-cp37m-win_amd64.whl": [
+          "a73dc0285739d1aad03c07afd66e25281026dd18737502202bf2ca542551de53",
+          "cp37"
+        ],
+        "pyliblzfse-0.4.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1ce4dccce8d4ff181ce14fd5bf132afc0c67c022877679583904b4bc96703f7f",
+          "cp38"
+        ],
+        "pyliblzfse-0.4.0-cp38-cp38-win32.whl": [
+          "8dc8092099994b004865bdadaf3206afd6e2bcc19e1ff8a0ae71ef9379227c9a",
+          "cp38"
+        ],
+        "pyliblzfse-0.4.0-cp38-cp38-win_amd64.whl": [
+          "4b7434ae5e5494c8e283dd0eae42e1062603d5c24d5ffe9b26fadb1564679e62",
+          "cp38"
+        ]
+      }
+    }
+  },
   "pylibrary": {
     "0.1.13316": {
       "sdist": [
@@ -58976,6 +59092,18 @@
       "wheels": {
         "smtpapi-0.4.3-py3-none-any.whl": [
           "c1d408941049a37eeb32750385c136b1ca82f15ba02b13f645d7a91e17735600",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "643319d791448b9b2120a2578f383cc3170a314d399ccb173346e43a00b274bc",
+        "smtpapi-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "smtpapi-0.4.4-py3-none-any.whl": [
+          "9675916dce4b82cfdd1af5643848d1b6c0de37397758ad4493d891fc99077e65",
           "py3"
         ]
       }

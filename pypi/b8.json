@@ -5176,6 +5176,18 @@
         ]
       }
     },
+    "12.4.0b1": {
+      "sdist": [
+        "4bf5b08bc0a02dfed74e86b40415e8445ee8b4a5e59331c1242c6bac6e3933c0",
+        "azure-storage-blob-12.4.0b1.zip"
+      ],
+      "wheels": {
+        "azure_storage_blob-12.4.0b1-py2.py3-none-any.whl": [
+          "2690fdc86ed844a0c2d3a9646fb6de47f6fa2176357f0a5090886507f8724bfc",
+          "py2.py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "065db876259366853af55968de2ca0fec036e0c6a56ce204516a16ab3082d183",
@@ -10355,6 +10367,12 @@
         "0b2f33428d38cc945ac2864639c50f0dd06f5702b96639dc9de75cb0585d0b6c",
         "ctpfrec-0.1.8.tar.gz"
       ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "32be0cd0de30e40010da253082ae5d464f7e0f6762a51aa604302b29f0b65be9",
+        "ctpfrec-0.1.9.tar.gz"
+      ]
     }
   },
   "cubicweb-conference": {
@@ -11571,6 +11589,32 @@
       }
     }
   },
+  "deepspectrum": {
+    "0.6.7a1": {
+      "sdist": [
+        "dfd766e68f5aaac8247d09d74b1e6d5d5c6200d6bd39e05415ed52e1d9caf75e",
+        "DeepSpectrum-0.6.7a1.tar.gz"
+      ],
+      "wheels": {
+        "DeepSpectrum-0.6.7a1-py3-none-any.whl": [
+          "c7b665083f2d8c8d5cdf1cb6cbc726f2a7d9ed0e3b55f5655567624efab444dd",
+          "py3"
+        ]
+      }
+    },
+    "0.6.7a2": {
+      "sdist": [
+        "99469eca7e04ba01536df9f3c0fd5df8c6a7e0c8665914856000b4c21bb0a974",
+        "DeepSpectrum-0.6.7a2.tar.gz"
+      ],
+      "wheels": {
+        "DeepSpectrum-0.6.7a2-py3-none-any.whl": [
+          "9357e56fc91cf716fd7e2412f1b781f544de0039faf791c1bd92071a1ef005ce",
+          "py3"
+        ]
+      }
+    }
+  },
   "detect-duplicate": {
     "1.1.1": {
       "sdist": [
@@ -11680,6 +11724,18 @@
       "sdist": [
         "822983dffcc40b3d5963c18ec9fd99f82d62e2cc720a1b8d883f08c388148b1a",
         "devsnets-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "2ca51c1afaa25bf7a40446152a141564a75c944e50dc58f4e0c02fa825d21d88",
+        "devsnets-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "7b6beb68527b952de01be7edbea25fe6cd2f4899ef8531967201dea9c7015f34",
+        "devsnets-1.0.2.tar.gz"
       ]
     }
   },
@@ -15566,6 +15622,162 @@
       "wheels": {
         "equities-1.3.1-py3-none-any.whl": [
           "01d4d8674d350f13484365df7d56b5727bcb27edaedb5316f336ae0163ae16f9",
+          "py3"
+        ]
+      }
+    },
+    "1.3.10": {
+      "sdist": [
+        "a61f19318878a1bbb03f4eb27e4edaef954f89dba1bd4bc472c7e858d9b90fc7",
+        "equities-1.3.10.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.10-py3-none-any.whl": [
+          "11cc676c050136d86502893ac25a30cd41ff0aa6f98c6b8097a2dfa02c24b029",
+          "py3"
+        ]
+      }
+    },
+    "1.3.11": {
+      "sdist": [
+        "84151f7451513dc4fbb50e0523259d4fb2032364bfe971bd291ea9c9d02bed56",
+        "equities-1.3.11.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.11-py3-none-any.whl": [
+          "89ae4df6e2d337ff1293949263da5d218cf4f608eb9c1b7fae179abba74d8832",
+          "py3"
+        ]
+      }
+    },
+    "1.3.12": {
+      "sdist": [
+        "db355583135a17d8ade770f682479958d32c9446217e6a3bd669597b922b3c85",
+        "equities-1.3.12.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.12-py3-none-any.whl": [
+          "04c249abbd5a0176e3f6e94db5b2f47a9b117c0b69c527365092de501d7a4925",
+          "py3"
+        ]
+      }
+    },
+    "1.3.13": {
+      "sdist": [
+        "f53ffe2abdfe2f6f1cea47638ae629fd1007f571c37bd206918b538b10b648f9",
+        "equities-1.3.13.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.13-py3-none-any.whl": [
+          "f22a635e118dfaf48e1b5cc28ae4ffa073fabcc58ed8f06cef99663f451899a5",
+          "py3"
+        ]
+      }
+    },
+    "1.3.14": {
+      "sdist": [
+        "2776cb80d95264b3c6da909042367be394cdadd393c9442ac12801952ccd728e",
+        "equities-1.3.14.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.14-py3-none-any.whl": [
+          "1010090df23c0bd6f6fa4d0fdec9ed5df4ecff36d0c1fc0d1f79bd6cd6c942b3",
+          "py3"
+        ]
+      }
+    },
+    "1.3.15": {
+      "sdist": [
+        "51bfe1a0ac8c4df22dbd7c886938279bc5fa1374702016f572af90aeaccacd6d",
+        "equities-1.3.15.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.15-py3-none-any.whl": [
+          "746d70d803691bc9784d61caf86145e29a14ad2ebbe525323f8e378fb5316ce5",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "3b7ecbca410711f60f4c7b5d64a5f85c0ba5334027bde1fe41b203367416bd1a",
+        "equities-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.3-py3-none-any.whl": [
+          "340fad6c2b5201133c95ee9e0ddc4ce4c5dfcc9969857dfcca6667c920a23c16",
+          "py3"
+        ]
+      }
+    },
+    "1.3.4": {
+      "sdist": [
+        "c5463058191e9ec621c6a495f9640f6af9b0b166d27a80759ebbfde836ae96b1",
+        "equities-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.4-py3-none-any.whl": [
+          "124001bfe040552abee370de0af90713fafc16d6407e81b45b3d48a214773855",
+          "py3"
+        ]
+      }
+    },
+    "1.3.5": {
+      "sdist": [
+        "597aca0ac891e5cd9a1146b4cf09025a2eed515798f96048a587e260ee1e5d1e",
+        "equities-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.5-py3-none-any.whl": [
+          "1f8c5dd640b6f7b24a967622c09b7339d41a8ee3cc71547caba32e92eb11999e",
+          "py3"
+        ]
+      }
+    },
+    "1.3.6": {
+      "sdist": [
+        "107ac000ceec7556bb0cea1a11182a4afd9bbbed84f3585855fada23e79617c3",
+        "equities-1.3.6.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.6-py3-none-any.whl": [
+          "e90c1a1a5d1b8074e5521ebac5057d05843d594053ba2d174feff066f83faefe",
+          "py3"
+        ]
+      }
+    },
+    "1.3.7": {
+      "sdist": [
+        "8ff9b7b1813c073d3a860b6b8d17759d556813b128f7b2f86cb85d13bba0a5e2",
+        "equities-1.3.7.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.7-py3-none-any.whl": [
+          "c6c5694ffc91cab0ff7b758c7e97974545ef4774cba363bbb1e592e6371e2e38",
+          "py3"
+        ]
+      }
+    },
+    "1.3.8": {
+      "sdist": [
+        "4cd15133345c16b16a6f0aa6b4cd22e062be36b9da9c7aba08bfa82501ad3812",
+        "equities-1.3.8.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.8-py3-none-any.whl": [
+          "2aa6049f31a429e99d1ddf695be2cd6810146a5b5ae18730490138ffade14eb9",
+          "py3"
+        ]
+      }
+    },
+    "1.3.9": {
+      "sdist": [
+        "b97ece29e6989ab4ec6bc1586a255a1fffa97f2c68c5ec01a18cea26133739f5",
+        "equities-1.3.9.tar.gz"
+      ],
+      "wheels": {
+        "equities-1.3.9-py3-none-any.whl": [
+          "c28b89bf6757e0c773fd5ca50d9f42d0717ed16d92cb009ea6f31b0b623ca878",
           "py3"
         ]
       }
@@ -32576,6 +32788,18 @@
         ]
       }
     },
+    "1.14.19.0": {
+      "sdist": [
+        "0046803a1b46b218c651f01a6332bd9e99d87c1ee31bcd4afadbe51f398f790a",
+        "mypy-boto3-personalize-1.14.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize-1.14.19.0-py3-none-any.whl": [
+          "9175f1faa6e8344bd0ff34c15136041875175c74770995caaf721b1d0001d0d9",
+          "py3"
+        ]
+      }
+    },
     "1.14.2.0": {
       "sdist": [
         "998fcee35107586bee2ec21490fbf36f4ca4ba748adf62d33acdc38c62bb02ce",
@@ -44013,6 +44237,18 @@
           "py2.py3"
         ]
       }
+    },
+    "20.7.8": {
+      "sdist": [
+        "0ac65a6e90069dded95a31959fa671f85915a319e547b5da62d2a395a32b770b",
+        "PyGeodesy-20.7.8.zip"
+      ],
+      "wheels": {
+        "PyGeodesy-20.7.8-py2.py3-none-any.whl": [
+          "efccf24a3aa3d1f3d73b4f75a5701c3ab63059546f631b88002078a572b7c864",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyhadoopapi": {
@@ -50401,6 +50637,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "866e1f5e7b0ab225c2259f116289191f64993a6d26d39dc6dfb0310eaac5aa89",
+        "solvent-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "solvent-0.0.7-py3-none-any.whl": [
+          "c6ba200e56986110d39985106c74a2513ed00e13298307c45fbdf6d828d39ea7",
+          "py3"
+        ]
+      }
     }
   },
   "solver": {
@@ -53509,6 +53757,18 @@
           "py3"
         ]
       }
+    },
+    "2.5.0.dev6": {
+      "sdist": [
+        "1f441742017f098b097dec0fc85f7cd849cad27bc26b0a144299cd9f003a089f",
+        "thonny-codegrinder-plugin-2.5.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "thonny_codegrinder_plugin-2.5.0.dev6-py3-none-any.whl": [
+          "2291fb7064302c94766d1cc24f1936be5536852385f648bee1dd116f77903fd0",
+          "py3"
+        ]
+      }
     }
   },
   "threaddownloader2608": {
@@ -54212,6 +54472,18 @@
       "wheels": {
         "torch_tools-0.1.3-py3-none-any.whl": [
           "34ba5772e34c78a65cd0540c87f46cd34ac744432f71a537681617aaa19482b6",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "ea971dfa9ca08c34c4d5567155f7af45ea762f12f91de07f6fda39d774e17887",
+        "torch-tools-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "torch_tools-0.1.4-py3-none-any.whl": [
+          "6cd7125565cbe0a1bfe60bd716aaf3993848e79513b8af06b99bff25eb3b5cab",
           "py3"
         ]
       }
