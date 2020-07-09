@@ -13443,6 +13443,18 @@
           "py3"
         ]
       }
+    },
+    "2020.7.9": {
+      "sdist": [
+        "9f7baeffa766665d9177f8e7204d7484f778b94b03ffbbb11fc2b1dde24c9b17",
+        "dagster-cron-nightly-2020.7.9.tar.gz"
+      ],
+      "wheels": {
+        "dagster_cron_nightly-2020.7.9-py3-none-any.whl": [
+          "f064aafcc6fba5d1b4190344b6f0ac96c77c86af183d6ed0a3fc43d2cc99f9c8",
+          "py3"
+        ]
+      }
     }
   },
   "dagster-spark-nightly": {
@@ -15194,6 +15206,18 @@
       "wheels": {
         "dagster_spark_nightly-2020.7.8-py3-none-any.whl": [
           "39c80dd456972ffe9419b5d6621806499ce174367d91663d0572fe46dec95184",
+          "py3"
+        ]
+      }
+    },
+    "2020.7.9": {
+      "sdist": [
+        "e6300b9a49eabaf4650b74b7ccbff7d5783828f2e6371448ffd392314f7656d2",
+        "dagster-spark-nightly-2020.7.9.tar.gz"
+      ],
+      "wheels": {
+        "dagster_spark_nightly-2020.7.9-py3-none-any.whl": [
+          "e6226e10983c6c709dfc8e9611859230632ffc3fdbe388bb373f79f8a4d9cf17",
           "py3"
         ]
       }
@@ -31528,15 +31552,19 @@
     }
   },
   "google-benchmark": {
-    "0.1.0": {
+    "0.1.2": {
       "wheels": {
-        "google_benchmark-0.1.0-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "95fe7700f1e27e346713adb5913b61ffc74cd76ca2bb379c7b89ea809094e018",
+        "google_benchmark-0.1.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "3a29b22d0d65a250e1ed24fcbb70ca199dbdceab0bfdca0723651d36112a6c1f",
           "cp36"
         ],
-        "google_benchmark-0.1.0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "38e4e4cfc02a352879e4f840421e75e8a11cae2eea3c8d8b2c4f9821ee7ff30f",
+        "google_benchmark-0.1.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "b427e773a798196376b15aeb5e27b5f018d98b135afc6f21b479043ee7343e46",
           "cp37"
+        ],
+        "google_benchmark-0.1.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "04bb4c252db4bbb6b9bbb3b66776b8a0dfa0246be79ea081e821453240b90fd8",
+          "cp38"
         ]
       }
     }
