@@ -367,6 +367,12 @@
         "4a5052f025c9c2a77d2e6dd83825e99dea3b26572a32e8857e6230e391c1945d",
         "adafruit-circuitpython-ssd1351-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "fc88c5706cf098ad7db13a9f6e347e9e6393807c8460177e1a4ff74d95cf5773",
+        "adafruit-circuitpython-ssd1351-1.2.2.tar.gz"
+      ]
     }
   },
   "adaptivedecisionmaking-2018": {
@@ -762,6 +768,18 @@
       "wheels": {
         "aiosolr-2.1.1-py3-none-any.whl": [
           "8297d7afe37cbbe73399dae2b5df03415b930947e44715d7eb0cb249a015681b",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "bfe2e399417af75de27ade3881215e27cbcf1b0fee7e73c41ec07474ce11a9b5",
+        "aiosolr-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "aiosolr-2.2.0-py3-none-any.whl": [
+          "d141f611f977334af2d680c6c3bd9e303300b7c0b5c7afc937de9a33a360627b",
           "py3"
         ]
       }
@@ -37994,6 +38012,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "e9bae580a1c11d9a590bc40f53f5e530b950dc3eb93b2f477c185cf12c39e74c",
+        "mypy-boto3-rekognition-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.20.0-py3-none-any.whl": [
+          "02be50ddec97a0a34d9c1e053e9b78c018efa6864e85ff05064fcd5fb2172228",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "e38484345f44ea5ff55a0506123e719b6e94d37580a79a02c083a453268fdcd6",
@@ -39440,6 +39470,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.2.0-py3-none-any.whl": [
           "bc37f29475ac6714194b564c8bb683d7b3c8cf364ad7270792d6c99892903ffe",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "09a8ac59e9029226338b045332e5ce1e4f1753dbe3f0622ede67f729c27bc482",
+        "mypy-boto3-route53resolver-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.20.0-py3-none-any.whl": [
+          "988b631d4514a1481f99a430ee9207b95c20e2129ddb2e257f1d093093a21806",
           "py3"
         ]
       }
@@ -48656,6 +48698,18 @@
       "wheels": {
         "photo_grid-1.1.92-py3-none-any.whl": [
           "30e2b7044262a1b28d9f17dfc93df9223018aa43e74844ecbf3a3ca83c8e4e8d",
+          "py3"
+        ]
+      }
+    },
+    "1.1.93": {
+      "sdist": [
+        "e97e34b73c4cbe56cb759eb5def6eb75a62b18fafa880e453c431214f320b709",
+        "photo_grid-1.1.93.tar.gz"
+      ],
+      "wheels": {
+        "photo_grid-1.1.93-py3-none-any.whl": [
+          "1e5db3e54e0986e90169d6716aab02ed29a8c2bda75cd0d4024bbcd316afebfa",
           "py3"
         ]
       }
@@ -68800,16 +68854,32 @@
           "25042039b7f52c3ad52ca547e20797ca49076484cba4ccfe244478cc9d7483d7",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200709-cp35-cp35m-win_amd64.whl": [
+          "e8261657edd1962b7048df2869c3132f528576ab42f49281cebf90b6fa77ef10",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200709-cp36-cp36m-manylinux2010_x86_64.whl": [
           "159e22ba8c7e3987d80739f256641c07566bc54bfec794df5578ae045a82037c",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200709-cp36-cp36m-win_amd64.whl": [
+          "bb9b531cadf702771373448fe5f7ed4cda1e5fe73c68b6c039f30887fea10292",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200709-cp37-cp37m-manylinux2010_x86_64.whl": [
           "1e85fb275dd051aa6796404f90a2572b179af3190f1de12b79f978215744cf8f",
           "cp37"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200709-cp37-cp37m-win_amd64.whl": [
+          "5869f84fd0f345dd4690069cccdad1ac8a50116d58efdc6ae81e979916591b4a",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200709-cp38-cp38-manylinux2010_x86_64.whl": [
           "7c870d7a00351a95b0d17eec2e08bfaf51559f776295460cd9e11cc65cfbf665",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200709-cp38-cp38-win_amd64.whl": [
+          "772d443abc0bec34fca9075f50ecbdcab4e992d05adaf65255c3350b82b5e32c",
           "cp38"
         ]
       }

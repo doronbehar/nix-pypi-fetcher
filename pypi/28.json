@@ -2785,6 +2785,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.4": {
+      "sdist": [
+        "6c9ce3c40ec5b7cbbbf80dc68b87a9ee10def58b6e877897acc144a122d8953d",
+        "arcus-1.2.4.tar.gz"
+      ],
+      "wheels": {
+        "arcus-1.2.4-py3-none-any.whl": [
+          "9072415cb7a985dddbe4bf2eaaad5ea65ba0215863dd9cec0779322237f10458",
+          "py3"
+        ]
+      }
     }
   },
   "ardana-configurationprocessor": {
@@ -3736,6 +3748,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_dynamodb-1.48.0-py3-none-any.whl": [
           "0611b7dc6a5b88e48cd790aeac738533f593eb2cb4280649bcf9fef58f2fe0ef",
+          "py3"
+        ]
+      }
+    },
+    "1.49.0": {
+      "sdist": [
+        "969b796c12d3356474c3da47efc7030faea159da5f94d8d848f72ecfc4ffb3c8",
+        "aws-solutions-constructs.aws-lambda-dynamodb-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_dynamodb-1.49.0-py3-none-any.whl": [
+          "31d1ad00a0d80c3112eb6e473d10ab5621879564fd25e31d5aef4e20091e1e7d",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "c3315e00c70cbd8723753faecc6517c128e9d4e837790e3befb655c6052150ea",
+        "aws-solutions-constructs.aws-lambda-dynamodb-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_dynamodb-1.50.0-py3-none-any.whl": [
+          "fa9dae124ba1be8245a5acabbd06cf3cf840f7d90681cfd0c6937cf0d37f194d",
           "py3"
         ]
       }
@@ -20775,6 +20811,94 @@
           "cp38"
         ]
       }
+    },
+    "0.9.4": {
+      "sdist": [
+        "435e02ba5854dd2f3d52a6609b53dd3bb906abb426d3febe2d559e3be17202dc",
+        "dimod-0.9.4.tar.gz"
+      ],
+      "wheels": {
+        "dimod-0.9.4-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "21221401681bf71f945668964f4c05b761b5103040e030fc046e86ffefa32b96",
+          "cp35"
+        ],
+        "dimod-0.9.4-cp35-cp35m-manylinux1_i686.whl": [
+          "c371c1fc7485940a88a6279bfa21f813c2a69bdbd341945ac9b1bbcfef1026e9",
+          "cp35"
+        ],
+        "dimod-0.9.4-cp35-cp35m-manylinux1_x86_64.whl": [
+          "4f28e0203c22caa599bf1f48b70a2c4b6272c7757d7ef447601eebdb28d3d62a",
+          "cp35"
+        ],
+        "dimod-0.9.4-cp35-cp35m-win32.whl": [
+          "52e0e00d2f16c6ca4ce2674c6fa834a41732dca69ade04a101b2c8761f330b15",
+          "cp35"
+        ],
+        "dimod-0.9.4-cp35-cp35m-win_amd64.whl": [
+          "77b61bfb7df53a4686898b773551e2600936cd382621027e1af5a56d79a739c0",
+          "cp35"
+        ],
+        "dimod-0.9.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "162c9ac353c78a9b8e75314951c60e7b510dd7df1292ec876f4b6fabb0b50fd1",
+          "cp36"
+        ],
+        "dimod-0.9.4-cp36-cp36m-manylinux1_i686.whl": [
+          "9b08d5531357f272525a1a1ee498347690a5091bcbe1c9261c888539f2dc1eac",
+          "cp36"
+        ],
+        "dimod-0.9.4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "9c8ecc9b8ba02e7dbe441c61d9480c454f7ad45c42af7ef3e0f34bb1842b372b",
+          "cp36"
+        ],
+        "dimod-0.9.4-cp36-cp36m-win32.whl": [
+          "37f48da093c1c748fd851dec9e27bc2c752619802017bf3438607a61d0bf8981",
+          "cp36"
+        ],
+        "dimod-0.9.4-cp36-cp36m-win_amd64.whl": [
+          "c38e50115f2a82ef5e2e7e2f38c9af65040a149eec4466363171321575bf7648",
+          "cp36"
+        ],
+        "dimod-0.9.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "8ada155ea3909e1adf89e5aad5b6de959cd00354704c016c35e356e6d3fcd2d7",
+          "cp37"
+        ],
+        "dimod-0.9.4-cp37-cp37m-manylinux1_i686.whl": [
+          "91aa619decbfa151288b00f585afbd6ada14b5449390cc5d55dce960634b2c95",
+          "cp37"
+        ],
+        "dimod-0.9.4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "17d916731ae9962b66c1340e4e92fb13ff7b646398816a682d98913c2e9815ae",
+          "cp37"
+        ],
+        "dimod-0.9.4-cp37-cp37m-win32.whl": [
+          "59b3ba5ee66729db35e4246446612eff73d69b33623434c6826a1dd0c4aa3ee3",
+          "cp37"
+        ],
+        "dimod-0.9.4-cp37-cp37m-win_amd64.whl": [
+          "4086197c5a5f20fad906637965957cd409b58887d929552c7671174fe197b49b",
+          "cp37"
+        ],
+        "dimod-0.9.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9a7fbfd51c6024e56c0f778f58462a9e45d0dbc902fdf9427e637a50f3b56368",
+          "cp38"
+        ],
+        "dimod-0.9.4-cp38-cp38-manylinux1_i686.whl": [
+          "7e5c7c6654cafb586577d1f3044c30cee0031e130176886365f72a2f40fe6fc3",
+          "cp38"
+        ],
+        "dimod-0.9.4-cp38-cp38-manylinux1_x86_64.whl": [
+          "cdcd0cc59f7d1da61f4bb1ec5ec778f83344fd86f34a1546800d10999b923461",
+          "cp38"
+        ],
+        "dimod-0.9.4-cp38-cp38-win32.whl": [
+          "b20e92cd270c50f4b1980414b9123186808a8b1637ea6e5ad9744fb13e9ce108",
+          "cp38"
+        ],
+        "dimod-0.9.4-cp38-cp38-win_amd64.whl": [
+          "1fa9436a3bef4f45f0c1dca2dbb5eabdae9719733a3d5ea5d6f281cf2b270cf2",
+          "cp38"
+        ]
+      }
     }
   },
   "dirtyebay": {
@@ -31783,6 +31907,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.1": {
+      "sdist": [
+        "41848147a5a3e7670acbdd3758fd531bb1af92be602c436140512fa1e53a0f4c",
+        "jict-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "jict-2.2.1-py3-none-any.whl": [
+          "9fd6c3ff8f6bbc63a6cb01e8f99f15298f76f70963fec742b19d72ed10dacdfb",
+          "py3"
+        ]
+      }
     }
   },
   "jinjarg": {
@@ -33156,6 +33292,12 @@
       "sdist": [
         "af89e26a4c8ca1e4990739fd46973b6205d69e691184712fb1b8aec05cc31e28",
         "large-image-source-gdal-1.1.1.dev47.tar.gz"
+      ]
+    },
+    "1.1.1.dev49": {
+      "sdist": [
+        "7dbd8733c2f6bf7b518f2e7b26671883da7bcc2452e21b314e9583add9bcbd66",
+        "large-image-source-gdal-1.1.1.dev49.tar.gz"
       ]
     },
     "1.1.1.dev6": {
@@ -38734,6 +38876,18 @@
       "wheels": {
         "mypy_boto3_codepipeline-1.14.2.0-py3-none-any.whl": [
           "b6c70ad4bec63b3486553cdcba3f27300ad29606eaae3fe4d3bd202f762b2a19",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "f19522f124bb1d4b8ea6b84d44518d0c67e3d69f23fc03dcd216c791289eff54",
+        "mypy-boto3-codepipeline-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codepipeline-1.14.20.0-py3-none-any.whl": [
+          "e5a932cd54711d4be88b7f5d10c2a08d53151bcbe75d0ce19965d32e453aa7a1",
           "py3"
         ]
       }
@@ -44428,6 +44582,14 @@
       "wheels": {
         "osr2mp4-0.0.1a3-py3-none-any.whl": [
           "f05f82de7109f0a9940065e68ff4a775c1745f2ae40a824b0eb4b18d3b8b3aef",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a4": {
+      "wheels": {
+        "osr2mp4-0.0.1a4-py3-none-any.whl": [
+          "5e90986c1a9ba4f95e0f927a8117b3652041d99511b11209615dccc5b9b0c1c8",
           "py3"
         ]
       }
@@ -61069,6 +61231,38 @@
       ]
     }
   },
+  "succinct": {
+    "0.0.1": {
+      "sdist": [
+        "db7c5f972c383b1ae8d5f2089f4d942e7dd9bc0375d68dfd000f192f926bf71d",
+        "succinct-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "4d2e654d7cc09b61a901d22f18c9ec39685e677b0613a9345920b272daa0cfb5",
+        "succinct-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "eb129837890776ed0d22547bfa4ab19b007e3f26170fda5f5dce8cb67fd53a66",
+        "succinct-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "8367dcd365f89ad18aebc8d761b21abe2db8997522f8bddcf862b58335fd2d61",
+        "succinct-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "e56c2679b9da1b17df084f20d6dc45ebf328a46f8af071a7915f2d84221e07fc",
+        "succinct-0.0.5.tar.gz"
+      ]
+    }
+  },
   "sumsy": {
     "0.2.0": {
       "sdist": [
@@ -69476,6 +69670,20 @@
       "wheels": {
         "utm_zone-1.0.1-py3-none-any.whl": [
           "ab3bf4aefe6fc2b281af501e03e7b627dddff8e2ce623182839ded2a49f496e0",
+          "py3"
+        ]
+      }
+    }
+  },
+  "valid-flow-engine": {
+    "0.1.3": {
+      "sdist": [
+        "5ef110ea739e3cede8be6c14344d876a95cf210c4bbee19c20154193548d8d24",
+        "valid-flow-engine-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "valid_flow_engine-0.1.3-py3-none-any.whl": [
+          "b0b70e42dba7a33e62a55a3ff61759fb6cac6390d0e9a8941712551f08e1c19d",
           "py3"
         ]
       }

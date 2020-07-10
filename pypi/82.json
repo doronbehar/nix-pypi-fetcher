@@ -1169,6 +1169,12 @@
         "52aa301c861a8b57518f4a1127bd31f2bdf4a21a7dab9c7ffdd56854890d13c8",
         "adafruit-circuitpython-onewire-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "93791218498b78225acd261005fce5d912c10260ead3739741ccb31ea87acdd4",
+        "adafruit-circuitpython-onewire-1.2.2.tar.gz"
+      ]
     }
   },
   "add-by-cpp": {
@@ -3376,6 +3382,18 @@
       "wheels": {
         "aiodocker-0.19.0-py3-none-any.whl": [
           "fdf556706a80636d528b5137e0baeeaa03a885073119ba22707d8f95347b4753",
+          "py3"
+        ]
+      }
+    },
+    "0.19.1": {
+      "sdist": [
+        "59dfae91b5acbfa953baf4a3553b7c5ff375346b0f3bbfd8cae11c3b93adce04",
+        "aiodocker-0.19.1.tar.gz"
+      ],
+      "wheels": {
+        "aiodocker-0.19.1-py3-none-any.whl": [
+          "bfbb44dbee185dbc8943be68d1f51358af3ec473c463bdee68a25e33d70ae3ad",
           "py3"
         ]
       }
@@ -5986,6 +6004,18 @@
       "wheels": {
         "autoarray-0.11.1-py3-none-any.whl": [
           "ba29385609ae9c35a7b713527c92dd274844199a499b6fb35c7d02683cdb00ff",
+          "py3"
+        ]
+      }
+    },
+    "0.11.10": {
+      "sdist": [
+        "de9e94962e0bf17b20dc2b229e1644211da9986e269b2bbcee2cb9a946234996",
+        "autoarray-0.11.10.tar.gz"
+      ],
+      "wheels": {
+        "autoarray-0.11.10-py3-none-any.whl": [
+          "da312bb77757d8d3fc527237021aeee008ec9da36118df03c3bec4e666b1d35b",
           "py3"
         ]
       }
@@ -10817,26 +10847,6 @@
           "3.5"
         ]
       }
-    }
-  },
-  "cortanaanalytics": {
-    "0.0.2": {
-      "sdist": [
-        "04c1fbf53da9417d2d1d182f70e7fec3649bacedc2cd9fbae95ddaa7510d3453",
-        "cortanaanalytics-0.0.2.zip"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "02895853f27f8a69ad28e71c8d036691a0483b42053812a2f92b3d84228680c4",
-        "cortanaanalytics-0.0.3.zip"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "06eb8f35ee98793274fd54bf1eda623aef42ab8b3a8ae8565fc0e0146eb98fa0",
-        "cortanaanalytics-0.0.4.zip"
-      ]
     }
   },
   "cosmic-ray-nose-runner": {
@@ -29053,6 +29063,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "e2c9c46e3328b5119c4a487dd78aab14e0be0abf04a8725dda9bd6e5283cdeb4",
+        "I2T2-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "I2T2-0.1.2-py3-none-any.whl": [
+          "6b84a66b098f791a11ee390c9e9c3d29f58075c922b4473a32e840f00da4d1cc",
+          "py3"
+        ]
+      }
     }
   },
   "ibots": {
@@ -33960,18 +33982,6 @@
     }
   },
   "ltexpect": {
-    "1.0.0": {
-      "sdist": [
-        "b28efbd74f695092807f0277f6ef4666dc0e62ae669d72537567784f1c705913",
-        "ltexpect-1.0.0.tar.gz"
-      ]
-    },
-    "1.0.1": {
-      "sdist": [
-        "dd2fb3d7958ee299f8fdf3fbe0a2a83b99e5915eecd52711cd18f8706676a152",
-        "ltexpect-1.0.1.tar.gz"
-      ]
-    },
     "1.0.3": {
       "sdist": [
         "f9b8a6e364be9590765dff05b7c5bb174860c14c508988906d22a2e8e9dc11dd",
@@ -50890,6 +50900,86 @@
         ],
         "OpenVisus-2.1.74-cp38-none-win_amd64.whl": [
           "50973acf46ae9d4cd43b56867c117d0f5f1e9d45b8668828f128f82c7bc0639c",
+          "cp38"
+        ]
+      }
+    },
+    "2.1.76": {
+      "wheels": {
+        "OpenVisus-2.1.76-cp36-none-macosx_10_9_x86_64.whl": [
+          "52e52f34349f28a3664948a78dcd9176e3e4f75aa6733229d08fc5a41f00efe2",
+          "cp36"
+        ],
+        "OpenVisus-2.1.76-cp36-none-manylinux2010_x86_64.whl": [
+          "d077b9d27fed02cde87c37883e1636c7bc408f1bda5722b3b572e14521e44062",
+          "cp36"
+        ],
+        "OpenVisus-2.1.76-cp36-none-win_amd64.whl": [
+          "b2d3767c71b8b0d69e936356e4e14404b82fec0ea18661a651e368054dc3c97a",
+          "cp36"
+        ],
+        "OpenVisus-2.1.76-cp37-none-macosx_10_9_x86_64.whl": [
+          "e44044f90ab88ca8af5fa02475369aebcc25d60388a2ec7a2fa5f688cc2a8a4e",
+          "cp37"
+        ],
+        "OpenVisus-2.1.76-cp37-none-manylinux2010_x86_64.whl": [
+          "9b711d8fa6577810a04f235545ff4459bc78c3fb5088ef2aa03a8af620aad4ce",
+          "cp37"
+        ],
+        "OpenVisus-2.1.76-cp37-none-win_amd64.whl": [
+          "bee98245ce82b41ede408946c81c3662ab749d0db5ddb4d56f70efe16e320ab3",
+          "cp37"
+        ],
+        "OpenVisus-2.1.76-cp38-none-macosx_10_9_x86_64.whl": [
+          "fd5ea84dcc730ec02a9f7fea99ed73858f5148f675b48a568f0d6d751fcbdad8",
+          "cp38"
+        ],
+        "OpenVisus-2.1.76-cp38-none-manylinux2010_x86_64.whl": [
+          "394b4fe81c5cfc13596472c5c3fd7cad9288b8955be72e47085bf538f20133cb",
+          "cp38"
+        ],
+        "OpenVisus-2.1.76-cp38-none-win_amd64.whl": [
+          "ed24ce9b005ea17324034902ee1096d114678e0a33652354169b65585ef11f5b",
+          "cp38"
+        ]
+      }
+    },
+    "2.1.77": {
+      "wheels": {
+        "OpenVisus-2.1.77-cp36-none-macosx_10_9_x86_64.whl": [
+          "f87ab9b62e7751abfc2f870469bf8a0268b914c2eb82b989b3f4aa77d0f8c4b3",
+          "cp36"
+        ],
+        "OpenVisus-2.1.77-cp36-none-manylinux2010_x86_64.whl": [
+          "5c1c664f11d0608ced8e0373c9df4cf96a263b9d6256244496c465c1517d8fc3",
+          "cp36"
+        ],
+        "OpenVisus-2.1.77-cp36-none-win_amd64.whl": [
+          "f7505610152127c310a66e0db0577469e96b1985827c149e887204862d7cf2d7",
+          "cp36"
+        ],
+        "OpenVisus-2.1.77-cp37-none-macosx_10_9_x86_64.whl": [
+          "6dc08f8757f64129a2fb51fa6c4913debc5c74027cf2b48e9511bf069b9c95c5",
+          "cp37"
+        ],
+        "OpenVisus-2.1.77-cp37-none-manylinux2010_x86_64.whl": [
+          "fd2b483de596b1598355d0d5da5c00662ded467ada21a0a075c345309c442b71",
+          "cp37"
+        ],
+        "OpenVisus-2.1.77-cp37-none-win_amd64.whl": [
+          "0e9daac6eff41e54a3365941bf702e8c3c12a910898df48988cf5ef950aae05b",
+          "cp37"
+        ],
+        "OpenVisus-2.1.77-cp38-none-macosx_10_9_x86_64.whl": [
+          "2eb982b7e79e5230a1463e7de5671b5542e03090b364daeccf45d7c7f4fa6edf",
+          "cp38"
+        ],
+        "OpenVisus-2.1.77-cp38-none-manylinux2010_x86_64.whl": [
+          "f2e44362bcfcaea1b140e27cbb260e75f72f04cde5d86990d9cfa9b152f3b9c8",
+          "cp38"
+        ],
+        "OpenVisus-2.1.77-cp38-none-win_amd64.whl": [
+          "7b66bded88c256c5f8234d4dce97f8b3ef6b86cd1b109a410531f53230ca58ef",
           "cp38"
         ]
       }

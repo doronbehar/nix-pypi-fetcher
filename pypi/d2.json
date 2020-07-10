@@ -151,6 +151,12 @@
         "2baaddaeb663dd7b849cdb0e9398e8fcfa96c733276026d4a3f6ca1d5c7d35e7",
         "adafruit-circuitpython-ds2413-1.2.2.tar.gz"
       ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "f9cf661f118a5984e3a52dc36150ff7de2db88bb104511ac8ea8e356e3d7efc1",
+        "adafruit-circuitpython-ds2413-1.2.3.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-miniqr": {
@@ -194,6 +200,12 @@
       "sdist": [
         "14465149308c2bc5c863a26244918ad4e8404863d139146e72b64bc3c5c24791",
         "adafruit-circuitpython-miniqr-1.3.1.tar.gz"
+      ]
+    },
+    "1.3.2": {
+      "sdist": [
+        "5fe2b4fea8868b9ffe6fa44b92ce9de2f138456a31ef6629d8a18d1483c6b493",
+        "adafruit-circuitpython-miniqr-1.3.2.tar.gz"
       ]
     }
   },
@@ -250,6 +262,12 @@
       "sdist": [
         "37a8b2cb5f4580af30788b416c24f848d21ec0f326bbfd8c7a4d15ba1041ddef",
         "adafruit-circuitpython-veml6070-3.1.1.tar.gz"
+      ]
+    },
+    "3.1.2": {
+      "sdist": [
+        "b1908b6a4adf0eaa96a9fd1e36ac3fea95c6ecfb0a18dfeed0be03f00bc595e9",
+        "adafruit-circuitpython-veml6070-3.1.2.tar.gz"
       ]
     }
   },
@@ -8671,6 +8689,44 @@
       }
     }
   },
+  "ckanext-acl": {
+    "0.1.0": {
+      "sdist": [
+        "6429b22d8954e8bb3200b0bdcfda49ea9e7a56c37265337e34a88a46ced015bc",
+        "ckanext-acl-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_acl-0.1.0-py3-none-any.whl": [
+          "5a3cfaad6764f918e7e4960abb7773f915e5fea531732faad58593019e0a4d26",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "dea8b8c2cf4e98b4beb1d82725642ccc97b509622a0a28a932f7d57431924b24",
+        "ckanext-acl-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_acl-0.1.1-py3-none-any.whl": [
+          "30536fceb03bec3892eed73b2973a416e295a8d7a963793f9578e5b23ce1ec06",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "58ce6e0743fd8b69c6fa79054c0bfd7822ab50cdd0b4ae1670596ae0ce4d25e0",
+        "ckanext-acl-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "ckanext_acl-0.1.2-py3-none-any.whl": [
+          "facdea73326e8dc6907caf081510b9f566a5ce1679419907fbf007142c8b0262",
+          "py3"
+        ]
+      }
+    }
+  },
   "claims-helper": {
     "0.1": {
       "sdist": [
@@ -12508,6 +12564,18 @@
       "wheels": {
         "deeptl-0.0.0-py3-none-any.whl": [
           "42700bcae1dbc61908c9fc10260fa55da8d3ba8bd1f370d64d23f2af9cef7047",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "1ae2c3de0a2bd8fcf83c035fc9e39059f7f6475202b925f016577430ad8986e7",
+        "deeptl-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "deeptl-1.0.0-py3-none-any.whl": [
+          "e4d61c96eceb930078c69e888474f4baff008e3d20b1b851dc20d62b2fa5867f",
           "py3"
         ]
       }
@@ -34077,6 +34145,38 @@
           "cp38"
         ]
       }
+    },
+    "0.8.4": {
+      "wheels": {
+        "monetdbe-0.8.4-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "626f803ab294b61781318b007b07fa2f37ac025e934adf72b715d152d612afaa",
+          "cp36"
+        ],
+        "monetdbe-0.8.4-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "c4ee3b3e3f8ad3682c92cfea5eaec5f8f34a86a30ba35d914cf0332a7b2cf214",
+          "cp36"
+        ],
+        "monetdbe-0.8.4-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "b2d7afebfc9a5a5dfcae8aa446eb354a7489db0b93c4d3d70953f518f778a5da",
+          "cp37"
+        ],
+        "monetdbe-0.8.4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "729f8cabacf0e74c992bbb83546e9615f7daad29429f5255d872ef2188dafa42",
+          "cp37"
+        ],
+        "monetdbe-0.8.4-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "7efa4d4dc5d76c9684d76a409450d2040d8e08c194595042736c8b611b220e58",
+          "cp38"
+        ],
+        "monetdbe-0.8.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "f43cc468bef0b3457e2c0600528d61fa93ee3cc127364b02da815180b9fc97fd",
+          "cp38"
+        ],
+        "monetdbe-0.8.4-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "0ed1aed77ed89c51f76e1431e6f082607da4e294b9248b1348548c854ec0ea1e",
+          "cp39"
+        ]
+      }
     }
   },
   "mongoengine-extras": {
@@ -43886,6 +43986,30 @@
       "wheels": {
         "nway-4.4-py2.py3-none-any.whl": [
           "c3095d1df3085af90550bb94d43ef607006ca2d90d9bb2a2c192d6deebb7e12c",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.4.1": {
+      "sdist": [
+        "c3a1230ee5bc48bd1eddc42de967434891c6a5473b9e616085843479a113359a",
+        "nway-4.4.1.tar.gz"
+      ],
+      "wheels": {
+        "nway-4.4.1-py2.py3-none-any.whl": [
+          "0f3307cbbb7790e9510d10966ee99acdd36a93641f984566cec4b859341b8cb4",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.4.2": {
+      "sdist": [
+        "35b1629c5237706eb8820844611286ef70353c145fdb4a8ee128d03531647594",
+        "nway-4.4.2.tar.gz"
+      ],
+      "wheels": {
+        "nway-4.4.2-py2.py3-none-any.whl": [
+          "519b1ab17271b585ec7f53d70f7a403142a67e1d69724b39eaf252c4ab66a808",
           "py2.py3"
         ]
       }
@@ -63018,6 +63142,78 @@
         ],
         "reckit-0.1.2-cp39-cp39-manylinux1_x86_64.whl": [
           "f60683192f5ca5a63dea49255025e58627eb896b5659c7fe9769c1f447a339e5",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "3ecaf769bf11cb53ceb621453d79e18bc0a30da15d9ad7d4bf5b32582698042b",
+        "reckit-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "reckit-0.1.3-cp35-cp35m-manylinux1_i686.whl": [
+          "8094096be37d5b44b2ba52e4455819a388344955f7afcc8921ffc52306daf112",
+          "cp35"
+        ],
+        "reckit-0.1.3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "eb35c329f31ce7245a8ea0bec2e3553fb43b3c4f5215cd58688a4934d368ee5f",
+          "cp35"
+        ],
+        "reckit-0.1.3-cp36-cp36m-manylinux1_i686.whl": [
+          "db593f73677ce316656b279f4ac3d4543844ce5ae25a5d52f191c0dd4e0c7c46",
+          "cp36"
+        ],
+        "reckit-0.1.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "324d04098345e77c2aae54e57703cddaf2fdcf2310cdde8f1995887be4cb9c9c",
+          "cp36"
+        ],
+        "reckit-0.1.3-cp36-cp36m-win32.whl": [
+          "14bd7ad577fd7f918f9792423b4fe904cb2168e5ba6a0668185140dcf64dbe00",
+          "cp36"
+        ],
+        "reckit-0.1.3-cp36-cp36m-win_amd64.whl": [
+          "0b9de9eeacead5ca30bbec406678525ee4a6ac565bf4fc51a2635ff598a6d29d",
+          "cp36"
+        ],
+        "reckit-0.1.3-cp37-cp37m-manylinux1_i686.whl": [
+          "5afb7ca06872759099f1d6643843a16a5853e810e12055ef5fcd426feae95e1d",
+          "cp37"
+        ],
+        "reckit-0.1.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "91643afc72329b38fe1e94dbd2c368e8338c6c6eed2a1e47abb8dfdc9eee4b19",
+          "cp37"
+        ],
+        "reckit-0.1.3-cp37-cp37m-win32.whl": [
+          "215706c47a93304670550b6333a41f74ee4f9aeb5e11c3b037ce580cee70367b",
+          "cp37"
+        ],
+        "reckit-0.1.3-cp37-cp37m-win_amd64.whl": [
+          "76de6649c1c1f67fffa4ed81e23fe7f4db1494a28a6f6476370183022fd819b8",
+          "cp37"
+        ],
+        "reckit-0.1.3-cp38-cp38-manylinux1_i686.whl": [
+          "91225732ec9c520f9a9e6770854b8955d7bc9ed778a44b68af6099f7068bee43",
+          "cp38"
+        ],
+        "reckit-0.1.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "5ca231b43aa041703dc61f651a74083558da4ea190ac31cc2bf852290d066cca",
+          "cp38"
+        ],
+        "reckit-0.1.3-cp38-cp38-win32.whl": [
+          "2edc50ac3c73ba44c8aea8a678ee5513979a5a8ba692d2fa6050ce1b31fa172a",
+          "cp38"
+        ],
+        "reckit-0.1.3-cp38-cp38-win_amd64.whl": [
+          "3e7a87f4343388e4c83fb3db7f410098fd0247f4f62d2191eeb186f5a7d21e97",
+          "cp38"
+        ],
+        "reckit-0.1.3-cp39-cp39-manylinux1_i686.whl": [
+          "10dd07926d59d2b8dcd8438c4f9b0520fd2749f4265a005643336a5f176116fe",
+          "cp39"
+        ],
+        "reckit-0.1.3-cp39-cp39-manylinux1_x86_64.whl": [
+          "33e171f3e67b010ff60140329b76f154dd759089eb0918a944faa5eb16b08969",
           "cp39"
         ]
       }

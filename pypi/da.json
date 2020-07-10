@@ -145,6 +145,12 @@
         "fdbc8129abb33d7921a5ec5948012a8016cb22909801a16d2ec9326ccbfdd877",
         "adafruit-circuitpython-max31855-3.2.2.tar.gz"
       ]
+    },
+    "3.2.3": {
+      "sdist": [
+        "75668a0e3d5a1f918d4a79814f64a910a7fc404518b3e593f153605f827838a5",
+        "adafruit-circuitpython-max31855-3.2.3.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-pca9685": {
@@ -189,6 +195,12 @@
         "6a4128b3499e386e3743638177eac34908942fc0efa0ea3124516fa1eb7d395a",
         "adafruit-circuitpython-pca9685-3.3.1.tar.gz"
       ]
+    },
+    "3.3.2": {
+      "sdist": [
+        "0f8e8c4cdb4ef1828ac9e8bc870017f2f5ef1cccc906172e06d81062859bc34e",
+        "adafruit-circuitpython-pca9685-3.3.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-ssd1331": {
@@ -196,6 +208,12 @@
       "sdist": [
         "56569b6be471767d785925dc7da75d8e6bab96d9b0e86ed63467b7ad2b3abb3a",
         "adafruit-circuitpython-ssd1331-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "f0ea078ff7c8d3c98bb5f049468c98ff066f43c7591f44234afbd2cab728da25",
+        "adafruit-circuitpython-ssd1331-1.2.2.tar.gz"
       ]
     }
   },
@@ -13607,6 +13625,30 @@
           "py3"
         ]
       }
+    },
+    "0.8.7": {
+      "sdist": [
+        "4d65891ca614c3f179d538236e87461a4886107a697c73b6d6879f66a9fedea1",
+        "dagster-papertrail-0.8.7.tar.gz"
+      ],
+      "wheels": {
+        "dagster_papertrail-0.8.7-py3-none-any.whl": [
+          "8a69e95302d8d5fd17e362f14b10fa444422a5d228ad18b58306f19636b488ba",
+          "py3"
+        ]
+      }
+    },
+    "0.8.7rc0": {
+      "sdist": [
+        "0fb4b5e1613ab9c16e9a64f878b65c9c20d146ea722dfa0fe7672ed6284817a4",
+        "dagster-papertrail-0.8.7rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_papertrail-0.8.7rc0-py3-none-any.whl": [
+          "988856f88a7a5488d25524a58178126e7f1cd11cb2794da64e84a4db3447fe33",
+          "py3"
+        ]
+      }
     }
   },
   "dash-keycloak-2": {
@@ -13804,6 +13846,14 @@
       "wheels": {
         "DatastreamDSWS-1.0.5-py3-none-any.whl": [
           "3a4c378fb8ff829a2028711f19cb2776a922131b0a1d1e7335f92ffd45b25845",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "wheels": {
+        "DatastreamDSWS-1.0.6-py3-none-any.whl": [
+          "38feffb186baa8583a04926e1dc940bfb7927022cc57f80af7743c1a0d54aa0b",
           "py3"
         ]
       }
@@ -33480,6 +33530,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "5f8e62eb67a09b6a81c4a848c1a224e3c0f79469567efb2ab34077fae7a429cb",
+        "mypy-boto3-wafv2-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_wafv2-1.14.20.0-py3-none-any.whl": [
+          "77e74d6b41d797ad4cd0b689370a6448464ce6a4f0812a491f2bdeba66f20444",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "9061dac2801a8474e811c173c221a45db6883345cfb131f4eb2236c81d29cc68",
@@ -49792,6 +49854,12 @@
         "searx-0.16.0.tar.gz"
       ]
     },
+    "0.17.0": {
+      "sdist": [
+        "c8976c075ba40fb654b6adfe2c0a688198cb4be219ff8892a530bcb1b1fa4ba6",
+        "searx-0.17.0.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "80a3d164fc630da0c566a97a73e2896b2206481c5943b7d9f3ee60b8c7931da6",
@@ -55474,6 +55542,22 @@
         ],
         "taskcluster-32.0.0-py3-none-any.whl": [
           "1d3247f2b95e91c01207bec74f07cbbf9fbf308b3b286ad033b489bc53afdd42",
+          "py3"
+        ]
+      }
+    },
+    "34.0.1": {
+      "sdist": [
+        "42615a5d45c86bc1b4819dcfbb02512a4638a2b57d95e1cc29186b43e78c89b3",
+        "taskcluster-34.0.1.tar.gz"
+      ],
+      "wheels": {
+        "taskcluster-34.0.1-py2-none-any.whl": [
+          "ce158f537800f865a3abfcb943d92af3ed1294ed783c1318feb5688f23f2b959",
+          "py2"
+        ],
+        "taskcluster-34.0.1-py3-none-any.whl": [
+          "e61ba01d4761fda28b5eefed652c5b9311b834faea434406c19ed8a6a8472b23",
           "py3"
         ]
       }

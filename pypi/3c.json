@@ -321,6 +321,12 @@
         "e3ad5320fc4343a19ca794c03b3296e4b32aa8cf881b7b9f605569117e66a104",
         "adafruit-circuitpython-hid-4.1.3.tar.gz"
       ]
+    },
+    "4.1.4": {
+      "sdist": [
+        "3edb88e432927ca85927209e537366a714a89a874023c82b4e8758dd23196dbe",
+        "adafruit-circuitpython-hid-4.1.4.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-requests": {
@@ -364,6 +370,12 @@
       "sdist": [
         "eea4660d1aea31d9ce1cf2007e390e419a6664f130467aecad152661c0f35c69",
         "adafruit-circuitpython-requests-1.4.2.tar.gz"
+      ]
+    },
+    "1.4.3": {
+      "sdist": [
+        "2f905096cf7967b2ba0a4cc63e2ac486d628096967fec92a0c328ba798cd4f43",
+        "adafruit-circuitpython-requests-1.4.3.tar.gz"
       ]
     }
   },
@@ -5032,6 +5044,18 @@
         ]
       }
     },
+    "1.51.0": {
+      "sdist": [
+        "7475be3d7f55174fb3d5f5340cf02b4e2dce701f7209a984f3c441f5ca90722d",
+        "aws-cdk.aws-kms-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kms-1.51.0-py3-none-any.whl": [
+          "9458846d6eaeeecad0c71e1ea3c503d8c842e8fc5dd82c335734036a032f038a",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "7a3448205cf0c7238a637733359ddfcb075a25355ace50dc13d81607b2079ab9",
@@ -5897,6 +5921,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0rc2": {
+      "sdist": [
+        "2f149e6935576d1cbf3ae29a5f46fc1c0f9c1362e6e3e628484911e82acef902",
+        "aws-sam-cli-1.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "aws_sam_cli-1.0.0rc2-py3-none-any.whl": [
+          "369034921fca4f8f91a4ff29cd86385e7d2281fafa89d3af8957733b414dc1e3",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-apigateway-lambda": {
@@ -5935,6 +5971,30 @@
           "py3"
         ]
       }
+    },
+    "1.49.0": {
+      "sdist": [
+        "d51b377e40c222785ad35f7dc2cd20a324f8f9576dd1628d85a8f307c69fa39c",
+        "aws-solutions-constructs.aws-apigateway-lambda-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_lambda-1.49.0-py3-none-any.whl": [
+          "17da0bf7a8f46c1dd86d775527b9756f7861ac3f0a134b9031187f0e98781fc4",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "6ab0d3e95be5019f6575472a1b52fe2531e2e8343a3fd649a96866cf99f7c34c",
+        "aws-solutions-constructs.aws-apigateway-lambda-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_lambda-1.50.0-py3-none-any.whl": [
+          "7683097dfdd09fba3a562f8c33b8e3600cd0b9f8bc03764938e2745f4ef54dfc",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana": {
@@ -5970,6 +6030,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.48.0-py3-none-any.whl": [
           "94c2cf1acfb8b22e19a2f9430de13edcc3603d21050eebc3ff1ef4c4ba6f228a",
+          "py3"
+        ]
+      }
+    },
+    "1.49.0": {
+      "sdist": [
+        "e7e729af475352d9a6320d00bda05ec1383bc37089a9f2893c9636023af79c74",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.49.0-py3-none-any.whl": [
+          "0cfdd661d0b25687fd8c5a72ab96991ec1e0e24b202f4f9040268083ea7db853",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "de892acdf3ceac7ab15a5a9600c499b4b1f5f37c3643e0e62e96856cf2a15c5f",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.50.0-py3-none-any.whl": [
+          "371c935e5100082dc732f7c91a5bf7f2b71fab8640d1e34b9325c72062faec3c",
           "py3"
         ]
       }
@@ -13660,18 +13744,6 @@
         ]
       }
     },
-    "1.0.1": {
-      "sdist": [
-        "1c0a55ee083c22a04c16665281a1101c8d0f792b18bae61fc269305510ecc88f",
-        "CoolAMQP-1.0.1.linux-x86_64.tar.gz"
-      ],
-      "wheels": {
-        "CoolAMQP-1.0.1-py2.py3-none-any.whl": [
-          "db670b77a3c6fb1b292afcb0720a95f8a9ee8924044c0cdb292e9fb547908bc5",
-          "py2.py3"
-        ]
-      }
-    },
     "1.0.2": {
       "sdist": [
         "b03fc59b5f04cda167020a411c9835a1d76922990093a5168bda0d1d0a216918",
@@ -13780,42 +13852,6 @@
         ]
       }
     },
-    "1.2.1": {
-      "sdist": [
-        "8f688524f691fc47a5ea59660126cae7225338d48dd2ed0799b155c8e4635cf2",
-        "CoolAMQP-1.2.1.linux-x86_64.tar.gz"
-      ],
-      "wheels": {
-        "CoolAMQP-1.2.1-py2.py3-none-any.whl": [
-          "fbcbab7b389ddc73b31df497d7c9863f2ab7628e1be4262c0dd088634ca62b22",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.2": {
-      "sdist": [
-        "df2aab5134a8eaf413ddf6f0a78cf651ee43c1d4efbbf596153f0f4ffb95f51a",
-        "CoolAMQP-1.2.2.linux-x86_64.tar.gz"
-      ],
-      "wheels": {
-        "CoolAMQP-1.2.2-py2.py3-none-any.whl": [
-          "9b5049125b40c051b581c352eaad600a681039e6f9a15ae6d7666b8da7dc8473",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.3": {
-      "sdist": [
-        "8b7bd70b1dfe6050b5723df5bcd80e794ef431ecf6f88438454df2be2ec4d2f7",
-        "CoolAMQP-1.2.3.linux-x86_64.tar.gz"
-      ],
-      "wheels": {
-        "CoolAMQP-1.2.3-py2.py3-none-any.whl": [
-          "c042a9c797c8721107a1d235b5d20402ff4e31227d1b3a8ea300901a95d7a19a",
-          "py2.py3"
-        ]
-      }
-    },
     "1.2.4": {
       "sdist": [
         "90dd255de9d1a9d86fd520c13182a696bb5ed3428e4c4236df09025b8ea2f349",
@@ -13824,6 +13860,42 @@
       "wheels": {
         "CoolAMQP-1.2.4-py2.py3-none-any.whl": [
           "c696f4808cd65f12c0191d1923944faab2bb41dae93ab5df7d4385eaf5919858",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.5": {
+      "sdist": [
+        "b827b130d17e91f93b969e4ba44fbd8dfbe0844ebfb2fe7339d3916b0694da90",
+        "CoolAMQP-1.2.5.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "CoolAMQP-1.2.5-py2.py3-none-any.whl": [
+          "025fd2626721029d1d725b0dacd3397b93af947d5ac669e434d738e32d69ddd5",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.6": {
+      "sdist": [
+        "5a1037ecd576ba49a6810a84334f243f3c07a6e91f456262a2bb729d056fcb1c",
+        "CoolAMQP-1.2.6.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "CoolAMQP-1.2.6-py2.py3-none-any.whl": [
+          "c597ab4b31ecf59d7484a7917f337da1e2d1c7d033b39323cf0971e40bc7b119",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.7": {
+      "sdist": [
+        "0d4e4623165931fabf87921f769e68c126001c56081c5d5ac6bd4e65aec0aea0",
+        "CoolAMQP-1.2.7.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "CoolAMQP-1.2.7-py2.py3-none-any.whl": [
+          "e01593321744e3d7ad7740ae4b175880d7ccb836eb9bfaefbd8ff5f83e94c9d4",
           "py2.py3"
         ]
       }
@@ -26572,6 +26644,14 @@
       "wheels": {
         "hexpot-0.2.5-py3-none-any.whl": [
           "bf3e3d951824ca4582cf98eb61d801385f1f3de0cd9deed6ffbd0583db6bec90",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "wheels": {
+        "hexpot-0.2.6-py3-none-any.whl": [
+          "3968a95363b04006f2f9245eb8813a2c036d760762ccdb41a5a620264b0630ef",
           "py3"
         ]
       }
@@ -40126,6 +40206,18 @@
       "wheels": {
         "mypy_boto3_emr-1.14.2.0-py3-none-any.whl": [
           "d5e0e2b5ce3d4e75d4a7d8b83c2abe504cc465b147549b99d5e4e61fcc30f457",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "a9cac74376665fc3c88e2e54a0b33fe15226457bc9c9a905c4b0596d7e248cfe",
+        "mypy-boto3-emr-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_emr-1.14.20.0-py3-none-any.whl": [
+          "322b1d683f7a53fc2c6483eb21c42761c50c6eb2edc25479029654dfedb65311",
           "py3"
         ]
       }

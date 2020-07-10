@@ -3141,6 +3141,18 @@
           "py3"
         ]
       }
+    },
+    "1.51.0": {
+      "sdist": [
+        "6416fcbaafb77f05ffed113b3fc082f2f00b280a676e3d948bcfd1452e789333",
+        "aws-cdk.aws-resourcegroups-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_resourcegroups-1.51.0-py3-none-any.whl": [
+          "b9b46a1c4f8628861b0dfdac735579366186b5c6dc022af6979c9c79f225ba8c",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.custom-resources": {
@@ -3956,6 +3968,18 @@
       "wheels": {
         "aws_cdk.custom_resources-1.50.0-py3-none-any.whl": [
           "de5efb7e94fdfa80f0c6d42124f90286ebd49fc83abdfdc1d16866d2ff0e6f84",
+          "py3"
+        ]
+      }
+    },
+    "1.51.0": {
+      "sdist": [
+        "eebac389c9f62ba9a3831318f7de0406bcd979f33fbae259564d12d1069700f6",
+        "aws-cdk.custom-resources-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.custom_resources-1.51.0-py3-none-any.whl": [
+          "bde0bdc52df99b5aa306a200cf141e16308b6a12d6aeadbbb4d09ce9e173bfd6",
           "py3"
         ]
       }
@@ -6687,6 +6711,20 @@
         "casbin_sqlalchemy_adapter-0.1.0-py3-none-any.whl": [
           "0db2649974c64a701a5448b8c4be0dc02d889a3ab7a43c00476a9bb8848f29ee",
           "py3"
+        ]
+      }
+    }
+  },
+  "catalog-client": {
+    "1.0.0": {
+      "sdist": [
+        "9f4c2da824c2905613e767b6ed1a7a1ac40fed39caeb74e85592c164ff8c5e26",
+        "catalog_client-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "catalog_client-1.0.0-py2.py3-none-any.whl": [
+          "b15deca35699ecb757b9b8f635f6e86f960e462fffba759715086bc2c3487b9d",
+          "py2.py3"
         ]
       }
     }
@@ -10346,6 +10384,12 @@
       "sdist": [
         "dc94faec40af0b5ddb83684b01f99a7e21db0a7042d8d1ec80d68d1c8cc35f38",
         "datatypes-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "eed9b9be45d0d4017dd9059516944b441123c4383b67a9820e086fdc55d12ecc",
+        "datatypes-0.0.6.tar.gz"
       ]
     }
   },
@@ -17682,6 +17726,12 @@
       "sdist": [
         "b1ee8f1e17682dfc929bde32a9aaae1fae87a418ff766d2fcab7dc3a13054fc5",
         "fasta-reader-0.0.7.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "91da34e1c7c4b3277d783561c03de2015fa9a49fd943ab26322c4c908bb6e91a",
+        "fasta-reader-0.0.8.tar.gz"
       ]
     }
   },
@@ -29598,66 +29648,6 @@
     }
   },
   "meaningful-re": {
-    "0.1.0": {
-      "sdist": [
-        "4c79a638efb8102618ecc0d029d2999ad4aea835b41955a11a41fbfff9ffb269",
-        "meaningful_re-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "meaningful_re-0.1.0-py3-none-any.whl": [
-          "bd2ee9c836e1dc526c2d95969a6edcb8cd5575f43264a1d361f22e79e1ebc46c",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "8390908cecb302d08f4e74c63422512d2d49cd1bb5098111d982f627feb1511d",
-        "meaningful_re-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "meaningful_re-0.1.1-py3-none-any.whl": [
-          "b1de931d07804914e51a9a452e5ba626e9d52ea9efa28ae62835d6bf037e6ad2",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "3a24d910fe75ff2830131e5322bc4b7299d1d36858b328e88d8c9a22de3bdc08",
-        "meaningful_re-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "meaningful_re-0.1.2-py3-none-any.whl": [
-          "a5136d43412bde0824a19a140ecfa92963ab6bbbcdf7c622cecabb4a226d4d9f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.21": {
-      "sdist": [
-        "9e6f22126411b8734f6ffb27e2e7984d41fdb17a01124aaeefb12ccd478f4106",
-        "meaningful_re-0.1.21.tar.gz"
-      ],
-      "wheels": {
-        "meaningful_re-0.1.21-py3-none-any.whl": [
-          "4f465618b4741f5cbee590cc191970cd3350c5044e419f999e2aa69d6513eda5",
-          "py3"
-        ]
-      }
-    },
-    "0.1.22": {
-      "sdist": [
-        "f731fb05f662e30697c6d73b184f60367a468f3d1517453b7378c3bb5582a9f6",
-        "meaningful_re-0.1.22.tar.gz"
-      ],
-      "wheels": {
-        "meaningful_re-0.1.22-py3-none-any.whl": [
-          "e2dfac1d7a0d494307a2259c6d88acf4e6ce2e776dae3134091d2d942a876013",
-          "py3"
-        ]
-      }
-    },
     "0.1.23": {
       "sdist": [
         "8c374a97feb66a7aff2a5c2418b58459264eb9246edc85ab1e8816563a58a776",
@@ -32026,6 +32016,18 @@
       "wheels": {
         "mypy_boto3_iot_jobs_data-1.14.2.0-py3-none-any.whl": [
           "12646638bb8c9aea543cb106844d1613724c3091a9d8e4fe5bbfd841bbfffc7d",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "0713b33f0a3e8f06dd7c4a7b501a7f70e1348d995b5eb613b9ec630792816ffc",
+        "mypy-boto3-iot-jobs-data-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.14.20.0-py3-none-any.whl": [
+          "b962e5d89ddafe09162865a5bd6749cbdaeddd745c082f4a48ee60c03d1fdab6",
           "py3"
         ]
       }
@@ -36156,6 +36158,18 @@
       "wheels": {
         "optcom-0.3.4-py3-none-any.whl": [
           "98d041fbf91f9dd11e8ea5eff93800acbaf2d6f6cb1395ded5d756bae8b31510",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5": {
+      "sdist": [
+        "d1e2474ef000b4fc3a704ba5bd086b2fa12a47a99fd84b3270b0bf9453ded4ab",
+        "optcom-0.3.5.tar.gz"
+      ],
+      "wheels": {
+        "optcom-0.3.5-py3-none-any.whl": [
+          "8ead8066c829997f4eee18a9944b39ab480019b25c69e0507981bacbe0771232",
           "py3"
         ]
       }
@@ -45191,6 +45205,20 @@
       ]
     }
   },
+  "python-minio-l3-cache": {
+    "0.1": {
+      "sdist": [
+        "21bd9fe3dbdbb424fc093593d7467c8f2cfb48d81c2ba246fa9270a86f234e15",
+        "Python-Minio-L3-Cache-0.1.tar.gz"
+      ],
+      "wheels": {
+        "Python_Minio_L3_Cache-0.1-py3-none-any.whl": [
+          "c4d9f1a839b288ddfddcbaf06ec2ea45dd97d2f6d64a2128e9a67fb3154b06aa",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-msp430-tools": {
     "0.2": {
       "sdist": [
@@ -49965,6 +49993,12 @@
         "c629c04ddabb4eca99a8d3a1a760a2af2c5391892a67ac59cf1b5cb390eb5dbc",
         "sentineleof-0.3.1.tar.gz"
       ]
+    },
+    "0.3.2": {
+      "sdist": [
+        "4a3836306651f13be4f39e427ab3e1e8d100c438103fbe2bfed2f8714df3c787",
+        "sentineleof-0.3.2.tar.gz"
+      ]
     }
   },
   "sentry-penelope": {
@@ -51618,6 +51652,18 @@
       "wheels": {
         "slackflow-0.0.4-py3-none-any.whl": [
           "af2eeed31cf5d505c31c47959b739cebf64c877941c31693cca5ed6e1e239800",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "92c3ae8691c3c3ad25732484be3f539e24c8687fff5053f6267c079ef63ea73f",
+        "slackflow-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "slackflow-1.0.0-py3-none-any.whl": [
+          "5ae17edfab91e73281cb5b3b9c39737a9820d7e6bd3579d9216509e808bfc0c5",
           "py3"
         ]
       }
@@ -59415,6 +59461,14 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "wheels": {
+        "VkInline-0.3.1-py3-none-any.whl": [
+          "23b5c91764767133a21c1d0f436411332ead9ac9ee87f29a8395464cadf53358",
+          "py3"
+        ]
+      }
     }
   },
   "vodi": {
@@ -62048,10 +62102,34 @@
         "zpytrading-0.0.17.tar.gz"
       ]
     },
+    "0.0.18": {
+      "sdist": [
+        "fd70bec832d9dedd310916fa91c3b5bf19714bebd1d0a4bef07f57529871bc64",
+        "zpytrading-0.0.18.tar.gz"
+      ]
+    },
+    "0.0.19": {
+      "sdist": [
+        "e63aa3c84514d81541c2d9a80b4010ab9dfe9c5b2903c139cd9dfdee90f9c57b",
+        "zpytrading-0.0.19.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "586b06f483653bff4bd42cf2860de0817472c3d443500b39261fad437d284b3c",
         "zpytrading-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.20": {
+      "sdist": [
+        "8dee2c6c7c607af3a3769aee99a24393bcb65593d30b38126ed64de0650221f7",
+        "zpytrading-0.0.20.tar.gz"
+      ]
+    },
+    "0.0.21": {
+      "sdist": [
+        "fc9b7a30e669a7cbc993a7c6d5a681d53ddabdfc19513753dde74f1107ba61f2",
+        "zpytrading-0.0.21.tar.gz"
       ]
     },
     "0.0.3": {

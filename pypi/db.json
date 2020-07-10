@@ -513,6 +513,12 @@
         "76634a43abe610a5952a381d2137b10447329a653b698ad995b3fae9f4006d9c",
         "adafruit-circuitpython-lps35hw-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "291456c12db5bd88f638998afc83b8e071b1d7035e8d6968da0318dc737b1d3e",
+        "adafruit-circuitpython-lps35hw-1.2.2.tar.gz"
+      ]
     }
   },
   "advanced-plot": {
@@ -3340,6 +3346,18 @@
         ]
       }
     },
+    "1.51.0": {
+      "sdist": [
+        "e630982d5cbb6389538693558c0b74f90bcbfb495966df1e19e539e04966df38",
+        "aws-cdk.aws-cloudfront-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.51.0-py3-none-any.whl": [
+          "7539c7748dd35194da651e6072ea6448b1c68bd58b626867f8c34abe8de24f04",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "9a0ff41e30b4eb11d2f48bf25ccd761acd7ce9511cb77910499817bf4a6e84f3",
@@ -3460,6 +3478,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.48.0-py3-none-any.whl": [
           "6f1dc0f853e27d9d79270886cd3a529b46ee8a978c91a3e08819db965fcda3df",
+          "py3"
+        ]
+      }
+    },
+    "1.49.0": {
+      "sdist": [
+        "2c4030f165b9db001c2d98b440ad474cfaa8c8ed033825b4951b3ee5721a455c",
+        "aws-solutions-constructs.aws-iot-kinesisfirehose-s3-1.49.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.49.0-py3-none-any.whl": [
+          "74c54fb53d203e2b922860037a926bc4967c5dbc7742d7b36aa2648808f4a575",
+          "py3"
+        ]
+      }
+    },
+    "1.50.0": {
+      "sdist": [
+        "dc7d018a7d546d07909443dec89b386ba0f508181530cb43fea42dbf287abf0f",
+        "aws-solutions-constructs.aws-iot-kinesisfirehose-s3-1.50.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.50.0-py3-none-any.whl": [
+          "87764e447711fe106eeff8f3a74859569cd627f39082e96bb1b3db8b4b7b9c16",
           "py3"
         ]
       }
@@ -24781,6 +24823,14 @@
           "cp38"
         ]
       }
+    },
+    "0.4.0.dev20200709": {
+      "wheels": {
+        "hat_util-0.4.0.dev20200709-cp38-none-any.whl": [
+          "2bdd58178eacefe1d9e0871e31f01d411082d53d7d835ba2265f8754159f0cd1",
+          "cp38"
+        ]
+      }
     }
   },
   "hatta": {
@@ -26038,6 +26088,18 @@
       "wheels": {
         "hypothesize-1.1.0-py3-none-any.whl": [
           "d6c3406a720a896d8b40ed17d6e58a3d5b95e6c38aaab8b303b08b2453bfd69a",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "370ebc34e1e480affae66783f475ea3ac378921ea54ca1cead150fd95b44ef0a",
+        "hypothesize-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "hypothesize-1.1.1-py3-none-any.whl": [
+          "9fdb7284d22e878a8d16befafd5a80fd838e6240bd09b0c6a3008b8ff827fffc",
           "py3"
         ]
       }
@@ -33385,6 +33447,10 @@
       }
     },
     "3.6.2": {
+      "sdist": [
+        "13968c2b9af30bfacd628a4d0ab8399ecdc9e5321939f756256999250e89ba4e",
+        "ms2pip-3.6.2.tar.gz"
+      ],
       "wheels": {
         "ms2pip-3.6.2-cp36-cp36m-manylinux1_x86_64.whl": [
           "bdf5eec41c6140271b78e19ac49f4ea8fef08887a6c75fef91418df57fd44213",
@@ -35996,6 +36062,42 @@
         ],
         "NEURON_nightly-8.0.dev131-cp38-cp38-manylinux1_x86_64.whl": [
           "f81374ced4ac53f753cb533f8f83b9487cd47386ff5584530386113f33ef5231",
+          "cp38"
+        ]
+      }
+    },
+    "8.0.dev134": {
+      "wheels": {
+        "NEURON_nightly-8.0.dev134-cp35-cp35m-macosx_10_9_intel.whl": [
+          "09c7481b763b1ce5fb3f11ef8d2fe7aa8b4f75766ea93437dbac731a2d2a7072",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev134-cp35-cp35m-manylinux1_x86_64.whl": [
+          "7ef26c15b0239f4043ce6d612568db509b938c47e7348ce0b044d8d12f7fae0e",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev134-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "48406e36e07115a8c3c2718c024bc00d65a5952046a678797577b64772c142c1",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev134-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b7c96e17d5c5278771a14e0180de0388f54132b545373dd863bd3c719b0e8d41",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev134-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2845a5ce5c6b7c8ba569cd9e8ca6d175afbdaece9f576da62879cbab293f7520",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev134-cp37-cp37m-manylinux1_x86_64.whl": [
+          "577ae331ff62e3d1a63effd873d5846d232460f6b0993c707e4099e0865727e0",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev134-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "a2e1bba56e19862abcb7c2385a8f7d92748bc9641d69c8940d92de7f59ac7632",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0.dev134-cp38-cp38-manylinux1_x86_64.whl": [
+          "380318549ddfc5c13005469707f7d5d3536050ac72813552276aa65bcf52bb5d",
           "cp38"
         ]
       }

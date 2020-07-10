@@ -257,6 +257,12 @@
         "7f508c7b2d02fe19de04e3905b6e13617b54e4d16d2416b88bbf94760f618b58",
         "adafruit-circuitpython-turtle-2.1.1.tar.gz"
       ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "5ea7e35625d7216edf645193de4ee809bf5f1991b9b6132e1d623c6ba66eba32",
+        "adafruit-circuitpython-turtle-2.1.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-wsgi": {
@@ -270,6 +276,12 @@
       "sdist": [
         "9598fd77de08b54b1df2fedae1f18a6f15d0398589ba55ca4e101617d6437b9a",
         "adafruit-circuitpython-wsgi-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "e3cd762df2b8f16ba02f95e5103b12667c317eee9338cc8f3a33bc9f0c395237",
+        "adafruit-circuitpython-wsgi-1.1.1.tar.gz"
       ]
     }
   },
@@ -4162,6 +4174,18 @@
         ]
       }
     },
+    "1.51.0": {
+      "sdist": [
+        "1194bb8b4ce91b90d0427eed7011cfc11825b1dd381da8d12a54bc1d8f6eeb89",
+        "aws-cdk.aws-wafregional-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_wafregional-1.51.0-py3-none-any.whl": [
+          "148bfbd13503bc3c16c73e1da5e2db5de53f181c269aae18f823ade866cb9577",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "e0f91e43aaab01021892a2d820cb6710cb0197ef0b6ea8d672d408a08fbdaa62",
@@ -5896,6 +5920,18 @@
       "wheels": {
         "bpforms-0.0.15-py2.py3-none-any.whl": [
           "d77a7406978cd250e91719134033cf583d799a290add9ff2391c886de37d9ec7",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "0ab149d81663107c2b7898ab7d181de6c9a4c789a9aba2dc9e532b4079851212",
+        "bpforms-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "bpforms-0.0.16-py2.py3-none-any.whl": [
+          "fda6140400868b68c2157ea8927e0947046bed21618697a9825c17b9e92e3ed4",
           "py2.py3"
         ]
       }
@@ -19446,18 +19482,6 @@
     }
   },
   "eox-tagging": {
-    "0.2.0": {
-      "sdist": [
-        "357b5f8d22748f7c190a04b6e06839bc3039c8ba3d50efea0755216a759e7a5b",
-        "eox_tagging-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "eox_tagging-0.2.0-py3-none-any.whl": [
-          "c4d81a728019253fa924017328da3875cc3a829f11eb99605530a9e2e4ee7aa3",
-          "py3"
-        ]
-      }
-    },
     "0.3.0": {
       "sdist": [
         "f224689a634c51df14ffbf8c830af6594525ad6b9663eafedefa296952b83ba5",
@@ -25078,6 +25102,18 @@
       "wheels": {
         "hiMoon-0.4-py3-none-any.whl": [
           "f72e0a6970bb430861244aea6c8f4a6cfd2288d2d16bab046a7ba4bbc0fd1cc6",
+          "py3"
+        ]
+      }
+    },
+    "0.5": {
+      "sdist": [
+        "10c9ad6e1db2b4831e6d11271c8af67295890422bc871befa19e8749de3cfbc7",
+        "hiMoon-0.5.tar.gz"
+      ],
+      "wheels": {
+        "hiMoon-0.5-py3-none-any.whl": [
+          "6c0bb039206749eb4773dd14c606092eff4326e4d9c0c9447429f21c9ffeee8d",
           "py3"
         ]
       }
@@ -39046,6 +39082,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "50f2debfa695229369fd89cd3060742fee8fb00a757b0f66b84c8777a6c7577b",
+        "mypy-boto3-mediapackage-vod-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediapackage_vod-1.14.20.0-py3-none-any.whl": [
+          "f7648332315c31397372249db88a06a54890fa59e395290c61cd16a5b49385ba",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "682f9338a377c8dbdfe94e9126ecd4f99d50d03c2fc64259d63c92ecab2a322a",
@@ -42174,6 +42222,22 @@
       "wheels": {
         "nse-0.1.4-py3-none-any.whl": [
           "5f817478714fa520c4e9bd9ab0f4028e86682a3f2ce679fc61f2e001e5d40ad4",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "wheels": {
+        "nse-0.1.5-py3-none-any.whl": [
+          "dce81ed568070f7a45fb4e6c4a71919615b49b0fb1b5b6b61e6891a17453937b",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "wheels": {
+        "nse-0.1.6-py3-none-any.whl": [
+          "91205c64635c3b7a5c7613454aa345f6a1e12e681ab5c448e7597756b7f5b05c",
           "py3"
         ]
       }

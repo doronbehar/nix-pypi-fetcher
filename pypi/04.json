@@ -483,6 +483,12 @@
         "eb58d01bb95c0b8f270d8024f387f6ffe0f4f2447d22f245607cdbaf21c55f63",
         "adafruit-circuitpython-aws-iot-2.0.1.tar.gz"
       ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "834263a6b09df0bb972a64baf496e9add4876dc73b948d7f656dd2be6358a112",
+        "adafruit-circuitpython-aws-iot-2.0.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-ble-apple-notification-center": {
@@ -514,6 +520,12 @@
       "sdist": [
         "a2f35154b4e254eed053f01d26ffd5f9226701ef4dac2bc61e1c090343289309",
         "adafruit-circuitpython-ble-apple-notification-center-0.9.1.tar.gz"
+      ]
+    },
+    "0.9.2": {
+      "sdist": [
+        "a7bf8ba85e7c7d1fffd61b27d8f585836848d465aaa070cee5608bd9e2596333",
+        "adafruit-circuitpython-ble-apple-notification-center-0.9.2.tar.gz"
       ]
     }
   },
@@ -3174,6 +3186,18 @@
         ]
       }
     },
+    "1.51.0": {
+      "sdist": [
+        "58aef4beac8333c3c6867757e6b6ecba379d881a2bdf6e658885ccdec1992445",
+        "aws-cdk.aws-elasticloadbalancingv2-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticloadbalancingv2-1.51.0-py3-none-any.whl": [
+          "946459cf743df2a17729777f0c601cb34e8c86e63150147f382d9315d08ac215",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "5e7563a6b2d35823a0753e807737ef728027cc615723b92ce4fd5c7c26184ca3",
@@ -4168,6 +4192,18 @@
       "wheels": {
         "aws_cdk.aws_lambda_event_sources-1.50.0-py3-none-any.whl": [
           "32438312ba54de64cc35c17b23c96805fc05e53453a5ac476ee70e2f1910939e",
+          "py3"
+        ]
+      }
+    },
+    "1.51.0": {
+      "sdist": [
+        "774f504390ee2f25234bf30a3815fad0247f4259336bfd80abedcee263116dc9",
+        "aws-cdk.aws-lambda-event-sources-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_event_sources-1.51.0-py3-none-any.whl": [
+          "fa49f611b9ebe36dfd1c8fb898d97238f96d28d423af67e6a5d5ddf9a202726f",
           "py3"
         ]
       }
@@ -36437,26 +36473,6 @@
       ]
     }
   },
-  "junior-ds": {
-    "1.0": {
-      "sdist": [
-        "41bdae6d606b4f265ae87465fc092642371616c7a4ae8bac9a21a9e9d5abfe33",
-        "junior-ds-1.0.tar.gz"
-      ]
-    },
-    "1.1": {
-      "sdist": [
-        "9c87bf29db31378a123bc125d2e28e0a4d36277c3e5b819570802258417ea348",
-        "junior-ds-1.1.tar.gz"
-      ]
-    },
-    "1.2": {
-      "sdist": [
-        "62260b03af1bb0c14dbba64c33276222d6e3215ae91116457ef45a3d30eebe8a",
-        "junior-ds-1.2.tar.gz"
-      ]
-    }
-  },
   "junos-netconify": {
     "0.1.0": {
       "sdist": [
@@ -38590,6 +38606,12 @@
       "sdist": [
         "2475c93b7407ddbafffc60f4ffa86c9dff095d601b4f9783f74e7147741de461",
         "large-image-source-nd2-1.1.1.dev47.tar.gz"
+      ]
+    },
+    "1.1.1.dev49": {
+      "sdist": [
+        "53501b00cb1d932c4ab16f9ec2b29218e37a369466f38386010b9bd95df306ed",
+        "large-image-source-nd2-1.1.1.dev49.tar.gz"
       ]
     },
     "1.1.1.dev6": {
@@ -44818,6 +44840,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "24ea59f1247d2a01f4a31947a976f6de952ae38fb58f5bee5e5686eec04a45d8",
+        "mypy-boto3-codebuild-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codebuild-1.14.20.0-py3-none-any.whl": [
+          "412fdc528fb997d0274bc0ad7001c3156d4141460a1ac31dfd3e9ec523ae9583",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "0348c4432ea4d823f698f4aba0d9a2e0ca71b3e7cbef55802b7151fa1a48138d",
@@ -46064,6 +46098,18 @@
       "wheels": {
         "mypy_boto3_outposts-1.14.2.0-py3-none-any.whl": [
           "be3f08e4c852d1b2789c46a59577cc9ff6f8c0250744061789262fa9cd76509f",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "829ef483437ec92a1eb37be0005eafa65560987a72de0f5db8e8e0d89cc53c04",
+        "mypy-boto3-outposts-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_outposts-1.14.20.0-py3-none-any.whl": [
+          "1c737cfdab701c5655b90dc33e6515ef551b950f2368189c5b88fd56d866ebd4",
           "py3"
         ]
       }

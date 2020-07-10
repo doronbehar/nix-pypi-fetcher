@@ -285,6 +285,12 @@
         "46817e80ffa174a90a3912e20a7084dcc36691b09de66d1e4afbf7d06ab84678",
         "adafruit-circuitpython-crickit-2.3.1.tar.gz"
       ]
+    },
+    "2.3.2": {
+      "sdist": [
+        "e2750394a53b4171962e91d9f2efcb0d6f136d61e1134fe5b65504af8a68da01",
+        "adafruit-circuitpython-crickit-2.3.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-irremote": {
@@ -341,6 +347,12 @@
         "96967ff2cf84213e25253983e5e63e799f5774578e27dbe1f3bd885e0d3175ce",
         "adafruit-circuitpython-irremote-4.0.0.tar.gz"
       ]
+    },
+    "4.0.1": {
+      "sdist": [
+        "77bbd73f6439aee0afb33a9d2194e0a0ac129f56d00eda2b11278f8aa0e4bb5a",
+        "adafruit-circuitpython-irremote-4.0.1.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-l3gd20": {
@@ -396,6 +408,12 @@
       "sdist": [
         "a09d481d5e43dcb61437f070ebc204e8bbf0343cc912ac76a72b47cc8859e102",
         "adafruit-circuitpython-l3gd20-2.3.0.tar.gz"
+      ]
+    },
+    "2.3.1": {
+      "sdist": [
+        "b22e75a1519efd9a39940068bf807ca994a768013ea9153ce5d44cd082c38d86",
+        "adafruit-circuitpython-l3gd20-2.3.1.tar.gz"
       ]
     }
   },
@@ -8677,6 +8695,42 @@
           "py3"
         ]
       }
+    },
+    "1.0.429": {
+      "sdist": [
+        "7d2ed4d88a53d4bdb28ea0213dd2e1bcf69c22d3dba67d29c03b418332bed5a3",
+        "bridgecrew-1.0.429.tar.gz"
+      ],
+      "wheels": {
+        "bridgecrew-1.0.429-py3-none-any.whl": [
+          "ffbd3242866bff1cc3a3f63225451d7517b1126bc704a17f8b9830dd4944119b",
+          "py3"
+        ]
+      }
+    },
+    "1.0.431": {
+      "sdist": [
+        "dc9bf23a86b49dd85b99d39295d75709b812925d05742365b30e6deeddc41f4a",
+        "bridgecrew-1.0.431.tar.gz"
+      ],
+      "wheels": {
+        "bridgecrew-1.0.431-py3-none-any.whl": [
+          "70d8b9544223197bf4c0b0085ff28b3a4dd4a9af8894fe6d8137ae7fd526fa41",
+          "py3"
+        ]
+      }
+    },
+    "1.0.432": {
+      "sdist": [
+        "225c649fd0f012b94732a0a868372311c6966cddc01840e4831db34a80c921e3",
+        "bridgecrew-1.0.432.tar.gz"
+      ],
+      "wheels": {
+        "bridgecrew-1.0.432-py3-none-any.whl": [
+          "deb5737053802749bd6ec5baafa52e61b75279130c49937a4fd46d8a143a0e84",
+          "py3"
+        ]
+      }
     }
   },
   "broomer": {
@@ -16865,6 +16919,20 @@
         "07a6b9be68becba44e8d6e231ab787b0bcd0c330eeb6321889af8948c6170da8",
         "django-google-authenticator-0.5.tar.gz"
       ]
+    }
+  },
+  "django-google-cloud-tasks": {
+    "0.0.1a1": {
+      "sdist": [
+        "b110bceff067c20e359d53e4814ef017df17064978ff4f966bd367749cdb9989",
+        "django-google-cloud-tasks-0.0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "django_google_cloud_tasks-0.0.1a1-py3-none-any.whl": [
+          "803e854bf42cbe14df720a09a277d1ca01fc0d6dc9a6a369dbd0e4f960b6c5ec",
+          "py3"
+        ]
+      }
     }
   },
   "django-gtranslate": {
@@ -35750,6 +35818,18 @@
       "wheels": {
         "mypy_boto3_acm_pca-1.14.2.0-py3-none-any.whl": [
           "cc7198e4a2aaba597b01f865fd9d3a0932848220098d9f496427f63ddc512e59",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "afc2f8fbc5a2ab3af01c95528d8c9a480e48cad085ecec5bf243088256ca52e8",
+        "mypy-boto3-acm-pca-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_acm_pca-1.14.20.0-py3-none-any.whl": [
+          "c69b4277749e835d526670683ae56a68ea53c5a7e4c306e90a2aa06aee81c7e2",
           "py3"
         ]
       }
@@ -60417,6 +60497,58 @@
           "cp38"
         ]
       }
+    },
+    "0.6.4": {
+      "sdist": [
+        "28c729e148dc354d46ea7c330ed0ae60e8e93d56d49896ce69123121d9bf9428",
+        "tiledb-0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "tiledb-0.6.4-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "03f6d62a164fc4702e5ba99f72abbea1978e5e260a12cd5aa8c64538e2b6eb0b",
+          "cp27"
+        ],
+        "tiledb-0.6.4-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "5c4326b60499340d00675a8e189516747a57e11e2a62beba68c0806c482b574d",
+          "cp27"
+        ],
+        "tiledb-0.6.4-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e1a90a65b50a71d327155d1d0dc5ee8eb5460ed5240b8dcf6f08e91fd1939cc6",
+          "cp35"
+        ],
+        "tiledb-0.6.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "9bcb484110ba03de81d591ea1c97ab7544962a97c754b62b0798b3efb4b23aae",
+          "cp36"
+        ],
+        "tiledb-0.6.4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "17991c0324129a1311a038a1fac232f9322168b289ddbe7da9a2eb2fea8b53b9",
+          "cp36"
+        ],
+        "tiledb-0.6.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3fde5edf1bcec769f5f41b6d8eb8ac9844b13573b7e8e3005a9598a45df32df6",
+          "cp37"
+        ],
+        "tiledb-0.6.4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "6d5a12885a4ebbfd70fca34a76e83aad8b7dbe620712d89bb467409262f15da8",
+          "cp37"
+        ],
+        "tiledb-0.6.4-cp37-cp37m-win_amd64.whl": [
+          "427795214c0378af679d1ccafaf8a7de23709eeb2ce13e2af8052556d9e79cdf",
+          "cp37"
+        ],
+        "tiledb-0.6.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "532d6cdb627a12c6ce5b04629ebdbc68f23134361391acd857716892a71be612",
+          "cp38"
+        ],
+        "tiledb-0.6.4-cp38-cp38-manylinux1_x86_64.whl": [
+          "d1a97c3f371050a7a67b52bdf664e8f5c78234e23be5238f47f53359024f97b5",
+          "cp38"
+        ],
+        "tiledb-0.6.4-cp38-cp38-win_amd64.whl": [
+          "91ef4caf143f378370c63979593adefd7a92e5764bd5de9f135e3eff17bd2d06",
+          "cp38"
+        ]
+      }
     }
   },
   "tkimg": {
@@ -62492,6 +62624,46 @@
         ],
         "wbia_pyrf-3.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
           "0ceeef8190441196a300dcee32e50395b2b49f105d8fd47899021777a94ffa9a",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "139857d043babfa9c8061749efd81674ceb45101b8c8fee5c78622cd9965ff42",
+        "wbia-pyrf-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "wbia_pyrf-3.0.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "4b92daa11200cb850e7fa4704cc285f77db57b0dfbd16f411c833aa929347f24",
+          "cp35"
+        ],
+        "wbia_pyrf-3.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "71d66d8053160666ec5bb4ae32f1f576848c5c7980027188f038a5849a14e1b6",
+          "cp35"
+        ],
+        "wbia_pyrf-3.0.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "e2d31586a7b0f7c6c33126b1f548d8030679a6e909fd556fc6e29053adbd2a0b",
+          "cp36"
+        ],
+        "wbia_pyrf-3.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "4b38a2385aaa33d403bf8c2626f18673efe93f6b0a3c36b4091f671b5308e719",
+          "cp36"
+        ],
+        "wbia_pyrf-3.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "5b9e67beef49561e9fa33780ba79855be9700d20e32a36eec5de6fc41ea0c3e4",
+          "cp37"
+        ],
+        "wbia_pyrf-3.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "439b6708b24cf9160c2cd0da9c463f468e399af69cb9c6d1e6679f0c9e742003",
+          "cp37"
+        ],
+        "wbia_pyrf-3.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "f287242ef0de1cf733f2046e0fb8d42da4086707c52bad3362f104b39a345b7e",
+          "cp38"
+        ],
+        "wbia_pyrf-3.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "6caef013dbd1d718df9d5068b6c628b059641741cf1a0f74e77b22b780b115f6",
           "cp38"
         ]
       }

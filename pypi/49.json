@@ -109,6 +109,12 @@
         "83c4bab6da53b6cadbebceb9d01bc754b13dd1644c909706c0ffb366a0eb11a9",
         "adafruit-circuitpython-hcsr04-0.4.1.tar.gz"
       ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "b8455e19f7626f9d45ff9cc3009619d8dc29a0e8b05611d6dcabfa516d606d25",
+        "adafruit-circuitpython-hcsr04-0.4.2.tar.gz"
+      ]
     }
   },
   "adafruit-ili9341": {
@@ -18490,6 +18496,12 @@
         "garminconnect-0.1.14.tar.gz"
       ]
     },
+    "0.1.15": {
+      "sdist": [
+        "8c474c19d9ad3e84ab3dd4bc2b5ee40c5d12271fed3ac550a97f560aed20a6e6",
+        "garminconnect-0.1.15.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "b33cc35f6d486779a09f25d337e8959272fe808db4ba48639153fb13d923b0f1",
@@ -28234,6 +28246,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "2e3ad7564f91fe7b3f564376af17bb5eba1e3150dd5f92fd4b2a524dcca2219d",
+        "mypy-boto3-discovery-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_discovery-1.14.20.0-py3-none-any.whl": [
+          "43409db5d2db4840543651615108f14881408413146ffe420f58b483ba999b9d",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "07ac8b14985f77b1b06d7cf63dc8c16255342f1a7590fb9dc2eb72b09d7b11cb",
@@ -29684,6 +29708,18 @@
         ]
       }
     },
+    "1.14.20.0": {
+      "sdist": [
+        "bb9b0923a44b4a416c44165b68a1a21e24538703b7fb8436cc9fafdb6fb2d359",
+        "mypy-boto3-health-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_health-1.14.20.0-py3-none-any.whl": [
+          "81eddd0efaf261a5facac27c9baaa4016de1dc4e9b454d05410e89b953c76022",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "95a1e5a78a9cb34ccbd310c9f514c33380c17c0e404ca96119eff86e9b541667",
@@ -31122,6 +31158,18 @@
       "wheels": {
         "mypy_boto3_lex_runtime-1.14.2.0-py3-none-any.whl": [
           "f6da8eb70b7c23e4ebcd88ae0aeb5614ee8063f926209f719a1e29133f08d331",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "96782d62b30537de0b279222d48d80e024a64b7f2a90a0321128e552c7bb0fbe",
+        "mypy-boto3-lex-runtime-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lex_runtime-1.14.20.0-py3-none-any.whl": [
+          "a0004158d9b63b6bc5710cc2fc5f7a50ef59f304da2ad5b98a7fff714418567b",
           "py3"
         ]
       }
@@ -40644,10 +40692,10 @@
     }
   },
   "pifacecam": {
-    "1.0.6": {
+    "1.0.7": {
       "wheels": {
-        "pifacecam-1.0.6-cp37-cp37m-linux_armv7l.whl": [
-          "cbc6d6ed8a1179c601af2b975c689fe2d773daf11b1c7eebd982cfd56de3fb56",
+        "pifacecam-1.0.7-cp37-cp37m-linux_armv7l.whl": [
+          "f81ebd7fbf12d0bcf45358f73710489caba77718de2f90cf9d4e74fab56e6136",
           "cp37"
         ]
       }
@@ -50636,6 +50684,74 @@
         ],
         "sktime-0.4.0-cp38-cp38-win_amd64.whl": [
           "3523f6697027129cc4c4148697ebc01f31747aa16d4f420fdfa74b891eb184b5",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "f066ce462b5f6013391ec7697471a22e6f67af70b85e670202fed02ac87488b1",
+        "sktime-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "sktime-0.4.1-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "fa46273ee3e8e0ccdbc1c4bd3c49bff015c492083ebd4c63c1589a2bfdc88c26",
+          "cp36"
+        ],
+        "sktime-0.4.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "698a20d3ce3f4fa1c9245dd5f7e6fbe7f49de1f992925851499aba214ba2d3bf",
+          "cp36"
+        ],
+        "sktime-0.4.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "98e5fb9252afeffe3624ae66512b7833a4dfc9b241aaf08958c8e3ab047768e1",
+          "cp36"
+        ],
+        "sktime-0.4.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "24bd7c019ae10e2c882dfa558d92205336801fe1ac9e874ae1967bf190eac6af",
+          "cp36"
+        ],
+        "sktime-0.4.1-cp36-cp36m-win_amd64.whl": [
+          "c183786144cd00940c0c027f9008df9f52e87265b8877f136b7330b0fcfad7db",
+          "cp36"
+        ],
+        "sktime-0.4.1-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "9ea7da3c283d462debaa4aca15c6a6b47ced2efaa0764dcf99b3d451b2335a12",
+          "cp37"
+        ],
+        "sktime-0.4.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ac13950a5053ec4270bb7f98ae85b2e8f71db01af0c704d721da5d6882423993",
+          "cp37"
+        ],
+        "sktime-0.4.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "54aa311810051651479dc2e989c23e846b8d1beb02ab8cd333c5cf97d6a24150",
+          "cp37"
+        ],
+        "sktime-0.4.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "aa2921ba8321ebeb11713013d3e6bbb7c881e539e38ffe38a969feb55f4faa0d",
+          "cp37"
+        ],
+        "sktime-0.4.1-cp37-cp37m-win_amd64.whl": [
+          "d7fbcaa6fd01390b408ad0f41e7b15cf4a3750fa8694dd3b1f2eb47d1cb41e51",
+          "cp37"
+        ],
+        "sktime-0.4.1-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "529d87c7803893372043c4d57acc0aba6743d202f5c2d5bc33060fdf66c6c035",
+          "cp38"
+        ],
+        "sktime-0.4.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "7309c6a623f7c5001efe7c82418255656ebb133a8698c3612c7e0355d8b7f399",
+          "cp38"
+        ],
+        "sktime-0.4.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2ad8e6a4874c680d94fd96a794f79cf3153ad53b4d3933be9a080a90aec389c7",
+          "cp38"
+        ],
+        "sktime-0.4.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "f4c4e1d91d795acb578645906126c384d6f167bc7cbd404e0d30061be76a2182",
+          "cp38"
+        ],
+        "sktime-0.4.1-cp38-cp38-win_amd64.whl": [
+          "e688f0119120beee17ddf902f5cf5deafa063080ca788fa36694c2752628c0d3",
           "cp38"
         ]
       }

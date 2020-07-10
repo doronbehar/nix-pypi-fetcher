@@ -17,6 +17,12 @@
         "b0086b2b4bfe74e0851d9ca5b42f9869758a39627429fb56a77775103f1cf0e8",
         "adafruit-circuitpython-ds1841-1.0.2.tar.gz"
       ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "26c9bb296ceb9140dc808afca93eb1df9a991cca9d97f3081c5cdfe3e362957e",
+        "adafruit-circuitpython-ds1841-1.0.3.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-tmp006": {
@@ -54,6 +60,12 @@
       "sdist": [
         "759bce5f83c8d97d34497780e231c647f546436e4c030ab71bc64f5c10b18579",
         "adafruit-circuitpython-tmp006-2.1.1.tar.gz"
+      ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "7e628ad56e6ca78ca2d6f64a4a6ea269f281a1be0732e104263e9c8ca6861e71",
+        "adafruit-circuitpython-tmp006-2.1.2.tar.gz"
       ]
     }
   },
@@ -3868,6 +3880,18 @@
         ]
       }
     },
+    "1.51.0": {
+      "sdist": [
+        "8efc4d706db42e859fb8ce1fff969f3949604b98eba713519fe8336be2f9aaef",
+        "aws-cdk.aws-datapipeline-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datapipeline-1.51.0-py3-none-any.whl": [
+          "ba789c1b547be88e7f8a009c5ddef76a4041d2ae5a99a9a82171cff5337af464",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "2d839cb956d15a9bff3438507a11910a376b6349defd6d7908199b2407bcf435",
@@ -4862,6 +4886,18 @@
       "wheels": {
         "aws_cdk.aws_sqs-1.50.0-py3-none-any.whl": [
           "b4e1be8c67539be4ab7ce692e8b2e49bf6c0d7976c859de5d6194505baab7b2d",
+          "py3"
+        ]
+      }
+    },
+    "1.51.0": {
+      "sdist": [
+        "ac9c66fb93df4845f06937abb6eef1e0a20c015f6c75f1918306bd10eb3d405b",
+        "aws-cdk.aws-sqs-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sqs-1.51.0-py3-none-any.whl": [
+          "330075d59b82faf2f9f14cc37de2ceedfecfe12001599712a94071b833c83943",
           "py3"
         ]
       }
@@ -16360,16 +16396,32 @@
           "45e1db5b1046b53e1b241578da794bd20616330cc5ab821531c400f0c87d0183",
           "cp35"
         ],
+        "ensmallen_graph-0.2.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "2b16a8b647061283de83e3ccf7062987a9569743e2dea5ca5a7d745643f9f3fb",
+          "cp35"
+        ],
         "ensmallen_graph-0.2.5-cp36-cp36m-macosx_10_7_x86_64.whl": [
           "a1d22c91c11b14a4469580dcaa08cd8a076f9d6bb13a66a5ed30f7d9c8966377",
+          "cp36"
+        ],
+        "ensmallen_graph-0.2.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8cad68e38e5043b02a7baf6c738a6a8217b2412a7b9d646101474cc987fdb9d5",
           "cp36"
         ],
         "ensmallen_graph-0.2.5-cp37-cp37m-macosx_10_7_x86_64.whl": [
           "c67c15ddca22cbc91860e956f965706fb5f98ce28f9de3e9eb55ecd79d3d0be8",
           "cp37"
         ],
+        "ensmallen_graph-0.2.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d0198aa5afc20de88f4a7b90205330d4a083bff60df2c2b30c01dc7973d2cd47",
+          "cp37"
+        ],
         "ensmallen_graph-0.2.5-cp38-cp38-macosx_10_7_x86_64.whl": [
           "8d369eddf938a3f2cab23521edca56dd87dc4038221d67d79477dce13f1e91c5",
+          "cp38"
+        ],
+        "ensmallen_graph-0.2.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "d398f04f3c380a48bbfdee573cd3afaeeec9d68c96b2c321e393509dc6675141",
           "cp38"
         ]
       }
@@ -22906,6 +22958,14 @@
       "wheels": {
         "goopylib-1.0.17b0-py3-none-any.whl": [
           "35214ab8782023afcb0f8f45375d7456d4c8125aa53273aa10ac29cfdb0d2701",
+          "py3"
+        ]
+      }
+    },
+    "1.0.36b0": {
+      "wheels": {
+        "goopylib-1.0.36b0-py3-none-any.whl": [
+          "46e724726643bd24a172cdadaae8a930b995d7a78deaceef3d40a3bdc8bfcc2c",
           "py3"
         ]
       }
@@ -29494,6 +29554,18 @@
       "wheels": {
         "lakeweed-0.1.0-py3-none-any.whl": [
           "765fe20452bb65c33ec51f1ea0bcec5da5877cb881520968f5d64f7912196dfe",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "1275d070bb1c8bac64b87c4979c274c32d3fb11e0fe97d0b569b2ec1919d12c9",
+        "lakeweed-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "lakeweed-0.1.1-py3-none-any.whl": [
+          "e5f507949c20431eca9863f3d3efc02e93ff7921bf6782e18bef5a16d2b525f6",
           "py3"
         ]
       }
@@ -36376,6 +36448,18 @@
       "wheels": {
         "mypy_boto3_sso_oidc-1.14.2.0-py3-none-any.whl": [
           "7d769f28e44f6a7815d10d1ff0137c6172289c1440d6746af0cbfe80be0954b1",
+          "py3"
+        ]
+      }
+    },
+    "1.14.20.0": {
+      "sdist": [
+        "e644fe0825a0e6ac6f33ce656433a9ace64dd25b03ded249d0ea45f775ba36ff",
+        "mypy-boto3-sso-oidc-1.14.20.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sso_oidc-1.14.20.0-py3-none-any.whl": [
+          "0a98a30eb87a02f1745a3e1854956c5382d60da674b91c69dee08a3e7044461d",
           "py3"
         ]
       }

@@ -257,6 +257,12 @@
         "758bd8e73dfa5e453cb9164eba2792819ec0e046a5f75ee49261749308b449ce",
         "adafruit-circuitpython-miniesptool-0.2.2.tar.gz"
       ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "6ff205402a9a74e254cfb13e7c1c44722b9c47c0322f06ef2a528a696c14b03e",
+        "adafruit-circuitpython-miniesptool-0.2.3.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-pcf8591": {
@@ -264,6 +270,12 @@
       "sdist": [
         "11e15a69941363ffd3fdef677b8573a9ab4115dad838076251795d1c704a0f87",
         "adafruit-circuitpython-pcf8591-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "4175daf224b93ff448b645dbd7bd4b3624feb73d3e78ad0e9a4aeca7254672f5",
+        "adafruit-circuitpython-pcf8591-1.0.1.tar.gz"
       ]
     }
   },
@@ -7807,6 +7819,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "wheels": {
+        "CUDAInline-0.0.5-py3-none-any.whl": [
+          "69909b0540dca360f71b5a24727b2e3ce79400033ad34fc0869e350c3d3be043",
+          "py3"
+        ]
+      }
     }
   },
   "cuisine": {
@@ -9596,6 +9616,18 @@
       "wheels": {
         "depinfo-1.5.3-py2.py3-none-any.whl": [
           "32e1f7e17dbf4251db13c4f1fe5452539be9acaae0a2218df74bf59d7f80a909",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.4": {
+      "sdist": [
+        "f76c97e9f7f302d6f6a725d6640bc9e74ac0ab5ecebe37779ee58a3cd437addb",
+        "depinfo-1.5.4.tar.gz"
+      ],
+      "wheels": {
+        "depinfo-1.5.4-py2.py3-none-any.whl": [
+          "0784320bb50f3ef81f2b403213316b5343359b40c0e7eccba201b1a03f167ab8",
           "py2.py3"
         ]
       }
@@ -17384,6 +17416,18 @@
       "wheels": {
         "fairyfishnet-1.15.44-py2.py3-none-any.whl": [
           "905d32730f9b24b2b00fb620af0a92d786c7edfef98a4a8ae280c59ee910ff5d",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.15.45": {
+      "sdist": [
+        "944abda078481d276cdd7b6f0e334f2aa615f214752d951a0adf7eb10b62e31f",
+        "fairyfishnet-1.15.45.tar.gz"
+      ],
+      "wheels": {
+        "fairyfishnet-1.15.45-py2.py3-none-any.whl": [
+          "3050c765cae5119e993629e8485f47942468a550e531eef20af0970c8cc791d7",
           "py2.py3"
         ]
       }
@@ -27692,6 +27736,12 @@
         "large-image-source-openjpeg-1.1.1.dev47.tar.gz"
       ]
     },
+    "1.1.1.dev49": {
+      "sdist": [
+        "3ebc232e4bf8ee88eb2c3eb53880e6af440128d3536c0c4e2f3bd15c016593df",
+        "large-image-source-openjpeg-1.1.1.dev49.tar.gz"
+      ]
+    },
     "1.1.1.dev6": {
       "sdist": [
         "19bd1f45d07fe069b7dafda4379861ecedf672406490760e3697f06b89f44398",
@@ -29602,6 +29652,12 @@
       "sdist": [
         "bb46bb86a80fa08cc20f8a4f9cbeb9a4635fd5e54b20366c89552bb8acc8f88c",
         "mljar-supervised-0.5.0.tar.gz"
+      ]
+    },
+    "0.5.1": {
+      "sdist": [
+        "4a56ca336013989dce43884f4d13007bfdd8cd66eae96b28d2f3728ff185e480",
+        "mljar-supervised-0.5.1.tar.gz"
       ]
     }
   },
@@ -33928,6 +33984,64 @@
       "wheels": {
         "odoo12_addon_account_move_line_product-12.0.1.0.0.99.dev3-py3-none-any.whl": [
           "f06ce188c41a960cc4bbb2fa2267163ab146ef53f73a32d5284071a91e2ef609",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-fieldservice-account-payment": {
+    "12.0.1.0.0.99.dev10": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.0.0.99.dev10-py3-none-any.whl": [
+          "e22ac6a94d1953f4a3ae01b0af65e7021376c4ad1a216a297464e31863f44f25",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev7": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.0.0.99.dev7-py3-none-any.whl": [
+          "b5482f5834cb39b672e6beb6dfbc1224315bca70cec77eb9dc3e925ce5df6fa7",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.0.1-py3-none-any.whl": [
+          "98716629661d903806bd0c85d4feb56b8787926e1d744da3ab2567141e1b8715",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.0.1.99.dev1-py3-none-any.whl": [
+          "97d403ec5170c974fb31b2065faa5e091e7ee8fc8580cb399025e7a0ebc13aea",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.1.0-py3-none-any.whl": [
+          "e91c7d14153e0d9f8bc6595960cabe71fe66e7f6ba67c085ddd6d09b113609b7",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.1.0.99.dev1-py3-none-any.whl": [
+          "1cf0e678e994798216150e3f40c34fe5c443401a8dae58dcd7c7d212d56375e3",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.1.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_fieldservice_account_payment-12.0.1.1.0.99.dev2-py3-none-any.whl": [
+          "ad1abf47dad0502eacf98cc1f5473fb29a935c9614a5513a0c7bf026e37f911e",
           "py3"
         ]
       }
@@ -43390,6 +43504,18 @@
       "wheels": {
         "pyPreservica-0.5.1-py3-none-any.whl": [
           "3a2ecc28baf987897c2000c3f0238546f7e74f9be5d692fbda51f2662d8f9659",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "20daf27d9ab507de66d8ef0c95953f4934d46629cb9c9dd6e9c551d2d6104673",
+        "pyPreservica-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "pyPreservica-0.6.0-py3-none-any.whl": [
+          "ba6406e76ab3c9711e4c5a1df89715692c2c01f2ed4042b5b6550c8c139182d2",
           "py3"
         ]
       }
