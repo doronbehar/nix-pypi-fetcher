@@ -15923,6 +15923,26 @@
           "cp38"
         ]
       }
+    },
+    "0.5a200712": {
+      "wheels": {
+        "dgl-0.5a200712-cp35-cp35m-manylinux1_x86_64.whl": [
+          "2c8b8fac019c56e7f862c0e387b48e9710c62dacab85d3a50c01d85318b35571",
+          "cp35"
+        ],
+        "dgl-0.5a200712-cp36-cp36m-manylinux1_x86_64.whl": [
+          "880b8bb300cc76d3c9e72f9b73f3903fecfc54d945cfaf46bd050afaf55b3a75",
+          "cp36"
+        ],
+        "dgl-0.5a200712-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d6f0ff8c4b3aee05871edeffc1c917d75665aba1c6c5339de8c92d5e09f4de77",
+          "cp37"
+        ],
+        "dgl-0.5a200712-cp38-cp38-manylinux1_x86_64.whl": [
+          "e535128416fe1451532d58a1f235e105a7faee7cc309a578f55d496648771a62",
+          "cp38"
+        ]
+      }
     }
   },
   "dialogflowpy-webhook": {
@@ -35447,6 +35467,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.0b20200712": {
+      "sdist": [
+        "743537c87ea0aa7f3d45b36e4bbeb56db5c1d89800888addbd6d8078ca2a88f1",
+        "gluoncv-0.8.0b20200712.tar.gz"
+      ],
+      "wheels": {
+        "gluoncv-0.8.0b20200712-py2.py3-none-any.whl": [
+          "6bb57d15af68555ecd85c048a291890a3d9371b590cf3d8c2307a2881acdab79",
+          "py2.py3"
+        ]
+      }
     }
   },
   "godnames": {
@@ -40630,6 +40662,12 @@
       "sdist": [
         "fcd8945f648fff282b4aa958000a8d9d85f941f64c0c97dca614a5500fbb2977",
         "jugaad-trader-0.10.tar.gz"
+      ]
+    },
+    "0.2alpha": {
+      "sdist": [
+        "92c7779c907234cc29b256c0ff937a61fa2d61cbefce12203015682597e1162c",
+        "jugaad-trader-0.2alpha.tar.gz"
       ]
     }
   },
@@ -48295,6 +48333,16 @@
         "odoo11_addon_stock_cycle_count-11.0.1.0.1.99.dev1-py2.py3-none-any.whl": [
           "acde8c839a7645346a29fc9ce0eec87cb3f60cd0a72318c1da7b8c5aa8fea3c9",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-account-voucher-print": {
+    "12.0.1.0.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_account_voucher_print-12.0.1.0.0.99.dev2-py3-none-any.whl": [
+          "2fcbda2bc26dc8e5a5740df45c02ef142087ee55b53053ea4809688ba677d6aa",
+          "py3"
         ]
       }
     }
@@ -61158,6 +61206,72 @@
       "wheels": {
         "rendascii-1.0.0a3-py3-none-any.whl": [
           "2179650bf864d372d74afbdfd32bf918da79516c516a731cb6e806e43eee37cf",
+          "py3"
+        ]
+      }
+    }
+  },
+  "report-generator": {
+    "0.0.1": {
+      "wheels": {
+        "report_generator-0.0.1-py3-none-any.whl": [
+          "6939c4446b249b56adb1028603372d5604a9564ec5dc04e544965a727ec36111",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "report_generator-0.0.2-py3-none-any.whl": [
+          "40b02f9a91147302bdd9ece17d6fee439122aa0f37de9747f97f1ad4fb9c8ca4",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "9927563612a9c244e4184d61b8c64ef44709292666a5a87c4dcfbb33e31eeadc",
+        "report-generator-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "report_generator-0.0.3-py3-none-any.whl": [
+          "dffbc44959cff6fb78ef7b88fac71213fc129eefeacdb8260e8d633382bdb76e",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "7d0bbeda40611984e82b41370d79b92b3c213dbc1f92b2b83126eeb2b042c97f",
+        "report-generator-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "report_generator-0.0.4-py3-none-any.whl": [
+          "792df060beb514b3718f3dd035e4d6e56a10428bfba7e43a4003235bafdac8c8",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "b457ee7603445a6934e972237f7b03f6ea37a28aa2859f6ac366ca2583ea2917",
+        "report-generator-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "report_generator-0.1.2-py3-none-any.whl": [
+          "4bd1d4085d00f44021239f6fcede7f64269acff9ffff0d92150396d45a23b3a5",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "74804192b5cdba29d72b8e783691ecc0d19ebb8838ec60b81257db6f719a2d13",
+        "report-generator-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "report_generator-0.1.3-py3-none-any.whl": [
+          "042a04b0c6e091bc98c16dbf4e0d5f49adf7f26b798d8d47a72d55554ab8de86",
           "py3"
         ]
       }
