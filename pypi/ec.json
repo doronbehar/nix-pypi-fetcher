@@ -17619,6 +17619,32 @@
       ]
     }
   },
+  "flake8-pathlib": {
+    "0.1.0": {
+      "sdist": [
+        "e0ca96409a0db945b6b6d435dbf5ff21d2b01ff29af12d6a310dcf6197ba0e3b",
+        "flake8-pathlib-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "flake8_pathlib-0.1.0-py3-none-any.whl": [
+          "88cb9744a6aff245c208d2f8b060ea354745d1dff03952fbf0500506c176b251",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "01ff40736dd285f3aa7a8b65531232e48cd172c6ee7cc5d519de4dff6b99498e",
+        "flake8-pathlib-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "flake8_pathlib-0.1.1-py3-none-any.whl": [
+          "0547a151bcbbe361c4c4e4b97ae310b6a5808c8fb542f43d5de7f121b2e02242",
+          "py3"
+        ]
+      }
+    }
+  },
   "flask-influxdb": {
     "0.1": {
       "sdist": [
@@ -22102,17 +22128,9 @@
     },
     "2.0.1": {
       "wheels": {
-        "httpstan-2.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "470c186e4387f43dfee8031bab400a57f1fd1994628381987f9501259537e627",
-          "cp37"
-        ],
         "httpstan-2.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
           "9092ff27b8ec0edff5f62cd123bd9f0e427aac153898b0c6089d109f26bcd2eb",
           "cp37"
-        ],
-        "httpstan-2.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "4120ba5d96d6860f14924f7d1f33daef1983d82f0466b0fa7b3ae89074b9f3da",
-          "cp38"
         ],
         "httpstan-2.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
           "df8e8c860bb662f1c6a2cab3d619aa22309f29ebeb0e28503446d2090726d9b9",
@@ -22122,17 +22140,9 @@
     },
     "2.0.2": {
       "wheels": {
-        "httpstan-2.0.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "3ef527b8c629744976ee7a4111f0560904d80e5b56148c5cdbe71225d356dcdb",
-          "cp37"
-        ],
         "httpstan-2.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
           "2f4322780e4fc0564a178da71e7b290f57f769028dc49de1b5e271a6b39c42c2",
           "cp37"
-        ],
-        "httpstan-2.0.2-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "d63c7e4dbd5d36e0d5e206e20613187ef97c5484da90cce0026e500e6978e62b",
-          "cp38"
         ],
         "httpstan-2.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
           "7a2f68dbb0c6df5f62ee2bd68dca43fe594fcc22114e64c27759df710de2125e",
@@ -62934,6 +62944,18 @@
         ]
       }
     },
+    "9.4.212.dev36": {
+      "sdist": [
+        "a438b777eb663ce4cef05a79126af808d81902710a95a7c47266b7f1c052b82b",
+        "sickrage-9.4.212.dev36.tar.gz"
+      ],
+      "wheels": {
+        "sickrage-9.4.212.dev36-py2.py3-none-any.whl": [
+          "bc83d689870699892caafa0453171b29a188a667f156191af14669bc40d9bcc0",
+          "py2.py3"
+        ]
+      }
+    },
     "9.4.212.dev4": {
       "sdist": [
         "12fa013aecc68feadff7aabf12bc8d18caadb3d6d8d80e5686898d0e2a252710",
@@ -69946,6 +69968,42 @@
       "wheels": {
         "uplot-0.1.12-py3-none-any.whl": [
           "3a816db7c556beee42801d0f674125a39fba8ca50a18040ee78382264bb1299d",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "dcb78d13c8643c144d4f13ba41f80153ff25399e1559a8a77460132d4b8263aa",
+        "uplot-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "uplot-0.1.13-py3-none-any.whl": [
+          "a7610d86dde712adb4dce7c4253d459eb8a33f8807517d2fda3c986a0cb129ec",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "1b1d0ffe0b92b0a678a54a1bce7a25ea9a4b28eff30ab468740d2ea4212e222f",
+        "uplot-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "uplot-0.1.14-py3-none-any.whl": [
+          "8be287d6187d9eedf503dd1dc97ba3d538ad583c8a279eeb6c1a793e18f3960e",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "d6a93bece568cf76c2aa857ab66920091ccea7c88a47772a45f76ffc8b3d728f",
+        "uplot-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "uplot-0.1.15-py3-none-any.whl": [
+          "a7c57057998537d0775d71e1104c151ccbad7a155101c7b1dfa651f9acc52434",
           "py3"
         ]
       }

@@ -6858,6 +6858,18 @@
         ]
       }
     },
+    "0.13.0": {
+      "sdist": [
+        "7ab3df37b70d4e04a427aa39757274e16f34e5941527e6896e0ce0016c723ff3",
+        "bitvector-for-humans-0.13.0.tar.gz"
+      ],
+      "wheels": {
+        "bitvector_for_humans-0.13.0-py3-none-any.whl": [
+          "012f4dd9fcfce69276696d8aad8ff0e018a960a49f72aebc759bbf0ae16e4a9d",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "642776995ad774f5b8270cd6247c10444422faf707a11a55c88d922e00a4124f",
@@ -59502,38 +59514,26 @@
         "secondguard-1.1.10.tar.gz"
       ]
     },
-    "2.1.6": {
+    "2.3.0": {
       "sdist": [
-        "09d82d499f7c217011f5fc5f8c23fa7008994e233d812a17b9d12c5831452b94",
-        "secondguard-2.1.6.tar.gz"
+        "09842a71a1675ed241075cf92b699da69a4de34447dd770f4892ae5b5c339535",
+        "secondguard-2.3.0.tar.gz"
       ],
       "wheels": {
-        "secondguard-2.1.6-py3-none-any.whl": [
-          "3d79dfbb0412c6c81eb8149b5041f54d2f0845c3891627e0e3ed6df12b60e327",
+        "secondguard-2.3.0-py3-none-any.whl": [
+          "f1a4ab96102954c5dec33b83861723ee9c594c641c3051eba90a4606e3a3a676",
           "py3"
         ]
       }
     },
-    "2.1.7": {
+    "2.3.1": {
       "sdist": [
-        "09e888edbdf3930272fb16768dd25a53e27da83821862203a918b88643f5253c",
-        "secondguard-2.1.7.tar.gz"
+        "b137480a92167416f7599aa7b629c7311ae6eb963d889e79026a3407edec29d6",
+        "secondguard-2.3.1.tar.gz"
       ],
       "wheels": {
-        "secondguard-2.1.7-py3-none-any.whl": [
-          "f17d70411c4d20eb117c61d86a67e1e503114efbe904fec627da8bf71d0d921f",
-          "py3"
-        ]
-      }
-    },
-    "2.1.8": {
-      "sdist": [
-        "1f32abda6998105c1423af30f931650e76492de81d72162d5d8eca1f7ea8b4b3",
-        "secondguard-2.1.8.tar.gz"
-      ],
-      "wheels": {
-        "secondguard-2.1.8-py3-none-any.whl": [
-          "ba88e27c0d1093b4822d498f0083dd2615c9f4af5b269d25c119eed6858f38e4",
+        "secondguard-2.3.1-py3-none-any.whl": [
+          "1beedbf8f0799ddf8e90142d35c1c18a47fbcc692b37a1d9a3e9d2758c0a95e6",
           "py3"
         ]
       }
@@ -70188,6 +70188,50 @@
         ],
         "thinc-8.0.0a16-cp38-cp38-win_amd64.whl": [
           "cd0be9e713232d516b159661b41b7c089528afdb46173c1fbd8bd9eea4a90a4e",
+          "cp38"
+        ]
+      }
+    },
+    "8.0.0a17": {
+      "sdist": [
+        "cfd8aa02269c37abeb71d1d0eb0c5670c50e3f02a777566ec1096a0c790963b8",
+        "thinc-8.0.0a17.tar.gz"
+      ],
+      "wheels": {
+        "thinc-8.0.0a17-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "3167e40fc6aa266dc77210fc9e866e15add8a77b4313e8a7347a0dc1a78329c4",
+          "cp36"
+        ],
+        "thinc-8.0.0a17-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f49117ca49fda40fa76ffb5c4a2650f315ed7c4b6875439ae17414ab0cbd2135",
+          "cp36"
+        ],
+        "thinc-8.0.0a17-cp36-cp36m-win_amd64.whl": [
+          "eb5d4d7711381a2a9a7ca772ee927c7effc7b0970a8cada731c603899325ab08",
+          "cp36"
+        ],
+        "thinc-8.0.0a17-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "d51b04ebfcce51db0a39a6c381439a374c3a65dbb1a6f4204af35e91e5d4d6a5",
+          "cp37"
+        ],
+        "thinc-8.0.0a17-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c92f1e73f908e5ada3c3efed45ea0a39b409bcf54e6455faba3badd9c616989f",
+          "cp37"
+        ],
+        "thinc-8.0.0a17-cp37-cp37m-win_amd64.whl": [
+          "e352fd992aa03a345f327c52cc3caf2f07d302b1be17234d3571953a3b65012d",
+          "cp37"
+        ],
+        "thinc-8.0.0a17-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "632109fc215133dfe047a8b06d82b13463b6af35d3340b62c27290495bdac445",
+          "cp38"
+        ],
+        "thinc-8.0.0a17-cp38-cp38-manylinux1_x86_64.whl": [
+          "7f345474c9b6e45addf378e2275a634dd634cbc17f9f679c56fb80ea98e15b1a",
+          "cp38"
+        ],
+        "thinc-8.0.0a17-cp38-cp38-win_amd64.whl": [
+          "61b457fa35aca78300737a025cac442e73d46b79722a0178fce070e7672b0e4a",
           "cp38"
         ]
       }
