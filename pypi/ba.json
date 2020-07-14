@@ -1331,6 +1331,12 @@
         "0521cddc8c722f4b30e4a9b5364e6f7b92e22d56bd1a2fff7efaf2544a25c7ac",
         "antchain_ebc-1.0.1.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "f6118d37b2ab9f92daf9232c466ae6d824bcd74583218c5a289664e8377dd3bb",
+        "antchain_ebc-1.1.0.tar.gz"
+      ]
     }
   },
   "apache-superset": {
@@ -4501,6 +4507,18 @@
           "py3"
         ]
       }
+    },
+    "1.51.0": {
+      "sdist": [
+        "3eca968abe60420c9a9720aef56d11b75ccb4712b4487f99fdf76d23cb2c55e2",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.51.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.51.0-py3-none-any.whl": [
+          "ede68042aa7c04df400f3a7dbd6758f51c804ee64222fc34be7f77766a3927a3",
+          "py3"
+        ]
+      }
     }
   },
   "azure-keyvault-nspkg": {
@@ -4814,6 +4832,18 @@
       "wheels": {
         "bdtsim-1.0.0-py3-none-any.whl": [
           "3967c30afb87d6adc378ca046dbeecc5c1100e51e77624663931a4ea69291a67",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "8154260305de072ff53e5efb52a36af09cc6c1bf92a32300db4726a0d8b02fa4",
+        "bdtsim-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "bdtsim-1.1.0-py3-none-any.whl": [
+          "28350a910dff41ca3a60003dc5b49b00cd140ce03eb7f671df459a38e1b29cc5",
           "py3"
         ]
       }
@@ -19244,6 +19274,14 @@
         ]
       }
     },
+    "20.6.1b0": {
+      "wheels": {
+        "genie.libs.parser-20.6.1b0-py3-none-any.whl": [
+          "b232fed16425d6cc86b62ed6142727f1816b2427ead77096977e3042030c4b76",
+          "py3"
+        ]
+      }
+    },
     "3.0.0": {
       "wheels": {
         "genie.libs.parser-3.0.0-py3-none-any.whl": [
@@ -28182,6 +28220,12 @@
         "large-image-tasks-1.1.1.dev49.tar.gz"
       ]
     },
+    "1.1.1.dev51": {
+      "sdist": [
+        "224e308148d02d971ef7ff98a935204e92b6d9e14d235e4d146e8e4ebee8aa3b",
+        "large-image-tasks-1.1.1.dev51.tar.gz"
+      ]
+    },
     "1.1.1.dev6": {
       "sdist": [
         "482a5313bf387a113e26226fdc34ad396a98224917ffa56bde6ef1fe4b6019cd",
@@ -31635,6 +31679,14 @@
           "py2.py3"
         ]
       }
+    },
+    "4.3.1rc2": {
+      "wheels": {
+        "mindmeld-4.3.1rc2-py2.py3-none-any.whl": [
+          "fd3f1374c733aa43ff24f4cee22715c36423160aeda3c6c3a69d93995410e45e",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mindsdb": {
@@ -33244,6 +33296,12 @@
       "sdist": [
         "1a995b46c07e5808cf62926292f166c18a8ed93c8ed1948b5d3800b7e6350e07",
         "MindsDB-1.99.10.tar.gz"
+      ]
+    },
+    "1.99.11": {
+      "sdist": [
+        "a485856b5ad997d61d116a69ad1c928202b574f27dbb51bbeb94ec9066004e32",
+        "MindsDB-1.99.11.tar.gz"
       ]
     },
     "1.99.3": {
@@ -47325,6 +47383,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "bf91bdd1594fa601b42403a1770f8656d79ed2bad5bda439dba36727e7a1c3e9",
+        "orderlyweb-api-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "orderlyweb_api-0.0.5-py3-none-any.whl": [
+          "8e4f24f6fa7638823bee8b6d3418ae968bc4e0ca2643731f0a1fc92178ad5cf8",
+          "py3"
+        ]
+      }
     }
   },
   "origheart": {
@@ -54848,6 +54918,12 @@
       "sdist": [
         "b12f24c9c90222ba1f08c0df7917de89591c631861489a3deea36af0e9f26cc0",
         "pycoMeth-0.3.4.tar.gz"
+      ]
+    },
+    "0.4.13": {
+      "sdist": [
+        "71797f7df932b1606b1b358c58966eca43abc59e07fafb40a4815ae6eb533020",
+        "pycoMeth-0.4.13.tar.gz"
       ]
     },
     "0.4.2": {
@@ -72390,6 +72466,26 @@
         ],
         "tf_nightly-2.4.0.dev20200712-cp38-cp38-win_amd64.whl": [
           "3e261e03adc5ad3b93596406a3df1fdc207e401a0569de128769d539c0f82f8a",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200713": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200713-cp35-cp35m-win_amd64.whl": [
+          "8fcbf378ef69fcad42502033a97eaccfd660d1aaae91820d3b1898e8e650442c",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200713-cp36-cp36m-win_amd64.whl": [
+          "af7a39a267af7eed35669ead7f0cb207a426d7d1fd4427d421a33bb3aac8f71a",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200713-cp37-cp37m-win_amd64.whl": [
+          "bc86607d6cd96fe610d5820a8eece2f8564da8253ef86bb6fb186e8c1d39bc6d",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200713-cp38-cp38-win_amd64.whl": [
+          "7d3139f8fa86cd9711c30938040d4f3aa68bdf9479fc3747f25712533d7db34a",
           "cp38"
         ]
       }
