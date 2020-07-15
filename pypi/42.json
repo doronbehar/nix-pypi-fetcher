@@ -11459,6 +11459,32 @@
       }
     }
   },
+  "disrank": {
+    "0.0.1": {
+      "sdist": [
+        "39f74bcbedc6eb560d22ade4b24189c495ea38ababa4059f0de999d74e6b160c",
+        "disrank-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "disrank-0.0.1-py2.py3-none-any.whl": [
+          "fd509e2c3c7c8525beb6170470017bb00f039ad631f743911d1a27ae9c6bf678",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "5b190345cb641559d99ba1564f8fc019a3f8ab9a6385467eff43779105bfabec",
+        "disrank-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "disrank-0.0.2-py2.py3-none-any.whl": [
+          "3dc32aaa05e53c95d4bee087763583136ca7d1a4ad6181188c976391fc82cbde",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "ditto": {
     "1.0": {
       "sdist": [
@@ -23768,6 +23794,14 @@
       "wheels": {
         "huaweicloudsdkexample-3.0.5b0-py3-none-any.whl": [
           "7a1c273a9e66d6c05efb56fa75a35456dd81a80061d629c03ef329524d5736c3",
+          "py3"
+        ]
+      }
+    },
+    "3.0.6b0": {
+      "wheels": {
+        "huaweicloudsdkexample-3.0.6b0-py3-none-any.whl": [
+          "45277b006fb6aef89eb9a55aa6fa41324e79bdcb6ff3fcbe6144c3b7a72dd884",
           "py3"
         ]
       }
@@ -43919,32 +43953,6 @@
       }
     }
   },
-  "pyfechecker": {
-    "0.1.0": {
-      "sdist": [
-        "3e4647e331af4f5f4b75a9d52e71ecf35b6b4dd29d6a42d7a50a8335ebb04bff",
-        "PyFEChecker-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "PyFEChecker-0.1.0-py3-none-any.whl": [
-          "27f82ea2a355691344e6df7be2c5fe2f3e16db85ee066d55d6155718947b4c58",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "9cc2fa58137186741d61674cab030d52169e21683ec81f21a635e3c7eedce49b",
-        "PyFEChecker-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "PyFEChecker-0.1.1-py3-none-any.whl": [
-          "19d935290894e28ac63f1c19273477c589f59c1783f81b6a4dcb6adb2f52d3a7",
-          "py3"
-        ]
-      }
-    }
-  },
   "pyfiledb": {
     "0.1": {
       "sdist": [
@@ -43983,14 +43991,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "pygac-fdr": {
-    "0.1.0": {
-      "sdist": [
-        "1f78eb4e6f4bae3e68860b4acc158c82fbf5ce46b4315c61003c7e3d2b0b3fa0",
-        "pygac-fdr-0.1.0.tar.gz"
-      ]
     }
   },
   "pygl2d": {
@@ -66380,6 +66380,10 @@
           "0b3f80e9d698347de5da270aab4efa7a68c0f7f09cbd92d44456351a503b8a90",
           "cp36"
         ],
+        "texture2ddecoder-1.0.1-cp36-cp36m-win32.whl": [
+          "59476a23866d2efff4120ce23df2169b910dccd5e01298315769d45d790d3925",
+          "cp36"
+        ],
         "texture2ddecoder-1.0.1-cp36-cp36m-win_amd64.whl": [
           "0b3f8c6c71dfb02d33d511ea018856524b35e639da6f3164577d295b8276a750",
           "cp36"
@@ -66388,12 +66392,20 @@
           "88a275440e4704673497eb1181d6c2a3fd25ab4300639f062d636f69d7e88157",
           "cp37"
         ],
+        "texture2ddecoder-1.0.1-cp37-cp37m-win32.whl": [
+          "06c4d505aecb756177bfbe6f01961bbc189684cff7cb644f87bde47e303dd896",
+          "cp37"
+        ],
         "texture2ddecoder-1.0.1-cp37-cp37m-win_amd64.whl": [
           "bf3ea2dd77b5532f810a0550cea242f5525db3aa6a43591c15795306de2611de",
           "cp37"
         ],
         "texture2ddecoder-1.0.1-cp38-cp38-macosx_10_14_x86_64.whl": [
           "43c4ace20464d3f17e44521f491e347763df464f9c3c04837f55380f95fd32e2",
+          "cp38"
+        ],
+        "texture2ddecoder-1.0.1-cp38-cp38-win32.whl": [
+          "68274ffab9558fdc9d22f0700b04bf1097853ac9341004588d74a0bcf9bb6bc4",
           "cp38"
         ],
         "texture2ddecoder-1.0.1-cp38-cp38-win_amd64.whl": [

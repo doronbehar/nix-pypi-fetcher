@@ -25429,6 +25429,18 @@
         "c4ac5b1da85c22896a70c3f3967711a413127d3774061554c84b209c4ebd2001",
         "function_scheduling_distributed_framework-7.2.tar.gz"
       ]
+    },
+    "7.3": {
+      "sdist": [
+        "55114e1e41f2b9d63093ae9fbe5a07af305c89a5e74f203c6af821dcabe5ae73",
+        "function_scheduling_distributed_framework-7.3.tar.gz"
+      ]
+    },
+    "7.4": {
+      "sdist": [
+        "5c13257da1a073ec10562d4b76e6ca75df4d173f469159fdde8ffc4a6823bc82",
+        "function_scheduling_distributed_framework-7.4.tar.gz"
+      ]
     }
   },
   "futhark-ffi": {
@@ -38033,6 +38045,12 @@
         "6d6b1b340f846abcae2b74f6b75aa904fcf2efb0e51b67e0e43656adcf50f72f",
         "metafix-1.2.1.tar.gz"
       ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "ce244234ea1a9bc2ad6d3b4d2123ef6f1a36500245526feeff8a83fd9f9a29c9",
+        "metafix-1.2.2.tar.gz"
+      ]
     }
   },
   "metrix.sh": {
@@ -42541,6 +42559,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.3": {
+      "sdist": [
+        "74180a62b8c80c3c28ec3ff812e7fbd0e1a80b97fd34647ad16df4c44d75e052",
+        "neispy-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "neispy-2.0.3-py3-none-any.whl": [
+          "cb1b23caf5456c809b4c9c0ada5e0906b16e8fd1969c7fbe62219434f059b233",
+          "py3"
+        ]
+      }
     }
   },
   "nester-justin-lin": {
@@ -44796,6 +44826,14 @@
       "wheels": {
         "odoo12_addon_sale_force_invoiced-12.0.1.0.1.99.dev6-py3-none-any.whl": [
           "c53315d28d486765e3ca92fd1dcd8f0fc44cfa13f1b0c521e3408824aabec26f",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1.99.dev7": {
+      "wheels": {
+        "odoo12_addon_sale_force_invoiced-12.0.1.0.1.99.dev7-py3-none-any.whl": [
+          "33ea81417493690c12c9b41ffb9b55ab0bb367ddab5f1136ef76759d40a84405",
           "py3"
         ]
       }
@@ -67620,6 +67658,78 @@
         ],
         "tomotopy-0.8.1-cp38-cp38-win_amd64.whl": [
           "bffe0e69ca52dd197b49515bfc9a8d4992f0d67d9efdb8d4818271257577fd72",
+          "cp38"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "cef6a0a09cb217e2d4958eec18a169a2cb0ac242e233ccb3e75ad58ad97e811b",
+        "tomotopy-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "tomotopy-0.8.2-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "cc4f24b87ed12909efdde4ced222d72f39b48303f118ba25191d775603897851",
+          "cp35"
+        ],
+        "tomotopy-0.8.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "79b4e2c0951dfe6fd759d4062945c4960856b28f79475b04a4585982574fd38f",
+          "cp35"
+        ],
+        "tomotopy-0.8.2-cp35-cp35m-win32.whl": [
+          "80b7d4d6bb8baffe0fb86a974567c06c8a55e4295ec35cb98a410a7237f0fbe6",
+          "cp35"
+        ],
+        "tomotopy-0.8.2-cp35-cp35m-win_amd64.whl": [
+          "3684eb95b73a5c12c80896595795531a2b0eb8fce63d4ad03cde76f622ba33b2",
+          "cp35"
+        ],
+        "tomotopy-0.8.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "4c57ea4b16a72c2bf5c3a40fcb2a219123d55c2bbc2130f0169e60e2ee902d2b",
+          "cp36"
+        ],
+        "tomotopy-0.8.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "1e30af6f24aeadca6078ade255e1bb6cf3a2aa9fcdb3b09e382a45c0c02a7915",
+          "cp36"
+        ],
+        "tomotopy-0.8.2-cp36-cp36m-win32.whl": [
+          "e03109b8f82a218c2ab277ea33e397f6535430fc9f2ba1b8eb8d38ed9201544a",
+          "cp36"
+        ],
+        "tomotopy-0.8.2-cp36-cp36m-win_amd64.whl": [
+          "53ef69e7056a5bff6624454e61e4a31089c014e836bc4ed98bec11470f1275f8",
+          "cp36"
+        ],
+        "tomotopy-0.8.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "1c61d5fd072754f95dadd91b35bf44c53f3c0cfc023cf23834a8ff7cb2de9330",
+          "cp37"
+        ],
+        "tomotopy-0.8.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "dad3baaca70b9d26d1fa53085ef6d08c947c4691990e12ba0d49747d25f59dee",
+          "cp37"
+        ],
+        "tomotopy-0.8.2-cp37-cp37m-win32.whl": [
+          "6737c476fc85d5d73bf43f1f90d6349943353021cd90beaffacf7e6309c5b155",
+          "cp37"
+        ],
+        "tomotopy-0.8.2-cp37-cp37m-win_amd64.whl": [
+          "8539d270ed320ae15689115bc6af154e818d3c531f4d26206b1db76979e459be",
+          "cp37"
+        ],
+        "tomotopy-0.8.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "7292bad8faea08aedf65ebb92549acecf53f9019a969f8a08eab576ef460f4a5",
+          "cp38"
+        ],
+        "tomotopy-0.8.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "741e0a3b7a885e99c681875b747ed38606802ef147121b422994e37895aba926",
+          "cp38"
+        ],
+        "tomotopy-0.8.2-cp38-cp38-win32.whl": [
+          "443be5a3b05e899e1976d1ef5ab382c678a6e38a7373647217876c79dcd0464b",
+          "cp38"
+        ],
+        "tomotopy-0.8.2-cp38-cp38-win_amd64.whl": [
+          "189901924542c9509636aa8046265f5c31dcff44bf2fc47652fcf029f6f7b4cf",
           "cp38"
         ]
       }
