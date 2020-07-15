@@ -3514,6 +3514,30 @@
         ]
       }
     },
+    "0.44.0": {
+      "sdist": [
+        "55410d3b945c72c1b2e3465c803a353cad524b0b746ae47eee87a3ef833adc22",
+        "apigeecli-0.44.0.tar.gz"
+      ],
+      "wheels": {
+        "apigeecli-0.44.0-py3-none-any.whl": [
+          "01dd9d618100ff04f9e648b09db7e975a4adfdf7509f7feec485820bfbae9880",
+          "py3"
+        ]
+      }
+    },
+    "0.44.1": {
+      "sdist": [
+        "e01a42b5682410a97ce3ba41375eed0dac4da0d40b7cbc243b082eccff02b60c",
+        "apigeecli-0.44.1.tar.gz"
+      ],
+      "wheels": {
+        "apigeecli-0.44.1-py3-none-any.whl": [
+          "ea1739995e22eb522dd3ba5faf60a31ab237a877018a2ad209667b2973333eb6",
+          "py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "dd856eb31c62761cb2531e4faf3a6e97a41040815172715a1ac12a3abbbdc72d",
@@ -31766,6 +31790,12 @@
         "magma-lang-2.0.66.tar.gz"
       ]
     },
+    "2.0.67": {
+      "sdist": [
+        "770a063e65f2559d2c6fe8a2e83a39c9844dbb3abcdecef85a7cb7023a4ead04",
+        "magma-lang-2.0.67.tar.gz"
+      ]
+    },
     "2.0.7": {
       "sdist": [
         "469a3b560cc5df34c90e327b6feb170c4404598ac39c1ba59097c44399a345b8",
@@ -39116,6 +39146,30 @@
       "wheels": {
         "nordypy-2.0.1-py2.py3-none-any.whl": [
           "a85c497c9bc5e7f38b84a77905c3f9d44f331a64a6dcf25954265aa7fb25cd25",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "aba0dcd0804eaee42f0947a88f19cb37340c93224fdfeb2b997b8575b899d3a4",
+        "nordypy-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nordypy-2.1.0-py2.py3-none-any.whl": [
+          "42ebbc0522228a049b1c04b2487860b8aed10c16b5a8306de8f629c1f9e578ad",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.1": {
+      "sdist": [
+        "68fb7e4397a939ea326da29510ed6b71b66037b2d4ffad525f858935a90c5b76",
+        "nordypy-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "nordypy-2.1.1-py2.py3-none-any.whl": [
+          "964aa5480d8f9563e11c8968264cc9c07002f42d50d1fd4ff84cb5472edd967f",
           "py2.py3"
         ]
       }
@@ -47156,6 +47210,12 @@
       "sdist": [
         "8baf6bb7f3f9ec383bc937629d2b82c8665e6bef54c42f1bbedac5d4ceac30aa",
         "psl-2020.7.13.tar.gz"
+      ]
+    },
+    "2020.7.14": {
+      "sdist": [
+        "653f93069ae4a8c369d4017350f3ef2b143c9ad56b385bcc15b394efd2696805",
+        "psl-2020.7.14.tar.gz"
       ]
     }
   },
@@ -57953,6 +58013,42 @@
           "pp27"
         ]
       }
+    },
+    "3.1.2": {
+      "sdist": [
+        "14c0dea704285dfdf29f48fee20173475e88ea222d328d762adceff79489113e",
+        "RelStorage-3.1.2.tar.gz"
+      ],
+      "wheels": {
+        "RelStorage-3.1.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6c9c0e2352305c2b914c28b7003df1cce11f9afc1310be396b96d00fe960f18d",
+          "cp38"
+        ]
+      }
+    },
+    "3.1.3.dev0": {
+      "wheels": {
+        "RelStorage-3.1.3.dev0-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "d4a8831d12435a1a66ca6ed4b7af272db6e7f1a8dc9ed9ef07bee4501a581e7a",
+          "cp27"
+        ],
+        "RelStorage-3.1.3.dev0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "3d1e603eac42f962e0ef3ff5219bc45560fe3a011abb89db6c6fd5d711c44eba",
+          "cp36"
+        ],
+        "RelStorage-3.1.3.dev0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "b67f4f5190b9dfc665dbb9a86b1acc3c1d112526b6cb16e5ae34859ef38bf1f7",
+          "cp37"
+        ],
+        "RelStorage-3.1.3.dev0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cf1a0494859b464913ec1d5b82e310e3f5f21fca4d9be83d8c801bdd8ff70a71",
+          "cp38"
+        ],
+        "RelStorage-3.1.3.dev0-pp27-pypy_73-macosx_10_7_x86_64.whl": [
+          "c1820299ad802d7bafbb19ad6c11dc3451cdaa4a2072dffa46e0e461d8ff4020",
+          "pp27"
+        ]
+      }
     }
   },
   "requests-aws": {
@@ -59379,6 +59475,32 @@
       }
     }
   },
+  "safexl": {
+    "0.0.2": {
+      "sdist": [
+        "5494f0b61d01d371204a43ff0fc44b5402883af99257f51c0c576732fa6bb5b7",
+        "safexl-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "safexl-0.0.2-py3-none-any.whl": [
+          "e207e136b5bb44b7f3e45c4e3ef638a037d06b1ec6e9a995f3cd2f583fdaf8a6",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "320933fe5ccb43433f81d5ac53e4737a359abff4cad43b1ae9c8ab4f9f294edf",
+        "safexl-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "safexl-0.0.3-py3-none-any.whl": [
+          "c7d8c9951d064090e418761c35e0a911170ebec9dd633053940ecd90e470ee96",
+          "py3"
+        ]
+      }
+    }
+  },
   "sanelotto": {
     "2.2": {
       "sdist": [
@@ -60672,6 +60794,12 @@
       "sdist": [
         "2542109b19215f74acad989162292ddd716b5e17f2374de6f6eb096f025fde2e",
         "sldc-1.2.4.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "ee818898ca853a724d3479e760d4e54a464d95ce303114101dbcee6d0e17350f",
+        "sldc-1.3.0.tar.gz"
       ]
     }
   },

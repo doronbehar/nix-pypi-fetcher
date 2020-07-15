@@ -1602,6 +1602,18 @@
         ]
       }
     },
+    "1.51.1": {
+      "sdist": [
+        "0de5701d1dc54f47d4b7b1759abb2eb1e6ae8409538fde81b320f0523c55cd09",
+        "agilicus-1.51.1.tar.gz"
+      ],
+      "wheels": {
+        "agilicus-1.51.1-py3-none-any.whl": [
+          "817e1a05613f75ff3263b7ab9d8152bdb6f380a9e5f4434f32209924d6fa64f6",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "d894fc49802dc57be77bf6af7dced176807e7e2a64494427d0e4ac6477d11a23",
@@ -28654,6 +28666,18 @@
       "wheels": {
         "label_studio_evalme-0.0.7-py3-none-any.whl": [
           "0ad7777d2160445d95c56f054f72fd720db604a31607aee052e5f9a0ea4426d7",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "8ac07557ee64d9a0bde4aa3555962f9aaf5a80cd661ca66e69b6c89669a394e3",
+        "label-studio-evalme-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "label_studio_evalme-0.0.8-py3-none-any.whl": [
+          "6b6d5ab0ab67f542868e658dcdbc6929a637a1110eb9170bb071ffed1aa39d00",
           "py3"
         ]
       }
@@ -63824,6 +63848,98 @@
         ],
         "sme-0.8.8-pp36-pypy3_72-manylinux2010_x86_64.whl": [
           "707d53eb67b340c04edb47254dd6c5da98096e153061c067b36500d156b1fbc0",
+          "pp36"
+        ]
+      }
+    },
+    "0.8.9": {
+      "sdist": [
+        "8cfb17cb599838b0f9de105f3de616fe9498fa4f3acc080333941c9897217d77",
+        "sme-0.8.9.tar.gz"
+      ],
+      "wheels": {
+        "sme-0.8.9-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "23f5ceda950b903ec257d6cb34c4be6948aec3d5d9a4c4e2e1e7629d55692beb",
+          "cp27"
+        ],
+        "sme-0.8.9-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "115cce674373d5d2f1d4a3f6d6b074a7ae680f717395a00c13faace8cabe116c",
+          "cp27"
+        ],
+        "sme-0.8.9-cp27-cp27m-win_amd64.whl": [
+          "29f858ab8e9d7c806bf48e748a3a86f9be269e99502dedf953033e71283b4175",
+          "cp27"
+        ],
+        "sme-0.8.9-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "6f7aabc2b46139cc1885119c2d4f202025d596cbea20bae075624256b0413ad6",
+          "cp35"
+        ],
+        "sme-0.8.9-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "29b4e8925d9f9783028c14f55a2d3a839d3e785d78fde46f3d781910b57bb295",
+          "cp35"
+        ],
+        "sme-0.8.9-cp35-cp35m-win_amd64.whl": [
+          "baa298b7273670368d55e8b645b1efb0e14c10972e2c30bbeaabdd3109235405",
+          "cp35"
+        ],
+        "sme-0.8.9-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "549057bb8a20754e6503a4248bc9ad8132eaabe39819433e33586cdfb5f488fb",
+          "cp36"
+        ],
+        "sme-0.8.9-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "8e78486711b537c7a7888439e59d3cf7e40e0a9b46bcfec74ecd19c3174543c3",
+          "cp36"
+        ],
+        "sme-0.8.9-cp36-cp36m-win_amd64.whl": [
+          "4365e958a50a2d2cb39ae1428931bb4a75cee24ae45519c01b666df70bb321b3",
+          "cp36"
+        ],
+        "sme-0.8.9-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "66148fe1157014c2393bce300fa99b7ae14a17dea73ba6834153a8e03c9a13b2",
+          "cp37"
+        ],
+        "sme-0.8.9-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "c79ba2999592802de911a2386a5682febf171d04fe59b70093930832fd8a653d",
+          "cp37"
+        ],
+        "sme-0.8.9-cp37-cp37m-win_amd64.whl": [
+          "a6ff339b8e6958ca6e8b50cc7325f4b6c51fa7fa32d4a7bd3adb3d9756233bb4",
+          "cp37"
+        ],
+        "sme-0.8.9-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "8f6bf2ef9dd4fb3b706e9efb793f14e8ea857b9724b7f9c54596ec015ca1a359",
+          "cp38"
+        ],
+        "sme-0.8.9-cp38-cp38-manylinux2010_x86_64.whl": [
+          "32215242a20da8fabddd42314ccf5125d6a1d26360d461b4acf660d6319f765f",
+          "cp38"
+        ],
+        "sme-0.8.9-cp38-cp38-win_amd64.whl": [
+          "572d336de0e2c897e21dd380c233f89e6c01760a14eff022a1e6076320bd1c29",
+          "cp38"
+        ],
+        "sme-0.8.9-pp27-pypy_41-manylinux2010_x86_64.whl": [
+          "6557c483ae2467c48f337081a05bae7091ee8bc3fb27c34e22295a59dacc1a98",
+          "pp27"
+        ],
+        "sme-0.8.9-pp27-pypy_73-macosx_10_14_x86_64.whl": [
+          "5e2f833ae2b289ba04d6a7452ee10c05313c4f0377298388779552b1f8772135",
+          "pp27"
+        ],
+        "sme-0.8.9-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "f9b16be5f182513bcee475605fb8e059f31b66643d96f5647ebdfb2c05eea036",
+          "pp27"
+        ],
+        "sme-0.8.9-pp36-pypy36_pp73-macosx_10_14_x86_64.whl": [
+          "4451856141189fe60dbbb4d3f529eaabfa4f5d4a04ee6dd68c2b524e69b448c2",
+          "pp36"
+        ],
+        "sme-0.8.9-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "631ba28ad557b6a8c26f21e2ed8c27f1b804a7e80d39f58377c20b56487e0862",
+          "pp36"
+        ],
+        "sme-0.8.9-pp36-pypy3_72-manylinux2010_x86_64.whl": [
+          "06b36e184944a5c86e8223c9b8e19f7bfaa0a6aaa8e495f05a02204c72713d89",
           "pp36"
         ]
       }
