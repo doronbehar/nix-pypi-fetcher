@@ -2819,6 +2819,12 @@
         "5e3bee576ccd0db812ba7e11a3f17cf7d18564bad0bdbda065963e8cb4f99c77",
         "ais-dom-frontend-20200702.2.tar.gz"
       ]
+    },
+    "20200702.3": {
+      "sdist": [
+        "7ca69152945ac0ff518cd2489f74eda482bec6e194a592a10e351601307ebae2",
+        "ais-dom-frontend-20200702.3.tar.gz"
+      ]
     }
   },
   "ait-dsn": {
@@ -8866,6 +8872,18 @@
       "wheels": {
         "bridgecrew-1.0.443-py3-none-any.whl": [
           "22fa369970de8a1f2c9d2202906425ef11d1ecbbae174c60575c0892ef0c0f54",
+          "py3"
+        ]
+      }
+    },
+    "1.0.444": {
+      "sdist": [
+        "740967c6445931441775adae10c2961bfd07f4890dbb82240bcd0b9acab32352",
+        "bridgecrew-1.0.444.tar.gz"
+      ],
+      "wheels": {
+        "bridgecrew-1.0.444-py3-none-any.whl": [
+          "3dbb24975be6a1396c1a3a1bcaeb4ee4d77ac32d8e3a9fe0f7de39a13550e508",
           "py3"
         ]
       }
@@ -23873,6 +23891,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "357e0e9dfa4353227ff6efb3623651d9d09bee834c5da1d20e02dce1fa0da67f",
+        "frigga-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "frigga-1.0.5-py3-none-any.whl": [
+          "3afacb7edd56f36ec2cdd0d8ffceaa97f31e29c13f9b6d1efdee40d328d0f12c",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "87809a56680200aeac0e08f3ded7b27016d82e1ba113e1d936fc79973c68a16a",
+        "frigga-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "frigga-1.0.6-py3-none-any.whl": [
+          "7a2df9edca6814c9a965efd67676b677282cca99d818b7d589b650c10fe0f882",
+          "py3"
+        ]
+      }
     }
   },
   "ftw": {
@@ -36078,6 +36120,18 @@
       "wheels": {
         "mypy_boto3_acm_pca-1.14.20.0-py3-none-any.whl": [
           "c69b4277749e835d526670683ae56a68ea53c5a7e4c306e90a2aa06aee81c7e2",
+          "py3"
+        ]
+      }
+    },
+    "1.14.21.0": {
+      "sdist": [
+        "f1a6096dfccd8e9b9d530bbfda21afc5bb6f4e7a65804fa1505c64f90629c762",
+        "mypy-boto3-acm-pca-1.14.21.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_acm_pca-1.14.21.0-py3-none-any.whl": [
+          "d2b2a169e24bdec8b2c37426bd09fdf734eb94411873c9e4bb0209774f65dc60",
           "py3"
         ]
       }
@@ -49085,6 +49139,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.0.post3": {
+      "sdist": [
+        "ef0807f29cccc4a5376240bedf54f96eca423f17f5a0dd1b5b0785d83a7af80a",
+        "pyublox-1.6.0.post3.tar.gz"
+      ],
+      "wheels": {
+        "pyublox-1.6.0.post3-py3-none-any.whl": [
+          "2498e65fbdf116eb26dea6dbc3abaf560c4a69a0b66ca5c6fcd456329205fbb8",
+          "py3"
+        ]
+      }
     }
   },
   "pyvt4002": {
@@ -55080,62 +55146,14 @@
     }
   },
   "sharedmemory": {
-    "1.0.0a1": {
+    "0.1.0.dev0": {
       "sdist": [
-        "c3e7fe0698b64aefdc502f6113c23de9b25957efa4f484d852c3620cb24b1d10",
-        "SharedMemory-1.0.0a1.tar.gz"
+        "49534737a53be4b36470bcacc00e9205fa193682a8c7dea17570729a86b120e2",
+        "SharedMemory-0.1.0.dev0.tar.gz"
       ],
       "wheels": {
-        "SharedMemory-1.0.0a1-py3-none-any.whl": [
-          "dd2ec1d7632fd8e071a2ab27b9a9c7f35816fd82c408d6668a2f6a7a8c32f6db",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0a0": {
-      "sdist": [
-        "17bf15253af44348f24a8ecfc3965118e52bd805f261cb565a50db71ef4c13a5",
-        "SharedMemory-1.1.0a0.tar.gz"
-      ],
-      "wheels": {
-        "SharedMemory-1.1.0a0-py3-none-any.whl": [
-          "f1e8c5e3cbdf21ade2119dbe4abf54422468b72655dc64b77fee04048b3d6211",
-          "py3"
-        ]
-      }
-    },
-    "1.1.1a0": {
-      "sdist": [
-        "655b8cb7ee9b991db5e9f81f661fb9a7ae79944139328c7be351b356d95f328b",
-        "SharedMemory-1.1.1a0.tar.gz"
-      ],
-      "wheels": {
-        "SharedMemory-1.1.1a0-py3-none-any.whl": [
-          "fb527229a42c61b92961d01475cfc2af89d491045e41ffb5f8413ad4ff8d11f2",
-          "py3"
-        ]
-      }
-    },
-    "1.2.1a0": {
-      "sdist": [
-        "56f72db71cebdfc4bb4b9d0109028bd82ad4d29c7eb3a9805e1ab1f21de2fcc1",
-        "SharedMemory-1.2.1a0.tar.gz"
-      ],
-      "wheels": {
-        "SharedMemory-1.2.1a0-py3-none-any.whl": [
-          "811606dc70ed511d40104627dee569a06290c99f2d903194cb4e2d578205a267",
-          "py3"
-        ]
-      }
-    },
-    "1.2.2a0": {
-      "sdist": [
-        "7c2da7ab6fa92f19a97350908fadf3f63f68139c9279a746879d7da0b85aeeff",
-        "SharedMemory-1.2.2a0.tar.gz"
-      ],
-      "wheels": {
-        "SharedMemory-1.2.2a0-py3-none-any.whl": [
-          "d9f2b1246230536c07314650afa85741234f9414346441eda366ca1a8ad1b71f",
+        "SharedMemory-0.1.0.dev0-py3-none-any.whl": [
+          "32bcdfd4d8d7a4c01598e0ffb588fb7fa4fdf630821abdb300ad72f518930c64",
           "py3"
         ]
       }
@@ -56642,6 +56660,18 @@
       "wheels": {
         "squad_linaro_plugins-1.11-py3-none-any.whl": [
           "f8ab9e0a8744b0ed73353d1cde5c9868c5c99c4d645f0e091e4a6862f29358b4",
+          "py3"
+        ]
+      }
+    },
+    "1.12": {
+      "sdist": [
+        "de29fcf561829a85a25aebc9800064f8c2e9d27a02ff534676291752605ead8b",
+        "squad-linaro-plugins-1.12.tar.gz"
+      ],
+      "wheels": {
+        "squad_linaro_plugins-1.12-py3-none-any.whl": [
+          "496823321e0d4f9472186ae490b743145b29ee965a5c49f15be71518880f2099",
           "py3"
         ]
       }

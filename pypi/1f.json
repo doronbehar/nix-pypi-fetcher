@@ -2897,6 +2897,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.5": {
+      "sdist": [
+        "3995555394abdf57200b24b8fa9724ba586a7d1e370e182cb49407f7bc5b8cb3",
+        "baseplate-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "baseplate-1.3.5-py3-none-any.whl": [
+          "512a34d812fbe2d3f1da3d6c0c511d2bc8b8d71e7422ffeb1357214d3318e256",
+          "py3"
+        ]
+      }
     }
   },
   "basic-modeling-interface": {
@@ -11895,6 +11907,20 @@
       ]
     }
   },
+  "cmdc-tools": {
+    "0.1": {
+      "sdist": [
+        "6d8aace97fc32c353c0547c22af42e8e1e73c48685ab103310a785cd7c34d538",
+        "cmdc_tools-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "481e700c7c9b9d79b83045822b8659c4c31c4c4991469792ca8fd1c4993897e3",
+        "cmdc_tools-0.2.tar.gz"
+      ]
+    }
+  },
   "cocomoco": {
     "0.0.1": {
       "sdist": [
@@ -15744,6 +15770,18 @@
       "wheels": {
         "deepclustering-0.0.2-py3-none-any.whl": [
           "1184c2d7611f90f691189927f9cf1434fcd67932362d66edf753851c1de41927",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "fd2e624a412621d8a674601eec8bc5f95f0847cb5efe0231ea638432f697c8bd",
+        "deepclustering-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "deepclustering-0.0.3-py3-none-any.whl": [
+          "a4d223e2d3f9affeef3137104a0171cec4fa0128448fb94b673b700541f59719",
           "py3"
         ]
       }
@@ -41076,6 +41114,18 @@
         ]
       }
     },
+    "1.14.21.0": {
+      "sdist": [
+        "cb91d5aed67cd7e9a569a9ffc2159acb0d6dd7b1bb02147ab53f5ff6c10b0a50",
+        "mypy-boto3-alexaforbusiness-1.14.21.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_alexaforbusiness-1.14.21.0-py3-none-any.whl": [
+          "4bfa76812d5a44c6c4ee3eca3dae6b9d0a933ea83daab559535643d04c94428d",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "9a3d7ab362516c57908428ec94ea5d4606f2330ee08d2a8a15f81bc40820a232",
@@ -42534,6 +42584,18 @@
       "wheels": {
         "mypy_boto3_config-1.14.20.0-py3-none-any.whl": [
           "bb22a393558dcab1088d7b870d5e27f814345499290fde74bb1cf65c6acd5edf",
+          "py3"
+        ]
+      }
+    },
+    "1.14.21.0": {
+      "sdist": [
+        "ba14e7818c83e31ec51636bf2f57e0d635937304689a4ba15d150b65e24b8497",
+        "mypy-boto3-config-1.14.21.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_config-1.14.21.0-py3-none-any.whl": [
+          "f4d39227d04e92383b7730249b9ab101365d893baaf104cf038bd59d3406fb4e",
           "py3"
         ]
       }
@@ -60381,176 +60443,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "request": {
-    "0.0.0": {
-      "sdist": [
-        "cfb4e97f83e9a0b90eab2d4b13fa94fccf7c0fa3c8f559bbce58c9118644075e",
-        "request-0.0.0.tar.gz"
-      ]
-    },
-    "0.0.1": {
-      "sdist": [
-        "8acd9ae8ca7eea16d06074fc0c36a57aec2eb2fc33521f95e153311bea3bd799",
-        "request-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.10": {
-      "sdist": [
-        "7de8b696b4f161e6568f18427048b694805032f02c7ef7f6f890c7db38af2d6d",
-        "request-0.0.10.tar.gz"
-      ]
-    },
-    "0.0.11": {
-      "sdist": [
-        "ed63a1af93c1b7f27b222c0b9ac0b37369730cd3338f9b417bda9dc6ce5a000f",
-        "request-0.0.11.tar.gz"
-      ]
-    },
-    "0.0.12": {
-      "sdist": [
-        "af7aa1644661c3462b5b50abd9844cf3c90bc381ca6d6121997f134df98e208e",
-        "request-0.0.12.tar.gz"
-      ]
-    },
-    "0.0.13": {
-      "sdist": [
-        "e3cd3fcd58e2b5ddac5e469facc7766ae684a8f7e46bef475399a1b65ecdda18",
-        "request-0.0.13.tar.gz"
-      ]
-    },
-    "0.0.18": {
-      "sdist": [
-        "2eeba6496b1d67aa2a4695c32a25201d701cb6b1cd7c5b40ddd7a36214e36587",
-        "request-0.0.18.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "1e2c4dee1851b8c36fe474128a5b1352796a5319593ae5045c2415e703aec902",
-        "request-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.20": {
-      "sdist": [
-        "51abd69aeb6bd61f710e7b741e20556953d2065909d1d39f7aeb47192ca8d749",
-        "request-0.0.20.tar.gz"
-      ]
-    },
-    "0.0.22": {
-      "sdist": [
-        "1eb6eb1b2bfe881be070ab59048117433f0e9e5de32e0f9049db9bc022fe590d",
-        "request-0.0.22.tar.gz"
-      ]
-    },
-    "0.0.24": {
-      "sdist": [
-        "e8aff5a8cb78b7e56d1f807ee02fb12280cf2c9ee307b9c1a9eecc095627c549",
-        "request-0.0.24.tar.gz"
-      ]
-    },
-    "0.0.25": {
-      "sdist": [
-        "8ebb50ea1ae554dddd2b6484e12bde9b48706f310035cc6a9fce605d1c28de42",
-        "request-0.0.25.tar.gz"
-      ]
-    },
-    "0.0.26": {
-      "sdist": [
-        "14e01d875a04530e96b2ceece734670d749fb1b96b85089abc86e3d4198dc9cd",
-        "request-0.0.26.tar.gz"
-      ]
-    },
-    "0.0.27": {
-      "sdist": [
-        "ade2074a37461e8f7fbbe8f8488bbc38014b4b79ba9ce0bad0772db38e16b555",
-        "request-0.0.27.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "afe1a4e9ba6a8926528fefd42a70e29aa4a46715608f5a4cef7f2be17bb4926c",
-        "request-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "119a5059fa512f1dbcec0d6a1f633223477d37c707b6e5249fecd6b1db5c3fbe",
-        "request-0.0.6.tar.gz"
-      ]
-    },
-    "0.0.7": {
-      "sdist": [
-        "daec4d293853826db1df1358e260490a90a9bb82e62cde78c8ef956acfe03c91",
-        "request-0.0.7.tar.gz"
-      ]
-    },
-    "0.0.8": {
-      "sdist": [
-        "096895a01a66a24a5610c05ac5edcf817ecd41cece61911af53faff4e809564d",
-        "request-0.0.8.tar.gz"
-      ]
-    },
-    "0.0.9": {
-      "sdist": [
-        "6637ccd1854d00c93100c6ef3d8ed6f4ccce6dd068d3c992d31d1079c2d7e86b",
-        "request-0.0.9.tar.gz"
-      ]
-    },
-    "1.0.0": {
-      "sdist": [
-        "9188363b15b3b42e9dfc95f45f45ce25b83850b20e5b95a11f8b1e22eb387624",
-        "request-1.0.0.tar.gz"
-      ]
-    },
-    "1.0.1": {
-      "sdist": [
-        "0cadab109e7ce63c2b9dfd55277f47a22be04486e4d7255fe78ff2e9e5f54003",
-        "request-1.0.1.tar.gz"
-      ]
-    },
-    "1.0.2": {
-      "sdist": [
-        "009397eba1bd73ddc8fdc0745f15ecacdf38d0be2186ef431bc8357a60f0900b",
-        "request-1.0.2.tar.gz"
-      ]
-    },
-    "2018.11.20": {
-      "sdist": [
-        "5ffb6c59c7d26bfefb3ed81bbe7228cd5764565c7294a4901d5d81d8d6ed5078",
-        "request-2018.11.20.tar.gz"
-      ],
-      "wheels": {
-        "request-2018.11.20-py2.py3-none-any.whl": [
-          "1fa6311804d4a92b4bd7516ff04be3cb886dd7b46d218e75e4f491516e74b83f",
-          "py2.py3"
-        ]
-      }
-    },
-    "2019.3.22": {
-      "sdist": [
-        "0ec9f1df66c5c44e9e0221f02bc7405e9852bd42e66fb6c4d68399aeb0b69d36",
-        "request-2019.3.22.tar.gz"
-      ],
-      "wheels": {
-        "request-2019.3.22-py2.py3-none-any.whl": [
-          "1c8f3f991e248dd2d8690a635a2ac4a1f95a4b7a3745831c26336d03646bc320",
-          "py2.py3"
-        ]
-      }
-    },
-    "2019.4.13": {
-      "sdist": [
-        "6297b53c29a4928f7735034df2ab60aa1c7c044df989f605a81b7dc2d3713732",
-        "request-2019.4.13.tar.gz"
-      ]
-    },
-    "2020.7.1": {
-      "sdist": [
-        "7c99b9239649ed9ea696f56418b49f2cc833b4eb7d15d86a225693b182511932",
-        "request-2020.7.1.tar.gz"
-      ]
     }
   },
   "requests-netdna": {
