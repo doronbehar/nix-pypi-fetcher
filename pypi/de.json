@@ -9492,6 +9492,18 @@
         "coldcms-0.1.0rc11.tar.gz"
       ]
     },
+    "0.1.0rc12": {
+      "sdist": [
+        "0ba2ac8f4858d95d8ff470f7fc047a4c113caee3a2250b0011046e649b5c4655",
+        "coldcms-0.1.0rc12.tar.gz"
+      ]
+    },
+    "0.1.0rc13": {
+      "sdist": [
+        "4717139544a4e3c5a89e943582190a060198411ed88a23ae04eb1573060240ef",
+        "coldcms-0.1.0rc13.tar.gz"
+      ]
+    },
     "0.1.0rc2": {
       "sdist": [
         "468036b0ae848871bf05891de94d04282b4d7ada8e5922bdb84fd4126f091ae1",
@@ -43067,6 +43079,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_mass_mailing_list_dynamic-12.0.1.0.1-py3-none-any.whl": [
+          "4b43495c572a9ba8ca7ef366cba83fee99782fade17532c29a655006078e2fd4",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-product-form-purchase-link": {
@@ -43178,6 +43198,22 @@
       "wheels": {
         "odoo12_addon_website_sale_tax_toggle-12.0.1.0.0.99.dev1-py3-none-any.whl": [
           "dab1a7983c0e26af3abb5be840a9a3d32766538ba14846c9bdc638169bbdb0e3",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_website_sale_tax_toggle-12.0.1.0.1-py3-none-any.whl": [
+          "9572a470e345ea3717213d371880f4e6a224993adff8c08a6b5d7a4912052214",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.2": {
+      "wheels": {
+        "odoo12_addon_website_sale_tax_toggle-12.0.1.0.2-py3-none-any.whl": [
+          "51efcbbb1915c096f82e0cd2ea14c956d9831958ddc327b5f5d16236d871ce6b",
           "py3"
         ]
       }
@@ -69587,6 +69623,26 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20200717": {
+      "wheels": {
+        "tf_nightly_gpu-2.4.0.dev20200717-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "4cf0efd9878cb6dc80ae893fed9373679e82783e3cf1523bf68f1a31f49aee46",
+          "cp35"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200717-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "6ee5067e2938c0f50a6a34b2407416e8aa13da5e9ce9ecf9219df814b1fc72b4",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200717-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e5be40f9db31c64c6031d9de8c222d54f4a940181bcad3cd963c69ec9a4d7588",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200717-cp38-cp38-manylinux2010_x86_64.whl": [
+          "0ff396ac0eafeab3269a4eee441ddbeba224a21242b49d0b64571cede0f53e6a",
+          "cp38"
+        ]
+      }
     }
   },
   "thecatapi": {
@@ -71788,6 +71844,68 @@
       "wheels": {
         "uswapper-0.19-py3-none-any.whl": [
           "3cdf1cf14c890a6f845570d6673f97c5c54bc42669948bd0769f2408f77a4718",
+          "py3"
+        ]
+      }
+    },
+    "0.20": {
+      "sdist": [
+        "c6b56b96245992c57f47b35e46afbae2deea80e333d2bd53eb1f0f9e4c6be9c3",
+        "uswapper-0.20.tar.gz"
+      ],
+      "wheels": {
+        "uswapper-0.20-py3-none-any.whl": [
+          "897dae8bf4909eddeddc588b69f5be23856d78f5ff14f5036cc48b799271ebce",
+          "py3"
+        ]
+      }
+    }
+  },
+  "utils-knot": {
+    "1.0.1": {
+      "sdist": [
+        "dfcaf8f8f0b77bfbb1d87e94125f516ea7f9166345380115b2eb38b1bf71391c",
+        "utils_knot-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "utils_knot-1.0.1-py3-none-any.whl": [
+          "d41b65c72a02bb6da9cc92fb786bcd03277988ddfd66fd6b56de97158ed7a961",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "01c32d17454644b27e06f18e91ed34722f309418a8dba397eefceed9b8a26c03",
+        "utils_knot-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "utils_knot-1.0.2-py3-none-any.whl": [
+          "6d04075c8d42904bc63b60311a3bf9d64622b8d3502bd268d4a8603ee4e7a75d",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "255dfe7d394c5ac468e15e422b1e975e702bf491b83be99643e64dca13527719",
+        "utils_knot-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "utils_knot-1.0.3-py3-none-any.whl": [
+          "3dcd6ce7d192f35386a5d17f4c694080a091208a2ccf5eeda096825499bc6158",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "2ec918599b076614797f93206535101ae2ced959c3aa3115cb22799eb9f3e837",
+        "utils_knot-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "utils_knot-1.0.4-py3-none-any.whl": [
+          "a9e9f0048625d2a266042dbe0b4073db7aaf2cd4a9c2b5f02e04421325667822",
           "py3"
         ]
       }
