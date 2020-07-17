@@ -2181,6 +2181,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.4.1": {
+      "sdist": [
+        "6931fc43f3249cb4bfd17fd68dd2a9fae130bd734ff81b1753b944369d62f018",
+        "asn1-2.4.1.tar.gz"
+      ],
+      "wheels": {
+        "asn1-2.4.1-py2.py3-none-any.whl": [
+          "989cdf85762e11199dc09bc11e201573c8eb832aed4415f1b394bf3503884c37",
+          "py2.py3"
+        ]
+      }
     }
   },
   "asterix": {
@@ -6008,6 +6020,12 @@
       "sdist": [
         "82d2c614c82d64bf56e913990f22663e5de64b99db15838abfd9a064f1cc2f51",
         "charms.reactive-1.3.0.tar.gz"
+      ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "2b89d81b42fd7d8df1324cb5cbaf031c2d11d7df4f8baa8f69dee767f9363e9d",
+        "charms.reactive-1.3.1.tar.gz"
       ]
     }
   },
@@ -17461,6 +17479,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.175rc2": {
+      "wheels": {
+        "DKCloudCommand-1.1.175rc2-py2.py3-none-any.whl": [
+          "f3d00615cbdbec5f4ab2c34b492f317bc75a3a12233b54ad3f74efba7e156f88",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dm.iter": {
@@ -24929,6 +24955,20 @@
       }
     }
   },
+  "hs-formation": {
+    "4.1.0": {
+      "sdist": [
+        "59e4d5a36a42f16b782fa39e25a50130e5376f06affaffb2191fbef7c2fb9fdb",
+        "hs-formation-4.1.0.tar.gz"
+      ],
+      "wheels": {
+        "hs_formation-4.1.0-py2.py3-none-any.whl": [
+          "f0f34c1ec8aa6564a4dff2afd8a4a2e432a100b7442c5f9b8695ccf5a20a1132",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "html-wrapper": {
     "0.1": {
       "sdist": [
@@ -27333,6 +27373,70 @@
           "cp38"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "f85712734b894145ee82bfa11573a2a50a37ea16cae5bd4dee868114bf2b7828",
+        "JPype1-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "JPype1-1.0.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "b2add3245444303b4ae503631befb985a90ae39274aabfae635e238b849db53c",
+          "cp35"
+        ],
+        "JPype1-1.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "786903be61aa03eadbcaa1e70b9d339422dc5c0a3e9666ca6ee54cf0b9593491",
+          "cp35"
+        ],
+        "JPype1-1.0.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "d8996ed604f362bb63ce90334249926ccd562530ae4c23ef771da76c9527f1d1",
+          "cp36"
+        ],
+        "JPype1-1.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "26204bb7917cd411eb42bbadf0984f3b6684f02ef1ef142fb89050618dfa2f0d",
+          "cp36"
+        ],
+        "JPype1-1.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9742689d85e632f30f612d0e0b9d63cdf192fb50e576e27a473a1f26b88d2ab5",
+          "cp36"
+        ],
+        "JPype1-1.0.1-cp36-cp36m-win_amd64.whl": [
+          "213604e7b016f6fd5ff80170d4562517a7ff45efe75f709efcc3980d9d75e0ce",
+          "cp36"
+        ],
+        "JPype1-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "0eef6bc8340cb7309b9e48ca4fb6e6b5090740e2f0e6e84ae864365236388119",
+          "cp37"
+        ],
+        "JPype1-1.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a14b6ba1526e795211c91c720927ab28183e1c896e968874fb31a243b8ce94fd",
+          "cp37"
+        ],
+        "JPype1-1.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "920cb7fef28e578da32223b304d08de08859f6f3bf0903d18fc7f3f2d5ee3f77",
+          "cp37"
+        ],
+        "JPype1-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "697bd0eab62985831fc7a910103a8c66c774051671d031f1db1ac874e9a3a6d3",
+          "cp38"
+        ],
+        "JPype1-1.0.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "ebf2ee3a16444fc3cb8a7b6dd5995ff5c4ddb5b3184be82614cdc27aea7b351b",
+          "cp38"
+        ],
+        "JPype1-1.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "f66bbce6d52f61d4e6a71f79aec0e84ba2a888f9463241a04f6eda2e36aba9c6",
+          "cp38"
+        ],
+        "JPype1-1.0.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "e5f25474915346035f6ff45817f3e95ea859a5ec402a9d64ced9a6e5c044f59d",
+          "cp39"
+        ],
+        "JPype1-1.0.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "978039abef81e6d0d7a35614e9fa3a2e648c67af3f9ebe8087365023d6dccfba",
+          "cp39"
+        ]
+      }
     }
   },
   "js.flat-ui": {
@@ -28524,6 +28628,18 @@
       "wheels": {
         "lib_parameter-0.1.0-py3-none-any.whl": [
           "7bec960c0493bd5dc18923c754cd62c34472c774e89c61c3736f948c9271d893",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "c870203b9a7cd7c26a23c0ab8212e2fc4377eed876721443c862e5d0f2da5325",
+        "lib_parameter-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "lib_parameter-0.1.1-py3-none-any.whl": [
+          "d6b1cd9c48a95d0c85e37b199e1905909eb83c1bb7b8a496e2743538cfc7c292",
           "py3"
         ]
       }
@@ -50376,6 +50492,18 @@
         ]
       }
     },
+    "4.13.0.80669.0": {
+      "sdist": [
+        "39aa50bed39481aa44bfbf437dc629b3a591f2153af7adac28db7b0a2d3ea364",
+        "s2protocol-4.13.0.80669.0.tar.gz"
+      ],
+      "wheels": {
+        "s2protocol-4.13.0.80669.0-py2-none-any.whl": [
+          "81e6aa78813b96cbd92e8fd19aeb759c7451fd08195fadefa904a9c4783bb5ec",
+          "py2"
+        ]
+      }
+    },
     "4.2.0.62347.0": {
       "sdist": [
         "37f1f7f94f3d9ef24243ae23e8baf2a590e82f0e3e79e60497045d6f09d9ed89",
@@ -51048,6 +51176,18 @@
       "wheels": {
         "sandboxapi-1.5.1-py2.py3-none-any.whl": [
           "f8b08dbf94df47e91d550da6ed50ae953c344c1e2717880b5e6e6dbfef1e86d2",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "f1efa90c4154aaa2df686bfe3d2049123193c316f1fad53022743f41870cc790",
+        "sandboxapi-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "sandboxapi-1.6.0-py2.py3-none-any.whl": [
+          "b3dd0e527ad20653ddc80708faa9e6dfa6de88ef8495cd3a7c0db8c51eda136e",
           "py2.py3"
         ]
       }

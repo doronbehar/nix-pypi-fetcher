@@ -12253,6 +12253,12 @@
         "340743606c8e1571ec714908c0f8040f0c7d643920882876e2c2150ca2202958",
         "CTid-programmer-1.2.3.tar.gz"
       ]
+    },
+    "1.2.4": {
+      "sdist": [
+        "1df49151b131b3ab304ac6202a717c0e3bb6da7ffefdd4f93d88ccb5870b3dbc",
+        "CTid-programmer-1.2.4.tar.gz"
+      ]
     }
   },
   "cyber-rsa": {
@@ -27902,6 +27908,12 @@
         "girder-3.1.1.dev183.tar.gz"
       ]
     },
+    "3.1.1.dev187": {
+      "sdist": [
+        "b0decd64fdfeded66179f177f7fe0ae418e01b42814c4aeb061206e04f874d3c",
+        "girder-3.1.1.dev187.tar.gz"
+      ]
+    },
     "3.1.1.dev26": {
       "sdist": [
         "bcec7d8dbecb4eb698e8d8e8b9a9d28257526c5692c203132d94905cf68491fd",
@@ -37034,6 +37046,12 @@
         "localstack-0.11.3.2.tar.gz"
       ]
     },
+    "0.11.3.3": {
+      "sdist": [
+        "28d4a14480f867b7459c30584a776e91da593d50fe366a262dd6c1716ed74e7b",
+        "localstack-0.11.3.3.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "2db3df3a424d60b7c7d1b30ad2d983601fb8f00b5b1f6981bd6d8007ce52738b",
@@ -42088,6 +42106,18 @@
       "wheels": {
         "mypy_boto3_chime-1.14.21.0-py3-none-any.whl": [
           "e20ae9ce86e2164b50b0b7637a6a9087c24b66f7195cc6be2425902e1c663f94",
+          "py3"
+        ]
+      }
+    },
+    "1.14.22.0": {
+      "sdist": [
+        "a7ee070e2ad4fad90a12ea6fcfccb7df791ce3ff9cf58345dcde875c443c4521",
+        "mypy-boto3-chime-1.14.22.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_chime-1.14.22.0-py3-none-any.whl": [
+          "fc0bea57ea568fd73a4e05f14be89a6d3bfd153798852f0fd577da285514659d",
           "py3"
         ]
       }
@@ -53714,6 +53744,94 @@
         ],
         "pikepdf-1.17.1-cp38-cp38-win_amd64.whl": [
           "c00f92161451b1b9754c5ab6a36534c9601970a89052ce52379204bcdc74d17e",
+          "cp38"
+        ]
+      }
+    },
+    "1.17.2": {
+      "sdist": [
+        "fb65004b46b377d5add1c76d249d05759ef2201fb772a7676afcdf9d84da4c94",
+        "pikepdf-1.17.2.tar.gz"
+      ],
+      "wheels": {
+        "pikepdf-1.17.2-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "4620f36faa963e1079bd847acf59ac2c7654d00f5ff7a6564a24fe6448c7268d",
+          "cp35"
+        ],
+        "pikepdf-1.17.2-cp35-cp35m-manylinux2010_i686.whl": [
+          "7c798a2803437d058b3d08ffb692f2c2de9e6f7fa57cf737d09d331f446d795b",
+          "cp35"
+        ],
+        "pikepdf-1.17.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "6d56c30165a520e4d63d0cda14dae52019de53a21593febe2d04d39b6c7b22d6",
+          "cp35"
+        ],
+        "pikepdf-1.17.2-cp35-cp35m-win32.whl": [
+          "11110d7ff2a24a15d04bd2f58cddd0b96c95d504dae980da9a9a79cbd076c775",
+          "cp35"
+        ],
+        "pikepdf-1.17.2-cp35-cp35m-win_amd64.whl": [
+          "fc6f2ca8724ea478a216a1080135bd8524c8a234a99a3264c8c7e3d38a80d926",
+          "cp35"
+        ],
+        "pikepdf-1.17.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "0a0eb69f7d95003765ef8d4fc672b515ca59481575cedc19d1f2acdd73a34a5e",
+          "cp36"
+        ],
+        "pikepdf-1.17.2-cp36-cp36m-manylinux2010_i686.whl": [
+          "9927826322d73af0dbd8e2132d998efbd9cd5a3fa8463576e36276167e3f6370",
+          "cp36"
+        ],
+        "pikepdf-1.17.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "5df54c23da203951ca78f36191800961d8dea9134d8f7ea9fed0bb1d80a12ec3",
+          "cp36"
+        ],
+        "pikepdf-1.17.2-cp36-cp36m-win32.whl": [
+          "b45aec9bf9ce4d2e83b27c49b6b3f5f12b6dac4eec29de54876e96408a55932b",
+          "cp36"
+        ],
+        "pikepdf-1.17.2-cp36-cp36m-win_amd64.whl": [
+          "8deacea63aa096763f949632419af5489ea454bcb716350ede76f1a46baddcda",
+          "cp36"
+        ],
+        "pikepdf-1.17.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ffd149dcb812724317313606b97a9ace3b5a94e517a3ac3e81e7fd7e7627652b",
+          "cp37"
+        ],
+        "pikepdf-1.17.2-cp37-cp37m-manylinux2010_i686.whl": [
+          "a8a869c61b4eb9f69d6083b14f2898c9cac9f9b407b1d763a567524bc3e8b4f5",
+          "cp37"
+        ],
+        "pikepdf-1.17.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "5d638114eea2dad5071a6f30d518717d65ea0a54db934dcc30e47386b4089c23",
+          "cp37"
+        ],
+        "pikepdf-1.17.2-cp37-cp37m-win32.whl": [
+          "12e7726333e88e3367fae66129a89910e282406158a054023ed6aa8d277fb0a3",
+          "cp37"
+        ],
+        "pikepdf-1.17.2-cp37-cp37m-win_amd64.whl": [
+          "3c1ec83bef2859594fecedf6e3ac758194bacf71f959aa6c9851678ff3a28f77",
+          "cp37"
+        ],
+        "pikepdf-1.17.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "b08b1f1936eafd1e6ded0cc60088dafd42aafe7621f826da58e337db875c9a48",
+          "cp38"
+        ],
+        "pikepdf-1.17.2-cp38-cp38-manylinux2010_i686.whl": [
+          "5dc80bcbaf78ff8da05599d42acf70a33a5913b3e676a2c21e8a24748a40147e",
+          "cp38"
+        ],
+        "pikepdf-1.17.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "7d18e29bf7a51ac64de4c37ef308fddc4e598c2d57860ed103bc4615407da12b",
+          "cp38"
+        ],
+        "pikepdf-1.17.2-cp38-cp38-win32.whl": [
+          "a8d86763bd41abf4ff6b1eb03915d36f64afea711677b64fd4cc3357d99efbf6",
+          "cp38"
+        ],
+        "pikepdf-1.17.2-cp38-cp38-win_amd64.whl": [
+          "218631d649d3b15618093af8845be6e5240fbec2d5f5e23cb862ff389dd6ba6e",
           "cp38"
         ]
       }
@@ -73212,6 +73330,14 @@
       "wheels": {
         "pulumi-2.7.0a1594854697-py2.py3-none-any.whl": [
           "652ded7cfe6e8676af44ff4aad21fc90bf9efdd04f91282d5e4fc91b763500a3",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.7.0a1594920370": {
+      "wheels": {
+        "pulumi-2.7.0a1594920370-py2.py3-none-any.whl": [
+          "810eb7248456df051043f9339369856dd162f51b5904235c69ff9535f4c07cf5",
           "py2.py3"
         ]
       }

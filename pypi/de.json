@@ -9824,6 +9824,12 @@
         "contentful-1.12.3.tar.gz"
       ]
     },
+    "1.12.4": {
+      "sdist": [
+        "9de01305f214eeac55b2807c8f62467c5f4e93b6742f708a016c57cab1146637",
+        "contentful-1.12.4.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "04d6a360faa8b2982e7cd039ea49cdaf434d95723860b8b18bd57a0dfdcdcc0e",
@@ -38258,6 +38264,18 @@
         ]
       }
     },
+    "1.14.22.0": {
+      "sdist": [
+        "5b30d75ed9800015f09e73242473637690012eba5f84cc205ae02327561bef31",
+        "mypy-boto3-rekognition-1.14.22.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.22.0-py3-none-any.whl": [
+          "21315fcdb145398fd0da57b1a01ba5f4b29f8817bfc66fadfefdbea854e32a22",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "e38484345f44ea5ff55a0506123e719b6e94d37580a79a02c083a453268fdcd6",
@@ -39728,6 +39746,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.21.0-py3-none-any.whl": [
           "4ce4b66671010c7b8c9dfd2fd7944eefdc1b29605957085c356660d65fb95af0",
+          "py3"
+        ]
+      }
+    },
+    "1.14.22.0": {
+      "sdist": [
+        "03aa3dc8ef1d1197ef45bd4429e542a2cbd33feaf04e2010359a2055c2937310",
+        "mypy-boto3-route53resolver-1.14.22.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.22.0-py3-none-any.whl": [
+          "311a7b86e2222a2bfdc8ce81f9c6be8da7ef6d9de89a0c167de637279c00f661",
           "py3"
         ]
       }
@@ -57735,6 +57765,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.5": {
+      "sdist": [
+        "51ff1cb6e726577e22683e19be9bb802c109fdf7940437a1e4a8b506f92d49b9",
+        "quantulum3-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "quantulum3-0.7.5-py3-none-any.whl": [
+          "5ff9d690d5db3e73849f28baeb06a466c607c312a9274fe34774c3bb12acedb4",
+          "py3"
+        ]
+      }
     }
   },
   "quick-cache": {
@@ -69516,16 +69558,32 @@
           "d3167a45c3b164edd426dfd565d0906e96f91977fe2fc3d09390a85237bc0518",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200716-cp35-cp35m-win_amd64.whl": [
+          "773254872352b2a92746fa4d507b33e68362cd6a32bd0bd21225c9fb42887595",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200716-cp36-cp36m-manylinux2010_x86_64.whl": [
           "8020c27a9ad8f92f702064f5b7ae0270cebd8b88df868c1963a88fe9c2bdf82d",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200716-cp36-cp36m-win_amd64.whl": [
+          "b799df7491923d0729661a663ce9a67cad2bc2c94c9cdacc5300127e9d802c15",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200716-cp37-cp37m-manylinux2010_x86_64.whl": [
           "47af351a2c67ce5fa1f97e04d6450ec9c283611a2825ea87057c0dfa4d316852",
           "cp37"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200716-cp37-cp37m-win_amd64.whl": [
+          "d8f0612fda77f86d08c77300d100cbd098832eda24b926c425b8e5aeebf2d222",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200716-cp38-cp38-manylinux2010_x86_64.whl": [
           "09617cbcf5edb1d9ca4e8d47b6f87dc2cc7f2f04360231e7b410937d5f518e5c",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200716-cp38-cp38-win_amd64.whl": [
+          "ad7c4c6d3920ff4141b267444bffc7a83efc1a56f4a97734d86e4dcab2742407",
           "cp38"
         ]
       }
@@ -71992,6 +72050,36 @@
       "sdist": [
         "0a7b5ee6b05a1e0e5e902bce1a853486d02e9a9bb6080a7c15a38d4f92a317b5",
         "vaspvis-0.0.12.tar.gz"
+      ]
+    },
+    "0.0.13": {
+      "sdist": [
+        "13fe492efc7528cdb31d733ba46e3aa5fc3cca9a30c1055816852c5e64a64124",
+        "vaspvis-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "9d99f98ce45796c0358ae3fda2861db002e95b9d51192741de2f6d1b7c68f2dc",
+        "vaspvis-0.0.14.tar.gz"
+      ]
+    },
+    "0.0.15": {
+      "sdist": [
+        "2d2d232a00153617b8392eeae0160ca727ab4cc44bc89367f9a000c5692fe4b2",
+        "vaspvis-0.0.15.tar.gz"
+      ]
+    },
+    "0.0.16": {
+      "sdist": [
+        "541ae34d10d6458076321f6c3fafaa1f9b6759966657bcdcf923a1cd32c14b97",
+        "vaspvis-0.0.16.tar.gz"
+      ]
+    },
+    "0.0.17": {
+      "sdist": [
+        "db35e0ea5dff4c0e3cd9969d19257f60b379d1be44fc18ab2a28cdbaa43e3119",
+        "vaspvis-0.0.17.tar.gz"
       ]
     },
     "0.0.3": {

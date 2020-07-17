@@ -13554,6 +13554,14 @@
         ]
       }
     },
+    "0.10.19": {
+      "wheels": {
+        "django_szuprefix_saas-0.10.19-py2-none-any.whl": [
+          "8747025fc2a8015f2c2e755e9300dff70c5c642f084eaa72a81cf8f63a93b53d",
+          "py2"
+        ]
+      }
+    },
     "0.10.2": {
       "wheels": {
         "django_szuprefix_saas-0.10.2-py2-none-any.whl": [
@@ -19001,6 +19009,24 @@
       }
     }
   },
+  "flame-code": {
+    "1.8.6": {
+      "wheels": {
+        "flame_code-1.8.6-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "b1d09b9bdae126641868292e797963fc0c0dbf6755d4d8327045fb1038efda95",
+          "cp35"
+        ],
+        "flame_code-1.8.6-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "247dfd766623ed6fa919fe7143e96c93c4d80249dc95f402fc3f091e2a6af0ee",
+          "cp36"
+        ],
+        "flame_code-1.8.6-cp38-cp38-manylinux2014_x86_64.whl": [
+          "560c4eaed33c15f51bea3e1d93deae558623ba30e6941a54feb36631955401e8",
+          "cp38"
+        ]
+      }
+    }
+  },
   "flameapk": {
     "0.7": {
       "sdist": [
@@ -22385,6 +22411,14 @@
           "cp38"
         ]
       }
+    },
+    "0.4.0.dev20200716": {
+      "wheels": {
+        "hat_event-0.4.0.dev20200716-cp38-none-any.whl": [
+          "20e4ceb7ce6e3a7aa6779ea88e9606aec9da45b4f0761cbef7a3dd3552af3f13",
+          "cp38"
+        ]
+      }
     }
   },
   "hat-gateway": {
@@ -22400,6 +22434,14 @@
       "wheels": {
         "hat_gateway-0.4.0.dev20200709-cp38-none-any.whl": [
           "440a526576710f4ac8ceac4268a7e02b63d63ad063df749f65dd383ccbaf759e",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.0.dev20200716": {
+      "wheels": {
+        "hat_gateway-0.4.0.dev20200716-cp38-none-any.whl": [
+          "952884cabc6153e1c4a5343b0270cd085d1d8de57f9bb1b0d275338043570494",
           "cp38"
         ]
       }
@@ -32430,6 +32472,18 @@
         ]
       }
     },
+    "1.14.22.0": {
+      "sdist": [
+        "91536cbbc4441f47f60dbf3e8ecd1a4e41d324db85ce072dcea02186025a3e0e",
+        "mypy-boto3-dynamodbstreams-1.14.22.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dynamodbstreams-1.14.22.0-py3-none-any.whl": [
+          "70cadd9cd08cc721e0ca0f438ced8254b7f455ba7ee4fd921f6f6ae2cac26324",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "28b5a97565b9b33037af6f440b4b79a3b3545cdae6f824d924cb042d937c9111",
@@ -33904,6 +33958,18 @@
       "wheels": {
         "mypy_boto3_translate-1.14.21.0-py3-none-any.whl": [
           "a338e6791a05f629694a198c8e15758f13b91a600f48764baa5b4e45816660bc",
+          "py3"
+        ]
+      }
+    },
+    "1.14.22.0": {
+      "sdist": [
+        "b4339137724b2e8a6dc866d9c8355d2efc1dbf0ac3fe9c0e8ca2550859e19c57",
+        "mypy-boto3-translate-1.14.22.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_translate-1.14.22.0-py3-none-any.whl": [
+          "e4a4d38a32b178b3a9397106133b8840161d3403935f8dd62440981680bdc414",
           "py3"
         ]
       }
@@ -53652,6 +53718,42 @@
       "wheels": {
         "spellbot-2.9.0-py3-none-any.whl": [
           "02ea42eda8dc1eee9128baff078d206141f3307d7be53c22da88725047bf3085",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "d38b587c9fac7140e81214f3aab521185491d3419c5eefc6e54cecd53b4791e0",
+        "spellbot-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "spellbot-3.0.0-py3-none-any.whl": [
+          "55d5a413aa92d5025080b4921e640557774735b7db55ffb8ba27961b2d8bdfa1",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "c09784405262d46d8a5b004aeced8239140d73bd53651429763836f4493bc390",
+        "spellbot-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "spellbot-3.0.1-py3-none-any.whl": [
+          "89ce8b447acf15117b68373e6d3a355e01e8d2e09030a19d7cb78b65af12d553",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "1dfc9937540360546b43569e960acfb5ccb5dca138d7c819c76ff40192756e55",
+        "spellbot-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "spellbot-3.0.2-py3-none-any.whl": [
+          "144d41e7b62bb605fba75283273b5d710405b338c97a85989c596a3119747542",
           "py3"
         ]
       }
