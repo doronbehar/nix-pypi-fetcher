@@ -10451,6 +10451,20 @@
       ]
     }
   },
+  "datascience-cjwcommuny": {
+    "0.0.2": {
+      "sdist": [
+        "f0e47173cc7e019b91bac0496611666ea6fc60df7907fb2525b14df0801d2d93",
+        "datascience-cjwcommuny-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "datascience_cjwcommuny-0.0.2-py3-none-any.whl": [
+          "88407365a114a6f9aecaee3527c363b0d3e98293135afff9cb4991acc5b3bc56",
+          "py3"
+        ]
+      }
+    }
+  },
   "datatxt-py": {
     "0.0.1": {
       "sdist": [
@@ -19326,6 +19340,14 @@
         ]
       }
     },
+    "20.6.2b0": {
+      "wheels": {
+        "genie.libs.parser-20.6.2b0-py3-none-any.whl": [
+          "b972e66600d5b15de1954b32393a4e1147b8936c521681a172cc9dc4ed33a955",
+          "py3"
+        ]
+      }
+    },
     "3.0.0": {
       "wheels": {
         "genie.libs.parser-3.0.0-py3-none-any.whl": [
@@ -21710,6 +21732,12 @@
       "sdist": [
         "a0ff3dc37def79c3455e64f2502a6f0a0a94647453c4de6a22a7996700bc0095",
         "graphdot-0.6a8.tar.gz"
+      ]
+    },
+    "0.6a9": {
+      "sdist": [
+        "07907df8de82126a7de71e87eee27251a0594561943c571853e2a35838db8060",
+        "graphdot-0.6a9.tar.gz"
       ]
     }
   },
@@ -31882,6 +31910,14 @@
         ]
       }
     },
+    "4.3.1": {
+      "wheels": {
+        "mindmeld-4.3.1-py2.py3-none-any.whl": [
+          "db0cd77ab01a721e9456cf436395811e0bad4669ae5f2a4dd806f2645d16d11b",
+          "py2.py3"
+        ]
+      }
+    },
     "4.3.1rc1": {
       "wheels": {
         "mindmeld-4.3.1rc1-py2.py3-none-any.whl": [
@@ -38740,6 +38776,18 @@
         ]
       }
     },
+    "1.14.23.0": {
+      "sdist": [
+        "f57c80093a21caa7b6794d3eb92335006aa3c3dff071c6954b084808da97b2b7",
+        "mypy-boto3-amplify-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.14.23.0-py3-none-any.whl": [
+          "91c84322391b7340ad2c39255bce709228741e3a3ac88ea4f803ba08213dac38",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "a5270609210acad7764a6421826f667b54487c6a251eb6c94316e802149d1d9c",
@@ -40226,6 +40274,18 @@
         ]
       }
     },
+    "1.14.23.0": {
+      "sdist": [
+        "ea3cfbacafa60a3773a0919e88a0c3e96a0f442879bb2f10757f0ea08372d17d",
+        "mypy-boto3-elb-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.14.23.0-py3-none-any.whl": [
+          "bf77776a007e310ddb6e365792f418a68c5909b0737017755cc456efe25bc9a7",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "5070668b3f611a5a324efa4fba1de46aa009fe3c9b97a2a41f3e09f8fef440fb",
@@ -41700,6 +41760,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.14.22.0-py3-none-any.whl": [
           "5c5d929c6ee466e83558dd6f363f7343aa179a3fabe2ebccaeebaa9e92ec2a8f",
+          "py3"
+        ]
+      }
+    },
+    "1.14.23.0": {
+      "sdist": [
+        "b4960353c063d95d35fbc7b6b05697132c5fef79452728a8ce754f24ddcc2656",
+        "mypy-boto3-meteringmarketplace-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.14.23.0-py3-none-any.whl": [
+          "ea760ef53e1bbfc21f7e27c2609824a2dc61c841d6017439abf85c494c736b16",
           "py3"
         ]
       }
@@ -73360,12 +73432,20 @@
           "1f211f920df69e4479fa2bb3f5883b954a9429f679678f81d0aff7a127c6d685",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200717-cp35-cp35m-win_amd64.whl": [
+          "1723b80480d37ac273b78c47cfa8f6d977bb16a07dbb1031b873b740f08f412a",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200717-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "3dd83c1e8909dacb9677875463855b80fa3cc4876c309eeb7f62f646424b28d5",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200717-cp36-cp36m-manylinux2010_x86_64.whl": [
           "9ac6acdc0ebb30b429e6fd76f15472ce704611afdcdb1a029ebc7878608253b1",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200717-cp36-cp36m-win_amd64.whl": [
+          "a503efaa0c30a76f0bf282bd1b3c65df7eb175db1253c8b1fb9d7a3a099f00a3",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200717-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -73376,12 +73456,20 @@
           "829b298eb812fc3dae6ef991912200ac2ebcb526c564d10376b57b4f6db85535",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200717-cp37-cp37m-win_amd64.whl": [
+          "bb1633632950a1395d62cd1372e905e9d932a3c286db10ad975c3151a2af3bff",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200717-cp38-cp38-macosx_10_14_x86_64.whl": [
           "373974d4387ace4dfa7527de68e58ef8d612fc5f2589f6f69796ee6c463206f7",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20200717-cp38-cp38-manylinux2010_x86_64.whl": [
           "ebac7e3910ec07f11ef2ad811c0a9e530df2bf27a93de570e89095a0a3a21903",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200717-cp38-cp38-win_amd64.whl": [
+          "e22b8fb6fd2e4fdd01d3d07c9d6861bef070b86a5dc4469316e4e1ab03617d5c",
           "cp38"
         ]
       }
@@ -74753,6 +74841,30 @@
           "py3"
         ]
       }
+    },
+    "10.8.2": {
+      "sdist": [
+        "0e59408872a80feb9c4aba065211a08e4d53d7f81b41ae949bdac1a73a15d75b",
+        "tradedangerous-10.8.2.tar.gz"
+      ],
+      "wheels": {
+        "tradedangerous-10.8.2-py3-none-any.whl": [
+          "fa2dae76d3c8e9fd1ced02f0aa9d17b5275dce4a18cfcb2efe45d3b18970ccca",
+          "py3"
+        ]
+      }
+    },
+    "10.9.0": {
+      "sdist": [
+        "f17ed544ce90d64d0b17953fcb523f92ce6396a01dab5ec05b81df6ecc5fd8bd",
+        "tradedangerous-10.9.0.tar.gz"
+      ],
+      "wheels": {
+        "tradedangerous-10.9.0-py3-none-any.whl": [
+          "5d171a9638609747075ebb57e12beb909476a51e5ca82923577427a3f56d5642",
+          "py3"
+        ]
+      }
     }
   },
   "trainstats": {
@@ -76016,6 +76128,18 @@
       "wheels": {
         "uvicorn-0.11.5-py3-none-any.whl": [
           "50577d599775dac2301bac8bd5b540d19a9560144143c5bdab13cba92783b6e7",
+          "py3"
+        ]
+      }
+    },
+    "0.11.6": {
+      "sdist": [
+        "467c333c743ec6a3eb545517a0e3cac603becfa40c73c65ed46c3a4bf1c8e2d0",
+        "uvicorn-0.11.6.tar.gz"
+      ],
+      "wheels": {
+        "uvicorn-0.11.6-py3-none-any.whl": [
+          "d19a20b17445708fd222e5a7cfc3eacfb31ac269bc8fefa4920833334e199782",
           "py3"
         ]
       }

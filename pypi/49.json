@@ -18993,6 +18993,12 @@
         "dfaa13019305c61b9bf00335533418bdc25d5ea0c1556ce87cfcf2e93f6a93d2",
         "getlino-20.7.0.tar.gz"
       ]
+    },
+    "20.7.1": {
+      "sdist": [
+        "e2ba1f128e6526bc07208ed2b48b0ff6284bfbb6bf16c217f19bfd914751bd75",
+        "getlino-20.7.1.tar.gz"
+      ]
     }
   },
   "gilbert": {
@@ -28520,6 +28526,18 @@
         ]
       }
     },
+    "1.14.23.0": {
+      "sdist": [
+        "c0ffa2ce4b72426656eefe761012ae4756b29bab082559985a6e7fcba7f65f53",
+        "mypy-boto3-discovery-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_discovery-1.14.23.0-py3-none-any.whl": [
+          "122f5ff318eb81e72547101e1deefd0a98221bd126113be93f4f6e5b36bc6533",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "07ac8b14985f77b1b06d7cf63dc8c16255342f1a7590fb9dc2eb72b09d7b11cb",
@@ -30006,6 +30024,18 @@
         ]
       }
     },
+    "1.14.23.0": {
+      "sdist": [
+        "fb0884b117c33d06064a59f56c2bebe94f92e894240f986b200a5f16f70d9388",
+        "mypy-boto3-health-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_health-1.14.23.0-py3-none-any.whl": [
+          "071536ab5ad827f9e776a24bb316effe449c26c7fce2f272cf0238046149c553",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "95a1e5a78a9cb34ccbd310c9f514c33380c17c0e404ca96119eff86e9b541667",
@@ -31480,6 +31510,18 @@
       "wheels": {
         "mypy_boto3_lex_runtime-1.14.22.0-py3-none-any.whl": [
           "687cecc931d4a49b506d24edf3e42d810d4614d0d4a8478261253bade36fc916",
+          "py3"
+        ]
+      }
+    },
+    "1.14.23.0": {
+      "sdist": [
+        "75b2505811c87416ce18d4d898226393458986b5a1708945122d9462796b0bcd",
+        "mypy-boto3-lex-runtime-1.14.23.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lex_runtime-1.14.23.0-py3-none-any.whl": [
+          "b051d800b629eab18df34111d9cbe0fa80022049028d7c40b404fd55a4cf18b5",
           "py3"
         ]
       }
@@ -38376,18 +38418,6 @@
     }
   },
   "oso": {
-    "0.0.0": {
-      "sdist": [
-        "dc7ba615968272d10a785b32e72f13cd874bda1031566503c1ff1ff075effa09",
-        "oso-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "oso-0.0.0-py3-none-any.whl": [
-          "91c45ac6e23449cb7b96b065b2552ff5ad603b910ca986a4e189752084377493",
-          "py3"
-        ]
-      }
-    },
     "0.1.0": {
       "wheels": {
         "oso-0.1.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -38592,6 +38622,58 @@
         ],
         "oso-0.2.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
           "bb3a4042e5ce834ce3d3cd559a6e79cfca27224cc899699de0a316632f5e89cc",
+          "pp36"
+        ]
+      }
+    },
+    "0.2.2": {
+      "wheels": {
+        "oso-0.2.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4f82f3d38ddf857750905a025517afe777566e064602922de717236b813e16da",
+          "cp36"
+        ],
+        "oso-0.2.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3debcc3dc8d56f3a6d8af6282935cd24532d8783ecd6b2a7317b72509f53e0c7",
+          "cp36"
+        ],
+        "oso-0.2.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "6b15a5210df8ee35842d37b6b0ede4dfb47b5f3a9de9cbef1e38d7daec21950b",
+          "cp36"
+        ],
+        "oso-0.2.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "9be5c99440ab4b5a509a6e65d31732dd0a85801a296e857b932fcdf504cddadc",
+          "cp37"
+        ],
+        "oso-0.2.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b14fa1b6c97473b1cfcccea79c06779151fc54aa97bb6d2fda90307f728ea721",
+          "cp37"
+        ],
+        "oso-0.2.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "bb594a5b96ea075ed199f8d481b5538d53000e395e6466e2efbeb06682544091",
+          "cp37"
+        ],
+        "oso-0.2.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "b38d60940a488c2e6e2dcaf5fa2f44d8ff7af68801758774a123beb240b01901",
+          "cp38"
+        ],
+        "oso-0.2.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "01d4940af3526025e18170baf4a45a039a267fc08b1f1ebb97bf489b6530f80a",
+          "cp38"
+        ],
+        "oso-0.2.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "be71e61ea6765d6b2b6b2c5c8359ef66ac98684dd5cdef7d62075961e4244fb6",
+          "cp38"
+        ],
+        "oso-0.2.2-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "53a15d74e4766f40cecd4426fee72094fa6022a0ace46ac77db7101c37989fc5",
+          "pp36"
+        ],
+        "oso-0.2.2-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "8389fcaaf420ceff8c17fd3e555bfabf1faedb15a71555dbe8bef818167d0dc4",
+          "pp36"
+        ],
+        "oso-0.2.2-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "4dffa9bd6b60f47a25ae1f3eddffc020ca9349686d218a8f70438d953794fe70",
           "pp36"
         ]
       }
@@ -41209,6 +41291,18 @@
         "pinax_eventlog-3.0.1-py2.py3-none-any.whl": [
           "fb53012cc3a1409ea9cb91d6c41b23b4d106028de7dd3e37df4daeeea2ba51c8",
           "py2.py3"
+        ]
+      }
+    },
+    "4.0.1": {
+      "sdist": [
+        "4cdf8fcb6340b963774daddbdb2e6f69fe028511b121044fffddadf7fcebd7e5",
+        "pinax-eventlog-4.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pinax_eventlog-4.0.1-py3-none-any.whl": [
+          "64aa73f91680f67618a89280b93472d77eb431ba46601b2c57627c2b4a1f84b2",
+          "py3"
         ]
       }
     }
@@ -55988,6 +56082,18 @@
         ]
       }
     },
+    "0.13.5": {
+      "sdist": [
+        "27eb45ea740ea0d379b3adcd3ba53b538b5176d89daa3e8d96220f15630ae38a",
+        "starlette-0.13.5.tar.gz"
+      ],
+      "wheels": {
+        "starlette-0.13.5-py3-none-any.whl": [
+          "3bdc56c0ce4857038e51c263d63a50a33306cbc375ba62b7fd54a13a2987de1b",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "9ef0b80b4580d718baa9161a7a433120d7727175d5240f96daae76f4842b871b",
@@ -63508,6 +63614,18 @@
       "wheels": {
         "visual_kinematics-0.0.5-py3-none-any.whl": [
           "aaa38680c7f69ac2623cd8f8beaa2272a8f780b8914bda02b9768b9329151445",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "cb6b0869075c10d9c0b21f31e9f670ade0a5ed6eae57199bb89b4ee426ab4d7f",
+        "visual_kinematics-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "visual_kinematics-0.0.6-py3-none-any.whl": [
+          "039c97377821b847688cff2f5620dd3cc0fe1c5861c695865156c45537e4b7b7",
           "py3"
         ]
       }
