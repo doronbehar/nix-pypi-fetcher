@@ -8563,6 +8563,12 @@
         "b36e939fdda7921aeb351958240d3f62b6664002b18b8ad4febfae4ed46b4646",
         "cs.app.mailfiler-20191006.tar.gz"
       ]
+    },
+    "20200719": {
+      "sdist": [
+        "b1748e1f4c37cc76def864f9ffa0143697e0ffc9eba74df5b75a87705e30831a",
+        "cs.app.mailfiler-20200719.tar.gz"
+      ]
     }
   },
   "cs46-abundanceoftrees": {
@@ -11794,6 +11800,18 @@
       "sdist": [
         "c2e92fc3a9dd1fddd92cd69116bc6c1fbcc8088d9f71a3a21463bd8d0d7e6e24",
         "deepchem-2.4.0rc1.dev20200718032028.tar.gz"
+      ]
+    },
+    "2.4.0rc1.dev20200719004435": {
+      "sdist": [
+        "2b617213dd106cabe586b9cf3958d724d2668784daf905d44f6422579bfd67f7",
+        "deepchem-2.4.0rc1.dev20200719004435.tar.gz"
+      ]
+    },
+    "2.4.0rc1.dev20200719004625": {
+      "sdist": [
+        "75e542abd8422ea90f0b30929b9805b461a3a9f91c2ce71dc2338489e51544c2",
+        "deepchem-2.4.0rc1.dev20200719004625.tar.gz"
       ]
     }
   },
@@ -19066,6 +19084,12 @@
       "sdist": [
         "530173a5a2bdfe5399f2608b43c3c2297e9caa7fe4278cf4787743526f84125a",
         "execsql-1.75.0.tar.gz"
+      ]
+    },
+    "1.76.0": {
+      "sdist": [
+        "cff7d2b09c9d697967276cb9d55a204f00563af613e8f1a0ca0791259a4be8de",
+        "execsql-1.76.0.tar.gz"
       ]
     }
   },
@@ -35818,6 +35842,20 @@
       "wheels": {
         "mlogic-0.1-py3-none-any.whl": [
           "8aa923241815d6fee58468e75670a76d253b35ada57e8d3f9e4769b014e570de",
+          "py3"
+        ]
+      }
+    }
+  },
+  "mlproto": {
+    "0.1.0": {
+      "sdist": [
+        "c549608f37892a67cc5c103279d3ddde2cdd431a170778f6fd9e05e78bddafca",
+        "MLProto-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "MLProto-0.1.0-py3-none-any.whl": [
+          "e3784821ce3fd8bd7c6361fe1e401d586be18b818b12d090d4a31f74a8a0aa2a",
           "py3"
         ]
       }
@@ -75300,6 +75338,58 @@
         ]
       }
     },
+    "0.15.0.dev20200718144544": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "654f8dcf739b50325aa367e527b775933880578730a64df098294ce352b74e58",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "00a25368cb620a7bb5e8cd8a57a32bdc39024c9dbab762af5d0c8b2ccd01dd43",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp35-cp35m-win_amd64.whl": [
+          "78f6bcb148d0d2962f7d1fe865cce2900281fa20118787b995e27cff2de402e7",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "1f3f46d9b84b8cc117ade18d3f8550a89de36859e28476638a676b8820225fcc",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "897c228aecb5f9b88841d74c366e02d5580244dbe718b446362eb6138565dd83",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp36-cp36m-win_amd64.whl": [
+          "8ca5efb2aab5aafcd4891edcc15e6a7bd8d567ce2a2975075fa92396d8628604",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "8265d9cdadfc6175d0e59ee2669e64d709925d9f270199120051774830787ca2",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "5c8f72fc996597ab7755eb1df74e40d509531f3945674fac7f7ce070947f2d98",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp37-cp37m-win_amd64.whl": [
+          "df22c766dc2cc6e5f858c91f3cdc57e7d8c93046d06285898b82c3a36196ba2b",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "7214d578b4afe7ee6cfaa3b10d616a8f1eb00a33aec6f28398cb63614e7cd833",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp38-cp38-manylinux2010_x86_64.whl": [
+          "fa629ab4956a48a4403405f0b5950e2f75ba4df36391fbdb862e81d592554dd8",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200718144544-cp38-cp38-win_amd64.whl": [
+          "b4f01d22a55e1b1a4f09ad6b0720fab5046ccc99b6000cd4069a83a9841a62f8",
+          "cp38"
+        ]
+      }
+    },
     "0.3.0.dev20190208165145": {
       "wheels": {
         "tensorflow_io_nightly-0.3.0.dev20190208165145-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -83206,6 +83296,18 @@
       "wheels": {
         "tiatoolbox-0.2.2-py2.py3-none-any.whl": [
           "e4a12066a471e9a5c54a1f2d2825251875959c51b1150d13cd974f1dd00bb97b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "70627e4ec4df43803e780b2339d16b95c1f102167b27ab211afb8c2810071fa9",
+        "tiatoolbox-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "tiatoolbox-0.3.0-py2.py3-none-any.whl": [
+          "6f377aad2a05d345a0b1b4556ee0c161b60075b208d78def404ad3578db77ac2",
           "py2.py3"
         ]
       }
