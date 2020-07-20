@@ -3041,6 +3041,12 @@
         "98bcf92fdb721c6026ffa6dccd6de4bf5527dcb1a924ae996987eb0a099d3f51",
         "avionix-0.1.0.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "8de4b239de6bc27c660a5a77ab137e7f7145594706b97319623577772201dacf",
+        "avionix-0.2.0.tar.gz"
+      ]
     }
   },
   "aviso": {
@@ -9272,10 +9278,10 @@
     }
   },
   "compynieshouse": {
-    "0.0.3": {
+    "0.0.4": {
       "sdist": [
-        "79c1f840f22bed892c43bd398ec47d18aeb95070472a1b02207411a8e32c3c26",
-        "compynieshouse-0.0.3.tar.gz"
+        "8d8863b001ffdabf4458f622d14805b9cc1d2605258cfa779cdbb3577fdc5646",
+        "compynieshouse-0.0.4.tar.gz"
       ]
     }
   },
@@ -11704,6 +11710,18 @@
       "wheels": {
         "dcicutils-0.33.2.1b0-py3-none-any.whl": [
           "bbc60e6e83610b24a3023e28a901b4c13f459c72559f2ae4265175773b51abd9",
+          "py3"
+        ]
+      }
+    },
+    "0.33.2.1b1": {
+      "sdist": [
+        "15d2d7a4cb855f5de2d7fa999a12d88c85b8eadddb06a787ba8608ffe2aa3ff3",
+        "dcicutils-0.33.2.1b1.tar.gz"
+      ],
+      "wheels": {
+        "dcicutils-0.33.2.1b1-py3-none-any.whl": [
+          "f133a351880944199c380a484c0aa811c6e0a22472ce6d76c9c71192fa10e346",
           "py3"
         ]
       }
@@ -18710,110 +18728,6 @@
       "sdist": [
         "8389c5ef8ab72bc0e68ca14230637ae03b58ef381fac88f93510d6b62841b405",
         "Flask-TemplateSupport-1.0.2.tar.gz"
-      ]
-    }
-  },
-  "flask-testing": {
-    "0.1": {
-      "sdist": [
-        "a367beee9f4eca41423dd60c558d9a2a523852eafba97a8b0ec397fea2d5aac5",
-        "Flask-Testing-0.1.tar.gz"
-      ]
-    },
-    "0.2": {
-      "sdist": [
-        "8c330d953ef167a763002a036a7fe3ea80869703424eb77d64c044e9d895a34f",
-        "Flask-Testing-0.2.tar.gz"
-      ]
-    },
-    "0.2.1": {
-      "sdist": [
-        "6acc898b0f7cb8509d30f443a0db40cdb99ae9cfe8333e074e32425929da49ff",
-        "Flask-Testing-0.2.1.tar.gz"
-      ]
-    },
-    "0.2.2": {
-      "sdist": [
-        "f76d25075e18c8b255d8c4b61a43be6fe9968a097f611a9d1b6c63544d0a0e3d",
-        "Flask-Testing-0.2.2.tar.gz"
-      ]
-    },
-    "0.2.3": {
-      "sdist": [
-        "5143761259bd26445dd80373c63142afd1a291edd710528efd24f5172800ba3b",
-        "Flask-Testing-0.2.3.tar.gz"
-      ]
-    },
-    "0.2.4": {
-      "sdist": [
-        "df4b3c02adc318f1ca2310e6a2e67dc970fc1791d06db2314309217f92b6534a",
-        "Flask-Testing-0.2.4.tar.gz"
-      ]
-    },
-    "0.3": {
-      "sdist": [
-        "bb617ac3b58a7eaf3df25688375932f9749ba87d63d5e76f5368e76d237028b5",
-        "Flask-Testing-0.3.tar.gz"
-      ]
-    },
-    "0.4": {
-      "sdist": [
-        "6c0f8910be5b28caafbefd95c4a9c30cb9609d1bd502ac41364363b9a041e60f",
-        "Flask-Testing-0.4.tar.gz"
-      ]
-    },
-    "0.4.1": {
-      "sdist": [
-        "d8c4d97d79de517a5d6e348bcc6aaccc45832827afa25ca15cdf8a5a16e543a2",
-        "Flask-Testing-0.4.1.tar.gz"
-      ]
-    },
-    "0.4.2": {
-      "sdist": [
-        "921c7c653e0d511ed87fbf70d984e27afea8dfa7e10b358689863d7a63e05321",
-        "Flask-Testing-0.4.2.tar.gz"
-      ]
-    },
-    "0.5.0": {
-      "sdist": [
-        "f7182d91da3f3b33010725da6d2f4eae03a484b133c8a3d4ea6776fe0a3a9327",
-        "Flask-Testing-0.5.0.tar.gz"
-      ]
-    },
-    "0.6.0": {
-      "sdist": [
-        "5548b5e441fe1ec941fa955171f9f2061782071a5d62b6af7926e0a590fa5c09",
-        "Flask-Testing-0.6.0.tar.gz"
-      ]
-    },
-    "0.6.1": {
-      "sdist": [
-        "abf539332c013aee5301cbb720d2c6a78bb69fe9bcf854697b6f62f1e7f175b2",
-        "Flask-Testing-0.6.1.tar.gz"
-      ]
-    },
-    "0.6.2": {
-      "sdist": [
-        "f25effd266fce9b16482f4ce3423d5a7d25534aab77bc83caace5d9637bf0df0",
-        "Flask-Testing-0.6.2.tar.gz"
-      ]
-    },
-    "0.7.0": {
-      "sdist": [
-        "89e0c50d454a5d8c29b9e1db4551d29916ee64616c14c67d27ecc4c4bfcd550d",
-        "Flask-Testing-0.7.0.tar.gz"
-      ]
-    },
-    "0.7.1": {
-      "sdist": [
-        "dc076623d7d850653a018cb64f500948334c8aeb6b10a5a842bf1bcfb98122bc",
-        "Flask-Testing-0.7.1.tar.gz"
-      ]
-    },
-    "0.8.0": {
-      "sdist": [
-        "d849bf53eb1ceb09dff6611888588cb60f20238058fb1ebcd917d69febc373e6",
-        "Flask-Testing-0.8.0.tar.gz"
       ]
     }
   },
