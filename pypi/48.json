@@ -27103,6 +27103,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "3f21fb3ff09a048eeb53780f0ff40f17e23894c3ba3742b970769d62f3cccb9b",
+        "mbed-build-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mbed_build-1.2.1-py3-none-any.whl": [
+          "16cdb6b7ebc9f9a44df48af3b76e51a963f197a6cf2ea95ed9ff560efd5f3dd1",
+          "py3"
+        ]
+      }
     }
   },
   "mc-sim-fin": {
@@ -33866,6 +33878,22 @@
       "wheels": {
         "odoo12_addon_helpdesk_mgmt-12.0.1.17.0.99.dev3-py3-none-any.whl": [
           "6475f1179d66511b51e75b4c54504b4123bd1f3c20b07f489d7876350086290d",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.18.0": {
+      "wheels": {
+        "odoo12_addon_helpdesk_mgmt-12.0.1.18.0-py3-none-any.whl": [
+          "fc330b3b0bf1053871ad15827eb693964c20221451c0147a284692a5df38a6d0",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.18.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_helpdesk_mgmt-12.0.1.18.0.99.dev1-py3-none-any.whl": [
+          "5e415ca42728aea2cc820af7df14fea84433f4d146e379f78ab9f6936b9fb6e4",
           "py3"
         ]
       }
@@ -41385,6 +41413,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.9": {
+      "wheels": {
+        "pyspace_toolkit-1.0.9-py3-none-any.whl": [
+          "e32ed10784e35d0977e0172d5133b8fd08dab0e370111c96966beeb5c2476a58",
+          "py3"
+        ]
+      }
     }
   },
   "pyspecs": {
@@ -46046,6 +46082,66 @@
         ],
         "QuantLib-1.18.1-cp38-cp38-win_amd64.whl": [
           "7f6c4a5b043a56aa46b130070d7a7f8af163661f51c6398a51a2d7ffd32c0603",
+          "cp38"
+        ]
+      }
+    },
+    "1.19": {
+      "wheels": {
+        "QuantLib-1.19-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "fa8ee1ba0ccb03ad0f9323fdf0630d57fadafe0bf7d534d04885dc26cf3b5408",
+          "cp27"
+        ],
+        "QuantLib-1.19-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "8fbd14b61b7733b72b4e9e3180bda6578edbc83b0c4939dac5a11d4761c5024e",
+          "cp27"
+        ],
+        "QuantLib-1.19-cp36-cp36m-macosx_10_9_intel.whl": [
+          "75da18f5485a75ccd603c73e73e56ce68584060bafec5a89fbfe2477dc514ad5",
+          "cp36"
+        ],
+        "QuantLib-1.19-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0284bdbf2aeae166a728815ba91eb8f77211b9ac67359c16de28a4d6b39ce05d",
+          "cp36"
+        ],
+        "QuantLib-1.19-cp36-cp36m-win32.whl": [
+          "92962c6f1370f15b213a04bcb94c5247c9e38f7d6b50d699bdee43e2aaef2a9b",
+          "cp36"
+        ],
+        "QuantLib-1.19-cp36-cp36m-win_amd64.whl": [
+          "ae8f647485039eabde6cd1de84e608185aad0c82d46ebe76ff4e5e4955d31828",
+          "cp36"
+        ],
+        "QuantLib-1.19-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "825f56516e6541f4bf1186c1ce705a72e442026bed5e52b2b7bf6a3999900dad",
+          "cp37"
+        ],
+        "QuantLib-1.19-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4b9b94d20a92a695cd3364ef65887861eedeef3e0ac7aeafe0abe5d70ea620de",
+          "cp37"
+        ],
+        "QuantLib-1.19-cp37-cp37m-win32.whl": [
+          "ba878218e7edff42a0357724d9d44a5853314728aff30fab8cef85dae57ac8f7",
+          "cp37"
+        ],
+        "QuantLib-1.19-cp37-cp37m-win_amd64.whl": [
+          "b9be5b963fc7d295351ea80f8e4bd9941f52d7b9b6894e85da2e40f29c99a1fc",
+          "cp37"
+        ],
+        "QuantLib-1.19-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "206d1e7ce88b6d853e68f7bacc1ed25ddd597eb2b612cfad412686ab69231d25",
+          "cp38"
+        ],
+        "QuantLib-1.19-cp38-cp38-manylinux1_x86_64.whl": [
+          "39c58dbc9ecfa0dee1f52dbd6bd53c66d463d393681899ad7bdc7c67b013f7b5",
+          "cp38"
+        ],
+        "QuantLib-1.19-cp38-cp38-win32.whl": [
+          "b4c4c1060dae3c051fb6a631a77e6c4df3bd0d2dd679a3a0b1ab629275f5f2ec",
+          "cp38"
+        ],
+        "QuantLib-1.19-cp38-cp38-win_amd64.whl": [
+          "d11bad62eaf0ee917ee0e12fcb9cbad96844477d8b2187f65f7f9edcef586c5f",
           "cp38"
         ]
       }

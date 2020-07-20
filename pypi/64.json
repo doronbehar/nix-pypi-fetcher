@@ -2286,6 +2286,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "1605df179abbd7493a0e70485bd46ab0154eb735ba950334729b94199b449832",
+        "aws-cdk.aws-securityhub-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_securityhub-1.53.0-py3-none-any.whl": [
+          "39bbd7ad0f31e63ed3d4baaa014032e11ac19556877e323eab8cd4e41bc83eaf",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "31e89396b150361eddd2be463a797d9f669fe500d8ea544ad43de952849b3556",
@@ -8546,6 +8558,12 @@
       "sdist": [
         "c5d5104dbd831f3f658480361ee87ff4c3a66708cb20f78777038370776e5062",
         "cometspy-0.3.5.tar.gz"
+      ]
+    },
+    "0.3.6": {
+      "sdist": [
+        "fc9577808e5fd2fe4364357b2c41b3df538180cf8270b00afbde3ff4e895c96b",
+        "cometspy-0.3.6.tar.gz"
       ]
     }
   },
@@ -32698,6 +32716,18 @@
         ]
       }
     },
+    "0.1.17": {
+      "sdist": [
+        "4b5d88a36f0dc817d5423cf37365aa7472571e22c9c0e9b38e6664a1bbde17c9",
+        "horusdemodlib-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "horusdemodlib-0.1.17-py3-none-any.whl": [
+          "7b0345f6848018d345c2e186047333edc980934f9b012de1f3b74bdbcc616155",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "676fa1d2730f88035bb4e64192011cce465837a7fbd998957b56bfb0c423cff0",
@@ -35170,6 +35200,42 @@
       "wheels": {
         "iog_randomizer-3.3.6-py3-none-any.whl": [
           "5643b09e984d09cd9e4e76385037203edbb2516140a1c20aaab51d31091edcba",
+          "py3"
+        ]
+      }
+    },
+    "3.4.0": {
+      "sdist": [
+        "cce00c93100013e79495619906eed6854f4c8b7b42ba1c93590109a799d94d0f",
+        "iog-randomizer-3.4.0.tar.gz"
+      ],
+      "wheels": {
+        "iog_randomizer-3.4.0-py3-none-any.whl": [
+          "9418b59b544f8d4801f6624346a98cd26f9d3e21e63fc3de17962c97eb687e93",
+          "py3"
+        ]
+      }
+    },
+    "3.4.1": {
+      "sdist": [
+        "a231ebc6b61a1a3585b004f60b2fa1f29d455707ac52bc421db7528d7b5915bc",
+        "iog-randomizer-3.4.1.tar.gz"
+      ],
+      "wheels": {
+        "iog_randomizer-3.4.1-py3-none-any.whl": [
+          "40af9f65ab09326ff8fac81ce6c2fe21531e9f9e77550c26099dadc55860c4bc",
+          "py3"
+        ]
+      }
+    },
+    "3.4.2": {
+      "sdist": [
+        "2a8cbaf6fe5ddbf32bb962f4d13cc745a9f589ac361d6086a87643cc41db8c0f",
+        "iog-randomizer-3.4.2.tar.gz"
+      ],
+      "wheels": {
+        "iog_randomizer-3.4.2-py3-none-any.whl": [
+          "5a867d1e00750115ea3cae17db3a77ccd073e5848a09dcea8a6fabdf920a9a36",
           "py3"
         ]
       }
@@ -43840,14 +43906,62 @@
     }
   },
   "newseyevent": {
-    "0.1.0": {
+    "0.1.0.dev202007200958": {
       "sdist": [
-        "ffe3d20035fb474a57a28ab84ef35a8ab6a545477e805388190aba016d7adf59",
-        "newseyevent-0.1.0.linux-x86_64.tar.gz"
+        "b734c990abd38f6268c82e301f5cefcb1202cfd5c48e0e1d4ef10d7c49cc9df3",
+        "newseyevent-0.1.0.dev202007200958.tar.gz"
       ],
       "wheels": {
-        "newseyevent-0.1.0-py3-none-any.whl": [
-          "12473b2da3fe120fa3b308c541e6b499f73df36fb0bccccea5dc2a0a0a500218",
+        "newseyevent-0.1.0.dev202007200958-py3-none-any.whl": [
+          "988e0e60a7293cb3aaaf7ea12a52cc94ef6ad4d74101fefcdb29d0cc371a0df7",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev202007201006": {
+      "sdist": [
+        "db203772a042b1a3351345ace7cfe4de85f06d23f6bd63fb9cff3849d68908c5",
+        "newseyevent-0.1.0.dev202007201006.tar.gz"
+      ],
+      "wheels": {
+        "newseyevent-0.1.0.dev202007201006-py3-none-any.whl": [
+          "d593b73ce31fb75cb6dcaab8700dc7e214741ea72b63732c03a24107f9995a77",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev202007201131": {
+      "sdist": [
+        "6c62583794ba58fbfa80400246de3b0379c29f08cecb6093b15405194820d651",
+        "newseyevent-0.1.0.dev202007201131.tar.gz"
+      ],
+      "wheels": {
+        "newseyevent-0.1.0.dev202007201131-py3-none-any.whl": [
+          "b591fdce16c3137d91ecbf9b333ce31eafe842985e076fde6dcabbb43b58757f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev202007201209": {
+      "sdist": [
+        "d90e92cbf32ca09eac86f3a58c411b06eaaa3f0f9bb940c1650218c8e135b746",
+        "newseyevent-0.1.0.dev202007201209.tar.gz"
+      ],
+      "wheels": {
+        "newseyevent-0.1.0.dev202007201209-py3-none-any.whl": [
+          "cf2e5b679a2866d92e68306c6aec88f3402b083a134bf2dd5683a2ac83d213af",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev202007201222": {
+      "sdist": [
+        "a655fde3fd0aee3ed55e092f179e564f7af7f7d166ad85f3d7bd0c27d5a396ea",
+        "newseyevent-0.1.0.dev202007201222.tar.gz"
+      ],
+      "wheels": {
+        "newseyevent-0.1.0.dev202007201222-py3-none-any.whl": [
+          "4d4315cc2f406c59396647b7201bf3284356c59b23fac701e229a1758764728d",
           "py3"
         ]
       }
@@ -47497,6 +47611,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "omfit-gapy": {
+    "0.0.0.0.0.0.0": {
+      "sdist": [
+        "6047b6a5d399c5f3cbef58e6d99193bb5451ddd32135967dc630299548a1283b",
+        "omfit_gapy-0.0.0.0.0.0.0.tar.gz"
+      ]
     }
   },
   "oneconsole": {

@@ -3712,6 +3712,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "fed99c76bb30e2d36b26ac0139c9b3c0a53739716fc79142e86a1510f5efaa56",
+        "aws-cdk.aws-iotthingsgraph-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iotthingsgraph-1.53.0-py3-none-any.whl": [
+          "cccd50160979a840cae10f9b4301a4bbbc8c45a5a34c8fe1bfd701ef6eb62c02",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "08f36eb290d330041020562e5b5aa72702d0b742ae3894fe0301a035ca94ed67",
@@ -4301,6 +4313,18 @@
           "py3"
         ]
       }
+    },
+    "1.53.0": {
+      "sdist": [
+        "05f21be39aa144ec29f45c2ec83fcb8e0945e1e4751f881de2c4d4814c60608f",
+        "aws-cdk.aws-wafv2-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_wafv2-1.53.0-py3-none-any.whl": [
+          "d3a67342379417dfd4bcbbd5aa6779fbc57cfd7d3167e9ebcf0f17315b912a42",
+          "py3"
+        ]
+      }
     }
   },
   "aws-hostname": {
@@ -4367,6 +4391,14 @@
           "py2"
         ]
       }
+    }
+  },
+  "ayb-api-py": {
+    "1.0.0": {
+      "sdist": [
+        "6476a0ccd3faee54fc6b624af3364f89aa09a9cddf587c9608d8efa8f63d529e",
+        "ayb-api-py-1.0.0.tar.gz"
+      ]
     }
   },
   "azure-cognitiveservices-nspkg": {
@@ -21599,6 +21631,12 @@
         "7dedd41de63988c900c7b9cad5bf8028c55365499b43deb98ccccbe1b7fedcad",
         "finitelycomputable-helloworld-falcon-20.4.tar.gz"
       ]
+    },
+    "20.7": {
+      "sdist": [
+        "ec4d3d9c0b69875e00aa46db469d44e27534f7b1e70eb8a2204fb7ca16246714",
+        "finitelycomputable-helloworld-falcon-20.7.tar.gz"
+      ]
     }
   },
   "fiximports": {
@@ -38273,6 +38311,12 @@
         "bc4a69c7a150175c68b573f2962bd5b13df0bcc8f61a8e1e4d0b98e88dd6533f",
         "nomad-lab-0.8.1.tar.gz"
       ]
+    },
+    "0.8.3": {
+      "sdist": [
+        "943fcbdafb9f542e094b22274d007b055a8664e499e8724303b02f16aae0d6f4",
+        "nomad-lab-0.8.3.tar.gz"
+      ]
     }
   },
   "nomad-script": {
@@ -48480,6 +48524,18 @@
       "wheels": {
         "pulp_file_client-1.2.0.dev1595158402-py3-none-any.whl": [
           "b6da200d7caf79f1cccda77192259452c9a59e14a5020a21d4f85dce5cbf75e1",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0.dev1595244688": {
+      "sdist": [
+        "50625c4f86decfb8004ecfe31aa13db2d1cf5b7d220b8b1114a56ced51bad881",
+        "pulp_file-client-1.2.0.dev1595244688.tar.gz"
+      ],
+      "wheels": {
+        "pulp_file_client-1.2.0.dev1595244688-py3-none-any.whl": [
+          "973eadd68c5d3b2e7f3bc591f914ec3c0ab430992a42ffef615bb48b176f01d8",
           "py3"
         ]
       }
@@ -63005,6 +63061,42 @@
         "21e0236b897ed5ea6c2560f920df621d1703f4a0de89efa057d7cabe500f5cba",
         "srl_transformers-0.9.tar.gz"
       ]
+    },
+    "0.9.1": {
+      "sdist": [
+        "4db57d00c78ca2639dea5517433bd8d77c6b0d1a2a72377abe511a046e8f8911",
+        "srl_transformers-0.9.1.tar.gz"
+      ]
+    },
+    "1.0": {
+      "sdist": [
+        "c5aa36ad12c1b40ebe68b5a8344528d853a97546fd35b69787491776d9734945",
+        "srl_transformers-1.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "c7f221b267ab3ad626622fb8efb2ea730bd05d04ebe5871cd862571cb4e56561",
+        "srl_transformers-1.0.1.tar.gz"
+      ]
+    },
+    "1.1": {
+      "sdist": [
+        "11a443d0f14c66147eaefd1c0975c5892d325b206b0af468dd83754d75f23120",
+        "srl_transformers-1.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "2eae509c5d0d27f900fb9d6eecc00bd17f0f875d378c79c21f9abc1129b73791",
+        "srl_transformers-1.2.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "ef3c338aecdc14ffd08c0d3244f03519fe8ed9e4fcf9f6f89977d40da5d90975",
+        "srl_transformers-1.2.1.tar.gz"
+      ]
     }
   },
   "st-optics": {
@@ -69861,6 +69953,16 @@
         "yafa_grpc-0.1.0a0-py2.py3-none-any.whl": [
           "81c059b8e841e1684c9583437aa693a6a97573f56c4a7b430e7378e8d40ac615",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "yahist": {
+    "1.0.0": {
+      "wheels": {
+        "yahist-1.0.0-py2-none-any.whl": [
+          "d3da747195a84b853e483916a4a5deffc79b564dc07bb18b12d0a08a1c28bf1c",
+          "py2"
         ]
       }
     }

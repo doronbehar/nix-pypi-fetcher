@@ -4796,6 +4796,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "872211441c2c6fd3b356b3ea06e10a1fdf2d9b85c84051cbeea31bc6414a4846",
+        "aws-cdk.aws-guardduty-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_guardduty-1.53.0-py3-none-any.whl": [
+          "b857f7b6cd8a910c958be402d4993206446b4ec5baace5a3e3678fcd62a149e4",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "caf3ce59527d3ccee090742c069d2e3b57c2db50f39270aa4842d155ebbf1711",
@@ -14987,6 +14999,18 @@
           "py2"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "8fd8768b9e9e3142614a0f796494fd85ebd2dc71cdb9fefc19a14757f8415c2c",
+        "dynamix-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamix-0.1.0-py3-none-any.whl": [
+          "471a542011fb32108c5a4fb285c81434b5343df471943208947b34eadf8a9fa1",
+          "py3"
+        ]
+      }
     }
   },
   "dynamodb-stream-parser": {
@@ -19566,6 +19590,18 @@
       "wheels": {
         "gerapy_pyppeteer-0.0.4-py2.py3-none-any.whl": [
           "d49797e15bd3c59030a8ddcd3e44e4d0ca870bb3f6bf60d2fcfb9e371a65370d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "453ed60a72f26450937304969ca850b3be7245260dcbd9b8f71b5029af74b1a0",
+        "gerapy-pyppeteer-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "gerapy_pyppeteer-0.0.5-py2.py3-none-any.whl": [
+          "9da0975a11df512146118b78a973ba179646b044134e728b04e3c5d208f1f432",
           "py2.py3"
         ]
       }
@@ -44080,50 +44116,14 @@
     }
   },
   "open-speech": {
-    "1.1": {
+    "4.2": {
       "sdist": [
-        "6fe06ccc2bcdf8c1b796e5c9c664a1748632089282e1b6b4d777111ba031efe7",
-        "open_speech-1.1.tar.gz"
+        "08c4431b2fe218558f48d84751f321937d57a17224f81117269672b84ee94350",
+        "open_speech-4.2.tar.gz"
       ],
       "wheels": {
-        "open_speech-1.1-py3-none-any.whl": [
-          "79e5c98433d3011f951fec40ad7d420d1cf55af6cf250dd1b7d82ddba490e408",
-          "py3"
-        ]
-      }
-    },
-    "2.0": {
-      "sdist": [
-        "c77b7567bdccd00d68fbcf038103f546fa912aee47df4d1efa698be3bfa07c22",
-        "open_speech-2.0.tar.gz"
-      ],
-      "wheels": {
-        "open_speech-2.0-py3-none-any.whl": [
-          "e2948a0641a1722b46054fe65a1b432cacb5a93b97a66811844172f2bc66d7eb",
-          "py3"
-        ]
-      }
-    },
-    "4.0": {
-      "sdist": [
-        "d471445d9aca62e7dfa03da0068e3b56aa0d7b4a321b99a646429124aa229bea",
-        "open_speech-4.0.tar.gz"
-      ],
-      "wheels": {
-        "open_speech-4.0-py3-none-any.whl": [
-          "80178441088a4429ac291975eca92b07887e3eb088fafe11c068888b93590bfd",
-          "py3"
-        ]
-      }
-    },
-    "4.1": {
-      "sdist": [
-        "2226c6d878f6923aa1e69b502863736cefd71c3bf145ffd77c569056f821ba4a",
-        "open_speech-4.1.tar.gz"
-      ],
-      "wheels": {
-        "open_speech-4.1-py3-none-any.whl": [
-          "d0cf4a7cad7232d2b82e2f95dce9d24c0cacba8aa8a34faecd0d8b01ac00f4a2",
+        "open_speech-4.2-py3-none-any.whl": [
+          "0b39aac7e19fff2403b1b870abf0777f164dacf02e1433f15590c5138b01ad28",
           "py3"
         ]
       }
@@ -70431,6 +70431,32 @@
         "torchlambda-1595128522-py3-none-any.whl": [
           "a27fa994c443c2e4d4ca48a0ba2dd41c65773ebb577414652ed1b32b226d6e5f",
           "py3"
+        ]
+      }
+    },
+    "1595214841": {
+      "sdist": [
+        "241b4cd00b2bc6b4091a9f499bc6d474a6df1f788f5e8918f2fa88c1f86a9dd3",
+        "torchlambda-1595214841.tar.gz"
+      ],
+      "wheels": {
+        "torchlambda-1595214841-py3-none-any.whl": [
+          "9a908a6d758144454e08a9e963924ab8ef12e316403d71b65d89eb84a669a538",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tormentor": {
+    "0.1.0": {
+      "sdist": [
+        "abce6ef0ef4d526c9ff83294d0add038f4a9d8f0c7c328eee7dd4dae896fd6cc",
+        "tormentor-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tormentor-0.1.0-py2.py3-none-any.whl": [
+          "098074631737c7667277c1adcc4fa29cde7e1f308d1624b61f5b28def7524b0a",
+          "py2.py3"
         ]
       }
     }

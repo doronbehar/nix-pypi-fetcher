@@ -3484,6 +3484,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "dfd26cd5349c60d81c7b7c512a13eb0e0d5c5a994fa58167236d2b6d10da11e0",
+        "aws-cdk.aws-lambda-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda-1.53.0-py3-none-any.whl": [
+          "a9c5465400ad3e5415015f3e2c70b44ab4ee086a891aaad583473106b5a5c836",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "694b174d85d0181dbd05292be0bb068b007c125fe8246fb15481512f62102597",
@@ -4506,6 +4518,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "c03a29bc5199308f616d6ecc33e1b89278bc34065df3fd2648743eac02286c26",
+        "aws-cdk.aws-s3-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3-1.53.0-py3-none-any.whl": [
+          "d2ae834201bcda31c2fde2673d5441361fda3800593458fa62b314fe86bcbee2",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "4d0ef5c055fdbd0c9f90bf4a81ca8b4179041be8749627130bf01401a61047d3",
@@ -5524,6 +5548,18 @@
       "wheels": {
         "aws_cdk.aws_ses-1.52.0-py3-none-any.whl": [
           "15aee4426f8f5f39f73a69a2d83631d2b58ffaeab476f26e08b3c73aacd2e67a",
+          "py3"
+        ]
+      }
+    },
+    "1.53.0": {
+      "sdist": [
+        "e0c87129c686b97895be1bf31bdcf8243b01cd27f8fe0bbe6a28a29a5ef397d3",
+        "aws-cdk.aws-ses-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ses-1.53.0-py3-none-any.whl": [
+          "0000ce0b837c7e7fefa90fdca0c8dd0cac48739770f0b844731488f8c2920fb7",
           "py3"
         ]
       }
@@ -22221,6 +22257,16 @@
       }
     }
   },
+  "genvalidation": {
+    "1.0": {
+      "wheels": {
+        "genvalidation-1.0-py3-none-any.whl": [
+          "336998482c8edfa84789546f0405d5916453c09de56bf754cb781a4939b9e7bf",
+          "py3"
+        ]
+      }
+    }
+  },
   "getdents": {
     "0.1": {
       "sdist": [
@@ -29894,6 +29940,54 @@
         ],
         "lukeparser-0.3.13-cp38-cp38-win_amd64.whl": [
           "088efc07ca8ffe433b6208c74bb473cd6cf531004f3ce6191f761900ee74a7d6",
+          "cp38"
+        ]
+      }
+    },
+    "0.3.14": {
+      "sdist": [
+        "eeb1aa3b6c5024fd6455a9bec69fc3209db494dcc7382f7dbb5e7776170f309b",
+        "lukeparser-0.3.14.tar.gz"
+      ],
+      "wheels": {
+        "lukeparser-0.3.14-cp35-cp35m-manylinux1_x86_64.whl": [
+          "4643a7383c4b4581ec2e3e88fe45287f18b591593895995e549d12ff9ec610bf",
+          "cp35"
+        ],
+        "lukeparser-0.3.14-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b5454c204424cd8aba50c48933d7f8298fe4f7f1379dce71437757b245fd63a2",
+          "cp35"
+        ],
+        "lukeparser-0.3.14-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3a5413c17d7f0db3a09cb741b0ad85b893a1bc42a5eb8a1aea607077d2c6783c",
+          "cp36"
+        ],
+        "lukeparser-0.3.14-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "2aaec210d23eb7d35adc33433f697d668f5435ee986711ce6be965d16137ac26",
+          "cp36"
+        ],
+        "lukeparser-0.3.14-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7ed2673a4ca8717e4c0fffdc5dee1162eda53049f8018dcf90b5d9e5d0d911e0",
+          "cp37"
+        ],
+        "lukeparser-0.3.14-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "447f5ec6c03749f287014ee311b71bfa11644e6b0001ac33133ead0d2e841991",
+          "cp37"
+        ],
+        "lukeparser-0.3.14-cp37-cp37m-win_amd64.whl": [
+          "4d5049b5222bbb87782af768449985712b2269a5ac81b1a7d4d45b3f2e8561ff",
+          "cp37"
+        ],
+        "lukeparser-0.3.14-cp38-cp38-manylinux1_x86_64.whl": [
+          "4b1ac32f8b9fe95313bf29c07413a177a2525a7b724ba465698dbabff4b042ce",
+          "cp38"
+        ],
+        "lukeparser-0.3.14-cp38-cp38-manylinux2010_x86_64.whl": [
+          "aefc3965aa44bffb05f51c959587c4e77237007ee2fa3c3689a14851b4fd351e",
+          "cp38"
+        ],
+        "lukeparser-0.3.14-cp38-cp38-win_amd64.whl": [
+          "8eb261e928ad22b53c1a0ef1a927e95acaf554de6fc6829feb353dbe44146045",
           "cp38"
         ]
       }
@@ -54988,6 +55082,30 @@
         ]
       }
     },
+    "1.4.15": {
+      "sdist": [
+        "0f3dd1a6e3de4c6bd116795350e1d157d5c72d239968fef46641634ca751eda3",
+        "seaoligo-common-1.4.15.tar.gz"
+      ],
+      "wheels": {
+        "seaoligo_common-1.4.15-py3-none-any.whl": [
+          "cd914074f837ff2d340fbbaaa93c7e9fd949f7bb8d480a074ab6ec31b8c1265c",
+          "py3"
+        ]
+      }
+    },
+    "1.4.16": {
+      "sdist": [
+        "e7a7592cc61df399a03fcc107696081536904ff8693dd2a795d43204a68203b2",
+        "seaoligo-common-1.4.16.tar.gz"
+      ],
+      "wheels": {
+        "seaoligo_common-1.4.16-py3-none-any.whl": [
+          "192eb362ca56b75663feef3a38d95a3a1274fe4e5cd8af1299ae25a67f1a6b11",
+          "py3"
+        ]
+      }
+    },
     "1.4.2": {
       "sdist": [
         "6657031cffba5b20585df9dc52ba95d4e31181b7318a3a2815dab5712a26ed02",
@@ -60418,6 +60536,18 @@
       "wheels": {
         "texteditor-1.2-py3-none-any.whl": [
           "1f46618e421fc54f2b7d8d522213c5811e53e06cae85083d69ea55c3014fb00e",
+          "py3"
+        ]
+      }
+    },
+    "1.3": {
+      "sdist": [
+        "abb3149a96f25aadb876420737a7a178179e980a8becefa44ac4e5f52090e155",
+        "texteditor-1.3.tar.gz"
+      ],
+      "wheels": {
+        "texteditor-1.3-py3-none-any.whl": [
+          "359a3239714bf8bbe7dab10d707ca379d88236e6daaaf8359869d43f9fefcb77",
           "py3"
         ]
       }
