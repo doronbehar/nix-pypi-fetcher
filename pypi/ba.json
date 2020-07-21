@@ -9009,6 +9009,22 @@
           "py3"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "a1f9725b8432aa486a625a3e419af659df9ef78f558a92378a9048ff09e1a2bf",
+        "cmasher-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "cmasher-1.4.1-py2-none-any.whl": [
+          "3e3a55f4f6d9d3362ea6810180f6c02fc01e27f11641507c0f9741ab1faef75c",
+          "py2"
+        ],
+        "cmasher-1.4.1-py3-none-any.whl": [
+          "3cd9d407a0148021217cdf25f96aa3959e38b6a4fd878d16ff6343f95f002ad4",
+          "py3"
+        ]
+      }
     }
   },
   "cmdcache": {
@@ -28577,6 +28593,12 @@
         "328a07437514ded3dd03b476123851dbb74e685208684d287ccff55061254832",
         "large-image-tasks-1.1.1.dev8.tar.gz"
       ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "b353b5105304e6ad4331b4631bca0a5c63de6bdd45b33f5efab47c9b55a5a18c",
+        "large-image-tasks-1.2.0.tar.gz"
+      ]
     }
   },
   "launchbox": {
@@ -43766,6 +43788,14 @@
         ]
       }
     },
+    "12.0.1.0.0.99.dev19": {
+      "wheels": {
+        "odoo12_addon_fieldservice_delivery-12.0.1.0.0.99.dev19-py3-none-any.whl": [
+          "733de71aba212a96cbec3e558d543bb6e830b74502bdf4c33150c451684b83a1",
+          "py3"
+        ]
+      }
+    },
     "12.0.1.0.0.99.dev3": {
       "wheels": {
         "odoo12_addon_fieldservice_delivery-12.0.1.0.0.99.dev3-py3-none-any.whl": [
@@ -44100,6 +44130,14 @@
       "wheels": {
         "odoo12_addon_product_profile-12.0.2.0.0-py3-none-any.whl": [
           "03c29cb541cb02dab5e9c0bc6c48cf3702a7c3f801dce714bcbc26c8931099af",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.0.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_product_profile-12.0.2.0.0.99.dev1-py3-none-any.whl": [
+          "77c12bbfde194de9cbcf0429b869d9df006f9fb3a9368eea39a6a8cac5e614d8",
           "py3"
         ]
       }
@@ -64663,6 +64701,14 @@
       ]
     }
   },
+  "rtml-distributions": {
+    "1.0": {
+      "sdist": [
+        "4c4ac47a7154ee975c608ab86b264428b11cc107ee652cd5023506380c2462f9",
+        "rtml_distributions-1.0.tar.gz"
+      ]
+    }
+  },
   "rubiq": {
     "0.1": {
       "sdist": [
@@ -73795,6 +73841,42 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20200721": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200721-cp35-cp35m-macosx_10_6_intel.whl": [
+          "f7757ed9c9476e381177adc68ddf9338f9965363a3f088d12e015739caafc263",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "89acf7f5e78c54e143b4fa850f820b6f3bfdfd146feccd36d46b2986d928b7eb",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "60c53e99845a0a81c2c6b1c00e5e71f5f1848a57386960036312d3e1a63282fd",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c972f81f36acc38150d46d4921579bea9a7d4aaafb93c48febe6884bbd4d8d83",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "1edad7e8c1ffce1176fcb656ddef0fd64d5ded68e9337791e945201e554eada1",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0806064e3e997dad8e802b0c2d1c755160ac49bd5a06ae2c9deedae6dc41fbb0",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "65c55517d87790f9895c5c986e7d5ac2c7bc8e20864b45aefc63864f4796fd92",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200721-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1ebeb18a031935ce997511ac68c6988a0edcf1e0b9434a5fe24c41e653be6f1b",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -75840,6 +75922,12 @@
       "sdist": [
         "b2c9c70c41f066c1b4bfd5a4d7d46fef2fd5b546a53486833cbf3ee963063d51",
         "tutor-xqueue-10.0.1.tar.gz"
+      ]
+    },
+    "10.1.0": {
+      "sdist": [
+        "c47013f4b51d2cd73ce244abf789bc382f1fae313a09bd6785ce818a4d942a5c",
+        "tutor-xqueue-10.1.0.tar.gz"
       ]
     }
   },
