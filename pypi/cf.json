@@ -27663,6 +27663,12 @@
         "67f9c8b33a4b742376a3eda11b0e3bd5c0cbe719d95ea0bfd3736a7bdd1c24c8",
         "ftfy-5.7.tar.gz"
       ]
+    },
+    "5.8": {
+      "sdist": [
+        "51c7767f8c4b47d291fcef30b9625fb5341c06a31e6a3b627039c706c42f3720",
+        "ftfy-5.8.tar.gz"
+      ]
     }
   },
   "ftw.recipe.deployment": {
@@ -34294,8 +34300,16 @@
           "6f0ea92c3910e8a772edaa77c78fb632415b223115ea720540f85583a7f97f70",
           "cp36"
         ],
+        "KDEpy-1.0.5-cp36-cp36m-manylinux1_i686.whl": [
+          "d7fa6b11f2b77304aefdbcc703b31d4645153b12b32db457516e9afe74921f91",
+          "cp36"
+        ],
         "KDEpy-1.0.5-cp36-cp36m-manylinux1_x86_64.whl": [
           "92ae0a947c12d9a0ecc4a0b5186bf97c8aef808befda08af9615a4ef821b9ac0",
+          "cp36"
+        ],
+        "KDEpy-1.0.5-cp36-cp36m-manylinux2010_i686.whl": [
+          "aab1224a033fc0ef0829e925d0df28d331f30cbf9bb392d76cdafabf4b62413d",
           "cp36"
         ],
         "KDEpy-1.0.5-cp36-cp36m-manylinux2010_x86_64.whl": [
@@ -34306,8 +34320,16 @@
           "e7a4d58e1a6a69f79926bb47cb4d0add7771fa1b62a90176a575f1a3397db4a3",
           "cp37"
         ],
+        "KDEpy-1.0.5-cp37-cp37m-manylinux1_i686.whl": [
+          "c68a819364ea97e9fae00458223a9125966f063102f67890f0d908490a9fe2a0",
+          "cp37"
+        ],
         "KDEpy-1.0.5-cp37-cp37m-manylinux1_x86_64.whl": [
           "cddbc1e46268a8fec100daf69625aff024f7d57486328365d6a11f4e39efeaa6",
+          "cp37"
+        ],
+        "KDEpy-1.0.5-cp37-cp37m-manylinux2010_i686.whl": [
+          "5ddb19946f5c62b8406805f2669661d5cdb6cd351161c269e65ccbb313368d36",
           "cp37"
         ],
         "KDEpy-1.0.5-cp37-cp37m-manylinux2010_x86_64.whl": [
@@ -34318,8 +34340,16 @@
           "afc9415a1086a610f1a36f32f085f1dab83b97a75dba82ad4588fe212e08bb54",
           "cp38"
         ],
+        "KDEpy-1.0.5-cp38-cp38-manylinux1_i686.whl": [
+          "875a2148e5c40ab1ed58a41a70abef6d3540f6b714597ab3e6e97343c36b2c2a",
+          "cp38"
+        ],
         "KDEpy-1.0.5-cp38-cp38-manylinux1_x86_64.whl": [
           "ff782122463728717f3b8f5cdef441a01939273e260f02205638a5fc50fe5ffa",
+          "cp38"
+        ],
+        "KDEpy-1.0.5-cp38-cp38-manylinux2010_i686.whl": [
+          "02ce9b5fedc88f75ab533d5d7a4a44496361afe4835003040d0414191b7bcab4",
           "cp38"
         ],
         "KDEpy-1.0.5-cp38-cp38-manylinux2010_x86_64.whl": [
@@ -44681,6 +44711,30 @@
           "py3"
         ]
       }
+    },
+    "0.11.1679": {
+      "sdist": [
+        "6137319d66d2c7a02db67b4254853fa76b9124d797463372d97717097769e5d5",
+        "lusid-sdk-preview-0.11.1679.tar.gz"
+      ],
+      "wheels": {
+        "lusid_sdk_preview-0.11.1679-py3-none-any.whl": [
+          "30503a4ee946a4129b04cf94afee23d197d2dfe4b48ae20a477ffd5fbed4d74b",
+          "py3"
+        ]
+      }
+    },
+    "0.11.1680": {
+      "sdist": [
+        "d546a626a4c49de5f5776244953df8077084095809a5c56d9ebc6aa1276a5417",
+        "lusid-sdk-preview-0.11.1680.tar.gz"
+      ],
+      "wheels": {
+        "lusid_sdk_preview-0.11.1680-py3-none-any.whl": [
+          "9936c4fc8f5029cde3764d740313edf296fd97df0456525f379864d178e7af72",
+          "py3"
+        ]
+      }
     }
   },
   "lyrico": {
@@ -50378,6 +50432,18 @@
         ]
       }
     },
+    "1.14.24.0": {
+      "sdist": [
+        "e3c010aba401ac111860548607aad001418efa7cfe370a9a231c24ce1e24a3ae",
+        "mypy-boto3-athena-1.14.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_athena-1.14.24.0-py3-none-any.whl": [
+          "9cb41aef5c3ae532067baddd1cc99c1c4f62e3dc987e0671bce0a4cf3b71766e",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "26d3092d796e3011af041e6210753a55025e2b088039086993e552d301fb08e7",
@@ -51880,6 +51946,18 @@
         ]
       }
     },
+    "1.14.24.0": {
+      "sdist": [
+        "e0734787af082f7cf2c50ff6a9f293fa8dfc7761090d8a9f17884f68d5386ed8",
+        "mypy-boto3-gamelift-1.14.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_gamelift-1.14.24.0-py3-none-any.whl": [
+          "67fff3cb0c9e69547d9559db0afcb835abc3359b46a09178049d444b98247889",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "8d3933953aa37de834780d190c2ca4d8d1e5f5654136df9a0aaac8afcfc81228",
@@ -53378,6 +53456,18 @@
       "wheels": {
         "mypy_boto3_route53-1.14.23.0-py3-none-any.whl": [
           "4ff2afecb036ffb816ae049ad44bf3496a658415f368e06e78459dfa78ee216c",
+          "py3"
+        ]
+      }
+    },
+    "1.14.24.0": {
+      "sdist": [
+        "ae2be99416730eb10a3a406064947249d4e2012c42ce943b2edbe84ae097a1aa",
+        "mypy-boto3-route53-1.14.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53-1.14.24.0-py3-none-any.whl": [
+          "e94b91cd043cdc63f1224ed6bad5586a76574d39bdb848f0829d8537512f807f",
           "py3"
         ]
       }
@@ -71697,6 +71787,20 @@
       ]
     }
   },
+  "remo-python": {
+    "0.1.2": {
+      "sdist": [
+        "47eed4c6a26accb1b74631a0d8ca742ec2a820f61df26c6a21f3a82b7b79b552",
+        "remo-python-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "remo_python-0.1.2-py3-none-any.whl": [
+          "e76d07de224f2d235dcbb4fa4f5e9074c1d429add8101fb5148a16e59617d6f8",
+          "py3"
+        ]
+      }
+    }
+  },
   "repack": {
     "0.1": {
       "sdist": [
@@ -76574,6 +76678,18 @@
       "wheels": {
         "stack_alert-0.1.0-py2.py3-none-any.whl": [
           "ba28c5337a31aacbd9ff614ad5aedfffa5c620cf863bcd6587ed4b68fd264392",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "d3dd74f87c022b95ab52fdc8591fff02becf12b39ff5316057bffcfb0633fea0",
+        "stack_alert-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "stack_alert-0.2.0-py2.py3-none-any.whl": [
+          "c3d1a1484a991c76173cd0949f608234a8237f8fbb57c650e2a4cf1db83e5b76",
           "py2.py3"
         ]
       }

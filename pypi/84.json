@@ -4624,6 +4624,14 @@
         ]
       }
     },
+    "1.10.0": {
+      "wheels": {
+        "azureml_train_automl_runtime-1.10.0-py3-none-any.whl": [
+          "0c759fb25e95934b0b56af3b45ae2bccc9eeaf115abacfe2c7962b7d80f91a98",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_train_automl_runtime-1.2.0-py3-none-any.whl": [
@@ -5066,6 +5074,14 @@
         ]
       }
     },
+    "1.10.0": {
+      "wheels": {
+        "azureml_widgets-1.10.0-py3-none-any.whl": [
+          "cecf55f1d7e5bd1a65dcbcdf8600526e6f69c99e11886ab27386a5e23c7c23ae",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_widgets-1.2.0-py3-none-any.whl": [
@@ -5306,6 +5322,12 @@
       "sdist": [
         "02d54e1c43d3b84cfa558afa2cfe4a4e97202deb1771a8ab05017a96aaf917c2",
         "bankaya-data-utilities-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.20": {
+      "sdist": [
+        "9fc44d7ac19fbdf1902e3f5fea62e8a9aa957dc16f52bed2e6dec00554d39704",
+        "bankaya-data-utilities-1.0.20.tar.gz"
       ]
     },
     "1.0.4": {
@@ -33004,6 +33026,18 @@
         ]
       }
     },
+    "1.14.24.0": {
+      "sdist": [
+        "202d19e39d2a0585b1070487e8043a2dedb3fbfe5b633eaaceaa5773a11189b9",
+        "mypy-boto3-ssm-1.14.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ssm-1.14.24.0-py3-none-any.whl": [
+          "71b093f16efde701b8f228277889049b76ce8cc7fc9429d4c3eab2a029f2bd1f",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "1966681a9f3e6c658eaa27021387706d2dd2f23396cc5fe7ef080f430ed45438",
@@ -34372,6 +34406,18 @@
       "wheels": {
         "odahu_flow_cli-1.2.0rc6-py2.py3-none-any.whl": [
           "450cdc45fba42e2a01a811fbf8cc5b01842de06ec7f66cd46cd6bd6764eda267",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0rc7": {
+      "sdist": [
+        "81c0b3621aa863d646a6a0857d76ee16ffb54e9ee9ba433b5dcaeaf8b04add59",
+        "odahu-flow-cli-1.2.0rc7.tar.gz"
+      ],
+      "wheels": {
+        "odahu_flow_cli-1.2.0rc7-py2.py3-none-any.whl": [
+          "dab55945c7cd3ee7b41e40de42e2496537e4935f196e31b3ac4f34a10f1dd417",
           "py2.py3"
         ]
       }
@@ -48800,6 +48846,66 @@
       "wheels": {
         "sharkiq-0.2.0-py3-none-any.whl": [
           "4544dd9da7b54e08662911888341afae113e7059d71f94cda34271be1fbedab2",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "51c6e9125ec90567e3362a46796259748e17ed87a8959c0c1194cb5ee43f0dea",
+        "sharkiq-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "sharkiq-0.3.0-py3-none-any.whl": [
+          "39599383f6d08cbf90c831d248464de857ff1342ae8c7fb10bb6a2756e0490df",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "587c83db31f8cf0919a08f1d543212502c5735f9e1cefb9ea0e4f039a5187bf0",
+        "sharkiq-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "sharkiq-0.3.1-py3-none-any.whl": [
+          "f7f8f9eccb2a888f915fc7b4ba608d09777b88fb44340b3cbfc63b71d0ceb054",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "8bfa6613cba43c7e2f43fff142d4f29f9e18290707c1e5eaf75dbba7f08969bf",
+        "sharkiq-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "sharkiq-0.3.2-py3-none-any.whl": [
+          "08cea48b26257cd5974e73ae2f0e21cb4b629475a1bfdcf306c73a6fe06aeea9",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "fc10ff19aced6ef7dac167d47034a05c0c11ac8b09a936c698c4819a80ade7fe",
+        "sharkiq-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "sharkiq-0.3.3-py3-none-any.whl": [
+          "57223109b91d058567ad565febe034f7576da0a0ace9c4ba78746ffc25020d1b",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "5e4e168dd0c158654ed6243fb939ed00dd66dcfb9670cb76c07c6124b6f75e41",
+        "sharkiq-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "sharkiq-0.3.4-py3-none-any.whl": [
+          "8ed7a13913b1f32c690d650eab06a45bb4ea9b621093a05cff68f766c26451f7",
           "py3"
         ]
       }

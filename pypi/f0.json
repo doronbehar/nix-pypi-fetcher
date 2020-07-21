@@ -4294,6 +4294,18 @@
         ]
       }
     },
+    "1.53.0": {
+      "sdist": [
+        "ec5d03325d65be41c1098ef701b57e72defda3d121981f04628ea0568f6cb921",
+        "aws-cdk.aws-s3-deployment-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3_deployment-1.53.0-py3-none-any.whl": [
+          "ed1341076d08722b3848a5bdd0c1635d02dadac4cd547b697c454930010fa285",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "02bb6ec78a31779b8550211618020f6731b9774048ed178501bfebff8423f98f",
@@ -17550,26 +17562,6 @@
       "sdist": [
         "86255ee18b43928cb081a4ebe099406564cbbae1fb870751ac694006f178eef9",
         "eightvar-1.1.9.2.tar.gz"
-      ]
-    }
-  },
-  "elastic-trade-server.party": {
-    "1.0.0": {
-      "sdist": [
-        "5b6ef0400eff7817d999a4045ae08dd4ed5a6f62e3315a5df607c862bbf6ddcc",
-        "elastic-trade-server.party-1.0.0.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "4a94e1f724164822c245b27a0c9fa78c2140241dec7531432246f73a5a059973",
-        "elastic-trade-server.party-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "c7a66eeb6e3608f89899c60c958c20365f699059cbeef6200e3c5a628f610d4b",
-        "elastic-trade-server.party-1.1.1.tar.gz"
       ]
     }
   },
@@ -36747,6 +36739,20 @@
       }
     }
   },
+  "newtonpy": {
+    "0.1.0": {
+      "sdist": [
+        "b646ca526b5afbc0a445ebd8c5c13d4af08ddec397d55bccaa9761716b5bae70",
+        "newtonpy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "newtonpy-0.1.0-py3-none-any.whl": [
+          "a43f2bddd501ba3b198c2f0637c243e6c0441f42e7d735c57f77a515e2f0ec94",
+          "py3"
+        ]
+      }
+    }
+  },
   "ng.site.content": {
     "1.1.1": {
       "sdist": [
@@ -51172,6 +51178,14 @@
         ]
       }
     },
+    "0.4.13": {
+      "wheels": {
+        "remo-0.4.13-py3-none-any.whl": [
+          "894d640415e10f87ad4faa37b8b88e7c5b6f2eac345fc41d7cc8e86e51b3a663",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "wheels": {
         "remo-0.4.2-py3-none-any.whl": [
@@ -53350,6 +53364,18 @@
       "wheels": {
         "septentrion-0.4.1-py3-none-any.whl": [
           "4d6b4794599f0410cc0affaab4166fb5133b260bcc9757e036e54bc5dec0b620",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "2a747d61d8add271378d3db9a18a8006c5bee390928ffbb19570ed7eb71756b0",
+        "septentrion-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "septentrion-0.5.0-py3-none-any.whl": [
+          "1c7714babb7b47b64af92a17a6edede082407e15f476902d6f4aedb83d0155a9",
           "py3"
         ]
       }
@@ -63406,6 +63432,66 @@
       "wheels": {
         "VScraper-0.0.3-py3-none-any.whl": [
           "77b4f2a91ba72d171cca4ec339c92f8faf2b6be50834b94dfc8878ba6d4047a9",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "1e86f0c285f3bc6dd1d701f86f87b86eb1f933fe9667a58b43cbe57d064f292e",
+        "VScraper-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "VScraper-0.1.0-py3-none-any.whl": [
+          "6812f2efe2803b9b0114135a87fc532067ac9d997c69653ddedda66b6157b596",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "d1469c1286ceea8cd31011d31a4e32e28ff67fb4880df04098f94a9973ba8904",
+        "VScraper-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "VScraper-0.1.2-py3-none-any.whl": [
+          "c432392ddbd4e06e1d945b9ae436fdad8fb03e3b33cead5715c1c26ccea8d7c4",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "cb7a8cd8e2a6862aa22a7fe5c91b9c6aa3dc0bd6f91d3ee5aa2d6d928748bda5",
+        "VScraper-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "VScraper-0.1.8-py3-none-any.whl": [
+          "c6c05bc46de1a379889a08d155395cf8f397ad77a38b1ce72e985ca015e3d39a",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "868808888249aab0e4e5766676dac3279e4a7fd620e89e471034c7bba1544184",
+        "VScraper-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "VScraper-0.2.0-py3-none-any.whl": [
+          "4ea26bbcd04d6d4b7f0d977af23fe3903e01895aa9220b259b6b07113387e65c",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "18dd9a0e6abb323036dfb442f21cd6ed5edd732cd026f393d23248f386aa9ecc",
+        "VScraper-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "VScraper-0.2.1-py3-none-any.whl": [
+          "b02035536cdedc5fb0bdaaa885b5810278605479da040287db618f12fa32ef29",
           "py3"
         ]
       }

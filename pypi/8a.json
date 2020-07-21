@@ -2445,6 +2445,18 @@
           "py3"
         ]
       }
+    },
+    "1.52.0": {
+      "sdist": [
+        "adf62127b4370033cc5ac8d5cdb6404b5931ea83e97c31ae23aa26ce1e8df7a1",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-1.52.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-1.52.0-py3-none-any.whl": [
+          "574a6cbe64852a55f6f0a6a2dd62a2e62e3c382c7bc8d0b32664bf9510d9f3ca",
+          "py3"
+        ]
+      }
     }
   },
   "awscfncli2": {
@@ -7506,6 +7518,30 @@
       "wheels": {
         "brs_utils-0.1.3-py3-none-any.whl": [
           "5332a0e7f37b18c983254ad399bdf9662c5bb1444a798f6e090f59c39a0ea10b",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "c9139913317603554a120d83f7954c59a695ab550b9cb4fadc4cab96f847d187",
+        "brs_utils-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "brs_utils-0.1.4-py3-none-any.whl": [
+          "aea1317cc779d9aa0425b36f5368782075557d58726222bb423e2c326a95cc8e",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "d1bd42d81fdad1ac7b1fad88b1229eab2d636200f27e22dfbffd55f3577479d7",
+        "brs_utils-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "brs_utils-0.1.5-py3-none-any.whl": [
+          "bbd00d079abe42ae501d6df8ee97b037016cd715d614962a2f055851c6d182d7",
           "py3"
         ]
       }
@@ -31479,6 +31515,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "43f68c67962d87d5dd9bf8119d8701d4667d0a2eb7ca83d17930cd31db0fedc9",
+        "lager-cli-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.4-py3-none-any.whl": [
+          "adc6ae8c4f3ca6146bb15e27eb14842e9103c6e7bbbc028d0dff63237956d7a7",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "1e3bed277c8d069529b9d40ef1d23bea37917f1bf7466bf23415041c795d8770",
+        "lager-cli-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.5-py3-none-any.whl": [
+          "9a67c49e466fc2a8a06c79f2ca4a5c5dbe3269f97f3b09e1dd47e91c8a74c1b0",
+          "py3"
+        ]
+      }
     }
   },
   "lambda-cron": {
@@ -36104,102 +36164,6 @@
     }
   },
   "mamba-utils": {
-    "0.0.1": {
-      "sdist": [
-        "43a8f000f56ff57aa7f7e7b781a676a904cc88e0d8daed444ee57c05916d5068",
-        "Mamba-Utils-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.1-py2.py3-none-any.whl": [
-          "a9a7499873179857c4ae6eba282adcff052bd5329ea82186127bcedcdfc79ac5",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "e60a69639eb0655b415be72db61d45ad798778115d729162f7f2445534631dbe",
-        "Mamba-Utils-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.2-py2.py3-none-any.whl": [
-          "76041776a1a4da2f544d2beaa5598ce07b76fed73312b08d491195ece5e81838",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "782b7fb31a30a93dc019ddd9a1e8cb1f2183e84a943c0be956101e4dd5aac12c",
-        "Mamba-Utils-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.3-py2.py3-none-any.whl": [
-          "a3b23d60405cb9043f86d8573f97d6536c462a37461d70c884dc7b352f79196a",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "0ac59c3775d2fd0dff647f948ce602876e798857ccf70f16efbdd6455c65712c",
-        "Mamba-Utils-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.4-py2.py3-none-any.whl": [
-          "594ce34f648ce815f4318fd66ba88317283442542d3923bcff92b930597df3ed",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "701e5507b98d85eb1200999e1ac56504983b56e19ada1d103143c263d4808c96",
-        "Mamba-Utils-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.5-py2.py3-none-any.whl": [
-          "0c203d1e6278aae0b2002e424fec02820bbb6e4764168774e7c7d6e537ea0fe0",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "0560c29f5f32b0505c922904a1e94ca53e93d61de17dfcf4024d6819419a13f2",
-        "Mamba-Utils-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.6-py2.py3-none-any.whl": [
-          "c124e090fe80c6dc0f25fa5c23e26bc815117f041b1e4864dce904b5aae0c3f7",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "d2b8eb8ae8168ec85622f4c8c196f22d2c589e5d8f85c4efe363c9ea249c3360",
-        "Mamba-Utils-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.7-py2.py3-none-any.whl": [
-          "87a50391e59716773793d21dc69e5b1f32f1176939d24bcfeeda566e87a5d8ce",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "31dd2e83ce50dd0c564d47f7c84a21be5b7116b9d719ad301f896abd875fd8a1",
-        "Mamba-Utils-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "Mamba_Utils-0.0.8-py2.py3-none-any.whl": [
-          "31139a7de1805d69af084535a0b3d44ede96caa16cdeac17dd6766fb350c4c2f",
-          "py2.py3"
-        ]
-      }
-    },
     "0.0.9": {
       "sdist": [
         "81bef0ec3e06a9522a82aead6118d7bebcd5b6da05a942dee175e1bb59998e9b",
@@ -43666,6 +43630,42 @@
         ],
         "OctoBot_Trading-1.8.7-cp37-cp37m-win_amd64.whl": [
           "67b70de3441e5a3cbc39f19e9d30dec387cd2b4e866d04638985eeabc8043e27",
+          "cp37"
+        ]
+      }
+    },
+    "1.8.8": {
+      "sdist": [
+        "e4cc83fc5f3da17dcf5184c24f517131ed09f8cda9f93fc700cf8d147273ef0f",
+        "OctoBot-Trading-1.8.8.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-1.8.8-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "1d4f6cc9a44c1101484b4e31f1d64cb3a2711ac9ebec8798a71dbff37bcdd593",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-manylinux1_i686.whl": [
+          "5d437c38f4ddb0305bed15da582584a3a4ca2e41ad3e678fe9541152683ebe3d",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "8a413c21ae6ef50955fe58bb9e5a9e401c3f6dc16d1090d553b8ca6a84648766",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-manylinux2014_i686.whl": [
+          "3590c16b603a2c53a1b45269c4f4a682fca778beca1a120dda8393e0646c6f00",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "e535cd57961a78d15f3a6c3e8cfe324da5f7ef8877decb9750d5b64adac23858",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-win32.whl": [
+          "47e78797447864969765ecc2f2da87a327309f7cc6e99848acb2747921604b96",
+          "cp37"
+        ],
+        "OctoBot_Trading-1.8.8-cp37-cp37m-win_amd64.whl": [
+          "c16374d57f6ed32f990c9cbb01618fe819e82219706f3d0b02a3602b206dee83",
           "cp37"
         ]
       }
@@ -62625,6 +62625,12 @@
         "c7abccf5f1c93dc7de4de290165e1c0b1c2e59d2d2a2e87467f7ecc384dfbd44",
         "recipe_scrapers-9.0.0.tar.gz"
       ]
+    },
+    "9.0.1": {
+      "sdist": [
+        "829e9e3c5bdcb092167ec3e703bd5edce45222c52b07451e6b221e55c2580812",
+        "recipe_scrapers-9.0.1.tar.gz"
+      ]
     }
   },
   "redis-faina": {
@@ -65157,6 +65163,32 @@
       ]
     }
   },
+  "sgqlc-schemas": {
+    "0.1.0b2": {
+      "sdist": [
+        "2dd77fa0d692c4907bca8af3e46991f5ece9e95de3165b33098fa367dd25e8de",
+        "sgqlc_schemas-0.1.0b2.tar.gz"
+      ],
+      "wheels": {
+        "sgqlc_schemas-0.1.0b2-py3-none-any.whl": [
+          "47c0d2afd0f640b2945a3f81aef7df73360b0b343694a1553ee70d8dfcc30760",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0b3": {
+      "sdist": [
+        "2395040ac7db6cc418bc204db9b5d4c7b484b74629c5c3cbab1372cf74c478be",
+        "sgqlc_schemas-0.1.0b3.tar.gz"
+      ],
+      "wheels": {
+        "sgqlc_schemas-0.1.0b3-py3-none-any.whl": [
+          "8cc01177234c639f8057ed99f1fc358da51b410fdcf728f77e58afc774c14629",
+          "py3"
+        ]
+      }
+    }
+  },
   "share-function1": {
     "1.0.0": {
       "sdist": [
@@ -66073,6 +66105,18 @@
         "slo_generator-1.0.1-py2-none-any.whl": [
           "055f8ecd7117c5a48ff16c2dc6aeca7b72f13f54df23927d56208066b902c534",
           "py2"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "b08fc70d71136c32f9de2415b03a3250ba11b6c40e1efc9f0347e8077423976c",
+        "slo-generator-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "slo_generator-1.1.0-py3-none-any.whl": [
+          "7ba01c6efab949cd6e3e0490ee2938a1e73c33c0f2ecad61f3367c180fb69c15",
+          "py3"
         ]
       }
     }

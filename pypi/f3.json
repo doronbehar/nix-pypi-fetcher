@@ -3012,6 +3012,14 @@
         ]
       }
     },
+    "1.10.0": {
+      "wheels": {
+        "azureml_interpret-1.10.0-py3-none-any.whl": [
+          "f78653beae498c09a5e2837100c48ad3822c4ef2947f47aa61ad24a40001cd7c",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_interpret-1.2.0-py3-none-any.whl": [
@@ -8495,6 +8503,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "aa7153542b9079eb052e8efe294c69109fab4b125217514d8c021206ce85b233",
+        "comma-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "comma-0.5.0-py3-none-any.whl": [
+          "962706c352eb00e5d7667e4c4b98ecdf61954ddf98b8bd43c791aaeb4ea521cf",
+          "py3"
+        ]
+      }
     }
   },
   "community": {
@@ -11730,6 +11750,14 @@
       "sdist": [
         "da39278ec9a88ef5d529bbc165775c431afa04818f278960a38138b43cc9c366",
         "Distiller-0.1.2.tar.gz"
+      ]
+    }
+  },
+  "distributions-ex5-zgoey": {
+    "0.2": {
+      "sdist": [
+        "9db8e3e2a7eecde46a260b3b656cf8b1f5df7084deaffdd7bb5012d7cd60ad78",
+        "distributions_ex5_zgoey-0.2.tar.gz"
       ]
     }
   },
@@ -15364,6 +15392,78 @@
         ],
         "duckdb-0.1.10.dev190-cp37-cp37m-win_amd64.whl": [
           "a884e0502b9befdfe39cae158773a054c06ff6706a367533da6d7fa013be5685",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.10.dev199": {
+      "sdist": [
+        "bb78b4d2ff0888c4b5eb57390f36db798b3a15e1dec5880513bede5b2c9ceef7",
+        "duckdb-0.1.10.dev199.tar.gz"
+      ],
+      "wheels": {
+        "duckdb-0.1.10.dev199-cp37-cp37m-manylinux1_i686.whl": [
+          "8be876a004442af79188a5d02c45cf5621cce7fa3f8bfd8485698abd19c8c5bc",
+          "cp37"
+        ],
+        "duckdb-0.1.10.dev199-cp37-cp37m-manylinux1_x86_64.whl": [
+          "233e919ad9dfb914413b7ec064a21df622fc599802b079260e065c1fb8007263",
+          "cp37"
+        ]
+      }
+    },
+    "0.1.10.dev207": {
+      "sdist": [
+        "97e9a241889b0b01d34881581eb545a8154063f4254def413db172d687a2f34b",
+        "duckdb-0.1.10.dev207.tar.gz"
+      ],
+      "wheels": {
+        "duckdb-0.1.10.dev207-cp27-cp27m-macosx_10_7_intel.whl": [
+          "050bf818137ea891982a55e8cd0b1ec4ab33d05f67b52049891e69596a9930e1",
+          "cp27"
+        ],
+        "duckdb-0.1.10.dev207-cp27-cp27m-manylinux1_i686.whl": [
+          "8a484ce02968d526d36ead136ac03ad0009661df53515074943ae49faa440741",
+          "cp27"
+        ],
+        "duckdb-0.1.10.dev207-cp27-cp27m-manylinux1_x86_64.whl": [
+          "074042c90495db413729a4bde5aae5cc41c4242b0158b75b70eed47ce1804c1d",
+          "cp27"
+        ],
+        "duckdb-0.1.10.dev207-cp27-cp27mu-manylinux1_i686.whl": [
+          "39b01eade1e0d8c33b4bc042c5b3b78d7f32ea64aa4d3540ba17b876ac2d8f6e",
+          "cp27"
+        ],
+        "duckdb-0.1.10.dev207-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "4211fd73f3dd76c4301ca038833f4898c5c7a69d1d684428225682c0d732051b",
+          "cp27"
+        ],
+        "duckdb-0.1.10.dev207-cp36-cp36m-manylinux1_i686.whl": [
+          "7903905741e3499aa21ba8f98b6fe303bb804c9de7a6fc2d0d7a730800d069da",
+          "cp36"
+        ],
+        "duckdb-0.1.10.dev207-cp36-cp36m-manylinux1_x86_64.whl": [
+          "27952b3e05209ecc005779e707f40d4b6b1c9e8872b0773020e2b0da02ed7701",
+          "cp36"
+        ],
+        "duckdb-0.1.10.dev207-cp37-cp37m-macosx_10_7_intel.whl": [
+          "21e9eb849227777cfab2a4d03d9ddcca4fd06464141832b7aab569a753d20565",
+          "cp37"
+        ],
+        "duckdb-0.1.10.dev207-cp37-cp37m-manylinux1_i686.whl": [
+          "aae808dd1f6cc51f090fe56527c1c8da3af0420a5ed9caa5cdb1fdad1bc795e5",
+          "cp37"
+        ],
+        "duckdb-0.1.10.dev207-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8655adbc15f3badb77f63733dd0f091892ca223e93e4a100f2893d42af3025b9",
+          "cp37"
+        ],
+        "duckdb-0.1.10.dev207-cp37-cp37m-win32.whl": [
+          "3b6f59b6613a8c8e45daa7dd1d21e5b4f1847f38a0ee73aba7f02984f9e63d1c",
+          "cp37"
+        ],
+        "duckdb-0.1.10.dev207-cp37-cp37m-win_amd64.whl": [
+          "d23c81d103419a78d51cd770c16e014f8c6ad22c49b4a137ca789c3dd98678e2",
           "cp37"
         ]
       }
@@ -27604,6 +27704,12 @@
       "sdist": [
         "1cf9fc7be2b624df77fa25b3a98222481127d7aff4aa40c52187c9d0b7c5d81e",
         "large-image-source-dummy-1.1.1.dev51.tar.gz"
+      ]
+    },
+    "1.1.1.dev53": {
+      "sdist": [
+        "48805745d2105ad24780f80029eeb4e4fcddb2a8a0c50830b8ab3ac2be05913c",
+        "large-image-source-dummy-1.1.1.dev53.tar.gz"
       ]
     },
     "1.1.1.dev6": {
