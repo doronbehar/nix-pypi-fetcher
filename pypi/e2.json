@@ -5158,6 +5158,18 @@
         ]
       }
     },
+    "1.54.0": {
+      "sdist": [
+        "401489f5a7d10101ca84b2631850534da14633bd13b4b8f707aa53aecb3b6dc0",
+        "aws-cdk.aws-autoscalingplans-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscalingplans-1.54.0-py3-none-any.whl": [
+          "7c6494a1915afbd1118ef5a37b172a9f487e06c44adf11409e08224cb843c0a4",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "92eebc18c34ebc64ed01e80b51390ee75fb89e24f41be1b4525deb05b0661ce3",
@@ -12630,6 +12642,24 @@
       "sdist": [
         "b2c2624dd58faf0f07ab6bdce5028004dde0b31fb8fb20a948c9d6757826eda9",
         "csv2sqllike-1.1.4.tar.gz"
+      ]
+    },
+    "1.1.5": {
+      "sdist": [
+        "1f5f554762059e03c4c3bb1e8bc94c93ea3fce84c95eac47f8534ba67808187c",
+        "csv2sqllike-1.1.5.tar.gz"
+      ]
+    },
+    "1.1.6": {
+      "sdist": [
+        "0d70006fd3b079bf7abccc49c3f86ba9a7ebc74a14e329b8c3975e22d3e0ef06",
+        "csv2sqllike-1.1.6.tar.gz"
+      ]
+    },
+    "1.1.7": {
+      "sdist": [
+        "bd19defbe6d25f1f33f390a064f0f7088335e2023f4d1e4d8fcb5f0b181d524c",
+        "csv2sqllike-1.1.7.tar.gz"
       ]
     }
   },
@@ -21658,6 +21688,18 @@
       "wheels": {
         "financialwords-0.2.0-py3-none-any.whl": [
           "8eee030fcc329d1d3b9d2226639599ebc295410bce4988a45284908baf98e2b6",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "041194dc522cbb1b8b969f4de212265c9022bae44e3c4dab7622093005d367a6",
+        "financialwords-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "financialwords-0.2.1-py3-none-any.whl": [
+          "257138609b5c0ec2163b0655f0c34199e3bb204ddf2fb12e2a82b9953e493d7b",
           "py3"
         ]
       }
@@ -61245,164 +61287,6 @@
       ]
     }
   },
-  "scikit-spatial": {
-    "0.1.0": {
-      "sdist": [
-        "b313aa681203d3c1dffd75392e0b7952398273747e8118347e5bec32c8f575e0",
-        "scikit-spatial-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-0.1.0-py2.py3-none-any.whl": [
-          "123af5a54ec7219ec4f9095722c9ffd6049c846f56333f408e235bb7682fb978",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0": {
-      "sdist": [
-        "205fa846d903d63d61643c2bed70d7fcc8cdc9b168f6d79b5ef510d9fb313591",
-        "scikit-spatial-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.0.0-py2.py3-none-any.whl": [
-          "c5f46ad7a031f3954e1dacba0c9ac7e27a8946eca0e7e3661cf2e2a8d82605c6",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "71d78fe5adf63325d29bd80f57a1b616ebf07a8636c6659212027f1c5d1896e5",
-        "scikit-spatial-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.0.1-py2.py3-none-any.whl": [
-          "7950be9145d3e4f1121ec5288ae2e387c66024fa81f79461bb8056d8da48ff94",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "84b6717fcecd5c8b2ad441e8d116162d55e0cae93d3ff5d85948d4862358da15",
-        "scikit-spatial-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.1.0-py2.py3-none-any.whl": [
-          "2e53b2f2e30b2571aebcbacecb90542a75b260342413cb838515346169ea3b01",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "9ed29eb9cb88ec111cdc81d923d8c75256401b4d248933a46d84bf6c6a737d3f",
-        "scikit-spatial-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.2.0-py2.py3-none-any.whl": [
-          "2c6115e2925028d99381d529b834f720c8d0230c4e0b3184570cab174ff78f17",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.3.0": {
-      "sdist": [
-        "6e605db0fb6813ef44cba6352ace78e822ad302033b39fa625d0adf6cca54fc4",
-        "scikit-spatial-1.3.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.3.0-py2.py3-none-any.whl": [
-          "b22be4b18ceb76914849cad34a07b55b5b4e82257b24f1b992bce15c9816311a",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.4.2": {
-      "sdist": [
-        "4962d1e30966eb1bb62e4b612a3b3532b3f4fa50de2a46634133ac99c3c85e7f",
-        "scikit-spatial-1.4.2.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.4.2-py2.py3-none-any.whl": [
-          "ba600c7377bc0b302bc2ce8b5a1df8198892331edb6b6aa1327dff6d00ae2533",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.5.0": {
-      "sdist": [
-        "c0d6835ea7bf5eeb05db7eb877376067a193afdd691c7ef99948ccd1403ccc4d",
-        "scikit-spatial-1.5.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-1.5.0-py2.py3-none-any.whl": [
-          "bf6af19b15401bc27be4081668520e9e226a0bbf92edff2594568f345658fa79",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "sdist": [
-        "005e10f319aa5369e8d99d0da49081f053a2262281ec4e08a68cada808a92abc",
-        "scikit-spatial-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-2.0.0-py2.py3-none-any.whl": [
-          "27ecdf8f3e1fa7046761245c4086371be5ccf2a7a5b50945fe125210b9f1bcb8",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.1": {
-      "sdist": [
-        "0168b25dba234ea9fb0cc78cf77079b3c5eae403d5dfb30e7b491e85d87f05af",
-        "scikit-spatial-2.0.1.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-2.0.1-py2.py3-none-any.whl": [
-          "49f0fc73326e7b0d2b1a6918895975857eca87b5c7a5885ebc4518b3ba792ee0",
-          "py2.py3"
-        ]
-      }
-    },
-    "3.0.0": {
-      "sdist": [
-        "a3b06409faa08b2f08c2edb20ad654c947f72c6de5df2f870487473be60520fb",
-        "scikit-spatial-3.0.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-3.0.0-py2.py3-none-any.whl": [
-          "bb2bf445eb661bca87f17cb9fcde5957cc3786c513ef6319aaf1605c4b80cf19",
-          "py2.py3"
-        ]
-      }
-    },
-    "4.0.0": {
-      "sdist": [
-        "a72b5785d734f59583e0f4999fb59adb9041b501182c73ae9b7afda59953b7f7",
-        "scikit-spatial-4.0.0.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-4.0.0-py2.py3-none-any.whl": [
-          "c04dbefcd2e09067eafab8a235fdf13d532f0590e494ae52aa4b385561ac1f67",
-          "py2.py3"
-        ]
-      }
-    },
-    "4.0.1": {
-      "sdist": [
-        "da570b50422bed2b18d5177667437b35ff9b8d1a97904e597bb6898a8d99dfb1",
-        "scikit-spatial-4.0.1.tar.gz"
-      ],
-      "wheels": {
-        "scikit_spatial-4.0.1-py2.py3-none-any.whl": [
-          "0e73e937f321c0b8915fc1479f16e0433f1222c0d5bdbc169c65f1f8803c941f",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "scrapyelasticsearch": {
     "0.1": {
       "sdist": [
@@ -62153,6 +62037,18 @@
         "4d711f94d06b010042b03be477c4d07163e98c74addf34e1ad68b1d9aa6317d2",
         "signs-0.3.0.tar.gz"
       ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "1e6afeef3c8432f76204395bf746c88c52eea76fcb9c4b341e4e81cbfde0ba76",
+        "signs-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "signs-0.3.1-py3-none-any.whl": [
+          "91f3d997c24d0af81ae8b520ad9f5e67cb9c616c674cdff3852164fc2a54f3b9",
+          "py3"
+        ]
+      }
     }
   },
   "sigutils": {
@@ -73576,20 +73472,6 @@
       "wheels": {
         "xiaochuanhttpsproxy-0.0.2-py3-none-any.whl": [
           "3fcb9003a2a5c28d0993a4321cf7f30a17492effad3f83dcda76849fc08cf547",
-          "py3"
-        ]
-      }
-    }
-  },
-  "xinet": {
-    "0.0.1": {
-      "sdist": [
-        "37619f9c8fe30776a5a1624cd2a4cdb6616322d71a24d95238c7d0ba24376205",
-        "xinet-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "xinet-0.0.1-py3-none-any.whl": [
-          "f6504ff5f26180455bab6cabf3da814b93655d1bf9a922b41651957427cdae11",
           "py3"
         ]
       }

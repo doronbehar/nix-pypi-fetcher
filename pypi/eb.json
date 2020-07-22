@@ -50007,6 +50007,16 @@
       }
     }
   },
+  "odoo11-addon-default-multi-user": {
+    "11.0.1.0.0.99.dev3": {
+      "wheels": {
+        "odoo11_addon_default_multi_user-11.0.1.0.0.99.dev3-py2.py3-none-any.whl": [
+          "11d0cdcb94732595da5eb776f0d94ce6ef1b1eef6485378f7e50e49a7f9f384c",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "odoo11-addon-l10n-es-facturae-face": {
     "11.0.1.0.0.99.dev1": {
       "wheels": {
@@ -50152,6 +50162,22 @@
       "wheels": {
         "odoo11_addon_payment_redsys-11.0.1.0.1.99.dev7-py2.py3-none-any.whl": [
           "196a65d13cc94e560ff0315f6dff5649ae1d3b79d8f9b34d4fd5f96f8aca68b9",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.2": {
+      "wheels": {
+        "odoo11_addon_payment_redsys-11.0.1.0.2-py2.py3-none-any.whl": [
+          "7a05630a38d9679dc83e3d12d002a39075a836029c31b624f3dece01e6382068",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.2.99.dev1": {
+      "wheels": {
+        "odoo11_addon_payment_redsys-11.0.1.0.2.99.dev1-py2.py3-none-any.whl": [
+          "07f320652429ea987c23dd264e5c8b32dffc41b36ad84c8ee29ed33b294bd675",
           "py2.py3"
         ]
       }
@@ -63829,6 +63855,94 @@
         "sklearn_pmml_model-0.0.14.1-cp38-cp38-win_amd64.whl": [
           "da75e72863deb7f53408ad2830e58ae6f6b9d6c32d1da6072bb5d3556557ff50",
           "cp38"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "18ea196bc7053694525103c1ab641c44518a10ab7b88dca3f4fce50abc58b6ee",
+        "sklearn-pmml-model-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "sklearn_pmml_model-0.0.15-cp35-cp35m-manylinux1_i686.whl": [
+          "3793791cf0ccaf408a23a99d78ca7aba4a1843f8d433966956174b34703a4251",
+          "cp35"
+        ],
+        "sklearn_pmml_model-0.0.15-cp35-cp35m-manylinux1_x86_64.whl": [
+          "67c500a5ffdf0a164ea2393e5582ffd6819ba2533721d7b1aac64b26781bbbd0",
+          "cp35"
+        ],
+        "sklearn_pmml_model-0.0.15-cp35-cp35m-manylinux2010_i686.whl": [
+          "c70ca9569446618d17e4221978c1d42c2ba9956b627cae1bdaf2f85aacd93c14",
+          "cp35"
+        ],
+        "sklearn_pmml_model-0.0.15-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "eb21c89cbe9774070be91c9019d1757a51a1e829ffc76c5fab19a3d1672874ea",
+          "cp35"
+        ],
+        "sklearn_pmml_model-0.0.15-cp36-cp36m-manylinux1_i686.whl": [
+          "d93531861c1025224ca9fb734cc46d1d9b164245cfad33faa716fd51d70370ff",
+          "cp36"
+        ],
+        "sklearn_pmml_model-0.0.15-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8d2fb44f4e43d62632dae5e4a848263e9dc59752a79c67fc9f4f7c1e29e7ec2c",
+          "cp36"
+        ],
+        "sklearn_pmml_model-0.0.15-cp36-cp36m-manylinux2010_i686.whl": [
+          "d22407347a461342a9a6bf61916d3a386c264b007bfc62bc16a4b517d927aa9a",
+          "cp36"
+        ],
+        "sklearn_pmml_model-0.0.15-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "22a6c5999aa9a478774965b2709b946c8ebe0e7cbe98f49d20eed606634dc034",
+          "cp36"
+        ],
+        "sklearn_pmml_model-0.0.15-cp37-cp37m-manylinux1_i686.whl": [
+          "663ead40d509c4a6318d1a4619634b55ea0fdf1951a338b5e0758231e26e7865",
+          "cp37"
+        ],
+        "sklearn_pmml_model-0.0.15-cp37-cp37m-manylinux1_x86_64.whl": [
+          "21726ae053880b4630157d3affa4bb2706641c005193723c5c6965b2d246634a",
+          "cp37"
+        ],
+        "sklearn_pmml_model-0.0.15-cp37-cp37m-manylinux2010_i686.whl": [
+          "1b529fc051c41c13baf18fdc0d71ba77923695a5b5ac699c3d46b041d6d52f11",
+          "cp37"
+        ],
+        "sklearn_pmml_model-0.0.15-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "47267f695554040d2ae964cd62beb9435596cf9d91b97b486c8c4823a3eb400f",
+          "cp37"
+        ],
+        "sklearn_pmml_model-0.0.15-cp38-cp38-manylinux1_i686.whl": [
+          "1dd5d4c738a2bdea6e788c737bd4abb718e809ba6cbc6c3c55afc6acb344898b",
+          "cp38"
+        ],
+        "sklearn_pmml_model-0.0.15-cp38-cp38-manylinux1_x86_64.whl": [
+          "5a22327cbc81305e29d5d6c0937536df859db3eefe2a9f224c8745bd49ebb79e",
+          "cp38"
+        ],
+        "sklearn_pmml_model-0.0.15-cp38-cp38-manylinux2010_i686.whl": [
+          "434b2fbb9a39dec419afcde931b6e77d25959ec03195b37abd790ab77f204dfe",
+          "cp38"
+        ],
+        "sklearn_pmml_model-0.0.15-cp38-cp38-manylinux2010_x86_64.whl": [
+          "66ea8582a8d117ddccb8bd8efa76a216fae4868921b8fffefa6716583fd36772",
+          "cp38"
+        ],
+        "sklearn_pmml_model-0.0.15-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "d61bc5e5a4093626f1bbc95ca1b317935418b1df26841e4b0d3dfa66de754e92",
+          "pp27"
+        ],
+        "sklearn_pmml_model-0.0.15-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "0aec3e0b0cb1fab9120bbfc7562c470a1a0c76e0244baf93365910d68de0aef0",
+          "pp27"
+        ],
+        "sklearn_pmml_model-0.0.15-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "6d867eacd7af285eb2e7c11b928f158765df2c4c0c181b4fd6054bb4039dcc63",
+          "pp36"
+        ],
+        "sklearn_pmml_model-0.0.15-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "71bd87981c01aafdc94af8941511f8dcb2c3044a448e828a685f6c32f8009fd7",
+          "pp36"
         ]
       }
     },

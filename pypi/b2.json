@@ -5421,6 +5421,18 @@
           "py3"
         ]
       }
+    },
+    "1.54.0": {
+      "sdist": [
+        "fae96eda62204666be3a10c1e550c13b479b6ff355532799ac6667f5538e33e3",
+        "aws-cdk.aws-eventschemas-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eventschemas-1.54.0-py3-none-any.whl": [
+          "5a5eb2378baa58c98e4465a7d4a7f330fe8cae0da44bfad13255d2a64abac8be",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-logs": {
@@ -6392,6 +6404,18 @@
       "wheels": {
         "aws_cdk.aws_logs-1.53.0-py3-none-any.whl": [
           "47bd6935907ab6f55bb172613909179f7f669dce7e47f22b95b14cd9874ce5e1",
+          "py3"
+        ]
+      }
+    },
+    "1.54.0": {
+      "sdist": [
+        "a52186fdcfe1153d76c1f531be72f824440069a6b628bcdbbcff5889e584938b",
+        "aws-cdk.aws-logs-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_logs-1.54.0-py3-none-any.whl": [
+          "7fef93d5e33920bf8019e6b9d7884cd46b71f14cb479b5a3fab42bfea36effd6",
           "py3"
         ]
       }
@@ -51717,20 +51741,6 @@
       ]
     }
   },
-  "pymcstat-piumato": {
-    "0.0.1": {
-      "sdist": [
-        "329e76457d087d5c9828c1ab6c11ca52052f1a9e0046044d0bd8970e4a69f2a1",
-        "pymcstat-piumato-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pymcstat_piumato-0.0.1-py3-none-any.whl": [
-          "0b8804f450cfce19ea599fbb77da49bf900bb63e3b226614b500519068d8dcbe",
-          "py3"
-        ]
-      }
-    }
-  },
   "pymeigo": {
     "0.9.0": {
       "sdist": [
@@ -62551,6 +62561,12 @@
         "a5e3d34ebe70950b4cde7040f43d55db1675143d64b623e4e9765c30036b6cc0",
         "talos-python-0.0.1.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "4fcb37181edbee90c25201500a5ad4690151997b58d5d6356d3b8bd4cd04592b",
+        "talos-python-0.0.3.tar.gz"
+      ]
     }
   },
   "tantivy-py": {
@@ -64318,10 +64334,34 @@
     }
   },
   "torchjpeg": {
-    "0.9.0": {
+    "0.9.1": {
       "wheels": {
-        "torchjpeg-0.9.0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "29827127b3f3ed49a8b1dbe38da3eb59c5d7d0fb9cfd1fb7827aeaa6700e7e66",
+        "torchjpeg-0.9.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "205f359e0977d4d3f619e40065fb0521d65b25530eb04e9eb0b55a7244862950",
+          "cp36"
+        ],
+        "torchjpeg-0.9.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "fa72cd6aca4229a2ed9394ed6ebc8523c77fcf72e84a42a52e5763a8bd076712",
+          "cp37"
+        ],
+        "torchjpeg-0.9.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "bfd5b7b35f845b6ec80bdd4f16bab0ea0cc4735ecaed5c4ac0dca0325797b941",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.3": {
+      "wheels": {
+        "torchjpeg-0.9.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "e47b96352b9335e80607cdb6bae52db344ba21260040fa7f3d0ddd36c6d07f8f",
+          "cp36"
+        ],
+        "torchjpeg-0.9.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "8986c70b3c625f0a4fad665bfbf02cad3575e833e7127455408e606f83327b2a",
+          "cp37"
+        ],
+        "torchjpeg-0.9.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "7fb0e4747eebc8c6cfa87b8483a792067cffde584760e0c37ce8e1fd851d3e5d",
           "cp38"
         ]
       }
