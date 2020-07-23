@@ -15006,6 +15006,22 @@
         ]
       }
     },
+    "0.12.12rc0": {
+      "wheels": {
+        "determined-0.12.12rc0-py3-none-any.whl": [
+          "3402a84d8548b4cb178c5340afb5f7b7a06e55ea1d58916b565b1664c9edbc57",
+          "py3"
+        ]
+      }
+    },
+    "0.12.12rc1": {
+      "wheels": {
+        "determined-0.12.12rc1-py3-none-any.whl": [
+          "315ce45229e06df5cb43d3cbf6e2b23f84b056e9ba74cd8d4eaa20c1a94fbce3",
+          "py3"
+        ]
+      }
+    },
     "0.12.2": {
       "wheels": {
         "determined-0.12.2-py3-none-any.whl": [
@@ -22476,6 +22492,18 @@
         "foliantcontrib.pandoc-1.0.10.tar.gz"
       ]
     },
+    "1.0.11": {
+      "sdist": [
+        "27f226ece91528fa078d7006dc2a66fb8551a4e3894c8ae2185b660818eeebe8",
+        "foliantcontrib.pandoc-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "foliantcontrib.pandoc-1.0.11-py3-none-any.whl": [
+          "a5cb2006d5ea1d4a08839c41e790ba9c0d671346aaddfdbf9dffb61b789b3a9f",
+          "py3"
+        ]
+      }
+    },
     "1.0.2": {
       "sdist": [
         "346b05cd27af6729df480c7ae743803f031bf8d18dc697fe8d1af9fdc6f2c9b4",
@@ -23142,6 +23170,18 @@
       "wheels": {
         "genetools-0.3.0-py2.py3-none-any.whl": [
           "3895fe86f62d740125c25ac1902ba4ff99a4dfb3e65b8346b26b2144c90808c7",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "bf3f9f0f3094edcbe7268662583974bcad288b9f170b3f7583f8f58368ad93ac",
+        "genetools-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "genetools-0.4.0-py2.py3-none-any.whl": [
+          "cf5438543f7a696b69dca9feb1e97c0b7374ec97e1786e8fa4b486c44a0a328a",
           "py2.py3"
         ]
       }
@@ -33128,6 +33168,18 @@
         ]
       }
     },
+    "1.14.26.0": {
+      "sdist": [
+        "9388208e9848072421f634b53e6666a95f1481d5519e0f0731a8f1c300cacf45",
+        "mypy-boto3-elastic-inference-1.14.26.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elastic_inference-1.14.26.0-py3-none-any.whl": [
+          "3c54f040364db33a0034e61faadcedd38d74b03cb69a6d9a14c7e6ada4413f7d",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "6789896c84f979718f877c686ccbc6f120d482bb14a3b22333effec943cf59fe",
@@ -34638,6 +34690,18 @@
       "wheels": {
         "mypy_boto3_managedblockchain-1.14.25.0-py3-none-any.whl": [
           "5aba47e51ab21a1817968b0e0b7f6e409d60b99c4e4f4dc390d160be10df1a6b",
+          "py3"
+        ]
+      }
+    },
+    "1.14.26.0": {
+      "sdist": [
+        "0dcc97523a2aa2e0d99294476f38cd5c1ff7f4df537db43f13d70e00a61c2595",
+        "mypy-boto3-managedblockchain-1.14.26.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_managedblockchain-1.14.26.0-py3-none-any.whl": [
+          "b962ac3a5dd06c26a0fcc0fb52a52545777404d465aa8c54b5c7ef02266daa64",
           "py3"
         ]
       }
@@ -43031,6 +43095,34 @@
           "cp38"
         ]
       }
+    },
+    "2.0.0.dev5": {
+      "wheels": {
+        "pantsbuild.pants-2.0.0.dev5-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "e2af78f46e9ff83d341d864cd7609d342229807c8f2214ae67a382ad9b131570",
+          "cp36"
+        ],
+        "pantsbuild.pants-2.0.0.dev5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "6845496c4aa61e75206460fe4dd0f5c4c8e791964e48b39ec46aae76bfc97628",
+          "cp36"
+        ],
+        "pantsbuild.pants-2.0.0.dev5-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "c7d45487ea0529dbd727e5cec1adf40b57b66cccd9530879d1582095c23967b8",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.0.0.dev5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9f2629cc14753eb3dc0afaa40ec7857bba47aa0e35443226b6becf017aa390cc",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.0.0.dev5-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "1fae0bf0c99612c0c5a922e765c849fb8fe1fb750f211b9d4fde3b5c1cd98b0c",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.0.0.dev5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "73062962931b179c65b6a191bdf272581cbf361975e75fbebef885df18aae178",
+          "cp38"
+        ]
+      }
     }
   },
   "parallelio": {
@@ -47031,6 +47123,12 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "507d47278a66f2a67dc817e2dae533374ad0c8312aed7ab6e23e1b322baef5c6",
+        "pycapo-0.3.0.tar.gz"
+      ]
     }
   },
   "pyclimaker": {
@@ -51478,6 +51576,18 @@
         ]
       }
     },
+    "0.10.8": {
+      "sdist": [
+        "dd10063e3e21e6e46d5f28aa026fd90098c0c1d3b61f9045c1c8dae10dcb6abc",
+        "raylab-0.10.8.tar.gz"
+      ],
+      "wheels": {
+        "raylab-0.10.8-py3-none-any.whl": [
+          "d4bfe42dbb10177dada57adcd4c112ed53487e5f2f4b9aef689634ce360d9af5",
+          "py3"
+        ]
+      }
+    },
     "0.6.5": {
       "sdist": [
         "1e7195b505d99bed7f4ec256f6007e74e82952af1a4096553e57049d8a7da688",
@@ -51878,6 +51988,18 @@
       "wheels": {
         "remote_exec-1.5.0-py3-none-any.whl": [
           "94dc493c54d8e6901647d26b869942e145bb3e06122dcbc7ed918b4480451bc5",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "ed847c35b57f68cc70ee32bcf5fd41e2c2484081f2505c2403f15332c88b9b85",
+        "remote-exec-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "remote_exec-1.6.0-py3-none-any.whl": [
+          "c33cc00876ffa3c65b0a02660f0e53e26622781c22676bb097df7d082ac6efb4",
           "py3"
         ]
       }
@@ -70616,6 +70738,12 @@
       "sdist": [
         "d9528dca74bbfa7b1ada1880af79eb1d7df87edbb3887c5976d264e8f3ed0890",
         "twilio-6.44.0.tar.gz"
+      ]
+    },
+    "6.44.1": {
+      "sdist": [
+        "a84b6a4e8f6c739cf3fa429033ad522d07c78e3788800e68fe5195d83db4f03a",
+        "twilio-6.44.1.tar.gz"
       ]
     },
     "6.5.0": {
