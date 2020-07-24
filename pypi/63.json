@@ -12444,6 +12444,10 @@
           "f64579c609f199f3978bd31738a0b6c2fe36616dc921a61d29827b6c39f8cc51",
           "cp36"
         ],
+        "diplib-3.0b6-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "1d6803b86c774e304164de3fd82daa3f27c3713c07666dc3233b22c44936ee09",
+          "cp37"
+        ],
         "diplib-3.0b6-cp37-cp37m-manylinux2010_x86_64.whl": [
           "37619a6db22f0a80dccae7db54609612ad4838274f383f957807103f6866532a",
           "cp37"
@@ -12451,6 +12455,10 @@
         "diplib-3.0b6-cp37-cp37m-win_amd64.whl": [
           "cd2932bd4f12177105d0d8266bcc7601a0848c4095ad6428b133359740590bd5",
           "cp37"
+        ],
+        "diplib-3.0b6-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "8ef50007c3dae17aa2471439ff5632cc613cb1c9a9f49ce24efe9dfb59f53868",
+          "cp38"
         ],
         "diplib-3.0b6-cp38-cp38-manylinux2010_x86_64.whl": [
           "a1b6fa59b28132cd60de22c4c66217bb2cef41656ee3d3a69f13affc4ee049ba",
@@ -15907,180 +15915,6 @@
         "f2635dfdecabbdd9ce1ce950d1a134be871ee94dd9326c28f48f4a814890c430",
         "dlutil-0.4.9.tar.gz"
       ]
-    }
-  },
-  "dm-control": {
-    "0.0.286587932": {
-      "sdist": [
-        "93ebf1f64467ab21cdd9a333867d8b82faeb8c3e1e59443af84d2c66d6ce1847",
-        "dm_control-0.0.286587932.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.286587932-py2-none-any.whl": [
-          "d57866753d80e6d30a34b2950615291e6b9768a0710a1a98f65df7e265800512",
-          "py2"
-        ],
-        "dm_control-0.0.286587932-py3-none-any.whl": [
-          "a0280a2e7cdc34033e5e22439e6667216541c956a26c147b9a4f9d5b03ca1ccf",
-          "py3"
-        ]
-      }
-    },
-    "0.0.286955599": {
-      "sdist": [
-        "0a657d0d691b329d11184c153e608a62d77e0149984554014c9f84a24f495015",
-        "dm_control-0.0.286955599.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.286955599-py2-none-any.whl": [
-          "4c0d70394dbb87d62abb1ee07d79c71152e38fa016ea9a3b07ec2558e1727eb5",
-          "py2"
-        ],
-        "dm_control-0.0.286955599-py3-none-any.whl": [
-          "f42f65e2afd0a18b910c9fbc211137d7572f7688283344e20142f1b7831ae7c6",
-          "py3"
-        ]
-      }
-    },
-    "0.0.288398964": {
-      "sdist": [
-        "dd75b95f6c476f8d65ef14514e416a4c9695344ce50c52495dc95e24c1243396",
-        "dm_control-0.0.288398964.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.288398964-py2-none-any.whl": [
-          "d71a338d7f514a019971b2189cae521e6cc355a1e6db1304a073686aaf138f0e",
-          "py2"
-        ],
-        "dm_control-0.0.288398964-py3-none-any.whl": [
-          "e318a47866b4db709a6e2597ee7d7057142b1a14c9ef744d81542814136705a8",
-          "py3"
-        ]
-      }
-    },
-    "0.0.288483845": {
-      "sdist": [
-        "dd758a5551d6d995e3211a716dc2fa9cd1d336c48e9dcf42b7792021aa8dab3d",
-        "dm_control-0.0.288483845.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.288483845-py2-none-any.whl": [
-          "ab49d505cc7471a31f4823664b760ea981dc4f69a1c2999526459480ad81ec07",
-          "py2"
-        ],
-        "dm_control-0.0.288483845-py3-none-any.whl": [
-          "0c99b9671221ae6294ea33c3ee0eb40a4b31be0b7060aba628af43246f754be3",
-          "py3"
-        ]
-      }
-    },
-    "0.0.295778102": {
-      "sdist": [
-        "9201924aca0aaaf9daddf54ae138658a4d101cb29ee82d47a7746d2f37d1edca",
-        "dm_control-0.0.295778102.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.295778102-py2-none-any.whl": [
-          "fd37ee584a5cf870f48d020c0b2935ceffc869c18d015f7f9de4f25910ab3669",
-          "py2"
-        ],
-        "dm_control-0.0.295778102-py3-none-any.whl": [
-          "9123ee0d58f4e7869d96362acf60edf1357bad99f9defb6721c606a9571892e8",
-          "py3"
-        ]
-      }
-    },
-    "0.0.300771433": {
-      "sdist": [
-        "3f08dfe3189ecb1a6b2969c3a555764607961f44e12c76b36636d6c734313c4f",
-        "dm_control-0.0.300771433.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.300771433-py2-none-any.whl": [
-          "753ec9ae3fd74938a2f876e734b0d578f55ef8bd3402eee5b2ee440681adf927",
-          "py2"
-        ],
-        "dm_control-0.0.300771433-py3-none-any.whl": [
-          "6d92104757d4ef9e967ebe11b70644b2dd3cd31078c6e7759dbd096bfd8d76a1",
-          "py3"
-        ]
-      }
-    },
-    "0.0.312466143": {
-      "sdist": [
-        "9684c88dd5b64ce21cbf034c0a62ea34ebf15275e77cf32d4bb632f5fcbf90bb",
-        "dm_control-0.0.312466143.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.312466143-py2-none-any.whl": [
-          "ce0aa00ab937348d665f3e8f334b0274c9af709fda9d615b623deceb6dc99186",
-          "py2"
-        ],
-        "dm_control-0.0.312466143-py3-none-any.whl": [
-          "1ca64beab5c4160e64d076539582356681be52b792b9dea49de675188109ef9a",
-          "py3"
-        ]
-      }
-    },
-    "0.0.318037100": {
-      "sdist": [
-        "ab8a0ae36cfe2a62e0c53c4520f42242082f12f0d0f200ec0eeb4b59f69a922f",
-        "dm_control-0.0.318037100.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.318037100-py2-none-any.whl": [
-          "12d79385d81f9196d6004cd922f1882bc2e069563cb1eb9cf8e8d5d917339118",
-          "py2"
-        ],
-        "dm_control-0.0.318037100-py3-none-any.whl": [
-          "94c7bd2f0b13df93d5443add23b74ae6fd6f7cd28cf7310a911985a8c1456bd8",
-          "py3"
-        ]
-      }
-    },
-    "0.0.318066097": {
-      "sdist": [
-        "7ea446add762d1f8f4913056949575f7d0f4dabf3412e5836811517eeb699b0c",
-        "dm_control-0.0.318066097.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.318066097-py2-none-any.whl": [
-          "5fdf0a7fa5f91c3b7498848c24c23a79326624ecaed4fd48736c9a14e595bdf2",
-          "py2"
-        ],
-        "dm_control-0.0.318066097-py3-none-any.whl": [
-          "896636811d92dad86c459f47c7813853efb0a6cf968a67e2d3e64b772b3668d8",
-          "py3"
-        ]
-      }
-    },
-    "0.0.319497192": {
-      "sdist": [
-        "59e9d3e963a7cfef05d0a7da5b10c45653e044e66425566a6b0a52631c822758",
-        "dm_control-0.0.319497192.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.319497192-py2-none-any.whl": [
-          "a6a04e99141115304990aeb3d960b17830f3fb86f4fb5617cee6cb1e24f03d0a",
-          "py2"
-        ],
-        "dm_control-0.0.319497192-py3-none-any.whl": [
-          "71fe065a5fa4b7081772a0501b28d21aafabc59e9264991e5d066374d974ad71",
-          "py3"
-        ]
-      }
-    },
-    "0.0.322773188": {
-      "sdist": [
-        "28b12d1c412676460bc57b4f1354805dd8d0c0770d4024ded11d21cede44bf07",
-        "dm_control-0.0.322773188.tar.gz"
-      ],
-      "wheels": {
-        "dm_control-0.0.322773188-py3-none-any.whl": [
-          "28d4e6163d05b0d4dec3e745b4bb739c95e1dbca9871886d58c1216a96f5d60a",
-          "py3"
-        ]
-      }
     }
   },
   "docker-autotag": {
@@ -39513,6 +39347,18 @@
         "20aa23f65a58d31f69a18cd83b0193742a2cc636ffa89d67ca7a412b57ed9985",
         "pi74HC595-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "b66cbc40306be614fd6196616bb2d58332071002c7fd34b2ccd82f0ebce3588c",
+        "pi74HC595-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pi74HC595-1.1.0-py3-none-any.whl": [
+          "4ba9d985e6974a616141d460e0ad643399e596ab0efec5c01f1291f80d642dd4",
+          "py3"
+        ]
+      }
     }
   },
   "pickle-blosc": {
@@ -52632,6 +52478,18 @@
         ]
       }
     },
+    "14.2.0": {
+      "sdist": [
+        "a69469a0c1dacaaa686d05c8267b6fa96b80a2825d47dbef3d2ae892af99afcd",
+        "spectra_lexer-14.2.0.tar.gz"
+      ],
+      "wheels": {
+        "spectra_lexer-14.2.0-py3-none-any.whl": [
+          "c02fabbc831f607e20e99f784eb48796ae075c79c4c5072406117b4c6dcceec4",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "143ded8aac402419b705c2b7469320133777962044c6672c9157a7774abb5d9b",
@@ -56432,6 +56290,18 @@
       "wheels": {
         "tbp_nightly-2.4.0a20200723-py3-none-any.whl": [
           "189dc911ab1fd59539c084fb78f972650598edc5ea67eb7393cd3b73ae95ce9b",
+          "py3"
+        ]
+      }
+    },
+    "2.4.0a20200724": {
+      "sdist": [
+        "d0cbeef56ef89c044be64b747b8ca6a367b8bb3d472f05368a3229712b859b83",
+        "tbp-nightly-2.4.0a20200724.tar.gz"
+      ],
+      "wheels": {
+        "tbp_nightly-2.4.0a20200724-py3-none-any.whl": [
+          "e8eab39c8cd5f7c5363671e9a8b6b560aff9fac5cd8f40294145590419c3dc55",
           "py3"
         ]
       }
@@ -61029,6 +60899,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "yale": {
+    "0.0.1": {
+      "sdist": [
+        "1250f41af8c33338445710819e2dec6749bdeb12bc477d6aab1f16055ea1be52",
+        "yale-0.0.1.tar.gz"
+      ]
     }
   },
   "yandex-geocoder": {
