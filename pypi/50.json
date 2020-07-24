@@ -19201,6 +19201,12 @@
         "cff7d2b09c9d697967276cb9d55a204f00563af613e8f1a0ca0791259a4be8de",
         "execsql-1.76.0.tar.gz"
       ]
+    },
+    "1.76.1": {
+      "sdist": [
+        "42693e9762015a21b8457fff604c9771bbf8fdd9039d38c6a17e9fab5e2b4d2f",
+        "execsql-1.76.1.tar.gz"
+      ]
     }
   },
   "farneback3d": {
@@ -58970,6 +58976,42 @@
         ]
       }
     },
+    "0.9.15": {
+      "sdist": [
+        "54c16baa2182e7251c3cec97fe4b030bec2a2f53fc6da16096caa9b22fb204cc",
+        "scalene-0.9.15.tar.gz"
+      ],
+      "wheels": {
+        "scalene-0.9.15-py3-none-any.whl": [
+          "f636a1d47d6d77b4e5eef2492edd690c069a201af7081b485f1bde29eef02fce",
+          "py3"
+        ]
+      }
+    },
+    "0.9.16": {
+      "sdist": [
+        "c0cd958cc23f3db5c8f10bacecf645b7408d27e3d45bf52443dadea500ed57fc",
+        "scalene-0.9.16.tar.gz"
+      ],
+      "wheels": {
+        "scalene-0.9.16-py3-none-any.whl": [
+          "f3c7e5ddf7d79248386950db1524e60506e1f72a1a4516b653bab0b2ec4c4bcb",
+          "py3"
+        ]
+      }
+    },
+    "0.9.17": {
+      "sdist": [
+        "5e83b82695ba718f6a07c74a46b9153b427932c5f0e33dba223d72498881d7d0",
+        "scalene-0.9.17.tar.gz"
+      ],
+      "wheels": {
+        "scalene-0.9.17-py3-none-any.whl": [
+          "02b7a97642de58b8c2e483bd5a6753fa5d2814508b6de36b8c83bd0d8bffcee0",
+          "py3"
+        ]
+      }
+    },
     "0.9.2": {
       "sdist": [
         "2c05abbcfc2d58a36af7398b8c96cb4ba5607f2ca13480c60a20628c623634ca",
@@ -76100,6 +76142,58 @@
         ],
         "tensorflow_io_nightly-0.15.0.dev20200722165223-cp38-cp38-win_amd64.whl": [
           "ae4f23be256771a5a340844df2e92410d27b5afa239e33d86459cb8d674a0604",
+          "cp38"
+        ]
+      }
+    },
+    "0.15.0.dev20200723150010": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "e754c8ada04459fe20cbed3e3d333bbe62ea5b155cf906c330e1f30b768e8608",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "477cbeac9043a4fa0e1655a9d6429f84e770ba6c41e1c4ccb9713cbbd8958b16",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp35-cp35m-win_amd64.whl": [
+          "59cf2fcc819ee67d5cb3a710a79d9be07045e974f2d30deacc1bfab28fbf4470",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "ba43c8a3efbb371d00c5df7d720f8faca1ef8af9e929777f536a6e489b39bdcb",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "8004f98cc200dc4fb16d76486d3218d11ea3ba80b3dd63b4fa92d97a4aa1d555",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp36-cp36m-win_amd64.whl": [
+          "5a8c8d6353f6ad269fbd1f9fc8018ed974ba946d959294a1a4461c407665cf7f",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "35804f472b4bccb0535adc8565e072e4b7c97b1b97c82e648fdfcdb1cba7a1b9",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "fdea96c1d36a53f00e34bf8f0506f6eaa006ddc2d5fdbeffb51da2c2b0cbf722",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp37-cp37m-win_amd64.whl": [
+          "fa6247a640459f24311e9207ef64ea2a8b4675245a9b86cc589ca75ec92a8af5",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "03945c49c7d2b4cbe24398dff90264fd942d8459078720b95782e31b4462432b",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp38-cp38-manylinux2010_x86_64.whl": [
+          "709836b50c018afcc0df680d4cb2915538dcc2712adb5bad7ff318678223f9e5",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200723150010-cp38-cp38-win_amd64.whl": [
+          "84fd7566dc28a6a15dd956857c3b845c3939f7d3f9e018fab3d236c7e7761a16",
           "cp38"
         ]
       }

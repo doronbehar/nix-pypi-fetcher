@@ -2121,6 +2121,14 @@
       }
     }
   },
+  "ansibleawx-client": {
+    "0.1.0": {
+      "sdist": [
+        "c34bb58fa2d90e96d96c494bd34b45f61240c9c7cc8baf3e3a41aab7c95d0189",
+        "ansibleawx-client-0.1.0.tar.gz"
+      ]
+    }
+  },
   "any2": {
     "0.1": {
       "sdist": [
@@ -5396,6 +5404,12 @@
       "sdist": [
         "a6227066a32bc946bb2fc8c062b8d9c2245daf04bc4f3bf4b4f4bc2a73af1362",
         "blabla-0.2.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "88dddee75f3d5bb02cd2de8d8413750f083352c7035dd0d30d94ea00fd591179",
+        "blabla-0.2.1.tar.gz"
       ]
     }
   },
@@ -16332,6 +16346,12 @@
         "django-pyston-2.12.1.tar.gz"
       ]
     },
+    "2.12.2": {
+      "sdist": [
+        "09ab04e378d33197780fb0e284c37c62f4c6bc9b040ba86e2720421fef01feb7",
+        "django-pyston-2.12.2.tar.gz"
+      ]
+    },
     "2.8.0": {
       "sdist": [
         "34c29934a429c8cf57e8bdac7996fb0c75b0db1c4b4d91946557b425ab2a5f58",
@@ -27022,6 +27042,12 @@
         "grpcio-health-checking-1.30.0rc1.tar.gz"
       ]
     },
+    "1.31.0rc1": {
+      "sdist": [
+        "6f0e7b9cf642ddb2f8198250089607b853a05be5ee7f1aa6f5567d7d38a8de8d",
+        "grpcio-health-checking-1.31.0rc1.tar.gz"
+      ]
+    },
     "1.4.0": {
       "sdist": [
         "e677d1f1d31a5ee3937533efb01e1523d6adf1fad92468876fad1a1ab270dfe6",
@@ -32522,6 +32548,54 @@
       "wheels": {
         "magicapi-0.1.43-py3-none-any.whl": [
           "d3959988442e286a84711c050d23149874e90a357727a24d14c1143feffcc969",
+          "py3"
+        ]
+      }
+    },
+    "0.1.44": {
+      "sdist": [
+        "3b55ac270d7cdfbe334cedaa259fc3c56fb96663cdf29f02e9cbdd9639467869",
+        "magicapi-0.1.44.tar.gz"
+      ],
+      "wheels": {
+        "magicapi-0.1.44-py3-none-any.whl": [
+          "97563e951ab13078418ff647418f85999230dea0f8a8f1baa4c1496c999dca6f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.45": {
+      "sdist": [
+        "2ca5e0029a221d12237ab60ce766d6db7d6e784ace4625cd3115589b50cdcaff",
+        "magicapi-0.1.45.tar.gz"
+      ],
+      "wheels": {
+        "magicapi-0.1.45-py3-none-any.whl": [
+          "fea092d2d296201b580d657d46a7f415b17b9b7b8b932e842f237e2aa4e849db",
+          "py3"
+        ]
+      }
+    },
+    "0.1.46": {
+      "sdist": [
+        "53cfbb57a386e1d7c9062279fbdd1ab582ad3b9a0144174fbf5b2c8b0933d3a0",
+        "magicapi-0.1.46.tar.gz"
+      ],
+      "wheels": {
+        "magicapi-0.1.46-py3-none-any.whl": [
+          "c7092e889b90edd298aec9ab679cfa5c46c4a883f4035fad415fa1629085669b",
+          "py3"
+        ]
+      }
+    },
+    "0.1.47": {
+      "sdist": [
+        "ba087e072e6ab1269846e47eba474be3167f5f7a136eb40edfbd158e745c4d19",
+        "magicapi-0.1.47.tar.gz"
+      ],
+      "wheels": {
+        "magicapi-0.1.47-py3-none-any.whl": [
+          "c03ec9cb2f2e44e73b8ced6edc9c1a227ab4e3e6baa995e6d89e098e87d32a74",
           "py3"
         ]
       }
@@ -46519,6 +46593,42 @@
         "pytest_sorter-0.1.8-py3-none-any.whl": [
           "f0a14c4923000346b647c872b3221c11670021b699f6a26217b4d4a912bd321e",
           "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "45e29f58ed7f3f9325921d307e259a18e8da2ccc5803defbbedf62b9f1aafd61",
+        "pytest-sorter-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sorter-0.2.0-py3-none-any.whl": [
+          "4c44a9da6615a9b4039755263a942fb433d0805bbdc8d261ac1f2dd0ae77326b",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "a9992a147b86b1f34860714dc12a2c0ce70225ed968351a64839819fa029cbd5",
+        "pytest-sorter-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sorter-0.2.1-py3-none-any.whl": [
+          "e5f4b8118e77b1c01224d2963020f9cab4a155c3d4d875cfeae1dfdcf594a1e1",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "c8394a90afd12d1e241e2768248e9d6923fe76c20b62eebabe314b5b4e8c8050",
+        "pytest-sorter-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sorter-0.2.2-py2.py3-none-any.whl": [
+          "fdaa5c9c0d33d0d5aca46531f1bbe2c126c0ed34d08226954e6bf1a44a3801de",
+          "py2.py3"
         ]
       }
     }

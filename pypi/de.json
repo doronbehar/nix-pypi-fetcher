@@ -1109,6 +1109,16 @@
       }
     }
   },
+  "angular-upload-s3cf": {
+    "1.0.0": {
+      "wheels": {
+        "angular_upload_s3cf-1.0.0-py2-none-any.whl": [
+          "ab84712f21469c198009c0bce4421abb27c9e9dab4927c1d8819ea55255df49f",
+          "py2"
+        ]
+      }
+    }
+  },
   "anna-client": {
     "1.0.2": {
       "sdist": [
@@ -10616,6 +10626,18 @@
       "wheels": {
         "crosspm2-2.0.1.dev18-py3-none-any.whl": [
           "be2284320f4019a964049137367711cee86588862a36da3cdf75ee6eb2983ca1",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1.dev21": {
+      "sdist": [
+        "e023a4db36db40202ea9650930c30d86cd234aa3872a26dc90558d6f6f510989",
+        "crosspm2-2.0.1.dev21.tar.gz"
+      ],
+      "wheels": {
+        "crosspm2-2.0.1.dev21-py3-none-any.whl": [
+          "1ff4546f82a2d9c1f6df93b47b846d32678319f076eed25aa21afffb751f8f6e",
           "py3"
         ]
       }
@@ -27056,6 +27078,12 @@
         "indibase-0.134.tar.gz"
       ]
     },
+    "0.135": {
+      "sdist": [
+        "69b366f9c6ae663101bb2c9a0168fddb009dbce6412db79101a869f7436cc6bf",
+        "indibase-0.135.tar.gz"
+      ]
+    },
     "0.2": {
       "sdist": [
         "03ce1a6bf27092cbea88b81ad0b4d78cffb7c4d66f650b11a2028fe249646cef",
@@ -38566,6 +38594,18 @@
         ]
       }
     },
+    "1.14.27.0": {
+      "sdist": [
+        "a5d6807157fe31a9ec3cb04ec2d75b3b13f73b24b9b0dfb2d774a29f53042367",
+        "mypy-boto3-rekognition-1.14.27.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.27.0-py3-none-any.whl": [
+          "eb5470e700423ca712eab3fbb81712d43a8dbcd982483e942e56488df0fe76de",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "e38484345f44ea5ff55a0506123e719b6e94d37580a79a02c083a453268fdcd6",
@@ -40096,6 +40136,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.26.0-py3-none-any.whl": [
           "56e1693f0c373aed2c36bc5029cadc85db5af3df5c59600b937cb36cc4aa511e",
+          "py3"
+        ]
+      }
+    },
+    "1.14.27.0": {
+      "sdist": [
+        "191863672fe05b82401f07f153389eb6dbf1d3b93aeaf5dd7e326d5f19c9fb41",
+        "mypy-boto3-route53resolver-1.14.27.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.27.0-py3-none-any.whl": [
+          "9a7ddd43b2a9e52ac3059ae4bf2f46596fddffcf16dc0bbf90ebbf96c95c1dd9",
           "py3"
         ]
       }
@@ -66187,6 +66239,14 @@
       ]
     }
   },
+  "tak-distributions": {
+    "0.2": {
+      "sdist": [
+        "5b3cd4427300c587e6ce7eb73c85110c4a294bf25957bd55cc46cd94a42fce7d",
+        "tak_distributions-0.2.tar.gz"
+      ]
+    }
+  },
   "task2dot": {
     "0.0.1": {
       "sdist": [
@@ -70244,12 +70304,24 @@
           "7cc9fcb4aedef56181617c9f611854da40a8697451d96656c0ac11f709c322f9",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200723-cp35-cp35m-win_amd64.whl": [
+          "dd75700b7f1ee1ad4f19066903460781fdf381845be9770593cd0a782509ccab",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200723-cp36-cp36m-manylinux2010_x86_64.whl": [
           "aa18488f2e6e8a06ce3f7898b1e604fcc410a285e3682239cde3deded5fe3ff6",
           "cp36"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200723-cp36-cp36m-win_amd64.whl": [
+          "e6c7892bbc79f3bb9fff8588d400c26184089c027966eb7015bdd3b09742503b",
+          "cp36"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200723-cp37-cp37m-manylinux2010_x86_64.whl": [
           "3beea695a87025bbdf6512798b2932efae9f231905e6112b0f9d9b16e2428768",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200723-cp37-cp37m-win_amd64.whl": [
+          "1c031c0c310f9f79726a66aeeb9bc5ed04b4637f70282b5bed7fd6e89155c9b3",
           "cp37"
         ],
         "tf_nightly_gpu-2.4.0.dev20200723-cp38-cp38-manylinux2010_x86_64.whl": [
@@ -70660,6 +70732,14 @@
       "sdist": [
         "9e8b3636d3bd583928880f42d3179d9fe69773acb2c9388a3e49736e0d422ff3",
         "torquery-0.3.1.tar.gz"
+      ]
+    }
+  },
+  "tough": {
+    "0.0.0.20200724": {
+      "sdist": [
+        "0f190b513fb5d9ac00a80fd971d277e870bb8e5e3b1a6c7b51a6658c26c8e29c",
+        "tough-0.0.0.20200724.tar.gz"
       ]
     }
   },
