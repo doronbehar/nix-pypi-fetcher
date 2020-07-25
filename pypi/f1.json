@@ -22237,6 +22237,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "736b830f1ff7a8c8c9e8dc5345ed3ecb5549b3bd2ca6ec40b466daad97f9540a",
+        "google-datacatalog-redshift-connector-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "google_datacatalog_redshift_connector-0.6.0-py2.py3-none-any.whl": [
+          "2d1d99a7e77dd04ba5f79bdf250930c33ad5cc5a9b0c660a6e777b7bed971c1b",
+          "py2.py3"
+        ]
+      }
     }
   },
   "googlehunter": {
@@ -25664,6 +25676,18 @@
       "wheels": {
         "infinstor-0.4.3-py3-none-any.whl": [
           "8cc6d6895fbb9156427af07614feba07b28797aff327c798382dde2b5d65c94c",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "07ca57287cc7edc284f9821dd15781f643a737a54d5d8fa4b8a1f332c3e64eba",
+        "infinstor-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "infinstor-0.4.4-py3-none-any.whl": [
+          "7aeaf821e2a9c123803971d8f5f6b5753e7af1b993ca56c654d1b7e0f2c5c4fc",
           "py3"
         ]
       }
@@ -31982,6 +32006,22 @@
       "wheels": {
         "net_speed_monitor-0.5.0-py3-none-any.whl": [
           "c310450dd03fc15eae3892e97e2e8ad4d6fbfe2528e505131e48ffefcdf856e9",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "wheels": {
+        "net_speed_monitor-0.6.0-py3-none-any.whl": [
+          "9469dcd020b478ef887789662bba7daa53af9279ecdcf6c39a21a7131e9d548e",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "wheels": {
+        "net_speed_monitor-0.6.1-py3-none-any.whl": [
+          "0b14e82082932b21d672f14ae769236b778fec39d5f7728c4b3ccbb6ee73926d",
           "py3"
         ]
       }
@@ -40536,76 +40576,6 @@
       "wheels": {
         "pubupd-1.0.4-py3-none-any.whl": [
           "9dcc1d7c69fcd1ac07ca64fbfd1fa3990083360f8fc2314b438158b7f74820da",
-          "py3"
-        ]
-      }
-    }
-  },
-  "pushy-git": {
-    "0.1": {
-      "wheels": {
-        "pushy_git-0.1-py3-none-any.whl": [
-          "99c077a65f089a291fc11e4189868901ab98bf6e17357dfd4964b4e1fd776896",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "wheels": {
-        "pushy_git-0.2-py3-none-any.whl": [
-          "7df3169124f9deb291a219d99efcf28316baba76e7ce7ac1d40dbfaa7add4793",
-          "py3"
-        ]
-      }
-    },
-    "0.3": {
-      "wheels": {
-        "pushy_git-0.3-py3-none-any.whl": [
-          "b278d8e52b52fd29ec67834c2baf07c92d5aee81dda38005a85adca5e739cd05",
-          "py3"
-        ]
-      }
-    },
-    "0.4": {
-      "wheels": {
-        "pushy_git-0.4-py3-none-any.whl": [
-          "628b9bb6bb98d1d0d434580befc27fe5466aee01af60aa352219640e26688e7b",
-          "py3"
-        ]
-      }
-    },
-    "0.5": {
-      "sdist": [
-        "202e133f6376c55c2a0b227cb115f2c734c901ef1aa178759690a3d803c2be65",
-        "pushy-git-0.5.tar.gz"
-      ],
-      "wheels": {
-        "pushy_git-0.5-py3-none-any.whl": [
-          "4765e9072cc28120159927e2119486e8e223cc7a90f2c9f845f26b73bcb5eb67",
-          "py3"
-        ]
-      }
-    },
-    "0.6": {
-      "sdist": [
-        "f8f9e1e07b7995c2eb013c2db82b1d8f9c707efcb8102e756e5e477e855c6032",
-        "pushy-git-0.6.tar.gz"
-      ],
-      "wheels": {
-        "pushy_git-0.6-py3-none-any.whl": [
-          "2a773ba74f0c72069e00533fca9ae94757269d7bcc6500fc536bfeb0c2841d1a",
-          "py3"
-        ]
-      }
-    },
-    "0.6.1": {
-      "sdist": [
-        "bd09a69ffdd015db5239a44706fd9ad2239b894f9749aff0d2cca0fac78b8dd3",
-        "pushy-git-0.6.1.tar.gz"
-      ],
-      "wheels": {
-        "pushy_git-0.6.1-py3-none-any.whl": [
-          "b7c0e396272df2c7c786211733673d66cc287364692953f72af67f16c6ccb401",
           "py3"
         ]
       }
@@ -56314,14 +56284,6 @@
       "sdist": [
         "b2268d4ef0803e9adcefc3ea016cc73a89c215ab89592d5348e47f11ccb27801",
         "vis_net-0.0.1.tar.gz"
-      ]
-    }
-  },
-  "vkbottle-core": {
-    "1.0": {
-      "sdist": [
-        "c593dcb4bb35050bddf4ecc58b8c10b08a9cb166809c0cc5e200101faaf9e076",
-        "vkbottle-core-1.0.tar.gz"
       ]
     }
   },

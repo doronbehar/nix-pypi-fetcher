@@ -4838,6 +4838,18 @@
         ]
       }
     },
+    "0.4.15": {
+      "sdist": [
+        "5995805b35733d347c855e66e53e69dee4c7d11094bb69b705d40f1cc8822365",
+        "bookiesports-0.4.15.tar.gz"
+      ],
+      "wheels": {
+        "bookiesports-0.4.15-py3-none-any.whl": [
+          "fca98af8454ade5bdfbf51b35115b233d446310c4b979703b47d6c703f7ef954",
+          "3.8"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "ccba4737398b0667cc708669d6823e6a048c4b4760bfc3fb3559f2b635931781",
@@ -34898,8 +34910,24 @@
         "libolecf-python-20200724.tar.gz"
       ],
       "wheels": {
+        "libolecf_python-20200724-cp27-cp27m-win32.whl": [
+          "93850ec09aac4b03deee0635311ed43300999ca6a889de899cde5891fa37e38a",
+          "cp27"
+        ],
+        "libolecf_python-20200724-cp27-cp27m-win_amd64.whl": [
+          "eb6f99bc4b7d2af6b2868c3b2ee9c6a70ae15c6aa2f7eff74f8d9066a7e48ae9",
+          "cp27"
+        ],
         "libolecf_python-20200724-cp38-cp38-macosx_10_14_x86_64.whl": [
           "83e1664f3395fba990e45c8498ca2201fa26f15135e9838a306da813ebd9931f",
+          "cp38"
+        ],
+        "libolecf_python-20200724-cp38-cp38-win32.whl": [
+          "237caf41113ab3537e8c0ad515b1b25f330ae4d5af52de41603a96eae1b5ddf7",
+          "cp38"
+        ],
+        "libolecf_python-20200724-cp38-cp38-win_amd64.whl": [
+          "c7843e0aec598470910a5dabb7c4870893f14538ba0aef0c4409c1d727ffcfde",
           "cp38"
         ]
       }
@@ -41908,6 +41936,18 @@
       "wheels": {
         "mypy_boto3_lakeformation-1.14.27.0-py3-none-any.whl": [
           "5b3078d58e07a4384643d7bd79f526ca700b52b7b4a9fab6c2c9c9b59fcbca0a",
+          "py3"
+        ]
+      }
+    },
+    "1.14.28.0": {
+      "sdist": [
+        "bf45fb3c0fdaeadd1ea205e78e6b7685af3a9dc9e8df1c5210bc49d48ead51f0",
+        "mypy-boto3-lakeformation-1.14.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lakeformation-1.14.28.0-py3-none-any.whl": [
+          "421cad46fb6eb588e0c6d0ac701d987d97655ee0cd6d6a4b0220697d3553bdc3",
           "py3"
         ]
       }
@@ -65412,6 +65452,14 @@
       "wheels": {
         "stix_shifter_modules_splunk-3.1.0-py2.py3-none-any.whl": [
           "b39c865ddcb731317f8bb7d813ebd08a17082ee89b48300f6091d69c909e6dbf",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "wheels": {
+        "stix_shifter_modules_splunk-3.1.1-py2.py3-none-any.whl": [
+          "e9b332e9dbcf06e48fc8f060a5fe9d1b7524442bf148fdcf1d29b331168cd655",
           "py2.py3"
         ]
       }

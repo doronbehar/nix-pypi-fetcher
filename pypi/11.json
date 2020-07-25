@@ -8360,6 +8360,14 @@
         ]
       }
     },
+    "1.10.0.post1": {
+      "wheels": {
+        "azureml_mlflow-1.10.0.post1-py3-none-any.whl": [
+          "4fa8801897e7175114159992cdd711bbafc2840b2fc7ce386812ebf6aae53164",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_mlflow-1.2.0-py3-none-any.whl": [
@@ -12706,6 +12714,18 @@
       "wheels": {
         "cdk_spa_deploy-1.52.0-py3-none-any.whl": [
           "7615dc80a270aebc88c18315cc8def312cd0e1c2445826ff9f50a5effc76db1c",
+          "py3"
+        ]
+      }
+    },
+    "1.54.0": {
+      "sdist": [
+        "f9b93b265299b79f256d986bf8479f36060ee28cd6e7fb0c274fa04e5c170e30",
+        "cdk-spa-deploy-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_spa_deploy-1.54.0-py3-none-any.whl": [
+          "d15405002dbc626242466db76ab68c731a080d1d92e44ac64577c104dc50ce26",
           "py3"
         ]
       }
@@ -39186,6 +39206,34 @@
         ]
       }
     },
+    "1.32": {
+      "sdist": [
+        "76800b70ad02b92f9493a801098f045dbb797edf3f2ce6eeff3cbf13e97177b8",
+        "miniaudio-1.32.tar.gz"
+      ],
+      "wheels": {
+        "miniaudio-1.32-cp37-cp37m-linux_armv7l.whl": [
+          "82e21f7766c11a225e14a9b91de0d2ab7ad7214cb8d54b47f61d6ca9f8a57298",
+          "cp37"
+        ],
+        "miniaudio-1.32-cp37-cp37m-win32.whl": [
+          "3597d8352d6f067e1c3d6e0bb55694ddb8aac16dc44d19379e68e12a70e30357",
+          "cp37"
+        ],
+        "miniaudio-1.32-cp37-cp37m-win_amd64.whl": [
+          "46fab9064d53c54d0b049eb50d3fbc9df1064c7e1661c325da805c901067d1ec",
+          "cp37"
+        ],
+        "miniaudio-1.32-cp38-cp38-win32.whl": [
+          "84c74fa950d2663e5c650ee06a582c76288f86155267edd1614d16a058015cd5",
+          "cp38"
+        ],
+        "miniaudio-1.32-cp38-cp38-win_amd64.whl": [
+          "d07964abd9257af2729fa76d1346fb7baf6c2262753b83b226b4289a3c83e3f7",
+          "cp38"
+        ]
+      }
+    },
     "1.4": {
       "sdist": [
         "6f581f20073bce77d8512d47eec3bbcda931c58351d76faa680cae2f61abf640",
@@ -40308,6 +40356,86 @@
         ],
         "minorminer-0.1.9-cp38-cp38-manylinux1_x86_64.whl": [
           "e7ac7fff57c6e0d36e77218aa66adb89037d2d62e96d71f11332675b4dec8adb",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "208f8211c2f5d22f75effa026120ae39456a4446e93f413d2f95dbe30ac05fe1",
+        "minorminer-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "minorminer-0.2.0-cp35-cp35m-macosx_10_15_x86_64.whl": [
+          "984bceddbce9c7f32f01fb7721847cf834c7ac5118da37d8e0ece8d7394e8e58",
+          "cp35"
+        ],
+        "minorminer-0.2.0-cp35-cp35m-manylinux1_i686.whl": [
+          "1ec43b0399ff418d9d96685a02131a613d438e36416fb277c68084115eb6e3e2",
+          "cp35"
+        ],
+        "minorminer-0.2.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c57a55c722ea6cf1cc5bde9810f9d63f57e475a710107d7206542347a3a6f43a",
+          "cp35"
+        ],
+        "minorminer-0.2.0-cp35-cp35m-win32.whl": [
+          "49bd49898f1a01a4d63db163649dddf38c4efeb64845d35be1685ffea68968fb",
+          "cp35"
+        ],
+        "minorminer-0.2.0-cp35-cp35m-win_amd64.whl": [
+          "2425e08c465a6d97bff6635b12b0a09704f91049a93d047838b2e7f734733322",
+          "cp35"
+        ],
+        "minorminer-0.2.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "1ab93f565ddd87a4ce7040e2a9d68ba161dcc658d04a0d26d4e84a8d520a107c",
+          "cp36"
+        ],
+        "minorminer-0.2.0-cp36-cp36m-manylinux1_i686.whl": [
+          "f8077e946a1e54d4fff011a981d7838e8bb34895e4f9953a68cf40e4f3287aca",
+          "cp36"
+        ],
+        "minorminer-0.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5365dcefa85741eb8d7434c7bc08d5d90b1f7a36494b87b881faf35e74c6cc1c",
+          "cp36"
+        ],
+        "minorminer-0.2.0-cp36-cp36m-win32.whl": [
+          "aa152e4364d23358758c7acab810a00ccdbf80d358c378b2dedb07d00dbf712b",
+          "cp36"
+        ],
+        "minorminer-0.2.0-cp36-cp36m-win_amd64.whl": [
+          "ea684e4bbc79c72faf9f8ccdf54501f2e53baeb7eda832c028e8df3c40c9f7a9",
+          "cp36"
+        ],
+        "minorminer-0.2.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "1e7a34948f47c4d954c93a5c9f4123d5de145e0d6dbca9d08529d7b13fc3148a",
+          "cp37"
+        ],
+        "minorminer-0.2.0-cp37-cp37m-manylinux1_i686.whl": [
+          "69cdc49585e08624c50b45e14c522b892d6cd738d72d23f4ea586ec13a59d066",
+          "cp37"
+        ],
+        "minorminer-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5f4ab5ad5123eaf70d09e2039055a4303ac9f4aa777056869d81b4aa3c0fb533",
+          "cp37"
+        ],
+        "minorminer-0.2.0-cp37-cp37m-win32.whl": [
+          "cf97cfcd7ec6ff0998aa1bf4b4ce581f539a93e6c721b45817d4006906e150a6",
+          "cp37"
+        ],
+        "minorminer-0.2.0-cp37-cp37m-win_amd64.whl": [
+          "b6bfe65b12228ca0c23dbaae13d6f3ab0cf5a9ebef720d14600b66545e04eabb",
+          "cp37"
+        ],
+        "minorminer-0.2.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "246648c7b0b6efcebc53df0bb5f1c7b9f7cd71fbe99e7b5fba14e0096ff5fe0d",
+          "cp38"
+        ],
+        "minorminer-0.2.0-cp38-cp38-manylinux1_i686.whl": [
+          "c6db42addf9fd9bcc22f5e6d3af0bcf4a3e7a9a705de76773ca50cb1989194a3",
+          "cp38"
+        ],
+        "minorminer-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "fa5659782d341fd541cb44992f2f4769f070731463164cd70b5bcde61c7a4167",
           "cp38"
         ]
       }
@@ -42846,6 +42974,18 @@
       "wheels": {
         "mypy_boto3_iotevents_data-1.14.27.0-py3-none-any.whl": [
           "0e4f4eb4286aedea97929c70e7ba8b7da70777bcc5fdd914256f0f34ffc7e8e1",
+          "py3"
+        ]
+      }
+    },
+    "1.14.28.0": {
+      "sdist": [
+        "b553f100f84fcd0f2e2930f7f249e61e0da530087d56c5b6ba3a4a73973584ca",
+        "mypy-boto3-iotevents-data-1.14.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotevents_data-1.14.28.0-py3-none-any.whl": [
+          "8488b8776379b371cfb9ecbf654e8d94b39dbf65bd70233f67326744651268cb",
           "py3"
         ]
       }
@@ -56275,6 +56415,18 @@
         "af00696c336d6f6b77ea34784922bacbdefd85f1a9941dd35b1824723ac29f6a",
         "robot_motor_fake-0.0.1.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "1ecef9e3dc8886e11cadb9b6a01cd12f8c46a18081f9b641a69baf5feef4eb4c",
+        "robot_motor_fake-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "90e4e655b2462da8ab36d8e6216a6bc3538453d11637d32780fc2ccb1ae59169",
+        "robot_motor_fake-0.0.3.tar.gz"
+      ]
     }
   },
   "robotframework-stublibrary": {
@@ -58352,6 +58504,24 @@
       "sdist": [
         "92990f3d0041024b351e48549500e04753cfedf70e865503e717b0f340482458",
         "simlib-0.0.63.tar.gz"
+      ]
+    },
+    "0.0.64": {
+      "sdist": [
+        "f50b48a108bfaefa2e8afa16e7f5676529f3828a88ff6c197393c47ebfd8466e",
+        "simlib-0.0.64.tar.gz"
+      ]
+    },
+    "0.0.65": {
+      "sdist": [
+        "3ca37755999848c8c9d68a3b5936a54c2106dfc1b1d4c33f14c7602311e82e7f",
+        "simlib-0.0.65.tar.gz"
+      ]
+    },
+    "0.0.66": {
+      "sdist": [
+        "cf89f1ccc0bfc737b0e040af1d1a04661ac5ad6c0957f415aba7a4c65de02005",
+        "simlib-0.0.66.tar.gz"
       ]
     },
     "0.0.7": {
@@ -60576,6 +60746,14 @@
       "wheels": {
         "stix_shifter_modules_azure_sentinel-3.1.0-py2.py3-none-any.whl": [
           "c05f26e72b1d82971f1e8280a6b067e443b4bc294c31a74117785ad2f9ceac02",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "wheels": {
+        "stix_shifter_modules_azure_sentinel-3.1.1-py2.py3-none-any.whl": [
+          "a95fb98a05ea0f19d98c7110f7dd1eb679a3c77a7f1eac5d8a575bb0a6685133",
           "py2.py3"
         ]
       }

@@ -5504,6 +5504,12 @@
         "cidc_schemas-0.18.2.tar.gz"
       ]
     },
+    "0.18.3": {
+      "sdist": [
+        "a826cb70026c3e210a004a2436ec4a651b1283e4c8bbbfa20160af469a863201",
+        "cidc_schemas-0.18.3.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "fd6abe1cd6ef997065098d5d5608dfa1f4e334008ef9f5da2e27aede43952997",
@@ -9135,6 +9141,18 @@
         "0307b1f7386394a4fc27d28c7ba9e6d30eaafb8768d8119f494e6d7ece94d1bc",
         "cs.context-20200517.tar.gz"
       ]
+    },
+    "20200725": {
+      "sdist": [
+        "573679735105b92bbec21ecc72265f0d026cb305157a23915f49c60a3cc50194",
+        "cs.context-20200725.tar.gz"
+      ]
+    },
+    "20200725.1": {
+      "sdist": [
+        "ccb176f5d0c0c8f6916b5e988ff98ddd9c3ccc47472a59a83461ddf710f4b51b",
+        "cs.context-20200725.1.tar.gz"
+      ]
     }
   },
   "cs.id3": {
@@ -9308,6 +9326,18 @@
       "wheels": {
         "dadata-0.3.0-py3-none-any.whl": [
           "ab3a4a29e7a9069b1c0e0df1fc72e2bd4eda386d9447a0f5428571e69f4d06ba",
+          "py3"
+        ]
+      }
+    },
+    "20.7.0": {
+      "sdist": [
+        "b274cb40fc7f79f42b27c214306faa199a7815d736c3814d6152129e39b54755",
+        "dadata-20.7.0.tar.gz"
+      ],
+      "wheels": {
+        "dadata-20.7.0-py3-none-any.whl": [
+          "917b99c87fc55bcb1a32242287fa5c22e63eddf82c71d28b5473d562f96769fc",
           "py3"
         ]
       }
@@ -29097,14 +29127,6 @@
       ]
     }
   },
-  "imdata-collector": {
-    "0.1": {
-      "sdist": [
-        "9c5bdeb99927121da8c37084497eeade4998cd48c12ae6928e787684618deea5",
-        "imdata_collector-0.1.tar.gz"
-      ]
-    }
-  },
   "infi.django-postgresql-migrations": {
     "0.1": {
       "sdist": [
@@ -35821,32 +35843,6 @@
       }
     }
   },
-  "modelmock": {
-    "0.1.0": {
-      "sdist": [
-        "7827d6916695ae65793a9344a86458556b418afd6b5ff26eed969a52919bb720",
-        "modelmock-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "modelmock-0.1.0-py3-none-any.whl": [
-          "d4d85245b99b62d867e13efa9a3086be605364063117ed4494906a721b07e00b",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "06c0ff55296d16b8fcf2a4518b6c9562f2bfecb073dfef75cade965274fce67b",
-        "modelmock-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "modelmock-0.1.1-py3-none-any.whl": [
-          "cd6b71c9fd32fd1408c50429ed47092e4e3391f870c5409b65157c346f6cd7b6",
-          "py3"
-        ]
-      }
-    }
-  },
   "moksha.wsgi": {
     "1.0.0": {
       "sdist": [
@@ -38228,6 +38224,18 @@
       "wheels": {
         "mypy_boto3_codestar-1.14.27.0-py3-none-any.whl": [
           "b43c09fd2bb8d2a126ad0e492764ca89d2a74bd0efe22501b5e179ef0a082456",
+          "py3"
+        ]
+      }
+    },
+    "1.14.28.0": {
+      "sdist": [
+        "fb7d652b387b3e47c4e46a81ff21b107e77d6e5c849c12c92053995416be6ff3",
+        "mypy-boto3-codestar-1.14.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codestar-1.14.28.0-py3-none-any.whl": [
+          "c1cd3adcce3af6090eef2a459a9917fa3bd0291ab8f86750407021c5ba512712",
           "py3"
         ]
       }
@@ -46434,20 +46442,6 @@
       "wheels": {
         "pycle-1.0-py3-none-any.whl": [
           "310246fa105803f950e2ee5ce862c4b3ff8b453691bbfef76c226e253483025c",
-          "py3"
-        ]
-      }
-    }
-  },
-  "pycolorpicker": {
-    "1.0": {
-      "sdist": [
-        "7650656c6c683600e3d5e835cbc206438f6cb84cf3c0b9925e0269632572a4e4",
-        "pycolorpicker-1.0.tar.gz"
-      ],
-      "wheels": {
-        "pycolorpicker-1.0-py3-none-any.whl": [
-          "22624b7740ba217c4c6a67118a565be381906241150afd1a64263ae8e818e6a5",
           "py3"
         ]
       }
@@ -60016,6 +60010,18 @@
       "wheels": {
         "spyder_kernels-1.9.2-py2.py3-none-any.whl": [
           "e2a6e12748268b6c0ab9d09f15ca7e0ae4b49da5078a27c0d9b1750a3a55ee01",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.9.3": {
+      "sdist": [
+        "877109d0691376f8ffb380ec1daf9b867958231065660277dbc5ccf0b4bf87d0",
+        "spyder-kernels-1.9.3.tar.gz"
+      ],
+      "wheels": {
+        "spyder_kernels-1.9.3-py2.py3-none-any.whl": [
+          "d5b6b9c1f8408cbe5037909abcd878be93dccac62999401b44d4c82c5649a7ee",
           "py2.py3"
         ]
       }

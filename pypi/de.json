@@ -831,6 +831,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.2": {
+      "sdist": [
+        "c5e94c81f1445e96871f2ba99d6e12375c3d1bc0490d3f1a4c8102af398cc940",
+        "aiosolr-2.3.2.tar.gz"
+      ],
+      "wheels": {
+        "aiosolr-2.3.2-py3-none-any.whl": [
+          "9b8b49c29a22c348afc8dfc62144530c3711bddab3c13016b10d52c8af43a85c",
+          "py3"
+        ]
+      }
     }
   },
   "algonautsutils": {
@@ -8640,6 +8652,18 @@
       "wheels": {
         "c2cgeoform-2.1.18.dev20200717-py2.py3-none-any.whl": [
           "6553464f06e75b48a05ba7f8f3d45d7e3504d91dd57b7d902575f2962c4a16a5",
+          "3.5"
+        ]
+      }
+    },
+    "2.1.19.dev20200724": {
+      "sdist": [
+        "a2e90b9d7f94b04c14cc78d676f2f08f2bf4fe4c4aa0417a6e0b2c2a2b5dc8c5",
+        "c2cgeoform-2.1.19.dev20200724.tar.gz"
+      ],
+      "wheels": {
+        "c2cgeoform-2.1.19.dev20200724-py2.py3-none-any.whl": [
+          "6d4fe741c5c69a63903516e5e1c22b81a6a54c7dd1435c0187f09a56e677679f",
           "3.5"
         ]
       }
@@ -24399,6 +24423,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "62dc714f046b2e6420cc1e055c2a4a6430de99ca2f190c6ccd356b7866aafc2e",
+        "google-datacatalog-vertica-connector-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "google_datacatalog_vertica_connector-0.6.0-py2.py3-none-any.whl": [
+          "f7c28265d6b1fcd44127f98ff76c9f342a1848b36732b6ac59c68dd3b706088a",
+          "py2.py3"
+        ]
+      }
     }
   },
   "googlemail": {
@@ -37111,6 +37147,20 @@
       ]
     }
   },
+  "mwinterface": {
+    "0.0.1": {
+      "sdist": [
+        "806ff8b6f5164fb6fcf3f03dd98187a133de8bc0beedbd8ff5ead082c3298533",
+        "mwinterface-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mwinterface-0.0.1-py3-none-any.whl": [
+          "d216effbf070003f01256a17e94281a1513bc259f407ccbaf5a4b76e051d4124",
+          "py3"
+        ]
+      }
+    }
+  },
   "my-awesome-pip-test-script": {
     "0.1": {
       "sdist": [
@@ -38616,6 +38666,18 @@
       "wheels": {
         "mypy_boto3_rekognition-1.14.27.0-py3-none-any.whl": [
           "eb5470e700423ca712eab3fbb81712d43a8dbcd982483e942e56488df0fe76de",
+          "py3"
+        ]
+      }
+    },
+    "1.14.28.0": {
+      "sdist": [
+        "d783c2aa2deaf8ff5c093e2e06e8323ffc25d5617d4ebb499275e7f9ce91ae08",
+        "mypy-boto3-rekognition-1.14.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.28.0-py3-none-any.whl": [
+          "edf966b49e3a1947bfc5eaaa0542d4076914e90363fd43ea4c5c6a31c201a606",
           "py3"
         ]
       }
@@ -40162,6 +40224,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.27.0-py3-none-any.whl": [
           "9a7ddd43b2a9e52ac3059ae4bf2f46596fddffcf16dc0bbf90ebbf96c95c1dd9",
+          "py3"
+        ]
+      }
+    },
+    "1.14.28.0": {
+      "sdist": [
+        "9c84716ba32509322e6a89f46c5de71c9dac307270e27011515b7f7ecb369015",
+        "mypy-boto3-route53resolver-1.14.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.28.0-py3-none-any.whl": [
+          "39db880e0cf4b9c2bdd9a4f9583d096faa77f9b04511555ea6602e7d7f1b3d51",
           "py3"
         ]
       }
@@ -45984,6 +46058,18 @@
       "wheels": {
         "os_apply_config-11.2.0-py3-none-any.whl": [
           "46ae832f4f43c48e47d43fd31e6f2870b24ff13820edbe6aaee7ef1de2aa0b3f",
+          "py3"
+        ]
+      }
+    },
+    "11.2.1": {
+      "sdist": [
+        "49d16794a8fbaaf9c5c96b082e2b32b590d30a09952d16b6fd981e2c8d7ca939",
+        "os-apply-config-11.2.1.tar.gz"
+      ],
+      "wheels": {
+        "os_apply_config-11.2.1-py3-none-any.whl": [
+          "a6e389dc7723339c64bfc565791bc05481d42090fc288042f690c5fbadbeb85b",
           "py3"
         ]
       }
@@ -70390,16 +70476,32 @@
           "851f7b8aeb7c0a4a2fb939627b07d0ae9ace1296cbe1aff56ff5bce41a8e8f46",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200724-cp35-cp35m-win_amd64.whl": [
+          "67f629eae5203c67db1c3b9125e1dd89229ba48cf1e2a98c4c3c9db60db45642",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200724-cp36-cp36m-manylinux2010_x86_64.whl": [
           "a6d404c2c49e580729a44110bf261321fefed04e809d4dd6d7e753eaaa004eb1",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200724-cp36-cp36m-win_amd64.whl": [
+          "a9e09adc92bdd8c14ab663486dcf06b3192ebd7fbd9496671679712630139065",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200724-cp37-cp37m-manylinux2010_x86_64.whl": [
           "e4265550ac3535fa307d86ec18273f7ff1bb79a520486ed30e0aaecc37248ad1",
           "cp37"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200724-cp37-cp37m-win_amd64.whl": [
+          "bc7ce9184cab9d23a91bdd9bae594517963d943f36da4dd9a2dee9fa84e3e0ce",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200724-cp38-cp38-manylinux2010_x86_64.whl": [
           "9c114f83cec169b0f6ae2a78fc1144f3de6c7003e7352f83d6d7004c5248e079",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200724-cp38-cp38-win_amd64.whl": [
+          "6b4ed522cbd652100765c89ddf875015f73b10f7eaf217a10d1cc4cb4ffae840",
           "cp38"
         ]
       }
@@ -71074,6 +71176,18 @@
       "wheels": {
         "tripleo_puppet_elements-12.3.0-py3-none-any.whl": [
           "499f636b7d00f66590242849ffc5aefff2f626c2c01f7e9948ee688385f809a5",
+          "py3"
+        ]
+      }
+    },
+    "12.3.1": {
+      "sdist": [
+        "9424cd63680c527e4515b9dc982505496b5425e2f4f7e80aaea9e186444a20b3",
+        "tripleo-puppet-elements-12.3.1.tar.gz"
+      ],
+      "wheels": {
+        "tripleo_puppet_elements-12.3.1-py3-none-any.whl": [
+          "fcc284812b513003a8cb33cb53f52584b0d456884eeb219e153b8d38a915ee62",
           "py3"
         ]
       }
@@ -72708,6 +72822,42 @@
       "wheels": {
         "uswapper-0.27-py3-none-any.whl": [
           "1ecf64b45f8b6d9a6c44a4fe8f90b0e8b5a9d9b71f365ed67466c56c3c4bbebd",
+          "py3"
+        ]
+      }
+    },
+    "0.30": {
+      "sdist": [
+        "e5f9df363bc422a89536da0d6c73adf42fd8eabd62ba08934bae8e5c3629fab8",
+        "uswapper-0.30.tar.gz"
+      ],
+      "wheels": {
+        "uswapper-0.30-py3-none-any.whl": [
+          "e19a539eda3f3f86f1053f8743950f1c375f6492c50f8c83f9ccf15345b506c9",
+          "py3"
+        ]
+      }
+    },
+    "0.31": {
+      "sdist": [
+        "bf6506b69d7e20d13f3ccd034633c9ba56000dedaa0041f0b3be627ff80e5586",
+        "uswapper-0.31.tar.gz"
+      ],
+      "wheels": {
+        "uswapper-0.31-py3-none-any.whl": [
+          "8b3b2e894092e966f43479a3b28697d049ea083f159a555951b10fab413119b2",
+          "py3"
+        ]
+      }
+    },
+    "0.35": {
+      "sdist": [
+        "c52999f2aadf7ce57d7d455c92b05d6a7e4e800262110ff2ae5bc094abc17548",
+        "uswapper-0.35.tar.gz"
+      ],
+      "wheels": {
+        "uswapper-0.35-py3-none-any.whl": [
+          "0cddef51111de6c1c16bdfce6364d6784c564414d1e5d9f0c55b28a42151fb68",
           "py3"
         ]
       }
