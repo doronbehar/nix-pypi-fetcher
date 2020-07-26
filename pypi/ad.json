@@ -16627,6 +16627,28 @@
       }
     }
   },
+  "essdistributions": {
+    "1.1": {
+      "wheels": {
+        "essdistributions-1.1-py2-none-any.whl": [
+          "7950e694c425d3bec0ebd42e3d4bba83caa9e145c99e5f55786044387ea51155",
+          "py2"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "b9c4ab20f2cad16d4a02477608fdf877e00458cf9c4b7a76373b77bdf9f391bd",
+        "essdistributions-1.2.tar.gz"
+      ],
+      "wheels": {
+        "essdistributions-1.2-py2-none-any.whl": [
+          "a0db56d708bb69e4a7ca95f10e33fd23d25aea4988f52504441f183bbc9fe9d1",
+          "py2"
+        ]
+      }
+    }
+  },
   "evpnrqdhft": {
     "1.1": {
       "sdist": [
@@ -47220,6 +47242,14 @@
           "234601a64df3c609188dc4ff106b42130fd801d9e03b41fa09579a2edb4488a5",
           "cp27"
         ],
+        "guildai-0.7.0.post1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "a869bb207a24939af7f0ee84cadc2941a8a306c39a84b5910612e3ec9097ea58",
+          "cp27"
+        ],
+        "guildai-0.7.0.post1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "d82c8b9ca0f7520831d70bf42d44a0861ff90455878c79d88bc8517f9cca900a",
+          "cp35"
+        ],
         "guildai-0.7.0.post1-cp35-cp35m-win_amd64.whl": [
           "bbbbb9b734fa8e28e6dc53a280f9ed00a0ac64b363779f3c426f0db4e678287e",
           "cp35"
@@ -47854,6 +47884,38 @@
         ],
         "guildai-0.7.0rc9-cp38-cp38-manylinux1_x86_64.whl": [
           "e62757186ab865afbf3432c07204cb12222cb6a494c441f8e4685f3ec6987429",
+          "cp38"
+        ]
+      }
+    },
+    "0.7.1.dev1": {
+      "wheels": {
+        "guildai-0.7.1.dev1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "836131673680500f404dcfc504bf6a90e99ac9a21e441f90d23b652adedb2196",
+          "cp35"
+        ],
+        "guildai-0.7.1.dev1-cp35-cp35m-win_amd64.whl": [
+          "51d98efa71109f8cf7ddba6fbe07d2c5e0e05160978469cb538c80436754c3a6",
+          "cp35"
+        ],
+        "guildai-0.7.1.dev1-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "7fb0bb07c61addccf38f111219a7aabd19ab018e8438131ba083461951dffd80",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0c12269251aab2035007d2096f61d6bd2a674333ac147791ccdd85395228e329",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev1-cp36-cp36m-win_amd64.whl": [
+          "21eace7819c310cb7f534431350b856d0e86789d1dc4b7c4006f7cd3d11afb11",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev1-cp37-cp37m-win_amd64.whl": [
+          "22284a74d91c5fb17acaf7cb2c12dd7f7f8049bf4232516ee251f06427cbbca6",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev1-cp38-cp38-manylinux1_x86_64.whl": [
+          "267fda5426c9d89e426909cbff46f7c0822f370fda95200e71403d1072f2c1bb",
           "cp38"
         ]
       }
@@ -56041,6 +56103,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.4.dev200725": {
+      "sdist": [
+        "fe0f675f585a01057656e73ec7b6ba21a248e9fee1e894502306f7b14acd8dcc",
+        "manticore-0.3.4.dev200725.tar.gz"
+      ],
+      "wheels": {
+        "manticore-0.3.4.dev200725-py3-none-any.whl": [
+          "2e7dcc1deba5905d76764f4a5a129e42ef255abf369c1ab8b332fe1f6ecb646b",
+          "py3"
+        ]
+      }
     }
   },
   "marionette-client-mozilla-b2g32-v2-0": {
@@ -57347,24 +57421,6 @@
         "milksnake-0.1.5-py2.py3-none-any.whl": [
           "550ca1fc4222724149ee5a933e6bb8347630c0ed023a2a97701ab94fa256f6b4",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "mini-pyarrow": {
-    "1.0.0": {
-      "wheels": {
-        "mini_pyarrow-1.0.0-py3-none-any.whl": [
-          "881ca49d552b1aabe01d31f9e8dc344e259e43d6efde0ccac16ed87a8e469a99",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "wheels": {
-        "mini_pyarrow-1.0.1-py3-none-any.whl": [
-          "db625c1578aa438d7325a388752cc489dcf8e7b3c4251240a2435d00f2a3966d",
-          "py3"
         ]
       }
     }
@@ -78262,6 +78318,14 @@
         ]
       }
     },
+    "0.1.12": {
+      "wheels": {
+        "strym-0.1.12-py2.py3-none-any.whl": [
+          "2d783f59fe990bba9dab0e2c52a6f31c26bff55e5068109f8ce0032ee542c5ec",
+          "py2.py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "aa15ab3eb84526d461308544a126ba7ab8c58a9c74f749e74e2d24b5fbcc386f",
@@ -86732,6 +86796,18 @@
       "wheels": {
         "wpkit2-0.0.3.6-py3-none-any.whl": [
           "fc68b9bdc3410fef5bbcbbda88050127e4895b63b7d734675523f01743ae0617",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3.7": {
+      "sdist": [
+        "b1bb66497fe2fc2ca2ba7d611c7f5e33af32623f05126f80b98908c994f453cb",
+        "wpkit2-0.0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "wpkit2-0.0.3.7-py3-none-any.whl": [
+          "7d3d5b6dad2cae3a3c320b64ade143a9b6e456f55a8b37eeef9f87593c0b81ea",
           "py3"
         ]
       }

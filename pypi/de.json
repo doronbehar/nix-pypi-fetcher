@@ -1111,16 +1111,6 @@
       }
     }
   },
-  "angular-upload-s3cf": {
-    "1.0.0": {
-      "wheels": {
-        "angular_upload_s3cf-1.0.0-py2-none-any.whl": [
-          "ab84712f21469c198009c0bce4421abb27c9e9dab4927c1d8819ea55255df49f",
-          "py2"
-        ]
-      }
-    }
-  },
   "anna-client": {
     "1.0.2": {
       "sdist": [
@@ -1347,44 +1337,6 @@
         "12f74d20c71fbec95ce12f0c42701ca067c08c3ff04425835638af2e38a482c0",
         "antispoofing.competition_icb2013-1.1.0.zip"
       ]
-    }
-  },
-  "aos-sw-api": {
-    "0.0.1": {
-      "sdist": [
-        "2987f688ffbdb6cf247cab9ad9a0f1dd8916ceaae6720fd9cee48b60033b01c3",
-        "aos-sw-api-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "AOS_SW_API-0.0.1-py3-none-any.whl": [
-          "ee753acd7c217af1b5d9cad25163129e907b48c5918fa7c9f100341a38573834",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "c526292f410fea6c6ad144f4e7614c373fcef282708838ba129a6a24c4b35162",
-        "aos-sw-api-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "AOS_SW_API-0.1.0-py3-none-any.whl": [
-          "78924f33a86b230eee8c0e5c3838c82593700a65ffb05e08b0a958a2e3af8ed0",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "1ca78d851a0f5be720eef0a207b29a300fed2b120f36307fbf8acbb7a664e374",
-        "aos-sw-api-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "AOS_SW_API-0.1.1-py3-none-any.whl": [
-          "fd235ab52a266e6354b6528f0ba355c818b15132edb627b1dd806309aa19ee16",
-          "py3"
-        ]
-      }
     }
   },
   "apamaeventparser": {
@@ -23053,6 +23005,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.26": {
+      "sdist": [
+        "5ae584712cdd67f7805248f1864db4e8c1b6f9d4d4028d88d2b9fecf28b7f93e",
+        "gender-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "gender-0.0.26-py3-none-any.whl": [
+          "38a29d4f4291918e845f2246793076d15f7f75de6865e221867f1de5e3bdd0b3",
+          "py3"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "50334bad9a23be4244aee980c7c4a0e15bd93d8f1c58280487844535930b1185",
+        "gender-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "gender-0.0.27-py3-none-any.whl": [
+          "0a818232cb0733eb75b0bffa3023bda51ffbc24a848186a3726374a16fc3038e",
+          "py3"
+        ]
+      }
     }
   },
   "genomics-demo": {
@@ -27140,6 +27116,12 @@
         "indibase-0.135.1.tar.gz"
       ]
     },
+    "0.136": {
+      "sdist": [
+        "829356d8c404c06fa749d9a50aa27f48b85149126840317859ee3683208e8028",
+        "indibase-0.136.tar.gz"
+      ]
+    },
     "0.2": {
       "sdist": [
         "03ce1a6bf27092cbea88b81ad0b4d78cffb7c4d66f650b11a2028fe249646cef",
@@ -28794,6 +28776,18 @@
       "wheels": {
         "jutge_toolkit-2.6.8-py3-none-any.whl": [
           "c86a1a8f4b37bd8bd333e49bd4ada570fb70d22b5e3d826490ad9968660bea9c",
+          "py3"
+        ]
+      }
+    },
+    "2.6.9": {
+      "sdist": [
+        "544c80f5ec10cf89d92a44f85ed4903544cc24d63021f6825cf35d685d3c21b0",
+        "jutge-toolkit-2.6.9.tar.gz"
+      ],
+      "wheels": {
+        "jutge_toolkit-2.6.9-py3-none-any.whl": [
+          "fe82b49f139d35209ecdcab68ea29db1488a8db2af4e549dad97b03754ffaa04",
           "py3"
         ]
       }
@@ -64031,20 +64025,6 @@
       ]
     }
   },
-  "slacks": {
-    "0.0.1": {
-      "sdist": [
-        "e236f88e754e7c7f095fc27e444ad2eb04ec8159fb01d1a3dc7000bdc92a78fc",
-        "slacks-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "slacks-0.0.1-py3-none-any.whl": [
-          "60a320cee8bce64a8e2d2977d60c42f41ae4e837b3f1f170ddc499b7c9a253b5",
-          "py3"
-        ]
-      }
-    }
-  },
   "slicer": {
     "0.0.1": {
       "wheels": {
@@ -66064,6 +66044,10 @@
           "418ed167ee0a539f419ced9d9ddd13cbfe9ffd121ea67f3e9974139081c6dc0a",
           "cp36"
         ],
+        "taichi-0.6.21-cp36-cp36m-manylinux1_x86_64.whl": [
+          "713db77063a7531a700226ee9ac487ecec754c8750eb0d7d3b85053a18a90f54",
+          "cp36"
+        ],
         "taichi-0.6.21-cp36-cp36m-win_amd64.whl": [
           "f183406ec5cf3e2c3fbaeb69ed9334ad9048de44156bba485fc41deac86cb630",
           "cp36"
@@ -66072,12 +66056,20 @@
           "b6928e3016c3fbf1b14ff5f1de7a6e3b4ca857112c2b82ea8e050cbe8a93eb46",
           "cp37"
         ],
+        "taichi-0.6.21-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a5e7bb22191d9f7465af9d2ad06b3fbf2e1b0276185198defc6a404b82a21880",
+          "cp37"
+        ],
         "taichi-0.6.21-cp37-cp37m-win_amd64.whl": [
           "eadf9ef3f51ecfb0148dc15c81cdfd53698ef12cbb5d802fa1707cffab70be3b",
           "cp37"
         ],
         "taichi-0.6.21-cp38-cp38-macosx_10_14_x86_64.whl": [
           "e41a182ace7acb42eff2bb45d14c5c5ce96382c0de4da40db56ce77c542ae76c",
+          "cp38"
+        ],
+        "taichi-0.6.21-cp38-cp38-manylinux1_x86_64.whl": [
+          "127c39a4996d8c61e3275d7d12971da6756de9d84984f4172e721a0c1f052826",
           "cp38"
         ],
         "taichi-0.6.21-cp38-cp38-win_amd64.whl": [
@@ -70532,16 +70524,32 @@
           "40c68ce290a58e01444565f1aa0c5aec8092351fd11624eeeae200540fa5b6b0",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200725-cp35-cp35m-win_amd64.whl": [
+          "3e96a145c1ea16daa3373c190fd5f16cda3ded301abff6ad66c96ab604083343",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200725-cp36-cp36m-manylinux2010_x86_64.whl": [
           "dd8fe96110560908abe3aa2988ec9fad89af80d23064623b116f11fca302b9a6",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200725-cp36-cp36m-win_amd64.whl": [
+          "24c87c0c0007265b30828f18f2ee9606df4db96fa82011cfc44b2ecf5abfbc0e",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200725-cp37-cp37m-manylinux2010_x86_64.whl": [
           "b9f7306cfe54d9292e09c8a0c4d8332657c6722f2b15a92e8a3b52c4b58ed9b8",
           "cp37"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200725-cp37-cp37m-win_amd64.whl": [
+          "9d01c799d4d0ac8ef365de96e2108bedb6734f47d9eecb4f724e8965b7813b3b",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200725-cp38-cp38-manylinux2010_x86_64.whl": [
           "ee3ff3997296e898dbaa755f55ddf83e1d42cb279a6574462b16039dd00cd4db",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200725-cp38-cp38-win_amd64.whl": [
+          "e1017df14250560dd0ea79ecd9d2227c1c3312972ae7cee7034fd78c1d537bc2",
           "cp38"
         ]
       }
@@ -72942,6 +72950,18 @@
       "wheels": {
         "uswapper-0.41-py3-none-any.whl": [
           "70edf9d53edc0e1a18bae9f0f12656453893aedc52e51263f448b4aa39e8a2b6",
+          "py3"
+        ]
+      }
+    },
+    "0.43": {
+      "sdist": [
+        "515a879bae41d837d2bce9c814e549e13ac109ee2b215005151801049605d76e",
+        "uswapper-0.43.tar.gz"
+      ],
+      "wheels": {
+        "uswapper-0.43-py3-none-any.whl": [
+          "c6dc3a72cfbb9f17e9f6c7c5e5b2c2cdc36b6ffd6b78b1f2db3acde106652860",
           "py3"
         ]
       }

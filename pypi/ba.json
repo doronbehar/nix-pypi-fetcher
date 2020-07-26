@@ -4773,6 +4773,18 @@
         "e033267278b125d4cc2212027e4233df86afac96db2ab19b82fc90d7a93ffa65",
         "babbage-0.3.6.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "27ff42e17bc8a023ae03c36fd51838e8fe54f21809add2ecacf4c00aa32cddaa",
+        "babbage-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "babbage-0.4.0-py3-none-any.whl": [
+          "2505c0c3445c4c25e1b0ad39ec2e5e5384e1e0afa2b828a49600577d0901feb8",
+          "py3"
+        ]
+      }
     }
   },
   "backportsdatetimetimestamp": {
@@ -35041,6 +35053,20 @@
       }
     }
   },
+  "monk-pytorch-cuda102-test": {
+    "0.0.1": {
+      "sdist": [
+        "8528688cea458887acd38d8c58134a2cac8de453b7c8fa05515d87db5234cea9",
+        "monk_pytorch_cuda102_test-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "monk_pytorch_cuda102_test-0.0.1-py3-none-any.whl": [
+          "698e181710ad50cb6ffb8c91f3f470bb371be409520193afcd80ec201ce60d7f",
+          "py3"
+        ]
+      }
+    }
+  },
   "mookoo": {
     "0.1.0": {
       "sdist": [
@@ -62181,6 +62207,44 @@
       ]
     }
   },
+  "python-setup": {
+    "0.1.0": {
+      "sdist": [
+        "141a3536d87b8cd5a325f1231725547ac7607f33dc80bcbdf66ed2d18589300f",
+        "python-setup-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "python_setup-0.1.0-py3-none-any.whl": [
+          "ad24a125b17fed093280d4fff9827d9529ff19971cc2cec29ecef86f1e9f827d",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "07ba3f7a329a8cabf0b4f1e4855d50af66342a920d43338620224d0c94dc8a63",
+        "python-setup-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "python_setup-0.1.1-py2.py3-none-any.whl": [
+          "f361213b17babba068e5646eef5b69c5bbbab921fa3859ed602285b5d84a8fb4",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "8c9e334ceee62ccdbdbd44eeffd1ab705b55a93b2a6e3152d9f2ed0930613452",
+        "python-setup-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "python_setup-0.1.2-py2.py3-none-any.whl": [
+          "c026dcae7b82b7c0e504df7435cdbe565dbc78309613e13a1b2e977c51107448",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "python-varnish": {
     "0.1": {
       "sdist": [
@@ -74406,12 +74470,20 @@
           "39dcef621ff8c27a3fcfa41c391827fc62b99c17db58f2b1a75188ab126911ee",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200725-cp35-cp35m-win_amd64.whl": [
+          "15ebcf9ed5d882a011970444ff6f0e777911b569b63b892c7ae5c5c882ad9322",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200725-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "cebd3acf2d40bdf9b889bf6389fb2e0cc6843302890891ccb5ea9addd4a8e6c8",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200725-cp36-cp36m-manylinux2010_x86_64.whl": [
           "6ae4b3f2b5adfb59b7ace1ffbb9cec2e276d36c60030edc45014a0c90360ade6",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200725-cp36-cp36m-win_amd64.whl": [
+          "f9a525a4d910a1ee59551ae57457049840193dd2150ce1b48dfb626d376c74f4",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200725-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -74422,12 +74494,20 @@
           "4d553caef2ea2f4346a4c0df99ebae6333554bada6f0ae75c334507fa55da106",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200725-cp37-cp37m-win_amd64.whl": [
+          "289fdc2c4248b9378efca9f4fe15d3f4499212992e224a9a73bce6b398b682c8",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200725-cp38-cp38-macosx_10_14_x86_64.whl": [
           "0c6269a8887fb7707db92a98fbe81d8ea0b0ddf71dbaf8159e6815e5e26b4ac0",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20200725-cp38-cp38-manylinux2010_x86_64.whl": [
           "69470d5220a55b709f8b14d0e0be32282b49a89d534b59fd14d6288ab3499a71",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200725-cp38-cp38-win_amd64.whl": [
+          "4afa24435e6bf933a40024109d4d9912d2fa3c0fb986b20e8d7f24c5f3e13577",
           "cp38"
         ]
       }
