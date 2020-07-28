@@ -5685,6 +5685,20 @@
       ]
     }
   },
+  "bento-dash": {
+    "0.0.1": {
+      "sdist": [
+        "ef920f957abfcd132e8732fd8c2e270e4c68920269e9d52111cfa48c953a2922",
+        "bento-dash-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "bento_dash-0.0.1-py3-none-any.whl": [
+          "a69947c859a0061e7714d2c411c59a0c7f126435062417a6d09250e9cf96544b",
+          "py3"
+        ]
+      }
+    }
+  },
   "bgcache": {
     "0.1": {
       "sdist": [
@@ -7274,6 +7288,18 @@
       "wheels": {
         "cloudcomponents.cdk_static_website-1.0.61-py3-none-any.whl": [
           "db0c711870e35aeb8204f8349dafa07c8a0084c7a8a0afb12b2ed7d151ddd489",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "1087856519f601f853330f84562ab099d72eb3d4b5055878fe2508ed642e5531",
+        "cloudcomponents.cdk-static-website-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_static_website-1.1.1-py3-none-any.whl": [
+          "5e42d88e24b30356b1c5da0804657a8fc34ab7960038417ae6c8808546472041",
           "py3"
         ]
       }
@@ -10308,152 +10334,6 @@
       "wheels": {
         "Cynthia-1.0.5-py3-none-any.whl": [
           "b13f89003476470c141d92d91e0caee6252a45e8d81ce87d06123a13453c6633",
-          "py3"
-        ]
-      }
-    }
-  },
-  "dagster-celery-docker-nightly": {
-    "2020.7.1": {
-      "sdist": [
-        "ea8c04ef58311f3397298170cb6a0bd43dcc0252f6ba1708c4200514a9ac6843",
-        "dagster-celery-docker-nightly-2020.7.1.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.1-py3-none-any.whl": [
-          "004d344bf9868492c0d68762cfd700182a69f1da20c3b489e24d7f58a24f1b00",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.15": {
-      "sdist": [
-        "2eb5c44cb4509d877524163583ab5cb9254f0f3eed95a67e45727038d435b257",
-        "dagster-celery-docker-nightly-2020.7.15.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.15-py3-none-any.whl": [
-          "10d8a39957fbde2231df0be759dbf2abc6ddd35bfe747cd5fd60cd082cbc625a",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.16": {
-      "sdist": [
-        "6cb1053308323e8eeedc4eec2aaafbb8c90d12a24421d7b544c8c744af16d8f6",
-        "dagster-celery-docker-nightly-2020.7.16.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.16-py3-none-any.whl": [
-          "e3e9ea2d2c7d67d8977a25d2942c1b5468917ac163d8791b5c3e7e321998d400",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.17": {
-      "sdist": [
-        "6363d286fbd33031425471f07f127cebdd549b1c50cd9a2a3c0708dc02ff8973",
-        "dagster-celery-docker-nightly-2020.7.17.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.17-py3-none-any.whl": [
-          "1149b1f490227f812e45324cdda455b6518d4eb3c0109154b9d4d3978216a415",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.2": {
-      "sdist": [
-        "dade8da7d94852ce049f0c576078343cb0d429b0b34bff0b99b862d34358434a",
-        "dagster-celery-docker-nightly-2020.7.2.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.2-py3-none-any.whl": [
-          "f5a3ad4543c28d140b1679ee438bcd60a508f1d52360c849dbfe87725ae85c1e",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.3": {
-      "sdist": [
-        "b22ad446fd3a812053e43feab3adc5e00df7f9015c6c7b82dd487ca46feffbd6",
-        "dagster-celery-docker-nightly-2020.7.3.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.3-py3-none-any.whl": [
-          "0055dadf5eccc642462db6d8874a0ca5b49fcfb359358778bc7eb6fb5b1a69a4",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.4": {
-      "sdist": [
-        "818f43eb084cd06c458d76f05fda0356b66e8e46f1090718a8295b435ce6a994",
-        "dagster-celery-docker-nightly-2020.7.4.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.4-py3-none-any.whl": [
-          "cc7c7049e1b81322e2daec8201ca667003c804f1fb3ff8a6a81544692927d699",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.5": {
-      "sdist": [
-        "37c6e17b4ce0d9a425ee57d9f2679e2cfb2d863419dbbc11373c1d0c2833885c",
-        "dagster-celery-docker-nightly-2020.7.5.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.5-py3-none-any.whl": [
-          "7ef35c6ee0fff4e7b0b6d1739ba287e1156211bd84b7e69f3cfbb8a3d8de80bb",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.6": {
-      "sdist": [
-        "75c92c70f46b111c8b7ed4d8255f9494f0803e1cb6b68288b3ce07f5fd0de81b",
-        "dagster-celery-docker-nightly-2020.7.6.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.6-py3-none-any.whl": [
-          "3fc968672f631adb562a0f91f16f4d1990255d0c4bb17edf02fbc3b69064f9b6",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.7": {
-      "sdist": [
-        "daf135f888a5fd47b162da024a5d0c9b8fd998b808094087208ded4369a35efd",
-        "dagster-celery-docker-nightly-2020.7.7.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.7-py3-none-any.whl": [
-          "4275d24ecca9d53bd423e2d4da6af0e42b9f8596a96f2105e9a97ce71823e2bb",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.8": {
-      "sdist": [
-        "5f8297cf7c8a7c30eb1045b85c99534b260938efb988d439562d0e8ef1d0713c",
-        "dagster-celery-docker-nightly-2020.7.8.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.8-py3-none-any.whl": [
-          "3760d894eed5bac0308250d55faed1470c6d8225ac083a2cf394b443903979e5",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.9": {
-      "sdist": [
-        "3eeb94e781d57a8166395d70fdcb4a46a7bddbcc4108fc38d4a5770da6f9cb2e",
-        "dagster-celery-docker-nightly-2020.7.9.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_docker_nightly-2020.7.9-py3-none-any.whl": [
-          "40eaa28f016d82f1b4bd88e4c9cdf670e16674c0a877b8a008ffc37a87312e35",
           "py3"
         ]
       }
@@ -32996,6 +32876,18 @@
         ]
       }
     },
+    "1.14.29.0": {
+      "sdist": [
+        "3811e4771f22d1c71dc72d3a42a9581e2e665f583375e40c4b0cf84ff7257d27",
+        "mypy-boto3-iot-jobs-data-1.14.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.14.29.0-py3-none-any.whl": [
+          "c53a3f12e70f187e4b0de30da44abebbd868d376e2ea9f4239a0470a5562a717",
+          "py3"
+        ]
+      }
+    },
     "1.14.3.0": {
       "sdist": [
         "763724b8a87694771df26278e6d037031b0d3abbb21059132b869bbc042fa6a6",
@@ -47793,6 +47685,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "sdist": [
+        "b3888e3853e30f6572cb8d5f13373ec23ca62f33f13096fbeac856b81a8a6ac0",
+        "rascal-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rascal-0.1.0-py3-none-any.whl": [
+          "5e74ee96d05deaf370e42072fc7a2d96c1b9f409225f2d5deb912f49034ce27c",
+          "py3"
+        ]
+      }
     }
   },
   "rashlyoutlaid": {
@@ -54384,6 +54288,18 @@
       "wheels": {
         "static_frame-0.6.25-py3-none-any.whl": [
           "6b0e19da11d51920043b2a276455a5bc822383621974ce9fe8e2c1424e84e4cf",
+          "py3"
+        ]
+      }
+    },
+    "0.6.26": {
+      "sdist": [
+        "2e79bc5e7441002846cbe87b63a50ce99ada4f84b43fba6e665231c69879c200",
+        "static-frame-0.6.26.tar.gz"
+      ],
+      "wheels": {
+        "static_frame-0.6.26-py3-none-any.whl": [
+          "964d0b967351dc77802d9efd27e6d73391046ccd59f18f75ab2f13c148662599",
           "py3"
         ]
       }

@@ -2463,6 +2463,18 @@
           "py3"
         ]
       }
+    },
+    "1.53.0": {
+      "sdist": [
+        "9af8e1fad87344c66fcf4ad1ea2595958162e87483b83d03c43959a37c4dca9f",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-1.53.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-1.53.0-py3-none-any.whl": [
+          "f3ae1d34cc23185da0d661df9d9f0c1a62586330e6995b4c911fb6bb4dfbd79f",
+          "py3"
+        ]
+      }
     }
   },
   "awscfncli2": {
@@ -6491,6 +6503,20 @@
       }
     }
   },
+  "blocksmurfer": {
+    "0.0.1": {
+      "sdist": [
+        "964eb75da7e665279cb9c18420445b6a20dd6e0d248cd115c067879b48b15c7a",
+        "blocksmurfer-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "blocksmurfer-0.0.1-py3-none-any.whl": [
+          "a8819f385e2f90c664fae3054a3fe2f865baf6b061d38fc73cbf0a2042cdba02",
+          "py3"
+        ]
+      }
+    }
+  },
   "blockstack-schema": {
     "0.1.0": {
       "sdist": [
@@ -9493,6 +9519,18 @@
           "py3"
         ]
       }
+    },
+    "0.5": {
+      "sdist": [
+        "8befbe8e2dc42c355683ef88bdbc9c1ee7845fb68c09296557d92b5224e5b1cb",
+        "coopstructs-0.5.tar.gz"
+      ],
+      "wheels": {
+        "coopstructs-0.5-py3-none-any.whl": [
+          "867c8b998d323377c3c866708a10af8079262f7a640367aa848153db61f350e9",
+          "py3"
+        ]
+      }
     }
   },
   "core-cache-manager-app": {
@@ -9616,6 +9654,12 @@
       "sdist": [
         "1e714f729045719b305e035d31d4031e1eb12453fe4b394a106891fc01d6bf3a",
         "cort_client-0.3.0.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "3769a2cd984ed585459c326479995130eda5fce7c891e370bee5e012a1f17803",
+        "cort_client-0.3.1.tar.gz"
       ]
     }
   },
@@ -31620,6 +31664,30 @@
       "wheels": {
         "lager_cli-0.1.5-py3-none-any.whl": [
           "9a67c49e466fc2a8a06c79f2ca4a5c5dbe3269f97f3b09e1dd47e91c8a74c1b0",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "1e7b8ff495915e9b4b010a48f7c92f3f06517aa628de74ce56894c6b371151d6",
+        "lager-cli-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.6-py3-none-any.whl": [
+          "e9498a27bc013be0377b23cb9eaaa667cac480cd83533a209641329fdbf50f79",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "fb0abf69848e6c48ff75eda78d65c03b598626de6f085708e539c6ae058b6675",
+        "lager-cli-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.7-py3-none-any.whl": [
+          "ad31d0cfc1940586a64bd0736379a494f5d57e75514c9d06b9e82b7833492429",
           "py3"
         ]
       }
@@ -72302,6 +72370,42 @@
         ]
       }
     },
+    "2.3.0": {
+      "wheels": {
+        "tensorflow_gpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "9b954e9b0aa3805eda40feb353866dc02b0735188d00bffbca3b1a610e4388b6",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.3.0-cp35-cp35m-win_amd64.whl": [
+          "28765e560a8329c0f2024f44c73015502c81f959a23e87ade2c5a2cf39189763",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.3.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f8ac029f3b595d053c58aa462ad30fd6c45ded766bff61654fb0f3f0eb848a67",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.3.0-cp36-cp36m-win_amd64.whl": [
+          "7d1e74e6f250e1e80f0aea4a41554fe51ca78bcddcfe2f0273334904c285c0d1",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.3.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "cd21556295fe9ac51c36423c5c78ec705d84ee9c69601e16caf9a962536160bf",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.3.0-cp37-cp37m-win_amd64.whl": [
+          "fff1e6dd7049f2a9b024c1af3a49b0221acdbee2aa96e64e51c2ff6e9847d942",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.3.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "f322fc9ff81e609504ffac53b8d7802d2d5b6e860ff2fa7c49c93879cb663061",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.3.0-cp38-cp38-win_amd64.whl": [
+          "5796dfd5ef08facc033965ece06bf5d406fc9b1e979888d1b4e4c175285d7fb1",
+          "cp38"
+        ]
+      }
+    },
     "2.3.0rc0": {
       "wheels": {
         "tensorflow_gpu-2.3.0rc0-cp35-cp35m-manylinux2010_x86_64.whl": [
@@ -74699,6 +74803,20 @@
         "8c89069dff802dd9c62f799606e535d58d833c19152bf40d70dd1b8c85963b1c",
         "webmentiontools-0.4.0.tar.gz"
       ]
+    }
+  },
+  "websocketbridge": {
+    "1.0.0": {
+      "sdist": [
+        "a6a42c1faf79b7b2c9037e0c7bec034cf313580127fcf44b85461fac8d6a96ad",
+        "websocketbridge-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "websocketbridge-1.0.0-py3-none-any.whl": [
+          "90c1a6a3dd340c2d959aa016abf0218f00ede10e4394e46be9835ac0d9e83ce3",
+          "py3"
+        ]
+      }
     }
   },
   "webvirtmgr": {

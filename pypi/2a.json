@@ -3217,6 +3217,12 @@
         "f599dbc06560f3115d6eb28729e95bf1f3332ae074014650d8cc5af7150d55df",
         "auxjad-0.8.4.tar.gz"
       ]
+    },
+    "0.8.6": {
+      "sdist": [
+        "adac6978df7ed4ca82124256c5b363a4377531d6a2d8de294b99f4affc60d5e9",
+        "auxjad-0.8.6.tar.gz"
+      ]
     }
   },
   "avanzapy": {
@@ -9571,6 +9577,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.34": {
+      "sdist": [
+        "15ffa2e6ea081d1890004bc231b21e856d44c9adf7afd271cb1d18ef36784546",
+        "cloudcomponents.cdk-dependency-check-1.0.34.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_dependency_check-1.0.34-py3-none-any.whl": [
+          "a4fe5313ac271502361a61c59ff31db342cbceb305c32f2a20f06fb6f0feb5ca",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35": {
+      "sdist": [
+        "caebdc7457c41acfbdc47794b95a2a55c1ac3d85f6e5fb80d161f693dffc0c84",
+        "cloudcomponents.cdk-dependency-check-1.0.35.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_dependency_check-1.0.35-py3-none-any.whl": [
+          "ac93d6f0f809495d524a941797c0c660c663f415a437d9b1b5ccced2446c7091",
+          "py3"
+        ]
+      }
     }
   },
   "cloudflare2loggly": {
@@ -10713,6 +10743,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "53559e54282d9ebfe2d71a1e0451a0b435799919b9cf47b5dbde74abd1eda85d",
+        "contextualSpellCheck-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "contextualSpellCheck-0.2.0-py3-none-any.whl": [
+          "77e48c8d7ba3be0a94ae274152a2bcdf8b0de1032db23aa5380efa249ad6e212",
+          "py3"
+        ]
+      }
     }
   },
   "convict": {
@@ -11329,196 +11371,6 @@
         "cython_manager-0.0.1-py2.py3-none-any.whl": [
           "6eb3a7eda22c978203c883a593af650d66c2c284d4322d5e1ee815bcff9ff5e0",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "dagster-celery-k8s-nightly": {
-    "2020.6.27": {
-      "sdist": [
-        "69d14c54eeb49376c62f537d24645532f407018da2ab93dc7c25fd7670e7491a",
-        "dagster-celery-k8s-nightly-2020.6.27.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.6.27-py3-none-any.whl": [
-          "8d91e23df06c76b1ecf9d50ba39f519853d246c842be72a9d5fa28eaa489d05f",
-          "py3"
-        ]
-      }
-    },
-    "2020.6.28": {
-      "sdist": [
-        "9c411f4b889783920c6430c475b71eb58c15a821972b66a8e1c0ec2e71d44d8c",
-        "dagster-celery-k8s-nightly-2020.6.28.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.6.28-py3-none-any.whl": [
-          "cb07e06c15132bf3b2cad9cab6d058ac21a3b48750a487c3ab287684305b376a",
-          "py3"
-        ]
-      }
-    },
-    "2020.6.29": {
-      "sdist": [
-        "4fbfb56418326ba3bb2a7e84baffac1bf9f6be69328bb5e5732a163f5cb286ed",
-        "dagster-celery-k8s-nightly-2020.6.29.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.6.29-py3-none-any.whl": [
-          "d3320cca39ae09c31e8fdde3b3b22c50fab7bc2569367d9ceb3eed65417714ee",
-          "py3"
-        ]
-      }
-    },
-    "2020.6.30": {
-      "sdist": [
-        "be4a5895c548f34166ec5181f91ae12a47b8fedd825bbeaa34674e125e8b50d5",
-        "dagster-celery-k8s-nightly-2020.6.30.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.6.30-py3-none-any.whl": [
-          "bb62e2658848fbf67b665248c578c79202bef87b2549d90fa5c47331309d8133",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.1": {
-      "sdist": [
-        "3c48c7dafcc1c492c57e8a1c80d97303d39d5a5927426d96a55c653abcaf9b30",
-        "dagster-celery-k8s-nightly-2020.7.1.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.1-py3-none-any.whl": [
-          "4333aae8fbd40bd52b499f360ddcf4390c086279bfbfd9c0ca49d3ec7f4d3d53",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.15": {
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.15-py3-none-any.whl": [
-          "607f01185a8f83be301ed74eb110efbc3cf7a81458dde1aaa764a5fb3c5d58e5",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.16": {
-      "sdist": [
-        "dd25e3bad439690fa18db0af96b7e0f3ebe4493cdef04fd98756ad1997ee5255",
-        "dagster-celery-k8s-nightly-2020.7.16.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.16-py3-none-any.whl": [
-          "ded7b6c584cc06726d14906cd9f20ba988911ceccd6252e613c6ff863dd227e2",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.17": {
-      "sdist": [
-        "c6435876d4eb8c0c0ca16982270ef69a28dcbc300c9173c94e28db08bc933fb9",
-        "dagster-celery-k8s-nightly-2020.7.17.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.17-py3-none-any.whl": [
-          "22b563004a1767b9d80842e58c758e10c580692a121afe2e52445d6462f17acf",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.2": {
-      "sdist": [
-        "53205fd393b14c6062751072cd6307233749d7838db82aefb7f0f8a18d24d668",
-        "dagster-celery-k8s-nightly-2020.7.2.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.2-py3-none-any.whl": [
-          "43fa8f14309e8943b23773f251358e0b9f24d1270e11c58c97f892dea44ffce6",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.3": {
-      "sdist": [
-        "c3d87bf4afedb5ef743972cae26f4f31903946d652f05a4229c92a6f3164acba",
-        "dagster-celery-k8s-nightly-2020.7.3.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.3-py3-none-any.whl": [
-          "d9179547da51989de794c0334b697557efd93ca3bbd0c817e5f1c0152e2797d1",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.4": {
-      "sdist": [
-        "3545611e30c4eedacb8ab47c2748066e0a9e07703dd5eb0c9edcc52cc6305f62",
-        "dagster-celery-k8s-nightly-2020.7.4.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.4-py3-none-any.whl": [
-          "f367d90fc828859243b84cd5b503f8c53642c1a51e7995a3d8710ae51a10d67b",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.5": {
-      "sdist": [
-        "0fad0e3c91e6f31671c08abfb60697513d7b1aa03dfba5a538294ab3b7478085",
-        "dagster-celery-k8s-nightly-2020.7.5.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.5-py3-none-any.whl": [
-          "8e653aa8a7a377922fce0e4eb44b7805c2fae17b6f47160b692dbcea5f3673e3",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.6": {
-      "sdist": [
-        "72b6e2bd17170236bc022d12908510d7d969cd9728efcfce17ea31a46fad02fc",
-        "dagster-celery-k8s-nightly-2020.7.6.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.6-py3-none-any.whl": [
-          "9fc072cd834ddb9e6329e5cfb7af8664229f33d436c7fc995026a1759320a1b7",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.7": {
-      "sdist": [
-        "da715a8b3f75b89fa1dfca4299cb1365bc0ce03218a2e54d6d4f14e87a8025c2",
-        "dagster-celery-k8s-nightly-2020.7.7.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.7-py3-none-any.whl": [
-          "3018a95e69bb885729f47985807223abfabb20957efb122666af5acbfa0c65e1",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.8": {
-      "sdist": [
-        "2aca4a9428b570691deec458da484b82881af1934ec63a07e724f5c88da01eaa",
-        "dagster-celery-k8s-nightly-2020.7.8.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.8-py3-none-any.whl": [
-          "fbf9d51745ff83519bee4ab63bc38ae1ee25aadc67008809fede501ec78a34db",
-          "py3"
-        ]
-      }
-    },
-    "2020.7.9": {
-      "sdist": [
-        "4740d003be72cf64f123d2aa13d848ccbcb5b9874d4def5d587e9b34e96a276c",
-        "dagster-celery-k8s-nightly-2020.7.9.tar.gz"
-      ],
-      "wheels": {
-        "dagster_celery_k8s_nightly-2020.7.9-py3-none-any.whl": [
-          "df6cf325a035761bf487583d655c0eb3e053d142a6654d213532a6a5dce25b8d",
-          "py3"
         ]
       }
     }
@@ -13516,6 +13368,20 @@
       "wheels": {
         "django_npb-1.1.1-py3-none-any.whl": [
           "1336db4f3809e59c883b59a7538716c96bc1d17d5fe41c056d1834fa2aa17ff9",
+          "py3"
+        ]
+      }
+    }
+  },
+  "django-payments-paybox": {
+    "0.1.0": {
+      "sdist": [
+        "28f21d87cca624c4deec927ff06ec4f504b3ecbc53603c77bdc9c4d9af1744f8",
+        "django-payments-paybox-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_payments_paybox-0.1.0-py3-none-any.whl": [
+          "20800fe1d4e8b55a893738adc7baae2a8efd652e32f37b7ec6fcabba5d700564",
           "py3"
         ]
       }
@@ -25426,6 +25292,12 @@
       "sdist": [
         "602efbe2ae86a5963c6ebe7207a49f79ace5a52a8e742a66bcab671e4f654c42",
         "hitchbuildpg-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "039239aaa51c7303e9dc0245020695f2a7ace341b1bfdf95023d5f525225d309",
+        "hitchbuildpg-0.4.1.tar.gz"
       ]
     }
   },
@@ -40497,6 +40369,44 @@
       ]
     }
   },
+  "pjisp-template-name": {
+    "0.1.0": {
+      "sdist": [
+        "a300400d1756e586c285895e7095b3b638da9c897788409c27cea1d0a130f9d0",
+        "pjisp-template-name-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pjisp_template_name-0.1.0-py2.py3-none-any.whl": [
+          "5f1a38b78543e8d8eda530e9c01b9e6c5a27093baf0e8fafe9dc48c2f197416e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "fa8b6ffb976c1ca054c469f7906ee15d4d90b024dc97fab995e9c5b6f922750f",
+        "pjisp-template-name-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pjisp_template_name-0.1.1-py2.py3-none-any.whl": [
+          "8d9d9972df344a494e516cf77e1899cc39d798af27a63554d44099cf4980db8d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "3b1f49a964b10a68ebf10ac48430a95c000b2cc2be2e91d3aa306d757b320306",
+        "pjisp-template-name-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pjisp_template_name-0.2.0-py2.py3-none-any.whl": [
+          "71c5fc8b6c3ba86894ba81f38a454b7ca50847a6754b510335d0ca051ddcb05a",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "pl-tmobile-sms-gateway": {
     "0.1.0": {
       "sdist": [
@@ -48828,6 +48738,42 @@
       "wheels": {
         "rediz-0.1.9-py3-none-any.whl": [
           "6d196209c836ad77841dd8dce74d4c981c2c02d15ac46295fb17a84c5e3844cb",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "985b4b1652d4d7dd8fdff7232733bb06f012c1e409a7759992ca332fb9575d9c",
+        "rediz-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "rediz-0.10.0-py3-none-any.whl": [
+          "b08f924bb8ea2a9c3c1ba1bfb10af4c7a1c63998c80b4fa3095421775e009f85",
+          "py3"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "e444c9c8c29d9c1b4b3a9e5178ad832f2f17f30f737c7de86dcf9e7e855a25b0",
+        "rediz-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "rediz-0.10.1-py3-none-any.whl": [
+          "44af4ac1aa5c780f4760f57f2bd73ce8ec9c845cea8c28ba2314b9a7e25526b4",
+          "py3"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "e11dd91fef6979f05e2605ff85a5909ed6f7b3dc8fa0eb9dece0b0d2ac7026e6",
+        "rediz-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "rediz-0.10.3-py3-none-any.whl": [
+          "1cf4b1e34868cd995674e5e42d901a139f995f47b706c1e9702b6c81207350ce",
           "py3"
         ]
       }
@@ -61078,6 +61024,18 @@
       "wheels": {
         "wrestling-0.0b4-py3-none-any.whl": [
           "900b71e4ed157c055fb8ff2c3b5c76aa61fb9965be0cdf9fcedd9ef4bcdf53f7",
+          "py3"
+        ]
+      }
+    },
+    "0.1": {
+      "sdist": [
+        "323df06aa01edde3f9c6947e5c0a303d492110e4d1540af20142b1308fd4f79b",
+        "wrestling-0.1.tar.gz"
+      ],
+      "wheels": {
+        "wrestling-0.1-py3-none-any.whl": [
+          "5ea6b48ae606189d0b293842ea567a5a7634e8b49ac410fc90aac2dc17e4e8c1",
           "py3"
         ]
       }
