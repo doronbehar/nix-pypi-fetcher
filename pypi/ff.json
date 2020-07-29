@@ -3524,6 +3524,18 @@
         ]
       }
     },
+    "1.55.0": {
+      "sdist": [
+        "4e92262f067df4b8359ce3202ba9c026c6b3e9c13f97d87b76d546af04bfeff3",
+        "aws-cdk.aws-kinesis-1.55.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.55.0-py3-none-any.whl": [
+          "a617c11ca34eb470aa47d7714db61c40cf9cf6470542464ff900badeb50e9133",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "93db789f75a4219cccc9144c2f7947a098a927223150a49ef64eefb67480fa50",
@@ -7719,6 +7731,18 @@
           "py3"
         ]
       }
+    },
+    "0.34.0": {
+      "sdist": [
+        "7b6af2b254812eff26f5501ba60c874af31b3516cacb0b7d25753294a943e65c",
+        "cdk-iam-floyd-0.34.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.34.0-py3-none-any.whl": [
+          "5ea57ce2671d3d4b42352826a94e3027516cde05d5adf3d04d827fea973aa9a5",
+          "py3"
+        ]
+      }
     }
   },
   "celery-connectors": {
@@ -9850,6 +9874,12 @@
       "sdist": [
         "6ce93d2fab6e438c3da7b3e16859dc862d628f92ee8796e15b037da8347a0c8b",
         "cogment-0.3.0a5.tar.gz"
+      ]
+    },
+    "0.3.0a7": {
+      "sdist": [
+        "4128521b5972720cf50de6fbbb9cad1737d48eaa2b03007b274eba7fccfdc3bc",
+        "cogment-0.3.0a7.tar.gz"
       ]
     }
   },
@@ -27539,6 +27569,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "cd498720a2d2149d44a5fe554e4c6a56444c7116ed5a6d9d38f48dfaee129e6a",
+        "hvsrpy-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "hvsrpy-0.4.2-py3-none-any.whl": [
+          "7dcd1b16408e3fa453c27f2d62969d51fcf6709db2c2f9fd9c7e6f666247d5a9",
+          "py3"
+        ]
+      }
     }
   },
   "hwd": {
@@ -30937,6 +30979,60 @@
         "7033de69aca7daa1d1287b3d2328514089402a3ca7a92682e72b70e5204304ba",
         "lcat-0.1.6.tar.gz"
       ]
+    }
+  },
+  "ldafork": {
+    "1.2.0.0rc1": {
+      "wheels": {
+        "ldafork-1.2.0.0rc1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "7d5fb9195c91e3b9f3ad968ee8f251ce4ad6c71a275bdf658d28895a9d3acd14",
+          "cp36"
+        ],
+        "ldafork-1.2.0.0rc1-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "2979da75e193cad302848fa802357b537f1c91e5ae89011ef19313887070a1f0",
+          "cp36"
+        ],
+        "ldafork-1.2.0.0rc1-cp36-cp36m-win32.whl": [
+          "7602a89c14c44557db55be30a22ab2f36cf344c6c7c28108cc2065859b2473d7",
+          "cp36"
+        ],
+        "ldafork-1.2.0.0rc1-cp36-cp36m-win_amd64.whl": [
+          "8f67978ebc6b356a7e00e456b2ef747e9324e293d091202bd9066d9af62c98f6",
+          "cp36"
+        ],
+        "ldafork-1.2.0.0rc1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "9a7333fa7fdccf71e4dfa9d0603bb37cc1ef7fae38e2219fd28b4cd75a87131f",
+          "cp37"
+        ],
+        "ldafork-1.2.0.0rc1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "f03c567a8a9e99d233afeb52162074bd1ea6a94c6b37f85743286704d53ee853",
+          "cp37"
+        ],
+        "ldafork-1.2.0.0rc1-cp37-cp37m-win32.whl": [
+          "41e46c4c74e40299b0508539d20d9880bb96f1f8996c246907601bbacc39d9ac",
+          "cp37"
+        ],
+        "ldafork-1.2.0.0rc1-cp37-cp37m-win_amd64.whl": [
+          "9977ed3b892dea59fde3b658b1bb045ec6cd6a338e19eab2870d4f54d7d3f581",
+          "cp37"
+        ],
+        "ldafork-1.2.0.0rc1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ccc7cd53b0ba17c24f8524d2578d3a2b526a35ef4eabfb5d6349cf7fe7ac8185",
+          "cp38"
+        ],
+        "ldafork-1.2.0.0rc1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6a6a432ceafb7a4708731a321408cb0ad32935cdadbb713c56fccdcb81ce416e",
+          "cp38"
+        ],
+        "ldafork-1.2.0.0rc1-cp38-cp38-win32.whl": [
+          "93a58b50f143c90c0a10a2b811f557795a55d3883775101d706b7ff783aad046",
+          "cp38"
+        ],
+        "ldafork-1.2.0.0rc1-cp38-cp38-win_amd64.whl": [
+          "bdb9e7b524dcec4ba7e73460401b72cbc9a3d15b929a56dd86b4e76a962e0f68",
+          "cp38"
+        ]
+      }
     }
   },
   "ldap-hooks": {
@@ -37388,6 +37484,12 @@
       "sdist": [
         "16a5c211eb52001dfef3a693baec9c5601d9b0252638e71f3c133bc6f0da7e0f",
         "okp-0.0.37.tar.gz"
+      ]
+    },
+    "0.0.38": {
+      "sdist": [
+        "b8121070509b3bf102d4055872b3d48a03158cd722496fe255750d324600a29d",
+        "okp-0.0.38.tar.gz"
       ]
     },
     "0.0.4": {

@@ -3180,6 +3180,18 @@
         ]
       }
     },
+    "1.55.0": {
+      "sdist": [
+        "c8ea7d0c878a5e8d3aa8cd07a8ffd76ab0102951d052e30dc3b6ad2f600adacd",
+        "aws-cdk.aws-dms-1.55.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.55.0-py3-none-any.whl": [
+          "7283ead4ddeabdb73d0ba3155c418edf164c9926502d9d6d49711b7302ce01c5",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "11616161e95fe85fd14c66bd0d6a9b17824746d5d2d99bbc0908853809485ee7",
@@ -15171,6 +15183,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "cc802a3c4ff8911e4a291174d5c153067ce420d75fe591267ed50bac31b1a995",
+        "fa-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "fa-0.1.7-py3-none-any.whl": [
+          "ccc1c1eed1deb6fdcd5a603ac423a7b2ae5363dde2ac2dea63aaae22f0f11696",
+          "py3"
+        ]
+      }
     }
   },
   "facebook-sdk": {
@@ -17518,6 +17542,12 @@
       "sdist": [
         "f8e08fa015bfb9dacabe188f70175e890323501ff0fbf2452668ba596d5e515e",
         "gen3-2.4.0.tar.gz"
+      ]
+    },
+    "2.5.0": {
+      "sdist": [
+        "ed938cb1cff3e09245d2974575802e728f6bc28e4ceb75d5361f010166d74379",
+        "gen3-2.5.0.tar.gz"
       ]
     }
   },
@@ -31144,6 +31174,18 @@
         ]
       }
     },
+    "1.14.30.0": {
+      "sdist": [
+        "d6e0267ece51ada279ff9d37b3ad1c901f285ac5c6a777a5ff902c1b469da8f9",
+        "mypy-boto3-comprehend-1.14.30.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.14.30.0-py3-none-any.whl": [
+          "760aa24302c3f5ca8f0d28cb1ca172685e3047dc815850ee83637fbb5f172792",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "968998c5a585427586ba7185945c4ea4b3ee241027901d36139e193e05751c56",
@@ -39844,6 +39886,58 @@
         ],
         "pyats.easypy-20.6.1-cp38-cp38-manylinux1_x86_64.whl": [
           "8fe681ab2272ebdcbf8b456ed39aa1609a967e697119b46aed8fb9c3b61b6671",
+          "cp38"
+        ]
+      }
+    },
+    "20.7": {
+      "wheels": {
+        "pyats.easypy-20.7-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "53839b4e70b4f3e6321658576e6bf12e4c3f119a87d65a124865dc91b45db7f2",
+          "cp35"
+        ],
+        "pyats.easypy-20.7-cp35-cp35m-manylinux1_i686.whl": [
+          "aae6e44b2c117f3630f7adf7cfe4e9015c02937412ddf3234033e8ae61f6aeba",
+          "cp35"
+        ],
+        "pyats.easypy-20.7-cp35-cp35m-manylinux1_x86_64.whl": [
+          "fdc82ab598e2f1dc9446dd728804478473e11705702b9e31b027fd75fda9e2b5",
+          "cp35"
+        ],
+        "pyats.easypy-20.7-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "f91619243b933beac2b75f5cd7302dd29956af334fdc1cce228e816d397e8a30",
+          "cp36"
+        ],
+        "pyats.easypy-20.7-cp36-cp36m-manylinux1_i686.whl": [
+          "ec7dcbcf5bfce9cfd6920c0bf4cccebe1952c05020d1ae05c704f3415e785c9a",
+          "cp36"
+        ],
+        "pyats.easypy-20.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "e1b91579411c3b6ff9dc209e98bcab432b4c1cd505438131258873eeb8d64627",
+          "cp36"
+        ],
+        "pyats.easypy-20.7-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "3389b945a36a7750cfc8bcd61793d885c8f0d252102252d8b45a769702391268",
+          "cp37"
+        ],
+        "pyats.easypy-20.7-cp37-cp37m-manylinux1_i686.whl": [
+          "81c59be05cfabda8185a5461382d113557c6095ded9f5b92cf0fc8a9549652f3",
+          "cp37"
+        ],
+        "pyats.easypy-20.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c8f2d65ecbe03b2d2acd122dd7395b284cead6d096def92fba4770513e74da28",
+          "cp37"
+        ],
+        "pyats.easypy-20.7-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "e9857454499248ca158591e4f2df46fe216d0f8f86bb38e675ca2a40d75cb9eb",
+          "cp38"
+        ],
+        "pyats.easypy-20.7-cp38-cp38-manylinux1_i686.whl": [
+          "c5c6e5e8d57d130b3c4a0108c8f291f01cfe06121ac4ef8b653686d4869afb3f",
+          "cp38"
+        ],
+        "pyats.easypy-20.7-cp38-cp38-manylinux1_x86_64.whl": [
+          "b10245af36ece5798e90c0b391928fd29493deafe16097779c077ee21913e41e",
           "cp38"
         ]
       }
@@ -48913,6 +49007,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "d3ff646653e444e099fd357bea0e91a860de6afa6a388c60443d298a3e677932",
+        "seaborn-image-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "seaborn_image-0.3.0-py3-none-any.whl": [
+          "ce594afd1d173f51972347d1d970ffcda7b98e2a22c8a9be1da87dccf1f4796e",
+          "py3"
+        ]
+      }
     }
   },
   "secp256k1prp": {
@@ -50320,10 +50426,10 @@
     }
   },
   "sostoolspy": {
-    "0.2": {
+    "0.0.0.1": {
       "wheels": {
-        "SOSTOOLSPy-0.2-py3-none-any.whl": [
-          "df752753189c3417e36bab814fa6f7667d3297fdb3c354b1a680c86ece5227d6",
+        "SOSTOOLSPy-0.0.0.1-py3-none-any.whl": [
+          "aa3c3a6208e40d27f6bd4b93320949759f76a37a498f33df85b63c8d137df37f",
           "py3"
         ]
       }

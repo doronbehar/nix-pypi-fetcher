@@ -3809,6 +3809,18 @@
           "py3"
         ]
       }
+    },
+    "1.55.0": {
+      "sdist": [
+        "a622785f42d7af8059417b4fa2a6e86f79d90538d9a09aaa6825630988c53a76",
+        "aws-cdk.aws-lambda-destinations-1.55.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.55.0-py3-none-any.whl": [
+          "42dd03744c36ebb5a445c8c1791e6ed0b85ea73e09e4636223dc8ca63f57081b",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-rds": {
@@ -4792,6 +4804,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.54.0-py3-none-any.whl": [
           "e203b35e0989706f7f995ba7a831c0e425602e9f8c636eed98ebe25c0fd19a42",
+          "py3"
+        ]
+      }
+    },
+    "1.55.0": {
+      "sdist": [
+        "0b48bff087abf89bb8e6246474737ebffca92aa22362ae615907200e5fca2e11",
+        "aws-cdk.aws-rds-1.55.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.55.0-py3-none-any.whl": [
+          "82a0145351ad1e14531fa8ae922a131aa6411d3c9bb041c0a6bbdcdbc37117c8",
           "py3"
         ]
       }
@@ -21680,6 +21704,58 @@
         ]
       }
     },
+    "20.7": {
+      "wheels": {
+        "genie-20.7-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "033e373e5ad9833e67f131c8c2c7d8deab2e13f4ca42f3adea780491f0b6ec1e",
+          "cp35"
+        ],
+        "genie-20.7-cp35-cp35m-manylinux1_i686.whl": [
+          "cbb1f4402e562dacd6eb6e7c9f7d1d48454e033fa0fa335728571b681b042499",
+          "cp35"
+        ],
+        "genie-20.7-cp35-cp35m-manylinux1_x86_64.whl": [
+          "95342735fe528228f60371228a102a9b51ab02c545b86e29eadc51a893681470",
+          "cp35"
+        ],
+        "genie-20.7-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "834aeebe69156d48407940b8a8a377f3562eaacb22837724d077a3aeb6e3d94e",
+          "cp36"
+        ],
+        "genie-20.7-cp36-cp36m-manylinux1_i686.whl": [
+          "c470bbc399f212ae81f46d81b6d9f6a10cdc8d84ed1d836375c89645f37b8c0a",
+          "cp36"
+        ],
+        "genie-20.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b2c85aff2251068762b2b631e256bcda36f6389867aaa652c3e5ab352dd38718",
+          "cp36"
+        ],
+        "genie-20.7-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "bf883adbc6a667e1bd68d42c63b691c9130b2a2c86df85a44be4ef7ec8080c28",
+          "cp37"
+        ],
+        "genie-20.7-cp37-cp37m-manylinux1_i686.whl": [
+          "5fe9891a0d4114b859017cf8a6ba61252adab03fc6802343e2c9750a05d97636",
+          "cp37"
+        ],
+        "genie-20.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2f300bffa8df045551a173dd22c8dc05c67d241332120b39ac35f93af9a11b34",
+          "cp37"
+        ],
+        "genie-20.7-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "2c7af32c3b164fc205c52ba2eef86386f50e50005dab7d1db8659c451f4bb97f",
+          "cp38"
+        ],
+        "genie-20.7-cp38-cp38-manylinux1_i686.whl": [
+          "622fbe67187845e147853a43a2f4b4678c0fb289992d9bbfe537e85b0876eb4d",
+          "cp38"
+        ],
+        "genie-20.7-cp38-cp38-manylinux1_x86_64.whl": [
+          "40792d882e90f080f803d2fe0506d0dec46a6c059315d1c7f4feca6672cee31b",
+          "cp38"
+        ]
+      }
+    },
     "3.0.0": {
       "wheels": {
         "genie-3.0.0-cp34-cp34m-macosx_10_10_x86_64.whl": [
@@ -27948,6 +28024,12 @@
         "insights-core-3.0.176.tar.gz"
       ]
     },
+    "3.0.177": {
+      "sdist": [
+        "0ab11f93cafb367e29623d0a20ff394927f73dfb66199337ee44ce7ceb00cc36",
+        "insights-core-3.0.177.tar.gz"
+      ]
+    },
     "3.0.23": {
       "sdist": [
         "d1a1f636575ebe8f386217e9a253de3c715015f42ac8139431bf3cc07b117676",
@@ -30649,6 +30731,12 @@
         "b038f2a0b2650850f862d8a3c2f76a261cb02d5b675b0db1172b51ea8d9c73c8",
         "krules-core-0.2.4.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "5ef5be4f41a147705e8760f4acb9a4ef2907edba3738665f1af653cdfabcc334",
+        "krules-core-0.4.0.tar.gz"
+      ]
     }
   },
   "krules-env": {
@@ -30722,6 +30810,12 @@
       "sdist": [
         "a834a605a213db4ac4fdabb53ce8fd7194fa75346883bf43d238fd2cd639044c",
         "krules-env-0.2.9.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "9a71f333cb2f96e5edd1e7624370f52828028ffbdba679a2415868945a68de3c",
+        "krules-env-0.4.0.tar.gz"
       ]
     }
   },
@@ -60742,6 +60836,18 @@
       "wheels": {
         "Telethon-1.15.0-py3-none-any.whl": [
           "fcdf28005b0de90c3cd7e4f7d3bbb9fd9b746f89cd057428f6204a243aad7439",
+          "py3"
+        ]
+      }
+    },
+    "1.16.0": {
+      "sdist": [
+        "3c4a431b065c0950415c0764c559d0ad81eaf043d5fb6d14402020db8f6dd75e",
+        "Telethon-1.16.0.tar.gz"
+      ],
+      "wheels": {
+        "Telethon-1.16.0-py3-none-any.whl": [
+          "d549f69c3c93254812b3269e9d813567bf5c13c5c88a9874429ac0d7e36034e2",
           "py3"
         ]
       }
