@@ -30536,6 +30536,18 @@
         "matrix-synapse-1.17.0rc1.tar.gz"
       ]
     },
+    "1.18.0": {
+      "sdist": [
+        "b1ab0b3b9665e2f505962262ae9a58350bdde3b2bf6f97470114dc2854650a2f",
+        "matrix-synapse-1.18.0.tar.gz"
+      ],
+      "wheels": {
+        "matrix_synapse-1.18.0-py3-none-any.whl": [
+          "d3f5f68bc23331e01bf4b1cc238570e2568a43f7b1a18dfe1ad25c7877ebc550",
+          "py3"
+        ]
+      }
+    },
     "1.18.0rc1": {
       "sdist": [
         "804b04ed226b82b6e9d215e13e8bba4a61f0880143fc93f60d3be5c1dc050554",
@@ -33618,14 +33630,6 @@
       "sdist": [
         "3121fe8e70d32de0d927936a2c6a6b677002086a5a7cbc90f44cb7e37559f50d",
         "my-awesome-espip-script-0.1.tar.gz"
-      ]
-    }
-  },
-  "my-client-student": {
-    "0.0.1": {
-      "sdist": [
-        "41a9cb4c48297a1388e1a6b4a9954377de4da20ed97e4c7f57c8237c35d2eb89",
-        "My_Client_Student-0.0.1.tar.gz"
       ]
     }
   },
@@ -44887,10 +44891,20 @@
       ]
     },
     "0.2.15": {
-      "sdist": [
-        "5cc78086f825718c0e1357f81a3bd7455a081b2fa1b97470f88426a7c9e8cedb",
-        "pycwr-0.2.15.tar.gz"
-      ]
+      "wheels": {
+        "pycwr-0.2.15-cp36-cp36m-win_amd64.whl": [
+          "69f56118cb471ca3a32bd24d3b584de4c44b7beac305bc6bbbf8976fba9c6ab7",
+          "cp36"
+        ],
+        "pycwr-0.2.15-cp37-cp37m-win_amd64.whl": [
+          "90809469a9218c81890a2705a67b4af2b4d60ac11b37b06b4bd4e310e0fd9140",
+          "cp37"
+        ],
+        "pycwr-0.2.15-cp38-cp38-win_amd64.whl": [
+          "b3cd1bdd98a152034b4af7b818d2e80c70e47004f8dfaf4a30bf236fdf18e561",
+          "cp38"
+        ]
+      }
     },
     "0.2.4": {
       "sdist": [
@@ -61054,6 +61068,14 @@
       "wheels": {
         "unittrial-0.1.0-py3-none-any.whl": [
           "0b90d39a4434db1a4d41e983ef29bcdf09673280a2269c610c969fb92aea781d",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "unittrial-0.2.0-py3-none-any.whl": [
+          "d6425af7cae54bcba9e842721af8a4537a5414ab108e533cb724514457568bcd",
           "py3"
         ]
       }
