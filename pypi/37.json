@@ -4265,6 +4265,14 @@
       }
     }
   },
+  "awslambdalogging": {
+    "0.1.1": {
+      "sdist": [
+        "fcae6c9425d3741f1872cdf171d3b994a3340b7b544099872f34f98a86bd723a",
+        "awslambdalogging-0.1.1.tar.gz"
+      ]
+    }
+  },
   "azure-mgmt-managementgroups": {
     "0.1.0": {
       "sdist": [
@@ -4472,6 +4480,14 @@
       "sdist": [
         "ff60ef6703725e18ae7afec42666eaf334549eb701d28d497b15b25fc21204e3",
         "azure-storage-logging-0.5.1.zip"
+      ]
+    }
+  },
+  "azureappconfiguration": {
+    "0.1.1": {
+      "sdist": [
+        "005c9d15b6491632482229633c66636812260aab1fed2367aa84fa9ee3bb90a7",
+        "azureappconfiguration-0.1.1.tar.gz"
       ]
     }
   },
@@ -10541,6 +10557,14 @@
       ]
     }
   },
+  "dagcp": {
+    "0.1.1": {
+      "sdist": [
+        "f4d7495d8e4bbbe934c06d2c6e2e26e0599d308fba73e856672cb733b68679d5",
+        "dagcp-0.1.1.tar.gz"
+      ]
+    }
+  },
   "damagefilter": {
     "1.0.0": {
       "sdist": [
@@ -13986,6 +14010,190 @@
         ],
         "dependency_injector-3.24.0-pp36-pypy36_pp73-win32.whl": [
           "7826dfdf9462172e41cbd3ba2f08e3ca22e880cf70acc478cc447dbbe6b0b590",
+          "pp36"
+        ]
+      }
+    },
+    "3.24.1": {
+      "sdist": [
+        "997a44fbbca715311d6300ad9522cc5fc05a6252c3c2c63a801e233c30e8e53f",
+        "dependency-injector-3.24.1.tar.gz"
+      ],
+      "wheels": {
+        "dependency_injector-3.24.1-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "c4dc5d7fe688748d0b5c48564a0b8853185f923d9412b8ef647858b29d65b406",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27m-manylinux1_i686.whl": [
+          "5e639948784365a78c222bcfc476230a3308b39f2166d712f73b495a09eb75e3",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27m-manylinux1_x86_64.whl": [
+          "816a2fcc2a1d9b11062f10dc78a39bb13a28d55b8d1288e615ea6bfbfffe3e30",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27m-manylinux2010_i686.whl": [
+          "b91af301db031fd13561995e69f1e8274ee9dae865c15fed88ed5eb46d825757",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "02126c5ba55e8b5cd9273042f00e76cb7e8ab15961bf0c0a7064b741231f5ab2",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27mu-manylinux1_i686.whl": [
+          "45cc00a3a3cd39030ea89e3c32ee02ec5eaff040af0c9fb2a27ebcecf049d2e3",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "c0d20f509b87ccfdce1d34b4a5d7c1d4c1878a15cfe6e51a3f87b625ca1bd810",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27mu-manylinux2010_i686.whl": [
+          "a5c40c5ce48e777691a64b0b5f265e60dbe9a422ccef4b058738e0837877efc1",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "a7e63e13283f9345320284d7aa3af3690505996370c4d39422873445a56e5f76",
+          "cp27"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "ac9fa6cd5577eeb68ba3b942e167410359ef62f3d60d2d1cf6599ec3890afe50",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-manylinux1_i686.whl": [
+          "26e38038a48adffd68f09ac9c922adbe7b0ed10297198ca90b68d4b0cc2445d8",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "af569959cf24ae40b348eea91e25826dc7b509c94752feb3e95dae0d8ba11808",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-manylinux2010_i686.whl": [
+          "b024b82db5db6e0035d6a8686e2dd6a304dd6a738257ddbbee7ccbfddfc1ad6d",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "15c0fda9ed94793af51384b32c485c24c33d3c53b05aa0d0f880f65914cc1f14",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-win32.whl": [
+          "846724f93dba35f8d8cb07a9c0908850659160514b4ba888ff33da34882539a6",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp35-cp35m-win_amd64.whl": [
+          "dc5a5d74fe3299fb28bb1fa8ee85d802280fffa93536ba3ae00dc92dfd65506f",
+          "cp35"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "bc89f2df9c2e6ad8730fe47c5b0b57c0fe367fd6f295e7da36a1ffc0f7a61c5b",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-manylinux1_i686.whl": [
+          "39d09d36c1bc195cbf0f75fc92d4043d3987f68140696bc574c03aba6ab745fc",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "58d199a4deffddd267ad76be1ca1e7b452b0fb8bafc079e95a75c1c7ecbf83c1",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "52147f6b5803f1ae4dc2e6e38434545ccf08589112b8c6080f22370be9d9793c",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "99e269dcf450060a52cf7878225461e6f7142d6e7a7560e2562fcadf81af6e9c",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-win32.whl": [
+          "7420d96d5674c0f68d8621c63b3a28f283e9678d387c350807197384c4ae1265",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp36-cp36m-win_amd64.whl": [
+          "89a91cc733c7a32ae7d0ea8cca43ae119e0ae00c38d3e5ee7508f8b5538ba0f4",
+          "cp36"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "613dbfbd9871a5b426c9558725e571b0bd0e9c090b4e83b8a5c0517a7f78b08c",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-manylinux1_i686.whl": [
+          "c639c6ff5bbd11a1efa6424cc755c2e206d16939c977e0267c456c138788cbec",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7b6208fb381fcb3f27acb13b34293dcc2762d651506ccaea15f373b5416dcd1f",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "9580cee0f28003c468b9ef0444db6f000ea501efedf6be76846d183eb1d6330f",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "7b31767719c4556c59a97cf3d07bb863f79af933a7262716352d68a5af721f77",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-win32.whl": [
+          "9250d2055f9bf54d5bc4232c2c7e99d9a2fb2d40a78307953f7354a72896ea48",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp37-cp37m-win_amd64.whl": [
+          "6e282cbdf0cbb2d7c774ab590e89315e8a6960d14524b66ce4208c9aa56c44f5",
+          "cp37"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3f9a086b3db7c1590e6d52cbba2e0d0d5fa5fc83ec83339f0cd3b4e047029c6b",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-manylinux1_i686.whl": [
+          "82ea5320fad95b6241f51e64325d8528a1ad3b9e65dd2cc3bcd78e2348f48697",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "a3752d5f5d5e3df64d4d8ca8c0977ffe591802d4ea2f6011964adc393bc8fc0d",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-manylinux2010_i686.whl": [
+          "4a143546f064a5716085d22a4692be0ef2967d170276bc0044207447195dfe52",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "d48583da9f7a8b231d41baf5bfa3bddbbdacdf66abba943f4130cb2296d53069",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-win32.whl": [
+          "2bc51d658f27ddd584fe162ddb9beaf602b02ff7579b21d2aa493782b0595d45",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-cp38-cp38-win_amd64.whl": [
+          "5b8220e2d32ae71d2189edd45b46b35a16b0a31786c20d59aa148407ef57b023",
+          "cp38"
+        ],
+        "dependency_injector-3.24.1-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "80163d4d9f1ebfe783a3256539924553392b040c256874996a81ed5741485775",
+          "pp27"
+        ],
+        "dependency_injector-3.24.1-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "c3e5fcb1737dfb5b618bf736406c94ee27356106b7a79a6957384d995831cfa4",
+          "pp27"
+        ],
+        "dependency_injector-3.24.1-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "dfc934aeeb478b61796ec37f706f0b329128824b153fa9c300e46ad39fdd1595",
+          "pp27"
+        ],
+        "dependency_injector-3.24.1-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "20968cf33b5f65ff889b96f688d4b4aa073ea764588da12be9641226db799719",
+          "pp36"
+        ],
+        "dependency_injector-3.24.1-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "d0e3080ce2c496b58792a6abf3343f93f197358921f868c4e2c47c96bb6b890b",
+          "pp36"
+        ],
+        "dependency_injector-3.24.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "e919b0eb8c03a05228756441d7ae721530587e99e7e004e110fbd024e61bc746",
+          "pp36"
+        ],
+        "dependency_injector-3.24.1-pp36-pypy36_pp73-win32.whl": [
+          "943323224fd05c6a5c11c648f612e03ae7d9ef22aa638ee15112deb203c8db0d",
           "pp36"
         ]
       }
@@ -18552,6 +18760,18 @@
         ]
       }
     },
+    "0.1.36": {
+      "sdist": [
+        "02f141df4a8beac9b9fe74ccf3980de77abf04eb7c7c1b32ed42ab3e860d643e",
+        "django-permafrost-0.1.36.tar.gz"
+      ],
+      "wheels": {
+        "django_permafrost-0.1.36-py3-none-any.whl": [
+          "58af306f73b681720a60a6e1f58a8414bd86cda4115521775be6024d541e4872",
+          "py3"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "5bb4afc22dbaf8e8bfe0283328f2c17b46e9331d64d9db4a73a125dd605acda1",
@@ -19590,6 +19810,14 @@
       "sdist": [
         "29f3c48d2e8343d4ea717463fca25947ec37cd8be1460953d696e069631ae73a",
         "django-wymeditor-1.0.tar.gz"
+      ]
+    }
+  },
+  "djangohoneypot": {
+    "0.1.1": {
+      "sdist": [
+        "f6280ad33cff98a80e726fd1ff31f6617c79006b5faafc60739d4763cafaf0c9",
+        "djangohoneypot-0.1.1.tar.gz"
       ]
     }
   },
@@ -20960,6 +21188,18 @@
       "wheels": {
         "dnns-1.3.2-py3-none-any.whl": [
           "64480ad810bbfcce44393d2f83f68ef4b842b41905003eb6fdc2eace688deb60",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "c5ae1df9cabef282831cd8e370058c8a1d6410a063b25d69f92444af43620f51",
+        "dnns-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "dnns-1.3.3-py3-none-any.whl": [
+          "12bad69ff078bc6657d4e84334a9be7d8b291682e241ebb8c0d2ee7b3c0709b5",
           "py3"
         ]
       }
@@ -24796,6 +25036,14 @@
       "sdist": [
         "e870e280328baf72a3389fb6f0987414ae2b0916aa6498991b3081b00136114a",
         "fasthaversine-0.1.2.tar.gz"
+      ]
+    }
+  },
+  "fasthistogram": {
+    "0.1.1": {
+      "sdist": [
+        "d6a7f8cacd954b4d1b5d091da1fecc51ec0f50ad0716b70e88d6dd5bcf305145",
+        "fasthistogram-0.1.1.tar.gz"
       ]
     }
   },
@@ -33421,6 +33669,12 @@
         "a4dc63ead26378c1f8368e36aec927f407abd2d47e523315a9a3fbfa94464b1c",
         "human-name-compare-0.3.5.tar.gz"
       ]
+    },
+    "0.3.6": {
+      "sdist": [
+        "4f4d2c56dce50ffcc1f127e4eef0efdb2b429b5aa35a4b5b795a23f97b33c681",
+        "human-name-compare-0.3.6.tar.gz"
+      ]
     }
   },
   "hummingbird": {
@@ -35211,6 +35465,14 @@
       ]
     }
   },
+  "jinja2djangotags": {
+    "0.1.1": {
+      "sdist": [
+        "0eb8826f8180fe5ea2b754afd8fa56e1e3587306f45eacdb8326814810013919",
+        "jinja2djangotags-0.1.1.tar.gz"
+      ]
+    }
+  },
   "jirapy": {
     "0.1": {
       "sdist": [
@@ -36707,6 +36969,14 @@
       ]
     }
   },
+  "lastpasspython": {
+    "0.1.1": {
+      "sdist": [
+        "3322c5bf11e8bd7f244735074402ed910cfa2c8f65da6120e486247111105e03",
+        "lastpasspython-0.1.1.tar.gz"
+      ]
+    }
+  },
   "launchd-env": {
     "2019.2.25": {
       "sdist": [
@@ -38050,6 +38320,14 @@
       "wheels": {
         "linode_cli-2.15.0-py2.py3-none-any.whl": [
           "f92dc81612f234fdc9ca09ca61047e1b78c94781d4d86d3f5bda2fa0cd8e4b2a",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.16.0": {
+      "wheels": {
+        "linode_cli-2.16.0-py2.py3-none-any.whl": [
+          "03e17a0f5b5415fdcf59b21a3041beb2e49392870f559230671fb4fe7c97f185",
           "py2.py3"
         ]
       }
@@ -39429,6 +39707,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "luizalabsdjangotoolkit": {
+    "0.1.1": {
+      "sdist": [
+        "062b32beedc7a4350380fae98ab5a5c755b0ef0f47afc47dd90a04af7c9c3285",
+        "luizalabsdjangotoolkit-0.1.1.tar.gz"
+      ]
     }
   },
   "lxml-mate": {
@@ -43758,6 +44044,18 @@
         ]
       }
     },
+    "1.14.31.0": {
+      "sdist": [
+        "98b52f719f7fcd7135a93b1a668dd396736e4f6d748de15f749fd519dfa40f43",
+        "mypy-boto3-connect-1.14.31.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_connect-1.14.31.0-py3-none-any.whl": [
+          "236880c5ec431f79cd18531687ee34e1c13f4dbc35b399ab9ca73f2fafc14db8",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "7f0a00ca744901b22bcba4b3d6aa504474669e27f20c70e3982d0b17ca416cee",
@@ -45336,6 +45634,18 @@
       "wheels": {
         "mypy_boto3_sms-1.14.30.0-py3-none-any.whl": [
           "b9f32ce7163483db91b2c1bb4f668d2b85ca350dd1fb945db19d0b9615fb3b0c",
+          "py3"
+        ]
+      }
+    },
+    "1.14.31.0": {
+      "sdist": [
+        "6a3da1468b6ac2734266fbcc096082b47ae66ce4d72513295879203925db3908",
+        "mypy-boto3-sms-1.14.31.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sms-1.14.31.0-py3-none-any.whl": [
+          "6168bad5c0b7911f41d2b5e923bb5a67b4b05ab22b7508b7b469b631b9fc8be3",
           "py3"
         ]
       }
@@ -48717,6 +49027,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "opentelemetrysdk": {
+    "0.1.1": {
+      "sdist": [
+        "3b64f144d09cb43c1d83af8913d6e1577f6f9bff8868ff611508ff63a47c09d5",
+        "opentelemetrysdk-0.1.1.tar.gz"
+      ]
     }
   },
   "opps-infographics": {
@@ -58659,6 +58977,14 @@
       ]
     }
   },
+  "pyobjcframeworkoslog": {
+    "0.1.1": {
+      "sdist": [
+        "f934fb5d39f8c168e6af22afe12b7223ccff6889c3280ab5c940bdac600ed408",
+        "pyobjcframeworkoslog-0.1.1.tar.gz"
+      ]
+    }
+  },
   "pyort": {
     "0.1.2": {
       "sdist": [
@@ -59473,6 +59799,14 @@
       ]
     }
   },
+  "pytesttornasync": {
+    "0.1.1": {
+      "sdist": [
+        "baca1232f76f63b0da584a9723cf96016c674322a4cf965b135312ac22bd94d0",
+        "pytesttornasync-0.1.1.tar.gz"
+      ]
+    }
+  },
   "pytgasu": {
     "0.1.1": {
       "sdist": [
@@ -60009,6 +60343,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "pythonscciclient": {
+    "0.1.1": {
+      "sdist": [
+        "bd4dc8620eb69f5e54f42848db73bad0db66f57fad718f1b9fc3d85dee59dfab",
+        "pythonscciclient-0.1.1.tar.gz"
+      ]
     }
   },
   "pythran": {
@@ -63998,6 +64340,14 @@
       "sdist": [
         "5a7f97541a3dab7dd73003c90f7e526f6296652a1ab276de51cb966087ad209c",
         "robotframework-pageobjectlibrary-1.0.2.tar.gz"
+      ]
+    }
+  },
+  "robotframeworkride": {
+    "0.1.1": {
+      "sdist": [
+        "f52b0fa0bac590c338c15c602050e7c42f1c6a3b8ba15d912684f9a5a78859ac",
+        "robotframeworkride-0.1.1.tar.gz"
       ]
     }
   },
@@ -76483,6 +76833,14 @@
       }
     }
   },
+  "vaexhdf5": {
+    "0.1.1": {
+      "sdist": [
+        "dfe6f4cd129aefc3666897660947edc17dde552915fc131e05e659458c3e1662",
+        "vaexhdf5-0.1.1.tar.gz"
+      ]
+    }
+  },
   "vandroguard": {
     "1.5": {
       "sdist": [
@@ -76926,6 +77284,12 @@
       "sdist": [
         "6f7a93b2369ea430c4c97292fac6e0584813b2f55c718fe7950301a264e5e327",
         "viroconcom-1.3.11.tar.gz"
+      ]
+    },
+    "1.3.13": {
+      "sdist": [
+        "476a15a167f71a163930e3614e7f1060a357902f8bc97f88a77a646926552f1e",
+        "viroconcom-1.3.13.tar.gz"
       ]
     },
     "1.3.2": {
@@ -81061,6 +81425,14 @@
       }
     }
   },
+  "vunithdl": {
+    "0.1.1": {
+      "sdist": [
+        "c3abbe375f9a719a812cf23aca55611811196c55e478e74d4a559190ed173902",
+        "vunithdl-0.1.1.tar.gz"
+      ]
+    }
+  },
   "wagtail-contact-reply": {
     "0.1.0": {
       "sdist": [
@@ -82728,6 +83100,14 @@
       "sdist": [
         "5ab713e53dc749a316c48c430fbc9d17d41850aa141382cd73dbd355b60e69ec",
         "yyxMath-1.0.tar.gz"
+      ]
+    }
+  },
+  "z3cbreadcrumb": {
+    "0.1.1": {
+      "sdist": [
+        "16a31e91819f3bd62e9126dd7a0e1e09d9b68f0a4e20ce5b9af7751d5b4da275",
+        "z3cbreadcrumb-0.1.1.tar.gz"
       ]
     }
   },

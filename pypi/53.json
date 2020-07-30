@@ -3151,32 +3151,6 @@
       }
     }
   },
-  "argparse-custom-types": {
-    "0.1.0": {
-      "sdist": [
-        "d416b79a5fe2ff7dcffcdc635e0dd848eb7559ce6b2bd536611f31c31a1840bc",
-        "argparse_custom_types-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "argparse_custom_types-0.1.0-py3-none-any.whl": [
-          "9e57a2163101cb624ea1d783e4c92209ca251e1fa580458f77ac886ad79e0277",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "a9bb00b634778c620e3e4bda996fe1e62af0a6eb8128c16d515d1e2dd0122c9d",
-        "argparse_custom_types-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "argparse_custom_types-0.2.0-py3-none-any.whl": [
-          "98575360e2839e7b989ed68f6358577c2ef6cbd394da7a6de6519fb0623da6f9",
-          "py3"
-        ]
-      }
-    }
-  },
   "argparse-min-example": {
     "0.1": {
       "sdist": [
@@ -16561,6 +16535,22 @@
       ]
     }
   },
+  "djangoimagecropping": {
+    "0.1.1": {
+      "sdist": [
+        "975a21f900a684e6bb09eeef7cd5fe8087470d1ccf84675935170eea41411146",
+        "djangoimagecropping-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangomaintenancemode": {
+    "0.1.1": {
+      "sdist": [
+        "0ccf155009d3cdbab06e8cfc3c57f4b0fde2c913107c337a5b12812154ab8eb6",
+        "djangomaintenancemode-0.1.1.tar.gz"
+      ]
+    }
+  },
   "djangopackage-v0.0.5": {
     "0.0.5": {
       "sdist": [
@@ -17667,6 +17657,14 @@
       }
     }
   },
+  "dohqtfs": {
+    "0.1.1": {
+      "sdist": [
+        "a2b1a7dab1b281b0b16963f0b81e9986de55192d8509c951013d45489fcc1698",
+        "dohqtfs-0.1.1.tar.gz"
+      ]
+    }
+  },
   "dolcera-threshold-finder": {
     "1.0.0": {
       "sdist": [
@@ -18085,6 +18083,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "draftjssanitizer": {
+    "0.1.1": {
+      "sdist": [
+        "04915ec15e4be0cdb860e6a981849a0a014b6221a3f65f6d8e79029edfa619ca",
+        "draftjssanitizer-0.1.1.tar.gz"
+      ]
     }
   },
   "dtoolbioimage": {
@@ -18642,6 +18648,14 @@
       "wheels": {
         "ecmwflibs-0.0.7-cp36-cp36m-manylinux2014_x86_64.whl": [
           "4dc13f3093d0dae8c72f32ee1b0ec8f0f7bd57bc67cf93ac83c957ff7370059c",
+          "cp36"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "ecmwflibs-0.0.8-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "f9a84ea18889b5a8440490015340b453f726751c6ee4e3238e129f7ad8dce77b",
           "cp36"
         ]
       }
@@ -23817,200 +23831,6 @@
       ]
     }
   },
-  "flask-sqlalchemy": {
-    "0.10": {
-      "sdist": [
-        "28b68db5045300b364a83d820b0cc3fde051780516745779a650076d172da81a",
-        "Flask-SQLAlchemy-0.10.tar.gz"
-      ]
-    },
-    "0.11": {
-      "sdist": [
-        "df640f4bb7392b2762a9e07491a7181b7d600e08f32ef563d9da704d247c9042",
-        "Flask-SQLAlchemy-0.11.tar.gz"
-      ]
-    },
-    "0.12": {
-      "sdist": [
-        "453961297ce3538a03b1f0547f5d1b2262389ae673bcda58a4f28dcd7c57e65f",
-        "Flask-SQLAlchemy-0.12.tar.gz"
-      ]
-    },
-    "0.13": {
-      "sdist": [
-        "6ffd58eb3a75f5668fabcfbe33426189ab286d180572756b72485e440277e64c",
-        "Flask-SQLAlchemy-0.13.tar.gz"
-      ]
-    },
-    "0.14": {
-      "sdist": [
-        "29ae9ccdfa220056f832352a24456672523fa7f48bfed5894dc4d0933ec6371f",
-        "Flask-SQLAlchemy-0.14.tar.gz"
-      ]
-    },
-    "0.15": {
-      "sdist": [
-        "21345eaeb581035a5e21cda1042e6d41ba169d9f86047f0baea5239be8ca91c2",
-        "Flask-SQLAlchemy-0.15.tar.gz"
-      ]
-    },
-    "0.16": {
-      "sdist": [
-        "eaffc4252657229bb8da7447726e9e74b83087b96a3b8990121361b322985b6f",
-        "Flask-SQLAlchemy-0.16.tar.gz"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "9e49f4fb6ec58df66509b0bc8302b0da73ac6a9001d04c582affab7087d9c6c4",
-        "Flask-SQLAlchemy-0.5.tar.gz"
-      ]
-    },
-    "0.6": {
-      "sdist": [
-        "9fc7c02ba59b00368d1458a9d821d3238175fb776ae3e268b5a6f2d159d8c53f",
-        "Flask-SQLAlchemy-0.6.tar.gz"
-      ]
-    },
-    "0.9": {
-      "sdist": [
-        "51759c071d5360fffffad74dcb4f50313924500aa0b8f491903c16de1b278e3c",
-        "Flask-SQLAlchemy-0.9.tar.gz"
-      ]
-    },
-    "0.9.1": {
-      "sdist": [
-        "d32f16a33e2548ad16e66bbeb4707d49e7c60066af4983e52468134e1dec65b3",
-        "Flask-SQLAlchemy-0.9.1.tar.gz"
-      ]
-    },
-    "1.0": {
-      "sdist": [
-        "7f0e218fa9066b34b73fdc470386a37ee117b8a862db98c1bca8236d8cffe7a1",
-        "Flask-SQLAlchemy-1.0.tar.gz"
-      ]
-    },
-    "2.0": {
-      "sdist": [
-        "990387d2cff83df7feb40e9d6b286f2679144258480249cbd47b88dc0939e886",
-        "Flask-SQLAlchemy-2.0.tar.gz"
-      ]
-    },
-    "2.1": {
-      "sdist": [
-        "c5244de44cc85d2267115624d83faef3f9e8f088756788694f305a5d5ad137c5",
-        "Flask-SQLAlchemy-2.1.tar.gz"
-      ]
-    },
-    "2.2": {
-      "sdist": [
-        "f0d8241efba723d7b878f73550f5d3c0fbb042416123b52b36640b7491fa208b",
-        "Flask-SQLAlchemy-2.2.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.2-py2.py3-none-any.whl": [
-          "fa3bd6343de231b2b3376a276df6d331c63c766449b660fc04d375a1c21312ac",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.3.0": {
-      "sdist": [
-        "da19ff62e31f82825b5467811c76e2a1c60bba927e175fe091a6f739063dd829",
-        "Flask-SQLAlchemy-2.3.0.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.3.0-py2.py3-none-any.whl": [
-          "5ecbc3b899ef4f23db756474f54d76b2892b0a5cd13e5e8f1e67c1d1ac244cfc",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.3.1": {
-      "sdist": [
-        "ab879cf88d30f2961dd9b4d709dcd31a25e0306855324c7d9a74fca6ad6ef8c3",
-        "Flask-SQLAlchemy-2.3.1.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.3.1-py2.py3-none-any.whl": [
-          "f01a46c84f10904f9f6168701100601640eb718e286b5add3026e033b9dfb23f",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.3.2": {
-      "sdist": [
-        "5971b9852b5888655f11db634e87725a9031e170f37c0ce7851cf83497f56e53",
-        "Flask-SQLAlchemy-2.3.2.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.3.2-py2.py3-none-any.whl": [
-          "3bc0fac969dd8c0ace01b32060f0c729565293302f0c4269beed154b46bec50b",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.4.0": {
-      "sdist": [
-        "0c9609b0d72871c540a7945ea559c8fdf5455192d2db67219509aed680a3d45a",
-        "Flask-SQLAlchemy-2.4.0.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.4.0-py2.py3-none-any.whl": [
-          "8631bbea987bc3eb0f72b1f691d47bd37ceb795e73b59ab48586d76d75a7c605",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.4.1": {
-      "sdist": [
-        "6974785d913666587949f7c2946f7001e4fa2cb2d19f4e69ead02e4b8f50b33d",
-        "Flask-SQLAlchemy-2.4.1.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.4.1-py2.py3-none-any.whl": [
-          "0078d8663330dc05a74bc72b3b6ddc441b9a744e2f56fe60af1a5bfc81334327",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.4.2": {
-      "sdist": [
-        "6cd9f71a97ef18ca5ae7d8bd316a32b82814efe7b088096ba68fddfd8a17cbe7",
-        "Flask-SQLAlchemy-2.4.2.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.4.2-py2.py3-none-any.whl": [
-          "2298f6b874c2a2f1f048eaf21ce5d984e36a04ca849b0ac473050a67c8dae76f",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.4.3": {
-      "sdist": [
-        "0b656fbf87c5f24109d859bafa791d29751fabbda2302b606881ae5485b557a5",
-        "Flask-SQLAlchemy-2.4.3.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.4.3-py2.py3-none-any.whl": [
-          "fcfe6df52cd2ed8a63008ca36b86a51fa7a4b70cef1c39e5625f722fca32308e",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.4.4": {
-      "sdist": [
-        "bfc7150eaf809b1c283879302f04c42791136060c6eeb12c0c6674fb1291fae5",
-        "Flask-SQLAlchemy-2.4.4.tar.gz"
-      ],
-      "wheels": {
-        "Flask_SQLAlchemy-2.4.4-py2.py3-none-any.whl": [
-          "05b31d2034dd3f2a685cbbae4cfc4ed906b2a733cff7964ada450fd5e462b84e",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "flask-telegram": {
     "0.0.1": {
       "sdist": [
@@ -28200,6 +28020,14 @@
       "sdist": [
         "c6172f4ba9a4ab7d3f8e2a0548daa340e0aafaff6cf7ea46d6648298d316e1d1",
         "hssadmin-0.3.1.tar.gz"
+      ]
+    }
+  },
+  "httpiejwtauth": {
+    "0.1.1": {
+      "sdist": [
+        "14fb703f6f33a6c78cc67cce4a9d9754f85f1c253432d1c78b7610f1f3b8e1cd",
+        "httpiejwtauth-0.1.1.tar.gz"
       ]
     }
   },
@@ -32790,6 +32618,18 @@
       "wheels": {
         "luma-2.0.2-py3-none-any.whl": [
           "6a1780f72520648b1434016f4e382d2cc5b15450f000b5d6362de9c1b85e4d49",
+          "py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "sdist": [
+        "2ef9f0ced9d0bfa19563de81910281f7dfe69eaf525e07a38e6ceef6f298af16",
+        "luma-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "luma-2.0.3-py3-none-any.whl": [
+          "be92704455558d8fc4f825ebeaf0446ad309eb0f92fb6738bbb0f14808ddf062",
           "py3"
         ]
       }
@@ -42415,6 +42255,14 @@
       }
     }
   },
+  "opencensusproto": {
+    "0.1.1": {
+      "sdist": [
+        "9116979dce289a81f8878950b7d7ff0c5db96daad05be2bec97128dab7dcfb31",
+        "opencensusproto-0.1.1.tar.gz"
+      ]
+    }
+  },
   "opencv-iav": {
     "0.0.1": {
       "sdist": [
@@ -44773,6 +44621,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pandasdedupe": {
+    "0.1.1": {
+      "sdist": [
+        "aa83c02b5dfac279e9fd28047b7f3a059bd223ceabaddfc4c2527627d058808f",
+        "pandasdedupe-0.1.1.tar.gz"
+      ]
     }
   },
   "paradrop": {
@@ -48808,6 +48664,14 @@
       "sdist": [
         "e9d16795ddda4071efa7cbb954ddc908518b82e89204e349e369de616b07a323",
         "pshare-0.2.tar.gz"
+      ]
+    }
+  },
+  "pulsarclient": {
+    "0.1.1": {
+      "sdist": [
+        "1f912f3031765e1552dd6475b84aead34830d0892486ad54014ed234f4e589e4",
+        "pulsarclient-0.1.1.tar.gz"
       ]
     }
   },
@@ -53377,6 +53241,14 @@
       ]
     }
   },
+  "pythonsearchlightclient": {
+    "0.1.1": {
+      "sdist": [
+        "7fa3f9be6d466e30e08386fd46fee6e8cdb2bce6b92309f32a3d9aab03128f15",
+        "pythonsearchlightclient-0.1.1.tar.gz"
+      ]
+    }
+  },
   "pytmux": {
     "0.0.1": {
       "sdist": [
@@ -56975,6 +56847,14 @@
         "4deb091938a989f9714f7ecacec6779f8a569becd1940f870ef9c1959c029b41",
         "rabbitsketch-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "wheels": {
+        "rabbitsketch-0.0.3-cp34-cp34m-manylinux2010_x86_64.whl": [
+          "aa9cc91136cd4a849f3e5ae2a0c7023bd4c41ca12e2e3135ecdb9cc7b6920c94",
+          "cp34"
+        ]
+      }
     }
   },
   "rainbow-print": {
@@ -57368,6 +57248,14 @@
       "sdist": [
         "f92121c1ca213f74b97bbd994f3dc52d1e1af4ef1720d6847b8629d8dc9396a4",
         "ramrodbrain-0.1.9.tar.gz"
+      ]
+    }
+  },
+  "randompasswordgenerator": {
+    "0.1.1": {
+      "sdist": [
+        "0e6a77d4e3c3a8761cc4a5c8108e2218502a445cf762229d8156b8db49def556",
+        "randompasswordgenerator-0.1.1.tar.gz"
       ]
     }
   },
@@ -58712,6 +58600,42 @@
       "wheels": {
         "replit-1.3.0-py3-none-any.whl": [
           "103cbd70bedf772533225b3e12f7dbd9b46ec4a0a1cad85538d40ef2f0e8b8b0",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "e52c3ff5d959b2f8f86e0fa61cc966381fcb03c155378a2730b306974e40dd28",
+        "replit-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "replit-1.4.0-py3-none-any.whl": [
+          "a7c350604955bcc27730965d6186dfbc9e5bb9e111b370f9ee181a354443491a",
+          "py3"
+        ]
+      }
+    },
+    "1.4.1": {
+      "sdist": [
+        "22f0d80cd2cdf6950b790cb3f019d8b6768b291f477396c581ff7e683cb01e24",
+        "replit-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "replit-1.4.1-py3-none-any.whl": [
+          "962292792d352b96f778e7fc41f38a29990a29a4d2734d6e1a748b8cf82ecf38",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "452b17a2cf159eb288e2428e7cd7e7953ae220776a3336edee01f9432d7191f0",
+        "replit-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "replit-1.4.2-py3-none-any.whl": [
+          "1ec52d55fac77164b9f9823a11f3133ed762334d1af48d931bb302faca4f5ecd",
           "py3"
         ]
       }
@@ -60852,14 +60776,14 @@
         "secondguard-1.1.10.tar.gz"
       ]
     },
-    "2.4.0": {
+    "2.5.0": {
       "sdist": [
-        "bd1e24c423bc5eaaf2dd85c04b6246683389642ebec678e21c68d30e201cbd62",
-        "secondguard-2.4.0.tar.gz"
+        "0b5900ef6f6f8ee2929609ed741d30fc0c6cb14958a3d0c2d799f5abb21803d2",
+        "secondguard-2.5.0.tar.gz"
       ],
       "wheels": {
-        "secondguard-2.4.0-py3-none-any.whl": [
-          "b37762b684d408c34a377864834e44fbb23c9b0ac835b34a8617a81e4acc6bd6",
+        "secondguard-2.5.0-py3-none-any.whl": [
+          "9ea2b3893c247b791b9b5c6183ccfc058499fb79ca0254394f2cc19645b1efd3",
           "py3"
         ]
       }
@@ -65802,6 +65726,14 @@
       "sdist": [
         "c58c7d7ea53bd7b6f97b04a5a20d6b1ebd3fd65523fdf985c6988bddb4d6e714",
         "sphinxcontrib.gist-0.1.0.tar.gz"
+      ]
+    }
+  },
+  "sphinxcontribmermaid": {
+    "0.1.1": {
+      "sdist": [
+        "04d4f089a3a0875ce660ee5449e0de48e36018400fb4a688d338eb8ee97d30ca",
+        "sphinxcontribmermaid-0.1.1.tar.gz"
       ]
     }
   },
@@ -75723,6 +75655,30 @@
           "cp36"
         ]
       }
+    },
+    "3.2.3": {
+      "wheels": {
+        "Udm-3.2.3-cp27-cp27m-win32.whl": [
+          "49cc93728d70a6314cb73b8ee431dc2d4b25c65036ad7027bd0426a0e257914f",
+          "cp27"
+        ],
+        "Udm-3.2.3-cp35-cp35m-win32.whl": [
+          "fc2a51c85460e315bf0908b6eab0d616388e47b18f19dee1ae044ffc12ba1e8d",
+          "cp35"
+        ],
+        "Udm-3.2.3-cp36-cp36m-win32.whl": [
+          "1685c0fdc5f18b175179330c7a6a9208c9e2fbb07543a31da22a14b0cbde82fb",
+          "cp36"
+        ],
+        "Udm-3.2.3-cp37-cp37m-win32.whl": [
+          "d20909c7af9cc3fcdf66aa94854ab7eb8c7bb024f6e93487aaedd86f9bbbe508",
+          "cp37"
+        ],
+        "Udm-3.2.3-cp38-cp38-win32.whl": [
+          "3e8ff25ea7ecc804f8cd5bc363fa5828fb3c20a8960d0161743bb60ac545d59a",
+          "cp38"
+        ]
+      }
     }
   },
   "uncertainty-wrapper": {
@@ -77197,14 +77153,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "word2vec-sisg": {
-    "1.0.0": {
-      "sdist": [
-        "c6e22478ac1f171c646afe620ac5adfb1a94b146d20becf11d47da8f60069e87",
-        "word2vec-SISG-1.0.0.tar.gz"
-      ]
     }
   },
   "wordpy": {
@@ -78908,6 +78856,14 @@
       "sdist": [
         "18c2398b07aa0a3cf39a0babe98bd08599d9183eaacddb81079043ae04e2e510",
         "zoomascii-0.8.tar.gz"
+      ]
+    }
+  },
+  "zopelogin": {
+    "0.1.1": {
+      "sdist": [
+        "5efd9dba9b88f4b5d6f0e8f00f0f365d47ad640cf80aeb2296b1ee2240663e81",
+        "zopelogin-0.1.1.tar.gz"
       ]
     }
   },

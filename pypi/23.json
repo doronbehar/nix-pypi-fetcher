@@ -4629,6 +4629,14 @@
       }
     }
   },
+  "azureclibotservice": {
+    "0.1.1": {
+      "sdist": [
+        "1deebd8623e044a2989f0c5c3e07e4b4df7311f19bec7283a86a8b0a72e0000b",
+        "azureclibotservice-0.1.1.tar.gz"
+      ]
+    }
+  },
   "azuremlwidgets": {
     "0.1.1": {
       "sdist": [
@@ -5318,6 +5326,50 @@
         ],
         "bgfx_python-1.0.2-cp38-cp38-win_amd64.whl": [
           "79467d9ae7c5afa4a66c9289c764792f0a85fe9dfa0dd211242c81dcb7ca07d2",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "b07fdc7c60bb138e07829bed8bde397a3d400ff21f5f70d6ed58090bc58635e8",
+        "bgfx-python-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "bgfx_python-1.0.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "1fdf36a3ccc9727ccd5f31136ee75285a062743c07bd1f39bfbbfad663b2baaa",
+          "cp36"
+        ],
+        "bgfx_python-1.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "140632cc27a85d2555761a41cc3520e62fb4e18a8df7965fd4e3abc5f2299592",
+          "cp36"
+        ],
+        "bgfx_python-1.0.3-cp36-cp36m-win_amd64.whl": [
+          "7e7d6970b6a8f136b634d8b157e867bf1586e968f6d1cf20272eabafa50612ac",
+          "cp36"
+        ],
+        "bgfx_python-1.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "472845011c9bce78d636514fae6cef38c4f727e085fd4fe7ccddef0c6e2d5930",
+          "cp37"
+        ],
+        "bgfx_python-1.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "f4e0dfa8c291f8352335e4c2ff0ecd1d450bfeb9d91bd8ea47b7db6e367ed1db",
+          "cp37"
+        ],
+        "bgfx_python-1.0.3-cp37-cp37m-win_amd64.whl": [
+          "53783ea00f00609806a277cf6a6a1e2f1672bb8389eac7014e698bc2dac99668",
+          "cp37"
+        ],
+        "bgfx_python-1.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "50345f091d6c0dab50f2e68e9e6e87b064f14dcf54b8dff52d7e1595c55afb58",
+          "cp38"
+        ],
+        "bgfx_python-1.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "6e5a0c1ea40de6062e9b869815b307c54edd2a0a19e53c786a8cdbeecf2de882",
+          "cp38"
+        ],
+        "bgfx_python-1.0.3-cp38-cp38-win_amd64.whl": [
+          "e9a09b3c9a7536558612c637f783021fc363b07337f717b5d76b7a3430b7a26f",
           "cp38"
         ]
       }
@@ -6484,6 +6536,12 @@
         "burlap-0.9.81.tar.gz"
       ]
     },
+    "0.9.82": {
+      "sdist": [
+        "f17a71d23e91907606c98912dcd83be645f47cbf342527e1545b1acab71d3e4e",
+        "burlap-0.9.82.tar.gz"
+      ]
+    },
     "0.9.9": {
       "sdist": [
         "9c1309efc00ad4f9cdd3a078ea20c402cc7c396d26d1b39f4e95bc6887f73c40",
@@ -7498,6 +7556,18 @@
       "wheels": {
         "cloudcomponents.cdk_blue_green_container_deployment-1.0.27-py3-none-any.whl": [
           "8c2db633f511ad81ff595b3c09424af20676a15e5bd05606c8a761b30229449f",
+          "py3"
+        ]
+      }
+    },
+    "1.0.28": {
+      "sdist": [
+        "0b3f576c7e707f39f8fa48f8a3c55904214bedf37983a10d4644913ac080a173",
+        "cloudcomponents.cdk-blue-green-container-deployment-1.0.28.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_blue_green_container_deployment-1.0.28-py3-none-any.whl": [
+          "d2d283ea636eac7919ca88c3fadcfc8230cff15ab25e6fac7834b9adfe3c9a25",
           "py3"
         ]
       }
@@ -9111,6 +9181,14 @@
           "cp36"
         ]
       }
+    }
+  },
+  "colconcoveragepyresult": {
+    "0.1.1": {
+      "sdist": [
+        "615c4ef72c11bda18d2facc3d3102287d4793b10c17a74e1aaf740b890740fc7",
+        "colconcoveragepyresult-0.1.1.tar.gz"
+      ]
     }
   },
   "collective.jaop": {
@@ -11443,6 +11521,14 @@
           "py2"
         ]
       }
+    }
+  },
+  "devpiweb": {
+    "0.1.1": {
+      "sdist": [
+        "c362ac9394543ddb87a0be26f957a48d9d4faac5cdc432a1bfe95b5470237c02",
+        "devpiweb-0.1.1.tar.gz"
+      ]
     }
   },
   "devrantsimple": {
@@ -14443,6 +14529,54 @@
           "py3"
         ]
       }
+    }
+  },
+  "djangobootstrappagination": {
+    "0.1.1": {
+      "sdist": [
+        "c0d0e9cbe15d5520ea6bc32d60196e63742d3a22bfeb6033d0bdccd8fd55210b",
+        "djangobootstrappagination-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangochamber": {
+    "0.1.1": {
+      "sdist": [
+        "f025ee65cb086c828b4a477931c0f3e5398e57ea2de8ee44711d88be45429f57",
+        "djangochamber-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangocompositefield": {
+    "0.1.1": {
+      "sdist": [
+        "3baa4b030c0f75055109912b86a6b352c2bbc248cf9371b63b3580383358239c",
+        "djangocompositefield-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangodynamicpreferences": {
+    "0.1.1": {
+      "sdist": [
+        "f49f7a2c092e66bcbae91f7f0a2be5e58f4e789df69c02e9fca8f632efcd98aa",
+        "djangodynamicpreferences-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangoicons": {
+    "0.1.1": {
+      "sdist": [
+        "a3e402ac71fa6c0ee5be51bb6876bf3679ff04abcfbd4544ee4cc2886fc7a762",
+        "djangoicons-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangoprices": {
+    "0.1.1": {
+      "sdist": [
+        "be2193d07addde2a563f7f122cb6e56860172535cd86f5691c673f4b8f5de5c9",
+        "djangoprices-0.1.1.tar.gz"
+      ]
     }
   },
   "djangorestmultiplemodels": {
@@ -18293,6 +18427,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "flasksqlacodegen": {
+    "0.1.1": {
+      "sdist": [
+        "ce5302a9e58a81cb646fd31dbdfa7294f90d9692db093f7dda0102aca5b326cd",
+        "flasksqlacodegen-0.1.1.tar.gz"
+      ]
     }
   },
   "flint-admin-service": {
@@ -22387,6 +22529,14 @@
       }
     }
   },
+  "htmlsanitizer": {
+    "0.1.1": {
+      "sdist": [
+        "4b9a3a887abacb12850aa282201eb63b0fdaf10e46fb5576409b0a6bc4e7ba3f",
+        "htmlsanitizer-0.1.1.tar.gz"
+      ]
+    }
+  },
   "humanstxt": {
     "0.1": {
       "sdist": [
@@ -23232,6 +23382,14 @@
       "sdist": [
         "2e3747cf1794743d24979fba17e9ec9ff9c3d3586f031d704ca63c443731effe",
         "inelegant-0.3.0.tar.gz"
+      ]
+    }
+  },
+  "inotifysimple": {
+    "0.1.1": {
+      "sdist": [
+        "910221cfde178322bc9800a41b5b2eb70872a03bf9a9d4aa8ff2d61c77d50f30",
+        "inotifysimple-0.1.1.tar.gz"
       ]
     }
   },
@@ -28723,6 +28881,14 @@
       ]
     }
   },
+  "mkdocsgitrevisiondatelocalizedplugin": {
+    "0.1.1": {
+      "sdist": [
+        "b5c7a0d1f56c58d71d66bdfdf5beeef2af79cd889adb54106974ee7c5b60a484",
+        "mkdocsgitrevisiondatelocalizedplugin-0.1.1.tar.gz"
+      ]
+    }
+  },
   "ml-ephys": {
     "0.0.1": {
       "sdist": [
@@ -31070,6 +31236,18 @@
         ]
       }
     },
+    "1.14.31.0": {
+      "sdist": [
+        "5d31e253948cea033e0d054da89a7e4259afe0989a19ae4f0611e063954c9472",
+        "mypy-boto3-sesv2-1.14.31.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sesv2-1.14.31.0-py3-none-any.whl": [
+          "296976cd2e1ed3be8f4af0b57f7579f94870f8878b40b150e15bd79d9ec647b3",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "a2057535915b0c9fd1fa5490067ff34b02871af660fd21819e59e1e1cab05b41",
@@ -32077,6 +32255,14 @@
       }
     }
   },
+  "nbsphinxlink": {
+    "0.1.1": {
+      "sdist": [
+        "b800b7de9aaa7f9ed5a487f3e8979d3cca113fd7e04e4683e316274eec621904",
+        "nbsphinxlink-0.1.1.tar.gz"
+      ]
+    }
+  },
   "ndifflib": {
     "0.1.0": {
       "sdist": [
@@ -32114,6 +32300,12 @@
       "sdist": [
         "41ddfd344e67337016108aed90a2783398c3a5da44f86bf7003b1440a10fff01",
         "nebula2-python-0.0.1.post4.tar.gz"
+      ]
+    },
+    "0.0.1.post5": {
+      "sdist": [
+        "499c3a36cfddcb189255ef2ea4bc2b6dd27a165bb7cfa5008f0436b0d979c4fc",
+        "nebula2-python-0.0.1.post5.tar.gz"
       ]
     }
   },
@@ -43185,6 +43377,14 @@
       }
     }
   },
+  "pyobjcframeworkdevicecheck": {
+    "0.1.1": {
+      "sdist": [
+        "8519cca7926e2f26a7e3a967e32c109fa158e8934295f9f6ccec453558e63942",
+        "pyobjcframeworkdevicecheck-0.1.1.tar.gz"
+      ]
+    }
+  },
   "pypare": {
     "0.2.3": {
       "sdist": [
@@ -43393,6 +43593,14 @@
           "3.4"
         ]
       }
+    }
+  },
+  "pyramidchameleon": {
+    "0.1.1": {
+      "sdist": [
+        "750f374840034cc37c8f5abc693c01b794ab54380086d1bc8e033901bf70a116",
+        "pyramidchameleon-0.1.1.tar.gz"
+      ]
     }
   },
   "pyrandint": {
@@ -44640,6 +44848,14 @@
       "sdist": [
         "9a672607c48cbab48b8dc3952802a711129879bc5a63afb2736cc522e2e98d84",
         "python3-weixin-0.0.9.zip"
+      ]
+    }
+  },
+  "pythoniowrapper": {
+    "0.1.1": {
+      "sdist": [
+        "a39294c58a90fb7a9aa33f9c77fa5d8d6c1a58cbb0341450c09b9c2b6b933ce8",
+        "pythoniowrapper-0.1.1.tar.gz"
       ]
     }
   },
@@ -50635,6 +50851,14 @@
       }
     }
   },
+  "setuptoolsodoo": {
+    "0.1.1": {
+      "sdist": [
+        "7308364e49a396bad7d44f00a8fffe54655cefc6753a0d0c0f01b1e24a713fa9",
+        "setuptoolsodoo-0.1.1.tar.gz"
+      ]
+    }
+  },
   "shrine": {
     "0.0.1": {
       "sdist": [
@@ -52751,6 +52975,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "sphinxparamlinks": {
+    "0.1.1": {
+      "sdist": [
+        "fa0d7c4071a9ae761c4978e35f705ff889d2ed7f713426fb49faba739055e735",
+        "sphinxparamlinks-0.1.1.tar.gz"
+      ]
     }
   },
   "sphy": {
@@ -55098,6 +55330,14 @@
       "sdist": [
         "78d60f23a1b8a2d32f400b3c8c06b01142ac7841b75d8a1efcb33515877ba531",
         "tailer-0.4.1.tar.gz"
+      ]
+    }
+  },
+  "tcaws": {
+    "0.1.1": {
+      "sdist": [
+        "073d9b518b7ac7bd7baf99f121b2ccc614503a2bb4ad4b5a11489b1555c4b72d",
+        "tcaws-0.1.1.tar.gz"
       ]
     }
   },
@@ -60264,6 +60504,14 @@
       "sdist": [
         "e62709cfb4299001f1a98beb389eb5320e931536aabae3f075d3fd11bd058544",
         "urlscan-py-1.1.3.tar.gz"
+      ]
+    }
+  },
+  "validatorcollection": {
+    "0.1.1": {
+      "sdist": [
+        "c78811b830b78219222eb305eb8b2858dcf5b81ea2c99eaa7ac793421467c7dd",
+        "validatorcollection-0.1.1.tar.gz"
       ]
     }
   },

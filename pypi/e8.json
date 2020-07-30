@@ -4965,6 +4965,14 @@
       ]
     }
   },
+  "azurestoragefileshare": {
+    "0.1.1": {
+      "sdist": [
+        "387bd40f5134527ad7a4dfe8e177e13f134d5048dcd38b975bdb6befedf79c36",
+        "azurestoragefileshare-0.1.1.tar.gz"
+      ]
+    }
+  },
   "backup2swift": {
     "0.1": {
       "sdist": [
@@ -6066,6 +6074,14 @@
       "sdist": [
         "c10eae42a409bd9397351f01a3747d4f14ee5e8b83e8c152c31438230c6e0257",
         "bkup-1.1.0.tar.gz"
+      ]
+    }
+  },
+  "blake2bpy": {
+    "0.1.1": {
+      "sdist": [
+        "e16ec9331fb7b4579427347e7129051247102e1037d1df5f352cdd4a12433325",
+        "blake2bpy-0.1.1.tar.gz"
       ]
     }
   },
@@ -13407,6 +13423,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "d6e63f7695a942d9035ff61c08d09e07820ad33b548a298b4af2f1cfd141f1ec",
+        "django-arvestust-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "django_arvestust-0.3.0-py3-none-any.whl": [
+          "b7c244161526c2ba6b792b616dd8c6f08402112c8b9edfebfd38c25defff0802",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "5aab4dbd998b9a6f4abc631e8afb95c0b2bfd310fc5649d43fad171532186358",
+        "django-arvestust-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "django_arvestust-0.3.1-py3-none-any.whl": [
+          "92b820481b201b8c4915bfed5e77ac0b164ceceb83dc5788cfb44b394555a534",
+          "py3"
+        ]
+      }
     }
   },
   "django-async-test": {
@@ -16184,6 +16224,14 @@
       "sdist": [
         "b35e641ad1fddd9481b265809fd20e710311c742515218205a532036eb41944f",
         "djangorestframeworkcsv-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangosecurity": {
+    "0.1.1": {
+      "sdist": [
+        "3ff7ca3524f9f0e6d256068b24c28626eeb36a299881de4d2e997332e53055fc",
+        "djangosecurity-0.1.1.tar.gz"
       ]
     }
   },
@@ -21821,6 +21869,14 @@
       ]
     }
   },
+  "flaskldap3login": {
+    "0.1.1": {
+      "sdist": [
+        "4dcd82288832a202262debfebfb0aa900c67a0b3a7ee7356a2c1cf22e7086dce",
+        "flaskldap3login-0.1.1.tar.gz"
+      ]
+    }
+  },
   "floris": {
     "0.0.0": {
       "sdist": [
@@ -21966,6 +22022,18 @@
       "wheels": {
         "fluent_tfx-0.0.1-py3-none-any.whl": [
           "9d7089a08630638fda7899fa3f2f2e39c363cabcf630a904df8a6a579e82a526",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "21a97cf606b25ef8a8711700fed33134ce4fc57428a2737e469337484afdd7be",
+        "fluent-tfx-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "fluent_tfx-0.0.3-py3-none-any.whl": [
+          "b94894edf661cf20af61231bf30be00a36cf6b0c799583e36d9132548a7e83f5",
           "py3"
         ]
       }
@@ -31118,6 +31186,12 @@
         "lhcsmapi-1.3.228.tar.gz"
       ]
     },
+    "1.3.229": {
+      "sdist": [
+        "0efb3bafc53818ffa87f514e0e961288ee5ccb452fb6f07a231037d169333d92",
+        "lhcsmapi-1.3.229.tar.gz"
+      ]
+    },
     "1.3.23": {
       "sdist": [
         "72d9dd8d8ce46495e63f0c52f560b3764731c1e2aee7ad36917767d1f84e140f",
@@ -31723,6 +31797,34 @@
           "cp37"
         ]
       }
+    },
+    "20200724": {
+      "sdist": [
+        "414e28b72525e08afd524343ecebafba19da76dfaf7a89029ef8802f2604596f",
+        "libbde-python-20200724.tar.gz"
+      ],
+      "wheels": {
+        "libbde_python-20200724-cp27-cp27m-win32.whl": [
+          "ce8ace06ea12ac949ef7316f61e766a043e4d536a8d1a2274527e5eb4f51973f",
+          "cp27"
+        ],
+        "libbde_python-20200724-cp27-cp27m-win_amd64.whl": [
+          "5ea4838b6dbbe72670ba752e73f13b6468434368fd27f7b68f268a6dc033ec20",
+          "cp27"
+        ],
+        "libbde_python-20200724-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1442e95c89ae9b3d536676ca76e19d953347b8833867d7bd43a0919e682e3a4b",
+          "cp38"
+        ],
+        "libbde_python-20200724-cp38-cp38-win32.whl": [
+          "81479eacbf3e4ae63f78a3717d4f23d9ea4ad20d2625b47a4458fddf6db9f04d",
+          "cp38"
+        ],
+        "libbde_python-20200724-cp38-cp38-win_amd64.whl": [
+          "1c5544e65b828a69f4ed4d65a8cbccc3ff607f07a6c5c5422ba25fa84aaf6cd3",
+          "cp38"
+        ]
+      }
     }
   },
   "lightningmf": {
@@ -31924,6 +32026,18 @@
       "wheels": {
         "lofar_h5plot-2.4.1-py3-none-any.whl": [
           "8c1e5f0e4f09e9f840070ea47892b7d96a51ee4bbf54cf21eb48cd608cec4a8d",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "a344661ad2ff9841c12356c1e5a8fb9a2c97fb5e15e43b247cbfd64a47748d8c",
+        "lofar-h5plot-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "lofar_h5plot-2.5.0-py3-none-any.whl": [
+          "143484fe33556a49d21067bb3e73cf57e276ddea4d319d747f811f239ae23a9c",
           "py3"
         ]
       }
@@ -36832,6 +36946,18 @@
         ]
       }
     },
+    "1.14.31.0": {
+      "sdist": [
+        "dcdfe598fd6d90ee1a22fcfbd9d2efcb3b44a3dda4740a092537701658314a40",
+        "mypy-boto3-route53domains-1.14.31.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53domains-1.14.31.0-py3-none-any.whl": [
+          "b70b96f5022aae5df2b22115a3188aa8fb14f8a22c748755b626eb13e2de573a",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "6f17add0838b0f8e7b21235d108c28e58c014de6f612e50daa5a87d425286617",
@@ -41631,6 +41757,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pantsbuildpantscontribpythoncheckschecker": {
+    "0.1.1": {
+      "sdist": [
+        "6f2239dd5e7d7aa7ee836505e2a9448aa53dd12b90d775b7d12969a28fa11505",
+        "pantsbuildpantscontribpythoncheckschecker-0.1.1.tar.gz"
+      ]
     }
   },
   "parselmouth": {
@@ -49931,6 +50065,14 @@
       }
     }
   },
+  "pytestregressions": {
+    "0.1.1": {
+      "sdist": [
+        "15fbc2a37e1025254f21d06d640b846e37bbdc41c32e2f8a55dde2ba2d493989",
+        "pytestregressions-0.1.1.tar.gz"
+      ]
+    }
+  },
   "python-barbicanclient": {
     "0.1dev": {
       "sdist": [
@@ -50749,6 +50891,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pythonlogindenter": {
+    "0.1.1": {
+      "sdist": [
+        "428628e8ff38a9951aecd4d87dd1e6e909e04c830d04aa8381fe53f5acdf3f72",
+        "pythonlogindenter-0.1.1.tar.gz"
+      ]
     }
   },
   "pytimeplotacq": {
@@ -65252,6 +65402,14 @@
       "sdist": [
         "0dd534ef960cc53f90782aeffce979190a49a637231d745dcb7dbdaadb62c7f6",
         "zope.outputchecker-1.0.0.zip"
+      ]
+    }
+  },
+  "zopeptresource": {
+    "0.1.1": {
+      "sdist": [
+        "c96475f9a38c5233ef2281f35c03c42307ba017078f7848b77ad7bbc31432268",
+        "zopeptresource-0.1.1.tar.gz"
       ]
     }
   },

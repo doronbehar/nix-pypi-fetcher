@@ -1403,6 +1403,14 @@
       }
     }
   },
+  "altairviewer": {
+    "0.1.1": {
+      "sdist": [
+        "9bc8fb032dbd9dc7cf9749678ff1a6a96dd3e433d524c5af9af458eb3afde5c7",
+        "altairviewer-0.1.1.tar.gz"
+      ]
+    }
+  },
   "annotell-auth": {
     "1.0.0": {
       "sdist": [
@@ -5032,6 +5040,14 @@
       "sdist": [
         "8a714201ddcac085d91d34c4b5b29fb6c6e801b56330cd621d7df5b0adda9c2a",
         "bitables-0.tar.gz"
+      ]
+    }
+  },
+  "blackendocs": {
+    "0.1.1": {
+      "sdist": [
+        "e94fce8e2a782c91cb119bc9c795055ab357074c3ebf4eb7808451f630130a4d",
+        "blackendocs-0.1.1.tar.gz"
       ]
     }
   },
@@ -12106,6 +12122,18 @@
         ]
       }
     },
+    "0.17.2": {
+      "sdist": [
+        "762d4fa78f7462d48c7f57c8cb7a4775436299d5f198794e43ca42338153391e",
+        "dbt-redshift-0.17.2.tar.gz"
+      ],
+      "wheels": {
+        "dbt_redshift-0.17.2-py3-none-any.whl": [
+          "4036a6747df7ea348d6c719892b086e66b2dc5426b7367b631312c355a84ca54",
+          "py3"
+        ]
+      }
+    },
     "0.17.2b1": {
       "sdist": [
         "657c3b8aa54b9f2ef2b9882c05e156fd47404ea95e6946d242ad8891fa06f3cc",
@@ -15415,6 +15443,22 @@
       }
     }
   },
+  "djangocompositeforeignkey": {
+    "0.1.1": {
+      "sdist": [
+        "9d36808efa85776d9ecacd76e648947d26f5655dd0035391279b86e6971956be",
+        "djangocompositeforeignkey-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangodbbackup": {
+    "0.1.1": {
+      "sdist": [
+        "d08fb81adb3ab02a96d0e08c48a6f003ba7dfe3cfc6e9b74f36c9197cf1bd9cb",
+        "djangodbbackup-0.1.1.tar.gz"
+      ]
+    }
+  },
   "djangorestframework-recursive": {
     "0.1.0": {
       "sdist": [
@@ -15451,6 +15495,22 @@
           "2.7"
         ]
       }
+    }
+  },
+  "djangosmsvalidator": {
+    "0.1.1": {
+      "sdist": [
+        "8e9ad7cd6c407c178bc90b14d750aa87154cc81491ef5f9933a219be9677f7b3",
+        "djangosmsvalidator-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "djangosummernote": {
+    "0.1.1": {
+      "sdist": [
+        "f9415f73c7577fe0783a7e17f06637db5adac1dc3e538a3503becaf665b66f25",
+        "djangosummernote-0.1.1.tar.gz"
+      ]
     }
   },
   "djangourlfilter": {
@@ -18069,6 +18129,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "flake8breakpoint": {
+    "0.1.1": {
+      "sdist": [
+        "793cc08a9bc06932205c60926f5f2822e587d116973d880b84801d91c1f815af",
+        "flake8breakpoint-0.1.1.tar.gz"
+      ]
     }
   },
   "flama": {
@@ -26074,6 +26142,18 @@
       "wheels": {
         "hmf-3.1.2-py2.py3-none-any.whl": [
           "a088230f2c1fe935f7fe4578d8f0aa422fccb71aef6f1e31f431688c96d36928",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.3": {
+      "sdist": [
+        "e3ea24f280a3b322a11a6d34d4609ab22c948833016b284e4474ebc135b10641",
+        "hmf-3.1.3.tar.gz"
+      ],
+      "wheels": {
+        "hmf-3.1.3-py2.py3-none-any.whl": [
+          "89486e1aabd41ff54888dae411a382963d8b3b814e839d7828c805abb1332847",
           "py2.py3"
         ]
       }
@@ -37176,6 +37256,42 @@
         ]
       }
     },
+    "8.0.dev161": {
+      "wheels": {
+        "NEURON_nightly-8.0.dev161-cp35-cp35m-macosx_10_9_intel.whl": [
+          "c72292a5e91bd711e53d1a1dd602149b2202760d3a6107b0bb90732de3b0d4ba",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev161-cp35-cp35m-manylinux1_x86_64.whl": [
+          "d5ca4413b44d26aeaa34f7b50b05a9d826436abb95664c0c8bec202947dbff9f",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev161-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "c53c1fe1f640d046ef971083369bbf9fcafed07be21730a7fa886c14f8418f90",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev161-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8c772d4e0b58373ded5433d7bcb87ec87b1a138e8bd783c2e489fa426e4a252b",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev161-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "90be19f7b61727673888e5c44ce1c5f1ab528d3bffab766ddbcfbde95dba877e",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev161-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d13b05ddedc8b51f1a64915a88a7a3a969e0834920600746e842da6691d40b97",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev161-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "d5d2efcacd080a332fbf2b7e75bc45652126d13b257c41a0855ee88aa1e05962",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0.dev161-cp38-cp38-manylinux1_x86_64.whl": [
+          "101e6fccfcb1a5d15daf452b5babc9b6634692898696366ef0485181149817ef",
+          "cp38"
+        ]
+      }
+    },
     "8.0.dev89": {
       "wheels": {
         "NEURON_nightly-8.0.dev89-cp35-cp35m-macosx_10_9_intel.whl": [
@@ -41403,6 +41519,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "pandasflavor": {
+    "0.1.1": {
+      "sdist": [
+        "d5e71f6a4957f8517206cff85b45c9640d94bec788bf5489103ce05feb12a82b",
+        "pandasflavor-0.1.1.tar.gz"
+      ]
     }
   },
   "pantsbuild.pants.contrib.jax-ws": {
@@ -49093,6 +49217,14 @@
       ]
     }
   },
+  "quantlibpython": {
+    "0.1.1": {
+      "sdist": [
+        "995be5feee49cebcd353b70010fcb08f0ccfa1fd74ef136077e7d2afa7683503",
+        "quantlibpython-0.1.1.tar.gz"
+      ]
+    }
+  },
   "quark-xpress-tags-to-xml": {
     "1.0": {
       "wheels": {
@@ -49290,6 +49422,18 @@
       "wheels": {
         "r2-0.2-py3-none-any.whl": [
           "4eae6001dafde6f7197a546553365f84fab89cab5351506e90133e9068d84d3d",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "3099c3bc5ab961fda0213aa6a6373f3c691f62d4908e05fc7193d8adf18d960d",
+        "r2-0.3.tar.gz"
+      ],
+      "wheels": {
+        "r2-0.3-py3-none-any.whl": [
+          "7313f9b5b0a8b3745c3c342e7a1fe1948f2c32164a37e8bc7d6fd5e821a5852c",
           "py3"
         ]
       }
@@ -54573,6 +54717,14 @@
       ]
     }
   },
+  "sphinxintl": {
+    "0.1.1": {
+      "sdist": [
+        "f20c7f34b10cd72c83ec88b90fcd9120bc9d5c6afcecb598c57755c0f76677b1",
+        "sphinxintl-0.1.1.tar.gz"
+      ]
+    }
+  },
   "sphinxtheme-simple": {
     "0.1": {
       "sdist": [
@@ -55384,6 +55536,14 @@
       "sdist": [
         "7181d7a4012de77246ef0ac0914b74f2a8e46b0e9f0e5bfea0f5b22fff240771",
         "starflyer-2.1.1.tar.gz"
+      ]
+    }
+  },
+  "stats-by-44": {
+    "0.0": {
+      "sdist": [
+        "896d664e0ab20dd04413f253a2e77d3d73594b195f195e9f582d530efa87b9d8",
+        "stats_by_44-0.0.tar.gz"
       ]
     }
   },
@@ -64627,6 +64787,14 @@
       }
     }
   },
+  "yetanotherdjangoprofiler": {
+    "0.1.1": {
+      "sdist": [
+        "b54d7d01f0cb3bfcae6fe92beb150f139401e10c5dbf8aa908c24550df929211",
+        "yetanotherdjangoprofiler-0.1.1.tar.gz"
+      ]
+    }
+  },
   "ynabintegrationslib": {
     "0.1.0": {
       "sdist": [
@@ -64748,6 +64916,14 @@
       "sdist": [
         "ee70c43b4a0e222604c2214093e6bbb1f251e040313c4fd5a6128e58bf9d3322",
         "ZacNester-1.3.0.zip"
+      ]
+    }
+  },
+  "zopepluggableauth": {
+    "0.1.1": {
+      "sdist": [
+        "9df51ceedd236c52cc48eef54b0e6ac7e41be88e2f9ad98e981c1325e695fbde",
+        "zopepluggableauth-0.1.1.tar.gz"
       ]
     }
   }
