@@ -16869,6 +16869,12 @@
         "4255cae3e17ed5d5b9442daf2e70dec9ffcf6de1d09106b84ba9ffa220d55699",
         "elastic-app-search-7.8.0.tar.gz"
       ]
+    },
+    "7.8.1": {
+      "sdist": [
+        "cb57ffbaca6a006804063d09c57aaf6891e0a7f2867fe538218b37a3acb0a302",
+        "elastic-app-search-7.8.1.tar.gz"
+      ]
     }
   },
   "elisa-patch": {
@@ -36088,6 +36094,18 @@
         ]
       }
     },
+    "1.14.32.0": {
+      "sdist": [
+        "fec45bb8c47ccb2df15ab9302587686f0c17c821b07f8571198bca1fe2b6f1f9",
+        "mypy-boto3-securityhub-1.14.32.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_securityhub-1.14.32.0-py3-none-any.whl": [
+          "dca3b83a75e7496c54eb41f0638841bbfd69ad43c174631238e51e328f7ae1a4",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "81570c8a36926fef06521c840bedc9c85d7f5b2c83e43f7bd3e27d3ad9467812",
@@ -37678,6 +37696,18 @@
       "wheels": {
         "mypy_boto3_worklink-1.14.31.0-py3-none-any.whl": [
           "d52da4ab317ddc30f2222d5a42f4f143668b44d945471b30869ae61cb01c15ae",
+          "py3"
+        ]
+      }
+    },
+    "1.14.32.0": {
+      "sdist": [
+        "58aa250321453768fda987f541e5516dd263f3c8319e0466147230e40b2acb06",
+        "mypy-boto3-worklink-1.14.32.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_worklink-1.14.32.0-py3-none-any.whl": [
+          "66f6a8135aaae9e27e9774f2e1b33ac8f312a50fe1d39792c1fc5b805afb8d50",
           "py3"
         ]
       }
@@ -56885,6 +56915,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.8": {
+      "sdist": [
+        "b5da13281242cca6b399725a348bfb642d731899b5bbd23ed5bee4eea6cf12d3",
+        "scikeras-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "scikeras-0.1.8-py2.py3-none-any.whl": [
+          "47136f8a266ee749193982f2e3642531bd544b889be1684691240978e75d2a6f",
+          "py2.py3"
+        ]
+      }
     }
   },
   "scikit-surgerycalibration": {
@@ -60730,6 +60772,18 @@
       "wheels": {
         "slurmformspawner-2.1.4-py3-none-any.whl": [
           "d5dda77ca78bd789e97436dd464fc4dd51406e89b2680c95ac91f0fd27c5f263",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "8a43340ecfc1f675046704b88559eef3ae8f1b02ff6fd1d72425bffaaac4cf94",
+        "slurmformspawner-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "slurmformspawner-2.2.0-py3-none-any.whl": [
+          "bb3db05ac9d07889bf2840569b2d31693ec37f8bf10da765f88d2dd648f79dcb",
           "py3"
         ]
       }
@@ -67843,6 +67897,18 @@
           "py3"
         ]
       }
+    },
+    "0.3": {
+      "sdist": [
+        "74a45aa2ebfa6e1974ab2537ec4e8426ba4fad5715048f8c3f49d4e14cf45712",
+        "webbot-0.3.tar.gz"
+      ],
+      "wheels": {
+        "webbot-0.3-py3-none-any.whl": [
+          "0fd230ad76086bf60f47221f31851d51ae77593f614db86a00c5a0989d7623a5",
+          "py3"
+        ]
+      }
     }
   },
   "webfpga": {
@@ -69013,6 +69079,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.3.3": {
+      "sdist": [
+        "81195de0ac94fbc8368abbaf9197b88c4f3ffd6c2719b5bf5fc9da744f3d829c",
+        "WTForms-2.3.3.tar.gz"
+      ],
+      "wheels": {
+        "WTForms-2.3.3-py2.py3-none-any.whl": [
+          "7b504fc724d0d1d4d5d5c114e778ec88c37ea53144683e084215eed5155ada4c",
+          "py2.py3"
+        ]
+      }
     }
   },
   "xarray-leaflet": {
@@ -69424,614 +69502,6 @@
       "sdist": [
         "1e36347cfd6bd49ea160694360b920e9a72299db08f7710d862dd84cf54ca1fd",
         "yashkulkarni_distributions-0.1.tar.gz"
-      ]
-    }
-  },
-  "yelp-cgeom": {
-    "0.0.0": {
-      "sdist": [
-        "621a79782a7859dc3303560077a42151e1ff2e31b1f0fd7db92610d22f6a60e7",
-        "yelp_cgeom-0.0.0.tar.gz"
-      ]
-    },
-    "0.1.0": {
-      "sdist": [
-        "30715863172289fc2d58471a291457164e568f8b050aebd81483cb1d13606e26",
-        "yelp_cgeom-0.1.0.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "b2d483e64d4c2eb61e69a1b56984810c7993a66b8e68f579a917129d0ca31ddc",
-        "yelp_cgeom-0.2.0.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "a8307e01666eb3e4ca48992cafa85d53ac17c7476cea045c1ee6ad27043ddfcf",
-        "yelp_cgeom-0.3.0.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "1702be59a7623825adaa1ac527d15bb4d957ccaed4f89fdcdd67c1eb713548c3",
-        "yelp_cgeom-0.4.0.tar.gz"
-      ]
-    },
-    "0.5.0": {
-      "sdist": [
-        "7b4d510e05250b6cd0b77d52f9a6c780960d592e0da95806db4cebed9b27a7e7",
-        "yelp_cgeom-0.5.0.tar.gz"
-      ]
-    },
-    "0.6.0": {
-      "sdist": [
-        "1c63edae62afdbf442aa543b31968272709e77f59e4a797d338c380f4aa86de9",
-        "yelp_cgeom-0.6.0.tar.gz"
-      ]
-    },
-    "0.7.0": {
-      "sdist": [
-        "a3c708da4caac33899e7fe542921d923278aa8d935dd4a5f92532033d93d8b9f",
-        "yelp_cgeom-0.7.0.tar.gz"
-      ]
-    },
-    "0.8.0": {
-      "sdist": [
-        "d9b2f6de7c9e5f08c6a6e35a2c910fa310ec16fc79aa0631d1a17ee52c03d0ea",
-        "yelp_cgeom-0.8.0.tar.gz"
-      ]
-    },
-    "0.9.0": {
-      "sdist": [
-        "1f05b6d6113c6f25a043749dd0bcf011114610b33a5ceb5f16a57de4c61d67c0",
-        "yelp_cgeom-0.9.0.tar.gz"
-      ]
-    },
-    "1.0.0": {
-      "sdist": [
-        "5e263c5c06eb4db27f6557eed89e3db9d6329af527bb6d20c81e4f1939578b77",
-        "yelp_cgeom-1.0.0.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "c60561e02beae8a7bf8f84b2418536c2de4cdd6c7fcf6ac29cbcd2fa2e918b7b",
-        "yelp_cgeom-1.1.0.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "2a88f5208e4c6a3169048184ef9f993388078180baf0472e55616130650cbb65",
-        "yelp_cgeom-1.2.0.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "58615213ad342eb8cda2664eebe4624b0ee5b1b97e5549fb1fd767b2d07516ec",
-        "yelp_cgeom-1.3.0.tar.gz"
-      ]
-    },
-    "1.3.1": {
-      "sdist": [
-        "151c7cd61a0ff30b2654f79edc7c9567ee3e937c60e9bbf8a07c4fe5d3b09b59",
-        "yelp_cgeom-1.3.1.tar.gz"
-      ]
-    },
-    "1.4.0": {
-      "sdist": [
-        "c45e9eaf594aedfa3161dce6163eca3c6b63ca3e8c2f1f96047f0888d60d82d9",
-        "yelp_cgeom-1.4.0.tar.gz"
-      ]
-    },
-    "1.5.0": {
-      "sdist": [
-        "3656bee8f718bd78f400115c0de073760ac3de45ce22d339e72ccb7bdd4ee9ba",
-        "yelp_cgeom-1.5.0.tar.gz"
-      ]
-    },
-    "1.6.0": {
-      "sdist": [
-        "df728d86fd3e22d330dc0fe6990daf82c1667e63f7dbba63f57723507838c6dd",
-        "yelp_cgeom-1.6.0.tar.gz"
-      ]
-    },
-    "1.7.0": {
-      "sdist": [
-        "b309d6231573f622272923da0a79428e2065e1ea8f0f470cb0726bfddcda17cb",
-        "yelp_cgeom-1.7.0.tar.gz"
-      ]
-    },
-    "1.8.0": {
-      "sdist": [
-        "a0c7144e46aa1a1e475ef87878a0d257deb6ddcd1be3f2c9bb8e56fff3beeecf",
-        "yelp_cgeom-1.8.0.tar.gz"
-      ]
-    },
-    "1.9.0": {
-      "sdist": [
-        "58bc9324b97b242c1d7c67bfa885f1326f05fd6287f41f7ae0133b523bd5b791",
-        "yelp_cgeom-1.9.0.tar.gz"
-      ]
-    },
-    "2.0.0": {
-      "sdist": [
-        "2f120df4990f031de7648ac354ffb1c063762f22a795190296a4810a8132fc31",
-        "yelp_cgeom-2.0.0.tar.gz"
-      ]
-    },
-    "2.1.0": {
-      "sdist": [
-        "3f8391bd5e46fa458395b9e9c9c716962d61db1f54e8916f6db39b613c72298e",
-        "yelp_cgeom-2.1.0.tar.gz"
-      ]
-    },
-    "2.2.0": {
-      "sdist": [
-        "8e9ed4ba19b10344fc74baee5ac0542a5217b233ec7d58fa2e10c2b3e87974eb",
-        "yelp_cgeom-2.2.0.tar.gz"
-      ]
-    },
-    "2.3.0": {
-      "sdist": [
-        "f5ab4dd904e8827ee99fe4e65d7d6a5d4f0e3c7e4639edc355725c97aa6f8844",
-        "yelp_cgeom-2.3.0.tar.gz"
-      ]
-    },
-    "2.4.0": {
-      "sdist": [
-        "170f0b7a44d5fe40a71ea7da74e283ae722607271419e62cee646d25c361454d",
-        "yelp_cgeom-2.4.0.tar.gz"
-      ]
-    },
-    "2.5.0": {
-      "sdist": [
-        "9b788f418a1fbb379f01f105c5a4662e9e16ce94f7460d63ce577962850a1a4c",
-        "yelp_cgeom-2.5.0.tar.gz"
-      ]
-    },
-    "2.6.0": {
-      "sdist": [
-        "f217daec7792a1928f2b3846badb8e18f5396dbf53c4d896bfdf57da51125261",
-        "yelp_cgeom-2.6.0.tar.gz"
-      ]
-    },
-    "2.7.0": {
-      "sdist": [
-        "3b67bfb9d295a65cdb43c9d7426260ae96e14069fdcb34225dc5372158ab2b04",
-        "yelp_cgeom-2.7.0.tar.gz"
-      ]
-    },
-    "2.8.0": {
-      "sdist": [
-        "89ebff348d80a41bbf1f3b3833b9b96cef1e2faf7d9f47bc8808fccd63498e09",
-        "yelp_cgeom-2.8.0.tar.gz"
-      ]
-    },
-    "2.9.0": {
-      "sdist": [
-        "22db432edb12a7f839bb742a8a2e52a075ad6ad3a285878bf97b632533d3b986",
-        "yelp_cgeom-2.9.0.tar.gz"
-      ]
-    },
-    "3.0.0": {
-      "sdist": [
-        "35d070f08cdcb864174bfa37f8b831b6b5066b64952ad39b23fe8b84a142cace",
-        "yelp_cgeom-3.0.0.tar.gz"
-      ]
-    },
-    "3.1.0": {
-      "sdist": [
-        "5fa72b7899a9ac77acaa90a7b24368799ed4e74ab15cd88eca89846aef544828",
-        "yelp_cgeom-3.1.0.tar.gz"
-      ]
-    },
-    "3.2.0": {
-      "sdist": [
-        "8fe6aea7db3d3af0b0192f7665b68cfdb800d1c0e30e01cf3dffaac522c0ac0c",
-        "yelp_cgeom-3.2.0.tar.gz"
-      ]
-    },
-    "3.3.0": {
-      "sdist": [
-        "2143c8576626bd8525e4b16f7ee302018971b92988879f03885bd578b8c04ecb",
-        "yelp_cgeom-3.3.0.tar.gz"
-      ]
-    },
-    "3.4.0": {
-      "sdist": [
-        "e54206896cdbc1e749b9c13173828546b2edc4096f13d5cb6254fd8c73384012",
-        "yelp_cgeom-3.4.0.tar.gz"
-      ]
-    },
-    "3.5.0": {
-      "sdist": [
-        "0a0320faf6ba9ac139c05ee2d14799a4c563634b1849ed9b821a80a97c474ce0",
-        "yelp_cgeom-3.5.0.tar.gz"
-      ]
-    },
-    "3.6.0": {
-      "sdist": [
-        "412ea123759081d502774cf73127c098dcd3c9c96b2ce7f0cd03fd9808258a76",
-        "yelp_cgeom-3.6.0.tar.gz"
-      ]
-    },
-    "3.7.0": {
-      "sdist": [
-        "42941a5a19f1a6fcc0d9a50546cfd5d77f25d8b059090b86fafef4b794e92864",
-        "yelp_cgeom-3.7.0.tar.gz"
-      ]
-    },
-    "3.8.0": {
-      "sdist": [
-        "81146d701b88d3041728a274a52a4b47ed7c19bb7d238788e553ff7da1f0b42e",
-        "yelp_cgeom-3.8.0.tar.gz"
-      ]
-    },
-    "3.9.0": {
-      "sdist": [
-        "51575b3b5cfc6c2677e0cd4c0f318ea09440487e067ad4b7b743321764d781f0",
-        "yelp_cgeom-3.9.0.tar.gz"
-      ]
-    },
-    "4.0.0": {
-      "sdist": [
-        "16d0ae2c6b784e7817b98f1da4bb93dd71f54bb9131d023acd8bbbfc0b3acb4a",
-        "yelp_cgeom-4.0.0.tar.gz"
-      ]
-    },
-    "4.1.0": {
-      "sdist": [
-        "26e996a60cb5da4d86e3203976e3a5f2429853a5e094891bd49a56fb073eb71c",
-        "yelp_cgeom-4.1.0.tar.gz"
-      ]
-    },
-    "4.2.0": {
-      "sdist": [
-        "7151fe8c671edc66a94bf6ae71ea39e4069a05943362ed5b17313d799df6b153",
-        "yelp_cgeom-4.2.0.tar.gz"
-      ]
-    },
-    "4.3.0": {
-      "sdist": [
-        "1f666b2d3823942d2eadbc156a20a0f25e3f47db4023d3a264b87785dc2d1d03",
-        "yelp_cgeom-4.3.0.tar.gz"
-      ]
-    },
-    "4.4.0": {
-      "sdist": [
-        "08ebd16ae12e6b1578212f377fd3caf57c1f054e1b9acae76f234f606eab7ffd",
-        "yelp_cgeom-4.4.0.tar.gz"
-      ]
-    },
-    "4.5.0": {
-      "sdist": [
-        "9172b279490b87b62b9ef94f15fa011b9348f9cf0a0834ab922fb3ffd13173b8",
-        "yelp_cgeom-4.5.0.tar.gz"
-      ]
-    },
-    "4.6.0": {
-      "sdist": [
-        "033c776dfdd063c32daedfe7e6fb290ed8b4cc97531cd582ac6e272f01f9f45d",
-        "yelp_cgeom-4.6.0.tar.gz"
-      ]
-    },
-    "4.7.0": {
-      "sdist": [
-        "6701cc552602b298637f1a8fbb36a2da79d1b7375fedb3615e8becebe262b8d0",
-        "yelp_cgeom-4.7.0.tar.gz"
-      ]
-    },
-    "4.8.0": {
-      "sdist": [
-        "be56781b6f36e99d4e9bb34d4f9c631529093f2ad6f52355642240e18e1dff1a",
-        "yelp_cgeom-4.8.0.tar.gz"
-      ]
-    },
-    "4.9.0": {
-      "sdist": [
-        "d8b0a7e17d3ccb795fbdb4b409858f375c09704e825d2a53084fecadd4f17f3f",
-        "yelp_cgeom-4.9.0.tar.gz"
-      ]
-    },
-    "5.0.0": {
-      "sdist": [
-        "06dfb4643ea07f620346bf3d602eab257569f1d9e37f590f541c16f5810a7921",
-        "yelp_cgeom-5.0.0.tar.gz"
-      ]
-    },
-    "5.1.0": {
-      "sdist": [
-        "966a99d5872de7d0b79dec520ed60c4bbd172b86bb25e80fa6a7d42198a2cec1",
-        "yelp_cgeom-5.1.0.tar.gz"
-      ]
-    },
-    "5.2.0": {
-      "sdist": [
-        "e4fd3e34960b0020c88699d2b48ee7dd9624455549d2776c8497c5f60b139055",
-        "yelp_cgeom-5.2.0.tar.gz"
-      ]
-    },
-    "5.3.0": {
-      "sdist": [
-        "93a89f033d79fe8623f254ccefb683ac8826709074818f1139324084aa1bcb46",
-        "yelp_cgeom-5.3.0.tar.gz"
-      ]
-    },
-    "5.4.0": {
-      "sdist": [
-        "df2394dabfe303bc158b28b343c36654bdc753a5eebd122f65face50b39a5739",
-        "yelp_cgeom-5.4.0.tar.gz"
-      ]
-    },
-    "5.5.0": {
-      "sdist": [
-        "1553a059742bc06c1eda0ee9424824d94ef101c4e525a3229d22397de1aaf1c7",
-        "yelp_cgeom-5.5.0.tar.gz"
-      ]
-    },
-    "5.6.0": {
-      "sdist": [
-        "0a05d92a3979b2ea53d1749832b0e6fb6e9d5dfe388ce01717ba59f0fa10707b",
-        "yelp_cgeom-5.6.0.tar.gz"
-      ]
-    },
-    "5.7.0": {
-      "sdist": [
-        "ca76c586ff70136c45a4a3052a26c4a81b66f742602522f85efd76ced7e79774",
-        "yelp_cgeom-5.7.0.tar.gz"
-      ]
-    },
-    "5.8.0": {
-      "sdist": [
-        "cacaab28f5acf8ec289608cbe9eade4277ab4fe53042c8414455a6f3f6f17d7c",
-        "yelp_cgeom-5.8.0.tar.gz"
-      ]
-    },
-    "5.9.0": {
-      "sdist": [
-        "fb8554ae0a8132027170708280704e9748289f3a910f25ec8c59df2dfb632b19",
-        "yelp_cgeom-5.9.0.tar.gz"
-      ]
-    },
-    "6.0.0": {
-      "sdist": [
-        "6f21fb0cbb7bc9f7c7edd645665818a73fa0a7a8fff6b0c78b6ca48a6c5f1ed1",
-        "yelp_cgeom-6.0.0.tar.gz"
-      ]
-    },
-    "6.1.0": {
-      "sdist": [
-        "2a64cac18c33e27a0cd86215269ff7c07a9f3d4b7a2536c864849fdbbf9f6c13",
-        "yelp_cgeom-6.1.0.tar.gz"
-      ]
-    },
-    "6.2.0": {
-      "sdist": [
-        "9a716d4b48d2a730def5fbe8c086a39091b081e34200a84eaac5d2ad378d3258",
-        "yelp_cgeom-6.2.0.tar.gz"
-      ]
-    },
-    "6.3.0": {
-      "sdist": [
-        "4f87ee777bb2fa104f0d2286fc1cb8b48d36e795d90a6f2e8a998f78028e5dca",
-        "yelp_cgeom-6.3.0.tar.gz"
-      ]
-    },
-    "6.4.0": {
-      "sdist": [
-        "ffe9af2e45612490c7f69624a3b9dbd8a4cc758886349affbf6c944f5d1398fa",
-        "yelp_cgeom-6.4.0.tar.gz"
-      ]
-    },
-    "6.5.0": {
-      "sdist": [
-        "9068ce9fce6c3f6aa14272108e0e7d146f8ae0639a8d1712793443f19f55197c",
-        "yelp_cgeom-6.5.0.tar.gz"
-      ]
-    },
-    "6.6.0": {
-      "sdist": [
-        "389b04aadbe5ccda8a37f34669b77e93e9c631a788360e73bb91bf61a1643eb2",
-        "yelp_cgeom-6.6.0.tar.gz"
-      ]
-    },
-    "6.7.0": {
-      "sdist": [
-        "5fc1689da733bea0003883f19147e6dc0fb1244f8b7735469abdbc8530118421",
-        "yelp_cgeom-6.7.0.tar.gz"
-      ]
-    },
-    "6.8.0": {
-      "sdist": [
-        "94792a8fc478ec148d0dc4795733ae411f5c75d2dbefca6823080ff05ccbafa7",
-        "yelp_cgeom-6.8.0.tar.gz"
-      ]
-    },
-    "6.9.0": {
-      "sdist": [
-        "d6335c1bfa9e76cfaa6edc3aa01a23c0625016f95347776a9323f4aead227ab2",
-        "yelp_cgeom-6.9.0.tar.gz"
-      ]
-    },
-    "7.0.0": {
-      "sdist": [
-        "1cb390bf3d4f7b3929d15245505c4c19cf4f11d588570ebdae69ec4715257426",
-        "yelp_cgeom-7.0.0.tar.gz"
-      ]
-    },
-    "7.1.0": {
-      "sdist": [
-        "7bed68dfe1bbb35dc9cd059b73e51be011c0c4fb821406bc5d92a9e443aec494",
-        "yelp_cgeom-7.1.0.tar.gz"
-      ]
-    },
-    "7.2.0": {
-      "sdist": [
-        "cc9695be3516e8fb48f30212308a7fd770501112d3ee604c9fa606349148c8f8",
-        "yelp_cgeom-7.2.0.tar.gz"
-      ]
-    },
-    "7.3.0": {
-      "sdist": [
-        "4ed02108fc0c880913095376f2aeb09dbdcc56087c55612f01923115e56005d6",
-        "yelp_cgeom-7.3.0.tar.gz"
-      ]
-    },
-    "7.4.0": {
-      "sdist": [
-        "68448e2e4f91237bdcd8bd82fba948510494c5cc55b252cf00a4f85d1d4b577f",
-        "yelp_cgeom-7.4.0.tar.gz"
-      ]
-    },
-    "7.5.0": {
-      "sdist": [
-        "f0d6976bcffae159777fb5bd9c38c2eba88eb57bca5c1472a257ed626b331314",
-        "yelp_cgeom-7.5.0.tar.gz"
-      ]
-    },
-    "7.6.0": {
-      "sdist": [
-        "41e126f994b0315985c8198a6977aedbc906b418635b1a82eb7b0937cca85296",
-        "yelp_cgeom-7.6.0.tar.gz"
-      ]
-    },
-    "7.7.0": {
-      "sdist": [
-        "64996019377a34fb86e58517cb20c272cfacb9833699e02adce9b1d48244b6f5",
-        "yelp_cgeom-7.7.0.tar.gz"
-      ]
-    },
-    "7.8.0": {
-      "sdist": [
-        "9e808d84faea782117f645be7bd638111e29eaa00be2b3ec61fa50e686f72df0",
-        "yelp_cgeom-7.8.0.tar.gz"
-      ]
-    },
-    "7.9.0": {
-      "sdist": [
-        "15140e9a24abf26dc2cfa8ef13413a639b86c92f692a1213ebab9269f9fc69b2",
-        "yelp_cgeom-7.9.0.tar.gz"
-      ]
-    },
-    "8.0.0": {
-      "sdist": [
-        "aba389eb12bc0b53e74845d31feafb12f6867a7cef99328789b81bcd79adab6a",
-        "yelp_cgeom-8.0.0.tar.gz"
-      ]
-    },
-    "8.1.0": {
-      "sdist": [
-        "74c43e12c43de378d2248693e024668388904daef9ca5edb4ca83b88a0c868c6",
-        "yelp_cgeom-8.1.0.tar.gz"
-      ]
-    },
-    "8.2.0": {
-      "sdist": [
-        "ff0ae66ca9f893f39c1a8b1de85da18db14f2d957bbb122d81cff22e6f610799",
-        "yelp_cgeom-8.2.0.tar.gz"
-      ]
-    },
-    "8.3.0": {
-      "sdist": [
-        "ffd1a12c001b203750f93b3076227e4a54efe99e37e4a86c8fd8f36f5c4a2ecd",
-        "yelp_cgeom-8.3.0.tar.gz"
-      ]
-    },
-    "8.4.0": {
-      "sdist": [
-        "7029b4ee0353f8a7ccda0361b3b68edc7e5e097523fabb8703d65e9eb9a35cdb",
-        "yelp_cgeom-8.4.0.tar.gz"
-      ]
-    },
-    "8.5.0": {
-      "sdist": [
-        "2bc0a52926b3d1254a3664ff8bac72c6ce13d721ec91f0ec583b79bfa8b4a2b0",
-        "yelp_cgeom-8.5.0.tar.gz"
-      ]
-    },
-    "8.6.0": {
-      "sdist": [
-        "79d8c3c8e2692ca87dd7c3ccbead3ff7eb8e853f22a7bc5167e9bc3fc629f620",
-        "yelp_cgeom-8.6.0.tar.gz"
-      ]
-    },
-    "8.7.0": {
-      "sdist": [
-        "b7d6d4ca41e6f7b17a1023737050f6037298d6ae107d3f54c0e8fc8bedf5f855",
-        "yelp_cgeom-8.7.0.tar.gz"
-      ]
-    },
-    "8.8.0": {
-      "sdist": [
-        "a4beea7913edd80c0fcf971e416c14868a5a448f0753e9f3dbece1a15df8fdcc",
-        "yelp_cgeom-8.8.0.tar.gz"
-      ]
-    },
-    "8.9.0": {
-      "sdist": [
-        "652f09156802f6eb50344437076ba875d2c71d67ec522d8a70206d4512c39fb7",
-        "yelp_cgeom-8.9.0.tar.gz"
-      ]
-    },
-    "9.0.0": {
-      "sdist": [
-        "9fcaa4d182845d926aa1e2bc6f506664a49fad6df915b4d7fa1811398b93415f",
-        "yelp_cgeom-9.0.0.tar.gz"
-      ]
-    },
-    "9.1.0": {
-      "sdist": [
-        "c5277ff883cef175de0a6256036a69163e85b1a64bca4acf219e21104b300ffd",
-        "yelp_cgeom-9.1.0.tar.gz"
-      ]
-    },
-    "9.2.0": {
-      "sdist": [
-        "73a1bbbfc2603b5b475202b9c7253dc6f9d685f69c0041d946c36e5c2214eb22",
-        "yelp_cgeom-9.2.0.tar.gz"
-      ]
-    },
-    "9.3.0": {
-      "sdist": [
-        "bcdc16ec635591a3803f1fba9f796c070379e8ba4c17ab7ad75f983add2458d4",
-        "yelp_cgeom-9.3.0.tar.gz"
-      ]
-    },
-    "9.4.0": {
-      "sdist": [
-        "f1d5cf3e0c22f27d8be362c203cbd1948aa8002262d81eb290efd59cde5e5254",
-        "yelp_cgeom-9.4.0.tar.gz"
-      ]
-    },
-    "9.5.0": {
-      "sdist": [
-        "9c4b7f40a63175b43b3351ddab937f4156b441de0365186929722e039637e352",
-        "yelp_cgeom-9.5.0.tar.gz"
-      ]
-    },
-    "9.6.0": {
-      "sdist": [
-        "b6e8d0875b19d733e1ede3abfacd8d1068baf9852294c6cf28397d7d109bf110",
-        "yelp_cgeom-9.6.0.tar.gz"
-      ]
-    },
-    "9.7.0": {
-      "sdist": [
-        "713845d33f0b879f8a7b2729f41cecdc57574de0d2015d318d7bf99812b9b25f",
-        "yelp_cgeom-9.7.0.tar.gz"
-      ]
-    },
-    "9.8.0": {
-      "sdist": [
-        "3f638e618d6e4f12ef896643bcbeea33587ce7a5dd6ddc9f7601f2523ccd93bc",
-        "yelp_cgeom-9.8.0.tar.gz"
-      ]
-    },
-    "9.9.0": {
-      "sdist": [
-        "fa52991f436835252cf4e5614d359d1e604ebf34d3095190aff6e989f2a80b64",
-        "yelp_cgeom-9.9.0.tar.gz"
       ]
     }
   },

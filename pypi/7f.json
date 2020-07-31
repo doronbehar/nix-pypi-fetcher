@@ -12072,6 +12072,18 @@
         ]
       }
     },
+    "1.18.109": {
+      "sdist": [
+        "eca463ca5447d7db2eeebd268217b7e73f7e9a22b750505a3efd655dc189ac84",
+        "awscli-1.18.109.tar.gz"
+      ],
+      "wheels": {
+        "awscli-1.18.109-py2.py3-none-any.whl": [
+          "4684fc12c5e9065bcbef01f723df5b2a52d34ef16bc4cf67904339d38bae8b5d",
+          "py2.py3"
+        ]
+      }
+    },
     "1.18.11": {
       "sdist": [
         "f536ea3d95c4aa1614e030e587d8e4d599302d48778492dfc4e3404ee9f551b0",
@@ -63999,6 +64011,20 @@
       ]
     }
   },
+  "sub-dependency-a": {
+    "1.0.0": {
+      "sdist": [
+        "d02e54912192ba3595e2e7e3680082438fbab0ab1edee3e4bd753f49cb17a3c4",
+        "sub-dependency-a-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sub_dependency_a-1.0.0-py3-none-any.whl": [
+          "bee0ca34b47d5010309b98fa351c00b4391141b8af53b3695af50b0f553c74b9",
+          "py3"
+        ]
+      }
+    }
+  },
   "subwordnmt": {
     "0.1.1": {
       "sdist": [
@@ -64684,6 +64710,12 @@
       "sdist": [
         "d7eb45ebd69a2612a6c69a5c15a35cbe33f5720eb44cdd34c8b757d81eca716b",
         "tap-helpscout-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "716946a285f12bed7d3bf3999c5c7aa58d7e91d64c374b46029c95fdd586d942",
+        "tap-helpscout-1.0.2.tar.gz"
       ]
     }
   },
