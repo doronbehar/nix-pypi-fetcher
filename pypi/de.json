@@ -8748,6 +8748,18 @@
         ]
       }
     },
+    "2.1.19.dev20200731": {
+      "sdist": [
+        "a5095b6783182398d36ee4fd15e9a5ecf717fe67f75b212ec3687e9ea3907683",
+        "c2cgeoform-2.1.19.dev20200731.tar.gz"
+      ],
+      "wheels": {
+        "c2cgeoform-2.1.19.dev20200731-py2.py3-none-any.whl": [
+          "2ff0b629c92cd158fddf06b9f47dc3f28e3bf0d8ef51fffc66f73d92679677a7",
+          "3.5"
+        ]
+      }
+    },
     "2.1.2": {
       "sdist": [
         "18d6dcf0841f2d91b45a34cdac15247a5be40d2af21f5bb2d9d63c266b9c3350",
@@ -9500,6 +9512,18 @@
       "sdist": [
         "51dad051a3494cc44b0aa7c96805c4ac397c8702cac48fa50bf172447792bf0a",
         "cmdc-0.2.1.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "2bfef2d228cd4e316ab6b83bdff8f6d4cba551a1f2117037ca7d44fdc981fab0",
+        "cmdc-0.3.0.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "373d35fba48835b2179dbd5a0dfddaab94a237f5e0de35eb17a70a9411d1e6ed",
+        "cmdc-0.3.1.tar.gz"
       ]
     }
   },
@@ -39154,6 +39178,18 @@
         ]
       }
     },
+    "1.14.33.0": {
+      "sdist": [
+        "c5ca5e1856915ede327657160fb61274f78d5ca562c5de4f3d34e8205f4e4767",
+        "mypy-boto3-rekognition-1.14.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.14.33.0-py3-none-any.whl": [
+          "057c1f2198d6e43735a8840699a80da8d58387b00245860a07f2e20e1f1fc5c2",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "5fadb76a9325aa956336368ce33f8f071c663e5711be6f1b5c7c45f579a4c94f",
@@ -40756,6 +40792,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.14.32.0-py3-none-any.whl": [
           "12a6ae050a3d4bb0dcd2a000d9a1cefaa057b5ba37f2fa9724f4edf55ec5ce92",
+          "py3"
+        ]
+      }
+    },
+    "1.14.33.0": {
+      "sdist": [
+        "49817640d0308d7fa2c947a00a8345cfa1e4c9e3fda294d16ecc76736a03089e",
+        "mypy-boto3-route53resolver-1.14.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.14.33.0-py3-none-any.whl": [
+          "96f36b19027c2c842ec201c6df954aa622df421790a8db97cd35919586632751",
           "py3"
         ]
       }
@@ -52983,6 +53031,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.3": {
+      "sdist": [
+        "e4b6a17077775088bba13ee5ef4995a33ab8ab234cebd51d2e276f98a94a2e68",
+        "pyexcel-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "pyexcel-0.6.3-py2.py3-none-any.whl": [
+          "0d7a6e742d26eb190d72f6169481129e8f4ae054a8f1de4f302986849ef008d3",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyexcelxlsx": {
@@ -56556,6 +56616,18 @@
       "wheels": {
         "pytest_doctest_ufunc-0.1.1-py2.py3-none-any.whl": [
           "9bd83cd831a2645cd4f9c4751c1a90025cc28011676f59420da8bad614e66de1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "810deb23d59f3abb064590c513bf9f95b9d6cc39e6d8c4e17ee0ece839837cf2",
+        "pytest-doctest-ufunc-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pytest_doctest_ufunc-0.1.2-py2.py3-none-any.whl": [
+          "148bbe3e1b910f4904979e12e125e4f37eb754eaffd808bedbb7bcff95a830eb",
           "py2.py3"
         ]
       }
@@ -70492,16 +70564,32 @@
           "ac95fd72689fd49f89d55155550a8ba9795e4d97c1a98d4618d2395aa5c56d0b",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200731-cp35-cp35m-win_amd64.whl": [
+          "9d89131d60d73cc99ec92f8d548e73f233960783b454bafe7bcf17ef72620dc0",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200731-cp36-cp36m-manylinux2010_x86_64.whl": [
           "be2661ea62430a64420000894f3ddd82407c5586166bac396b9a4ed0cdb6e532",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200731-cp36-cp36m-win_amd64.whl": [
+          "d1d2713c1a8fe0cd328b65cb2dd31785629abe0fbb368e1ece64fdd380257f50",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200731-cp37-cp37m-manylinux2010_x86_64.whl": [
           "42c507528e3c8842014b88929a0c903a73b9c5b3f6f8793a7f31b102f8a3fba1",
           "cp37"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200731-cp37-cp37m-win_amd64.whl": [
+          "691358ca4fabfccb570b66ab485524b4f62f710041aedd06e71a4b62fedb9801",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200731-cp38-cp38-manylinux2010_x86_64.whl": [
           "17f127590c2178c2e34a40c67512a14139eb762e594c44b4b87f2c7b8ade82dd",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200731-cp38-cp38-win_amd64.whl": [
+          "2913885f9ff4a87fde4710bbd27e37a9106759c2f2ae1e96c499b76ba6bc1601",
           "cp38"
         ]
       }

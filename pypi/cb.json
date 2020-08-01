@@ -3878,6 +3878,18 @@
         ]
       }
     },
+    "1.56.0": {
+      "sdist": [
+        "b0b56252618bf862e1384a16decf24f93cdc94a7ca0a3c2a32aa5cd2feabfef7",
+        "aws-cdk.aws-dlm-1.56.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.56.0-py3-none-any.whl": [
+          "7b151d03bd757f434c1dd69aca48f473116358d289ea72d29b2d96c07413c2a0",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "070cab367a79f76bf49af79f5452b0615b02fe759cb349f51fab890ee4230531",
@@ -30075,6 +30087,12 @@
         "6ac4ad0f9b4389d99f8e9915e19b313acf070c5109def4d5283aa83e5e9716b7",
         "Flask-SignalBus-0.5.3.tar.gz"
       ]
+    },
+    "0.5.4": {
+      "sdist": [
+        "09cdf9a44b33659ee7c03143cd5fefb739fdc2c23b46769e206c26193d61aa45",
+        "Flask-SignalBus-0.5.4.tar.gz"
+      ]
     }
   },
   "flaskbasicauth": {
@@ -52113,6 +52131,102 @@
           "py3"
         ]
       }
+    },
+    "1.1.5": {
+      "sdist": [
+        "f98362e0dacc805641707820e93147fb59294e1e8fea4bc30e064e74b58ae0fb",
+        "pneuro-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.1.5-py3-none-any.whl": [
+          "d95ca8f1f432dded691379ff90e7fc29e46bcd6db0b73e436a785ac5fc6f8967",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "sdist": [
+        "ed7c33e6734921c710f780f6cff305bee9ba192c595325a0ee0f12746443cc32",
+        "pneuro-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.1.6-py3-none-any.whl": [
+          "f058d4ae702bc843355711dd80d1808ba63b498582a7979b55c705721c8d93eb",
+          "py3"
+        ]
+      }
+    },
+    "1.1.7": {
+      "sdist": [
+        "66e65967b22e43f799369b5604db235de196198e01e3df5bda81e8c4e86c97af",
+        "pneuro-1.1.7.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.1.7-py3-none-any.whl": [
+          "bdbe0a9cf14c9814b1540b7222b144f467a5f995bf550e488890f302bf2ea975",
+          "py3"
+        ]
+      }
+    },
+    "1.1.8": {
+      "sdist": [
+        "cdb97f0a98a1716de0ffb4289db138256875f72308d1388b1ed4f70e4653a288",
+        "pneuro-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.1.8-py3-none-any.whl": [
+          "2cb0dc711d54427496ff23843b17592e798fdb6fcb5de08acedb43e96d6ba583",
+          "py3"
+        ]
+      }
+    },
+    "1.1.9": {
+      "sdist": [
+        "b324f9fa92b28777ee34492db23c3fa689764a7f559f01d0079a59b0d2b8c19c",
+        "pneuro-1.1.9.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.1.9-py3-none-any.whl": [
+          "ff7ad063f51c7d65fc482eaf1588d2f421177c418589e8b22673ef2855a90541",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "a0be36768bff09be9d15c0a32a73352e2a532ac27da78fa724224bc5583e05f0",
+        "pneuro-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.2.0-py3-none-any.whl": [
+          "e6d23c5c0dfa94b81686b24857c69647b15b7bfd820df9a43763835ddcb69757",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "a0c41f78b0fa7330c9e35b57402c0534673f4e255a78a736cab217b8c9ff0742",
+        "pneuro-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.2.1-py3-none-any.whl": [
+          "94c11d619322928e457cfe96d5ed29da08fa1496308dffd91b7512c512d75358",
+          "py3"
+        ]
+      }
+    },
+    "1.2.2": {
+      "sdist": [
+        "70926fa65ef113e99eaab45b9a59bc72b2f11288d105e49d7b9f5f7fb98550f5",
+        "pneuro-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pneuro-1.2.2-py3-none-any.whl": [
+          "405316c11d8594bcc9e5f6bc50be585f01e8dc5568038003596dfc3b922c2945",
+          "py3"
+        ]
+      }
     }
   },
   "pnmac-common": {
@@ -73386,12 +73500,20 @@
           "72859c5fd6f488438761f8e01a36982612a8c8b91876fa29e671dddbeb7f132c",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200731-cp35-cp35m-win_amd64.whl": [
+          "567c63c387cb2694141931758bbed6830c9948328abf774110510c45683d8fa4",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200731-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "58fb2530d9208bc6748e447f0d8e419e068fd7ded8ec4f4da65105bbb2993ccb",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200731-cp36-cp36m-manylinux2010_x86_64.whl": [
           "204be47e375ce47aa92fad7cd82a528c116f356adc3a38894a07de13631fda3d",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200731-cp36-cp36m-win_amd64.whl": [
+          "427fd1a0165d0787196bba04412159b4bee249446665a44dfb405bca6242eca1",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200731-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -73402,12 +73524,20 @@
           "55c89b954c2a4af966153198ff4ba71cdfeac692950489fb5288c801d85a16e7",
           "cp37"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200731-cp37-cp37m-win_amd64.whl": [
+          "2d60f92bc8b435cb852cb79a72f9ceffca4e51d6bec1a0e2824da4367d7b3094",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200731-cp38-cp38-macosx_10_14_x86_64.whl": [
           "a9627b2f674a071145d14c58b511ae452ac7aa7156c353c374c7e3d2067a2d0f",
           "cp38"
         ],
         "tf_nightly_cpu-2.4.0.dev20200731-cp38-cp38-manylinux2010_x86_64.whl": [
           "4fcba74ed02b9f2e05f5cdc714455d4be0a56b82fa560c0315a7d69ce6bf4e7b",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200731-cp38-cp38-win_amd64.whl": [
+          "d83fa093567eb894662dfdabf543d15db0251fd7e9e8eac588a01cb0f0c4bb54",
           "cp38"
         ]
       }

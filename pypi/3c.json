@@ -685,6 +685,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.5": {
+      "sdist": [
+        "4c98a995d0516f502ba191fa3ac973ee72b93425e7eab3cdf770516c6e93c780",
+        "aioazuredevops-1.3.5.tar.gz"
+      ],
+      "wheels": {
+        "aioazuredevops-1.3.5-py3-none-any.whl": [
+          "5b0b6e58bc3b86af62e6158eec59cc62051f629437454407be1f3ab77c8ae3ad",
+          "py3"
+        ]
+      }
     }
   },
   "aioeventlet": {
@@ -5198,6 +5210,18 @@
         ]
       }
     },
+    "1.56.0": {
+      "sdist": [
+        "3a0f423b113f662f4fed12114d69f1e6a815b26729c236464e0e6dc3a3a64076",
+        "aws-cdk.aws-kms-1.56.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kms-1.56.0-py3-none-any.whl": [
+          "7fe761baff4185018ff8e9173e3fbb04906db5ec8b5a1be3967999c51c88ca88",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "7a3448205cf0c7238a637733359ddfcb075a25355ace50dc13d81607b2079ab9",
@@ -6185,6 +6209,18 @@
           "py3"
         ]
       }
+    },
+    "1.54.0": {
+      "sdist": [
+        "393498e134e1240b6a83bf7a0357685647fa8d953d532319a6cb99dee912e6bf",
+        "aws-solutions-constructs.aws-apigateway-lambda-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_lambda-1.54.0-py3-none-any.whl": [
+          "d9fae9c7283a4e7f0a2d779da7b3dae81fc36fb48879018543676f2222094406",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana": {
@@ -6280,6 +6316,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.53.0-py3-none-any.whl": [
           "a5580d4f1a202eb0ade5619eba58735c1285c3611aeddd64eaed2927c84e8aa9",
+          "py3"
+        ]
+      }
+    },
+    "1.54.0": {
+      "sdist": [
+        "826a27e2994debaf980da0d7746f7f2084227941a6edd388d6a011db76bb3c34",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.54.0-py3-none-any.whl": [
+          "dc13e830c64b941130df8d047f82ba9995998782b1609472f13d9883107a824e",
           "py3"
         ]
       }
@@ -8302,6 +8350,20 @@
       "wheels": {
         "bing-0.31-py3-none-any.whl": [
           "8a44bb338c2a595be746835d151ba912a85e524fc46cc532a38275b2bc44bfba",
+          "py3"
+        ]
+      }
+    }
+  },
+  "bits-sftp": {
+    "1.0.0": {
+      "sdist": [
+        "8ccae79f952f84bc1919cebc4b27cc5ad26d1dbc0ce8a74dd3a151795b53da0a",
+        "bits-sftp-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "bits_sftp-1.0.0-py3-none-any.whl": [
+          "c09870486b6618bb014366adaf63c2a0b8eacd42ea6c873b4e42339b9387c941",
           "py3"
         ]
       }
@@ -41120,6 +41182,18 @@
         ]
       }
     },
+    "1.14.33.0": {
+      "sdist": [
+        "1a8e065ac423d19bafc316a90a3ca2ae120c720df13955e3bd15b89b864a57f7",
+        "mypy-boto3-emr-1.14.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_emr-1.14.33.0-py3-none-any.whl": [
+          "01ef799dd47f865bfb3db3b06e1a579d12c1cd12dc5cde2981a9852a49c8498c",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "509de6e984e61faca16bddf3ffef441fc2f94092e94e3354e5a9e02f6bd5ee7a",
@@ -49375,6 +49449,18 @@
         "5fce4e518a3de572eb5603b03e939e60def548fbece88b46322e36005c7cf99a",
         "pumpkin_supmcu_i2cdriver-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "003fb8c7c73483649a6c9866f65c282debf1b7b5f99e788b0f182d399969dc56",
+        "pumpkin_supmcu_i2cdriver-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "bb1d1e5f233fb8a6ee7308a562f48f74148b57d53afa97fa0bbff6e0e0d3c135",
+        "pumpkin_supmcu_i2cdriver-0.1.3.tar.gz"
+      ]
     }
   },
   "push-receiver": {
@@ -54696,28 +54782,10 @@
         "qmcpy-0.2.tar.gz"
       ]
     },
-    "0.3.1b0": {
+    "0.3.2rc0": {
       "sdist": [
-        "ec52e1aaddae0b5468266449cfc837113dde8e09b9ffce0a4007a5859b94ee6b",
-        "qmcpy-0.3.1b0.tar.gz"
-      ]
-    },
-    "0.3.1rc0": {
-      "sdist": [
-        "6c973f72db2c6956173bac6bddf636de4d5ada95fbdb4aabb2bfd0977728a093",
-        "qmcpy-0.3.1rc0.tar.gz"
-      ]
-    },
-    "0.3.2a0": {
-      "sdist": [
-        "74c53d341e1cc8bd8293eb92ed2a7d4cfb5613bc5a993a67ac45d86e1e14f0bb",
-        "qmcpy-0.3.2a0.tar.gz"
-      ]
-    },
-    "0.3rc0": {
-      "sdist": [
-        "ae29d6d851febd5b92ac3c18e59d74771cfee77a1edf2e16f7bb2a5cd8141b1e",
-        "qmcpy-0.3rc0.tar.gz"
+        "e673048e17640e194b2835e2d948e3b0b760b51b96a840ebad0698331e06c0f7",
+        "qmcpy-0.3.2rc0.tar.gz"
       ]
     }
   },
@@ -62166,6 +62234,12 @@
       "sdist": [
         "60b0edf88429a4a80ec3d5fc476c5af55d899574b63c80957ca710108aefce52",
         "tap-shopify-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "e5731c22cae8dd91977109b678af28922a01981296c30d0bc015b1958cd6c21f",
+        "tap-shopify-1.2.2.tar.gz"
       ]
     }
   },

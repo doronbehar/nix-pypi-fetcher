@@ -3055,6 +3055,14 @@
           "py3"
         ]
       }
+    },
+    "1.56.0": {
+      "wheels": {
+        "aws_cdk.aws_cassandra-1.56.0-py3-none-any.whl": [
+          "f58f9df89586b82c57be61453ded7b98888b6b3fe1f96cb3a9045ba2c4953d14",
+          "py3"
+        ]
+      }
     }
   },
   "aws-console": {
@@ -3208,6 +3216,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_cloudfront_apigateway_lambda-1.53.0-py3-none-any.whl": [
           "08d0588b851e7433818931f6fee762bd33ff6f0be462891971d3215e711882a4",
+          "py3"
+        ]
+      }
+    },
+    "1.54.0": {
+      "sdist": [
+        "8290dce4498d3de76983c2c654869dd2733bab71acd97b817351a5e25547f262",
+        "aws-solutions-constructs.aws-cloudfront-apigateway-lambda-1.54.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cloudfront_apigateway_lambda-1.54.0-py3-none-any.whl": [
+          "8cbf411bc05288fa70437f10ea26d9f682baa7ea729b299ec234ad380b0525fa",
           "py3"
         ]
       }
@@ -11660,14 +11680,6 @@
       "sdist": [
         "a5360bcb6d09036d4b4d8884f76519e9cf3ebbd9f1528ca46e65011ab916b72a",
         "digg4-0.1.tar.gz"
-      ]
-    }
-  },
-  "distributions-fmy205": {
-    "0.1": {
-      "sdist": [
-        "e564b17d66bd6a237138003dd6c966d74bfe0ceb290eb1138aff230132c3b5fe",
-        "distributions_fmy205-0.1.tar.gz"
       ]
     }
   },
@@ -21487,6 +21499,18 @@
           "py3"
         ]
       }
+    },
+    "20200731.0": {
+      "sdist": [
+        "a4f202747937d0171a0ec6e8f2c40d1abbe9819277b1adfd27c8fdacd3e931af",
+        "fmcapi-20200731.0.tar.gz"
+      ],
+      "wheels": {
+        "fmcapi-20200731.0-py3-none-any.whl": [
+          "aacfd3997032612a894e701fee4ba8476cc7bd8ed3835d08974b5d44ec787678",
+          "py3"
+        ]
+      }
     }
   },
   "fontcrusher": {
@@ -22424,6 +22448,12 @@
       "sdist": [
         "0f1c3f9efb6dc511153c654800015a41391d4f17aa30b9880512bbeef492f057",
         "GameHub-1.1.7.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "b40a731755a158bb6409cacaea060f9aaa9c0e8e8038d50f68c21a045b4f41b1",
+        "GameHub-1.2.0.tar.gz"
       ]
     }
   },
@@ -27983,80 +28013,6 @@
         "kipoiseq-0.4.1-py3-none-any.whl": [
           "394e807d7f791701b9149a3b6fd9704756e9b6a040277c035234647b2b20078f",
           "py3"
-        ]
-      }
-    }
-  },
-  "kivy-examples": {
-    "1.10.0": {
-      "wheels": {
-        "Kivy_examples-1.10.0-py2.py3-none-any.whl": [
-          "8a1a3d389d99184d63cc3de0b7cc13a18648e46f6236ebf4d7bf074cff05c4f1",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.10.1": {
-      "wheels": {
-        "Kivy_examples-1.10.1-py2.py3-none-any.whl": [
-          "5df09d9c3e902c3d1ac29c7f461eae0bd31371137b0dc19319d90cb9a29c0329",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.11.0": {
-      "wheels": {
-        "Kivy_examples-1.11.0-py2.py3-none-any.whl": [
-          "e279c59371599c5f7ef07aa3d9bd65b47d6f648032533455d7ba7c421d05f95e",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.11.0rc1": {
-      "wheels": {
-        "Kivy_examples-1.11.0rc1-py2.py3-none-any.whl": [
-          "cff3367b57e26ffefac98e2ff7f14d677aeb7007f0e40d864d43ec2abef18d9e",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.11.0rc2": {
-      "wheels": {
-        "Kivy_examples-1.11.0rc2-py2.py3-none-any.whl": [
-          "8ed1f805b2a1bdf15933cefa12c6967c3e6a6eb34e04ddc7947bc60854699e63",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.11.1": {
-      "wheels": {
-        "Kivy_examples-1.11.1-py2.py3-none-any.whl": [
-          "5d052a615f8a22345b74f8020601d011e7b84154aa5f910f3aeb86920e95caa4",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0rc1": {
-      "wheels": {
-        "Kivy_examples-2.0.0rc1-py2.py3-none-any.whl": [
-          "42e020b47d44410b38b0a04cdeea58fc445d77978d9e4d5640e3715b96adebb3",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0rc2": {
-      "wheels": {
-        "Kivy_examples-2.0.0rc2-py2.py3-none-any.whl": [
-          "3347e38226d3c88723dd9a9657fdd362d5b2eef9654d40ff3419965ef3247bb3",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0rc3": {
-      "wheels": {
-        "Kivy_examples-2.0.0rc3-py2.py3-none-any.whl": [
-          "b7042a4af6b3ea25e596c54ec77cd6793a0f77716ad2ef8cedd9b98a1f6a43f2",
-          "py2.py3"
         ]
       }
     }
@@ -35282,6 +35238,14 @@
       "wheels": {
         "note_seq-0.0.0-py3-none-any.whl": [
           "bfe37ac11268b91454c574e2dffb41d79f64ff923d9135fd70c764bbe4e811f6",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "wheels": {
+        "note_seq-0.0.1-py3-none-any.whl": [
+          "0662c1a0f60e7f0024c2d3002c68a767e0422417a925dd42bf05b244b4b64621",
           "py3"
         ]
       }
@@ -50417,20 +50381,6 @@
         "9dcc3bec8d3b5ced4381b8b13c224d3c499b6957e09b1edd4dbea6832e80f7d3",
         "python_grpc_prometheus-0.2.0.tar.gz"
       ]
-    }
-  },
-  "python-lib": {
-    "0.1.0": {
-      "sdist": [
-        "f7c360f7ad4fa6c73f6faec3d6bd1617e101461074d92d33d22e1d1e3ef42df5",
-        "python_lib-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "python_lib-0.1.0-py2.py3-none-any.whl": [
-          "5adf55e15da880e0d3862e216d8991c6d31166b33eb4d318936b96500dc530ab",
-          "py2.py3"
-        ]
-      }
     }
   },
   "python-libpython-debian-bin": {
