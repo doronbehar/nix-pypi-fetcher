@@ -5054,6 +5054,18 @@
         ]
       }
     },
+    "2.10.0": {
+      "sdist": [
+        "0df2121101ed3393f70ca0f4f4cdd76f03f7135c9666ec857e190b257bf19b4d",
+        "azure-cli-core-2.10.0.tar.gz"
+      ],
+      "wheels": {
+        "azure_cli_core-2.10.0-py3-none-any.whl": [
+          "c39474fcc2d9ffbf8fa41e0d1a33b8cb0de313b4c432d000d715b4b4bfc062ae",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "b4f256c71be7da1a81f36339003ad12b630b3cac729cd0ed946babdb4e0e78fe",
@@ -37267,6 +37279,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.0": {
+      "wheels": {
+        "odoo13_addon_partner_fax-13.0.1.1.0-py3-none-any.whl": [
+          "2148ce4b9e4a6267883446e5a5410c3bf01eb421e4d847852a463f12e29328fb",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-l10n-ro-account-bank-statement-import-mt940-brd": {
@@ -62371,6 +62391,18 @@
           "2.7"
         ]
       }
+    },
+    "2.1.8": {
+      "sdist": [
+        "b9bc26dc1abedfc9ad1459564213ccd7c8ba7384b00a2f54c0929e6373719984",
+        "scalyr-agent-2-2.1.8.tar.gz"
+      ],
+      "wheels": {
+        "scalyr_agent_2-2.1.8-py2.py3-none-any.whl": [
+          "d0c46038fa06d9b442125a60d3622b24c8c71f90dc4fd055b17cd10cc478a46b",
+          "2.7"
+        ]
+      }
     }
   },
   "scikit-video": {
@@ -75694,6 +75726,110 @@
         ],
         "tfa_nightly-0.11.0.dev20200803014932-cp38-cp38-win_amd64.whl": [
           "95d188f8124ba16ee86b0a4cd992e3dd82e6ecc368ce980a4c4bc0518a6085e2",
+          "cp38"
+        ]
+      }
+    },
+    "0.11.0.dev20200804011329": {
+      "wheels": {
+        "tfa_nightly-0.11.0.dev20200804011329-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "aa3a9f6b936c6db56a30355d79306b44e2a64b48efea6022de42f488f58ab363",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d175bd08fbf482af4a15321c1deb9192ec7d2f65f9eff545066d43502278cb3f",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp35-cp35m-win_amd64.whl": [
+          "531b1c6b6c579a9cde29b3fb7b690181c44f8ce3a9c3adf17132fa8d35df9e3c",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "3707466a39517073a31f71d344ac072571c09bc960143f4c3fadad871faffd9a",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "18bdb412ec347fa771a43e03f4173bb5506ef31d7dfa840d54dbf3f8da68bd5a",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp36-cp36m-win_amd64.whl": [
+          "14eb44e961d106a78978086acd3997bb8afbc0c4eb07cedcbd5482d1edfe0fb8",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "69432f7c08603e251e8f187a9be7e270a880c299f0624ad9df31fddcef2c687e",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "19f12f94a8cf7aac44e237aae3fe92c53597928d11559cb762c829bc103de4cd",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp37-cp37m-win_amd64.whl": [
+          "8e9832f03ac7866a680135106c0489ed0d51bb90d8245e306b84d699ded4d3b6",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "2b08cf4dbd23427ba430646fe9ea66d885f2c8c0f0913dd7d0151b71e9ae8f5e",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp38-cp38-manylinux2010_x86_64.whl": [
+          "b9ce5b791b2f8a141784619b084246fa0a411132ab4466ce47c4ad747c69eb98",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200804011329-cp38-cp38-win_amd64.whl": [
+          "d30871af9f79d9e87be7b36cc48bab57205457561036e0ee5fbdf4b8202c09e5",
+          "cp38"
+        ]
+      }
+    },
+    "0.11.0.dev20200804014909": {
+      "wheels": {
+        "tfa_nightly-0.11.0.dev20200804014909-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "d75897fc5abbad535eb4da0dfa87459cef7ef4cde415722fab02fc9fa0255ebd",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "8f57caef24e014f42b4b580e6dd4c8ec0ab38dfd156a310226162f557c63d6d9",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp35-cp35m-win_amd64.whl": [
+          "bcf502aa37dcd846646097189a0af5ad1b8e2d815b96941e1fc2115e430fbb11",
+          "cp35"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "457d8b7bd370fd57d8d9b39621278c84013a9e2dae764c114eb177b8687cd71e",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "1c3fee69acfd8dfdcb50c23ff1bdd6d59ef159bde849a59ba80961598be9d6ec",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp36-cp36m-win_amd64.whl": [
+          "8a6fdb99370a04270eb542878d28b50abaaf441e0434e7d50689ae31b8bf3832",
+          "cp36"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "a1169ae3ece9e077dd8e64a13e0848cf85f4b0546e0ac8be93a9ca80b324c4d8",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "45de5727e5803da386130cdb89ca85ae9ff41df699deae5d74eec594c40607be",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp37-cp37m-win_amd64.whl": [
+          "fc614b6c7a3f4411bb7f5fe65295fcff7a718790b9e9feac47842762a256fbd0",
+          "cp37"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "f1882084692c80658608b56345217d87373f6a7538c652a9e1970eda77575457",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2101ddcc532e7ee5a3f39ac090bc5353c147bdfb4966330525f223cde7de1ac4",
+          "cp38"
+        ],
+        "tfa_nightly-0.11.0.dev20200804014909-cp38-cp38-win_amd64.whl": [
+          "4b4f80665bda00466f1fc3159bff69b1dc1b7d556b094a89521c0c6ce793b044",
           "cp38"
         ]
       }
