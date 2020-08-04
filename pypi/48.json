@@ -121,6 +121,38 @@
           "py3"
         ]
       }
+    },
+    "0.13": {
+      "sdist": [
+        "dad5876e2ab23a79aa4196b606a7a3ac2a5f4d0adb4cbeb3b2a1fd4a8c9ac323",
+        "acousondePy-0.13.tar.gz"
+      ],
+      "wheels": {
+        "acousondePy-0.13-py3-none-any.whl": [
+          "b29f2643bb7130b8e656ac13bad412f2b1350a86d8789f74ac3cc49c22877c69",
+          "py3"
+        ]
+      }
+    },
+    "0.14": {
+      "sdist": [
+        "df7dee0f4a7fb61d43524d034308ba0fbe8af4a0131ce16ff08adb85c2b67870",
+        "acousondePy-0.14.tar.gz"
+      ],
+      "wheels": {
+        "acousondePy-0.14-py3-none-any.whl": [
+          "0eec153f7be03850665fd40aa8218435bb209730c95e2c22f67b9a00534598cd",
+          "py3"
+        ]
+      }
+    },
+    "0.15": {
+      "wheels": {
+        "acousondePy-0.15-py3-none-any.whl": [
+          "1b5a9d8d4ff353fa13e671877c4fae1d9e1a09b251dacbbaf7cc5a85df4cb82d",
+          "py3"
+        ]
+      }
     }
   },
   "adtk": {
@@ -31968,6 +32000,18 @@
         ]
       }
     },
+    "1.14.34.0": {
+      "sdist": [
+        "ee959041f09dd2e00177aaee900fc8a1fb445fa7e6bf69d7d2164f753e8028ac",
+        "mypy-boto3-directconnect-1.14.34.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_directconnect-1.14.34.0-py3-none-any.whl": [
+          "ac5a5c5b73f9d6fbf0c9339db057428367946dd0c7e3fde350ae38f4c31d5561",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "94afacfdc3210a3f1a088067d906da0b39c46a95f840c161582e7c39acc24ac5",
@@ -36160,12 +36204,6 @@
     }
   },
   "otcextensions": {
-    "0.0.1.dev115": {
-      "sdist": [
-        "3b977bdf4c32864e325d558809b3d448e20a446ae323023ede7532f561f83780",
-        "otcextensions-0.0.1.dev115.tar.gz"
-      ]
-    },
     "0.1.0": {
       "sdist": [
         "c96b0cf60338d86761a2e51f64cd77e9ca82e93a8937d3c9fd19b97fe1f3bc6f",
@@ -36268,38 +36306,14 @@
         "otcextensions-0.7.0.tar.gz"
       ]
     },
-    "0.7.1.dev10": {
+    "0.7.1": {
       "sdist": [
-        "503866e1df235101fb722edc0239dcf7efdbc584495e39e597e0132647c70ec6",
-        "otcextensions-0.7.1.dev10.tar.gz"
+        "c00be5a91d8ed7f7324af95147954576fb1ad5fdc36cab2d807534aea0aee1cc",
+        "otcextensions-0.7.1.tar.gz"
       ],
       "wheels": {
-        "otcextensions-0.7.1.dev10-py2.py3-none-any.whl": [
-          "b1a5681577bc005dab7f7964fa055bf60beb53ee79a484ab88f479f238c9e54b",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.7.1.dev11": {
-      "sdist": [
-        "c7dcdadcdc429ab02dee09d97d3a4bf6b12a1ee4123392e1bcfa0524930de0a4",
-        "otcextensions-0.7.1.dev11.tar.gz"
-      ],
-      "wheels": {
-        "otcextensions-0.7.1.dev11-py2.py3-none-any.whl": [
-          "0b349022b3becefd2ca0aca8cd97322639e958c4bb93dd194b75976378234296",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.7.1.dev28": {
-      "sdist": [
-        "8ad852313451ac25e710fad027eb6b27453e9fc8a8573241a65228d45598a116",
-        "otcextensions-0.7.1.dev28.tar.gz"
-      ],
-      "wheels": {
-        "otcextensions-0.7.1.dev28-py2.py3-none-any.whl": [
-          "ed2af8513d85cbfe15ff76af7dfd1708c8cf0bfc65f3e164b92ad630f1366fd0",
+        "otcextensions-0.7.1-py2.py3-none-any.whl": [
+          "2678fb4a4e96192e3e2476314d044f6c7a0e2ac030a78cae859add78e3f7823d",
           "py2.py3"
         ]
       }
@@ -36312,30 +36326,6 @@
       "wheels": {
         "otcextensions-0.7.1.dev7-py2.py3-none-any.whl": [
           "9edf98f4d2adf1ba62fb0a375809e07bc37c249408a06a8f73d0349333a48665",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.7.1.dev8": {
-      "sdist": [
-        "7d75812d7ab89990c3c5b8182d37dc8016662996b1a130d529cc17d0a9f34e3c",
-        "otcextensions-0.7.1.dev8.tar.gz"
-      ],
-      "wheels": {
-        "otcextensions-0.7.1.dev8-py2.py3-none-any.whl": [
-          "1c3ed72270eeca1de1b922ef050f6a83a3cd8e35b5a437cbb9e2f59249bce943",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.7.1.dev9": {
-      "sdist": [
-        "99ec83ff9f0e6a5bebcd60f42d124b05bf589553fa816ed05afe986ecc69c865",
-        "otcextensions-0.7.1.dev9.tar.gz"
-      ],
-      "wheels": {
-        "otcextensions-0.7.1.dev9-py2.py3-none-any.whl": [
-          "9b8964c0957befcb73c069f666fff7909e399e4e8b88796d71a5f5c059f0123d",
           "py2.py3"
         ]
       }
@@ -41880,6 +41870,22 @@
         ],
         "pyre_check-0.0.51-py3-none-manylinux1_x86_64.whl": [
           "65870c096a6451494d416fa4cec5894130e125ee54920e0485235801ce871bee",
+          "py3"
+        ]
+      }
+    },
+    "0.0.52": {
+      "sdist": [
+        "cf33487283c9f0bf582e07026ed4ae0e0fadb4b50e429edcfc0a60632cb28fe0",
+        "pyre-check-0.0.52.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check-0.0.52-py3-none-macosx_10_11_x86_64.whl": [
+          "ad251e363a8707f462d34f3b0898b8e0e3b3bec64522eb9e38f85bf872218668",
+          "py3"
+        ],
+        "pyre_check-0.0.52-py3-none-manylinux1_x86_64.whl": [
+          "2bf97fa0aa4a932d1ce03aa24a4999a6b8e5c89f15eca52e773efb6a1f7f8520",
           "py3"
         ]
       }
@@ -55464,6 +55470,20 @@
       "wheels": {
         "torch_crypto-0.1.1-py3-none-any.whl": [
           "2f9109d4765ffbed8f6c1296f24fffe48fcf2b468de35a971373afb30a91af7b",
+          "py3"
+        ]
+      }
+    }
+  },
+  "torchexpo": {
+    "1.0.0a2": {
+      "sdist": [
+        "9958b4281bbc2ce4b038608fa6d2ea49948ccdb354cc36a1fd89a2c33cfe72bb",
+        "torchexpo-1.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "torchexpo-1.0.0a2-py3-none-any.whl": [
+          "4e76c63cbc5548d908e31e2063f69081e4c053a676c72e61bf5871c86c65f425",
           "py3"
         ]
       }

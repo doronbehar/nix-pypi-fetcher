@@ -1275,6 +1275,18 @@
           "py2"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "dd67d78b791ff6f163a4e98e345314da7c377e1f97927e4f28a1e76652b945c8",
+        "arithmat-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "arithmat-1.1.2-py2-none-any.whl": [
+          "36712f2e48ee22271e8c4c724fee713346f7eb15dba1959940f34902577c394d",
+          "py2"
+        ]
+      }
     }
   },
   "arlo": {
@@ -24031,6 +24043,12 @@
         "a18911ade00ee1f23802852630c0cdc58bb1a3b2fa1e1440d30d9cb0beb6128c",
         "hastexo-xblock-3.6.6.tar.gz"
       ]
+    },
+    "3.6.7": {
+      "sdist": [
+        "6764c96070d011e34c2d5659a34e35410e316b299111a5ecf4b30bf8446535f1",
+        "hastexo-xblock-3.6.7.tar.gz"
+      ]
     }
   },
   "hb-config": {
@@ -37590,6 +37608,18 @@
         ]
       }
     },
+    "1.14.34.0": {
+      "sdist": [
+        "154019cda139a4475799081d9f42c75d2831c268c1f29621f2dafe3fad55c723",
+        "mypy-boto3-devicefarm-1.14.34.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_devicefarm-1.14.34.0-py3-none-any.whl": [
+          "4253b4787363e4d8a932ba47cc6da7a3a64f2aee7871fa0a70014c8b2ad14c8a",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "76eacd87990d6d4ca1ddfec3086a1b4f290e43fa5689d75c9a2d2781b86fb63f",
@@ -49987,6 +50017,130 @@
         "python_copasi-4.28.226-cp38-cp38-win_amd64.whl": [
           "a2bf7ebf520e6fe7f86cbcccc0c160f3f1c79870547fc5ea56bd01d6c69446f4",
           "cp38"
+        ]
+      }
+    },
+    "4.29.227": {
+      "wheels": {
+        "python_copasi-4.29.227-cp27-cp27m-macosx_10_7_x86_64.whl": [
+          "098f3a8d2397ca7eee22b9e0de50fc337ea12d0d864cf66510a4ef6230fc5fe3",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27m-manylinux1_i686.whl": [
+          "d53485a4016d3646a1d91a14950f317148bcaf080ecd8723b71b2e2de438caf5",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27m-manylinux1_x86_64.whl": [
+          "058fc206b9291579251044f9b5021709ac63dba2fd576e35c95e50cc863a5aa8",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27mu-manylinux1_i686.whl": [
+          "1eb0947c6d0b772f9d5a9b900cd9a38a14b30871e768c13f19b919c2a9e8e663",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "e66fc73f0cdfac690d62fbd68f4de812f48589552f9b31f1565ff540c821698b",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27m-win32.whl": [
+          "e975a5569443433f0d02e73de50d21ba601a89ddfecf9536b17e6f482289da31",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp27-cp27m-win_amd64.whl": [
+          "5c0305079de252f6a2dab9308fbf72aa570b3d6cb30e3e44763e7dfab26dff19",
+          "cp27"
+        ],
+        "python_copasi-4.29.227-cp33-cp33m-win_amd64.whl": [
+          "e563cfe4173cf85b3e1ca89eda34bfaf2c309b0df98c6ac47d3999d7ffc5ca3f",
+          "cp33"
+        ],
+        "python_copasi-4.29.227-cp34-cp34m-win_amd64.whl": [
+          "437fed50cf7094d8538a8b10791aa3b8ae688d5bed8ba4a2e820aaaba5203f43",
+          "cp34"
+        ],
+        "python_copasi-4.29.227-cp35-cp35m-manylinux1_i686.whl": [
+          "985b44233e35ad7669e895f0a6ddb023b292bce45e341975c0488557420b9f07",
+          "cp35"
+        ],
+        "python_copasi-4.29.227-cp35-cp35m-manylinux1_x86_64.whl": [
+          "27d4dba31ebb345a9edd4c51d0bd1d66aec3d59027fc1c21f43b8f7360c486ad",
+          "cp35"
+        ],
+        "python_copasi-4.29.227-cp35-cp35m-win32.whl": [
+          "35b588ce6ac6e6704b199d935a798654bc72065eabbe47e9c8ceba46e95f01d3",
+          "cp35"
+        ],
+        "python_copasi-4.29.227-cp35-cp35m-win_amd64.whl": [
+          "c8fd170e453742fcebc1fa1100271f2cb85ef8241a23c9a3bc25a0c2c2feb582",
+          "cp35"
+        ],
+        "python_copasi-4.29.227-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "df35e060bf3f11fb64d310828c2d14543918f3a041ac663fff5b7215de688b35",
+          "cp36"
+        ],
+        "python_copasi-4.29.227-cp36-cp36m-manylinux1_i686.whl": [
+          "40a274028127aabffa881a96c9393b3a063f3c6bbc7574ff4a7d86964999bb72",
+          "cp36"
+        ],
+        "python_copasi-4.29.227-cp36-cp36m-manylinux1_x86_64.whl": [
+          "c78ed021d644e3efb451e22e856c497a05c98153cb1330ba9dbb0c4cacc1a748",
+          "cp36"
+        ],
+        "python_copasi-4.29.227-cp36-cp36m-win32.whl": [
+          "6a5ae20d4c588d8a8b6fbcbebc2a44b03aedcddfc06452aa603198168597178a",
+          "cp36"
+        ],
+        "python_copasi-4.29.227-cp36-cp36m-win_amd64.whl": [
+          "84c94858efca1f5b2131f1431632ef96a7f94bd36bdf42a705da7653f304b04d",
+          "cp36"
+        ],
+        "python_copasi-4.29.227-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "9371e057e06f4bf7582faf444165aca021ecc480d198ab9dca4c460548aa97aa",
+          "cp37"
+        ],
+        "python_copasi-4.29.227-cp37-cp37m-manylinux1_i686.whl": [
+          "9bab9ceb8c23125a91119a156cb06af4a689859309b8e0aac750719bd02c81b3",
+          "cp37"
+        ],
+        "python_copasi-4.29.227-cp37-cp37m-manylinux1_x86_64.whl": [
+          "09d2276355e1252deae29b004cd13b04505055bdac07c75d40d542bd5f66b434",
+          "cp37"
+        ],
+        "python_copasi-4.29.227-cp37-cp37m-win32.whl": [
+          "8357e8c843b12e1019e6bb112085728046600181ef2525ce72233d7c6436b6af",
+          "cp37"
+        ],
+        "python_copasi-4.29.227-cp37-cp37m-win_amd64.whl": [
+          "dafa8040b72dfcbd1a729cc6515a522264682f5e096ee011fab59052d4b8ac98",
+          "cp37"
+        ],
+        "python_copasi-4.29.227-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "c824169609c12c62df4afb0195197677fc1f847ae04e8b83ac111aa63d581f32",
+          "cp38"
+        ],
+        "python_copasi-4.29.227-cp38-cp38-manylinux1_i686.whl": [
+          "942ef44ba198fd1016ec3dba9a31ed8f251e7f894cfddcae45fdb503da4b8575",
+          "cp38"
+        ],
+        "python_copasi-4.29.227-cp38-cp38-manylinux1_x86_64.whl": [
+          "75936c559277b5331d8a9ace0b34334df107724edbf730dd474f8f00bfbd5cbd",
+          "cp38"
+        ],
+        "python_copasi-4.29.227-cp38-cp38-win32.whl": [
+          "aae9a8ec6c0dc5ced9e36936994d28923dc0fd89a22da65a44ed79a0479ff320",
+          "cp38"
+        ],
+        "python_copasi-4.29.227-cp38-cp38-win_amd64.whl": [
+          "c45c2f3c2f90320b5d3ecad610c4143073d8478401fee639f39743a348aea1e5",
+          "cp38"
+        ],
+        "python_copasi-4.29.227-cp39-cp39-manylinux1_i686.whl": [
+          "9f9aa6ff0be594241adbf084bb6c185708c59983d47fee267fd4eca5d9254768",
+          "cp39"
+        ],
+        "python_copasi-4.29.227-cp39-cp39-manylinux1_x86_64.whl": [
+          "25113a8e8ed5aa42c1e3288b61c19915f2891d8dba02868d66c6306f126cafdb",
+          "cp39"
         ]
       }
     }

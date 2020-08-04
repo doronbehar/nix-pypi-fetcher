@@ -5074,6 +5074,14 @@
         ]
       }
     },
+    "1.11.0": {
+      "wheels": {
+        "azureml_contrib_automl_dnn_vision-1.11.0-py3-none-any.whl": [
+          "ddd85bf13b10b4d5e0800e3309796ddddcb026d600237a04e245ce96113c633e",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "wheels": {
         "azureml_contrib_automl_dnn_vision-1.5.0-py3-none-any.whl": [
@@ -12060,6 +12068,18 @@
       "wheels": {
         "dataxmissionprotocol-1.10.0-py3-none-any.whl": [
           "fec2aef966c6fcf49103bbb268e628432124e4f669ebc5dbca1c8265023043fc",
+          "py3"
+        ]
+      }
+    },
+    "1.11.0": {
+      "sdist": [
+        "b46051e8b7f95d8895959bc2320382d55ffa2f228a8e2f423a27d02262934dcd",
+        "dataxmissionprotocol-1.11.0.tar.gz"
+      ],
+      "wheels": {
+        "dataxmissionprotocol-1.11.0-py3-none-any.whl": [
+          "9445a86738af02c055c0710b37611ac16794dfad99db3f350faa8f0036c1abbb",
           "py3"
         ]
       }
@@ -24483,6 +24503,18 @@
         "c1fc3b99cce136c5edd39c2233e4b8da3d550f1ea4d2575605eb3029387c12e9",
         "edx-enterprise-3.4.32.tar.gz"
       ]
+    },
+    "3.4.33": {
+      "sdist": [
+        "a73b8726544faf0d308dad3e49c9a788fae7578cb1f581421bf87842c8bc6f31",
+        "edx-enterprise-3.4.33.tar.gz"
+      ]
+    },
+    "3.4.34": {
+      "sdist": [
+        "2d7b90ef42d7e4c67250772a7ca45059f1c8a00a18c94beda7da97e4e66cfa92",
+        "edx-enterprise-3.4.34.tar.gz"
+      ]
     }
   },
   "einsteinpy": {
@@ -33261,6 +33293,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.5.3": {
+      "sdist": [
+        "2525e9e65137d94b1b69f08627060b6c95dc7394eba1949e7426ed134e50a3a5",
+        "hdx-data-freshness-1.5.3.tar.gz"
+      ],
+      "wheels": {
+        "hdx_data_freshness-1.5.3-py2.py3-none-any.whl": [
+          "b97d0cb3f5c49ea73b3189d1eea1472c69e58e1740ec52e3fa423ba08a376021",
+          "py2.py3"
+        ]
+      }
     }
   },
   "healthcheck": {
@@ -36274,6 +36318,24 @@
       "sdist": [
         "a7360532d8b91df0b9b18a82459a57d768ff4d29ddb51671756e0990a0c9a34b",
         "kicad_bom-3.1.0.tar.gz"
+      ]
+    },
+    "3.1.1": {
+      "sdist": [
+        "36daabe1864ee3c6699bf9b364ab30c77bcb6cb252a97f3f2a194010ea2fa9a0",
+        "kicad_bom-3.1.1.tar.gz"
+      ]
+    },
+    "3.2.0": {
+      "sdist": [
+        "e7613347cedfb39896dc6e9be71b6811738199f21213c1c1296b176f7ea139f9",
+        "kicad_bom-3.2.0.tar.gz"
+      ]
+    },
+    "4.0.0": {
+      "sdist": [
+        "1e540de6d2c605594db0e888b8fe70075d792f70519bf7cefbb0a9cea51722f9",
+        "kicad_bom-4.0.0.tar.gz"
       ]
     }
   },
@@ -43164,6 +43226,18 @@
       "wheels": {
         "mypy_boto3_ecr-1.14.33.0-py3-none-any.whl": [
           "fd07fd8939b8109b52d1a7eeb4341e57e83dbabb2db1b8cd776c3ff7eadd9d12",
+          "py3"
+        ]
+      }
+    },
+    "1.14.34.0": {
+      "sdist": [
+        "d31f8a32185d7b2cc06c05d7acdc26b98f31f4cc46afc188cdc9ac86a7974936",
+        "mypy-boto3-ecr-1.14.34.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecr-1.14.34.0-py3-none-any.whl": [
+          "5afbaacc8b58d26eb027686725de0e5d91315fbd2991691be486a59f016e5710",
           "py3"
         ]
       }
@@ -61973,6 +62047,12 @@
         "2c9105d28ff5e4c5c26878fec4c999545e069d9da5e626b38217aaf37c103d61",
         "sagemaker_pytorch_inference-1.5.1.post1.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "e5ccd524c47ef5ac50d80604b3bca0e04f3a586082d4ee62bf5cda78a54bdc6f",
+        "sagemaker_pytorch_inference-2.0.0.tar.gz"
+      ]
     }
   },
   "sample-cli": {
@@ -63486,6 +63566,20 @@
       "wheels": {
         "shuogg-0.1-py3-none-any.whl": [
           "ccec9402c359d2bea4bf277a93f3464665e718c4367ec505c7510ff785d3cc3b",
+          "py3"
+        ]
+      }
+    }
+  },
+  "side-image": {
+    "0.1.0": {
+      "sdist": [
+        "10071053f75f2629c6d695ff672d6caf51b8918232d81ba46749e120cd16d1a6",
+        "side-image-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "side_image-0.1.0-py3-none-any.whl": [
+          "faeb94339095465a63cb2c2755b56e135dc86eeebb3e0131abb4528321aaa498",
           "py3"
         ]
       }
@@ -67222,6 +67316,14 @@
       "wheels": {
         "tensorflow_federated_nightly-0.16.1.dev20200730-py2.py3-none-any.whl": [
           "6a90c34b467f42465e91a633736da8961eae364500beeb9f2e652f444bba8c2f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.16.1.dev20200803": {
+      "wheels": {
+        "tensorflow_federated_nightly-0.16.1.dev20200803-py2.py3-none-any.whl": [
+          "1c13c1298d1ef64fefcb85785a480b3a8c98726a6ee5f837e0f224221190a2f3",
           "py2.py3"
         ]
       }
@@ -72294,6 +72396,20 @@
       "wheels": {
         "vite-1.5.2-py3-none-any.whl": [
           "7617e46b83b002a3d1f894e91cc682d4f18a66180a6f6a01667b8acd01bee0be",
+          "py3"
+        ]
+      }
+    }
+  },
+  "volumentations-3d": {
+    "1.0": {
+      "sdist": [
+        "91bfe936c6268638e5bed297f7bef604c3ad435d01b3162737ce97ed62c837eb",
+        "volumentations_3D-1.0.tar.gz"
+      ],
+      "wheels": {
+        "volumentations_3D-1.0-py3-none-any.whl": [
+          "23887568b920e5e56fd639203712f0fc2328b231a90dd8fb8473f96de678ff0e",
           "py3"
         ]
       }
