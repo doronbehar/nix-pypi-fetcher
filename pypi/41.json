@@ -35,6 +35,12 @@
         "b16ae1641c36d5c474c93b08c1325fe728ae10ebb0fc4de822b69eaa7bf0c397",
         "aa-killtracker-0.2.1.tar.gz"
       ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "b38903bbad43432a0870c53c3265cf2ff19045220f5f05a0b7e7159720692d05",
+        "aa-killtracker-0.2.2.tar.gz"
+      ]
     }
   },
   "abraham": {
@@ -36695,6 +36701,12 @@
         "902d38caf68e0fc9527276ce4600e5b3874c13b7601ec7c077d8e88532e2b397",
         "ksmyvoteinfo-1.2.tar.gz"
       ]
+    },
+    "1.3": {
+      "sdist": [
+        "cf1fe9b7281ab2730161ebdf12e764e5582e9b99b73e980f363a9bf01ad601e9",
+        "ksmyvoteinfo-1.3.tar.gz"
+      ]
     }
   },
   "ktio": {
@@ -43742,6 +43754,18 @@
         ]
       }
     },
+    "1.14.35.0": {
+      "sdist": [
+        "23171d14aad5106995ccbc72d3345c18a869a777c473f57edaff566ab406da04",
+        "mypy-boto3-acm-1.14.35.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_acm-1.14.35.0-py3-none-any.whl": [
+          "428c0f0014724481d339166d1d59a6ff0b6228688c2fc0203b32c9e774f5a924",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "28875b603d77428b287ac116e316b5efb865b01ef3ec2c6e504992c297e97366",
@@ -45376,6 +45400,18 @@
         ]
       }
     },
+    "1.14.35.0": {
+      "sdist": [
+        "799da50940fe630ea487cb7b5aff6af1af91a4e46bee34f2ee143cf5224292ca",
+        "mypy-boto3-cloudsearch-1.14.35.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudsearch-1.14.35.0-py3-none-any.whl": [
+          "c79a15c80bc8a4e10e9617880999d94d01e4daac576bccf623d1a4a7b287927b",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "58350d18a946b5119fed68cfce950e4db327906b5218ede82f4889b5e38ba807",
@@ -47002,6 +47038,18 @@
       "wheels": {
         "mypy_boto3_sms_voice-1.14.34.0-py3-none-any.whl": [
           "3e16d08c013d45f97f8a323973266b6821e371c50c2faf950ee43a360a4598a0",
+          "py3"
+        ]
+      }
+    },
+    "1.14.35.0": {
+      "sdist": [
+        "1a04baeb42dba411809c9122c2235b177a50a609f27afa078c5ec256d04d0c3e",
+        "mypy-boto3-sms-voice-1.14.35.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sms_voice-1.14.35.0-py3-none-any.whl": [
+          "4b6863cdb6f69527d3b673856f6af34186fd35096721a0ff707330bdb0d7d726",
           "py3"
         ]
       }
@@ -71314,6 +71362,96 @@
       "wheels": {
         "tendril_conventions_status-0.2.0-py2.py3-none-any.whl": [
           "c86b35dcf73984ef9c496745b02bf3ac651b82055afb583347971d8f52d4523b",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "tensorflow-hub": {
+    "0.1.0": {
+      "wheels": {
+        "tensorflow_hub-0.1.0-py2.py3-none-any.whl": [
+          "ea03fae411c9db759a966e9311a1eae8c19dd360b9ab8bb03923f846912280dd",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "tensorflow_hub-0.1.1-py2.py3-none-any.whl": [
+          "d87fa4b32e6b150fbf39f54bdcc46deaa6c9fb44733941c73063a971dd19d360",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "tensorflow_hub-0.2.0-py2.py3-none-any.whl": [
+          "41c3c231fa01a061fbc0def3b9f3b4f13379e442f080fec0810a994936fe68af",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0rc0": {
+      "wheels": {
+        "tensorflow_hub-0.2.0rc0-py2.py3-none-any.whl": [
+          "1c115a1c5d23e18c494666385a4262ac66703db304c0366b30e45edc2edb832f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0rc1": {
+      "wheels": {
+        "tensorflow_hub-0.2.0rc1-py2.py3-none-any.whl": [
+          "c5f1c5083f3d4b4db1e00459e8f8f6ecc939dde8cc4385179795d1800511742f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "tensorflow_hub-0.3.0-py2.py3-none-any.whl": [
+          "d7dccd31f550bccf32e4e401c67794501f03b89cd9aa4b6c5394ca4b229b5de5",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "wheels": {
+        "tensorflow_hub-0.4.0-py2.py3-none-any.whl": [
+          "299967392aeda7032d6bd29b178f65a9bd8e43cfc550ea427fd37507711d5ec2",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "wheels": {
+        "tensorflow_hub-0.5.0-py2.py3-none-any.whl": [
+          "0c91f48a81cb0d1519bbff54d88f5f6cb4ae798569beea01080a42ede0ed7698",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "wheels": {
+        "tensorflow_hub-0.6.0-py2.py3-none-any.whl": [
+          "cdcc886c8c834bb97e8fd5927ef0cdf9a26a15b51618be11fa0f412def154719",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "tensorflow_hub-0.7.0-py2.py3-none-any.whl": [
+          "52a3fa4d2b7d9a8a5c61d88b43086964ccfd48b6eb3986c502c09e6f6862e233",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "wheels": {
+        "tensorflow_hub-0.8.0-py2.py3-none-any.whl": [
+          "9dc65aa9980851236e30a1f59f071286abc52523fa75933fdc1fba9e3c1c96c8",
           "py2.py3"
         ]
       }
