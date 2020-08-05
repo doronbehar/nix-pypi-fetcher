@@ -3675,6 +3675,12 @@
         "f268520eeb599332358b1b18b88e27cccfd64750167fb2ce9b0cb9e76f131177",
         "avakas-0.7.0.tar.gz"
       ]
+    },
+    "0.7.2": {
+      "sdist": [
+        "68029f2037ad89911e910c5b7cc9d3d75cff99727cc12ddb178978f079214507",
+        "avakas-0.7.2.tar.gz"
+      ]
     }
   },
   "avinetscalerconverter": {
@@ -40413,32 +40419,6 @@
       ]
     }
   },
-  "model-engine": {
-    "0.1.0": {
-      "sdist": [
-        "40d34dd22f9ab7a85a0838c85aed6d71dd093fd307ea06590ba13664433816c6",
-        "model_engine-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "model_engine-0.1.0-py3-none-any.whl": [
-          "fd5cf84151544a93e57490db8170d50075d9b0e1e453ffbdc25b7f433972e04f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "a6168f15edbf33f2946ca15f39a5eaa8785a4163bd58621bf67d78cd85c3c455",
-        "model_engine-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "model_engine-0.1.1-py3-none-any.whl": [
-          "85c1aac1b3ef1c14221ac7a5d721ecfc3bee8f7d1b7ba3dd582425eef38eab21",
-          "py3"
-        ]
-      }
-    }
-  },
   "modulename": {
     "2.1.0": {
       "wheels": {
@@ -45120,6 +45100,18 @@
       "wheels": {
         "open_speech-4.4-py3-none-any.whl": [
           "a982ef7f77c1435c8c24c9c94218c6571a59340abb43955b93b7431b7e25da90",
+          "py3"
+        ]
+      }
+    },
+    "5.0": {
+      "sdist": [
+        "42c6dcbccee04bd798f0fa8cb18d63e0d4f25c4255c41a9edd6fc1abd64d40af",
+        "open_speech-5.0.tar.gz"
+      ],
+      "wheels": {
+        "open_speech-5.0-py3-none-any.whl": [
+          "b13da240dda97f646b4340aff83486700514c3d38a1b1f8b1da02d0a8322d4e0",
           "py3"
         ]
       }
@@ -56986,6 +56978,62 @@
         ],
         "pymars-0.4.4-cp38-cp38-win_amd64.whl": [
           "e060b9206fe34ae60309f347365d64a3bee9cde1f9df856e9bb156263883e72e",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.5": {
+      "sdist": [
+        "e172dddc7fd7f99f40ebae58a07a1d89a9cf50f9652732d2a88e9cc8d760b5f3",
+        "pymars-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "pymars-0.4.5-cp35-cp35m-macosx_10_6_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "8609f29a7374888b012a359e98b132531fc6f608aa13180804a70aaf88fec0f9",
+          "cp35"
+        ],
+        "pymars-0.4.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "00e6daef397c16cd861a00481cb6c1db8f1189d52deb490225b661aa0f51cff2",
+          "cp35"
+        ],
+        "pymars-0.4.5-cp35-cp35m-win_amd64.whl": [
+          "0e26b1f2cc37093eb7e21bd7c246c65d6bbd56224adaa0ebc516e6c6b925b37e",
+          "cp35"
+        ],
+        "pymars-0.4.5-cp36-cp36m-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "97ece1289d16e38030aef203b66a77eda73340a25d7d02513428fea7f8becd8f",
+          "cp36"
+        ],
+        "pymars-0.4.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "643061b9dde0d83ebaf883cf07a104fa0fbf45b2cfd27e71f81203ae7234879d",
+          "cp36"
+        ],
+        "pymars-0.4.5-cp36-cp36m-win_amd64.whl": [
+          "317f7c6608ae69a38165c41d23376dd8adf006d5a87590b51551dd99f3cda79e",
+          "cp36"
+        ],
+        "pymars-0.4.5-cp37-cp37m-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "ac87590f8af86533fb2c561d5026bebe093cd79b9b8f5aed28926d6498ca5acd",
+          "cp37"
+        ],
+        "pymars-0.4.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7abead874fec7ffd1c37ce73b6cb056f08d80cf420d6d764472e061bbf31cbff",
+          "cp37"
+        ],
+        "pymars-0.4.5-cp37-cp37m-win_amd64.whl": [
+          "b386524547520546cce5b6c8dfa5068b0b3544b5f43155c51c2c9767d9a75dcd",
+          "cp37"
+        ],
+        "pymars-0.4.5-cp38-cp38-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "a547187acb86d84620e31834a094c2fbc4ce5fd2a7e847e74d7ea8214504b86c",
+          "cp38"
+        ],
+        "pymars-0.4.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "195de96a349a1a9f2a1b1e91952c7b8644c64afbd1614cace387ec9d0dee0037",
+          "cp38"
+        ],
+        "pymars-0.4.5-cp38-cp38-win_amd64.whl": [
+          "07aa75e13869d5145541f3c2a2b1ea40c2568c326b268d9faf5d0f454fdb9bc9",
           "cp38"
         ]
       }
