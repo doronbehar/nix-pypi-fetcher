@@ -7459,6 +7459,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0b7": {
+      "sdist": [
+        "dd58fb5dc9c5fb20c5e0c9d3b7e86aa8911d13d7a117451b35bfdbfa254f1307",
+        "azure-functions-durable-1.0.0b7.tar.gz"
+      ],
+      "wheels": {
+        "azure_functions_durable-1.0.0b7-py3-none-any.whl": [
+          "9fc3f61399cac1be111de949884dec58fa919c5212ae6a239448583322d1c0a0",
+          "py3"
+        ]
+      }
     }
   },
   "azure-mgmt-datalake-store": {
@@ -9804,6 +9816,12 @@
       "sdist": [
         "dfa536e5043f28e5d3932a9f22a465ab14e78b1841e68385fc0150ef991a70d3",
         "bigml-5.0.0.tar.gz"
+      ]
+    },
+    "5.0.1": {
+      "sdist": [
+        "1426fac3cb6d6b216b2d26a526fb5bf318020d7c1941391cb3e408da84a1497d",
+        "bigml-5.0.1.tar.gz"
       ]
     }
   },
@@ -22322,6 +22340,38 @@
         ],
         "dxfeed-0.4.0-cp38-cp38-win_amd64.whl": [
           "1e78a2e10fc13ab483a5965939eb538a6416beaa42a3920e081b86dea032e1a9",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "f99d57ae9a6a7bbd770934cd7b1b159323c3ef6864509eb7280a51ea2e6f3e4f",
+        "dxfeed-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "dxfeed-0.5.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "45f08004f9610a23b0b4dd064a73ac80dc6e207dee9db7aae8ef04eea29db9f5",
+          "cp36"
+        ],
+        "dxfeed-0.5.0-cp36-cp36m-win_amd64.whl": [
+          "299230dd3dd656640aae3658711593b2a13d8fd787f7d99641efc422f9f82db7",
+          "cp36"
+        ],
+        "dxfeed-0.5.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "37c6c3465cf868618dec9892c7052d5d78f54e49fe604733ac58ee2c80f1bce4",
+          "cp37"
+        ],
+        "dxfeed-0.5.0-cp37-cp37m-win_amd64.whl": [
+          "de4bf97f5f914a2b9e1a008f0d9d412fc3e6a5c96766ce8f23b49727662f626a",
+          "cp37"
+        ],
+        "dxfeed-0.5.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "fc1c08510deef3f6b6393a5c742baad480230b0f668762807c81bd9c85ef1ceb",
+          "cp38"
+        ],
+        "dxfeed-0.5.0-cp38-cp38-win_amd64.whl": [
+          "ecb67a29be21c356f4e4b608483cbf49c354b261bee20dbe4776ce925f4fb4a0",
           "cp38"
         ]
       }
@@ -43506,6 +43556,18 @@
       "wheels": {
         "mypy_boto3_chime-1.14.35.0-py3-none-any.whl": [
           "d66abd6d5fce42654ffbb2499cf9c86530f411725705be98c5f89ba83fe8cbc8",
+          "py3"
+        ]
+      }
+    },
+    "1.14.36.0": {
+      "sdist": [
+        "2621254464105aa7cf50729f96040708c8c1622bd69ed91787bcb7a49ab2a3fc",
+        "mypy-boto3-chime-1.14.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_chime-1.14.36.0-py3-none-any.whl": [
+          "1ef1f9149f25138ab06d43e0e6fcf0ff7b695f6a114e15d7745ce11c34fd7cb1",
           "py3"
         ]
       }
@@ -75058,10 +75120,66 @@
         ]
       }
     },
+    "2.8.1": {
+      "wheels": {
+        "pulumi-2.8.1-py2.py3-none-any.whl": [
+          "7175ad75ee66044d5d77d09d9914f2af6f41352c6345b10c740bf6fc3abea2cc",
+          "py2.py3"
+        ]
+      }
+    },
     "2.9.0a1596586783": {
       "wheels": {
         "pulumi-2.9.0a1596586783-py2.py3-none-any.whl": [
           "b932bfa0e25bc40132bcbfe71d881f6f1822b2d73cd2678fc7786de7ca4a0ca5",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596644136": {
+      "wheels": {
+        "pulumi-2.9.0a1596644136-py2.py3-none-any.whl": [
+          "82e9d0d305bf4585b0e69b9573b0db1169cf72987c94ba5239b06724055dc813",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596647332": {
+      "wheels": {
+        "pulumi-2.9.0a1596647332-py2.py3-none-any.whl": [
+          "bd3516f68994cfa93e6d477b9ab31e1cfa4c27fe6c07ad9a5242e59a74af4d5d",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596657054": {
+      "wheels": {
+        "pulumi-2.9.0a1596657054-py2.py3-none-any.whl": [
+          "5814451509418fc89cddf0eba66a3d096bdbb8e86936ed1ad7bf55667c701671",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596660575": {
+      "wheels": {
+        "pulumi-2.9.0a1596660575-py2.py3-none-any.whl": [
+          "52c29e32469e1c2ee1ce29d6c851d45734783cabce12307792ffa9292c1d27bb",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596670037": {
+      "wheels": {
+        "pulumi-2.9.0a1596670037-py2.py3-none-any.whl": [
+          "eeb5a809e5050880b3e18e71e9aa45e3d202e16cb0cfd25640b568b5d928c5b2",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.9.0a1596673823": {
+      "wheels": {
+        "pulumi-2.9.0a1596673823-py2.py3-none-any.whl": [
+          "4b836f9a4ff211b99a89c3560f39e4f345c9171adf1447101cfa5a9abb21f158",
           "py2.py3"
         ]
       }
@@ -79786,6 +79904,32 @@
       "wheels": {
         "pythermalcomfort-1.2.0-py2.py3-none-any.whl": [
           "2bcc712ea1a31fb8522b95e6063a8c5339c9cd8467afc4abae29f77d6062e215",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "python-benforder": {
+    "0.1.0": {
+      "sdist": [
+        "089b7a54e7e79b903002a5c654351db2a8e6290bde984b9a735e073c17a915d6",
+        "python_benforder-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "python_benforder-0.1.0-py2.py3-none-any.whl": [
+          "5f15973395e72f7c52722fc2f0aea9f5abf3532562d0bacd3ff8be4ebaa0c25b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "4177765e1a5979866e6b262c9ab9a8c049268a014a000e45958412a18a44cb52",
+        "python_benforder-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "python_benforder-0.2.0-py2.py3-none-any.whl": [
+          "1b292a98c71644cb838632b2e7a14efcdf36dfc3748c8823bd224618a865b311",
           "py2.py3"
         ]
       }

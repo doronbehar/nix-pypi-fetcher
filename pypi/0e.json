@@ -17041,6 +17041,12 @@
         "672d269474322ae1fbe95446d808c39226b364b1e9809803f9059076c27319e5",
         "eiq-2.0.1.tar.gz"
       ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "8fa13f2d1e27ea67dbe1bd28d39f54dc2dcc53bc0a610d173ce9f214cc12de62",
+        "eiq-2.1.0.tar.gz"
+      ]
     }
   },
   "elastictabstops": {
@@ -17969,86 +17975,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "fedrepo-req": {
-    "1.0.0": {
-      "sdist": [
-        "5bef680e484789fd4195eec61b14ff82929c3ed62c248093b8e5f979e6d1d3e2",
-        "fedrepo_req-1.0.0.tar.gz"
-      ]
-    },
-    "1.10.0": {
-      "sdist": [
-        "95ab3a80cb24a8dd79bd48f57a99cd6dc3efe85a0640f02c92a6729cc58eb62a",
-        "fedrepo_req-1.10.0.tar.gz"
-      ]
-    },
-    "1.11.0": {
-      "sdist": [
-        "9fed07670d4927fff81c75f13b2b3d1b8cfe26b31853803278907a4ea779afd6",
-        "fedrepo_req-1.11.0.tar.gz"
-      ]
-    },
-    "1.11.1": {
-      "sdist": [
-        "a7ff6c3a6d025f0dbc13adc388fdc383f9cb484829722aadfdbbc7b5ac4d3324",
-        "fedrepo_req-1.11.1.tar.gz"
-      ]
-    },
-    "1.12.0": {
-      "sdist": [
-        "f69bbb4dfdcbbee5a60d6bb9cfdc967bb9662d06d3b158a548e37ca2da9cf614",
-        "fedrepo_req-1.12.0.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "c2520c1cbf013c77187efbdb83e2157bbbf8d5f7ff8760e1e67e098b97cee82a",
-        "fedrepo_req-1.2.0.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "2201ccac2a5da8b192e32b8cedb4a08b96349b5f2838463e71aca8a8e5ab3a92",
-        "fedrepo_req-1.3.0.tar.gz"
-      ]
-    },
-    "1.4.0": {
-      "sdist": [
-        "a996d2241d993c94933ebac1ebf143b6857829478e09853243463cd078ea9bbd",
-        "fedrepo_req-1.4.0.tar.gz"
-      ]
-    },
-    "1.5.0": {
-      "sdist": [
-        "8a6821b2c6d4a970e52a3ff3be54d9654157789519aceab2528e167c6ab0381a",
-        "fedrepo_req-1.5.0.tar.gz"
-      ]
-    },
-    "1.6.0": {
-      "sdist": [
-        "b1f91fe0e45008cbdd90fd7d9abfab1c5d948cbcfe0caf5e1f481e58f966b032",
-        "fedrepo_req-1.6.0.tar.gz"
-      ]
-    },
-    "1.7.0": {
-      "sdist": [
-        "922dae9a37b10e3fef18164fa4388e1ef1b3850f85488f09ddeaf21e267253b5",
-        "fedrepo_req-1.7.0.tar.gz"
-      ]
-    },
-    "1.8.0": {
-      "sdist": [
-        "b4ef44e27b9cf40003774b4490654a53fdbf9cb49997f049ee7d302045cf494c",
-        "fedrepo_req-1.8.0.tar.gz"
-      ]
-    },
-    "1.9.0": {
-      "sdist": [
-        "f9bee23ff1e7d812bc0af5f182910aaf216f04d4ccd455d3afaf5e427b36868a",
-        "fedrepo_req-1.9.0.tar.gz"
-      ]
     }
   },
   "feiwu": {
@@ -29048,6 +28974,14 @@
       "wheels": {
         "malaya_gpu-3.7.5-py3-none-any.whl": [
           "3dfe43026a26e2c2f6bba0c77292a8ad8636aead8b47faea18349f4c27a94fb3",
+          "py3"
+        ]
+      }
+    },
+    "3.8.0": {
+      "wheels": {
+        "malaya_gpu-3.8.0-py3-none-any.whl": [
+          "dc7d18b890fda10e0eb7acb66d21bd3de0665788b759e002e61392f09df19f60",
           "py3"
         ]
       }
@@ -54283,6 +54217,20 @@
         "5312d0f1d620927d1a7741ab81c3fe29cc5db27f1bf9e7005d94bfa437377940",
         "sentry-taiga-0.1.4.tar.gz"
       ]
+    }
+  },
+  "shared-memory-dict": {
+    "0.1.0": {
+      "sdist": [
+        "7377db9f4a2c99e8e01ee2fa58135e57fb3046b02d58822ce08b2ceadd17842b",
+        "shared-memory-dict-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "shared_memory_dict-0.1.0-py3-none-any.whl": [
+          "24b1ee764b98f2b63c9df72a8ac5dfa65a083224ee6b5c7017fed2b12af40280",
+          "py3"
+        ]
+      }
     }
   },
   "sheetalpdf": {
