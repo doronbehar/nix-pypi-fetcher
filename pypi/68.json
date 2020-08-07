@@ -4379,6 +4379,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2b20200807": {
+      "sdist": [
+        "f84be86a60c1cca44809063ee02aa36fbc1f29afabcd74f43993798a5adf1e50",
+        "AutoTorch-0.0.2b20200807.tar.gz"
+      ],
+      "wheels": {
+        "AutoTorch-0.0.2b20200807-py3-none-any.whl": [
+          "b559794ef5f36b4d608de0313760ccedbbab7806472f4f5b614684eebf0e0e4e",
+          "py3"
+        ]
+      }
     }
   },
   "avocentpdu": {
@@ -14282,6 +14294,24 @@
       "sdist": [
         "b319051ddbd06b5cda9700679ca4c81018c7c8a5c69d93ba8791559c4627d8a6",
         "coolgpus-0.19.tar.gz"
+      ]
+    },
+    "0.20": {
+      "sdist": [
+        "6b8d1b45111f1e7910307591e36e5811fafaae5589e9205fb839b48c9a445a5f",
+        "coolgpus-0.20.tar.gz"
+      ]
+    },
+    "0.21": {
+      "sdist": [
+        "ea685434242295b558a50d94dd1f8322b9f240a2fa5b806d0a5fb762851a3cdd",
+        "coolgpus-0.21.tar.gz"
+      ]
+    },
+    "0.22": {
+      "sdist": [
+        "36465c9414f9a2a969461a18a8286ed50adeab3e16b1e227d60a8dcf117ef551",
+        "coolgpus-0.22.tar.gz"
       ]
     }
   },
@@ -30512,6 +30542,18 @@
         "httpcore-0.1.1.tar.gz"
       ]
     },
+    "0.10.0": {
+      "sdist": [
+        "3f0481835528fe7ec57034c1e6d36cd52487707c3f15c5757d74820b9b42173e",
+        "httpcore-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "httpcore-0.10.0-py3-none-any.whl": [
+          "fd880689fe38a1d8fc936f86ab3ce48ca4571a68778326e8542810dd9df9076c",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ae8bd51bdef854a166119e08f273ca22a8fe0d3e4dd049b6a516070626b68f62",
@@ -30666,104 +30708,6 @@
       "wheels": {
         "httpie_consul-1.0.2-py3-none-any.whl": [
           "8f462304c29c271996e43e8c6366c51828f11300cf92489e2fcde2e419e98bed",
-          "py3"
-        ]
-      }
-    }
-  },
-  "httpmap": {
-    "0.1.0": {
-      "sdist": [
-        "746887e8ff8b4a700866f15e5cb5ed54f615269af279af9d50e8b7aa5e7d4632",
-        "httpmap-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.0-py3-none-any.whl": [
-          "ce89b394fb4342a59ae13da00fc77381cf14b77d291b86422e128bb053d10b12",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "755ebce09400d800403f1938b25b8b612327b958d120c83e2c6819cd2e25b795",
-        "httpmap-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.1-py3-none-any.whl": [
-          "2235b472e3cc1f87cee46bbf4ca0fb7624b4c5fb78e80a5b3b55e9cc8904c4ff",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "7f1c796b7ad733a63c0f9b2b3642d623ebc3f569f98c77936abaf9342186547d",
-        "httpmap-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.2-py3-none-any.whl": [
-          "e3cac0afbe66b2f1600aa206c98ded2a2286418a49f977db50366986a9e71d52",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "8db9aa79ec3aceb6ef532c6c38fb0ed226b814a0249f0374044315d8be909ce6",
-        "httpmap-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.3-py3-none-any.whl": [
-          "7a585a198ede27610d90deb00d7fba59cc99ad35bdaaf4ed8537076b278eb669",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "a9e6c4b1f402aa83702dfe3508f6af4f5e22f56ed5f00ed8a4512101b80b4b1e",
-        "httpmap-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.5-py3-none-any.whl": [
-          "b9c80a9d350fce0a95054f02a3512273ea17d9c8d4c695d47570ea716f9c6793",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "39dd5dc4c6362ec421ff080f5daf522f3b9b2ef3d3b2210c122d08b11251fe00",
-        "httpmap-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.6-py3-none-any.whl": [
-          "393a8ce91222309e060a573bf30512feb9a0c583f8956aa12a456fa932589745",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "aaae7f04bb83e286acf7ddffa09010b9725953832bf607a459fcc9544755ed4c",
-        "httpmap-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.7-py3-none-any.whl": [
-          "89a74fbc8607f626d75c2ec2715b1bf1c10c7a23aeddbb9d09e086bbc10152ab",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "d00fe94b796477b1ffbdf20a22cbf098ad2a9f7f480fbeb1664908c234b1c677",
-        "httpmap-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "httpmap-0.1.8-py3-none-any.whl": [
-          "b4a9fc48bf72fa8347436653575a897339ce265c4d0493505a66d3db1cc25490",
           "py3"
         ]
       }
@@ -50652,6 +50596,14 @@
       "wheels": {
         "odoo11_addon_purchase_last_price_info-11.0.1.0.1-py2.py3-none-any.whl": [
           "b82ee4127bfba63e5368f2c8fc9719bb8c587a458aba9dddf513f44ded8e5ac2",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.1.99.dev1": {
+      "wheels": {
+        "odoo11_addon_purchase_last_price_info-11.0.1.0.1.99.dev1-py2.py3-none-any.whl": [
+          "3038724b369fcac6c27bbc920e33ea57e72ee209501e6f94e95c6cda618a4937",
           "py2.py3"
         ]
       }

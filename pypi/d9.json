@@ -3259,6 +3259,14 @@
           "py3"
         ]
       }
+    },
+    "1.73.11": {
+      "wheels": {
+        "bloxroute_cli-1.73.11-py3-none-any.whl": [
+          "0eaadf5b9385a53593cf0935df5f480188b681bfea013069925473deb453a243",
+          "py3"
+        ]
+      }
     }
   },
   "blueox": {
@@ -5438,6 +5446,14 @@
       "sdist": [
         "eb9a5d14b2d5d9fa78e761d1d51ae3b7e1c564efd7fe59884a30158c0972dab7",
         "classforge-0.92.tar.gz"
+      ]
+    }
+  },
+  "cld2cffi": {
+    "0.1.1": {
+      "sdist": [
+        "fc5f3b6414ef2588127a6b0ce69e2b9bdf49c4eb142b43341b998fc4d51eb5df",
+        "cld2cffi-0.1.1.tar.gz"
       ]
     }
   },
@@ -9816,6 +9832,12 @@
       "sdist": [
         "ae9860d5f6a3c1824b3537d4de4a8275fcbe00b849f90a50bd1f177c9c3b7296",
         "django-incident-response-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "90dc676f54af4ef45bfc90da8d608a92d5b981a124cc00c762d7d3ec5291c935",
+        "django-incident-response-0.4.1.tar.gz"
       ]
     }
   },
@@ -17192,6 +17214,18 @@
       "wheels": {
         "flask_serialize-1.1.9-py2.py3-none-any.whl": [
           "d0edf9997ed1c20749620fdfe56143de12b0b2384ab155cbb06406c158652f7d",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "45decf9a2549d14786112bdae1b18728e9034b888d740236362ea2e384b78b87",
+        "flask-serialize-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "flask_serialize-1.2.0-py2.py3-none-any.whl": [
+          "89cd01c6decf9570860a69bb42ffef16992d0fb3f6b395a0b7acdf8d42370e27",
           "py2.py3"
         ]
       }
@@ -50628,6 +50662,170 @@
         ],
         "reportlab-3.5.46-cp38-cp38-win_amd64.whl": [
           "726c412b1eeb6c09f4b62c9fa735c436f7cafbc8f1e8f67aa797483d3eca7f1c",
+          "cp38"
+        ]
+      }
+    },
+    "3.5.47": {
+      "sdist": [
+        "45b2a7aa65e082bf481eea9994cdc00292698f8dc9e4a8c0ecfc6be90548803f",
+        "reportlab-3.5.47.tar.gz"
+      ],
+      "wheels": {
+        "reportlab-3.5.47-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "108d6601ad6b62c2faf0d34e83a6fce9b1e4585bf8d6d7145c656c9bd1bba259",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-manylinux1_i686.whl": [
+          "3565c357ea4bd72d55894b4d39391a78c59942cfd359a2f1e6039feeb0dcead8",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-manylinux1_x86_64.whl": [
+          "6b99f8e8e747d0e29cece283f28898635a1501bb3eca7ff81188571bbc939733",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-manylinux2010_i686.whl": [
+          "78a77b551c0975c070cc2d948d00c290258731a96d3a85e1c5423ee3f14c7a51",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "d97bebfc6faff02d6a526a5d4e32e742330f9d222e85c3efb593bce65457e2f7",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27mu-manylinux1_i686.whl": [
+          "2575f446cca3ebc9ed711789b9042ffb30cb297ff3163fbfe9c6a90540059a63",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "9b7013a0e44c01aa18da306d0f4352ee85033d1100c83c592afa16df0a55993f",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27mu-manylinux2010_i686.whl": [
+          "02f4b15e3fb366f7ee477fc4c6cb8db6c8efd7c58a43b6b4ca07d3e77f4886ef",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "f492f343c3d1f3db06e79012a51b0679c6c90ee5aaefd8306aaf87b5782d4e4f",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-win32.whl": [
+          "11c63e4c50413bbe962cafaa26090de5910f2128d2d762a887e82d7947eec3bb",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp27-cp27m-win_amd64.whl": [
+          "ebf6ed07ebfc8329194b0cb3b95af9c2e532c1e8f4a813c8974e5d23370bce25",
+          "cp27"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-macosx_10_6_intel.whl": [
+          "63625b01940da8bf724ede7362931491172ecfdda64761840b71130a932571a3",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-manylinux1_i686.whl": [
+          "f13edb3e227236c22519f112a5e138507df6e130b72f7b7053b2db54fdd3a131",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-manylinux1_x86_64.whl": [
+          "810a4dd2df18f68409ac6bf8cf7680a12ed9e3f9210dc5aaa099571f6848386d",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-manylinux2010_i686.whl": [
+          "2dc75ca9270269978c34251241bf9ee8712ab649b05fcf24a942eec28f32db1f",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "9e7522025de05ee39cdcbcdf809e9fdedd4c19809c4606bd030b3afd5028db44",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-win32.whl": [
+          "7de2b52263a9b3aaeb68b5da38074c2283e1b552ff5bfd078467e022475e7715",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp35-cp35m-win_amd64.whl": [
+          "17a667da0816d06ea7c0a12f1389b390e8f0c1629ba3858045e81f946ddc1215",
+          "cp35"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "f7513d0e2048e7d5558f72785f7f38451e34e4bcfdb51fca1b6d08557ef5d4a3",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-manylinux1_i686.whl": [
+          "1a070382e14075d3829e0a5df8b50158ccee004d2f7ff062bb1ad1cd27cfdfb7",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-manylinux1_x86_64.whl": [
+          "cc109dcbff7ad6547ce72ffc87e48dde7917ce70fb689ac70b16f27706a56426",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-manylinux2010_i686.whl": [
+          "d213d921800ced1a30ca4829b21d84c075f553bf7bf87f2df069f797337815bf",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7a23a45ad8646d39ef93b134507b2701b12a194b1f11fdc25e6a99b572ccf04d",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-win32.whl": [
+          "7cef553de2ff03121efaf9b2715ea11022b8ab515523472e3e6404a2108b8fab",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp36-cp36m-win_amd64.whl": [
+          "6e25781f82540dcadd6b95869750afbab8f56335531a34538f241bbb8ef28a02",
+          "cp36"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "710176305336f141256a5b04ca8facc5bdabce6298c651a2538f2e645eb62f02",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-manylinux1_i686.whl": [
+          "e724b46f61b23fcec9a40677f5eae8c09191b2c3bfe6c9f4c02df33dc5daf534",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4700a7d2f0c3166505c8aff0f585df8be3ad50dd1bb1b53bfac27bc45438389c",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-manylinux2010_i686.whl": [
+          "8f153446818841d03969f4bdf26625c0292575a6c5807693ef3f5cec9b141326",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2cc13953882855c5ce4f32349c40260486afc3354bbcd85320960013be244f53",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-win32.whl": [
+          "844fbbb9d21a148c07449ebc35c49a3eee05818bbee92ff34f19edb0c24ee355",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp37-cp37m-win_amd64.whl": [
+          "d93d433733540dafb04a1664e76b4eda43ffc8f9c368ece3c8ab019db7f5def5",
+          "cp37"
+        ],
+        "reportlab-3.5.47-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "303054e4816225d2e9f103b5444d1d4c57b22d69c71564da2d8e8523002a28f1",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-manylinux1_i686.whl": [
+          "64ac7c8963d272679b570d91fe8178116184aa88e90992d4b14b485fe1a42ab1",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-manylinux1_x86_64.whl": [
+          "df5d70f35f58b69edc2fffe42ab5a77865f256ae08d8d0615fa74011dae587f6",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-manylinux2010_i686.whl": [
+          "10711f098d5cead8cfc28894081d9bdb8d79313a1108e76db4f0798ffc6d32f2",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2111726854d411423f4cff59f2a817e40b7d3800ebccd49aba5124fab2e4fe93",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-win32.whl": [
+          "da0355b1a9c417f3411863bf244aad38c5c4e7cad08a4e13d81e35bd3200e6af",
+          "cp38"
+        ],
+        "reportlab-3.5.47-cp38-cp38-win_amd64.whl": [
+          "d8582861408cfd4aa868e3aba0a96d5e456400570de85ba7a2fb12e5b129af60",
           "cp38"
         ]
       }
