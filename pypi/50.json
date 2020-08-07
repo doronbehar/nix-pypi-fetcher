@@ -2393,6 +2393,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "ade59150b40316341c7ec22c92978cca81a05ace898b6dd86ee18d53a7bab985",
+        "asgi-ratelimit-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "asgi_ratelimit-0.3.0-py3-none-any.whl": [
+          "fbcd9d4340fba525f4a57443339dad724d10454b238be80dcfdc61c519c94b5e",
+          "py3"
+        ]
+      }
     }
   },
   "asterism": {
@@ -16662,6 +16674,18 @@
       "wheels": {
         "dragonfly_schema-1.5.28-py2.py3-none-any.whl": [
           "ebaf4386c301fd54d19a81b33d34eb886d57ea0615c5a3340df572ad11c1bdd1",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.29": {
+      "sdist": [
+        "a8f13a8c92e7daf33d7c19b217ad913f6b0ff028ea66d61e2e294bfd469837e1",
+        "dragonfly-schema-1.5.29.tar.gz"
+      ],
+      "wheels": {
+        "dragonfly_schema-1.5.29-py2.py3-none-any.whl": [
+          "60733e74db6b66f87b083cdc967dd7bfdd274b3250e312faba8331849f58e553",
           "py2.py3"
         ]
       }
@@ -36146,6 +36170,18 @@
         ]
       }
     },
+    "0.12.2": {
+      "sdist": [
+        "54993d3a9b7f9986d64cc9783ad6947b1d95e3877bc99fa368c3bb1d6f381282",
+        "MetPy-0.12.2.tar.gz"
+      ],
+      "wheels": {
+        "MetPy-0.12.2-py3-none-any.whl": [
+          "b6d96ba434bf87e036bfbe4d10b3f0fa326a167ca0f33e0b3d5ec41cef7b6a68",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "26c1d64944098c4489c400e5d7872ed6dec0c2ffeb97dbf489b70fc15482a698",
@@ -42409,6 +42445,12 @@
         "8a81210ad5686da0230875e00e975f37a04c2743e476f5058c5478188f6ab609",
         "omfit_data-2020.7.28.11.51.tar.gz"
       ]
+    },
+    "2020.8.6.13.57": {
+      "sdist": [
+        "344361f5ff4d0f3e77e4c6d0ce459d1af633b070a99ba24381c504ba9ca5c11f",
+        "omfit_data-2020.8.6.13.57.tar.gz"
+      ]
     }
   },
   "omfit-thomson": {
@@ -42434,6 +42476,12 @@
       "sdist": [
         "429e75498dcd77a64af3f47b092bab19178b9c300a080d3497793047853b5334",
         "omfit_thomson-2020.7.28.11.51.tar.gz"
+      ]
+    },
+    "2020.8.6.13.57": {
+      "sdist": [
+        "844bd06400d547fd7f76e95c92733558af89b2041a63af0bee562646ba191941",
+        "omfit_thomson-2020.8.6.13.57.tar.gz"
       ]
     }
   },
@@ -77914,6 +77962,58 @@
         ]
       }
     },
+    "0.15.0.dev20200806211527": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "fd721f9db870461557a279298cef1d3d5ac29d290a2fc3557d06d41f24204ec5",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "335354c357e447a8fb4e083ed488e0524b0f156ba6f2bba9f2c2340f1bbd1841",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp35-cp35m-win_amd64.whl": [
+          "3b6cdf114c1f730fce6b56b9ff2bb2324ca021069f70611319ae4037d1b8e65d",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "2e4319590005014142bc6aaeab208364d66f82cd89e5642930eaf29bd88b99c9",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "cd7db0692ba794a4e09600d2ace5838558ce36330aad92d0e7f0ec3fbc5b058e",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp36-cp36m-win_amd64.whl": [
+          "44d631c49b0c88722f9cfa1b7ad996ea226e07a8ca51e4edb0c218fbd31b068d",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "3fe22f61797282a2186bb753529fdf425deb0240b0f91434ae09eb92bce1fe8c",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ad97010774584a0e4db6045297e41f2cd80d32287f9dc83dc0dd72bf87878daf",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp37-cp37m-win_amd64.whl": [
+          "af39ee38b9014f01d7398713e13af248008752a13c9a0c8f0434146f2cbc6f0e",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "fe8e76d1deeddcaeb5847c857fdf3f614cd56b7b70955bbfb3b62e2bcdf38266",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp38-cp38-manylinux2010_x86_64.whl": [
+          "43898db5987e9cb76637cac529a45f552ea39302f2900402112e1faf08453098",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200806211527-cp38-cp38-win_amd64.whl": [
+          "58da5b94b9cbe42e1100952b4f11dcab91419e3677218e38b55fc7914817dc2c",
+          "cp38"
+        ]
+      }
+    },
     "0.3.0.dev20190208165145": {
       "wheels": {
         "tensorflow_io_nightly-0.3.0.dev20190208165145-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -86804,6 +86904,18 @@
       "wheels": {
         "toxopy-0.0.6-py3-none-any.whl": [
           "8b2a8e5bfcee0844008f69dad13862047a5226aed19033b3d123db109f7b5531",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "11bb6a3f3352e0f73482ea67efd9d4b9aac5bd3165ce92b1ecc954b66e93e9b9",
+        "toxopy-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "toxopy-0.0.7-py3-none-any.whl": [
+          "c2689dc87c73412360fc48f3403d970ed139e69cda6f4cef548bbec22f0976e1",
           "py3"
         ]
       }
