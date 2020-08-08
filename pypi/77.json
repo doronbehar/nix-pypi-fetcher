@@ -1758,6 +1758,30 @@
         ]
       }
     },
+    "1.57.0": {
+      "sdist": [
+        "257f27e0f167489c38e0fd42efea2796e3825d8dac78cb792bf9eefa93f6cf3c",
+        "agilicus-1.57.0.tar.gz"
+      ],
+      "wheels": {
+        "agilicus-1.57.0-py3-none-any.whl": [
+          "796c1beaa8b3f815f17c345857ab8c314cb4abefd8f87d28fb57f1f3496cb0df",
+          "py3"
+        ]
+      }
+    },
+    "1.57.1": {
+      "sdist": [
+        "36037faab2f071295297bcd630bd281bf02a92e3fbe97f6f967ce294c15a950f",
+        "agilicus-1.57.1.tar.gz"
+      ],
+      "wheels": {
+        "agilicus-1.57.1-py3-none-any.whl": [
+          "acd67a526d5dfbb462ed8a4cf2c669d180bd3f809a6a583295d98a07aed206c6",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "d894fc49802dc57be77bf6af7dced176807e7e2a64494427d0e4ac6477d11a23",
@@ -5311,6 +5335,18 @@
           "py3"
         ]
       }
+    },
+    "1.57.0": {
+      "sdist": [
+        "27ca6ae1078b2bbe38e642bd355e2ba977741f30d948d7f093f33dd05bad91e1",
+        "aws-solutions-constructs.aws-iot-lambda-dynamodb-1.57.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_lambda_dynamodb-1.57.0-py3-none-any.whl": [
+          "922c94303d9ff1174d3a032735b64feac9f27d98127ef7759f65cb93705b6554",
+          "py3"
+        ]
+      }
     }
   },
   "awscrytpo": {
@@ -5723,6 +5759,44 @@
         "908391f43015771f9de513643e07d52a2b24e6901608c085b1eecad576a27b9f",
         "azureips-0.4.3.tar.gz"
       ]
+    }
+  },
+  "azurelogger": {
+    "0.1": {
+      "sdist": [
+        "45dfc60b2b59a0db845c0f28293f99e4e7f2395e84eb2d0c8ff9816a8506c4e2",
+        "azurelogger-0.1.tar.gz"
+      ],
+      "wheels": {
+        "azurelogger-0.1-py3-none-any.whl": [
+          "9c5fab9c9d7a27e06e13af7055c70eb0e711fded6fb2b84633691e2eae4100fe",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "ef9871b808bc399266c966bfcf232ed318ef8ffa0f264d704068dcec3f938a22",
+        "azurelogger-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "azurelogger-0.1.1-py3-none-any.whl": [
+          "be543795738e644d0bfafe2243551c89612889d7ce677ee9f6c3b20e2fae0562",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "ee7bf476987bee693bf96237ecbea93dd145ddac81cba5f74750a74468740d59",
+        "azurelogger-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "azurelogger-0.1.5-py3-none-any.whl": [
+          "4868b5d16c061c3c8e4a8dc7bbd1a425be30b86defd5b4590dc97f4e50453dfd",
+          "py3"
+        ]
+      }
     }
   },
   "backports.interpreters": {
@@ -7496,6 +7570,18 @@
       "wheels": {
         "blockify-0.2.0-py3-none-any.whl": [
           "48ff7c84b794a031d344cf9d0ef2eebfec3f3d2013e7ba90492b5434324a9d51",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "ae10db8ad13103c3eb67ca72b65b33e83d25aa2b4bf72e7cf1fee6b656c6c599",
+        "blockify-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "blockify-0.2.1-py3-none-any.whl": [
+          "a54d3384f41a5e3bb765c8b2423dc72d5fabe28c4370b49191070bc9ebd485a1",
           "py3"
         ]
       }
@@ -12084,6 +12170,18 @@
       "wheels": {
         "cloud_volume-1.20.1-py2.py3-none-any.whl": [
           "7e07c0388a3ebeb4044e2f61a5b7a04cf7dc42e35a65225a7660ddfe8fba2896",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.21.0": {
+      "sdist": [
+        "8090568e5f28277b600803eb40279d6db2deef1c2bbda5508f313246157bc43c",
+        "cloud-volume-1.21.0.tar.gz"
+      ],
+      "wheels": {
+        "cloud_volume-1.21.0-py2.py3-none-any.whl": [
+          "d3915a7a03fe3192521305c880ce81abdd13b7f17f584f755e9b24029b3c76d9",
           "py2.py3"
         ]
       }
@@ -32461,20 +32559,6 @@
         "93dcd84cfa8c9f92448f7c3df3955504e4272d2bb0b43927d777839ed22a9e87",
         "micropython-uurequests-0.8.1.tar.gz"
       ]
-    }
-  },
-  "midman": {
-    "0.1.0": {
-      "sdist": [
-        "dd4a706401e08015e193366c6679dfc90250538b8686de2b09cd2be116dd16eb",
-        "midman-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "midman-0.1.0-py3-none-any.whl": [
-          "b50f3e81744eebd88b31715840e1fe05eb613d857be36e63786f05f4efa23641",
-          "py3"
-        ]
-      }
     }
   },
   "minipyp": {
@@ -69814,6 +69898,12 @@
       "sdist": [
         "b5caed6f72fb285be21aaa56d1f31f521b46d9658a7945944a2803bb6e8f9e1f",
         "tapdance-0.9.0.167.dev0.tar.gz"
+      ]
+    },
+    "0.9.0.170.dev0": {
+      "sdist": [
+        "8afbd0a199de797a72f8ce6abeeedf2a90423eaa7d8899638dd6721a6e754ad4",
+        "tapdance-0.9.0.170.dev0.tar.gz"
       ]
     }
   },

@@ -5494,6 +5494,18 @@
         ]
       }
     },
+    "1.57.0": {
+      "sdist": [
+        "f1b40c64715a958e11c6402eddfb721a19810035cb4265a4ba19c5a7897f3f45",
+        "aws-cdk.aws-iot-1.57.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iot-1.57.0-py3-none-any.whl": [
+          "33121d083f8fa5d5924b48ee5a1f399adfb9ed77a6298cf54561195d3fbb5320",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "0b33608998fde4005c1562ee16fafe238b83a1a45d730e073f5a1e8434b7d295",
@@ -11564,6 +11576,42 @@
       "wheels": {
         "dagster_flyte-0.9.0rc0-py3-none-any.whl": [
           "f0249c7913527a22d6a16ac1ba2e70a77d207593190a4659414c9c37aaa980da",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "a2217486011518b9869f046013fb4102e7f37aae0dbe6632f1e4c6b53ebd36af",
+        "dagster-flyte-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "dagster_flyte-0.9.1-py3-none-any.whl": [
+          "4231cbdf985468364eb0637045953b36c0d4e053e8ce53b6c3961615d9af271e",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1rc0": {
+      "sdist": [
+        "0c2d6b207fa90f442533719e0aa9d93688dd9bd508d00c69462c528393a989d7",
+        "dagster-flyte-0.9.1rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_flyte-0.9.1rc0-py3-none-any.whl": [
+          "3966e1e5d7aab448d80b991e658423204807f7ad0d8563625d3333eb74115950",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1rc1": {
+      "sdist": [
+        "b96171a93466feab22220be5a309e39ab28f11325b18e78f80c6d13b15e09c5b",
+        "dagster-flyte-0.9.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "dagster_flyte-0.9.1rc1-py3-none-any.whl": [
+          "50e6525c0e12c0f6d93a2c205756ef2514904fbbeceee97d653b2f57b72f0dee",
           "py3"
         ]
       }
@@ -25891,6 +25939,82 @@
           "cp38"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "9439b960b6ecd847557675d130fc3626d762bf535da595c20a6949a705fb3eae",
+        "google-crc32c-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "google_crc32c-1.0.0-cp35-cp35m-macosx_10_6_intel.whl": [
+          "7b5ccdc7697ca54351d2965d4241f907d53f26f5288710bed505f8c3776ed235",
+          "cp35"
+        ],
+        "google_crc32c-1.0.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "f3b859200c3bc73925b1719ed8b1f6d8d73b6620b42dbc121c4df58423045e34",
+          "cp35"
+        ],
+        "google_crc32c-1.0.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "1a613f43534c9a345cc86fc6531bda477e2473cb876b6e26aee22b8060917069",
+          "cp35"
+        ],
+        "google_crc32c-1.0.0-cp35-cp35m-win32.whl": [
+          "b7ee33659231c8205bb05559781ac61a325f31b06b917b3e997bea5c2c49ff4d",
+          "cp35"
+        ],
+        "google_crc32c-1.0.0-cp35-cp35m-win_amd64.whl": [
+          "176cef33c9ad2a56977efd084646b378e50ab14b43a7c0a16e956bc3e3ec130a",
+          "cp35"
+        ],
+        "google_crc32c-1.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "b6fad0842a02abd270f8b660db082d37d197ab80aa4db6a2ddbfcf472eade9e7",
+          "cp36"
+        ],
+        "google_crc32c-1.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "00b34d4c9ac565b2be553f81f58e5861e51d43af2043ed7cbfe1853ee2f54671",
+          "cp36"
+        ],
+        "google_crc32c-1.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "438d6c314a52d50a9523460024e655a3d27774adde47d72eebccc89dc9eec992",
+          "cp36"
+        ],
+        "google_crc32c-1.0.0-cp36-cp36m-win32.whl": [
+          "6fd5d861421c37786b9c1a87dc7b0d8349a426151a461d5724b76c5a07f6ae9b",
+          "cp36"
+        ],
+        "google_crc32c-1.0.0-cp36-cp36m-win_amd64.whl": [
+          "cda3a6829e8b5bf6058615e53387430d004590c9b0ad808e53fea5bec35bbe44",
+          "cp36"
+        ],
+        "google_crc32c-1.0.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7f44c5259f6b2f8b2b6f668dbaa954693a10e97811345c193e46b933c2dd5165",
+          "cp37"
+        ],
+        "google_crc32c-1.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "337566ce49d7ea7493f95bd6bc89ab08640caa91b6105cea0be57ed026980e74",
+          "cp37"
+        ],
+        "google_crc32c-1.0.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f54c90058e3f56e55fa0f699c6f4ceaaa825ea7f17ef2adbf07b2b06b27455e7",
+          "cp37"
+        ],
+        "google_crc32c-1.0.0-cp37-cp37m-win32.whl": [
+          "ec4d91c9236b0576d9d2b23c7eb85c6a6372b88afe2d0c64681cf11629586f74",
+          "cp37"
+        ],
+        "google_crc32c-1.0.0-cp37-cp37m-win_amd64.whl": [
+          "17223ac9135eab28e874ff1e221810190d109a1abd482451d0776dc388be14de",
+          "cp37"
+        ],
+        "google_crc32c-1.0.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "cf373207380e54c42da6c88baf1f7a31c2d9f29b87c9c922d5147d219eed55aa",
+          "cp38"
+        ],
+        "google_crc32c-1.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "41fb6c22cd72ae3db4d98d28dbb768d53397c8fc3cb8ab945fd434e842e622d4",
+          "cp38"
+        ]
+      }
     }
   },
   "googleapitools": {
@@ -38480,6 +38604,18 @@
         ]
       }
     },
+    "1.14.38.0": {
+      "sdist": [
+        "dc4f074864fe16e18fde6cac01ccfa8dfbbccd9ae69d11c3f8b58423c33c0462",
+        "mypy-boto3-frauddetector-1.14.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_frauddetector-1.14.38.0-py3-none-any.whl": [
+          "781b2b1f77f5c8ca6eacc7a7c04f2007c6c240638c1fd26f8bff1d1765be547f",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "8b665c533b7dea67a2e167c6928d10bad4d9635a228c1c864019858ae786a9ab",
@@ -40146,6 +40282,18 @@
       "wheels": {
         "mypy_boto3_qldb-1.14.37.0-py3-none-any.whl": [
           "d14697581dfa7db9f73179a43dcbdbe386ed643075a2657e70b53ce1edcd944b",
+          "py3"
+        ]
+      }
+    },
+    "1.14.38.0": {
+      "sdist": [
+        "9f3433426a13c37ba8c37c0daec000523b0c16f0d5fafb9dc442d59cb2a0c2f7",
+        "mypy-boto3-qldb-1.14.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_qldb-1.14.38.0-py3-none-any.whl": [
+          "eb04a47c7cda142c7d11d592741fe44b20b284eec476e83e0b1f36c88cb8db1d",
           "py3"
         ]
       }

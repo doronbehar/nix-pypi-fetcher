@@ -3245,6 +3245,18 @@
           "py3"
         ]
       }
+    },
+    "1.57.0": {
+      "sdist": [
+        "7e3069f086e9776a5203a04a472ae0c41d725a6e7c6729be8ef48eef1346be38",
+        "aws-cdk.aws-resourcegroups-1.57.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_resourcegroups-1.57.0-py3-none-any.whl": [
+          "6e729f23d26fdcc451a2a83a2bf73f1d04c5bbbe1ac072b6341b6fcda51c64f3",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.custom-resources": {
@@ -4132,6 +4144,18 @@
       "wheels": {
         "aws_cdk.custom_resources-1.56.0-py3-none-any.whl": [
           "1ec6d3013cf3125f8c45eb63ad978dba66b7d56214687bb184c5318f828a9165",
+          "py3"
+        ]
+      }
+    },
+    "1.57.0": {
+      "sdist": [
+        "77fb39148868373de50def1922b4b64844ce8467d2a23923a274b277e816c8a1",
+        "aws-cdk.custom-resources-1.57.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.custom_resources-1.57.0-py3-none-any.whl": [
+          "5f70c85b22698fbf5e36b21a7d34a4b522715e18a5eeb9de572a9ea15727972b",
           "py3"
         ]
       }
@@ -18418,6 +18442,12 @@
       "sdist": [
         "519d40a0fa8c93e4e2c9ab47aec769d5cb10915651ca74bfca323fae334c4fe1",
         "fasta-reader-0.0.10.tar.gz"
+      ]
+    },
+    "0.0.11": {
+      "sdist": [
+        "e40045f8f2b03abbcd90001a1ef8afd045ba8ce3f22db7eceeaac6d1140f5e32",
+        "fasta-reader-0.0.11.tar.gz"
       ]
     },
     "0.0.2": {
@@ -33568,6 +33598,18 @@
         ]
       }
     },
+    "1.14.38.0": {
+      "sdist": [
+        "07adb3910fdd96e3636a94fd58a72a5cfb025aa7c34d6d96b0b6cf19c68f7664",
+        "mypy-boto3-iot-jobs-data-1.14.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.14.38.0-py3-none-any.whl": [
+          "5a857a377fffaaa14b96fe0217fe244020df9bb807544daa4a775c1debb79891",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "443e7d485fd567bc0d7c94fe9403c1f94bd1d4c1aa895fe6746275d3ca426006",
@@ -40283,14 +40325,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "probabilistic-distributions": {
-    "0.1.0": {
-      "sdist": [
-        "0f4a1455ee64a348f8c4fad942b31a65571080dfc739f00089bbcf54d8c9ef00",
-        "probabilistic_distributions-0.1.0.tar.gz"
-      ]
     }
   },
   "probability": {
@@ -49346,48 +49380,6 @@
     }
   },
   "requests-oauth2client": {
-    "0.1.0": {
-      "sdist": [
-        "433b3d95f7016e44959bf32e4758acbcb70ccedc18536babb8d1df04c540de4e",
-        "requests_oauth2client-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "22ba0ff663bb979c67525165e9c6dff23ea649aa53aa8bd5750527af85b19147",
-        "requests_oauth2client-0.1.1.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "fa5874959be6d63ac34cc1a5cb4cce1c167db995d54438b893c43d64de11d765",
-        "requests_oauth2client-0.2.0.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "c710b9382dbff3a8c90d70cea1749ef3ba2ae22c28ebdba5bc1cc071265d2504",
-        "requests_oauth2client-0.3.0.tar.gz"
-      ]
-    },
-    "0.3.1": {
-      "sdist": [
-        "a3995726198e41562a107bc825d5ef8bbe6ac3fdbc777b90d257823364ded500",
-        "requests_oauth2client-0.3.1.tar.gz"
-      ]
-    },
-    "0.3.2": {
-      "sdist": [
-        "a2639d842d6d1290848652cd0cc5871a6a65bd5238a85e723b29cfeb6fdd5f86",
-        "requests_oauth2client-0.3.2.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "d46fb7b739a5c3f5127830e0fc9d2f477997dd5f39f7daf87c1c123b17c34ebe",
-        "requests_oauth2client-0.4.0.tar.gz"
-      ]
-    },
     "0.5.0": {
       "sdist": [
         "f89ac62d9a3ce7b46840b92442538818832887057c7b067b61a8b7881001a858",
@@ -49400,28 +49392,16 @@
         "requests_oauth2client-0.6.0.tar.gz"
       ]
     },
-    "0.6.1": {
+    "0.6.5": {
       "sdist": [
-        "fbc926bfdc270b9cad5e44d282192e254229b5192db6158d769bd4b64f4592a7",
-        "requests_oauth2client-0.6.1.tar.gz"
+        "be8013e482b91f8b914ddea0fcffb6938207c21ea9a8884ea7c3a569c9e7d2a9",
+        "requests_oauth2client-0.6.5.tar.gz"
       ]
     },
-    "0.6.2": {
+    "0.7.0": {
       "sdist": [
-        "c345b318d1d03bf067b920c55f68c39f67d4e04bc7647ae03720f88d9b26494e",
-        "requests_oauth2client-0.6.2.tar.gz"
-      ]
-    },
-    "0.6.3": {
-      "sdist": [
-        "3da9384ce417062629e6ec772fb2152a161abc0d58009471f62e84cad09f837f",
-        "requests_oauth2client-0.6.3.tar.gz"
-      ]
-    },
-    "0.6.4": {
-      "sdist": [
-        "0720d60a7a42f053c2d4ae826992682d8c57e4ffed5407585347e36a888c1d9b",
-        "requests_oauth2client-0.6.4.tar.gz"
+        "f1dae494e36e17079cd0bc2ad4c9d82889ea361543363c1d11ab7a6441b11cd0",
+        "requests_oauth2client-0.7.0.tar.gz"
       ]
     }
   },
