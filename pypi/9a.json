@@ -58719,6 +58719,42 @@
           "cp38"
         ]
       }
+    },
+    "6.75.1.dev20200809": {
+      "wheels": {
+        "lalsuite-6.75.1.dev20200809-cp35-cp35m-macosx_10_12_x86_64.whl": [
+          "2285862394bade4398d70810a87cbc386763351ffa55950dbc1c5ad34b791a3b",
+          "cp35"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "97dfce0e1156d54a5e22c0d572c8e6a92dd5a4af6448abe8f96aa064d32cb7b3",
+          "cp35"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp36-cp36m-macosx_10_12_x86_64.whl": [
+          "f1ee8b713ae92c2c3756c90a8a050dbfc8b824697364f3ca09e3688ae1a97c49",
+          "cp36"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "5eb47129209fbe77f7228d14c8bfbd5acb5f8ad14d481384885825ba09f3aba7",
+          "cp36"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "b40efc760d965774f39c08741f2012c22ff0def54dd58d759b1698d4c0267520",
+          "cp37"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9ed21ffc2ae92e0aac60e6f1876fd3f7888eeb52f5424fba8242b98bfb328a97",
+          "cp37"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "62db33c83721c5d0e4f772a9c97c57dd4dbf18366e6a797047a5b36bc9f0b8ac",
+          "cp38"
+        ],
+        "lalsuite-6.75.1.dev20200809-cp38-cp38-manylinux2014_x86_64.whl": [
+          "4c2f537bc49e745cef36910723e9c03eca98e633a5c7be0342e1a09e1fbaf030",
+          "cp38"
+        ]
+      }
     }
   },
   "largeman": {
@@ -71628,6 +71664,12 @@
         "pyside-material-1.11.tar.gz"
       ]
     },
+    "1.12": {
+      "sdist": [
+        "2f2b04f8996f7b68c9c8a1173c7a1f912d5569ea654b574dbdb785a36c3f0f39",
+        "pyside-material-1.12.tar.gz"
+      ]
+    },
     "1.4": {
       "sdist": [
         "5ee3a72168671d46741d18a87a7953f8982ac913240fcae544b24a912e9cdd90",
@@ -73784,22 +73826,14 @@
     }
   },
   "qbt-migrate": {
-    "2.0": {
-      "wheels": {
-        "qbt_migrate-2.0-py3-none-any.whl": [
-          "5e28329f67f8e271ee2fed2d67585bc4ee23ccadd0a5c4a6a26d58df47878074",
-          "py3"
-        ]
-      }
-    },
-    "2.1": {
+    "2.0.1": {
       "sdist": [
-        "90a289ac6e9de4ffa3861b026e95e4fbc2a674da99a43362d080e6377895de7e",
-        "qbt_migrate-2.1.tar.gz"
+        "b31d41da0754eb62cfc6ce187cecf1c475d49ed0d84df8d23b60f2c867c961ea",
+        "qbt_migrate-2.0.1.tar.gz"
       ],
       "wheels": {
-        "qbt_migrate-2.1-py3-none-any.whl": [
-          "e65101e62129ddbb8eb5e9c281a479fe8c1c95032060f4648d0d51cbfbd3d1b2",
+        "qbt_migrate-2.0.1-py3-none-any.whl": [
+          "5d018bfbbe3c4ad5024bf9895da80f9718877547af85755448d9a5e471709202",
           "py3"
         ]
       }
@@ -83248,6 +83282,30 @@
       "wheels": {
         "spotify_cli-0.2.1-py3-none-any.whl": [
           "e45a78df8229f543f4ae33bee9916a3c633869669d98a5f118f12bc273dde867",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "5f2ee3bea0ece91b436c65a6948989e5285b7cf8b7bcb46e536e59ae64daee79",
+        "spotify-cli-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "spotify_cli-0.3.0-py3-none-any.whl": [
+          "0bd2e62f163211634eb62adbf5cbfadc717d05cbfce28930e254662244f2ae89",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "3fc8fe97d53a0cd4951b3900800195d3f10093696d9de31fbdf5d5b0f66820ae",
+        "spotify-cli-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "spotify_cli-0.3.1-py3-none-any.whl": [
+          "45908658b0029560a26062f6667d35a1a7b670c8445d2bb0f325941cd2010eb0",
           "py3"
         ]
       }
