@@ -48851,6 +48851,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.27": {
+      "sdist": [
+        "ecb253ba8ce77f7c08f3fa321c41a709dec2808718f28a87a46086a449a69c31",
+        "pydbapi-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "pydbapi-0.0.27-py3-none-any.whl": [
+          "1aa9989f09f8474c91bef5ce6cdb33f6c95e8f10de2b07321ebc0fc9b7f5716a",
+          "py3"
+        ]
+      }
     }
   },
   "pyderman": {
@@ -54930,6 +54942,12 @@
         "schupy-1.0.11.tar.gz"
       ]
     },
+    "1.0.12": {
+      "sdist": [
+        "5ed3366fd06bdc9fd38e7200dbea7440e1b88349b9f3a3f6dedfdaf0679d93ef",
+        "schupy-1.0.12.tar.gz"
+      ]
+    },
     "1.0.4": {
       "sdist": [
         "12b06249251f884d08bf522826a0b7207ce98c8c7735d58b552ad41c11b2ed2b",
@@ -57024,6 +57042,24 @@
       "sdist": [
         "eb991c2d4f791e4971edb5e6727a049461a3110c6565391d159eea7f5b5a0e7e",
         "smartai_plugin-0.0.37.tar.gz"
+      ]
+    },
+    "0.0.38": {
+      "sdist": [
+        "ac3bada20f0e1934a51a6f9a8538da7cb622ad762b8561a36bfe8a336cb33549",
+        "smartai_plugin-0.0.38.tar.gz"
+      ]
+    },
+    "0.0.39": {
+      "sdist": [
+        "3c9e66bf7a79ce323976a76a8a5e92af6b7d77a6bad0698b418ac822b026d53c",
+        "smartai_plugin-0.0.39.tar.gz"
+      ]
+    },
+    "0.0.40": {
+      "sdist": [
+        "e8ba976e1e4d6b46afc8b277e015315da01c1e6c7cd3912611d1a54712973106",
+        "smartai_plugin-0.0.40.tar.gz"
       ]
     },
     "0.0.9": {
@@ -69208,6 +69244,12 @@
         "venvctl-1.3.24.tar.gz"
       ]
     },
+    "1.3.25": {
+      "sdist": [
+        "a5b1edbaa48e8e8fa861635054b40cd317bc977ad24ffbc10ca6784db39dc8fe",
+        "venvctl-1.3.25.tar.gz"
+      ]
+    },
     "1.3.3": {
       "sdist": [
         "8bb5575a39c95956e99671cb3e50211457551397907b15fa65af91d7ca7c42d0",
@@ -70436,6 +70478,58 @@
         ],
         "wagyu-0.0.0-cp38-cp38-win_amd64.whl": [
           "f878288f22802d5f9511629f7c83ca5a0e6a71ab477da418a9fbc2d764270de5",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.0a0": {
+      "wheels": {
+        "wagyu-0.1.0a0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "103bd3c94f04d995a4fc0baf797fe691bb196d28b21f8c3edfe4292ef4c10940",
+          "cp35"
+        ],
+        "wagyu-0.1.0a0-cp35-cp35m-win32.whl": [
+          "a4edb40ba4d41dbc5d2f45f4508fe9cf102fd95c5bac99effe976a860499aac4",
+          "cp35"
+        ],
+        "wagyu-0.1.0a0-cp35-cp35m-win_amd64.whl": [
+          "3b443c1050cbb775bc06d2ecacc00cbc166728be6bb37f997bb65221650cad5f",
+          "cp35"
+        ],
+        "wagyu-0.1.0a0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "525ecb07d7637883837d13d6c6ca0934d514423ef6f7833dd1f12b9f74121606",
+          "cp36"
+        ],
+        "wagyu-0.1.0a0-cp36-cp36m-win32.whl": [
+          "3b5b40d1836ceab2c10916f3b9c37c2b5e8f63e4e808489d1897b820b73e2ff3",
+          "cp36"
+        ],
+        "wagyu-0.1.0a0-cp36-cp36m-win_amd64.whl": [
+          "9c0cdc8dac15ef4b22dec71fa027c0fa69ca8049df29764c75617e71800797e6",
+          "cp36"
+        ],
+        "wagyu-0.1.0a0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4f60347475b1d41363780a21d29b825b473f73752d6b90d3d9b90ab8f882fc79",
+          "cp37"
+        ],
+        "wagyu-0.1.0a0-cp37-cp37m-win32.whl": [
+          "94c72239672ebf9f7652dae7d3d16f680ecaf71ba15389bfee792cd0228ee0c3",
+          "cp37"
+        ],
+        "wagyu-0.1.0a0-cp37-cp37m-win_amd64.whl": [
+          "8c5d4ff2aa7ed86854bde0344e7f607aa1089c2aebc3cd776878e097f1536979",
+          "cp37"
+        ],
+        "wagyu-0.1.0a0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9dd7b8939aeb827de67e11f12da2857dae392de641e330a6e43bf4a5cffd5f1b",
+          "cp38"
+        ],
+        "wagyu-0.1.0a0-cp38-cp38-win32.whl": [
+          "c11fd19125de0a080e7231d17059ad1d50fa327b200b3812a7f923d22200c75e",
+          "cp38"
+        ],
+        "wagyu-0.1.0a0-cp38-cp38-win_amd64.whl": [
+          "0a50ac0ef67b03f8e2aee3b0a9804b861a9b927893178520084b464f1464ae8c",
           "cp38"
         ]
       }
