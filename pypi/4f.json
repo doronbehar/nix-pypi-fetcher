@@ -9060,18 +9060,6 @@
         ]
       }
     },
-    "2.5.3": {
-      "sdist": [
-        "7857f5beec3ebf6d409cdce391d64610712a33adaa7aefb537619e1b64b47a06",
-        "chewBBACA-2.5.3.tar.gz"
-      ],
-      "wheels": {
-        "chewBBACA-2.5.3-py3-none-any.whl": [
-          "aadbafbcd9e534afda634e15affc7c314ef683216c9a9a8867f8e027f2b9f473",
-          "py3"
-        ]
-      }
-    },
     "2.5.4": {
       "sdist": [
         "c078ad30a42e0eee808e01ff67ef047d29305e851efda446257b1fe48c15958c",
@@ -11464,6 +11452,44 @@
       "wheels": {
         "data_stadium_pitch-0.1-py3-none-any.whl": [
           "af56fb9032f0b843ed06f3b2caab42145997898e18c562cd0c9b0939e016453e",
+          "py3"
+        ]
+      }
+    }
+  },
+  "data-struct": {
+    "0.2.2": {
+      "sdist": [
+        "b97caeba3066e30d699d3ca069afa8dc2b14587bb5716bf3fd9bcaa33fe0fcef",
+        "data-struct-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "data_struct-0.2.2.1-py3-none-any.whl": [
+          "7a07e7b52c5fd8356344b5cc1ad3bb0a31cd48d191d5a3243c300b826f22b583",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "ec14115bba4a99e38c041e5d17a8aeebc76ccb6c5cb7a2563cdb04524b5716e2",
+        "data-struct-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "data_struct-1.0.0-py3-none-any.whl": [
+          "101edc9a722974e0648af589bc78da91214194f414b79656db15720b10b8efef",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "f42145893222c7997239e9b3158098705b102ea3899b1f3cbad959c79879d448",
+        "data-struct-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "data_struct-1.0.1-py3-none-any.whl": [
+          "40411b186987e2f863a89f32486ddebdedf9901b8c6b0fca96334ee47a56bf14",
           "py3"
         ]
       }
@@ -51464,6 +51490,12 @@
         "seutils-0.26.tar.gz"
       ]
     },
+    "0.27": {
+      "sdist": [
+        "2ed7b8c4aeb0d0f21dcdbab5a0735623b102754491a502e19cd8a95dbddfc396",
+        "seutils-0.27.tar.gz"
+      ]
+    },
     "0.3": {
       "sdist": [
         "f84e963e001ecbf5beff32385604715ac67b84ca404a099d5bce25c4db81f3b9",
@@ -64560,6 +64592,50 @@
         ],
         "xpress-8.8.5-cp38-cp38-win_amd64.whl": [
           "d1bc6c880a1a6242aadd8994f29c442407a60c59d7574d9206c6edde65e2354a",
+          "cp38"
+        ]
+      }
+    },
+    "8.8.6": {
+      "wheels": {
+        "xpress-8.8.6-cp27-cp27m-macosx_10_7_x86_64.whl": [
+          "c4d4e3746cafb06da0b42cd0d0149ed26ea77989142026867df5b594049fd82b",
+          "cp27"
+        ],
+        "xpress-8.8.6-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "3df2f04b10b6caf7a08223e075046b6e97609c39e3314d63d12f59e4f9fbaa6d",
+          "cp27"
+        ],
+        "xpress-8.8.6-cp35-cp35m-macosx_10_6_x86_64.whl": [
+          "85e5ae0b1ab1f7da91d35e6228736533c268e94f524be374f57ecfe4227f19af",
+          "cp35"
+        ],
+        "xpress-8.8.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "814b2ad694b96250e6fe6c6dfd5802be94870ad0476eca758209530ba66cda44",
+          "cp35"
+        ],
+        "xpress-8.8.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "f0a55d0bb60305005263d29324329710fa6e397e2a45a4849b71b7ab38b828a0",
+          "cp36"
+        ],
+        "xpress-8.8.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a83690134569e85d912ce6cb30f09e519f687b0963a71f39263e443dfb33605e",
+          "cp36"
+        ],
+        "xpress-8.8.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "48856d9737f7df613063dc7386b66b2751c4843cb2eec67568ea7a4c5f8fe1f6",
+          "cp37"
+        ],
+        "xpress-8.8.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d4d90df2e54a780b0662f20aa9512c5c15ac83b4645f798d7642553ac3084eca",
+          "cp37"
+        ],
+        "xpress-8.8.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "de454761668e0026ce6f67b51370fd1482146e3b17bb1ed540f1ff5f24cd72d1",
+          "cp38"
+        ],
+        "xpress-8.8.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "405996443930f951a9e8eb2d813f1630ab1bd1f15d1af0afcda32f3553101b07",
           "cp38"
         ]
       }

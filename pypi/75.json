@@ -17820,6 +17820,22 @@
         ]
       }
     },
+    "10.3.1": {
+      "sdist": [
+        "6de5f6f36aad32d4382f3d0ad88ee85a22d81d638c960667b8e1ada05db2f98c",
+        "dropbox-10.3.1.tar.gz"
+      ],
+      "wheels": {
+        "dropbox-10.3.1-py2-none-any.whl": [
+          "a7646ae5ad616a28ee2eb48c27c2edb61db23f249ea0776a5896ba552d05a9c3",
+          "py2"
+        ],
+        "dropbox-10.3.1-py3-none-any.whl": [
+          "2d4d4f7c83581dd4745d127e09ac4ca0b6e10f49626a12b5751867d7fc83e64c",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "7dd22859bb807c0cf32cf6d87dce296529942c863f56ea1cf53e1b8a69f822ae",
@@ -20460,26 +20476,14 @@
     }
   },
   "fairmotion": {
-    "0.0.1": {
+    "0.0.3": {
       "sdist": [
-        "d73edc7aa608db4da5a38518c7024733ee038b1f41eb057806dd72b7357a15af",
-        "fairmotion-0.0.1.tar.gz"
+        "7212e87dd59c71f452e3d2feb1266ce614ff8c8a04502bfd2c5e5fedf528ea07",
+        "fairmotion-0.0.3.tar.gz"
       ],
       "wheels": {
-        "fairmotion-0.0.1-py3-none-any.whl": [
-          "8d1ad86a93223f038061d7afc3ece67cecd2e20463e7c7a2c31bcd54f71257b4",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "b29e2c7465076ec9cf1325617dfb59ed7216f806327819b35f33a74ca5bda848",
-        "fairmotion-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "fairmotion-0.0.2-py3-none-any.whl": [
-          "94ae9b20068cc3cee862a68b7339332a150574f90e2a08a2a5210cd6cec4c3a4",
+        "fairmotion-0.0.3-py3-none-any.whl": [
+          "99ec8b3eccd3206f84efe45b72a627a7400246222c5b750f3d8291ead417b8ab",
           "py3"
         ]
       }
@@ -22700,6 +22704,14 @@
       "sdist": [
         "64c8260487994fde6c0a8991e62559bae563b10c8ee36e481da0b9065dcc7819",
         "fragment-0.0.2.tar.gz"
+      ]
+    }
+  },
+  "from": {
+    "0.1.0": {
+      "sdist": [
+        "e80582968fc7b0dd343f323901e728d4714ada9bd19802fc98601dff05c35632",
+        "from-0.1.0.tar.gz"
       ]
     }
   },
@@ -25122,6 +25134,18 @@
       "wheels": {
         "getitfixed-1.0.21.dev20200809-py2.py3-none-any.whl": [
           "e24886e14c0039bc399401da51cd1b50c1f6518cac30133fc442a8ab763fe5d3",
+          "3.7"
+        ]
+      }
+    },
+    "1.0.21.dev20200810": {
+      "sdist": [
+        "3a0717c752f5c39ac3aa26eea1363a0c64f540549c9bc04186507ef0d4009336",
+        "getitfixed-1.0.21.dev20200810.tar.gz"
+      ],
+      "wheels": {
+        "getitfixed-1.0.21.dev20200810-py2.py3-none-any.whl": [
+          "9a4f40500ad6ba4ac3453750ceba63263e9bfdb8d25cf661be26ef877d908555",
           "3.7"
         ]
       }
@@ -40504,6 +40528,18 @@
         ]
       }
     },
+    "1.14.39.0": {
+      "sdist": [
+        "022b20051e2c87592adb995cf514bc5cd577e530247be25f3b0e1eab4990a9f3",
+        "mypy-boto3-snowball-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_snowball-1.14.39.0-py3-none-any.whl": [
+          "47c96294856a6cd85769f2fdedb7bf92201f14c0dbac24de991999e61dd58cdf",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "aafb9e6e8070a69f6add68f969d4fe86d4f2d66214dbc3d80b5a8066d46b20e1",
@@ -49907,6 +49943,12 @@
         "6c6b12b6a231be854a9d8a7a342eb5e71dcdab7c74c3c6b6b4a8ef0471b26c71",
         "pictures-0.3.tar.gz"
       ]
+    },
+    "0.4": {
+      "sdist": [
+        "9777d138f6a9190b621daddde6e7e66764826ac540c50f36054b6a6733f732d2",
+        "pictures-0.4.tar.gz"
+      ]
     }
   },
   "ping": {
@@ -51028,6 +51070,14 @@
       "wheels": {
         "pmercury-0.5.0.26-py3-none-any.whl": [
           "bba91de26acceb498c7cc1244e8ea42ad6b9a46f2f4908f2538cef4acdaa664b",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2.44": {
+      "wheels": {
+        "pmercury-0.5.2.44-py3-none-any.whl": [
+          "ab167f52198f831fbde9d7d8510afa3db19e10addddb9350bf3817a60f3ae204",
           "py3"
         ]
       }
@@ -67046,6 +67096,18 @@
       "wheels": {
         "thoth_messaging-0.6.2-py3-none-any.whl": [
           "d9f2f4f0e60ba92a7974c12bc4d6ab90028ca0fadbee4c6b020aace9553b01db",
+          "py3"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "09f11ebe3b63ca0788315c2e6d76ef84de6e27f0b4e5b9f625895f7429704c8c",
+        "thoth-messaging-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "thoth_messaging-0.6.3-py3-none-any.whl": [
+          "6a990282ce7c7c41ec1bff0704c9c723cf2a7cadbefb30c87dd5718c176dc7a9",
           "py3"
         ]
       }

@@ -18947,6 +18947,12 @@
         "4021d087042e7ba2232d5a8ec69b7bdd875d25aeb0f13568acc2659d8328c06a",
         "fulfil_client-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "6c625cf270136e5d08414666eaae9e9ebeb35117faed6046a200914773d3911b",
+        "fulfil_client-1.1.0.tar.gz"
+      ]
     }
   },
   "funcat": {
@@ -39804,6 +39810,18 @@
         ]
       }
     },
+    "1.14.39.0": {
+      "sdist": [
+        "33b4c963fd28f78f70a5516af6d77a08f63753d7c0f7ad02e910fbd7e62a087e",
+        "mypy-boto3-amplify-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.14.39.0-py3-none-any.whl": [
+          "3136b95be232f720537eca067e331dcdcd79648afd4ef816a6d16e5670c127b2",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "0e87a4038b327890ec5ef3d7896b3e208d78653aa9abe92ffdc51095dfe8ced7",
@@ -41482,6 +41500,18 @@
         ]
       }
     },
+    "1.14.39.0": {
+      "sdist": [
+        "cf288c003c2afdc750c5285d967528e4b1041aeab522b0bf7fd7a63e8b7e07e1",
+        "mypy-boto3-elb-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.14.39.0-py3-none-any.whl": [
+          "091f27f8c34f87f2987ecb15042f1adbafe0d49a627a6d50f8fb76d1a8bdf22b",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "8b69e9289ad65347abe47306c928833d036ddce7eb189d06fb86b0ab88b113e9",
@@ -43148,6 +43178,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.14.38.0-py3-none-any.whl": [
           "ca12150365fc2f5e21f4f9e1832999c8e4901065af239f905748cc67d55914e7",
+          "py3"
+        ]
+      }
+    },
+    "1.14.39.0": {
+      "sdist": [
+        "80d74e21cb33ce1b68f83ad9487ae14eb354d83aaf5f95cdb6c0bc0db452dceb",
+        "mypy-boto3-meteringmarketplace-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.14.39.0-py3-none-any.whl": [
+          "9436385412707b38675d504e062f31f5169234dd1ffcf9d6f14a437d6644b197",
           "py3"
         ]
       }
@@ -47330,6 +47372,12 @@
         "omfit_boundary-2020.7.28.11.51.tar.gz"
       ]
     },
+    "2020.8.10.12.30": {
+      "sdist": [
+        "7ced41435ef486c23b5f008ac7c444360b28a72f4c94f997ef674797fb025200",
+        "omfit_boundary-2020.8.10.12.30.tar.gz"
+      ]
+    },
     "2020.8.6.13.57": {
       "sdist": [
         "640ec57797e05ef849463dd2e484ed8112406a538ba7faa710b303bae83e9ac6",
@@ -47372,6 +47420,12 @@
       "sdist": [
         "e4cc7e01c73996e92e91d53ac0d1dbe06cb4c9201b664702cf9f3e55288d2b80",
         "omfit_cdb-2020.7.28.11.51.tar.gz"
+      ]
+    },
+    "2020.8.10.12.30": {
+      "sdist": [
+        "728a92786103c5121d16de97c9f5b0eb64e5bb2cf90ac34cdccdd931af977b89",
+        "omfit_cdb-2020.8.10.12.30.tar.gz"
       ]
     },
     "2020.8.6.13.57": {
@@ -75192,12 +75246,20 @@
           "7a06e76e47e326e37d1631feb83fff9528c229684e9bd28bf75a5e442eacd976",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200810-cp35-cp35m-win_amd64.whl": [
+          "273d030831b0cb7c6ecef2701f57d3ef0d6516a3c69de7dad3b8d97df4b03f94",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200810-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "82c80b1aff2a393b1256be279f89a6025cf69c6b783326a71923fa0f63d7751f",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200810-cp36-cp36m-manylinux2010_x86_64.whl": [
           "a89444c1134f47d5740727174656a43cc519c7bee2504c609cf506562a8b9926",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200810-cp36-cp36m-win_amd64.whl": [
+          "140fb8de5598511cc991d64cfd2c0070e0515983b5709d47504b10b08120f2f0",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200810-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -75214,6 +75276,10 @@
         ],
         "tf_nightly-2.4.0.dev20200810-cp38-cp38-manylinux2010_x86_64.whl": [
           "3416b8766ddfd849333c8e9d366ab6efb23bbd345ff83e5834b9116839a4263a",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200810-cp38-cp38-win_amd64.whl": [
+          "fbd1f6b1a3c4db46deb315686451764eca27fe27df6fb027c2d137c9ef7ba3ba",
           "cp38"
         ]
       }
@@ -76120,6 +76186,18 @@
       "wheels": {
         "torchdiffeq-0.0.1-py3-none-any.whl": [
           "4f30c76c69a8942f9b9721278beb446697dade2528beff29ec6011884df148ac",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "215091b275423f768f7cda568854ad39a0665d395f658f462e29f3452c1e62dd",
+        "torchdiffeq-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "torchdiffeq-0.1.0-py3-none-any.whl": [
+          "51ef761bf3c0de35bca22d45bcb877b002e5cb2cc2987ee6e73eba1f0206e74c",
           "py3"
         ]
       }

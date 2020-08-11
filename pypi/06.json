@@ -26816,26 +26816,14 @@
     }
   },
   "kingfish": {
-    "0.0.6": {
+    "0.1.1": {
       "sdist": [
-        "62a9d740ec4082c2e43783a087641e5d0f54b7d07ef6ca22ce3d1f2c8531b8ec",
-        "Kingfish-0.0.6.tar.gz"
+        "65ea392073126d43d50e36d8fbfb3eb9251013e0ec1a27846b3533c25c4167e7",
+        "Kingfish-0.1.1.tar.gz"
       ],
       "wheels": {
-        "Kingfish-0.0.6-py3-none-any.whl": [
-          "2cff747f40f5b76d22feb796898e4cf656372bdaba4929f90780baa7833c41c2",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "7fa3bdf39d60e1afffd575a0d915325d382a46da33e9f9a8b52ac41a674f8dbc",
-        "Kingfish-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "Kingfish-0.0.7-py3-none-any.whl": [
-          "ac257c6db104ceadedf9c111cc7895a32d7ba08b9500af0fb2c17e912fb0f345",
+        "Kingfish-0.1.1-py3-none-any.whl": [
+          "c56f75b31d4c420cb188ec9f4166765569064374086da65dedc7b09203e0c53b",
           "py3"
         ]
       }
@@ -27644,6 +27632,18 @@
         ],
         "libevt_python-20200715-cp38-cp38-win_amd64.whl": [
           "adeba26173897be50c1df9914cb69565d741beb6464c776c5fa7e07cb45dc52b",
+          "cp38"
+        ]
+      }
+    },
+    "20200810": {
+      "sdist": [
+        "626906ae1c4e2d81860cffcc7c11dbfca849bfef9fd76814fa66969647a852a2",
+        "libevt-python-20200810.tar.gz"
+      ],
+      "wheels": {
+        "libevt_python-20200810-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "0c4e22ad0c041cedb286329c50a21502968a35f228f0a8516245e6db05422b42",
           "cp38"
         ]
       }
@@ -35500,6 +35500,18 @@
         ]
       }
     },
+    "1.14.39.0": {
+      "sdist": [
+        "c5d33b7aa8e70b2dfe2727dabaec9d9c05eaf5f872958757a8275965cb0c0c72",
+        "mypy-boto3-codecommit-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codecommit-1.14.39.0-py3-none-any.whl": [
+          "a144bfd20637393ec7b52cc49ee12827c28b0da71a52b8df151926f959d9e16e",
+          "py3"
+        ]
+      }
+    },
     "1.14.4.0": {
       "sdist": [
         "a5036910e5619f55a979ed78cb897b1d7bfa87b39639ce7eea7f566f79edb932",
@@ -37174,6 +37186,18 @@
       "wheels": {
         "mypy_boto3_pinpoint_sms_voice-1.14.38.0-py3-none-any.whl": [
           "d71b64b82d4d01cc377bf5f0bb7952b3dce8980148b4ad2ad94bf776569dfbde",
+          "py3"
+        ]
+      }
+    },
+    "1.14.39.0": {
+      "sdist": [
+        "0c8f944499e13aefec84d1e7722b0e2405d3bc9025ef951d40214df1c1400da5",
+        "mypy-boto3-pinpoint-sms-voice-1.14.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint_sms_voice-1.14.39.0-py3-none-any.whl": [
+          "4cac8a71141a93f4b9e1b9a8d0332a2d4bb415cbf51dcb4c2ff9612816006b06",
           "py3"
         ]
       }
@@ -42530,6 +42554,50 @@
         ],
         "ovito-3.1.3-cp38-cp38-win_amd64.whl": [
           "f272e9bd113eecd9c41d477a3a7f552aeca5f8db66028dd06edfb8248c0ab4f1",
+          "cp38"
+        ]
+      }
+    },
+    "3.2.0": {
+      "wheels": {
+        "ovito-3.2.0-cp34-cp34m-manylinux1_x86_64.whl": [
+          "ff50ac82995a71e86496187703dc6233bd1158c3b549b9704ef7746e04310637",
+          "cp34"
+        ],
+        "ovito-3.2.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c1907027ac716fbd5138aa17e491b4f4c61b5ef2041eb6f8b6fe3c877494da01",
+          "cp35"
+        ],
+        "ovito-3.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "2e74fbf05dce26968ccceae6fb4b73dabc1fb9a28f27ba4c4da1b106bdd4d7a9",
+          "cp36"
+        ],
+        "ovito-3.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "192c5c7f3761e4796e9601b06d3ddfdf28dcc75a818a5a400609d24a4a9e8bc9",
+          "cp36"
+        ],
+        "ovito-3.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7b087fa3763a73ad184b0b4cb9efb66c9ed111059824737e9387ed16bbd9c78a",
+          "cp37"
+        ],
+        "ovito-3.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d3c554899753220da0d8778b41f53fc90092b42a971a808b679c15dddf917ff5",
+          "cp37"
+        ],
+        "ovito-3.2.0-cp37-cp37m-win_amd64.whl": [
+          "64ee4351c4d588ac60b562dd4cdb419c8afd23e0fb8ec31ae16d0903b4c87cdf",
+          "cp37"
+        ],
+        "ovito-3.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4011d069bcb812a828ecb57da312f319d888477348557d4a61f53f8c85db4f9b",
+          "cp38"
+        ],
+        "ovito-3.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "52fe0dfa37297a7e768cd466ee7fb44b34be485ebcc6d30a2d76be610c7e6603",
+          "cp38"
+        ],
+        "ovito-3.2.0-cp38-cp38-win_amd64.whl": [
+          "9ffd13144c9332dad3071fea50cc0f97aac088e9f02f051c841bcf217317f9ee",
           "cp38"
         ]
       }
@@ -53666,6 +53734,12 @@
         "resifdatareporter-0.20.0.tar.gz"
       ]
     },
+    "0.20.1": {
+      "sdist": [
+        "37552bddba3974abf00193cd2e991747bcb962b933ffe39543c8a526d45b5c24",
+        "resifdatareporter-0.20.1.tar.gz"
+      ]
+    },
     "0.5.2": {
       "sdist": [
         "339f9f311dc7a55812c1f8b3c1d0f63c61018fe7182d922c261c83150e1a31cf",
@@ -56484,6 +56558,18 @@
       "wheels": {
         "sentry_flake8-0.3.1-py27-none-any.whl": [
           "efd8c04f33a1c6eb15a8bbb51d9bd6ba459ea50cae19ba1d722a25d08635b1b3",
+          "py27"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "48c68f1f53ca558c052391e0005baefeaf277599b752f8316e7a66221a0bbbc9",
+        "sentry-flake8-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "sentry_flake8-0.4.0-py27-none-any.whl": [
+          "733fbbf8807b1e433d908913ecdd02c9cfd4cc2642e25b4d1e2f5089a4be9897",
           "py27"
         ]
       }
@@ -67630,6 +67716,12 @@
       "sdist": [
         "1ef5f14fa4a7997af981bf9d2983ca841b28548bb2d4308565b8180fc899aba9",
         "wgnlpy-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "afa7942305f65febacde2ece59539726565659114a33e696e6145b95758263e3",
+        "wgnlpy-0.1.2.tar.gz"
       ]
     }
   },
