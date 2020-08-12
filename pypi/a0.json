@@ -2915,6 +2915,12 @@
         "1da37d77554f07a5fd294c040f455068e6a7e96924cee7be4e04171554c67dd9",
         "aliyun-python-sdk-dts-5.0.34.19.2.tar.gz"
       ]
+    },
+    "5.0.34.19.3": {
+      "sdist": [
+        "ea25f6e9ab251d14dea9147d87260bc176c554b4fa4cc78de0ce26c03b18927f",
+        "aliyun-python-sdk-dts-5.0.34.19.3.tar.gz"
+      ]
     }
   },
   "aliyunddns": {
@@ -11442,6 +11448,12 @@
       "sdist": [
         "b797ea2a15204ae14bad8f2d7810000501f8ef58c14a0ef3ec1e2f2cb6a2a284",
         "CodingToolBox-1.3.1.tar.gz"
+      ]
+    },
+    "1.3.2": {
+      "sdist": [
+        "c82445ee9d630082b411195e43a46ae702ade1d105bf5c887b7286c2723bbc1d",
+        "CodingToolBox-1.3.2.tar.gz"
       ]
     }
   },
@@ -25457,6 +25469,20 @@
       ]
     }
   },
+  "japanese-addresses": {
+    "0.0.1": {
+      "sdist": [
+        "80e0745b9b01fb3e280ad13aebfd1217550196d1dada42c7cd37a7ce5baf22f9",
+        "japanese-addresses-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "japanese_addresses-0.0.1-py3-none-any.whl": [
+          "4301190c8c4cf5e9ceb839b0087b4aadad58675612a4b26c8af00949022d241d",
+          "py3"
+        ]
+      }
+    }
+  },
   "jara": {
     "1.0.1": {
       "sdist": [
@@ -26844,6 +26870,18 @@
       "wheels": {
         "jupyterlab_server-2.0.0b0-py3-none-any.whl": [
           "bb056994fba0049f215008b8bb75cfeb6b2c6c1f4f66742b968b871b59ed5c60",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0b1": {
+      "sdist": [
+        "c4527492682f3a8f8492a900eb032454206ae52b55b0b4039f191e42fc2954e4",
+        "jupyterlab_server-2.0.0b1.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_server-2.0.0b1-py3-none-any.whl": [
+          "ab9fe762a9b35fa970acf62b735b2bc1b380ce5205f497ada717d82b05b7fb02",
           "py3"
         ]
       }
@@ -40117,6 +40155,10 @@
         "opencv_contrib_python-3.4.11.39-cp38-cp38-win32.whl": [
           "5032cb04055692627d8123d27de4b95a4cf229c21ffa22fc9735ba765f726a0e",
           "cp38"
+        ],
+        "opencv_contrib_python-3.4.11.39-cp38-cp38-win_amd64.whl": [
+          "710a3c28d9501be30cc56984ff2667863692e16b9e8fd2cdc43431796a6e02e1",
+          "cp38"
         ]
       }
     },
@@ -42182,6 +42224,10 @@
     },
     "4.4.0.40": {
       "wheels": {
+        "opencv_contrib_python-4.4.0.40-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "adb35e002ad54b9f8dbe51a0afdae420424ea961581ebd69af732faf9f738591",
+          "cp35"
+        ],
         "opencv_contrib_python-4.4.0.40-cp35-cp35m-manylinux2014_i686.whl": [
           "9dd29f6e4a116cf3ce74e7b7f9b19b2db9585dcb6f040717240a69e60f577c38",
           "cp35"
@@ -42197,6 +42243,10 @@
         "opencv_contrib_python-4.4.0.40-cp35-cp35m-win_amd64.whl": [
           "8ea89d52a4aeacddd5f30400be103cbba4bdad64f06f60afe523c538b119e973",
           "cp35"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "a7f31e4cdb3d7c15e8801dfe4f7e4661cf4eabc914c475e4424c58830df4eab5",
+          "cp36"
         ],
         "opencv_contrib_python-4.4.0.40-cp36-cp36m-manylinux2014_i686.whl": [
           "b3e9d46178cb715bd6bb1315afc2714fccb19c1a6e46b25f754a599aa88fa125",
@@ -42214,6 +42264,14 @@
           "31f08ee80be63abcd1cc03b14368fbbfd6434088745e8675712e755e8d023610",
           "cp36"
         ],
+        "opencv_contrib_python-4.4.0.40-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "d60de0be0351c897421a04da49938801cbd40dbfcd3b843d7afc649206ba6cc6",
+          "cp37"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp37-cp37m-manylinux2014_i686.whl": [
+          "b439b6656105ce676d3726cb4edd452004c0bf74505c806550a15df5f320a603",
+          "cp37"
+        ],
         "opencv_contrib_python-4.4.0.40-cp37-cp37m-manylinux2014_x86_64.whl": [
           "fde9eadbfd02a4246bfc9cdf8391dd6de5582c69fcc5b5ad9e548066916bc15a",
           "cp37"
@@ -42221,6 +42279,30 @@
         "opencv_contrib_python-4.4.0.40-cp37-cp37m-win32.whl": [
           "b5bbc432c7d508db02986a4f668c4c6d23ea3161bf49f64040fd002bc65e32d7",
           "cp37"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp37-cp37m-win_amd64.whl": [
+          "b6770c762db0db79cfab6ed2dc7477fc6b6905ae3eb24a2fb84f5bd376d05a21",
+          "cp37"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "a4e9150e61b183ca89181f57a6d3d2cb04d5c41bfd1f65b91f718978945224da",
+          "cp38"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp38-cp38-manylinux2014_i686.whl": [
+          "49938fceddc5b56bec9d43758c0e9cbaa3dc8d6d62279cf716dd6b99f93182f0",
+          "cp38"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp38-cp38-manylinux2014_x86_64.whl": [
+          "332555b1bb2372d9530e0c4acdd74ed1d84fb9a4763f1e83ce3c2d432455fe6e",
+          "cp38"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp38-cp38-win32.whl": [
+          "0395b78f7d59dd1805663124c0148cd37269c64649e319998889fa57a557c9ae",
+          "cp38"
+        ],
+        "opencv_contrib_python-4.4.0.40-cp38-cp38-win_amd64.whl": [
+          "eba81572368d01c4b7afd2c9013180ec5da5c135c28e3329ec738f60d0c7c714",
+          "cp38"
         ]
       }
     }

@@ -2365,6 +2365,18 @@
         "16c4a252e9fd095a7b96a9bd39af3d79982cfb1052e9e9a92bd94e422f79fc5d",
         "arweave-python-client-1.0.3.tar.gz"
       ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "1cea2556dbbd89d5784d2ea029523c1180c4229b06027456c530b53b9f84924a",
+        "arweave-python-client-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.7.dev0": {
+      "sdist": [
+        "380e9e3ca19d48babf4c729288e8fd3c44407b29dee1641d3700b14d96cf2287",
+        "arweave-python-client-1.0.7.dev0.tar.gz"
+      ]
     }
   },
   "asnhistory": {
@@ -5724,6 +5736,18 @@
       "wheels": {
         "cipheydists-0.3.18-py3-none-any.whl": [
           "02c5a108bfa16521eb116ed6012ad3d7b06c4239c9b4c106b47ed1d3b3833433",
+          "py3"
+        ]
+      }
+    },
+    "0.3.19": {
+      "sdist": [
+        "579cf83b8b49da315225e6421de5237121095528a9aedddf2d25d62de38926a6",
+        "cipheydists-0.3.19.tar.gz"
+      ],
+      "wheels": {
+        "cipheydists-0.3.19-py3-none-any.whl": [
+          "0a8f65ae54616ebffe5edd8b875b89fa7813d3b9be1ab374033d3bfc8fb57685",
           "py3"
         ]
       }
@@ -20542,32 +20566,6 @@
       "wheels": {
         "harikaharika-0.0.1-py3-none-any.whl": [
           "ff956d0e72af59b2f0c0f5f1b200ebadd3c8cf73165f47fc2f1becc9cc7f13f3",
-          "py3"
-        ]
-      }
-    }
-  },
-  "helloworld-py": {
-    "0.0.1": {
-      "sdist": [
-        "516f10abe52b8646769d6d317b3c9518b12a349209339872a27a4395ae9f50b7",
-        "helloworld-py-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "helloworld_py-0.0.1-py3-none-any.whl": [
-          "950710375d30caeb37c11c87c15263017c46cc48ae6ba2c3ebfaaf9d1032524e",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "4d78828bb24a31bbfba6acaf09c7835cc6a8434717fb94df79590d237aa2026a",
-        "helloworld-py-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "helloworld_py-0.0.2-py3-none-any.whl": [
-          "756c727a9f5a38e66bb7cbf7ba59b27317aa9614aeeae54969028adb177368e3",
           "py3"
         ]
       }
@@ -66370,6 +66368,18 @@
     }
   },
   "rumydata": {
+    "0.0.10": {
+      "sdist": [
+        "d869ddeb4250bdd90b8c49abc92c06e8c4a76b2eb36729eaf60ae066900a7fbf",
+        "rumydata-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "rumydata-0.0.10-py3-none-any.whl": [
+          "17e72a5d559a0582cd153ab962a7461544148c32db7b355b33748e962133115e",
+          "py3"
+        ]
+      }
+    },
     "0.0.5": {
       "sdist": [
         "f9c6d2ea54c448c0be460465aac5830223811b8aa6ec5c3df3fbc38044538fbc",
@@ -71472,50 +71482,6 @@
       "sdist": [
         "4a185db8e69695e38d6552b244798a6375b34806873d1003150abb2d61ff85e8",
         "test_demo-0.1.tar.gz"
-      ]
-    }
-  },
-  "test2-sideex-webservice-client": {
-    "0.0.1": {
-      "sdist": [
-        "efa07c282e9c4acd7c0433ca6ddc0cbd2b0ad3f274543f4c3a2a3c7ca2ce78d9",
-        "test2_sideex_webservice_client-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "65ed709ce909ce0366812f63f116ccbfd861ae9649f83407e639a08497d00b77",
-        "test2_sideex_webservice_client-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "77885011d463d51cc61e09772aed78146018b44ddec1ab9c29ede20945ca4604",
-        "test2_sideex_webservice_client-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "e80795634dda34be527608b7bc3255be899f7b7182ceaf28e45e7136574e15c9",
-        "test2-sideex-webservice-client-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "add5d85a595acee51e2a5d02078884da41b0707f3ad3887ecd6424ba7a379ed3",
-        "test2-sideex-webservice-client-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "9e761e5726934d5860acf552c1e88f889dc335f43dcdaf4ce56f398101611ace",
-        "test2-sideex-webservice-client-0.0.6.tar.gz"
-      ]
-    },
-    "0.0.8": {
-      "sdist": [
-        "7fe665dca2411065dabc280c67236ec50c4c648438030a179e3cb76873941c93",
-        "test2-sideex-webservice-client-0.0.8.tar.gz"
       ]
     }
   },
