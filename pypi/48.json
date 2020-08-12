@@ -683,56 +683,6 @@
       ]
     }
   },
-  "androidery": {
-    "1.0": {
-      "sdist": [
-        "f7ac68a8299d8ebc065bf761c97a7b4dbd69546bef6a70f98f0e05937e7d4f29",
-        "androidery-1.0.tar.gz"
-      ],
-      "wheels": {
-        "androidery-1.0-py3-none-any.whl": [
-          "4aadd54eeec1b3453bfe0d3d852751fb1d30a7654b63584de350719b32223e17",
-          "py3"
-        ]
-      }
-    },
-    "1.1": {
-      "sdist": [
-        "ef9099d131893f94bae4e7684b728f410ae6b3ecaf9a0de20f330363f64fb0f2",
-        "androidery-1.1.tar.gz"
-      ],
-      "wheels": {
-        "androidery-1.1-py3-none-any.whl": [
-          "5fa78c378f4951fc107298fe8ebcb1e8fbf23a2060f77ff71de3adcc61ec828d",
-          "py3"
-        ]
-      }
-    },
-    "1.2": {
-      "sdist": [
-        "fe6ef4937e7fa4181b6757049a2e44658fc112cc51f93b108e3929c9f63b7358",
-        "androidery-1.2.tar.gz"
-      ],
-      "wheels": {
-        "androidery-1.2-py3-none-any.whl": [
-          "d4953026c0ae690b41c19c978e749841673303b839d3d8278ad87c5c41efa291",
-          "py3"
-        ]
-      }
-    },
-    "1.3": {
-      "sdist": [
-        "3494fdb6b084132a02361a60d3b2e210250b400e73a49d0e4b3fc21380ae2c7c",
-        "androidery-1.3.tar.gz"
-      ],
-      "wheels": {
-        "androidery-1.3-py3-none-any.whl": [
-          "281789e9222b6962a62d982e08cedbec10bbce200bacdac9c156873b2ab49ae2",
-          "py3"
-        ]
-      }
-    }
-  },
   "anonlink": {
     "0.10.0": {
       "sdist": [
@@ -20466,6 +20416,12 @@
         "girder-ldap-3.1.1.dev196.tar.gz"
       ]
     },
+    "3.1.1.dev199": {
+      "sdist": [
+        "b57a2c7430a360984bd720d7982424c17281161352331b922e06027fe7cfaf8d",
+        "girder-ldap-3.1.1.dev199.tar.gz"
+      ]
+    },
     "3.1.1.dev26": {
       "sdist": [
         "f1d90ff0837974d60141037e763d6458bd32f2198ba1a6131fb7687604b83934",
@@ -32274,6 +32230,18 @@
         ]
       }
     },
+    "1.14.40.0": {
+      "sdist": [
+        "8a4daa6364b7c2a415264de866163764490b328f4078269027c3cbb425ef1b9e",
+        "mypy-boto3-directconnect-1.14.40.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_directconnect-1.14.40.0-py3-none-any.whl": [
+          "ff7f24d54ef548c40f996a01fb4b0ff2705a088d67a0b3ee1f2ae82c476e1125",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "81cbd6b386865b7310bc0cba9ea2b6d008208677c15f31ed2b37a47f130f6ddd",
@@ -32928,6 +32896,12 @@
       "sdist": [
         "7adbe25968ca10a294d48967db21d24fa1ed270ce346cd72790dbe59f1037336",
         "neuroglancer-2.1.tar.gz"
+      ]
+    },
+    "2.10": {
+      "sdist": [
+        "b0b58476c811d9184ee4f73ddb4a7ef7212f2950e494dc914ab4df1ab1edea5f",
+        "neuroglancer-2.10.tar.gz"
       ]
     },
     "2.2": {
@@ -33948,6 +33922,18 @@
       "wheels": {
         "NudeNet-1.1.0-py2.py3-none-any.whl": [
           "185a47b8a682b1dc0d74c05b911b14c1e9bade9149c8cd7b074f26d79b755fda",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "7633e993de9514cc57810aea97476031bbd5126f2080cc8df3d11e4033948491",
+        "NudeNet-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "NudeNet-2.0.0-py2.py3-none-any.whl": [
+          "873a1e00e07a04284fac758e3eae9bbed2b16ea6e8b60c3e476795b442f1a516",
           "py2.py3"
         ]
       }
@@ -42824,6 +42810,62 @@
       "wheels": {
         "pyspace_toolkit-1.1.5-py3-none-any.whl": [
           "c7da5c2e7772d4b4c59dec293843e2033d7cb50b6ae26f46bc7684b18e6eeecd",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6-py3-none-any.whl": [
+          "387a4ffd0d66405ca10fbb706ab6d9ed28eb3b60e8e72a88c751d117b6bdcb46",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.1": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.1-py3-none-any.whl": [
+          "42b71b5bf2fe9553812caa3b07a5d224feb82ca287952ab652f157fe1f273da5",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.2": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.2-py3-none-any.whl": [
+          "442045889f0e186c5f246a68f018671239d3e409a8d9a0b46680a6218a23f0e4",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.3": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.3-py3-none-any.whl": [
+          "edd67b7e238da49c13d777e742ae122e85315adf735904aafcce44ce648383ae",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.4": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.4-py3-none-any.whl": [
+          "2a053af8be165c5ad1a8592854f13c90fbb8cd5b282db842c5c81e590eb16ab2",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.5": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.5-py3-none-any.whl": [
+          "2b37c39186cbdd858d41947a27794f1b3947dfcf197be0df8c65e26f2d3f5163",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6.6": {
+      "wheels": {
+        "pyspace_toolkit-1.1.6.6-py3-none-any.whl": [
+          "74f250a84707f330eb4b7a2b38936ee3ff4e0d7f6722be9a3139ea8676070633",
           "py3"
         ]
       }
@@ -52876,6 +52918,18 @@
       "wheels": {
         "streamz-0.5.4-py2.py3-none-any.whl": [
           "d2b1c37a7db0207633c92e8b4d98a40cc8c5f44a31e450581cb5f676295570ad",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.5": {
+      "sdist": [
+        "787ade4796c5b2e79af2aac678841ba3748a65a3adce150697dcdd31c4f80365",
+        "streamz-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "streamz-0.5.5-py2.py3-none-any.whl": [
+          "78a9edc67db66b8c667cf22fb08dcbdd38938d6133a4801af13de0b6460953c3",
           "py2.py3"
         ]
       }

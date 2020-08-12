@@ -13961,6 +13961,12 @@
         "ac28b9e7e72b4c63bb2a7f91925ae18bb655f51944267fff26161625728a3a73",
         "django-blti-2.1.2.tar.gz"
       ]
+    },
+    "2.1.3": {
+      "sdist": [
+        "9a531a03c8b9fada7255acd634e202326d3722abb4fdef637daedd2ae963194d",
+        "django-blti-2.1.3.tar.gz"
+      ]
     }
   },
   "django-care": {
@@ -27642,8 +27648,24 @@
         "libevt-python-20200810.tar.gz"
       ],
       "wheels": {
+        "libevt_python-20200810-cp27-cp27m-win32.whl": [
+          "059584996a05836015c22752f766a03f6e3bb9eb90f1326300adca95619608b6",
+          "cp27"
+        ],
+        "libevt_python-20200810-cp27-cp27m-win_amd64.whl": [
+          "a80f14aeb41137845dc0e2f133778ace2442b14523f1079aeaa397817c2a21ee",
+          "cp27"
+        ],
         "libevt_python-20200810-cp38-cp38-macosx_10_14_x86_64.whl": [
           "0c4e22ad0c041cedb286329c50a21502968a35f228f0a8516245e6db05422b42",
+          "cp38"
+        ],
+        "libevt_python-20200810-cp38-cp38-win32.whl": [
+          "4f3f3dedb36f51bb5d18d54e47dd3491c1476f14096b508409d6f37f26e244d4",
+          "cp38"
+        ],
+        "libevt_python-20200810-cp38-cp38-win_amd64.whl": [
+          "1e14f5c6d02d98bc764121e997d552a464ae7790e940c093f4825ba69175942c",
           "cp38"
         ]
       }
@@ -35524,6 +35546,18 @@
         ]
       }
     },
+    "1.14.40.0": {
+      "sdist": [
+        "8164317379eb14d6c92181f957156dfa8e4270b55e53fd50ff772e8b0d62a47d",
+        "mypy-boto3-codecommit-1.14.40.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codecommit-1.14.40.0-py3-none-any.whl": [
+          "475f03e204c1389c2b74a47829be5cc45626d86c2940f505800510627ac80f13",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "983aba6cc6c789d2f015412287f6d9ee5886f6ad534fd2ab8d584aefe32bb0fe",
@@ -37210,6 +37244,18 @@
       "wheels": {
         "mypy_boto3_pinpoint_sms_voice-1.14.4.0-py3-none-any.whl": [
           "c5737437515f7cd25e91990d2d04a3178924c959fdfe36ceb9e67b9387c84663",
+          "py3"
+        ]
+      }
+    },
+    "1.14.40.0": {
+      "sdist": [
+        "cd3b89a72269c2e270a4ad9be397139d82ad3aed9bbbb9927de3ed3ab2136be6",
+        "mypy-boto3-pinpoint-sms-voice-1.14.40.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint_sms_voice-1.14.40.0-py3-none-any.whl": [
+          "07fe91f5944d07b016da586e785f7d5a3dea97bbea58985dda0f43fab8c1b627",
           "py3"
         ]
       }
@@ -54423,6 +54469,20 @@
       }
     }
   },
+  "riftwrapper": {
+    "1.1": {
+      "sdist": [
+        "d6a0208b8d4e0fe1432a86f7ac57b35c82a88eb0d1647a8d8ea6cf87969aa428",
+        "riftwrapper-1.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "7ff0e3a4440efd15d0e8bee8374d8021d56c8d23cd468bc0a2b7968a161ebc4a",
+        "riftwrapper-1.2.tar.gz"
+      ]
+    }
+  },
   "rnbgrader": {
     "0.1": {
       "sdist": [
@@ -61566,6 +61626,12 @@
         "srxraylib-1.0.3.tar.gz"
       ]
     },
+    "1.0.30": {
+      "sdist": [
+        "cac0e275ae8b9bfa5bb9d506c39e81c1e2c3d481d8271bdca7eddeff36c474ca",
+        "srxraylib-1.0.30.tar.gz"
+      ]
+    },
     "1.0.4": {
       "sdist": [
         "0e4f21a9d37a1908082b52a05c422da6f491c1a2d0981cd2104e7687cb2b7886",
@@ -62306,6 +62372,18 @@
       "wheels": {
         "stock_pandas-0.25.2-py3-none-any.whl": [
           "1816dc54a3b9c44aba64a7ce95f1cb30b0b6073caa8ef5cea6c1cfc321fa4f13",
+          "py3"
+        ]
+      }
+    },
+    "0.25.3": {
+      "sdist": [
+        "274b0a6217f78eb47986e302aebf438ebf97a20b13da8199fee1861b659694db",
+        "stock-pandas-0.25.3.tar.gz"
+      ],
+      "wheels": {
+        "stock_pandas-0.25.3-py3-none-any.whl": [
+          "17c1ef48f70cf5de73cfbc0db1ac5cd80c5467901a2ef75c6a13b346093b699d",
           "py3"
         ]
       }

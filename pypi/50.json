@@ -19913,6 +19913,12 @@
         "d8b42f1f6142c235b8c785a266090fcb8d371308856d622679953a1aece56986",
         "execsql-1.78.0.tar.gz"
       ]
+    },
+    "1.78.1": {
+      "sdist": [
+        "aa403b571ec56002661f5e44cbd2fad1d1e3dfe64a1d19c2e50a73eb630256bd",
+        "execsql-1.78.1.tar.gz"
+      ]
     }
   },
   "farneback3d": {
@@ -32090,6 +32096,18 @@
         ]
       }
     },
+    "0.1.15": {
+      "sdist": [
+        "f10777b3bf57ac05b59bb5cefbabf7d8c322345faccd4bd3f953c61467183892",
+        "kanpai-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "kanpai-0.1.15-py3-none-any.whl": [
+          "b8d60de55a6c13fbb79ab978b69095751ad55e2d35c3f7eb4d2f236cf85abd4f",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "30e3f262f5ef9037e9f72e09c225a2b4267bfb7d63defc2a70d7f3ccf3a96cee",
@@ -42622,56 +42640,6 @@
       "sdist": [
         "3bed08a5cb86524984a058f4b4b465662002e72006b21491a90d3d2daf2bd956",
         "omfit_data-2020.8.7.14.37.tar.gz"
-      ]
-    }
-  },
-  "omfit-thomson": {
-    "0.0.0.0.0.0.0": {
-      "sdist": [
-        "d54ed2a1109210480cb40698ba8a2ac7daccc0c5a5fa6356227e098ce777313e",
-        "omfit_thomson-0.0.0.0.0.0.0.tar.gz"
-      ]
-    },
-    "2020.7.22.23.23": {
-      "sdist": [
-        "7d20f24e62d04f9f98870e65bc6e78428ffedd5df1e0cc74df52ba56dcc9acd5",
-        "omfit_thomson-2020.7.22.23.23.tar.gz"
-      ]
-    },
-    "2020.7.28.11.4": {
-      "sdist": [
-        "962e17adc6b91e91844142f7808dab20c2cde5c6e2331b9edfa8339de0eb3629",
-        "omfit_thomson-2020.7.28.11.4.tar.gz"
-      ]
-    },
-    "2020.7.28.11.51": {
-      "sdist": [
-        "429e75498dcd77a64af3f47b092bab19178b9c300a080d3497793047853b5334",
-        "omfit_thomson-2020.7.28.11.51.tar.gz"
-      ]
-    },
-    "2020.8.10.12.30": {
-      "sdist": [
-        "d40ba0a07df389a9a362999a1b311a6ead96762410805ae172d2caea24a8ac1a",
-        "omfit_thomson-2020.8.10.12.30.tar.gz"
-      ]
-    },
-    "2020.8.6.13.57": {
-      "sdist": [
-        "844bd06400d547fd7f76e95c92733558af89b2041a63af0bee562646ba191941",
-        "omfit_thomson-2020.8.6.13.57.tar.gz"
-      ]
-    },
-    "2020.8.7.12.8": {
-      "sdist": [
-        "079d474b62c5df96bcbbecf7e77315b58061fb927f418701ca5160ca4c91ebe0",
-        "omfit_thomson-2020.8.7.12.8.tar.gz"
-      ]
-    },
-    "2020.8.7.14.37": {
-      "sdist": [
-        "38a829a63cf85b533b0bc1cfc1febad2dd9f457b00b9c40baf32c2d20fafefc9",
-        "omfit_thomson-2020.8.7.14.37.tar.gz"
       ]
     }
   },
@@ -78458,6 +78426,110 @@
         ],
         "tensorflow_io_nightly-0.15.0.dev20200810205450-cp38-cp38-win_amd64.whl": [
           "0cca58b4843f79a122724695b93efd9478f751f2eb7a1f61cf351754447a5f1f",
+          "cp38"
+        ]
+      }
+    },
+    "0.15.0.dev20200811193323": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "6b556810e041d1f909421d9b4362c674fc3d45cc55c57abd2daf12fb360eb4ec",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "073b491ad19b8034d7398afa5856dc7e3bb5143e2f4b281fc305078cc73dcfe2",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp35-cp35m-win_amd64.whl": [
+          "57033e31974daebb6118ee9012742dbfaf3aa50f7078e86055e7e7ba7340864a",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "05a7f02633b684d52ecc60673e58e5d7fdcc03fb5b44b3cd2bef516896d60566",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "cb4203d148e23cabda52ef1810bcba5de60b01d3a5f515df8106b23f6aeab48c",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp36-cp36m-win_amd64.whl": [
+          "917d6e5a1af5008b371b707bcedb311ad1bd3458f075074415f85eb920bc6db7",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "6d7b9a3fa9bc0e6175af25def4359fecc93173c59a11d17694e65c4f99bafb95",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9a89da88bf911eef1de1e3a9bfb2c37a868c054d3f15e6bd9ae0432dcaddda61",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp37-cp37m-win_amd64.whl": [
+          "356c03eef75c5e327ab3dab7fdedcbfe4b2eb5a8475ebe13bce3fbc966d7d92f",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "f99b3a177cdf241edd5741fcf603a7d270fa1cce7b61fffc15d734115f81d34a",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp38-cp38-manylinux2010_x86_64.whl": [
+          "78ba0a6ecf0cafc6f1c485ac8e8632b5fcc29d7cf45ed5b9db0576538e9d35ed",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811193323-cp38-cp38-win_amd64.whl": [
+          "585f35474783271bdf33ad2a09300feca84f42ae55dd6e82f156e561d43e2968",
+          "cp38"
+        ]
+      }
+    },
+    "0.15.0.dev20200811214325": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "f3f923d77e9ae4b26455d1757eb49a52068ef4ea35cac0feee1694c282838024",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b99bafd3db744f1532d38f03b7552373433e03d3644fbf5bc98944c7e7c4d883",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp35-cp35m-win_amd64.whl": [
+          "ac0be790bc6eebf05856ace90721bf7418fe2d2af97457279f8f245e4c836349",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "d8d028bd8e079d64fb92930795accc92657467773a1f463b226e0851e49f6564",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "e08f620b9e253aec860a46236783d23cd6c68d84697f256810afea0a676eaa99",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp36-cp36m-win_amd64.whl": [
+          "062116ac840032c3a7cd2d5fa4db23a8910a36a7919856f4a180586dc5d21d09",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "d0db7833a25677c1e4b3deeff611d12f0a2c620c86e3fb4058a5e64643e449a1",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1c5bbdd5e784f04e90179df7ebafe88029c7a62aef3354d0a90dfc5c01a51426",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp37-cp37m-win_amd64.whl": [
+          "5347a70399afdca02bb95de2e2f30e2601c85fbc4b54e7f392d9136677876da2",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "2f1915f49314b860790f91f261bfb3beb9ac0b2ec299f7721c3213b420529904",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1855a2538cf8f1d6f3516c6cd53aa40fc5cc6babc1722f8c706622a265d88cbe",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20200811214325-cp38-cp38-win_amd64.whl": [
+          "635fb2f86d0e6b8e214d1352a651b550a6e140dab1db1c04be43d4ff2bc7b144",
           "cp38"
         ]
       }
