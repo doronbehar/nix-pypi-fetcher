@@ -14420,6 +14420,22 @@
         ]
       }
     },
+    "2.0.1b11": {
+      "wheels": {
+        "etna_panza-2.0.1b11-py3-none-any.whl": [
+          "feed883306821e8a030d9c1ab55a979b9a9db9731811cf26f40a8dd05cc016db",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1b12": {
+      "wheels": {
+        "etna_panza-2.0.1b12-py3-none-any.whl": [
+          "2113bc0d846beec3d857fd1f0ce2bdc74b4fdd2665d693992c7867970eff4dbf",
+          "py3"
+        ]
+      }
+    },
     "2.0.1b2": {
       "wheels": {
         "etna_panza-2.0.1b2-py3-none-any.whl": [
@@ -30263,6 +30279,12 @@
         "123333bdcc1e7555d04b557ff3ee3a4b283b37f4e8cd15c0076542319e1ef43b",
         "lifx-photons-interactor-0.7.1.tar.gz"
       ]
+    },
+    "0.7.2": {
+      "sdist": [
+        "4ceffcbf0a6e695db247ebaf232d914686efa9a53e92065fb78b5f3f3a0df7bc",
+        "lifx-photons-interactor-0.7.2.tar.gz"
+      ]
     }
   },
   "ligninkmc": {
@@ -38152,6 +38174,18 @@
       "wheels": {
         "mypy_boto3_greengrass-1.14.40.0-py3-none-any.whl": [
           "c5c75fc2faafa203978f3e9ff91ddca3f4286526389d4a4f53493048d090e994",
+          "py3"
+        ]
+      }
+    },
+    "1.14.41.0": {
+      "sdist": [
+        "1fd172d52a8404819c172f917b984a97944bee561df7abbce440bd1d0905a6ca",
+        "mypy-boto3-greengrass-1.14.41.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_greengrass-1.14.41.0-py3-none-any.whl": [
+          "65616da69ab7da2928b0a585d18d12773d751ed37c10c377b692a51597c00364",
           "py3"
         ]
       }
@@ -58935,6 +58969,12 @@
         "e007b09a809b32ac4d9ee981919a966a34638eed8e474b4c5357109a9606a2ad",
         "riskmodeler-2.0.1.tar.gz"
       ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "fbd49e26a40c2b2db358b96cb3f9139bd322d74b32c4cf08c3eabeb4395fe1de",
+        "riskmodeler-2.0.2.tar.gz"
+      ]
     }
   },
   "rm-synthesis": {
@@ -59864,6 +59904,30 @@
       "sdist": [
         "ae196ce96bf438ff4c96f1bd6bd9b0324a1a22ed51ce67e5260992e9cfd60115",
         "rocket-daisy-0.1b9.tar.gz"
+      ]
+    },
+    "0.1rc0": {
+      "sdist": [
+        "c7b071e34bc9a7660295c13dddfc38e1b84f75ed5167dc76b62332a5a2592c5f",
+        "rocket-daisy-0.1rc0.tar.gz"
+      ]
+    },
+    "0.1rc1": {
+      "sdist": [
+        "4d911d2b88ac27108eeba101aad780d9e3865c1c15bf0f172206a4e4e9115625",
+        "rocket-daisy-0.1rc1.tar.gz"
+      ]
+    },
+    "0.1rc2": {
+      "sdist": [
+        "b57e3dc52aacb97246e3eaa1464e0833ef8c6a0274561505c0078bfdfb20c5fc",
+        "rocket-daisy-0.1rc2.tar.gz"
+      ]
+    },
+    "0.1rc3": {
+      "sdist": [
+        "6db574c0f0278a002eb66fbaf0a6d2a3cb3ed7125075cde595506b99eb94a77c",
+        "rocket-daisy-0.1rc3.tar.gz"
       ]
     }
   },
@@ -69769,6 +69833,44 @@
         "d29ead73364c403b38aede92315da714bbfe5ff5db0c19bb5d05609db41b90f6",
         "vim-debug-1.5.4.tar.gz"
       ]
+    }
+  },
+  "viztracer": {
+    "0.1.1": {
+      "wheels": {
+        "viztracer-0.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c76719576fce7235e2a7b74c54813a5c985f52ee4255edd7bc1590f9bec8eb51",
+          "cp35"
+        ],
+        "viztracer-0.1.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "1c670d675c0828d3f7f55c5701916c29943d43a659bbf902bd1a9780d75e6692",
+          "cp35"
+        ],
+        "viztracer-0.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "9ff46b15ba44c89680240872541dfddbc14afb964e1c8c6045d0609ded9b5706",
+          "cp36"
+        ],
+        "viztracer-0.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f15b7a6ead118fefe8ec1de821ee9539129fe6fe274b75896d035724dadee0b7",
+          "cp36"
+        ],
+        "viztracer-0.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "32eb3325642da1eb92a46ebd5f93cb960b4114717c212021e6ea16689207a9c0",
+          "cp37"
+        ],
+        "viztracer-0.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "527bb3609d2496d0c0857adc4e61db56ece54cda4e9d28fe62712027cbef2f9e",
+          "cp37"
+        ],
+        "viztracer-0.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "e0ab30da0e93d261be9ba211288f58baa98b74128fc51dc6dcb22da8e9dc00fa",
+          "cp38"
+        ],
+        "viztracer-0.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c3d7316da852f782264e084b1c779ac3b16faf2a89dddab2f2bda4d93a05fbfc",
+          "cp38"
+        ]
+      }
     }
   },
   "vsts-cli-team": {

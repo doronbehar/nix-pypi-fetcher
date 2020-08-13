@@ -328,6 +328,12 @@
         "adcircpy-1.0.1.tar.gz"
       ]
     },
+    "1.0.10b0": {
+      "sdist": [
+        "803f363ca4cc5f039307bb9778658bce0c9f35c6337c7af0787c1f1cdc2b8cc5",
+        "adcircpy-1.0.10b0.tar.gz"
+      ]
+    },
     "1.0.2": {
       "sdist": [
         "4163e3021fa26653b4b7ea92d75d7c7b4c9a723b97609d65857f5f54358d587c",
@@ -368,6 +374,12 @@
       "sdist": [
         "7d62c23168991aa2cef8ecfbac706f4b468c190e3cbc6d5893e934a0f90a0255",
         "adcircpy-1.0.9.tar.gz"
+      ]
+    },
+    "1.10b0": {
+      "sdist": [
+        "90c3d18b80fc243ca265b27e29e527e9b7ed93c387152cc4fce3761623d707c8",
+        "adcircpy-1.10b0.tar.gz"
       ]
     }
   },
@@ -3827,6 +3839,18 @@
           "py3"
         ]
       }
+    },
+    "1.58.0": {
+      "sdist": [
+        "8df4cbc33980a6fe2f2c2d60051d6f5be9d200211d39df6bce001afafffabbea",
+        "aws-cdk.aws-acmpca-1.58.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_acmpca-1.58.0-py3-none-any.whl": [
+          "1536f502445b213d297f01a5baf7753875f950f067d32db41e209e36968e21d0",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-applicationautoscaling": {
@@ -4846,6 +4870,18 @@
       "wheels": {
         "aws_cdk.aws_applicationautoscaling-1.57.0-py3-none-any.whl": [
           "7dad000a6339446d520089d06b3032bcc98bf35be7941f578c7b67145c288061",
+          "py3"
+        ]
+      }
+    },
+    "1.58.0": {
+      "sdist": [
+        "4878c329ccf84fc16c7d50e4109aa2fd7f312629c098ab760a4f54e96b0ac300",
+        "aws-cdk.aws-applicationautoscaling-1.58.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationautoscaling-1.58.0-py3-none-any.whl": [
+          "17fd6e993f0af7a24965a7129e9be178733a91edff797cfc43f0e29a8fe86a73",
           "py3"
         ]
       }
@@ -5928,6 +5964,18 @@
       "wheels": {
         "aws_cdk.aws_elasticache-1.57.0-py3-none-any.whl": [
           "439fe1098ad03d5ac88ed50d2c6c74a924fd33275245c21767388cb31f49e49e",
+          "py3"
+        ]
+      }
+    },
+    "1.58.0": {
+      "sdist": [
+        "f3e8e661f84f1a4913015c969ded87f1c6a23ac49714b9f271fbaeba314a43b8",
+        "aws-cdk.aws-elasticache-1.58.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticache-1.58.0-py3-none-any.whl": [
+          "2c4d29702529a2880ed05046e1968605859f95ac9a3040e4ab4fe23b4298f69d",
           "py3"
         ]
       }
@@ -27408,6 +27456,18 @@
       "wheels": {
         "flwr_nightly-0.5.0.dev20200811-py3-none-any.whl": [
           "d8666baffbf5401ab062e227109378c044f5bdc8b3fe87fdde9b8064bffad767",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.dev20200812": {
+      "sdist": [
+        "2c81c56b1bea9123f7f9c6c3f2c3ecdbeb6afa4efe002bab22254a3583aeaed0",
+        "flwr-nightly-0.5.0.dev20200812.tar.gz"
+      ],
+      "wheels": {
+        "flwr_nightly-0.5.0.dev20200812-py3-none-any.whl": [
+          "4c61c2f017b906d54c1fd99567e524d82300e3ad5b9b6593982a2baabdb9788e",
           "py3"
         ]
       }
@@ -57265,6 +57325,22 @@
           "py3"
         ]
       }
+    },
+    "1.2.9": {
+      "sdist": [
+        "4ea27c55e2a0326b86668e9941e25bae0462c3bd1c5712b48f6891d564e12949",
+        "rh-doozer-1.2.9.tar.gz"
+      ],
+      "wheels": {
+        "rh_doozer-1.2.9-py2.py3-none-any.whl": [
+          "9727b113350cf0c8bb5d936a66a1ee752889e662cc5c117637a9da5fee61d997",
+          "py2.py3"
+        ],
+        "rh_doozer-1.2.9-py3-none-any.whl": [
+          "1a47182492c9330608947bccc5453f68c3e9857d8d3e3ee6e32d07ae354ca310",
+          "py3"
+        ]
+      }
     }
   },
   "rimac-analytics": {
@@ -58084,6 +58160,14 @@
       "wheels": {
         "sarpy-1.0.47-py2.py3-none-any.whl": [
           "bdc2344f8281601bb32868b3755c95bb7fe976b8f2384851b7e81259611a2cce",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.48": {
+      "wheels": {
+        "sarpy-1.0.48-py2.py3-none-any.whl": [
+          "e5a59d99f0d90013cbeccd1891c3475d62212cab4c17580256c22466c8b51136",
           "py2.py3"
         ]
       }
