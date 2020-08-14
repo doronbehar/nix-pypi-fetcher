@@ -15511,6 +15511,14 @@
           "py3"
         ]
       }
+    },
+    "2020.8.1": {
+      "wheels": {
+        "common_framework-2020.8.1-py3-none-any.whl": [
+          "33d7ab0aaf3da69734c95f4f617a660121be04ca35b2f0ea744749a14a19075c",
+          "py3"
+        ]
+      }
     }
   },
   "config-finder": {
@@ -20642,6 +20650,14 @@
       "sdist": [
         "bb7a463af9369987eead0c38aa81321fa2d0727b473dcd4c4cd815194e5d6ecf",
         "distexp-3.0.tar.gz"
+      ]
+    }
+  },
+  "distinomial": {
+    "1.0": {
+      "sdist": [
+        "69e49ce7d14ca4410529f1f07824eed5b5ce84caa5f92e9069e1e245f52bcdfa",
+        "distinomial-1.0.tar.gz"
       ]
     }
   },
@@ -44198,6 +44214,18 @@
         ]
       }
     },
+    "1.14.42.0": {
+      "sdist": [
+        "b335f42633fbc818d1928f8afcda5f8e9601c5d63f61067a62e83da638431ce0",
+        "mypy-boto3-codeartifact-1.14.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codeartifact-1.14.42.0-py3-none-any.whl": [
+          "9b93cd6582e2a17cba771674e9b8c17ea3b702d2f157d2f5905e551c00d0b167",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "b7f2bb8fa47030b1b200b416a2a5f0a5ea3a60c17c93edd5047e25dec050d69a",
@@ -45708,6 +45736,18 @@
       "wheels": {
         "mypy_boto3_dataexchange-1.14.41.0-py3-none-any.whl": [
           "b5136f426582649e199484a7250535e67a9ea88b404da4a2dc4c7c53f30733d5",
+          "py3"
+        ]
+      }
+    },
+    "1.14.42.0": {
+      "sdist": [
+        "f352fa6e66e7d13c577d9a53b771e63f5276366c44e60c8342c1744912e9783a",
+        "mypy-boto3-dataexchange-1.14.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dataexchange-1.14.42.0-py3-none-any.whl": [
+          "4ad5b0f32eec31c13d43eef3fb8c1eb0ecaf012bd0dae836af7de2cc87e70cb6",
           "py3"
         ]
       }
@@ -47422,6 +47462,18 @@
       "wheels": {
         "mypy_boto3_fms-1.14.41.0-py3-none-any.whl": [
           "7cce0dc558bea47f177326b626765ccffcb95bd74f26ebafd74715954244bc7e",
+          "py3"
+        ]
+      }
+    },
+    "1.14.42.0": {
+      "sdist": [
+        "a3fde9664199ef991cabb5080435554ab9adfc2e73792b25cec4fd062bb8f46b",
+        "mypy-boto3-fms-1.14.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fms-1.14.42.0-py3-none-any.whl": [
+          "1a1d846928043b4f4e98c928157eb9d024a7b84570e8313fe84a708e679059a3",
           "py3"
         ]
       }
@@ -56502,12 +56554,6 @@
         "pymks-0.1.tar.gz"
       ]
     },
-    "0.1-dev.3816097": {
-      "sdist": [
-        "d9337295b855eee7b7ce7ad0d4fae7295248fa57644b5090fd2bdd92a616c9e3",
-        "pymks-0.1-dev.3816097.tar.gz"
-      ]
-    },
     "0.2.0": {
       "sdist": [
         "90abccf5e847c7af97a78430d5d26f3775bb5350f44b8ec83be60023edd586bd",
@@ -56556,46 +56602,16 @@
         "pymks-0.3.4.tar.gz"
       ]
     },
-    "0.3.4a1": {
+    "0.4a1": {
       "sdist": [
-        "755af6544b4f1902be160610bc106cc966b13e80f9d2fa018cb0297ce5a3148b",
-        "pymks-0.3.4a1.tar.gz"
+        "624eb9924c6d135191a866b602982ae8a6208bf077a2462d3c1cb572c5a18c8e",
+        "pymks-0.4a1.tar.gz"
       ]
     },
-    "0.3.4a2": {
+    "0.4a2": {
       "sdist": [
-        "bc99f17f2a00287b1255e17eacc4f2904f6cce8c939b985d046a1361960d6c58",
-        "pymks-0.3.4a2.tar.gz"
-      ]
-    },
-    "0.3.4a3": {
-      "sdist": [
-        "627083053ca4d4e0cf1ddabdbaadf931e809e19ed18dfcf9b643fb984fd90ab7",
-        "pymks-0.3.4a3.tar.gz"
-      ]
-    },
-    "0.3.4a4": {
-      "sdist": [
-        "7046b3d75833bfb7b282bcb27e99afecca9a8208a330907ef399f7f241fbf64f",
-        "pymks-0.3.4a4.tar.gz"
-      ]
-    },
-    "0.3.4a5": {
-      "sdist": [
-        "3abab3545ff07dca50adb224d95dbe28add4dc8c8a4d92132bc53c74376f92cc",
-        "pymks-0.3.4a5.tar.gz"
-      ]
-    },
-    "0.3.4a6": {
-      "sdist": [
-        "5c35d349c3d2aa6424e2d35e61db8fd46ee7ffbf1b33a954c85a8a14c7d4402d",
-        "pymks-0.3.4a6.tar.gz"
-      ]
-    },
-    "0.3.4a7": {
-      "sdist": [
-        "030d56481debaa4e68feee4102b1189e5f999c8aa427f4c431fa94c766f35f80",
-        "pymks-0.3.4a7.tar.gz"
+        "895f89111ed3d13c104947b30edb86e100ecb5dba8c8adb73103dd3f97ccd6cd",
+        "pymks-0.4a2.tar.gz"
       ]
     }
   },
@@ -64362,6 +64378,14 @@
       "wheels": {
         "smartpii_installer-1.0.26-cp38-cp38-manylinux1_x86_64.whl": [
           "df946028303070dfcebfe0190598f613d018b47b48c03ab9b12df854f08f4af0",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.27": {
+      "wheels": {
+        "smartpii_installer-1.0.27-cp38-cp38-manylinux1_x86_64.whl": [
+          "0f2ab95baa69ca120cad8d62bc0811a295257d042a6498f93f2d846e31bc124b",
           "cp38"
         ]
       }

@@ -5625,6 +5625,18 @@
           "py3"
         ]
       }
+    },
+    "8.3.0": {
+      "sdist": [
+        "e08622ccff6ebd91310220b00813c64102e1f16593004b41a1bb04bbab1b063d",
+        "bifrost-8.3.0.tar.gz"
+      ],
+      "wheels": {
+        "bifrost-8.3.0-py3-none-any.whl": [
+          "67cc1cebb4dc84a9d84517fe326748286a549be1163fe286d75074e6d2bc1d54",
+          "py3"
+        ]
+      }
     }
   },
   "birdhousebuilder.recipe.thredds": {
@@ -10357,6 +10369,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "csv-map-calculator": {
+    "0.1.0": {
+      "sdist": [
+        "64feac1987c8e36c53a64b5ed3312d932e5d128ddbc324df9ee9645a98ed8e55",
+        "CSV-mAP-calculator-0.1.0.linux-x86_64.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "3040681703e7b57e20908153016bf71c89383a21dfb8f809b97deeddb8dab4a0",
+        "CSV-mAP-calculator-0.1.1.linux-x86_64.tar.gz"
+      ]
     }
   },
   "curtiscloudevents": {
@@ -17967,6 +17993,12 @@
         "e77aba26501c2a777627a62fe6f67a8daaaa606b4b47ee6ed7b297207bcb5d42",
         "elutils-0.0.5.tar.gz"
       ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "b3e6657acc8bee96e73ea428a469522a568bdf2290de2263f3cc31ed5bd76008",
+        "elutils-0.0.6.tar.gz"
+      ]
     }
   },
   "emvis": {
@@ -18930,6 +18962,42 @@
       "wheels": {
         "falocalrepo-3.1.6-py3-none-any.whl": [
           "0a840b04467f46be9a39c928281ec6b01957c9bc60fbed5d5a1e85e74a204e91",
+          "py3"
+        ]
+      }
+    },
+    "3.1.7": {
+      "sdist": [
+        "99e0c57143f68e26280df670d60c6449a9c0a3756872e403a27088d1d0c61cf2",
+        "falocalrepo-3.1.7.tar.gz"
+      ],
+      "wheels": {
+        "falocalrepo-3.1.7-py3-none-any.whl": [
+          "aa31f36af1a8434d640aac4cc36de4acf8487050594ec869549aba6f3df1c022",
+          "py3"
+        ]
+      }
+    },
+    "3.1.8": {
+      "sdist": [
+        "b8898702698ae501ba1aa7ffcd4a68d7400638b5c932ff022e105ade91ea71c6",
+        "falocalrepo-3.1.8.tar.gz"
+      ],
+      "wheels": {
+        "falocalrepo-3.1.8-py3-none-any.whl": [
+          "c96e247aa48aed9cd1a7eec8bdbd5f8bf2da4803136cf11516ae335bb9d86fa0",
+          "py3"
+        ]
+      }
+    },
+    "3.1.9": {
+      "sdist": [
+        "ee4775baa9e698cacd738d21a5d5ab0dc58d28b329ff4735b13dae1493dc41ed",
+        "falocalrepo-3.1.9.tar.gz"
+      ],
+      "wheels": {
+        "falocalrepo-3.1.9-py3-none-any.whl": [
+          "c63d6855d17171f24076e731ae5c032a22606eafb437e8aa1f8b15dbe3641581",
           "py3"
         ]
       }
@@ -45323,62 +45391,6 @@
       }
     }
   },
-  "pyscanmaster": {
-    "0.1.0": {
-      "sdist": [
-        "9218f9ebe2295eab4ffee4870cdda85bfd0d7fdfb6b8b0268192919854be8004",
-        "pyScanMaster-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "ea67e0f34534506998f05729552f4656c285743bceff6716385d5e4ae688ed01",
-        "pyScanMaster-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "a760de872994f3431af30541b8752a9d718471bd0afb910b1e9221d5d6038954",
-        "pyScanMaster-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.3": {
-      "sdist": [
-        "5b5353415170be3594805141b7e9854948042e116c85bdc5cc10a19498ab50df",
-        "pyScanMaster-0.1.3.tar.gz"
-      ]
-    },
-    "0.1.4": {
-      "sdist": [
-        "a218c3ba6ee2d1ed8546ba314c2682e9446e13e661a434e2133f6bf76d34844f",
-        "pyScanMaster-0.1.4.tar.gz"
-      ]
-    },
-    "0.1.5": {
-      "sdist": [
-        "62bf4cd9f8d2e7404165c04a1bb736e736895166637acf1ac7234477c3b92dd4",
-        "pyScanMaster-0.1.5.tar.gz"
-      ]
-    },
-    "0.1.6": {
-      "sdist": [
-        "563703d5e149ba0bc809487a454b238be503f56939884b956b4afc251d1c371f",
-        "pyScanMaster-0.1.6.tar.gz"
-      ]
-    },
-    "0.1.7": {
-      "sdist": [
-        "b77ee6a7bbdef93104d9f8fa3ccda78b8306940a1ecf96c80c8a42f5657d7cb6",
-        "pyScanMaster-0.1.7.tar.gz"
-      ]
-    },
-    "0.1.8": {
-      "sdist": [
-        "9174126a31f55a66a23255c82bf9a755e5931950ec526d9374af0f06bdfad166",
-        "pyScanMaster-0.1.8.tar.gz"
-      ]
-    }
-  },
   "pyscrape": {
     "0.1.1": {
       "sdist": [
@@ -47706,6 +47718,18 @@
       "wheels": {
         "pyven-5-py2.py3-none-any.whl": [
           "5564f98561efc1c6c8be705d9acc8982a2fdc08ab28cafc4487d640f1a1a6f7f",
+          "py2.py3"
+        ]
+      }
+    },
+    "50": {
+      "sdist": [
+        "d43ccaf901ee679c5eed0231d9e06cea74017073d996a0a579d294f909a2f5d5",
+        "pyven-50.tar.gz"
+      ],
+      "wheels": {
+        "pyven-50-py2.py3-none-any.whl": [
+          "bd20a1d1138a1570f4c03f9920f64248f207f1d59c4742e062931d0ba3f54b91",
           "py2.py3"
         ]
       }
@@ -51466,6 +51490,58 @@
         ],
         "sgext-0.9.10-cp38-cp38-win_amd64.whl": [
           "2683d9e3cff1aacd7cfc0f033726d7f98400a723c6a3310b0f2a5fa40572886b",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.11": {
+      "wheels": {
+        "sgext-0.9.11-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "093861049b422f954d7bdaec4c20d9c921b0fbe8c9782873a784c8d8de7cdd37",
+          "cp35"
+        ],
+        "sgext-0.9.11-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "ccdfd11ac6be1ef889beaae3da9e2a198cd4e3915760bd62e8a94c0938bb5dab",
+          "cp35"
+        ],
+        "sgext-0.9.11-cp35-cp35m-win_amd64.whl": [
+          "2e177a37046a4834a474b4f8e83c1833e2dda1d8b3906a2cc61b2949405946a0",
+          "cp35"
+        ],
+        "sgext-0.9.11-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "cca6a425f1ecc6f41d1c0efd7e977d14e62a7bc2f033ece40a1207ddf0759075",
+          "cp36"
+        ],
+        "sgext-0.9.11-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "19274a88d4406b918aa8605085ff6394e601dd4cc78e54c8de875bd772b990db",
+          "cp36"
+        ],
+        "sgext-0.9.11-cp36-cp36m-win_amd64.whl": [
+          "27dab62943f734dbbc2bca7dba256fedb7f13a2ed944892a6b2e633da734bd31",
+          "cp36"
+        ],
+        "sgext-0.9.11-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "797e39d7e6ef92192489424d3ad98e008878cef761b53b9f343c14e9e846f02a",
+          "cp37"
+        ],
+        "sgext-0.9.11-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "e949e494807a1f53e545ca33910a869fab4440fd1186f963e1fd53454a5c3268",
+          "cp37"
+        ],
+        "sgext-0.9.11-cp37-cp37m-win_amd64.whl": [
+          "7dfc3fea1f89fb967cf29061985628c845e9ee5944d7b0754c05a5c4e9fb8f32",
+          "cp37"
+        ],
+        "sgext-0.9.11-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "2225f610c24580e6f9d57862a9a7f26f0ae9b3eed3875d8da960a17609a9efa9",
+          "cp38"
+        ],
+        "sgext-0.9.11-cp38-cp38-manylinux2014_x86_64.whl": [
+          "b242566b12e23a961d2edb8f07208e1c61f97b3628952dca043070ee8470599e",
+          "cp38"
+        ],
+        "sgext-0.9.11-cp38-cp38-win_amd64.whl": [
+          "9dd438e7f1b0af3a7234785395a3115f530835069bc9250e86c5a804d92a8ca2",
           "cp38"
         ]
       }

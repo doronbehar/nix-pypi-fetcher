@@ -663,6 +663,32 @@
       ]
     }
   },
+  "amazon-braket-ocean-plugin": {
+    "1.0.0": {
+      "sdist": [
+        "5e2d6287a71b89662d02ceb194cca03eaa32b2e55f5fc374e4b6795f733856ba",
+        "amazon-braket-ocean-plugin-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "amazon_braket_ocean_plugin-1.0.0-py3-none-any.whl": [
+          "46c9a2b46471e3d78d3cf870360b5537cbf7a8feb96a6cb6165adbfc41fdb6dd",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.post1": {
+      "sdist": [
+        "e5a9fb1c12ae609ebc39ad527d8a654a3e8ed26b00c6d3dfe318c638e42066d8",
+        "amazon-braket-ocean-plugin-1.0.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "amazon_braket_ocean_plugin-1.0.0.post1-py3-none-any.whl": [
+          "ae1c17b10cbc27ddc329f8b10f370eb4abc03356b353005802efbf84d55f5a67",
+          "py3"
+        ]
+      }
+    }
+  },
   "amcat4": {
     "0.01": {
       "sdist": [
@@ -9391,6 +9417,12 @@
         "82005c0f7a7857049c356ea6ccba31707fbdb19de5931be7d75509b8e7724eef",
         "coconet-binning-0.52.tar.gz"
       ]
+    },
+    "0.53": {
+      "sdist": [
+        "1777dfb83fd94fdd70bcb0fe9497b4915b1640b8f762ff1ee7d83b679904dd49",
+        "coconet-binning-0.53.tar.gz"
+      ]
     }
   },
   "coffer": {
@@ -14561,6 +14593,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "djangoapscheduler": {
+    "0.1.1": {
+      "sdist": [
+        "350431f15c45ef19adc1f971d0d98bd97e0fba8a5b18b85305fba0600572f179",
+        "djangoapscheduler-0.1.1.tar.gz"
+      ]
     }
   },
   "djangorosetta": {
@@ -23947,26 +23987,6 @@
       ]
     }
   },
-  "jenbonzhang-test": {
-    "1.0.0": {
-      "sdist": [
-        "ac6076d99553b8ef222becb4aad6deedcd3c8e99566875eb5d7c66f509716964",
-        "jenbonzhang_test-1.0.0.tar.gz"
-      ]
-    },
-    "1.0.1": {
-      "sdist": [
-        "2fd7d86b3005fe98644506a36148825994fa4166a14baa3464e7d30903c20e41",
-        "jenbonzhang_test-1.0.1.tar.gz"
-      ]
-    },
-    "1.0.2": {
-      "sdist": [
-        "b5a60007f7b03c3ff6d18b5313e7a873e755f0b32cf5799cd808ace9a6c75713",
-        "jenbonzhang_test-1.0.2.tar.gz"
-      ]
-    }
-  },
   "jetpy": {
     "0.0.0": {
       "sdist": [
@@ -32338,6 +32358,18 @@
         ]
       }
     },
+    "1.14.42.0": {
+      "sdist": [
+        "8b9948d988ba046b943a2d7d1f848c736e7d766e26f46025f38b6140a91fec70",
+        "mypy-boto3-directconnect-1.14.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_directconnect-1.14.42.0-py3-none-any.whl": [
+          "e6c4f35224d7046669346a97127ea569996833a4471b900adf2bc6f074662639",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "81cbd6b386865b7310bc0cba9ea2b6d008208677c15f31ed2b37a47f130f6ddd",
@@ -33908,6 +33940,14 @@
           "b362d4b67195bf9aa81695c1d1433a85beb7d2f4c7e67237079923f75f836bd9",
           "cp35"
         ],
+        "nrlmsise00-0.0.2rc1-cp35-cp35m-win32.whl": [
+          "4acfecd31dbc93cac92ac1d4c2b726cb010a9a6ffb604cd929961d4b5bd1bbff",
+          "cp35"
+        ],
+        "nrlmsise00-0.0.2rc1-cp35-cp35m-win_amd64.whl": [
+          "c0b81a18ec6f621299a5c8acc70931dd751ebcdddb2fc39a1db21aa51adc9309",
+          "cp35"
+        ],
         "nrlmsise00-0.0.2rc1-cp36-cp36m-manylinux1_i686.whl": [
           "66b3d49eef1182fc5b2042b059901db974794d54de3b35efd329d594d29c7aa1",
           "cp36"
@@ -33922,6 +33962,14 @@
         ],
         "nrlmsise00-0.0.2rc1-cp36-cp36m-manylinux2010_x86_64.whl": [
           "783b8b357d5b32e4b9981b0d066da34b2a4fb8883cdfecefdbfbef6083b6a793",
+          "cp36"
+        ],
+        "nrlmsise00-0.0.2rc1-cp36-cp36m-win32.whl": [
+          "606af6fc57e5b493956f188747b81b308fea5b86af4f8a4b731d0af5f6899a2f",
+          "cp36"
+        ],
+        "nrlmsise00-0.0.2rc1-cp36-cp36m-win_amd64.whl": [
+          "9ae587da6ad6df7097a16bbd05c841be8b83a5b055abe707f4d9248e1a6d80a0",
           "cp36"
         ],
         "nrlmsise00-0.0.2rc1-cp37-cp37m-manylinux1_i686.whl": [
@@ -33940,6 +33988,14 @@
           "f093e4b3cafc6d40263a916356af775dffc3c16c2d57b443cc3492d1b461cb69",
           "cp37"
         ],
+        "nrlmsise00-0.0.2rc1-cp37-cp37m-win32.whl": [
+          "cee12686f108b4e7b610da3ed0a9f8f886b2c2c3f5967d9e14661a1fe1be3236",
+          "cp37"
+        ],
+        "nrlmsise00-0.0.2rc1-cp37-cp37m-win_amd64.whl": [
+          "1f89b495ab057283b87aeb738f1f077127274add7a3b6c54bbc256c93ac5f385",
+          "cp37"
+        ],
         "nrlmsise00-0.0.2rc1-cp38-cp38-manylinux1_i686.whl": [
           "e0e77e4195c3b4098bfe9aee3a6f9997e2f7c3cf4ccd4aa95687d298eb40825a",
           "cp38"
@@ -33955,6 +34011,34 @@
         "nrlmsise00-0.0.2rc1-cp38-cp38-manylinux2010_x86_64.whl": [
           "0ad3d094455d3580d3c3235e3a538696f45fa757f3b00432e0e484e98b51041f",
           "cp38"
+        ],
+        "nrlmsise00-0.0.2rc1-cp38-cp38-win32.whl": [
+          "541ba33fe75258c5bbde51b543ea7db1eb637413fbf8bdf392bab96961ef37ea",
+          "cp38"
+        ],
+        "nrlmsise00-0.0.2rc1-cp38-cp38-win_amd64.whl": [
+          "352a8e5f1f6ee981fd026e51c43e05f152e6e3053c957f0e26288a3b188b578b",
+          "cp38"
+        ],
+        "nrlmsise00-0.0.2rc1-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "bbf8189cd6fa8d5273ab9e168c561b9a8363fc2a3d291786927cf5bdac741ca6",
+          "pp27"
+        ],
+        "nrlmsise00-0.0.2rc1-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "3a9f085de9de582ffebaf1f50f5d4015998c14a450cf9ad0c23e1950e7b5dec0",
+          "pp27"
+        ],
+        "nrlmsise00-0.0.2rc1-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "a77d22986588dea583ceca112d762bbd99f283a71b6aac8db1ae2b40d9065b2b",
+          "pp36"
+        ],
+        "nrlmsise00-0.0.2rc1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "82ca14010896153130b872871c7c5eb872088ca57a54b6041e6c0c1e975f0d01",
+          "pp36"
+        ],
+        "nrlmsise00-0.0.2rc1-pp36-pypy36_pp73-win32.whl": [
+          "cfa537bc58ef0cc2a256ae9d29d7d15d05caeafbb2bb02220b68ce6485f51565",
+          "pp36"
         ]
       }
     }
@@ -48165,20 +48249,6 @@
       ]
     }
   },
-  "rattail-scanmaster": {
-    "0.1.0": {
-      "sdist": [
-        "abfe672f0aa829d6dfef120aac1ea4c81591c2fe7ed02129da01315b45bf5639",
-        "rattail_scanmaster-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "c186514ecef2f4d94c396f1ca1cdb6e1d2988f09e4a9122dceb9a412b90ea35b",
-        "rattail_scanmaster-0.1.1.tar.gz"
-      ]
-    }
-  },
   "rc.customcontent": {
     "1.0a1": {
       "sdist": [
@@ -56105,6 +56175,30 @@
           "py3"
         ]
       }
+    },
+    "0.4.0.dev20200813234724": {
+      "sdist": [
+        "01bf1414ecd024e43846a0618f466cf0584131724555fd026abfd47692b94087",
+        "timecast-nightly-0.4.0.dev20200813234724.tar.gz"
+      ],
+      "wheels": {
+        "timecast_nightly-0.4.0.dev20200813234724-py3-none-any.whl": [
+          "7da6798a2f06e3afca55944c7be3112d316ddcce61de5839aebcff4b2822898f",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0.dev20200813235528": {
+      "sdist": [
+        "0c5d7a8be155a4ab9c968532834489bdcb971b14f74e36c07b6c16809d03c6f1",
+        "timecast-nightly-0.4.0.dev20200813235528.tar.gz"
+      ],
+      "wheels": {
+        "timecast_nightly-0.4.0.dev20200813235528-py3-none-any.whl": [
+          "a5eff793fb58282535c2d343b549dfc9b720c2b837319a47578e9019559640b0",
+          "py3"
+        ]
+      }
     }
   },
   "tl-dockerwrapper": {
@@ -56877,6 +56971,20 @@
         "67aca35913ac799c101d2b6f91c9afa8c09148cccbd61815d9899590a70a4642",
         "twitterology-0.3.5.tar.gz"
       ]
+    }
+  },
+  "txt": {
+    "2020.8.10.3": {
+      "sdist": [
+        "4c5a0ff74462d20df72f62a8526ea087c912fe195b98909e3ce32f2ccb1c9163",
+        "txt-2020.8.10.3.tar.gz"
+      ],
+      "wheels": {
+        "txt-2020.8.10.3-py3-none-any.whl": [
+          "c65c2bcf35fafecd0ae5ab125b36a63abb395e298cb7076dc45e929e6a3bb693",
+          "py3"
+        ]
+      }
     }
   },
   "typeworld": {

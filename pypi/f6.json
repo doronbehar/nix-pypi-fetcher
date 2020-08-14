@@ -15651,6 +15651,14 @@
       ]
     }
   },
+  "dsp-basicalgorithms": {
+    "0.1": {
+      "sdist": [
+        "981ec0554a8228c703afd9d7454f4bb84ab05a02b90cb4d7656d9f3dc07cf03a",
+        "dsp_basicalgorithms-0.1.tar.gz"
+      ]
+    }
+  },
   "dtparse": {
     "0.2.0": {
       "wheels": {
@@ -28289,6 +28297,58 @@
           "cp37"
         ]
       }
+    },
+    "0.99": {
+      "sdist": [
+        "f9eb844aaaacc8a4bc175e1c1f8a8fb538c330e378fd9eb40e8708d4dca7dc89",
+        "lmdb-0.99.tar.gz"
+      ],
+      "wheels": {
+        "lmdb-0.99-cp27-cp27m-win32.whl": [
+          "1a0e3f717c81a4cff55fbc496bb72df2c5b14d2a49dc008a281760f48fa7e0f6",
+          "cp27"
+        ],
+        "lmdb-0.99-cp27-cp27m-win_amd64.whl": [
+          "8e8462ded8ca9e4b509cd192538a52dd50a897dd5878f0102ee9b15399d096bd",
+          "cp27"
+        ],
+        "lmdb-0.99-cp34-cp34m-win32.whl": [
+          "9efe86ceea08bb7973320edc0d1e03fe792b5901a8752346a4ad811fdc7a5890",
+          "cp34"
+        ],
+        "lmdb-0.99-cp35-cp35m-win32.whl": [
+          "202d464f1e810b363e21110d4875d0ed295a87cb34780935a0c702f53f8d9c0c",
+          "cp35"
+        ],
+        "lmdb-0.99-cp35-cp35m-win_amd64.whl": [
+          "6f2e1f3709382e55dc974a84d65f1a2139c5a2f1cc1f620fe0404273d1544b11",
+          "cp35"
+        ],
+        "lmdb-0.99-cp36-cp36m-win32.whl": [
+          "70752b5b584873894f99d0ca1be3dedf83f1f3cdc0856d40e58b88b7750bfd21",
+          "cp36"
+        ],
+        "lmdb-0.99-cp36-cp36m-win_amd64.whl": [
+          "1335510ecfaf2f509eff1211c886d6fcaac14065f1bc969ec02629f1ff3c1791",
+          "cp36"
+        ],
+        "lmdb-0.99-cp37-cp37m-win32.whl": [
+          "babad8514d3a6b6ce59bc7fa65c71f0b5dfed117eb40da704c0125d97d37b2b7",
+          "cp37"
+        ],
+        "lmdb-0.99-cp37-cp37m-win_amd64.whl": [
+          "dd0d5dbf2991d0d36916efbe8c26c72ba663d5b088dc14484c6139c32486fcc7",
+          "cp37"
+        ],
+        "lmdb-0.99-cp38-cp38-win32.whl": [
+          "7c2a604f2b64f053e48792f78296ca028f71646c317c229ee78b85f2c90bd26c",
+          "cp38"
+        ],
+        "lmdb-0.99-cp38-cp38-win_amd64.whl": [
+          "38f87a68affa48ea55482e219b42d49c72c0b763902fd416398fc4517ed5e3b9",
+          "cp38"
+        ]
+      }
     }
   },
   "localalias": {
@@ -34312,6 +34372,18 @@
       "wheels": {
         "mypy_boto3_personalize_events-1.14.41.0-py3-none-any.whl": [
           "60622f9c4929c54cea9c87704fa3a36ae7bcfe8971ddd2c55e540ad19b7ae4f3",
+          "py3"
+        ]
+      }
+    },
+    "1.14.42.0": {
+      "sdist": [
+        "7e3dec651da48c0826653ec0e0e6a0b322850f91affa397721d44a9bab468c36",
+        "mypy-boto3-personalize-events-1.14.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.14.42.0-py3-none-any.whl": [
+          "5f5d6e49ea3649ee30c2a38ee78a2a6bde665b462e4bda34685119418943cc08",
           "py3"
         ]
       }
@@ -44270,6 +44342,18 @@
       "wheels": {
         "polyaxon_sdk-1.1.6rc4-py2.py3-none-any.whl": [
           "a556e557333f551d9cfdf610b6a407723f3cf8b2f78125287adfa0327b0cfd06",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.7": {
+      "sdist": [
+        "303445d22209c7a57d187c68a20b98e254526c994762b8734913293c736084f8",
+        "polyaxon-sdk-1.1.7.tar.gz"
+      ],
+      "wheels": {
+        "polyaxon_sdk-1.1.7-py2.py3-none-any.whl": [
+          "07ff38e54e1bf1964014214f11b0d7cea35624b69ab23185d09d39c0d44e6082",
           "py2.py3"
         ]
       }
@@ -65750,6 +65834,18 @@
       "wheels": {
         "xkcd_wrapper-0.2.1-py3-none-any.whl": [
           "b44dd351f471735dff892cd079bc7b390de2bb85739b96f4877c42929e7230da",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "6099a8949e3e99c7f402e3349610332bab5bbd4c5865b19b75fb01088e05b767",
+        "xkcd-wrapper-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "xkcd_wrapper-0.2.2-py3-none-any.whl": [
+          "513c885c055c60e1da20d5c3d150a2b6a24924a8a8f246ffe4a958a66b4d9311",
           "py3"
         ]
       }
