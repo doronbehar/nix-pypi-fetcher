@@ -40772,6 +40772,30 @@
     }
   },
   "ksfest": {
+    "0.1.10": {
+      "sdist": [
+        "cb4a7a67d81f4026b1aef88be48ca3c54f712886de9e6a6ce03ae13d48b8b780",
+        "ksfest-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "ksfest-0.1.10-py2.py3-none-any.whl": [
+          "a3d14219cecc4d906c2a8b58dc25af7df8d4ec8e3cd9d5cd61ccd6c48504a4ef",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "7c9fbbc2a04db3031c0f82ae87a3091afdf7d40be54a95e91c9d3500d89f576f",
+        "ksfest-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "ksfest-0.1.11-py2.py3-none-any.whl": [
+          "1f3805cbc0f3eb97e0d3ff377dac664d99dc4b65d345a97870a97f033813014c",
+          "py2.py3"
+        ]
+      }
+    },
     "0.1.5": {
       "sdist": [
         "9468cdf1a6c6f256954648b7ef80e45014aec713683201cb702a6559af74f90d",
@@ -59235,6 +59259,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "7eab2c9ca8ec8a991c5a7c44441fc8a23e227f3c3cd8f2dfbcb723abbda42d41",
+        "quick-queue-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "quick_queue-1.0.4-py3-none-any.whl": [
+          "062cdd95f0917c48999935939fd94356d1e5efb70f78687e5026bb554ce66f80",
+          "py3"
+        ]
+      }
     }
   },
   "quickstartutil": {
@@ -66904,6 +66940,42 @@
       "sdist": [
         "4218ac00915dc6c15856c04b2039dc06227b2c269486274e203aa798c84e8891",
         "slalom.dataops-2.0.0.113.dev0.tar.gz"
+      ]
+    },
+    "2.0.0.118.dev0": {
+      "sdist": [
+        "685702018b2b1221dc9c6823763f8aa53f7d293a13dc6b9260cdec09a80356f1",
+        "slalom.dataops-2.0.0.118.dev0.tar.gz"
+      ]
+    },
+    "2.0.0.119.dev0": {
+      "sdist": [
+        "d0628745106f3c33b61f8d6917ef21c68c3d4c755e62b7c8c9e96afb1b0e21c0",
+        "slalom.dataops-2.0.0.119.dev0.tar.gz"
+      ]
+    },
+    "2.0.0.120.dev0": {
+      "sdist": [
+        "3fd35c286de385d489d387147b5eed5936b047fc33f3b38406b29116813e2eed",
+        "slalom.dataops-2.0.0.120.dev0.tar.gz"
+      ]
+    },
+    "2.0.0.121.dev0": {
+      "sdist": [
+        "ee4ee8b0b1fbb281c910a304416ffb08a841bb2d564b61107567e131e0458f04",
+        "slalom.dataops-2.0.0.121.dev0.tar.gz"
+      ]
+    },
+    "2.0.0.122": {
+      "sdist": [
+        "7bee3d025d26f17199bc18930bb1388dfebeefd03abb21a21ce56a742151c4d8",
+        "slalom.dataops-2.0.0.122.tar.gz"
+      ]
+    },
+    "2.0.0.123": {
+      "sdist": [
+        "84251c4d951d6e598d3e72b21d345b479014420c3b25aa02ba00c4d44f6b1819",
+        "slalom.dataops-2.0.0.123.tar.gz"
       ]
     }
   },
@@ -75506,6 +75578,34 @@
         ],
         "tf_nightly_cpu-2.4.0.dev20200813-cp38-cp38-win_amd64.whl": [
           "c0661b3baa13d67f63de3dd5e0857a9dabe40a030e2428b51393589460549000",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200814": {
+      "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20200814-cp35-cp35m-macosx_10_6_intel.whl": [
+          "443c2a7607d0b2d95ff28303dba420a0c1ba7f5da256012221d94039253e5c14",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200814-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "7ee1f6458d41e51d21926a16dadc49227bf519e228a08a071e4aa67b70dd5cf2",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200814-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "e76176b5bf7a6b2dab1fa1015d5bbe0c5694f633abeb41250ef801c9159efaeb",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200814-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "52460dcfe952ee56c6217ef4a233c276a38c48d9707f5b5f07193f9be8e40177",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200814-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "8f1c1581c50605cf444189562779ce4771dfe72c035cf746bfaf9f470a1da240",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200814-cp38-cp38-manylinux2010_x86_64.whl": [
+          "efedf2be12941e38da2c137067b9f6044eaafa1cd60f3a308a07757d85c80b6b",
           "cp38"
         ]
       }

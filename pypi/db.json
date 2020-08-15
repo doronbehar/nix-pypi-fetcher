@@ -3528,6 +3528,18 @@
         ]
       }
     },
+    "1.59.0": {
+      "sdist": [
+        "8d7641343d8847dff63d959a164fac52e39c51e2167501fde8d3debae5fa0244",
+        "aws-cdk.aws-cloudfront-1.59.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront-1.59.0-py3-none-any.whl": [
+          "e796cd4bf652cea4d550d544f758e27101715cf633030161d6fa674927eaf106",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "9a0ff41e30b4eb11d2f48bf25ccd761acd7ce9511cb77910499817bf4a6e84f3",
@@ -8398,6 +8410,18 @@
       "wheels": {
         "chaste_codegen-0.4.0-py3-none-any.whl": [
           "88ceccc11afb824c1c9cc3979e0520d4e4cc3d164179de23773e56831b5a43e4",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "ec4b17578b0bc2ab4963785c98f32c1ba3259f8871f7dd03b275c8fcaeab3557",
+        "chaste_codegen-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "chaste_codegen-0.4.1-py3-none-any.whl": [
+          "d496afbb4bfedb694333c37a478d76d2e1a4978d23fa9397a9a3e95ec3fc473b",
           "py3"
         ]
       }
@@ -16934,14 +16958,14 @@
     }
   },
   "drawzero": {
-    "0.1.4": {
+    "0.1.9": {
       "sdist": [
-        "9c31f3b42570b0acacd2c9f4da462ab7df8324fc20ea1c60cea8ddcf893c97c2",
-        "drawzero-0.1.4.tar.gz"
+        "7056408a36efc3c6b4334395232255a5f17cbfecd151810f5a80070f21ebfd6d",
+        "drawzero-0.1.9.tar.gz"
       ],
       "wheels": {
-        "drawzero-0.1.4-py3-none-any.whl": [
-          "974e1023da4ae2ee936f25ed7abdbcedb03b33058b8ab8a3f4fafa1568555107",
+        "drawzero-0.1.9-py3-none-any.whl": [
+          "f236c61e6ce8058a24deff39c963401b46213754e1a2c544a32bb76cf717398a",
           "py3"
         ]
       }
@@ -18816,6 +18840,18 @@
       "wheels": {
         "flake8_spellcheck-0.18.1-py2.py3-none-any.whl": [
           "9de15ea2cfe02374bc04c0190843ef1e4de6c8dcbe10a0f59f0c399fad24b663",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.19.0": {
+      "sdist": [
+        "e91db4425e91921a707988d5d29ad7c5f9957ed466ec684a4cf97400edd1227f",
+        "flake8-spellcheck-0.19.0.tar.gz"
+      ],
+      "wheels": {
+        "flake8_spellcheck-0.19.0-py2.py3-none-any.whl": [
+          "ea5ff62b6e9bdd5dda40f41b662351cbeaf2a3c294817fa38ab82f693dc4b8d4",
           "py2.py3"
         ]
       }
@@ -29547,6 +29583,12 @@
         "3bffb3ba907a4b25427a4571c8e17d51beedd2d28d9aae59a079e619f50ea8e5",
         "karuo-0.1.6.tar.gz"
       ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "738c5d4a1f0854838761dd3cefee9bbbdc27e9109d7c4aab03ba9b5d7cf75745",
+        "karuo-0.1.7.tar.gz"
+      ]
     }
   },
   "kegbot-pycore": {
@@ -38570,6 +38612,42 @@
         ]
       }
     },
+    "8.0.dev173": {
+      "wheels": {
+        "NEURON_nightly-8.0.dev173-cp35-cp35m-macosx_10_9_intel.whl": [
+          "c5a360631ae5629d39860da3556599ac39f332d7739ed30ee810903ce42a5e16",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev173-cp35-cp35m-manylinux1_x86_64.whl": [
+          "bedfb7c87172f349359e908eab057214701e550aa556fd67e4db505b1ec5c166",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev173-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "22014a08ec5dec4e7c8a97613f81e8eaee771df0f94e60be20f1fb97050a7b46",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev173-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5152472d6e6bce715aa40dbed98112166727ac643d1254ec849611c80fc8a042",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev173-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7ebd2189bd374db2062fb7a6abc1d9fbb210ebf134928d21f232753234874646",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev173-cp37-cp37m-manylinux1_x86_64.whl": [
+          "46db6f834e235bf06fc653466e24ed961e29df67361595032c25b47a53560b60",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev173-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1cd011f162ab5e6bed3d73f2bdb648bb021caf1befa7f81db15ca03dadd8f5c9",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0.dev173-cp38-cp38-manylinux1_x86_64.whl": [
+          "4acbb0f10eb7301e98ebc822ff8d5a0e6500c9489d2aec8d6a209268cb551ec7",
+          "cp38"
+        ]
+      }
+    },
     "8.0.dev89": {
       "wheels": {
         "NEURON_nightly-8.0.dev89-cp35-cp35m-macosx_10_9_intel.whl": [
@@ -40228,6 +40306,12 @@
       "sdist": [
         "fdfe0196730c771abbc4a966215d05fcad246f0ff6fb12c0c128e15c0c125a73",
         "ob-3.tar.gz"
+      ]
+    },
+    "30": {
+      "sdist": [
+        "3f31e5984e7afff4f0b03fcecb3014b66cc5d521f4c8ab66da4e137f7bfd393b",
+        "ob-30.tar.gz"
       ]
     },
     "4": {

@@ -1804,6 +1804,18 @@
         ]
       }
     },
+    "0.4.14": {
+      "sdist": [
+        "e3cac8277a31c34876e0b92de2b3d74687810586000c613bd91bd6c16d25d250",
+        "archivebox-0.4.14.tar.gz"
+      ],
+      "wheels": {
+        "archivebox-0.4.14-py3-none-any.whl": [
+          "bb09069ca3402ee83f9fe93626052142b71ef882061bcbd89d8a8a48b4e4e53f",
+          "py3"
+        ]
+      }
+    },
     "0.4.6": {
       "sdist": [
         "b13653a205ead42b6e8b5ed3267f7486f3951457405a5984d1e3107016546b8f",
@@ -11271,6 +11283,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.9": {
+      "sdist": [
+        "529d202d42950526d5eddc6212ef4c047d5619544a832fa2812425b34ff7f33f",
+        "deva-0.9.9.tar.gz"
+      ],
+      "wheels": {
+        "deva-0.9.9-py3-none-any.whl": [
+          "83d9c1b683fde0729e57501ea89f36cb5de0268b927ff78307a8a6b130954eff",
+          "py3"
+        ]
+      }
     }
   },
   "devo": {
@@ -15004,6 +15028,14 @@
       "wheels": {
         "driverlessai-1.8.7b0-py3-none-any.whl": [
           "2deec327fed1786c9bd30891e6d3fd7f30d1786653e77493941d9ac937451484",
+          "py3"
+        ]
+      }
+    },
+    "1.9.0.1": {
+      "wheels": {
+        "driverlessai-1.9.0.1-py3-none-any.whl": [
+          "b160b4b1142014848bfcf94c5f6cc5f6b0ad006f0277eaa562e9e581a35151c3",
           "py3"
         ]
       }
@@ -30223,6 +30255,12 @@
         "79be981b9ccc216123ccf201d095be994be6423c1a36fc7cdaa923f145fb933c",
         "large-image-source-dummy-1.2.1.dev6.tar.gz"
       ]
+    },
+    "1.2.1.dev8": {
+      "sdist": [
+        "2e905c1d417b7522f76c4568c01e2b5ada0f2c369cc61958e08e710ae3781faa",
+        "large-image-source-dummy-1.2.1.dev8.tar.gz"
+      ]
     }
   },
   "latexmk.py": {
@@ -38145,6 +38183,20 @@
         "openplc_editor-1.1.8-py2-none-any.whl": [
           "0f27e882b95541a25bd939e1124d669db325d00adf22bd045dd43589a3421721",
           "py2"
+        ]
+      }
+    }
+  },
+  "opentelemetry-instrumentation-django": {
+    "0.12b0": {
+      "sdist": [
+        "acef8c8c80b2d8f2706edd59d929b300e8fdab2d156f4a28321b7ce2bb3d813f",
+        "opentelemetry-instrumentation-django-0.12b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_django-0.12b0-py3-none-any.whl": [
+          "1bd5108ebea5e58dbd164f2eaf932129814cca570ad101d9fdeb1fea5928b39e",
+          "py3"
         ]
       }
     }
@@ -64757,188 +64809,6 @@
         "4e9ff21b717f5cdb8c4f35840ea1c2fd6e7dacc82d3cbced6a2d8db86caae5f8",
         "Sturzgefahr_dsnd_distributions-0.1.tar.gz"
       ]
-    }
-  },
-  "substrate-interface": {
-    "0.9.10": {
-      "sdist": [
-        "b704ac9b0f464c33ebe0e063877ad0eb4076af6480f2beb9b4c3005212a2af95",
-        "substrate-interface-0.9.10.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.10-py3-none-any.whl": [
-          "c3c2c572270e8ef14e872fb3340988c687d15000f710dd9427952858874a2d61",
-          "py3"
-        ]
-      }
-    },
-    "0.9.11": {
-      "sdist": [
-        "cc30045470f8cb28c3337cc5a9e112033dfb148e1f0f215cc5f4c843b6556016",
-        "substrate-interface-0.9.11.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.11-py3-none-any.whl": [
-          "934d00ee1436e5ff752102b302a0d0693ee2c175c2f03573d79872a205ce0a2d",
-          "py3"
-        ]
-      }
-    },
-    "0.9.12": {
-      "sdist": [
-        "a3ec1947bdcc904ded710a6b345b115d26b41b9384657eeb91c80c028a44ed6b",
-        "substrate-interface-0.9.12.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.12-py3-none-any.whl": [
-          "31c18ebbe93a3375a8d7038ebdc5a2c43d420b5740495f38160058876035ff8a",
-          "py3"
-        ]
-      }
-    },
-    "0.9.13": {
-      "sdist": [
-        "40d78e2b6ede1adfd810285b6e38d58d2a0f321570a38b2ab2bc05fdfbb1af74",
-        "substrate-interface-0.9.13.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.13-py3-none-any.whl": [
-          "19b7ca09f8f5f0c7dfc6fe849eb520668da6013a0b9005b6dc309e668fe86903",
-          "py3"
-        ]
-      }
-    },
-    "0.9.14": {
-      "sdist": [
-        "a71ca00c99a27cf4a301dd6a5857d16c21a96b01f4ea171f49751ab2b048b0d5",
-        "substrate-interface-0.9.14.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.14-py3-none-any.whl": [
-          "c418101a9b2249e744eef300c1821a0f0f00df472e77c040de06bf9cfa59963c",
-          "py3"
-        ]
-      }
-    },
-    "0.9.15": {
-      "sdist": [
-        "3d312a81faf5668eda35539baa89f45b645d0381be3359333a5463b35278fbb4",
-        "substrate-interface-0.9.15.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.15-py3-none-any.whl": [
-          "329b6f53635782291771190d5d5bceefb43238d1e403bcbadf3a11c6ed5fd663",
-          "py3"
-        ]
-      }
-    },
-    "0.9.16": {
-      "sdist": [
-        "979f88dffe1cb5e6a1d84e7cf393dd158f42e2390e85d61b6f12c20fe44b8757",
-        "substrate-interface-0.9.16.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.16-py3-none-any.whl": [
-          "cc3151e9b33018fd9d0aa34aed96175ad75ddcf11d17f35cefc1c05856f2312f",
-          "py3"
-        ]
-      }
-    },
-    "0.9.17": {
-      "sdist": [
-        "6df6f8aba90c44107e4ce50ac5359c62455ac08567114fce3d9c5414d5d70a04",
-        "substrate-interface-0.9.17.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.17-py3-none-any.whl": [
-          "5d85bcc27c818e7dca201f78426726a593de8d7d56b66fb0ff387a7b44fcce73",
-          "py3"
-        ]
-      }
-    },
-    "0.9.3": {
-      "sdist": [
-        "356d09b8632fd75a3467ba777533d44351c2c405b20796f633adc9f08f1d549e",
-        "substrate-interface-0.9.3.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.3-py3-none-any.whl": [
-          "2872f211084560f5886657830e59f85528f337127a545b2c2ba2d7f34f9da1e5",
-          "py3"
-        ]
-      }
-    },
-    "0.9.4": {
-      "sdist": [
-        "3c6370e655da933fdc53790be84f716343cd0c7f9f4f89ef7f6b0436ef5436ad",
-        "substrate-interface-0.9.4.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.4-py3-none-any.whl": [
-          "83adb20cc99d8f2ad195ebe5db37a2860644c3861cc34a72b84eefd7bc1631b0",
-          "py3"
-        ]
-      }
-    },
-    "0.9.5": {
-      "sdist": [
-        "fb3a885ad5c37643a66a118fdea687b27a53d879e182b122b66ab57ff00d967e",
-        "substrate-interface-0.9.5.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.5-py3-none-any.whl": [
-          "ac32fdbda1f1fb55d446b23e166ed492b827ae83dbbb2d7ce6409495cf61252e",
-          "py3"
-        ]
-      }
-    },
-    "0.9.6": {
-      "sdist": [
-        "001eb5d030ecc389e4fbd7341323c310a8f35720e81d69ec89eade237907fb99",
-        "substrate-interface-0.9.6.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.6-py3-none-any.whl": [
-          "a34b09a633dbf0f627a253726685641f79582ccc456f1fc51db8f28ed64902cd",
-          "py3"
-        ]
-      }
-    },
-    "0.9.7": {
-      "sdist": [
-        "4dc19ce3ed8e77e4222670792c96e69b41d6f892b80c2cc632827a0f9c5d4a51",
-        "substrate-interface-0.9.7.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.7-py3-none-any.whl": [
-          "04966528b13a4bea3c9578c8e49c09954ec09a1224dc1204eb8aeaa30c8c1643",
-          "py3"
-        ]
-      }
-    },
-    "0.9.8": {
-      "sdist": [
-        "e4d5e55e744dd05345ad2e8462ed7d5e49877346ebe10002b6298be67ce7108c",
-        "substrate-interface-0.9.8.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.8-py3-none-any.whl": [
-          "ebcca32c8d73051239fd42cffeedb4effa3ae0e359ea6c71aa6a32ad3e9883c7",
-          "py3"
-        ]
-      }
-    },
-    "0.9.9": {
-      "sdist": [
-        "e7df3f899dfffe8795f14aeefb72c4c4d7c309bf469c6f981bda1fb2fcd29260",
-        "substrate-interface-0.9.9.tar.gz"
-      ],
-      "wheels": {
-        "substrate_interface-0.9.9-py3-none-any.whl": [
-          "0829f7a8ee3560192b9732a61710aa229e74616958eb7a5c91088a5a3d8e6ce7",
-          "py3"
-        ]
-      }
     }
   },
   "such-amaze-lib": {

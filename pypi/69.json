@@ -12998,6 +12998,18 @@
         ]
       }
     },
+    "0.11.1": {
+      "sdist": [
+        "eb2848662c8d0169399a048ad61f313eb2f3f2b67a378f039e226aad825a00a6",
+        "datasette-cluster-map-0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "datasette_cluster_map-0.11.1-py3-none-any.whl": [
+          "a976f71bbfaae748bc13f6a2985fb46e965247994ffc0fe8c2747d0cac8191ec",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "sdist": [
         "7d1611176bee2860b318c7dcf24fdcb6bf3eb76ae3df89feed7d37b98ef8b8f5",
@@ -15144,6 +15156,18 @@
       "wheels": {
         "django_comments_xtd-2.7.0-py3-none-any.whl": [
           "d5c40e67d0d7698f3de4a63b7242ade2cee9c3a8be08d20899379a4a4e2b85e4",
+          "py3"
+        ]
+      }
+    },
+    "2.7.1": {
+      "sdist": [
+        "c004f221b2809c607a437940b712a9e22ebba260a7610965f8e930b4d141bb25",
+        "django-comments-xtd-2.7.1.tar.gz"
+      ],
+      "wheels": {
+        "django_comments_xtd-2.7.1-py3-none-any.whl": [
+          "7a5fe47ecd9122bf574500c2eb7fb218dbdeedeb141b4fdcc3f5aca73e75d987",
           "py3"
         ]
       }
@@ -33823,6 +33847,12 @@
         "8bf65d3d6dd3e6deb5415ed122aa3dcd36a3eb743c4606618cb963de879d4759",
         "large-image-source-pil-1.2.1.dev6.tar.gz"
       ]
+    },
+    "1.2.1.dev8": {
+      "sdist": [
+        "4153a9f8b38af654d0fe4db4507c322d640d6f6e60eb3bcde7d29d9b075854b0",
+        "large-image-source-pil-1.2.1.dev8.tar.gz"
+      ]
     }
   },
   "large-image-source-tiff": {
@@ -34490,6 +34520,12 @@
       "sdist": [
         "91a364ab80f813d9655a0dafb5acc63f03090eb5506c4daea32b2ecc3a87176e",
         "large-image-source-tiff-1.2.1.dev6.tar.gz"
+      ]
+    },
+    "1.2.1.dev8": {
+      "sdist": [
+        "96a0e5c29854aff8a5b741542e434dcb6bfae9b17aee37313b00d798eb42a5c9",
+        "large-image-source-tiff-1.2.1.dev8.tar.gz"
       ]
     }
   },
@@ -35257,6 +35293,18 @@
         "314cc1a070992f0ab855cbd9a4fc93fd8e0c2e1d8f6de462a3ea3691a6a6db67",
         "li-repo-1.10.9.tar.gz"
       ]
+    },
+    "1.11.0": {
+      "sdist": [
+        "c18ca712ea417d72522f8436b0312fa0205c4887d13db2a49128ea2cedb16dd9",
+        "li-repo-1.11.0.tar.gz"
+      ],
+      "wheels": {
+        "li_repo-1.11.0-py2-none-any.whl": [
+          "3938fa535fbbbcfcc1a751c21bcf73a740b3402684bd0fe2f7e8c570f569b6bf",
+          "py2"
+        ]
+      }
     },
     "1.2.1": {
       "sdist": [
@@ -47928,6 +47976,62 @@
         ],
         "pyo-1.0.1-cp38-cp38-win_amd64.whl": [
           "70ce8ed08a4146334a9edddcc6b005e1d4129c5c8aabca78f4a8f1455f1859ee",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "cb716d2c38a02f3aafba2cb5a47af67d78433580f6536c57fd0883283d3bf64a",
+        "pyo-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyo-1.0.2-cp36-cp36m-macosx_10_12_x86_64.whl": [
+          "fef99d30083311524c21afa5329dd2bcd5a729441c9b7b914b4047d565f85fab",
+          "cp36"
+        ],
+        "pyo-1.0.2-cp36-cp36m-manylinux1_i686.whl": [
+          "bb2e8292a7d109ad6e8f4603212fd52bc8f54a3c7305e1bb680a0d3044e66807",
+          "cp36"
+        ],
+        "pyo-1.0.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0340bf5283f27631a33af572eba182c9843fdec281a2861883c7c17e3dfd857e",
+          "cp36"
+        ],
+        "pyo-1.0.2-cp36-cp36m-win_amd64.whl": [
+          "ace074114c04f58c9d7cc2ae4f313b598c9a13d9db405a330f32a3832309bc7f",
+          "cp36"
+        ],
+        "pyo-1.0.2-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "2b15963452ada456c09a5d70af1c1400ac924045f928b63a3a915672b18dccee",
+          "cp37"
+        ],
+        "pyo-1.0.2-cp37-cp37m-manylinux1_i686.whl": [
+          "5c003b1daed138aa422fdc2793e7bb7fd28d5a1439c8264cb9fa219c14ee78df",
+          "cp37"
+        ],
+        "pyo-1.0.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9b123b69c0eddad831b321ebd302b2957c16a1747eb1d56fc61b98f385fc2b82",
+          "cp37"
+        ],
+        "pyo-1.0.2-cp37-cp37m-win_amd64.whl": [
+          "fc88fad3ad0f5462a3a7c9b698edbd0d3c0657c4d579f07525a968075a3ac02b",
+          "cp37"
+        ],
+        "pyo-1.0.2-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "5fd7e8d4277092fd526a5e7aba64cfbfdff8c1fa3747bbdb273cf40a40871cdc",
+          "cp38"
+        ],
+        "pyo-1.0.2-cp38-cp38-manylinux1_i686.whl": [
+          "98dff3e302503be6fcacbdb73e20d1fdebf170d2e0080e5fef2ffbbe108321f6",
+          "cp38"
+        ],
+        "pyo-1.0.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "0e87d175343d56400e8c28c6e2d82aa6dc3bbc98dae833fe8b2c24da3838ceb9",
+          "cp38"
+        ],
+        "pyo-1.0.2-cp38-cp38-win_amd64.whl": [
+          "3543ca5bb30e2210e01dfe696be251c8c1133439f8ca70b965e043f2bf70d5f9",
           "cp38"
         ]
       }
