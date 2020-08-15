@@ -2391,6 +2391,18 @@
           "py3"
         ]
       }
+    },
+    "1.59.0": {
+      "sdist": [
+        "2469c4cc8dde6231b18a2fbf9c3ec30d24322e4f17a49957b603960afa717d71",
+        "aws-cdk.cloudformation-include-1.59.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cloudformation_include-1.59.0-py3-none-any.whl": [
+          "17308872aa28b98a2efc412372e79f49c1490d063e5bd0a8183c4b690c447e9d",
+          "py3"
+        ]
+      }
     }
   },
   "aws-sqs-alert": {
@@ -33476,10 +33488,10 @@
     }
   },
   "musicpy": {
-    "0.65": {
+    "0.69": {
       "sdist": [
-        "06d524746310d29a4f3491c542aee2d6ef987f061899dc9cf05c10ff88d979b7",
-        "musicpy-0.65.tar.gz"
+        "18ff8e0320c56c631b98058fb0c7b5d7692821444d2672b69642064f1f1eac5d",
+        "musicpy-0.69.tar.gz"
       ]
     }
   },
@@ -38585,6 +38597,16 @@
         "odoo11_addon_stock_secondary_unit-11.0.1.0.4-py2.py3-none-any.whl": [
           "35ae3d409f50df61ae90d2b6a3fd81fa30dd9807711f86f591ec27730749a5d5",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-dms": {
+    "12.0.1.0.0.99.dev4": {
+      "wheels": {
+        "odoo12_addon_dms-12.0.1.0.0.99.dev4-py3-none-any.whl": [
+          "74f1f9df19d9eaeab2d986fb999ee81f3f36aa698bbcad4ee3481331875d9535",
+          "py3"
         ]
       }
     }
@@ -49032,6 +49054,82 @@
         ],
         "protobuf-3.12.4-py2.py3-none-any.whl": [
           "32f0bcdf85e0040f36b4f548c71177027f2a618cab00ba235197fa9e230b7289",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.13.0": {
+      "sdist": [
+        "6a82e0c8bb2bf58f606040cc5814e07715b2094caeba281e2e7d0b0e2e397db5",
+        "protobuf-3.13.0.tar.gz"
+      ],
+      "wheels": {
+        "protobuf-3.13.0-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "9c2e63c1743cba12737169c447374fab3dfeb18111a460a8c1a000e35836b18c",
+          "cp27"
+        ],
+        "protobuf-3.13.0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "1e834076dfef9e585815757a2c7e4560c7ccc5962b9d09f831214c693a91b463",
+          "cp27"
+        ],
+        "protobuf-3.13.0-cp35-cp35m-macosx_10_9_intel.whl": [
+          "df3932e1834a64b46ebc262e951cd82c3cf0fa936a154f0a42231140d8237060",
+          "cp35"
+        ],
+        "protobuf-3.13.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "8c35bcbed1c0d29b127c886790e9d37e845ffc2725cc1db4bd06d70f4e8359f4",
+          "cp35"
+        ],
+        "protobuf-3.13.0-cp35-cp35m-win32.whl": [
+          "339c3a003e3c797bc84499fa32e0aac83c768e67b3de4a5d7a5a9aa3b0da634c",
+          "cp35"
+        ],
+        "protobuf-3.13.0-cp35-cp35m-win_amd64.whl": [
+          "361acd76f0ad38c6e38f14d08775514fbd241316cce08deb2ce914c7dfa1184a",
+          "cp35"
+        ],
+        "protobuf-3.13.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "9edfdc679a3669988ec55a989ff62449f670dfa7018df6ad7f04e8dbacb10630",
+          "cp36"
+        ],
+        "protobuf-3.13.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5db9d3e12b6ede5e601b8d8684a7f9d90581882925c96acf8495957b4f1b204b",
+          "cp36"
+        ],
+        "protobuf-3.13.0-cp36-cp36m-win32.whl": [
+          "c8abd7605185836f6f11f97b21200f8a864f9cb078a193fe3c9e235711d3ff1e",
+          "cp36"
+        ],
+        "protobuf-3.13.0-cp36-cp36m-win_amd64.whl": [
+          "4d1174c9ed303070ad59553f435846a2f877598f59f9afc1b89757bdf846f2a7",
+          "cp36"
+        ],
+        "protobuf-3.13.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "0bba42f439bf45c0f600c3c5993666fcb88e8441d011fad80a11df6f324eef33",
+          "cp37"
+        ],
+        "protobuf-3.13.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c0c5ab9c4b1eac0a9b838f1e46038c3175a95b0f2d944385884af72876bd6bc7",
+          "cp37"
+        ],
+        "protobuf-3.13.0-cp37-cp37m-win32.whl": [
+          "f68eb9d03c7d84bd01c790948320b768de8559761897763731294e3bc316decb",
+          "cp37"
+        ],
+        "protobuf-3.13.0-cp37-cp37m-win_amd64.whl": [
+          "91c2d897da84c62816e2f473ece60ebfeab024a16c1751aaf31100127ccd93ec",
+          "cp37"
+        ],
+        "protobuf-3.13.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3dee442884a18c16d023e52e32dd34a8930a889e511af493f6dc7d4d9bf12e4f",
+          "cp38"
+        ],
+        "protobuf-3.13.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "e7662437ca1e0c51b93cadb988f9b353fa6b8013c0385d63a70c8a77d84da5f9",
+          "cp38"
+        ],
+        "protobuf-3.13.0-py2.py3-none-any.whl": [
+          "d69697acac76d9f250ab745b46c725edf3e98ac24763990b24d58c16c642947a",
           "py2.py3"
         ]
       }
@@ -70583,6 +70681,16 @@
         "aee35bbf3be69bc5b17e1115b65d0eed8cc446bdb37b6431c7b8dc8fc1ea8650",
         "ybc_business_ocr-1.0.1.tar.gz"
       ]
+    }
+  },
+  "yootk-message-yangrui": {
+    "0.1": {
+      "wheels": {
+        "yootk_message_yangrui-0.1-py3-none-any.whl": [
+          "6e079906f37451068bec9f89c7b8d39424a226b249e462a3e068fa25fa0808cb",
+          "py3"
+        ]
+      }
     }
   },
   "yorbay": {
