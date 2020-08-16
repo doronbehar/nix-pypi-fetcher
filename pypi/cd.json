@@ -60025,6 +60025,18 @@
         "6db574c0f0278a002eb66fbaf0a6d2a3cb3ed7125075cde595506b99eb94a77c",
         "rocket-daisy-0.1rc3.tar.gz"
       ]
+    },
+    "0.1rc4": {
+      "sdist": [
+        "f326ced45548e19dd0a97b9cb3b1f0f061313263e54985f5f63275f2392bae9d",
+        "rocket-daisy-0.1rc4.tar.gz"
+      ]
+    },
+    "0.1rc5": {
+      "sdist": [
+        "46eb7b2fe369f165f12625e5627f8fb03c566f1a141210f58d641ac5bd26e8cf",
+        "rocket-daisy-0.1rc5.tar.gz"
+      ]
     }
   },
   "rocketprops": {
@@ -69970,6 +69982,10 @@
     },
     "0.1.2": {
       "wheels": {
+        "viztracer-0.1.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "971b62cdcb504ff6a0e35361f399a0cc927970ace28524811097a4e4840be9c7",
+          "cp36"
+        ],
         "viztracer-0.1.2-cp36-cp36m-manylinux1_x86_64.whl": [
           "f01e83892be4603b33c9e95a90acf7ea098e4d6de0cd66c003073429f2c10be5",
           "cp36"
@@ -69977,6 +69993,10 @@
         "viztracer-0.1.2-cp36-cp36m-manylinux2010_x86_64.whl": [
           "8f3e2e2f911aaf0f81dd36835f7c70cc41b7b2ad3a7b4f921c3d440d0646047c",
           "cp36"
+        ],
+        "viztracer-0.1.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "e96ea5c15fd6a359629fa7fe8ef1529e6545fd8c6b943d4822a795afc305de7a",
+          "cp37"
         ],
         "viztracer-0.1.2-cp37-cp37m-manylinux1_x86_64.whl": [
           "1b44806eb71553437b93bd46774c4102c1cc509a2f509c0ec6e0e91e20c63275",
@@ -69986,12 +70006,104 @@
           "e336b5cf98b136c33ccfd8a554d04c0024f6ba733d0a4f138fec7c01e9d94781",
           "cp37"
         ],
+        "viztracer-0.1.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "f243f847a6e1ab2df64b636b9a6c27f79ce665dadfb1d57a63ad8573955dc01c",
+          "cp38"
+        ],
         "viztracer-0.1.2-cp38-cp38-manylinux1_x86_64.whl": [
           "1fcc8630c9fd50943c317a3636a391982bb335a60a71d733f2fbc3d957820090",
           "cp38"
         ],
         "viztracer-0.1.2-cp38-cp38-manylinux2010_x86_64.whl": [
           "781b6d6a93def9d814d11d77318dede720381546eafe8e95592b42742653c845",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "8c41fe6f75cdb4e3dfb39cd2133bd95dc077baaf98bf4f1b47a0054d602c1493",
+        "viztracer-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "viztracer-0.1.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "24843a52b401728a7ee82dd5bbb4ea4ae3eb3eb3963e964b95026e5d428cf893",
+          "cp36"
+        ],
+        "viztracer-0.1.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "c5a347a540b57be8cfedfe4e25bc8a3135052611424bfc089d4203bfee121dd6",
+          "cp36"
+        ],
+        "viztracer-0.1.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b39666d33cfedac600657818a9db10b802da680d9fbf8ec3efb43b1515ab19e2",
+          "cp36"
+        ],
+        "viztracer-0.1.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "49afb7aa21d6a1c8d5d79c0f3ea812d6cc9c5a8b41358a7984f947372c6c3cb9",
+          "cp37"
+        ],
+        "viztracer-0.1.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "3e8ec0f358a79168c1b314515812cbf185dde1201267799fb0370455d5a83bd4",
+          "cp37"
+        ],
+        "viztracer-0.1.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d235212d007f1ca60020d4112431fa25936536bab949e3fbb6aeef554f701b9a",
+          "cp37"
+        ],
+        "viztracer-0.1.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "85c0e878e0b50a2b58ce61f731df283a06f75e725a2c954cdd7b59fefa508264",
+          "cp38"
+        ],
+        "viztracer-0.1.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "9f7098dd752db785050a78ed30ee8ee24312fd3f4d90a6b70e6f512e4582cc02",
+          "cp38"
+        ],
+        "viztracer-0.1.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "aa3c7cceccc15bad16f34288f38ac8483823f0e37b02101c27b76478cd30c9cd",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "64c6e7fc741afae23d75de62b628ee15e7cfd6e79fe6ec0d73b1e402987acd36",
+        "viztracer-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "viztracer-0.2.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "a69366a94d0ad896a602dc3397b1637285046fafe0a7fb83531e84fa5a06bc6d",
+          "cp36"
+        ],
+        "viztracer-0.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "16d39adf5038b191d92afda452d5976eb14b66dbecc23a9885483b774fcdbd33",
+          "cp36"
+        ],
+        "viztracer-0.2.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9655deb3d9945fdd0754412f2555509dc4df2fc1777ad6389213b02a375899e8",
+          "cp36"
+        ],
+        "viztracer-0.2.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "3b133292689d16809a6eda21600789ef43bb0a262a1229e96ed8fa5b9d7103d3",
+          "cp37"
+        ],
+        "viztracer-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "bb70c76c0778477c2922bbd9549cfabee66ed2f7d514c20a7cae8a00dcace02a",
+          "cp37"
+        ],
+        "viztracer-0.2.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "680ab1158d266892c1ff3a96fbbeedde8a90caa3268dbb65a55302605a92765f",
+          "cp37"
+        ],
+        "viztracer-0.2.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "575c6d4ee3db5b25d7cf41274ed7a2741cc9a80e5365db4fb59cf768bf81ff5e",
+          "cp38"
+        ],
+        "viztracer-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "286e30affed8afa0616164d1af9374c6b844271f89cd067f7e2cc33cbf3e3c78",
+          "cp38"
+        ],
+        "viztracer-0.2.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a497c2db7f2e5e74ba4d8a74cc42ad44e78b5fe808cc2d92a78425390dca825f",
           "cp38"
         ]
       }

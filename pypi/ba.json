@@ -5035,6 +5035,14 @@
       }
     }
   },
+  "bandl": {
+    "0.0.1": {
+      "sdist": [
+        "5398b11bd4fc1937f6d7eb6dd6bad416b547c59a018de1a5ff804acefa81ba5d",
+        "bandl-0.0.1.tar.gz"
+      ]
+    }
+  },
   "barnes-hut-tsne": {
     "0.2.0": {
       "sdist": [
@@ -6224,6 +6232,50 @@
         ],
         "blis-0.7.0-cp38-cp38-win_amd64.whl": [
           "535ec4c312ac47465e57048e94cd3efd9e6deb6e0c47972523cbdf2d80398d78",
+          "cp38"
+        ]
+      }
+    },
+    "0.7.1.dev0": {
+      "sdist": [
+        "2b919b3a1f46138ec43e8008b15511d9772d89af4320485b7e37288eaff147ac",
+        "blis-0.7.1.dev0.tar.gz"
+      ],
+      "wheels": {
+        "blis-0.7.1.dev0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "81a62324986cea4305276b415d856d393f2bf52880324b87d5c903a9a9e8afd7",
+          "cp36"
+        ],
+        "blis-0.7.1.dev0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "e878dee2407a2cd1f8af9bdcaeb8445f4e8c1c75e058b114d2c68c2835e388a1",
+          "cp36"
+        ],
+        "blis-0.7.1.dev0-cp36-cp36m-win_amd64.whl": [
+          "e20ce39d1ea1e279ebc0a120e145bd62ef8afea979cb90ac76070652837225eb",
+          "cp36"
+        ],
+        "blis-0.7.1.dev0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ff2fc328c661e29b0d99e8ff2c3d27cdc92f083b5b6714d20cf45715db68a60d",
+          "cp37"
+        ],
+        "blis-0.7.1.dev0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "3df7efcea6f5d3743852524e3e6bc1e5abea8acf697b8300d82f1df28af6d479",
+          "cp37"
+        ],
+        "blis-0.7.1.dev0-cp37-cp37m-win_amd64.whl": [
+          "02487cf6cc41cddc2e2a1c62bfde2e9980a468de35dd6bad7c48af5af0d5ebee",
+          "cp37"
+        ],
+        "blis-0.7.1.dev0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "0f20a0d5b1eb0df5c7e54061cc4ef71fb3e2f15963b964eddf8184869af4e339",
+          "cp38"
+        ],
+        "blis-0.7.1.dev0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "ad36176e1aceeda3eea73da5b3225bfa10b3a481c9626ba813628f82f298623f",
+          "cp38"
+        ],
+        "blis-0.7.1.dev0-cp38-cp38-win_amd64.whl": [
+          "746ea158a89e427ca120294dad483ccaebfad53cc260d39d8fe296955144a591",
           "cp38"
         ]
       }
@@ -16364,32 +16416,6 @@
       "wheels": {
         "eddington-0.0.9-py3-none-any.whl": [
           "56419b148cd9ae06e9c073430ce525ebf04c7260818205fc7b791833f333f07b",
-          "py3"
-        ]
-      }
-    }
-  },
-  "edt4jinja2": {
-    "0.0.18": {
-      "sdist": [
-        "1c12d7b08075ff851e5363bbb426a326832c93ec9b310629106347c4930d1e97",
-        "edt4jinja2-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "edt4jinja2-0.0.18-py3-none-any.whl": [
-          "041f7aff67e95176afebc21fdd60f4247d162155bb016c4f63f6c41dbc468600",
-          "py3"
-        ]
-      }
-    },
-    "0.1.19": {
-      "sdist": [
-        "cc2b6e28f8439473cb8970a9a8c4ae9027d2c5c41ed077af96d064583ab7f771",
-        "edt4jinja2-0.1.19.tar.gz"
-      ],
-      "wheels": {
-        "edt4jinja2-0.1.19-py3-none-any.whl": [
-          "d7df6ac51b09d2f3fc30f72d469ea66ba7b053018a76b6e87a498c10cc0e1270",
           "py3"
         ]
       }
@@ -75972,12 +75998,20 @@
           "5145725cebefdd05a31d063f791ef3b86f10c152b975a148962be0812b3bf034",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200815-cp35-cp35m-win_amd64.whl": [
+          "c3dab383e850ba32b5b377fcf49d089ca59cdda6bb6be2a3cf9015786eb8cb63",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200815-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "f4ced3deeeefbe13e7d98840afe0f9105cbb1713ca2b5f64566e9ef3783b81de",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200815-cp36-cp36m-manylinux2010_x86_64.whl": [
           "5352674c18875cbdb3f892ad9110850f807d40e441f7f012d12c6059a9d44d52",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200815-cp36-cp36m-win_amd64.whl": [
+          "28b3b4a11ed7587ac10d66f23d425476e3ce31767b8fb90cd4c96f3eaa840a5d",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200815-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -75988,12 +76022,20 @@
           "aab29b0cff6464c9b96c029e490f2bdc3fda3612b9c4466022a4dce5c2a12844",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200815-cp37-cp37m-win_amd64.whl": [
+          "1e01387126abd2b5feca369cd8d2a6f553b75dda5440441dd92ef5ad86b21c2c",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200815-cp38-cp38-macosx_10_14_x86_64.whl": [
           "a626ae6e3bdf54e7e831acf2367a5803b5cf1631d5b87e7c54bcc208766c2cfd",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20200815-cp38-cp38-manylinux2010_x86_64.whl": [
           "8f930faf19d2031238ebcd1c6a4d3948580df807bb9bc574cc2b1d1caff818a5",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200815-cp38-cp38-win_amd64.whl": [
+          "32a71ef93c725ef1966a2069a1488ab5356288b3b8f3d535d565f1b1177d5d61",
           "cp38"
         ]
       }
