@@ -1617,6 +1617,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "wheels": {
+        "alveolus-0.1.2-py3-none-any.whl": [
+          "d3e16a938cd7ad55f8f3f658d394937bbe786feb2f7a6fe5face629550cb8686",
+          "py3"
+        ]
+      }
     }
   },
   "am-i-connected": {
@@ -37890,6 +37898,12 @@
         "MechElastic-1.1.15.tar.gz"
       ]
     },
+    "1.1.16": {
+      "sdist": [
+        "5bc54e72c79c01ba5030532dc8cb0221ff1712b8650866c7e051ddb10f8ce691",
+        "MechElastic-1.1.16.tar.gz"
+      ]
+    },
     "1.1.2": {
       "sdist": [
         "f72079e7655db26cf1ddb606c15828738eed03a0f70dd3d36c4e58a650726b7d",
@@ -51690,6 +51704,30 @@
       "sdist": [
         "607cf45be0c4d9a9482dfa1eea7c86b281ea46c8a22ba1252040be1a1a261103",
         "openvpn-auth-azure-ad-1.0.1.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "7021d010ed7a6d1ee349d95efd3d0bb9a70955ff43c81aeb56356b31c3ea734e",
+        "openvpn-auth-azure-ad-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "9d57ea2c5c23912f0934682bce0cce29b20d048057457bfdd231a235e0fa33e4",
+        "openvpn-auth-azure-ad-1.1.1.tar.gz"
+      ]
+    },
+    "1.1.2": {
+      "sdist": [
+        "8e2e74e5cca268326fc01ba1a9201123b5ce8b4263f6263f66c14fb60670bb99",
+        "openvpn-auth-azure-ad-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "77f072497c8b016fae7761889fedf92bdd7185acc9c5b247caeb9dd9d2e61df9",
+        "openvpn-auth-azure-ad-1.1.3.tar.gz"
       ]
     }
   },
@@ -69112,195 +69150,15 @@
     }
   },
   "terminal-table": {
-    "0.1.0": {
+    "2.0.1": {
       "sdist": [
-        "fb4e84053727537cbea75ea56ea03001b39744cff1494a486b0ed7fefe4eb886",
-        "terminal_table-0.1.0.tar.gz"
+        "a5d24411538b208ace609de290abd730e13e99888c375167e05d6e8d822a4c7b",
+        "terminal_table-2.0.1.tar.gz"
       ],
       "wheels": {
-        "terminal_table-0.1.0-py2.py3-none-any.whl": [
-          "25598045953281114bdce3bfd0cb0178cc42837b7a0e9b5d802bb23a59b9ed46",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "26fba9894d72c14cc1a6af3f85e7ffa9875fdfccc126569ff80e925b74edebc0",
-        "terminal_table-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.2.0-py2.py3-none-any.whl": [
-          "c75971e53b4625e0171593bbb7d2d0ec552efff6a3d6e92408e6248ed8551fcf",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "b6225b170b4da41b58c4d87a1cbe3e2aa459c3648af8dd1152463d4a72261e41",
-        "terminal_table-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.3.0-py2.py3-none-any.whl": [
-          "b7786878579b53d2f6058fc71348753299a63ff3a1d08a9163d4f63965ec3418",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "c91face76bbac9d69f0e9fb65d2f1a97dc6dba349af5ee63ca46171078d6aacb",
-        "terminal_table-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.3.1-py2.py3-none-any.whl": [
-          "c961fb06cb4776ba3bb7b68ef5b7b707a57e50d7229c814f3d44b6e810f57014",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "747d7bb834fe505a46e380b62cc195539771d47551edec0a2e56a7ade48cc285",
-        "terminal_table-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.4.0-py2.py3-none-any.whl": [
-          "c27df60b51ba5e3b8ba579e1636a6db32f1d092d426f6a9c26bda488390da1b2",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.5.0": {
-      "sdist": [
-        "410a0306690b2f05254eb39d10e9dd58dd309098ee36f212e07e96a9e3b52e29",
-        "terminal_table-0.5.0.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.5.0-py2.py3-none-any.whl": [
-          "c957a0876e8f8805829f0876cf15f189c724c373b598e10911e294418bee22ee",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.5.2": {
-      "sdist": [
-        "21db63102c7808e22cbef19b988016b1e092ee4f151d69b1f237cc71aebe97c1",
-        "terminal_table-0.5.2.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.5.2-py2.py3-none-any.whl": [
-          "f0a21d27615b0d0bdea02239b45e4cc0cbde1a646c4912e942a5a1079283a75a",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.5.4": {
-      "sdist": [
-        "ba3e7039eede6dd0a2bc7b514a87c2815def06537c333e9ecc870acaae5ebccd",
-        "terminal_table-0.5.4.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-0.5.4-py2.py3-none-any.whl": [
-          "995e0f8f198edc5367f120519c0e7f903d933002b15180f90e94a76278edadcc",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0": {
-      "sdist": [
-        "4d220c9b4734c1462339f9f5f20dffad30d0ab0c8adb70c57f86a20e0e4dddfc",
-        "terminal_table-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.0-py2.py3-none-any.whl": [
-          "e2b1137af1d074f7ec63469473d726625c1fb71e0faaef0adbdc1858b731bc54",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "5e4fb03fcf15e1321cec2a5c5f9b034366b86c4b3e2773a7cef995dccf778853",
-        "terminal_table-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.1-py2.py3-none-any.whl": [
-          "409b6f58fde2d59c5ad73b83962dc50dec800760b50bfb62b6a144612a5fa62d",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "15067a949e9820f34f54576068c2ad9c6904473a11c8a7b0f9a9877aa94a3984",
-        "terminal_table-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.2-py2.py3-none-any.whl": [
-          "c9ac5c39bf957dbe733cdcf093f3eb22e5c14dca23af6b18ca0a4d275d7f9032",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "250bd001a5eaa0cc22bfe45a058a2d1c45068a333db7c0f3efd74d63bfc67dfb",
-        "terminal_table-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.3-py2.py3-none-any.whl": [
-          "d07265d3b4ea52a2ca2fd32dbfb7bcfa16289427118bd4ac049bf793e895a4eb",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "b100bd5e3f2a12149a9aacd57099a4d54ce3c3fb40915532d5150a3ba1f95ec6",
-        "terminal_table-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.4-py2.py3-none-any.whl": [
-          "5813c97e7b25f9f485941fe7feaf53471e6aea213575f1bbe06975733ec242cc",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "d082534e6de1f7fb8b258fa2669983da5c5fa984f78cd4c6f9dabb869e8ffae0",
-        "terminal_table-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.5-py2.py3-none-any.whl": [
-          "9c555f7b59a4736a3cd2578111af98122e1b0e7aefa394784fb91d13f5a18be8",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.7": {
-      "sdist": [
-        "28cc487eeace6f1052fa8751680b57ee4ac94c10f458febe9ae978c236a94f8f",
-        "terminal_table-1.0.7.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.7-py2.py3-none-any.whl": [
-          "0d2263621a15dc3a833bfc03c7432bb5d3bcb9d5e4336826205f913bd5d858b7",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.8": {
-      "sdist": [
-        "bd5422a6d91a50d44820218a7bccee055b9ba40a6e204c780c941a13cbb111cf",
-        "terminal_table-1.0.8.tar.gz"
-      ],
-      "wheels": {
-        "terminal_table-1.0.8-py2.py3-none-any.whl": [
-          "4ca9c09ba0b464aab19a4dde85aaaad9d02354d9753c26a930cbdc7ddce14fa4",
-          "py2.py3"
+        "terminal_table-2.0.1-py3-none-any.whl": [
+          "43e1470c43d489ace36e9280c0097e526328a8395c350e338fe2d43518785939",
+          "py3"
         ]
       }
     }
