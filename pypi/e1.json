@@ -35171,6 +35171,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.7": {
+      "sdist": [
+        "1afa6187bd3131deeda939adc94c1f492ee28b8e725e3acdc40115c2ed219671",
+        "DXC-Industrialized-AI-Starter-2.0.7.tar.gz"
+      ],
+      "wheels": {
+        "DXC_Industrialized_AI_Starter-2.0.7-py3-none-any.whl": [
+          "10fc876fabb4bf5d8b66586f2c3e3b05d3fc58d05a48367d8c2ff02c3301060e",
+          "py3"
+        ]
+      }
     }
   },
   "dyspatch-python": {
@@ -43329,6 +43341,32 @@
       }
     }
   },
+  "h1s": {
+    "2.1.0": {
+      "sdist": [
+        "796315bbec1f23d9fe28b45bf9a36f093d2a712136232b21a115f548e5bb4ce0",
+        "h1s-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "h1s-2.1.0-py3-none-any.whl": [
+          "868cf2c9ebcf5df9d24b25259f0e91c8c26c94d8dcc7094b1cb0eaf77c6609e1",
+          "py3"
+        ]
+      }
+    },
+    "2.1.1": {
+      "sdist": [
+        "2c34f87583387ad13e2366d2dfd8328010db683b0b7b7095bb7544655b845298",
+        "h1s-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "h1s-2.1.1-py3-none-any.whl": [
+          "9f82ab7d4e62a825f3fe6e2015cf82694c4b69435be5004ecbaf7cd1e4ba0290",
+          "py3"
+        ]
+      }
+    }
+  },
   "hapi-nile": {
     "0.1.0": {
       "sdist": [
@@ -47003,6 +47041,14 @@
       }
     }
   },
+  "juice-client-infra-async": {
+    "0.1.0": {
+      "sdist": [
+        "124fe2939654590de36deafc22cc03ae3fa91ba7ed7452767990261818885762",
+        "juice-client-infra-async-0.1.0.tar.gz"
+      ]
+    }
+  },
   "jupyter-server-proxy-noe": {
     "1": {
       "sdist": [
@@ -48672,6 +48718,12 @@
       "sdist": [
         "8eb5a927a8d3098636cf9288e978f5203a483f79f2c9580957c884a365c97a53",
         "ktrain-0.19.7b3.tar.gz"
+      ]
+    },
+    "0.19.8": {
+      "sdist": [
+        "bc799196463e6817e0c2a01358d4c110d707c40bc5b361f6fde68f060d4a455c",
+        "ktrain-0.19.8.tar.gz"
       ]
     },
     "0.2.0": {
@@ -51784,6 +51836,86 @@
         ],
         "landlab-2.1.1-cp38-cp38-win_amd64.whl": [
           "bbbccd19d583a18955006f72ffa9535db21b103d411924a9b2e1c24326868df8",
+          "cp38"
+        ]
+      }
+    },
+    "2.2.0": {
+      "wheels": {
+        "landlab-2.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4705f12d884be951c636f1d68cc898cbc5405c0ed8e94e82881bf591b443eaa0",
+          "cp36"
+        ],
+        "landlab-2.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "77b2170c302582f6298d8bafe9c1fdae75bfd2810c574336a5c2382d514330e3",
+          "cp36"
+        ],
+        "landlab-2.2.0-cp36-cp36m-win_amd64.whl": [
+          "265b761db205b76a47a4d5a2309fdba79e16e4cb55dd3498d112b2da4d20c9ed",
+          "cp36"
+        ],
+        "landlab-2.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3bb6889c09be1362cce1441d7e1de4968429e2dfb46a7d386c9907ab403c9b79",
+          "cp37"
+        ],
+        "landlab-2.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8de8f85e037acd09dc99ad24d72faf8d2cb4f0fa83594a92be148b51129f512f",
+          "cp37"
+        ],
+        "landlab-2.2.0-cp37-cp37m-win_amd64.whl": [
+          "00943d84e8fe7368910df3e54872f06a99914bce8181dee15d682008114b8814",
+          "cp37"
+        ],
+        "landlab-2.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3ba8d9f27f3f6751613d973a74815007a1dad4ae2f9a4b32f1b98456210474c5",
+          "cp38"
+        ],
+        "landlab-2.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "c97ba386b3439c311e0df1e52b1dda4b7656a96612792c84bdd1790a4be9a1dd",
+          "cp38"
+        ],
+        "landlab-2.2.0-cp38-cp38-win_amd64.whl": [
+          "4886a3a13574ff5fcc25c684b42dfa10ec07db7fd30d22222836f482ea6c3a78",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.0.dev0": {
+      "wheels": {
+        "landlab-2.3.0.dev0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "a96cb923bcb034ff85e1b9aa21f297f78b2c8902e5c312242a6094d8d1daa3e7",
+          "cp36"
+        ],
+        "landlab-2.3.0.dev0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7011fc4885638e4fd1133a7e168a09989666872315d8514d31faee4697acf56e",
+          "cp36"
+        ],
+        "landlab-2.3.0.dev0-cp36-cp36m-win_amd64.whl": [
+          "7e23d125aa68488ddffa7527e4d21a6c8cbd93733258c780d433e6571189f19e",
+          "cp36"
+        ],
+        "landlab-2.3.0.dev0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a375ef4e1d827aad471d936097229ca934c17f8d952515230af3178d503fbfb2",
+          "cp37"
+        ],
+        "landlab-2.3.0.dev0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "cd63fc610fc6e8ec8f40def6a05d45cb021e001967403c9fe33ccb3a4b604cc0",
+          "cp37"
+        ],
+        "landlab-2.3.0.dev0-cp37-cp37m-win_amd64.whl": [
+          "909d4402a20099a448bca5bae1fe685fa3d7624dd99961cfba17920367be99d7",
+          "cp37"
+        ],
+        "landlab-2.3.0.dev0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "6c70bd659416684b3fdb9e668fe8d242e0a27c608147fcf2b8a5807de82d45a3",
+          "cp38"
+        ],
+        "landlab-2.3.0.dev0-cp38-cp38-manylinux1_x86_64.whl": [
+          "47cd51817f175e9a72f96d8a321725efec414b0b6a53ce70c40342eb99e134be",
+          "cp38"
+        ],
+        "landlab-2.3.0.dev0-cp38-cp38-win_amd64.whl": [
+          "aaccf87400babcbeaf292aaf96c87c733cfb687bf17c91a21ac36796936db09b",
           "cp38"
         ]
       }
