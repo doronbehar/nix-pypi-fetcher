@@ -42141,6 +42141,12 @@
         "b4c456fb0d6e18606e30f569587918b3a77acc95a6123b423145a3f0eda4dc48",
         "nlex-0.0.3.2.tar.gz"
       ]
+    },
+    "0.0.3.3": {
+      "sdist": [
+        "bc968413e910d5f4166ac8b432bfa59f9958db19e4a9f2697c992ad2b23aac21",
+        "nlex-0.0.3.3.tar.gz"
+      ]
     }
   },
   "nlgen": {
@@ -44029,6 +44035,14 @@
           "py2.py3"
         ]
       }
+    },
+    "11.0.1.3.1.99.dev1": {
+      "wheels": {
+        "odoo11_addon_queue_job-11.0.1.3.1.99.dev1-py2.py3-none-any.whl": [
+          "b777911646729372c40e9928a2ca88a68ee813b9f1d72b4b56461d9d047a3536",
+          "py2.py3"
+        ]
+      }
     }
   },
   "odoo11-addon-web-widget-bokeh-chart": {
@@ -44478,6 +44492,14 @@
       "wheels": {
         "odoo13_addon_sale_procurement_group_by_line-13.0.1.0.2.dev1-py3-none-any.whl": [
           "895bc79dfec77ae45fbc026d927515cea8269ddb744f02bd3e708daa305d593b",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.2.dev2": {
+      "wheels": {
+        "odoo13_addon_sale_procurement_group_by_line-13.0.1.0.2.dev2-py3-none-any.whl": [
+          "3aaa93821e2b05f1362a7ac322ecd05a703bcafebf16fdb860d54b92121c9f25",
           "py3"
         ]
       }
@@ -46443,6 +46465,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "57c53ee5510a162e64be9c815c22ddd6f5b1e638f322598f6a71413699d42057",
+        "panopticon-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "panopticon-0.0.2-py3-none-any.whl": [
+          "269e861f2bb14c2361cb568e766f24e19408b321997c7d682bb1c4609d6bb037",
+          "py3"
+        ]
+      }
     }
   },
   "parallel-bars": {
@@ -46729,6 +46763,52 @@
         "pearlcli-2.1.1-py2.py3-none-any.whl": [
           "22f183308a224db5d70a570fdca6c267eec1eccc56da2221d1e590424f81aa2c",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "pennylane-lightning": {
+    "0.11.0": {
+      "sdist": [
+        "472ba1257adf0ef47bbb4ef21c7260ed6b83765ebfa8b10067171fff006ae8d2",
+        "PennyLane-Lightning-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "PennyLane_Lightning-0.11.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "69550aa9848a7cdcb3b13d9a9910dba30a1e6905e9526695108a46504b06391f",
+          "cp36"
+        ],
+        "PennyLane_Lightning-0.11.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "e0f964bf832c0b254d3cacf38f93a13f124b01646f7656994cb9498e95a686b5",
+          "cp36"
+        ],
+        "PennyLane_Lightning-0.11.0-cp36-cp36m-win_amd64.whl": [
+          "7fe6547bb295fcf5a68fd801775bbc21290af9adc096388b0cd723b8e3bb5f29",
+          "cp36"
+        ],
+        "PennyLane_Lightning-0.11.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4476777d41c2b1b7ab6a5af8b2a07408da300f715a1e1c37aaa5c373e1d56c91",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.11.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1e789de5be0ed5854609d5348b409969c19d939594e925dd6160cbcb19322caf",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.11.0-cp37-cp37m-win_amd64.whl": [
+          "a3d048f6f546e7836577f7c4c656ddda9968ca63caa549e05216af41cd90ee3b",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.11.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "6b83d9d3b4080f61af02c866d0e93df7a2f824cdef0b96facad51fbc32a9fa5d",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.11.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "b17a7a228118475797edf7dd98cbe7310446177b4b6ab3575f6e97d5d6746ac0",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.11.0-cp38-cp38-win_amd64.whl": [
+          "66d8ce4eda5ed2ee132dae582a771d394cf347ecb271097e0df656b153eda10b",
+          "cp38"
         ]
       }
     }
@@ -51292,18 +51372,6 @@
     }
   },
   "prometheus-celery-exporter": {
-    "1.4.0": {
-      "sdist": [
-        "2feff2daf12697843359cfcc5c00e5ca533b92095818bd11ce6599010640df75",
-        "prometheus-celery-exporter-1.4.2.tar.gz"
-      ],
-      "wheels": {
-        "prometheus_celery_exporter-1.4.2-cp35-cp35m-any.whl": [
-          "231ec5093aae963f31160806f269152405498dba4739a1a3c39788351e6b3843",
-          "cp35"
-        ]
-      }
-    },
     "1.5.0": {
       "wheels": {
         "prometheus_celery_exporter-1.5.0-cp35-cp35m-any.whl": [
@@ -56322,6 +56390,42 @@
         ],
         "python_dp-0.1.4-cp38-cp38-manylinux1_x86_64.whl": [
           "ff7758c030a98df55592926a9520b42ef07049c94d1af2cda840c89d9d3123d8",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.7": {
+      "wheels": {
+        "python_dp-0.1.7-cp35-cp35m-macosx_10_15_x86_64.whl": [
+          "36c65cdf2c3d3d688f73377864e3951b5accf5f936e3926ad6d4cccbf803623b",
+          "cp35"
+        ],
+        "python_dp-0.1.7-cp35-cp35m-manylinux1_x86_64.whl": [
+          "7ab394f52733be6820dd3c3383585da1b6cf70516ff30c25da4c714233e765e5",
+          "cp35"
+        ],
+        "python_dp-0.1.7-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "5145a69a7771718e5e7b1c3fffdb5b92f72d638e6e6372cb4dcd257699dd4bfc",
+          "cp36"
+        ],
+        "python_dp-0.1.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a622b91fe6b7587d5882871aaf5b217881fdf4527aa318c894ee6de39e2a7ded",
+          "cp36"
+        ],
+        "python_dp-0.1.7-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "8644cfeec58558e5ff8ff38b01eb46c079611ff14e5fb94aeaf89830032790db",
+          "cp37"
+        ],
+        "python_dp-0.1.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "dc01a7114674b2690b422417da56c9bb7b717ab1a943ffba748cb23a34cd0de7",
+          "cp37"
+        ],
+        "python_dp-0.1.7-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "c65a19a89c36698647cb8ae5f9b1b5a0c7ce7814605ecbda80b6bd6de689ef7d",
+          "cp38"
+        ],
+        "python_dp-0.1.7-cp38-cp38-manylinux1_x86_64.whl": [
+          "4e9cc27557585293a516c6671e2549464989d5a1a1259b6ae9b9e7ec68530cb8",
           "cp38"
         ]
       }
@@ -66736,6 +66840,18 @@
         ]
       }
     },
+    "3.0.68.1": {
+      "sdist": [
+        "aa2493be1f6c18bcbe5084894fe2557a0321a47d16ec0eca5a6fbab188d146c1",
+        "tccli-intl-en-3.0.68.1.tar.gz"
+      ],
+      "wheels": {
+        "tccli_intl_en-3.0.68.1-py2.py3-none-any.whl": [
+          "f676aa560e42a2ee57f66838338d15d0c501182b30af5a3039e48c8a22068a9f",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.7.1": {
       "sdist": [
         "f4c16eeab75d9ebffef58c2dbc13cd66ee4a18080e099e28f275f08de58b619d",
@@ -74564,6 +74680,18 @@
       "wheels": {
         "yapapi-0.1.2-py3-none-any.whl": [
           "2b6b1c2813db7c38ef5832b610a92105bc98326a84eed56169b6793db6d18c11",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "c32a61a2cdce035c7f1798a3e5bb9eb7099f608b65e0f3e42e95729ea201b5ed",
+        "yapapi-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "yapapi-0.1.3-py3-none-any.whl": [
+          "14145078935d2d837d8fc109e7d133425836fd5a9e1ba387961bce45dc0827f5",
           "py3"
         ]
       }
