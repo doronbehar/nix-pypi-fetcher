@@ -1385,6 +1385,18 @@
         "c17cb4cdf960d9fddeff6340ccc1d85c1858bd2df51de89c22ae713c7eb17f5f",
         "alsolib-0.5.5.tar.gz"
       ]
+    },
+    "0.5.6": {
+      "sdist": [
+        "a168831b388988170b579332ad62ecadc848a869e3b8c07d0f41d0f1cf136941",
+        "alsolib-0.5.6.tar.gz"
+      ]
+    },
+    "0.5.7": {
+      "sdist": [
+        "d7b9fbb37d5a22302b2e2f4a2e727d76cc9897d3989d588e56e2b5e18c4f30d8",
+        "alsolib-0.5.7.tar.gz"
+      ]
     }
   },
   "amarettopy": {
@@ -18507,6 +18519,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "8e2bab2fc5881b9f93bc1a5597f1e24a37cdc41fe6ea18cb0be5eeb1b28b5ccb",
+        "faststan-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "faststan-0.1.4-py3-none-any.whl": [
+          "458a38e3dd1d77b3e6e0db581e075dc6f2bed7a05ab5cf734748829d9a059122",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "7e03e6d1180674a63a97b0e0662ebd563a6b33629248815f68dad4c49915177f",
+        "faststan-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "faststan-0.1.5-py3-none-any.whl": [
+          "69898484bb0d406200db14fa80432f711e5dad9cdc7e6652ab3f80041c644a77",
+          "py3"
+        ]
+      }
     }
   },
   "fenics-ffc": {
@@ -19368,6 +19404,18 @@
       "wheels": {
         "flytekit-0.12.0b0-py3-none-any.whl": [
           "eb55cf652c6d447063808647944eb439071386c7066f551c87b8b313214c60e5",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0b1": {
+      "sdist": [
+        "c6feaf70b4185e1208c0107c3facd7ad5d153aeb90412cbe01d78e70ac5119b7",
+        "flytekit-0.12.0b1.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-0.12.0b1-py3-none-any.whl": [
+          "ffaf41d92d74606216b79f4d21a1cf9dfb560e4b9cd22cb15a2245ea88c292a9",
           "py3"
         ]
       }
@@ -27415,6 +27463,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "sdist": [
+        "189921f6efe739f28bfe93465cd7f6b96183b449e5fd2e5c24ffa54f968a1ad0",
+        "lykkellestatistics-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "lykkellestatistics-0.1.8-py3-none-any.whl": [
+          "9c934715974818df9fea7e4eb5323937dfd8e87b6c363d75c3e1b9e56b705549",
+          "py3"
+        ]
+      }
     }
   },
   "maildrake": {
@@ -28384,6 +28444,38 @@
     }
   },
   "microx": {
+    "1.1.0": {
+      "wheels": {
+        "microx-1.1.0-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "0b272090fc4b224dbc15cf43e98b3a0559c46e4edf28cb400933d12b04029d20",
+          "cp35"
+        ],
+        "microx-1.1.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "d99dff81a62475c84917057646d0f70335f3a03928fb751addf94835b7247b17",
+          "cp36"
+        ],
+        "microx-1.1.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "b511a7b50aa2ffeb837ad2bd9b803949f85572016ac45e34911b52669044bf8e",
+          "cp36"
+        ],
+        "microx-1.1.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "b4f361089f6e8ca1a9222598505ba433b7470c52fed88f2a58f6980066afdf7c",
+          "cp37"
+        ],
+        "microx-1.1.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "526ba46a1c932c2581d41c86c62fb8a376ef7983a70d3118a12703cce15ac167",
+          "cp37"
+        ],
+        "microx-1.1.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "a19288031dfa7df22c4fb3a4eae4e9681abeba43bd773f6ac53b5a10efef0d05",
+          "cp38"
+        ],
+        "microx-1.1.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "848947cc1cf6936585dd4ebc99e69781617d141036dfb3b954510c9b538eed1f",
+          "cp38"
+        ]
+      }
+    },
     "1.1.0rc3": {
       "wheels": {
         "microx-1.1.0rc3-cp36-cp36m-manylinux2014_x86_64.whl": [
@@ -28436,6 +28528,58 @@
         ],
         "microx-1.1.0rc5-cp38-cp38-manylinux2014_x86_64.whl": [
           "e3740f91529dc0190df7b3ae1bf82014631477dfae57bbd16656f07aeb6199b9",
+          "cp38"
+        ]
+      }
+    },
+    "1.1.0rc6": {
+      "wheels": {
+        "microx-1.1.0rc6-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "1ec0a840813489f83efc4e5cc1eb5aaa0d71e3d84a88a54f02d5c79be5945b11",
+          "cp35"
+        ],
+        "microx-1.1.0rc6-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "f7a9bee1651517dce1e9821340ed15d9759bb40613700b7d383a8f9f2906a668",
+          "cp36"
+        ],
+        "microx-1.1.0rc6-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "de072682fee142c1d3eb0b0e3874331efb9182ec036899f89a335209c6ea680a",
+          "cp37"
+        ],
+        "microx-1.1.0rc6-cp38-cp38-manylinux2014_x86_64.whl": [
+          "ea88c65c7d84ea3d46f7bd5ee26b5a02fd983ca113bcf26cea43adbfab4ac765",
+          "cp38"
+        ]
+      }
+    },
+    "1.1.0rc8": {
+      "wheels": {
+        "microx-1.1.0rc8-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "76c789672dd9f7de735b6c77391e06406737f3cd7cc747f410e83bd1dd6c3dcc",
+          "cp35"
+        ],
+        "microx-1.1.0rc8-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "51ad73f0390b9462f042e3b5c0354e93b80ef57760446203dfbd28ad7d2982a9",
+          "cp36"
+        ],
+        "microx-1.1.0rc8-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "da9affb3af8e814599f9618d6d6a24c8d9794ce6716544badf2fa2fac9f99b2d",
+          "cp36"
+        ],
+        "microx-1.1.0rc8-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "0dc9c1028fa9ce17827eafbef12b7c8b5d1e425fd494f573e7ac79a4800b0c8d",
+          "cp37"
+        ],
+        "microx-1.1.0rc8-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "f0b0ee53f214f16c8aa7790974438ffd6f9f2275109ea59cbc39b79accf31f5e",
+          "cp37"
+        ],
+        "microx-1.1.0rc8-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "7f4c2e90ef2e198afb14ca75c2cf4fa37d2e767714d98186378de08e2109673e",
+          "cp38"
+        ],
+        "microx-1.1.0rc8-cp38-cp38-manylinux2014_x86_64.whl": [
+          "c38b1fc8f5bd728aecec8d8b014edca2a8e1706e345c6e815674d2def2063ede",
           "cp38"
         ]
       }
@@ -49696,6 +49840,30 @@
       "wheels": {
         "sense_core-0.2.82-py3-none-any.whl": [
           "56e5b7b0dd4938d8ad8bd89e8794317c499a4030727b190164a3217060f0ecf7",
+          "py3"
+        ]
+      }
+    },
+    "0.2.83": {
+      "sdist": [
+        "26928240982f422784384fd6c1bbb45c041b977effc11fea3b727f2526bcc9c8",
+        "sense-core-0.2.83.tar.gz"
+      ],
+      "wheels": {
+        "sense_core-0.2.83-py3-none-any.whl": [
+          "5afdc41b0433e2ac58555081edc5862c454e8b3edf558d06957394d2944784a5",
+          "py3"
+        ]
+      }
+    },
+    "0.2.84": {
+      "sdist": [
+        "7a9531d572e6ee0e6599ef390c72f9d7d72dbac3bf9f6994f764d15a4eb9c52a",
+        "sense-core-0.2.84.tar.gz"
+      ],
+      "wheels": {
+        "sense_core-0.2.84-py3-none-any.whl": [
+          "82d15c5efd3537812e46e605f1b0687f2b0052b10af8a9024abaeea604cd2d19",
           "py3"
         ]
       }

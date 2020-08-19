@@ -37217,6 +37217,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "07e8bc6960979b17ef918978071877f8fe316eca7ae8394b4927687f95393c35",
+        "JT_Selenium-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "JT_Selenium-0.0.4-py3-none-any.whl": [
+          "b3b744fea37e3ed3255152dfcafc1ccf8a41bd506f5cb67dfd26753ab2312446",
+          "py3"
+        ]
+      }
     }
   },
   "jupyter-declarativewidgets": {
@@ -37902,6 +37914,18 @@
       "wheels": {
         "KiKit-0.6.0-py3-none-any.whl": [
           "9faf84404f8b88ab6c8cb88534f33eb507a2e71295ef26358a78545a693b8c43",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "ddb8d3b4f81731492fe13794bebbb69681d0df0ed176356d629bc7e9012e55a8",
+        "KiKit-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "KiKit-0.6.1-py3-none-any.whl": [
+          "98cf4a58e0169561366b4006d115a913e86c93f027d51323caf6113ec2f5c3da",
           "py3"
         ]
       }
@@ -46788,6 +46812,18 @@
         ]
       }
     },
+    "1.14.45.0": {
+      "sdist": [
+        "58373ac7fa13635a86f9eb16d528d079a8d30249ae2317b2cda2633274abd17b",
+        "mypy-boto3-cloudformation-1.14.45.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudformation-1.14.45.0-py3-none-any.whl": [
+          "026e6b7ca9d1fa11c5c8e2ab1651488475deeae311991a48f58d486a0e34e2e6",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "e4b017b5fc3f9714323577f6b9447f45ae2c10f99aee586d2039a1d791393522",
@@ -48522,6 +48558,18 @@
       "wheels": {
         "NFSyndication-0.2.12-py3-none-any.whl": [
           "b7394a7d9f06527fdaa8f2b85d625930ef4b371bc216cdc481c7caed937564e9",
+          "py3"
+        ]
+      }
+    },
+    "0.2.13": {
+      "sdist": [
+        "93210210d05d8e8ab6381cbe41c944bc47cf02d433b6b33e5ff1dc8c44428e9e",
+        "NFSyndication-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "NFSyndication-0.2.13-py3-none-any.whl": [
+          "1f95088d333dbe059666587de9c1759933246be0cc1ae023687cb2e22e356d00",
           "py3"
         ]
       }
@@ -66625,32 +66673,6 @@
       ]
     }
   },
-  "remotepip": {
-    "0.1.0": {
-      "sdist": [
-        "2e4deff69f53a56a49c06a233a523961067306e69934b4e11a24081b5b7e2a0f",
-        "remotepip-0.1.0.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "0b938ab4238b3c4b9a57fc39e430095939803ba0755f809370a43df91c6eafd6",
-        "remotepip-0.2.0.tar.gz"
-      ]
-    },
-    "0.2.1": {
-      "sdist": [
-        "d9b3228a9b1ff7998640f75e91a7a0fe73cd324e3249d77bb181da3c7480dff3",
-        "remotepip-0.2.1.tar.gz"
-      ]
-    },
-    "0.2.2": {
-      "sdist": [
-        "7805dfe517986488a5b21b2ad41b7b3bd93be4c963d5a4ce84a19898ca05da39",
-        "remotepip-0.2.2.tar.gz"
-      ]
-    }
-  },
   "repozedepinj": {
     "0.1.1": {
       "sdist": [
@@ -70411,6 +70433,36 @@
         "tojasteszter-0.0.1-py3-none-any.whl": [
           "ace4228cabc90eed7ceb7d1332cbc8f286d0763605f5776df14fff2db36d2389",
           "py3"
+        ]
+      }
+    }
+  },
+  "torchcsprng": {
+    "0.1.0": {
+      "wheels": {
+        "torchcsprng-0.1.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "bd4332c5df07ed2470c30db8ed8f9b4fe5539eed34a0030a65e0256109eeec2e",
+          "cp36"
+        ],
+        "torchcsprng-0.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "80f843957c7c0aeefb3cb0f1e890c730caf57e2cefb576c0f71e3f1861c24294",
+          "cp36"
+        ],
+        "torchcsprng-0.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "26f43b57e47f8923e3d32b6d0793a44efb9930f2d4bab58f2a61465bf6481de7",
+          "cp37"
+        ],
+        "torchcsprng-0.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9d6794ada93ea68a1be493fc8d00ee5daa9bb0698d1c1f5f7c652e07a543f4e9",
+          "cp37"
+        ],
+        "torchcsprng-0.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "a3ff0cc43644aa1833a7bd4cbb34361e6c67875ae76a4ada3f3ae07bbec4cd0e",
+          "cp38"
+        ],
+        "torchcsprng-0.1.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "1d00ffc13ddb79c0539bca3afea8916d5dc9f1c31485dadad8cb0aff5042fd63",
+          "cp38"
         ]
       }
     }

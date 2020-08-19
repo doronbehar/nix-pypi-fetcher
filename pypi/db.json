@@ -21320,6 +21320,12 @@
         "frida-12.11.1.tar.gz"
       ]
     },
+    "12.11.10": {
+      "sdist": [
+        "a40e06c3420ba4918e2fc375fcc4218e8e58395848878633fdc63ed4a8073aad",
+        "frida-12.11.10.tar.gz"
+      ]
+    },
     "12.11.2": {
       "sdist": [
         "81a1a44a53bc3a64198851f0961486d285a7877a2c4ce8fceca683486763f6a8",
@@ -38780,6 +38786,42 @@
         ],
         "NEURON_nightly-8.0.dev175-cp38-cp38-manylinux1_x86_64.whl": [
           "98347101b73adf5930b41d8045a9b628aac2f3047f39a5620ad95f3fc5ed2761",
+          "cp38"
+        ]
+      }
+    },
+    "8.0.dev176": {
+      "wheels": {
+        "NEURON_nightly-8.0.dev176-cp35-cp35m-macosx_10_9_intel.whl": [
+          "075d7029ca98e0bb55e9543d31754347c03bad282d25b6e10fdd776df1221c3a",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev176-cp35-cp35m-manylinux1_x86_64.whl": [
+          "f47feecd692f7ae9aa4c467423fdf4b80e44cf68970876442c4d1f37d8562d94",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0.dev176-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "140fb8d7bd857536b9266612b0f5c0e02b0b5925f21f33f2cba28e2575f58a15",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev176-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0b76a394fa462091bd95a83283e66bc4ed7028e64e67c0877a0d99c4036a47e7",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0.dev176-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "b2506fedd1288aa21500a0d46e425b025960e6c7e23c46a430857422b70eafe2",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev176-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7da8ccbb1a76ad9288a13d81ae862918e42c00c328902ab0b6e51ff182937a4a",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0.dev176-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "45fdacf173353b8e5c10867391243f90f41e1fc801267ba1e8f1cc85487dcb68",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0.dev176-cp38-cp38-manylinux1_x86_64.whl": [
+          "0cf3ed6f13afdab8b78b6b3b16439866e8603d35f155551b3d2ff8f117721720",
           "cp38"
         ]
       }
@@ -61608,128 +61650,6 @@
       "wheels": {
         "topsis101703038-1.0.3-py3-none-any.whl": [
           "ee310c39d3ca9cf4b7b1400620bc79b00af127a55f0e8b284098f96b7b1ce2fb",
-          "py3"
-        ]
-      }
-    }
-  },
-  "torchtools-cjwcommuny": {
-    "0.0.1": {
-      "sdist": [
-        "48e067e040c7c16e1f796ed04ac872accd74efcddc449693068beceec1106582",
-        "torchtools-cjwcommuny-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.1-py3-none-any.whl": [
-          "04a8f0256ca9bae6767dd3ba5279fa5b8d99e8bb277b963294322adbb652c4b9",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "66989beec1cb41ba1e4491c8aa1fa0e0784614ebf9fbbc038b193eeea3f91366",
-        "torchtools-cjwcommuny-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.10-py3-none-any.whl": [
-          "93977aade0315f3f8b4a2866e394bc92614e42f4b9974d54af7f09df8809fac2",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "de612fc3a7f25aeab6c3d20bae2de8c9507c6ec2ca608321ba1f404df8349361",
-        "torchtools-cjwcommuny-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.2-py3-none-any.whl": [
-          "72f4bfd440ad6cc8dab0066971c54e02f4b6a284c1c661daea94056fef833df7",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "6dfe65fa6dc25eb7babdaa74fcb9f4014d7f66faa5f95b47bad1a329d842851e",
-        "torchtools-cjwcommuny-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.3-py3-none-any.whl": [
-          "893aad1873eb9740a924f02161e266f32a2318127432c760658e87af67678a0b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "6ce1ab506c96ff38101d16a3b96d9d9d3a2398337066c8a21585e05415803d93",
-        "torchtools-cjwcommuny-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.4-py3-none-any.whl": [
-          "0d8c6c0ff6db541e791d9a84caf31e20839d16475d49cb44234b33fadb0b7439",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "c3ba49125f43c59205266a5c40b310bd9d7761e0f30b1bd2c4c220761256ef2d",
-        "torchtools-cjwcommuny-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.5-py3-none-any.whl": [
-          "0d22cb2fc64d25c969ea23063514a7ba88c9f98d7e208d5352ad8eebcef43df1",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "437349c39e2d7520eec30d72e5b662d266c93bec3c169c31fc00b94538e3716e",
-        "torchtools-cjwcommuny-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.6-py3-none-any.whl": [
-          "4d90349ec99ba431f9f4ce9c4cf7ba3b860a2b1ecf0f33f68484966e24f4ff46",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "c65cbe3544c23f04d1a700d9fe9370ade8eb5d460fbed0f770c3f81621b479a5",
-        "torchtools-cjwcommuny-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.7-py3-none-any.whl": [
-          "1c1f5da0e9d5124dd5fa75953473e996e46c85cb16f1d4b022ea5cb6d7b74ae3",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "ffca890ec5f1c92d9a8a8d94b49470caf1dd4616291163e6dcb58a90f5f2b3f5",
-        "torchtools-cjwcommuny-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.8-py3-none-any.whl": [
-          "7f510ca7541f45637b4188043471e9913e0a74571029fdabcfc5f3ee9938cd75",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "e3ed93392583cbecf904bc8d8aab286072fbc865048be0e2a3d85fe69a6a54b6",
-        "torchtools-cjwcommuny-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "torchtools_cjwcommuny-0.0.9-py3-none-any.whl": [
-          "0f69955e615265b66de7154d9e28fffa352b00e1bd864e68b78cabb4617b0f53",
           "py3"
         ]
       }
