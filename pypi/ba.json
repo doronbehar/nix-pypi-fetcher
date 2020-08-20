@@ -3348,6 +3348,18 @@
         ]
       }
     },
+    "1.60.0": {
+      "sdist": [
+        "48b1fd9afd50c4702bae6e068df3c8a8579fa49fd612fc1eb7198786aaf46a28",
+        "aws-cdk.aws-cloudtrail-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.60.0-py3-none-any.whl": [
+          "0960673942822830625bbf9199e87044e5673026d96b11b98906addaf3ef19b8",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "20059f1d3364bab46224a195ef9dacff43c2d510ba8df668ad58a55c7667a71a",
@@ -4450,6 +4462,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.6.1-py3-none-any.whl": [
           "b7cc090d62253bdd3d59039406b4730824487a9a1d2bf61d1caa4487975f3be9",
+          "py3"
+        ]
+      }
+    },
+    "1.60.0": {
+      "sdist": [
+        "45ed3fb07b7204b77cddbfef4bc20dda0fdcb15fcf2327bb9681b41da4d75115",
+        "aws-cdk.aws-ecs-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.60.0-py3-none-any.whl": [
+          "518a412f1e3c823da8920bff5078d8ac9b38b11bd9dab89dbeb20f18dae171ba",
           "py3"
         ]
       }
@@ -11926,6 +11950,18 @@
       "wheels": {
         "dbnd_airflow-0.28.3-py2.py3-none-any.whl": [
           "44bbc2afb1b4726e39e3aa59811bbcbadb3ab65e59406b53a5f4eff2e1eed61c",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.28.5": {
+      "sdist": [
+        "ec972b86faaf8b038d93f88bb8aaea3441b2a630f400e3a1c90f5f4f98fbdb13",
+        "dbnd-airflow-0.28.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.28.5-py2.py3-none-any.whl": [
+          "3bbde188ec250fa13dad3e6a6be88f99549ce3bdfb2dd3e2236ccccec791d8a1",
           "py2.py3"
         ]
       }
@@ -46293,6 +46329,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.1.1.99.dev2": {
+      "wheels": {
+        "odoo12_addon_website_sale_product_attachment-12.0.1.1.1.99.dev2-py3-none-any.whl": [
+          "595742ee886d1c86ad3b7037fa5ef9b82476e921dae171fe905ffe0e23f097a4",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-intrastat-product": {
@@ -50179,6 +50223,12 @@
           "py3"
         ]
       }
+    },
+    "0.0.7": {
+      "sdist": [
+        "f97f1d7c49910c0cdb97ffabe08c84101102ae62dbb4f6178c9e681b916c468f",
+        "orderlyweb-api-0.0.7.tar.gz"
+      ]
     }
   },
   "origheart": {
@@ -76500,6 +76550,42 @@
         ],
         "tf_nightly-2.4.0.dev20200819-cp38-cp38-win_amd64.whl": [
           "58c0871285c68aa3c73f544b45367faa5e376e97d4856b8e3512faea31b03cee",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200820": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200820-cp35-cp35m-macosx_10_6_intel.whl": [
+          "ef2260e3c012b9d09ac0f45e52867238fa484fe9ea7b84252f92c22e55be7cf9",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "68d179bd5b2a81aa07244c56ad54ed0ac870f939e7b32664b4fa1666c293cd54",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "cb8faa93d62e887f7b6009a9bd639ce8371c74af9664559c57fd70431873cc39",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c10ccca9f817b4d14bc1d6ec991301431b74097a817629b12717317fb3d0018c",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3ecddd0e2d77776229094d78766f8b2d3906e4c01348a58eb8d44a138e82cef8",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "4ecc4749c2ae539fddc4bc92fdc7b7cd4f7cb7276967fc5bcf1826574e44b0d4",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "3ce8d96e763b76e9cc37c3de860a7cd3cce1e1e3e38d550f563b1a8b510784be",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200820-cp38-cp38-manylinux2010_x86_64.whl": [
+          "be5a222c23d804f003ff9d6a1e12883feb0605b8d534c10768d09babf8b1ef3f",
           "cp38"
         ]
       }

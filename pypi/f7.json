@@ -5414,6 +5414,18 @@
         ]
       }
     },
+    "1.60.0": {
+      "sdist": [
+        "99692e084cde02663842d64a3e36a6a3c9967187baca4a10889f05e5e9b0ac12",
+        "aws-cdk.cx-api-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cx_api-1.60.0-py3-none-any.whl": [
+          "8e72b01e30cfd32ce6cd79b94584879d114de44ad947c6810305589bc7f93bc8",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "68606a29137ca309b64d0fcd0fbe45c60b4ec34b96c25b4e617b0c2108edb76a",
@@ -6217,6 +6229,20 @@
         "6be95bd7ccb57e68924961503809b35e3e0076f027010df29826cf4e86ae4c5a",
         "Beetle-Sass-1.2.0.tar.gz"
       ]
+    }
+  },
+  "bekapdf": {
+    "1.0": {
+      "sdist": [
+        "935d845edf7791a3216a88e5da0a869dbee7fdb63b7645ac7bb3a5ece6007b59",
+        "bekapdf-1.0.tar.gz"
+      ],
+      "wheels": {
+        "bekapdf-1.0-py3-none-any.whl": [
+          "495732b38a5e68957e38c67676e1ffdefff3ecb8720eecfaaaa5a4017e7c790f",
+          "py3"
+        ]
+      }
     }
   },
   "benri": {
@@ -36045,6 +36071,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.4.0.0": {
+      "sdist": [
+        "4262fe9964b7d247c75fa53aadd1f06fca872099d04f42f39c3bbb259f312baf",
+        "koverse-3.4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "koverse-3.4.0.0-py2.py3-none-any.whl": [
+          "9804ba18186c8bc7c48fc46cbff2024e5df715a3d2b9fb61e0ab5f68254fd229",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ks-response": {
@@ -40337,6 +40375,32 @@
         "mlendpoints-0.1.8-py2.py3-none-any.whl": [
           "2596454523788fbb5896077fccb38ffc36b4af60b9bfc445b0df36bcdf5a5a9c",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "mlscorer": {
+    "0.1": {
+      "wheels": {
+        "mlscorer-0.1-py3-none-any.whl": [
+          "3d008887d0247b18d1c99391647f85f1cdd0e6c36898b757e0fa839faff20b3b",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "wheels": {
+        "mlscorer-0.2-py3-none-any.whl": [
+          "d770205a035b638830996a466b38f8978e45d9e61231f9b6f62e1d9af7e19552",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "wheels": {
+        "mlscorer-0.3-py3-none-any.whl": [
+          "3f0d14b8b0ba61989d5b8181aa79935b3899c1c56b92f9182b110db68d73664b",
+          "py3"
         ]
       }
     }
@@ -48268,6 +48332,70 @@
         ],
         "parqueryd-0.1.15-py3-none-any.whl": [
           "0e070fcc0e7ba0fed93443866994a8498a83ba8921964ea0a0a5e551ee29dd14",
+          "py3"
+        ]
+      }
+    },
+    "0.1.16": {
+      "sdist": [
+        "efdb3541ecf593d576b711052ea727ae700ed4d5fb2f56ac608fb0cc60f8c369",
+        "parqueryd-0.1.16.tar.gz"
+      ],
+      "wheels": {
+        "parqueryd-0.1.16-py2-none-any.whl": [
+          "69dd2c6453434aba39bdcf22b3fee74c0100c283561d0e62c07ba7c9bb9a3e41",
+          "py2"
+        ],
+        "parqueryd-0.1.16-py3-none-any.whl": [
+          "ea0ccf227e51f5ee7f3b77e92bd173689ef3846ed82721a04bb595a04212c642",
+          "py3"
+        ]
+      }
+    },
+    "0.1.17": {
+      "sdist": [
+        "a6cbd9c84086d657eb51849aa9b91ac394ec778a9412ebe660bc930612c82821",
+        "parqueryd-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "parqueryd-0.1.17-py2-none-any.whl": [
+          "87ee8367d543f44122038a010583e4b2df506b4f9a979646d80f414cdf844a37",
+          "py2"
+        ],
+        "parqueryd-0.1.17-py3-none-any.whl": [
+          "b83bdb6a85e518c31ce6e775658f362c1721a2d1025de8c1db7e45e32097a97d",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "fab42d01c65792a5e7ee2148f367f403cfdaab875132e5876227915aeea4da2e",
+        "parqueryd-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "parqueryd-0.1.18-py2-none-any.whl": [
+          "c9913572ac365a5ba33a5e6fccaacab7ee0c1bcb8520709bb729c29337290f73",
+          "py2"
+        ],
+        "parqueryd-0.1.18-py3-none-any.whl": [
+          "04770c9e12364324f39c6d77e796bf17e60ec5dfdf181895059b4ef6c4c95dec",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "e4e7270f86d59c968d4cecf7d827c15b46a8b51950a3533aa6077e903dc48d85",
+        "parqueryd-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "parqueryd-0.1.19-py2-none-any.whl": [
+          "3e0269741869122ab8a0c9b6f95e96749cda348b8122db6ae44f8b079b2a11b6",
+          "py2"
+        ],
+        "parqueryd-0.1.19-py3-none-any.whl": [
+          "2982c25c14804f9058cc75d84052cb166e6a5e02080807667933c6bc158f177f",
           "py3"
         ]
       }
@@ -69454,6 +69582,18 @@
       "wheels": {
         "tencentcloud_sdk_python_intl_en-3.0.7-py2.py3-none-any.whl": [
           "251461d73ca6c13aeeffe709a07e6251be0f2726e3cdf80366c497d57ea615c9",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.70": {
+      "sdist": [
+        "e4bea6c12114c7c1adb2c5fc4f7e530c12ad1f447ec472eed5748a84e724ecee",
+        "tencentcloud-sdk-python-intl-en-3.0.70.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_intl_en-3.0.70-py2.py3-none-any.whl": [
+          "e44c0e2aa4f7518861b1c967560cab87fa4f227fcbb9a18e107109e31f4071bf",
           "py2.py3"
         ]
       }

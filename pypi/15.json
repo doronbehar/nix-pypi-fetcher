@@ -8653,6 +8653,14 @@
           "py3"
         ]
       }
+    },
+    "0.9.0.dev20200820015938": {
+      "wheels": {
+        "cirq_unstable-0.9.0.dev20200820015938-py3-none-any.whl": [
+          "530b3a76bfca3927608550d48e9d4a4854c5443e200ac46d03017714466a1410",
+          "py3"
+        ]
+      }
     }
   },
   "clash": {
@@ -16726,6 +16734,18 @@
       "sdist": [
         "184684c9eee3260db9d22346e0ce036f24066daf39736112e682f036fc499d69",
         "django-payu-ro-1.2.0.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "742f5245f9e4460759d24c83e7ba061f77ac384b04b6a8a26c860888c1037dde",
+        "django-payu-ro-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "9d36387206114e1fb64ebea5db9f61a9e1948d5407a8badc23b6eae7f1fd191b",
+        "django-payu-ro-1.2.2.tar.gz"
       ]
     }
   },
@@ -45619,6 +45639,12 @@
         "6a5ccb4b19d37ddb9a4cff86e6b5837c644ac7e5cba58231bb78b49962aada06",
         "nansat-1.3.0.tar.gz"
       ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "d7908f3c0f3e7d0b625fbe772b3e76881b902824a34df6e0e9fc86794d8c90cc",
+        "nansat-1.3.1.tar.gz"
+      ]
     }
   },
   "napari-tracking": {
@@ -69375,6 +69401,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "9bd17ab92a642757df245c653398f2b0a13c3841be369722a1a1e1578d0097e5",
+        "sett-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sett-2.0.1-py3-none-any.whl": [
+          "abce789dd672a3a6d06d9d6cd3c376bcd646391111f2a049a00b9a8e72583974",
+          "py3"
+        ]
+      }
     }
   },
   "sexmachine": {
@@ -70700,10 +70738,10 @@
         ]
       }
     },
-    "1.2.2": {
+    "1.2.1.post1": {
       "wheels": {
-        "spaceone_supervisor-1.2.2-py3-none-any.whl": [
-          "29b508f9ba65f7d076dac90a59c63d575b0c678d436318dee217944cea37324e",
+        "spaceone_supervisor-1.2.1.post1-py3-none-any.whl": [
+          "e8e28d17a2e4d80b2d260afb743f3c514d4e6e60c2558d334b5bb61cbb5454d2",
           "py3"
         ]
       }
@@ -72233,6 +72271,62 @@
         "a7b29fbfd0f2339a7315b00c88965efd35e6305dfd632707d6d949e54fa0704c",
         "spinsfast-104.2020.8.19.11.8.18.tar.gz"
       ]
+    },
+    "104.2020.8.20.0.32.20": {
+      "sdist": [
+        "f211409f122be88363b0466beb783959fafe4a30c6b31060856479c714f69860",
+        "spinsfast-104.2020.8.20.0.32.20.tar.gz"
+      ],
+      "wheels": {
+        "spinsfast-104.2020.8.20.0.32.20-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "17872830fd50fb547659a9f480f04d5d60c4ccd6a62c88278b27e337275f3e59",
+          "cp36"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp36-cp36m-manylinux1_i686.whl": [
+          "a6b4f525b75273f490876066cacfb89d3248490ef2ab5bf7202a6d768fcbca4c",
+          "cp36"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp36-cp36m-manylinux1_x86_64.manylinux1_i686.whl": [
+          "9aae3af15ac3f2a0c36089f6684469e0982cb449603b1567b60878ae01b6d71b",
+          "cp36"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp36-cp36m-manylinux1_x86_64.whl": [
+          "bf4e7042ccbf5b957f5da8e8ab18bc6fba854145396e78cdc4b449dd9bbde915",
+          "cp36"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "528b27a9ffab7e5c14c4b3e4a68609dc5b489cd93766d1e595c3aaff86737947",
+          "cp37"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp37-cp37m-manylinux1_i686.whl": [
+          "5b6f6403c38596efce3b87d2d40f3c969d9c2ed84c140b838502ab7a04391861",
+          "cp37"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp37-cp37m-manylinux1_x86_64.manylinux1_i686.whl": [
+          "1467b421a91b5889eb99f206c2747ad111866426e61482efb5dbc0b46ec465e3",
+          "cp37"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4358fbf79f191a24df4500f01fe260fdc3eba24a0cd347918b7512694e0a450e",
+          "cp37"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "992435f69ff34c185f384930efdbed1a30364a5015677c5ff78a323e09450600",
+          "cp38"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp38-cp38-manylinux1_i686.manylinux1_x86_64.whl": [
+          "0b2d519ea0b9207f12add849cf30f4d04cb78a2cad838997199fba946c6fa8e6",
+          "cp38"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp38-cp38-manylinux1_i686.whl": [
+          "23d805fd5c97a7f1ace7ca09f7074c1ffb5f8296b31a553e6ec0c687154dbfea",
+          "cp38"
+        ],
+        "spinsfast-104.2020.8.20.0.32.20-cp38-cp38-manylinux1_x86_64.whl": [
+          "a845197c262576a8576f9c1c76d4b7a517f4e4971a9ceb4618c53f66d2528551",
+          "cp38"
+        ]
+      }
     }
   },
   "splunk-sdk": {
@@ -73839,6 +73933,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "textcli": {
+    "0.1.0": {
+      "sdist": [
+        "f27e0c3e82d864094550c2a3d10a025e575b2dbdef03cccb859968a26b7b0669",
+        "textcli-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "262a287a126835bbc808404804396ef467570b670d09a8c4dba806ddbd01abda",
+        "textcli-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "2fff2f3a7f29ba5d97ae4adbd7e5b5af6a03c6a832d3ae71abc6367a46654863",
+        "textcli-0.1.2.tar.gz"
+      ]
     }
   },
   "tf2cv": {

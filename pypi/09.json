@@ -2838,6 +2838,18 @@
         ]
       }
     },
+    "1.60.0": {
+      "sdist": [
+        "a39e3129484839fef493be0d206c986631a454b5bf473febf9d0bdc9efc5946b",
+        "aws-cdk.aws-docdb-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.60.0-py3-none-any.whl": [
+          "1187404b538b14502c22bcf121e0e708a9396ed93d2457733bc712c5f5c7d633",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "264537df0b86278cbf79c375fb203ad05cfe2c157aafa347b7d399c2b78a432f",
@@ -3940,6 +3952,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.6.1-py3-none-any.whl": [
           "40e108d10e0dadb60ead0bcf1becd189b4d4ecc223e87153a4388710e3cebb2f",
+          "py3"
+        ]
+      }
+    },
+    "1.60.0": {
+      "sdist": [
+        "ecd35874cfb3310f51c3aea8f50b840020df417324e95f29093eb72a6525a702",
+        "aws-cdk.aws-iam-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.60.0-py3-none-any.whl": [
+          "d371f3d2e124fc3f90b28f6c91e2f2c142345bd74f45795adde29f2c98291986",
           "py3"
         ]
       }
@@ -14322,6 +14346,12 @@
       "sdist": [
         "5394028596e5d8d9f18c4d9fb17a0f6f853e37103c7977e3f472d4f2bb59717c",
         "eanalytics_api_py-0.0.72.tar.gz"
+      ]
+    },
+    "0.0.73": {
+      "sdist": [
+        "397cce6af801297c7d8f6ec154107f70ed91ea71f7ebdadc2d0f36e85fde157f",
+        "eanalytics_api_py-0.0.73.tar.gz"
       ]
     }
   },
@@ -30675,6 +30705,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "936709ed812c1b86a1996f764892438dfdc8aba8eed2cf943d98200fb8ceb912",
+        "notemovie-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "notemovie-0.0.3-py3-none-any.whl": [
+          "03c62bb63193c3756525c7f473ac3662e22ddd71018d2959c48d8e94d8065d3c",
+          "py3"
+        ]
+      }
     }
   },
   "notify-me": {
@@ -32804,6 +32846,16 @@
       "wheels": {
         "odoo12_addon_mrp_multi_level-12.0.2.1.1.99.dev1-py3-none-any.whl": [
           "4952e7a0897a787481c015b59db31bf234a17283ae74b72a184c59daf4b0d79b",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-web-widget-float-formula": {
+    "12.0.1.0.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_web_widget_float_formula-12.0.1.0.0.99.dev2-py3-none-any.whl": [
+          "bd5ef4452efd66bdbfa1c82054eb3b552af21a3caf34bed95306a42a01dc631a",
           "py3"
         ]
       }
@@ -38713,56 +38765,6 @@
         "674f58d08da9f02d3b4d552b654b51cb1f4a842955e8b791ba8cae5975a7e2ae",
         "pork-0.0.1.tar.gz"
       ]
-    }
-  },
-  "ppdet-test": {
-    "0.4.1": {
-      "sdist": [
-        "4e1db30e56b90642a52f4d80966ee16d1f5a8cfb57bdc3716060ddf55abe239b",
-        "ppdet_test-0.4.1.tar.gz"
-      ],
-      "wheels": {
-        "ppdet_test-0.4.1-py2-none-any.whl": [
-          "63805444afb4f748a07da59d9606bb7fd4309a33a267e09f7b3e249f0a307ef5",
-          "py2"
-        ]
-      }
-    },
-    "0.4.2": {
-      "sdist": [
-        "535bedeeb493d2a16b94c7bdea46e9527c745bd36b25342bd9692ecc9255a5cb",
-        "ppdet_test-0.4.2.tar.gz"
-      ],
-      "wheels": {
-        "ppdet_test-0.4.2-py2-none-any.whl": [
-          "f7a2a965da6fc0e9e3332a15404dc19b03475a09e762865900e5e61acae730cc",
-          "py2"
-        ]
-      }
-    },
-    "0.4.3": {
-      "sdist": [
-        "d2b492020c0b9bd11534e5c98ce6c293f29c657cd84a11d877d3649ca66ee9ac",
-        "ppdet_test-0.4.3.tar.gz"
-      ],
-      "wheels": {
-        "ppdet_test-0.4.3-py2-none-any.whl": [
-          "a79694b67fe02931b9d4d3f4020364c6d19b75d47b7d1d49ebebf33e2a419bf1",
-          "py2"
-        ]
-      }
-    },
-    "0.4.4": {
-      "sdist": [
-        "e6ba3575e05865caefae5a476d93eff50158fea5663b81034f5b1780f9d59aac",
-        "ppdet_test-0.4.4.tar.gz"
-      ],
-      "wheels": {
-        "ppdet_test-0.4.4-py2-none-any.whl": [
-          "a9543cfc48f676da1b789830a8042101ed00c49f109e17f6cf540f826e6661ea",
-          "py2"
-        ]
-      }
     }
   },
   "ppp-spell-checker": {
