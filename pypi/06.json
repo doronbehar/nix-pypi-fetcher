@@ -4981,6 +4981,18 @@
           "py3"
         ]
       }
+    },
+    "1.60.0": {
+      "sdist": [
+        "744f45e1eb982b697bf97b8c5c509e416cbd4307093d26330e262d857455ccd9",
+        "aws-cdk.aws-accessanalyzer-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_accessanalyzer-1.60.0-py3-none-any.whl": [
+          "2eaf2a20a36d28e67a4ddf2044733a1fdbff877174087698deaba8fff40e2603",
+          "py3"
+        ]
+      }
     }
   },
   "aws-course-nbd": {
@@ -32615,6 +32627,12 @@
         "8d298ffc8ed6a8c2eb2434139bcdd660b018260770f2901a3d66791e09f4471c",
         "marquez-python-0.5.7.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "4934b162a8a1a2445a59d83fdc0698da70cba05f8a742b8cb3679f055baba074",
+        "marquez-python-0.6.0.tar.gz"
+      ]
     }
   },
   "mathexpressions": {
@@ -35956,6 +35974,18 @@
         ]
       }
     },
+    "1.14.46.0": {
+      "sdist": [
+        "f0d55a38c7f19e762cba024c966c10ba9ea56860f68e00cd683f08038c0228a0",
+        "mypy-boto3-codecommit-1.14.46.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codecommit-1.14.46.0-py3-none-any.whl": [
+          "23df4417edadc166922b30bcc5c7b296ac2d0c4c1022cf316e05d4036a099499",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "983aba6cc6c789d2f015412287f6d9ee5886f6ad534fd2ab8d584aefe32bb0fe",
@@ -37714,6 +37744,18 @@
       "wheels": {
         "mypy_boto3_pinpoint_sms_voice-1.14.45.0-py3-none-any.whl": [
           "2e733836e441c472dcbd7c90fe0b56faaad90543f8a2a8cf3e883de5ce50a261",
+          "py3"
+        ]
+      }
+    },
+    "1.14.46.0": {
+      "sdist": [
+        "a7745480356b6026326b15ec95d6d6c75e6d1d98d6531a1b4bacee9c7f2810dc",
+        "mypy-boto3-pinpoint-sms-voice-1.14.46.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint_sms_voice-1.14.46.0-py3-none-any.whl": [
+          "5597322a4128fd97e50922328de1d65b2c8b6b4be1a7c8eaedf972598d36a221",
           "py3"
         ]
       }
@@ -44010,6 +44052,50 @@
         ],
         "pgsync-1.1.7-cp38-cp38-manylinux2010_x86_64.whl": [
           "c2f39e47b3f6f1beeaf9fe9631ebdd48b4c7fab3e6949108dfa6268760a9bc68",
+          "cp38"
+        ]
+      }
+    },
+    "1.1.8": {
+      "wheels": {
+        "pgsync-1.1.8-cp36-cp36m-manylinux1_x86_64.manylinux2010_x86_64.whl": [
+          "67a674d683269acd6b3258ede23d191232098a287b59b5f6f4247358afb65c5d",
+          "cp36"
+        ],
+        "pgsync-1.1.8-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ede83507bfb9e74feff566aa3b11126cd48dabe8c35b9ab7bb6e6b5195b90b6a",
+          "cp36"
+        ],
+        "pgsync-1.1.8-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7056a3c4e526505bbe0e31fb4d57ca6236f4b47377e8e2f59b1142228a5954c2",
+          "cp36"
+        ],
+        "pgsync-1.1.8-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "669cb3f92f13e76f06e3fad38385b11498a7f469eede635050f385cc8cc189f2",
+          "cp37"
+        ],
+        "pgsync-1.1.8-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d25c21e2b38e60fd9a18797e4933cead2aa7f23b8a3a532cfb1e66dfa7ef0675",
+          "cp37"
+        ],
+        "pgsync-1.1.8-cp37-cp37m-manylinux2010_x86_64.manylinux1_x86_64.whl": [
+          "7a57ad44d16acfec015fe9165a6ee50366d7e0ea796fcdf669219746c0ed4eee",
+          "cp37"
+        ],
+        "pgsync-1.1.8-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3ac5b34333648e5285faf5537ae81362bc6d1167840d8717d453b690d5461bcc",
+          "cp37"
+        ],
+        "pgsync-1.1.8-cp38-cp38-manylinux1_x86_64.manylinux2010_x86_64.whl": [
+          "8480a24c70d0945ea1e87534bbe17ae53c8522a060d4998efd52ad5b9ddb9c34",
+          "cp38"
+        ],
+        "pgsync-1.1.8-cp38-cp38-manylinux1_x86_64.whl": [
+          "0b0cd9bdbffda67595cc71eea07dd674448311a62e4d8a56c66dfe8ed2e365f0",
+          "cp38"
+        ],
+        "pgsync-1.1.8-cp38-cp38-manylinux2010_x86_64.whl": [
+          "67e29c11e5babf9fcf15de7f412b8be2e67260b3b542a38840123f6e35e765d1",
           "cp38"
         ]
       }
@@ -64730,6 +64816,18 @@
       "wheels": {
         "timeatlas-0.0.2-py3-none-any.whl": [
           "f95d4f6e874b8f111f3319d2a3f6a5ccfb1771de7b9fc62da16f02c410f0ae26",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "c3dce5d52a321cf7fecd4abfe2bc41e5ce54409e769c811b82545258703db46c",
+        "timeatlas-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "timeatlas-0.0.3-py3-none-any.whl": [
+          "eab2821566eb770c69495acebdeed31bba76595c06483b90dee9c549de3e90e5",
           "py3"
         ]
       }

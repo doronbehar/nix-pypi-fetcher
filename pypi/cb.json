@@ -4092,6 +4092,18 @@
         ]
       }
     },
+    "1.60.0": {
+      "sdist": [
+        "f853ac94a0b18b906f1d65b43f5592b0eec2f9304ae1a1dd5aac1b69bbcadfdb",
+        "aws-cdk.aws-dlm-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.60.0-py3-none-any.whl": [
+          "aab491bfd30d5d0f15f7e506d470b60208b591bfac780897935c9e03bf2b05fa",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2ab3bf27a7b3d365d8b286db9989090e14b8601a4d5778b9232a25c4e7dfaa89",
@@ -8364,6 +8376,12 @@
       "sdist": [
         "8a3bcca54cc9ea4b58e98a4cc53b50529b682d3b889281f311ce6231852b790f",
         "cloudpassage-1.6.1.tar.gz"
+      ]
+    },
+    "1.6.2": {
+      "sdist": [
+        "ec0738e3522b631f843e3ba26681b7b7787d484e7a1e1e4e74f947c2266d552f",
+        "cloudpassage-1.6.2.tar.gz"
       ]
     }
   },
@@ -23927,6 +23945,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "docker-compose-portenv": {
+    "0.0.1": {
+      "sdist": [
+        "93676f66e3bcbd4d05737408e8b4b5318e685acbd83c1a98c18bb03d7a44ba32",
+        "docker_compose_portenv-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "6b2c2b3ea3a73d2e6035ee8f700e654600a137fdd1a56bc99467934ec36a8b39",
+        "docker_compose_portenv-0.0.2.tar.gz"
+      ]
     }
   },
   "docker-integration": {
@@ -76014,12 +76046,20 @@
           "78ea17329ff7d98da8637c521bd84ac9e5cd08df9bbef28079385aab391f2fe0",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200819-cp35-cp35m-win_amd64.whl": [
+          "3e67f9434e8d49ad9fa4c360d89dd17836115c3594c24c18620b6ee0b69eff81",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200819-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "accf430bb6ba25191b34d0d7fcdf8d3beaa1e8d5698286b40739d7419ac405c6",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200819-cp36-cp36m-manylinux2010_x86_64.whl": [
           "0b5f437e701523e6314d75fa01f4004e3449ae6f18967338b29c475618352fa0",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200819-cp36-cp36m-win_amd64.whl": [
+          "89466500cbe7ef009845d3affd1c94bc7f66cb88ca4f93e06578304356cc6796",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200819-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -76030,12 +76070,20 @@
           "38ae1d10795a4f735e5734960f35c772ca281ac9cabf5f61e404f5cab2ede938",
           "cp37"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200819-cp37-cp37m-win_amd64.whl": [
+          "9d9294577b3c5d62ea058df1d4805afbc18a9d6fffa0a9c23c66b36f9d5040d5",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200819-cp38-cp38-macosx_10_14_x86_64.whl": [
           "bd7d461c867e453690d798707d3438d297821a549fb54a3e6d4314ad0b805367",
           "cp38"
         ],
         "tf_nightly_cpu-2.4.0.dev20200819-cp38-cp38-manylinux2010_x86_64.whl": [
           "0d2fa4ebb5132aafda6efd4a3e65b91998935385fcdefdc3fe508e12183357a2",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200819-cp38-cp38-win_amd64.whl": [
+          "446a548da0ded094b6f4699b10903dc7f8827601723b77d7449f0b493603bb4b",
           "cp38"
         ]
       }
