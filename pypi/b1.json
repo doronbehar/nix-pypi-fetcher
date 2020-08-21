@@ -10969,6 +10969,24 @@
         "3d43556aa87c2fa62640096a98fe53b0f125d16a34f95c59254da41ecf356ad6",
         "cszp-5.0.1.tar.gz"
       ]
+    },
+    "5.2.0": {
+      "sdist": [
+        "0fb3564197bbce19ca5fa3a984bffacd69ac5ffc56903c36e284ae4df42a393c",
+        "cszp-5.2.0.tar.gz"
+      ]
+    },
+    "5.2.1": {
+      "sdist": [
+        "73a970491ff08da308cc1b30fc7062f8bc60f6a5b69aabd6b4a50c22eca5b9fa",
+        "cszp-5.2.1.tar.gz"
+      ]
+    },
+    "5.2.1.1": {
+      "sdist": [
+        "de89fcb9a4c0d616675c2d2d6c023d80a378303ed2877852078a9d70af9cdc82",
+        "cszp-5.2.1.1.tar.gz"
+      ]
     }
   },
   "ctutils": {
@@ -65389,6 +65407,32 @@
       ]
     }
   },
+  "singer-target-mysql": {
+    "0.0.1": {
+      "sdist": [
+        "135e26688a82bd5a6056ffc3d0acbb03297446cef773953c37b1e92daae64578",
+        "singer-target-mysql-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "singer_target_mysql-0.0.1-py3-none-any.whl": [
+          "a7718ab0bb522171200139ea9d2dc8d5117c7b99c8399dd7e56f374923972780",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "5e5875f0c93c3f08c59c76c3b446c925f04e562b3123cc88df3eea6ded14d696",
+        "singer-target-mysql-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "singer_target_mysql-0.0.2-py3-none-any.whl": [
+          "6f387c1b6c700db41a0b3ddd111af8c1115b679a86680ba82c2bdfc82f550fff",
+          "py3"
+        ]
+      }
+    }
+  },
   "singstat": {
     "1.0": {
       "sdist": [
@@ -68962,6 +69006,14 @@
       "wheels": {
         "tensorflow_federated_nightly-0.16.1.dev20200820-py2.py3-none-any.whl": [
           "832f7ecd9080bb76e3109eff686dd181d9b8fac9db525268af61da01545e139e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.16.1.dev20200821": {
+      "wheels": {
+        "tensorflow_federated_nightly-0.16.1.dev20200821-py2.py3-none-any.whl": [
+          "239a936f5c80ad357812b427d59d3cdbecf19fd6075bf9a40179c8348305474d",
           "py2.py3"
         ]
       }
