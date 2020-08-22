@@ -1666,6 +1666,10 @@
     },
     "2.12.0": {
       "wheels": {
+        "antimony-2.12.0-py3-none-macosx_10_9_x86_64.whl": [
+          "d60e76956d94fa923c7ca19881b2b7185ca36a624669dc2fce3a7951d1afc617",
+          "py3"
+        ],
         "antimony-2.12.0-py3-none-win_amd64.whl": [
           "2496e0fb0fd1a64cf86e44e747d3b4594afdbc84a04c5666f0b5a0a5f1873e69",
           "py3"
@@ -25771,6 +25775,30 @@
           "3.7"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "ba5f311b10617c47e5e168c0541a6c70431fe6a3b34ca1164f4d175822a3518d",
+        "fractal_input-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "fractal_input-1.0.1-py2.py3-none-any.whl": [
+          "39b62fa6afc3602a1573cf272f4b9e1b417b452c45fab082912f185e11767a12",
+          "3.7"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "f258040079088e1522885a7798aaaff712ad8fd3c916938a14cab1bd62da50ad",
+        "fractal_input-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "fractal_input-1.0.2-py2.py3-none-any.whl": [
+          "9e24955b254a0686c826d62f58e622e37ba30f449bdcfbea7df2657d6e7e6bfb",
+          "3.7"
+        ]
+      }
     }
   },
   "franklab-mstaggedcuration": {
@@ -27988,6 +28016,14 @@
       "wheels": {
         "genomeworks_cuda_9_2-0.6.0.dev200820-cp36-none-any.whl": [
           "a3446b4006b25ba0c41abdcebb1c15d67f9f6fe66620d0be75f3ff4cb6b2bc97",
+          "cp36"
+        ]
+      }
+    },
+    "0.6.0.dev200821": {
+      "wheels": {
+        "genomeworks_cuda_9_2-0.6.0.dev200821-cp36-none-any.whl": [
+          "1412f251c55144ea2e03c0a0e68c44486364c5e733c4e400cfddc552a8ec7ce9",
           "cp36"
         ]
       }
@@ -33398,6 +33434,18 @@
       "wheels": {
         "hikari-2.0.0.dev70-py3-none-any.whl": [
           "31fed80c8127afe9cc9d809f5af49318032af57d67ac413ac3737e89f2dc82de",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev71": {
+      "sdist": [
+        "e3cf817cb36c01af061053d6062dc40fe459736f38369131da04e295bf701778",
+        "hikari-2.0.0.dev71.tar.gz"
+      ],
+      "wheels": {
+        "hikari-2.0.0.dev71-py3-none-any.whl": [
+          "5f9782073b743151b31904cc8e8c97b2f641fe22352006491c054b6e80f1056f",
           "py3"
         ]
       }
@@ -38824,6 +38872,18 @@
       "wheels": {
         "metno_locationforecast-0.0.1b3-py3-none-any.whl": [
           "3e045055d907d5314651804ee6734669a3e52a26647d1827599c87c8859337e9",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "03b140e1970bab945416d79769974d9f668775755419e0a26dd49cc6ee30fc37",
+        "metno-locationforecast-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "metno_locationforecast-1.0.0-py3-none-any.whl": [
+          "1e7f879d68843a7e31ad96e9ea7a337be2cdd7070bd109db9c1ac423796df9dd",
           "py3"
         ]
       }
@@ -46506,6 +46566,12 @@
       "sdist": [
         "0cd6f9d14127396589cd0c1020b5a681e55625424043235698e545e1c0479e15",
         "plottwist-0.0.18.tar.gz"
+      ]
+    },
+    "0.0.19": {
+      "sdist": [
+        "3d9b93c5bd7d28c8364e0c1570ce4f7f42f2ae91d55d7dbc2c1d812d36d41dce",
+        "plottwist-0.0.19.tar.gz"
       ]
     },
     "0.0.3": {
@@ -58044,14 +58110,26 @@
         ]
       }
     },
-    "0.4": {
+    "0.4.1": {
       "sdist": [
-        "8a0978054019c6c2eb629f80094da7d0fb42e05ed8ffdc32233ed26948efa1b7",
-        "sharepoint-rest-api-0.4.tar.gz"
+        "640455ce198851fe83e7545d47061f22f7e9b54a7d27f645fce1f68875da6252",
+        "sharepoint-rest-api-0.4.1.tar.gz"
       ],
       "wheels": {
-        "sharepoint_rest_api-0.4-py2.py3-none-any.whl": [
-          "70f2ef71f526fd422aeafc7325e4009a588f4cae45e9dfa703f0a80de8741271",
+        "sharepoint_rest_api-0.4.1-py2.py3-none-any.whl": [
+          "72001ffd910a84aa23ff215a1719390c3f3030ebabbbb0476b5c151f3dc7f53e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5": {
+      "sdist": [
+        "3fc95132e7acccf337c2c5a831d4c449c4519b9f706c576f08ec680e58549ac0",
+        "sharepoint-rest-api-0.5.tar.gz"
+      ],
+      "wheels": {
+        "sharepoint_rest_api-0.5-py2.py3-none-any.whl": [
+          "e4abe5e9f6fccf6ee0e987f21488e1737c2f343d64ff3028071e074c8202b13b",
           "py2.py3"
         ]
       }
