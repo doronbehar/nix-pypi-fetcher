@@ -449,6 +449,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "15a60077e3200e1f3129561a92d5c3a41f337b7cd9cf5a873604f255a2f05117",
+        "ae_enaml_app-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "ae_enaml_app-0.0.5-py3-none-any.whl": [
+          "2c44f176c494de70cf692b5ea0ec61632db8a05f1f5994b7b40b1dde53534a83",
+          "py3"
+        ]
+      }
     }
   },
   "agt": {
@@ -25276,6 +25288,18 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "5d17cd1436fff10d3503922e38cd740dd198893cb9d3b37d1e4ced1aedcd8932",
+        "google-yubikey-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "google_yubikey-0.4.10-py3-none-any.whl": [
+          "d89b40eaea63e26cfbd80fc35a6dfbecfd2cbc8040d88fadfc76ff98f0051899",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "110a4109eeafdd299eaf594ee89d41cdd2836450f9f9ac6304dce4c28eadd305",
@@ -25344,6 +25368,30 @@
       "wheels": {
         "google_yubikey-0.4.7-py3-none-any.whl": [
           "d032c1bd3441a0eea6730c0cdf5788eae29eebcd824fabc93b22ef9f32405b10",
+          "py3"
+        ]
+      }
+    },
+    "0.4.8": {
+      "sdist": [
+        "a73912216de4a2a6ce1a5fe96a61d69461deef6b1e6a25df5bbff65f09661a71",
+        "google-yubikey-0.4.8.tar.gz"
+      ],
+      "wheels": {
+        "google_yubikey-0.4.8-py3-none-any.whl": [
+          "4487456fa8f607989ce3893ef80a8fcd740a7daf44fe642c71d0672ec9b50a45",
+          "py3"
+        ]
+      }
+    },
+    "0.4.9": {
+      "sdist": [
+        "9b31fda2617377be9ede995acb03b4b3f5442e8a636f93f12e02053ffacda899",
+        "google-yubikey-0.4.9.tar.gz"
+      ],
+      "wheels": {
+        "google_yubikey-0.4.9-py3-none-any.whl": [
+          "e18e0e7d614413f0fc3219695e9681cc115bdc61e8644df0c757aba6260928e7",
           "py3"
         ]
       }
@@ -69430,12 +69478,20 @@
           "b1de6f255caaa1c353fa6a02881319d0967dfad578cd1980edef04488c20bee1",
           "cp36"
         ],
+        "taichi-0.6.28-cp36-cp36m-manylinux1_x86_64.whl": [
+          "88467170c1ffcc30e7842bd5fae845d96535178eea16f4abf17537668c39b579",
+          "cp36"
+        ],
         "taichi-0.6.28-cp36-cp36m-win_amd64.whl": [
           "d096e2e1495247b6737a3af9d9e53f79c745722fa65366c43fca9ecad36e6b39",
           "cp36"
         ],
         "taichi-0.6.28-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "80f25217e7719be2da92f448c6e29af66513575730a399511586bafdb4146be6",
+          "cp37"
+        ],
+        "taichi-0.6.28-cp37-cp37m-manylinux1_x86_64.whl": [
+          "532999026149ca7641a647ee864eb9a1ab940f50d9885847afb05faf2ba00f1f",
           "cp37"
         ],
         "taichi-0.6.28-cp37-cp37m-win_amd64.whl": [
@@ -69446,8 +69502,40 @@
           "aeb2e27d296ec6b037df881c57a0b285aabc96c3ab7c287dc2b75f23bf4d2b4b",
           "cp38"
         ],
+        "taichi-0.6.28-cp38-cp38-manylinux1_x86_64.whl": [
+          "42d4b7da9a04c82d65d4f78f3f58222c4201460ce08e5b24e5fcb1526512f59a",
+          "cp38"
+        ],
         "taichi-0.6.28-cp38-cp38-win_amd64.whl": [
           "63949177824331c00d32a48679eb47e878797d49583ecccf7086c8270f5308a0",
+          "cp38"
+        ]
+      }
+    },
+    "0.6.29": {
+      "wheels": {
+        "taichi-0.6.29-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "b85f0cbf8bec6a6d837707268a900e54a4bb3594a10bcb9662752cfaa52fa586",
+          "cp36"
+        ],
+        "taichi-0.6.29-cp36-cp36m-win_amd64.whl": [
+          "20a6a6e2f1d39101fa01d454cf82ddd4b99f5366365a4b020f0cf185f0e94db5",
+          "cp36"
+        ],
+        "taichi-0.6.29-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "8179b8452626c5c98ab535e47afa653e915d07ca0a6ea5c1ee28bd4595681088",
+          "cp37"
+        ],
+        "taichi-0.6.29-cp37-cp37m-win_amd64.whl": [
+          "4e9b1ea7f489a02cdd89b4481a33a79ed2d4c947e993ed4d0f08934bbf6e00d0",
+          "cp37"
+        ],
+        "taichi-0.6.29-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "554019e65f149700a96fc17bbb9e0b9700433930737a04219a3620b5dd6876b9",
+          "cp38"
+        ],
+        "taichi-0.6.29-cp38-cp38-win_amd64.whl": [
+          "d656ab9858604a950f56e236000bc652bb423f3542c560d1006660b434c0845a",
           "cp38"
         ]
       }
@@ -72204,8 +72292,16 @@
           "b9cc30de52c9086c642c9b51d0c427baf6510a64415b02f4b04379f5c7c89743",
           "cp35"
         ],
+        "tf_nightly_gpu-2.4.0.dev20200822-cp35-cp35m-win_amd64.whl": [
+          "143ec59c05d4e62a3a914518a0cc0598a6215b5f8171559db696769d568b2b43",
+          "cp35"
+        ],
         "tf_nightly_gpu-2.4.0.dev20200822-cp36-cp36m-manylinux2010_x86_64.whl": [
           "a5d3e328ad45a2f44dd695124a76efb2c41f449590d658162cab755b13176a50",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200822-cp36-cp36m-win_amd64.whl": [
+          "7936d11fb811cf79603bd4edb9086fd31e0ba3fcc8388cc9ca3ac80a31ffb1ba",
           "cp36"
         ],
         "tf_nightly_gpu-2.4.0.dev20200822-cp37-cp37m-manylinux2010_x86_64.whl": [
@@ -72214,6 +72310,10 @@
         ],
         "tf_nightly_gpu-2.4.0.dev20200822-cp38-cp38-manylinux2010_x86_64.whl": [
           "48d80da377deca10c5b8901b6d54b4b87371d5b8453492c65dfbc4948e8551cc",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20200822-cp38-cp38-win_amd64.whl": [
+          "548e07536680847d635964a82ad53faf0d2db38deb4d55c4f936f6dbc688364b",
           "cp38"
         ]
       }
