@@ -4871,6 +4871,18 @@
           "py3"
         ]
       }
+    },
+    "1.60.0": {
+      "sdist": [
+        "8e42f2c7219cbc5896d59f5afdfcd2901372fe70a4033205cbd55e618a0795df",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.60.0-py3-none-any.whl": [
+          "08d1de73ec8d8eb320f9bceca52b7fb6e5fedfba9611e82827c6e088d5933fe6",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawsautoscalinghooktargets": {
@@ -29742,6 +29754,12 @@
         "large-image-tasks-1.2.1.dev12.tar.gz"
       ]
     },
+    "1.2.1.dev14": {
+      "sdist": [
+        "7c90785c3e450a311248c9ee7d4ca3bbfb3e869dbca118107b23d79c980b0cd6",
+        "large-image-tasks-1.2.1.dev14.tar.gz"
+      ]
+    },
     "1.2.1.dev2": {
       "sdist": [
         "051705042074b67c30ce79cba1decb7e0cb057a86b759d5ddce7b9ed3a5f4cc2",
@@ -40488,6 +40506,18 @@
         ]
       }
     },
+    "1.14.48.0": {
+      "sdist": [
+        "b319a6bdc078cd48c231bb171b0e4fd8523bfd6a0d4219ac5fa82199bd770d80",
+        "mypy-boto3-amplify-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.14.48.0-py3-none-any.whl": [
+          "d80bf0f52d5b5ebda4f9c891fe00829076a1cb656cf1057ae13f772abd25162e",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "fbed44043f42ff5c311f877d6802ac4599de2b0e4a973f47a09ada23724e7b14",
@@ -42274,6 +42304,18 @@
         ]
       }
     },
+    "1.14.48.0": {
+      "sdist": [
+        "52d9d90934e02cb3260b9b3ee9db05fd3d3f7af2adaaf23ca8b91861f6c05052",
+        "mypy-boto3-elb-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.14.48.0-py3-none-any.whl": [
+          "62d125a91be7f8347660449104bf81a25b40c8a5fce0559c992a64143ac9e49c",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "7976dad405a4ea9c3fff0b7a033a7388e2b5a5e33520f236317933e4dae80b36",
@@ -44048,6 +44090,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.14.47.0-py3-none-any.whl": [
           "9de1f4280c6b075b2034e243fa12f935d6629ba5dfbb3c70acf347c1fadd437a",
+          "py3"
+        ]
+      }
+    },
+    "1.14.48.0": {
+      "sdist": [
+        "569e850856083eb64a44ffa6460b0900edef9d02de13561dad974698f04230fa",
+        "mypy-boto3-meteringmarketplace-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.14.48.0-py3-none-any.whl": [
+          "293018239ea31a5a9088194145840b51d0708588a702c4db2891b660a8a4d085",
           "py3"
         ]
       }
@@ -68303,14 +68357,6 @@
       ]
     }
   },
-  "smtp-health-check": {
-    "0.1.0": {
-      "sdist": [
-        "db0cd1dca5e3d592d0d97efa58a12a2228b1f2bf5ece7388a32beded4d2da506",
-        "smtp-health-check-0.1.0.tar.gz"
-      ]
-    }
-  },
   "snmpdesk": {
     "0.0.7": {
       "sdist": [
@@ -69132,6 +69178,12 @@
       "sdist": [
         "682e7a41ef80c00dc7cc5a54c9f86ba4126484522034fa285cbb413550a624df",
         "Spinmob-3.4.11.tar.gz"
+      ]
+    },
+    "3.4.12": {
+      "sdist": [
+        "546408728b924f9b0e9cd3626d3a320e4af021414afb5561f65f1ed51565dcb4",
+        "Spinmob-3.4.12.tar.gz"
       ]
     },
     "3.4.2": {
@@ -76910,12 +76962,20 @@
           "25912007144567fd2400e6b5726dd4a7b51f02778d0011c9b02f20d6f1aa5942",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200824-cp35-cp35m-win_amd64.whl": [
+          "991ac296c480cef45ab5c0c4af8f8f2dadcc1275d91229176a3e1c06af02df04",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200824-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "a6453fbe1587cea1bf3803e9ad76966d072aa75cf30935f7d90222dfc6a88f21",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200824-cp36-cp36m-manylinux2010_x86_64.whl": [
           "db54b37bbd398cfb19fc941bdf0dac647a15942b42283e0e92a91044020a2ff3",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200824-cp36-cp36m-win_amd64.whl": [
+          "ca863a5233247d86616782feef41a1280c6f36b3922e2406ea03259d2fbb3d89",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20200824-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -76926,12 +76986,20 @@
           "911c7af5c792970a022cac1c752f44f935e3850b062084a2fc40d04f2a682d48",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200824-cp37-cp37m-win_amd64.whl": [
+          "745bd9d30cd63e90d63924f430cf80a32b2ff6829316db691fab599e32b03fe4",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200824-cp38-cp38-macosx_10_14_x86_64.whl": [
           "2e24e54bc8339085e3730bb085f0add7f55b3964d2dd9ddb51ab2ca2f00bb5a0",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20200824-cp38-cp38-manylinux2010_x86_64.whl": [
           "12316e38a084ab144f4944257bb99fde4ccae7719eff09a3819e49221d207f4b",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200824-cp38-cp38-win_amd64.whl": [
+          "a4e97c6eeeb8a163d9481ae8d71db796110df0e12dfe7ad219248f5829a27538",
           "cp38"
         ]
       }
@@ -82970,6 +83038,18 @@
       "wheels": {
         "wwpdb.utils.ws_utils-0.3-py2.py3-none-any.whl": [
           "cadfa5810bbbb88fc4e35e86f461c71a85f26c946d02bc5da016204cc08d2470",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "c64b602429615eb882ef0316909280c204db2f0039ca595a7a201bf4ca37a21a",
+        "wwpdb.utils.ws_utils-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "wwpdb.utils.ws_utils-0.3.1-py2.py3-none-any.whl": [
+          "6d675fb2e78af0d697ce7446516e85d1b9f80a4aa84cf06bc8aed8b6f2f831ff",
           "py2.py3"
         ]
       }

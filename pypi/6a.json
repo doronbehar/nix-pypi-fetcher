@@ -5863,6 +5863,16 @@
       ]
     }
   },
+  "ch-rest-interface": {
+    "0.0.1": {
+      "wheels": {
+        "ch_rest_interface-0.0.1-py3-none-any.whl": [
+          "1ae04f171b7616462a85ee9cdcae46c1d320b9c9c912fa03b5f895fa0460d911",
+          "py3"
+        ]
+      }
+    }
+  },
   "chainer-hajo": {
     "0.1": {
       "sdist": [
@@ -34810,6 +34820,18 @@
         ]
       }
     },
+    "1.14.48.0": {
+      "sdist": [
+        "7e777c8bb232b97fa1ec83ca750101955b30d870e061ee505ce184fba24df3c8",
+        "mypy-boto3-kinesis-video-archived-media-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesis_video_archived_media-1.14.48.0-py3-none-any.whl": [
+          "d5074121a3eae879397705f3a7811e72236acc2df3d2e8b8f476ba40e47d6c4a",
+          "py3"
+        ]
+      }
+    },
     "1.14.5.0": {
       "sdist": [
         "707712455c7dc3a9fb6bb393780e2302e8c211c06da4d74cccb32cbdb356849d",
@@ -44436,10 +44458,6 @@
           "3bb18cca0e9f78b5f4fdc62c52f0bf3a8298a0d5344a4a9ba5b9773292cf9514",
           "cp37"
         ],
-        "pybalu-0.2.6-cp37-cp37m-win_amd64.whl": [
-          "1d85eac5043537ed9c9526e028feecbe7f41a6bb643c0cd57835a675fcf26c2d",
-          "cp37"
-        ],
         "pybalu-0.2.6-cp38-cp38-manylinux1_x86_64.whl": [
           "b842fe969599639cdd716b007e875a53482bb3c683855f9f108f6d8148cca882",
           "cp38"
@@ -44454,6 +44472,118 @@
         ],
         "pybalu-0.2.6-cp38-cp38-win_amd64.whl": [
           "2a040c5b6e3eb5013c4e03eef0367cd3adb4c597616ae45979b3631ad49b19f2",
+          "cp38"
+        ],
+        "pybalu-0.2.7-cp37-cp37m-win_amd64.whl": [
+          "d806e0b852f1b7cf911c98f154465f0ab79b33c49958514cef23402e81401875",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.7": {
+      "wheels": {
+        "pybalu-0.2.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "97fc62bda5d4131f772c510eeed56b064b9e830baa7f1f5a734f98dcd9191fac",
+          "cp36"
+        ],
+        "pybalu-0.2.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "768975003c7ef1e150b0659dc18257be769d00ff1b2580c7ff5a91145b8e215c",
+          "cp36"
+        ],
+        "pybalu-0.2.7-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ef517e3eaddefd715730b39e6c951c3190560e120be68fe8ef402241d9385f1c",
+          "cp36"
+        ],
+        "pybalu-0.2.7-cp36-cp36m-win32.whl": [
+          "cdef9a7540e14ba0779c9eb82e658e40e75798db1a3ab2a21a60cc9eed1bc8a1",
+          "cp36"
+        ],
+        "pybalu-0.2.7-cp36-cp36m-win_amd64.whl": [
+          "0881c17d4d168983337b027cd6f0c518d21285a9e1d29de209635ca68e9ac92e",
+          "cp36"
+        ],
+        "pybalu-0.2.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "093e7b439af901efac4df859eaedd93a4b97b77e9b18f40d6d344cb3afa18eea",
+          "cp37"
+        ],
+        "pybalu-0.2.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "14ef12583ce2cc8c262b85bb17c0c01413277b0796fed4194e9f3967db06ef80",
+          "cp37"
+        ],
+        "pybalu-0.2.7-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a3100e130b9d2e5701111c8b94b6f6b972729050b65e753e58f475c575330764",
+          "cp37"
+        ],
+        "pybalu-0.2.7-cp37-cp37m-win32.whl": [
+          "6d8ccaf56c5961f0004e53bff9ab797b6f1024e797c03370e56e686ace35fdf0",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.8": {
+      "sdist": [
+        "ff3ae259c60c87ac4513e272636e38dd53233724c01fd1566230f78a0a2a7ac5",
+        "pybalu-0.2.8.tar.gz"
+      ],
+      "wheels": {
+        "pybalu-0.2.8-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "6c2c23c0e488ac79fad4561e24947b13af4ed9317e7128bac88fba4624eb1c05",
+          "cp36"
+        ],
+        "pybalu-0.2.8-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b3a45d695d4add70036d05af56c8640f6b933a7d176ab9317ab655100ac6ab02",
+          "cp36"
+        ],
+        "pybalu-0.2.8-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "8293bfae7e9fb8cf5df6395b7654a86f5c688d55f87ec2e159e89e7d7dd2134c",
+          "cp36"
+        ],
+        "pybalu-0.2.8-cp36-cp36m-win32.whl": [
+          "5074c2ba08733c9c1e875b7b89e0912109e930c3e502e7f9ea4c62f67b269841",
+          "cp36"
+        ],
+        "pybalu-0.2.8-cp36-cp36m-win_amd64.whl": [
+          "85b3dd9401a29155026a89bd4c02312fa87b2038dd3cbc3d66d121d5ccce0ed1",
+          "cp36"
+        ],
+        "pybalu-0.2.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "696f5c873f2d74f8cfd28cf4f3f6bbe1bcbdebf2b181f1ea53576e2f740790ed",
+          "cp37"
+        ],
+        "pybalu-0.2.8-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d531f4fe96cdf6671f0d0c56870e72bb0b668e911d20a13b09210ff2eb4fd997",
+          "cp37"
+        ],
+        "pybalu-0.2.8-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a1f688099b8eab30bc76c41f1bb8511ffe13300ea3804a2b6e743776ec176b7f",
+          "cp37"
+        ],
+        "pybalu-0.2.8-cp37-cp37m-win32.whl": [
+          "bb3852c198e0af4aa0284c69fa8c66c087da593a6e5420e3836d5a890174a5e3",
+          "cp37"
+        ],
+        "pybalu-0.2.8-cp37-cp37m-win_amd64.whl": [
+          "66d66ab81f457218edf851401092b7fb6940d55c82194eae665735bcfc180853",
+          "cp37"
+        ],
+        "pybalu-0.2.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "113bb6051a3f581835ddb267317728cf2f70eb2f20c74c0f7461c4a97ad5b1cc",
+          "cp38"
+        ],
+        "pybalu-0.2.8-cp38-cp38-manylinux1_x86_64.whl": [
+          "99632ab0e9a5235fa0d53ce46e404d558e457c68beedee032f02dd053806f0f3",
+          "cp38"
+        ],
+        "pybalu-0.2.8-cp38-cp38-manylinux2010_x86_64.whl": [
+          "8094ff6f7da925758d02d048c6d05f58f1e3cd6a34ae747245ac3e24d283e4d2",
+          "cp38"
+        ],
+        "pybalu-0.2.8-cp38-cp38-win32.whl": [
+          "a6704e3b0cf475d16aa0c3ca1b22d2ff5c24615c4c8bd03b0c6dcb2fd9f62395",
+          "cp38"
+        ],
+        "pybalu-0.2.8-cp38-cp38-win_amd64.whl": [
+          "f8eac776e6920eecd4e966718158f46f215f909fc05cb7fa35532af5632b2fa0",
           "cp38"
         ]
       }
@@ -52836,6 +52966,12 @@
       "sdist": [
         "58c3a570c4d860131367f6ed46c78b411501dfd562d2c33512f105c87486f963",
         "rio-tiler-2.0b7.tar.gz"
+      ]
+    },
+    "2.0b8": {
+      "sdist": [
+        "d28782d3a63ec473dbd399828946bc9760e4f652e8b9cc6693fb19d821abd500",
+        "rio-tiler-2.0b8.tar.gz"
       ]
     }
   },

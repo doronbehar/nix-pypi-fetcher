@@ -2417,6 +2417,18 @@
           "py3"
         ]
       }
+    },
+    "1.60.0": {
+      "sdist": [
+        "c406a28a3ec390c95528efa0768d4df2c71a75e14cfa43ab515998456504ff3c",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-1.60.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-1.60.0-py3-none-any.whl": [
+          "3f12d1683bd560cbe9cca41cf03c3a3e6b398c2c5e8a5af7c7636691ffc151cb",
+          "py3"
+        ]
+      }
     }
   },
   "aws-ssh-proxy": {
@@ -4960,6 +4972,90 @@
         ],
         "BSBolt-1.3.1-cp38-cp38-manylinux2010_x86_64.whl": [
           "6fe535755fa8a375b2291826a6d3ac9281e91c0d37b00ed7a456340a7ebad612",
+          "cp38"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "816a68c1042951fe5ddb2ac7abd72c2286c528a49ebe0d9fcf8fd4a5d52c5391",
+        "BSBolt-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "BSBolt-1.3.2-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "2dedefe16f8fdbc885eb13942b20c8cc7fa7a30f6346a79f2acf8f5371569114",
+          "cp36"
+        ],
+        "BSBolt-1.3.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ae07256c3baead416185a58ffacbd2286384a72a0eea01852ae76c5bc8abbb73",
+          "cp36"
+        ],
+        "BSBolt-1.3.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "15f7e818575c9e7bd2b25270b62e1342410e852ed5de118b37cb594b8dd2d2cb",
+          "cp37"
+        ],
+        "BSBolt-1.3.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a33283b71435e1d61128fcd64ffeae74e142c644bb48efb818370cff1c513204",
+          "cp37"
+        ],
+        "BSBolt-1.3.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "dcc9416ed3529902aba5660270943d25ab353f307fd4ec5d7a5747b91dd45ea2",
+          "cp38"
+        ],
+        "BSBolt-1.3.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "141a8a56b16dbdb778823f82306dde8f6138a077b73cbe3935e7466cf673b084",
+          "cp38"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "e89309ce5a0a1b83e75e5e103a7851a4c4ce13478f45d75b7ceb25d10f73d2ee",
+        "BSBolt-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "BSBolt-1.3.3-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "ede52fd659709e9e5cc6e3f0057b8b90c0daf1d2a823b5a7c825798136855ae3",
+          "cp36"
+        ],
+        "BSBolt-1.3.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "829bfc457c56de70ab6a67e5703a34172a7ed9b356e4880f6e3749da7828aff4",
+          "cp36"
+        ],
+        "BSBolt-1.3.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "f146e56d84d6f911cd080364e089cab50581bace44ad7dfa697161b1d052c46f",
+          "cp37"
+        ],
+        "BSBolt-1.3.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "845e52a8583424dba4adb8d0f48505176eed083e7d5ef5d97921b95dffc4c7ff",
+          "cp37"
+        ],
+        "BSBolt-1.3.3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "11eedc52776b235dcf7ec423b0f83bee3706c72e7b8f5fd5685e49e74d4ae3a7",
+          "cp38"
+        ],
+        "BSBolt-1.3.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "7cb3a4a2779430dcb51776d4789f37357728eb77ad609be5111ff69069ebdeb8",
+          "cp38"
+        ]
+      }
+    },
+    "1.3.4": {
+      "sdist": [
+        "fc4660506c2698f9b804fc6956b22ed9ac53d4c390008e7211b10b5a1f38855e",
+        "BSBolt-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "BSBolt-1.3.4-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "300e177ef886c97847dd17a333367a5172e0a6f10adc1e758507046c0138b98b",
+          "cp36"
+        ],
+        "BSBolt-1.3.4-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9701d0ecfc7d8a9aa3474adeee6b503812f2688d6b8cb08186e95a22420d91a6",
+          "cp37"
+        ],
+        "BSBolt-1.3.4-cp38-cp38-manylinux2010_x86_64.whl": [
+          "fb053853b2f931aa383e7fe898167aff8ced1c8da44c547ef9fa46d29906bee0",
           "cp38"
         ]
       }
@@ -34784,6 +34880,18 @@
       "wheels": {
         "mypy_boto3_personalize_events-1.14.47.0-py3-none-any.whl": [
           "9909ab4fc462826795cb38056224a904aa95092f5d5ba653930861f4670b2214",
+          "py3"
+        ]
+      }
+    },
+    "1.14.48.0": {
+      "sdist": [
+        "312460d729dfead4324e6b85e0551592e237f81caddd0c906e26c3f02c13189d",
+        "mypy-boto3-personalize-events-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.14.48.0-py3-none-any.whl": [
+          "3c3373a66a32ed5b29f80a5c849760a2c8be06341ed294cc34a6592241aa5cf7",
           "py3"
         ]
       }

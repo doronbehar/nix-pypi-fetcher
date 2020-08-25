@@ -5941,6 +5941,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.8": {
+      "sdist": [
+        "37325c5e3237f1a3d38cf2037d66503522886cd605e507e7936a01fd4d40bec8",
+        "b_rabbit-1.1.8.tar.gz"
+      ],
+      "wheels": {
+        "b_rabbit-1.1.8-py2.py3-none-any.whl": [
+          "a407b1ea08c4775b403c3f593a19c2accd832b63c46ef54e19f57de277513635",
+          "py2.py3"
+        ]
+      }
     }
   },
   "backports.pbkdf2": {
@@ -25696,6 +25708,18 @@
         ]
       }
     },
+    "1.0.21.dev20200824": {
+      "sdist": [
+        "02405a5c8d6e2a13d0068b248b9c45517b54d97fedb06a3093f99814b2716d8d",
+        "getitfixed-1.0.21.dev20200824.tar.gz"
+      ],
+      "wheels": {
+        "getitfixed-1.0.21.dev20200824-py2.py3-none-any.whl": [
+          "546d190dbac43241488fa3d2637448271f52b7321bb015d10b9cd5b4258ecde8",
+          "3.7"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "89a2c41e563059779a9a4cdf16bd27a232eae23eed92840b642b79da4ad19932",
@@ -32975,6 +32999,12 @@
         "2ac4b3e2b0306d22fe97a5dfed69e22fa85edcfc5734b4cf499c303c377dada5",
         "libredte-3.0.1.tar.gz"
       ]
+    },
+    "3.0.2": {
+      "sdist": [
+        "78f13107b0acd8888cccefbbaef7481915182c2b35fee235ef24875c503e7a07",
+        "libredte-3.0.2.tar.gz"
+      ]
     }
   },
   "libsrcvdmtl": {
@@ -37174,11 +37204,15 @@
         ]
       }
     },
-    "9.19.0": {
+    "9.19.1": {
+      "sdist": [
+        "e336c165d59d0d0b4be83523a706a8ee3b9e767971077b424aa0acd9ddbabdc8",
+        "money-to-prisoners-common-9.19.1.tar.gz"
+      ],
       "wheels": {
-        "money_to_prisoners_common-9.19.0-py3-none-any.whl": [
-          "af124bc7760b77b6d376f9232a6ad043fdceb2533316e9a4cd3260d7fc81bf2c",
-          "py3"
+        "money_to_prisoners_common-9.19.1-py3-none-any.whl": [
+          "8201eb15f5f886d158b9e699b283c37078ca25c4249bf0e3f13f111e582e9e1e",
+          "3.6"
         ]
       }
     },
@@ -41302,6 +41336,18 @@
       "wheels": {
         "mypy_boto3_snowball-1.14.47.0-py3-none-any.whl": [
           "ad8c5ce545d67d19e6d8a8f5a7e18b0c9ae14db0134801091a9b117581503f40",
+          "py3"
+        ]
+      }
+    },
+    "1.14.48.0": {
+      "sdist": [
+        "affeecdf9e19ee1ff6991ea8937401cdfdc255fbd8469c69cc279de3af05303c",
+        "mypy-boto3-snowball-1.14.48.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_snowball-1.14.48.0-py3-none-any.whl": [
+          "81d39705694b5c7660bd5be8ccca79068fb27d2ac562266d85f6ed624537b0c6",
           "py3"
         ]
       }
@@ -46453,6 +46499,20 @@
         "598ea42b2132fa0db3760eb39877c20836c72d34c91937d800fb953ea8baabae",
         "onepy-0.2.1.zip"
       ]
+    }
+  },
+  "ontodev-gizmos": {
+    "0.0.1": {
+      "sdist": [
+        "c20fe022c27073919ea0a983091f6dbd102b03477f4596e9cfcdd6a0f36a8683",
+        "ontodev-gizmos-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ontodev_gizmos-0.0.1-py3-none-any.whl": [
+          "19f2b8f2b18ab9fc047d6603685005c4b9e693056a9797d46464646126c9afe1",
+          "py3"
+        ]
+      }
     }
   },
   "open-waters": {
@@ -57649,6 +57709,26 @@
       ]
     }
   },
+  "pyvcontrold": {
+    "0.0.2": {
+      "sdist": [
+        "63db35a644c837c85bdbe3479015de0a68776640d0e1e8a5f0bf25a76111d406",
+        "pyvcontrold-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "346d6f7158f24fb495e053c8b10eaf50199982b0698fb8e4500cb226e2388915",
+        "pyvcontrold-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "aec09432c84a958c4729a7919be528a80f855317687cc2afc0b5d54141246031",
+        "pyvcontrold-0.0.4.tar.gz"
+      ]
+    }
+  },
   "pyverilog-toolbox": {
     "0.0.0": {
       "sdist": [
@@ -64161,6 +64241,66 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "5ac148f27fdc9d2c9f8303a3f3f5da20b829ea07395f6e158cda0c7e8daa71c0",
+        "spartaquant-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "spartaquant-0.0.3-py3-none-any.whl": [
+          "ae14a93edb3adeeb21fa28ccba2a25ff855c30bc9a875a655c2bd43de6e2f8c1",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "35fd1dc392cb7df9a73152509ec679e56b7e4060bf5c7e77a357a148f35b1e91",
+        "spartaquant-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "spartaquant-0.0.4-py3-none-any.whl": [
+          "dce6dde1fe475668f367296e653d1d88383fb6b652ac1bf052d87d92e81c2703",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "f25efed2ac4cbbe4409ed353fe7401b255373904869b6b7bd1e63e182334c0af",
+        "spartaquant-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "spartaquant-0.0.5-py3-none-any.whl": [
+          "9a8cce9f2e86eb3233d504cab0ff06224df50ddae8ee8fb0d41bb90993322bc4",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "5873a7c2fcfcc207e16d3b8d4a459db13a434726e9480bd192a0e4bf65d203c7",
+        "spartaquant-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "spartaquant-0.0.6-py3-none-any.whl": [
+          "81b66aab7599234161c2db4a80b1b4c38a1f1159f4fbdcf490b3dc09c403ca0c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "5f95fba3a5234be478a27d493a64cf5e92bc91b41423417fb8d23be25a1e725b",
+        "spartaquant-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "spartaquant-0.0.7-py3-none-any.whl": [
+          "76da6dfb4e30166c39a5fcbdcd25da5b0563e6ff47fce250b4c03f970ee9f536",
+          "py3"
+        ]
+      }
     }
   },
   "spflow": {
@@ -68214,6 +68354,18 @@
       "wheels": {
         "thoth_messaging-0.6.5-py3-none-any.whl": [
           "c174f587c53f0584aff5d778a79bbf6f0ca8e2e8aa54268563ca18344b1f95ee",
+          "py3"
+        ]
+      }
+    },
+    "0.6.6": {
+      "sdist": [
+        "26a646c56db943f182d9872b5f3444874a9972a7f48a6ee45fd10a2438e752a1",
+        "thoth-messaging-0.6.6.tar.gz"
+      ],
+      "wheels": {
+        "thoth_messaging-0.6.6-py3-none-any.whl": [
+          "b83e26f34ee53c9d4eee3e2e453cc06ba40105c620503943c07aa11cc266a1f9",
           "py3"
         ]
       }

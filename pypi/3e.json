@@ -27777,6 +27777,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0.dev20200824": {
+      "sdist": [
+        "96e1ef6f4215a1e159c3a056cc15d2e144371fd861c7eac17666fda4fc56190a",
+        "flwr-nightly-0.6.0.dev20200824.tar.gz"
+      ],
+      "wheels": {
+        "flwr_nightly-0.6.0.dev20200824-py3-none-any.whl": [
+          "4ed2719b1c7c44cb1d27826befc491cc0673f3169c23e64c785318ca395d2b90",
+          "py3"
+        ]
+      }
     }
   },
   "forgettable": {
@@ -28761,6 +28773,20 @@
         "801ae69cacb4e811db5a0a680973e013403c73ec769732a43752f1abb757fc98",
         "gcloudaiostorage-0.1.1.tar.gz"
       ]
+    }
+  },
+  "gcp-oidc": {
+    "0.0.2": {
+      "sdist": [
+        "fe57d4e8b30f408b7c33579581ea0564c9ecae663206941f763f66b6ca5c2582",
+        "gcp-oidc-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "gcp_oidc-0.0.2-py3-none-any.whl": [
+          "a376c90caaee68177f4b1bfcc4ca7cc3934c7a6f2c3a4ec97811bf6e8aa93605",
+          "py3"
+        ]
+      }
     }
   },
   "gdal-build-debug": {
@@ -31032,6 +31058,20 @@
       "wheels": {
         "Ion_networks-2.0.200821-py3-none-any.whl": [
           "e76c12d5f25879e70f9b38611e74ebe1ac3b10c3d3ad9668502c4787d8ba1e75",
+          "py3"
+        ]
+      }
+    }
+  },
+  "ipyradiant": {
+    "0.1.0": {
+      "sdist": [
+        "b65c90d3f2aa335a6ae10d336dcd2d0f94e65763fb4ddc572ca857cb55213f4e",
+        "ipyradiant-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ipyradiant-0.1.0-py3-none-any.whl": [
+          "429377b22e28c0395ef2134f2d7d4fbf62314fbf91d4ef0643c79fa1d973f48c",
           "py3"
         ]
       }
@@ -47941,6 +47981,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.2": {
+      "sdist": [
+        "4fa35921e35cc7b88a0673dfc3f58a8ead147e8ffd0317d60577c3798fcdf5aa",
+        "PyArtifactory-1.7.2.tar.gz"
+      ],
+      "wheels": {
+        "PyArtifactory-1.7.2-py3-none-any.whl": [
+          "501c6c12ade8037d7e2c4336ebc07fb4c4976d055416031805ebf29c6bcc48ad",
+          "py3"
+        ]
+      }
     }
   },
   "pyateos": {
@@ -51896,20 +51948,6 @@
       "sdist": [
         "39789d6a37f1d1201c7eb24da87c7d5e1f84a4cf4158fb5db31617947816014b",
         "python-recode-0.1.tar.gz"
-      ]
-    }
-  },
-  "python-slimta-maildrop": {
-    "0.1.0": {
-      "sdist": [
-        "3af4d76be7d00d8f58bb6ee9805a0745c3315f1ffec1d821f363d7aa873b3a9d",
-        "python-slimta-maildrop-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "02e8fe525f068f58fb8ea89e6f493f720375aa3c433440ea901d954d322ad239",
-        "python-slimta-maildrop-0.1.1.tar.gz"
       ]
     }
   },
@@ -60918,50 +60956,14 @@
     }
   },
   "sql-database-service": {
-    "0.0.1": {
+    "0.0.5": {
       "sdist": [
-        "1ec1f0166747e53b7529347effcdd01d0d6e3434746f154f6b4e0dde3f30c2fa",
-        "sql-database-service-0.0.1.tar.gz"
+        "627d1e18c85cb27e1656d9a0fa5e776ddeb16869f26865858d85b5805726c07c",
+        "sql-database-service-0.0.5.tar.gz"
       ],
       "wheels": {
-        "sql_database_service-0.0.1-py3-none-any.whl": [
-          "a0aeb94098988eef88e4908bd57d97550739b579a6ea415e75b55c2daaa0bc4b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "dc283a7f3a786b7aa5d64d3b9b29162c1bd5a3ecf1958c2210298c6683bed0eb",
-        "sql-database-service-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "sql_database_service-0.0.2-py3-none-any.whl": [
-          "60cb01a1c57d35929fa190650300032d75acc868dadab27fb5ae817a6db3ad83",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "f5f5aac12662d9af3340626fcb71f896771d31f416f6b457455a71d8e1d0df4d",
-        "sql-database-service-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "sql_database_service-0.0.3-py3-none-any.whl": [
-          "b5f488d1d0b89395a8f72e86dd07478ab2db576536508bf6a5465e823a64d84e",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "045e260119a146cb368bcb43c3f541bf1ec720ddeb864a6521b03690b7537c9c",
-        "sql-database-service-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "sql_database_service-0.0.4-py3-none-any.whl": [
-          "d7d7c5ff188e9224ec5e9373ce23fef2e033875b0d6680562062f3dd89ffacc2",
+        "sql_database_service-0.0.5-py3-none-any.whl": [
+          "29e896261c26eb639073eec24327bb3758d7b3d4b05710c2b60c76f5c68c6db1",
           "py3"
         ]
       }
@@ -61277,6 +61279,12 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "e60dea0649059afe7128a4cc40fec58db8c810228a15a36465ee564b4e93a3a1",
+        "stackl-cli-0.2.0.tar.gz"
+      ]
     },
     "0.2.0rc1": {
       "sdist": [
