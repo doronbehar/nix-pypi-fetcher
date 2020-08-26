@@ -2109,6 +2109,22 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "wheels": {
+        "aos_provisioning-1.1.1-py3-none-any.whl": [
+          "e8123c818cbab76c87d907f8b203e45566c7507853e7b71c2a0db9e223fa2bc8",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "aos_provisioning-1.1.2-py3-none-any.whl": [
+          "fa57cd52fb5612a03f54d63cccfaf07791fb66ebb4dca728a455df03b31bc499",
+          "py3"
+        ]
+      }
     }
   },
   "apa102-gpiod": {
@@ -7448,6 +7464,12 @@
       "sdist": [
         "4f858571233b3d53e07a5a44acd8d0b5b72bbb5eb13fe7a271eec6e2aa1ada8f",
         "bluepyopt-1.9.55.tar.gz"
+      ]
+    },
+    "1.9.66": {
+      "sdist": [
+        "1bf18731bf21bee10c11afbb7d49b2d327da29cd32cf022fc934c6203ef8e3ea",
+        "bluepyopt-1.9.66.tar.gz"
       ]
     },
     "1.9.9": {
@@ -16734,6 +16756,18 @@
       "sdist": [
         "0883fee2c18290c7727602012dfa932f8a3be063c318059feda833fcb5c65254",
         "docassemble.webapp-1.1.62.tar.gz"
+      ]
+    },
+    "1.1.63": {
+      "sdist": [
+        "19927c4d3d09deabc24c470bcba39685bf52606015b9c7b972ea53c6e913fed1",
+        "docassemble.webapp-1.1.63.tar.gz"
+      ]
+    },
+    "1.1.64": {
+      "sdist": [
+        "75807cc48671cafc10bfdba63c31a23c56fc89fb598198d8f046fcff55ee7af6",
+        "docassemble.webapp-1.1.64.tar.gz"
       ]
     },
     "1.1.7": {
@@ -60119,6 +60153,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.4": {
+      "sdist": [
+        "b8166413ed707eaa8736c90d98dfd8869d1c6908c8f10690a18fa0061f6932a5",
+        "singa-auto-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "singa_auto-0.3.4-py2.py3-none-any.whl": [
+          "0748a2fda18bdd4f01c21ed0199f73eb928b757592a12b9d18983837a04f42c2",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sixtracktools": {
@@ -64417,17 +64463,89 @@
       }
     },
     "1.3": {
+      "sdist": [
+        "237ebc140d39fe1c09017464d923086ea494fee54380f6f7bf732bd702d21fa1",
+        "stripy-1.3.tar.gz"
+      ],
       "wheels": {
         "stripy-1.3-cp27-cp27m-macosx_10_14_x86_64.whl": [
           "4910e7918755361eb1fab8846a294b5a5bf3b9574555ae3921e52aa4a83b4c5a",
           "cp27"
         ],
+        "stripy-1.3-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "3f1aefd4ae6327418229e5ccfe2d50be9e7aecac93d72cf4b129587d88bc4f6c",
+          "cp27"
+        ],
+        "stripy-1.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c0b4272f91fbe97739941d57a160aa626d967a8041c642c9331a0b53dab1156e",
+          "cp36"
+        ],
+        "stripy-1.3-cp36-cp36m-win_amd64.whl": [
+          "9feaf455a7cfc2cb3f19dc9c81f1dcd531a61740ef47c93b6ec46c37e788ffff",
+          "cp36"
+        ],
         "stripy-1.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "ec8e50e097368f1db5321ce72ea9be9bf200450a8a4a21259f582fe9406d04b3",
           "cp37"
         ],
+        "stripy-1.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d495a14de450364d8fa762b96054a33e32d0e47bab53fa67df6ef03f7153aad2",
+          "cp37"
+        ],
+        "stripy-1.3-cp37-cp37m-win_amd64.whl": [
+          "034f9ec7580fbbdeb4b0fa46a398ed4563da72e1a4a4285fe62b4e59ac12786b",
+          "cp37"
+        ],
         "stripy-1.3-cp38-cp38-macosx_10_14_x86_64.whl": [
           "1f19cfcbd663f6bdfb5554b2586e9f211a3526b87eaee9810ce4d7ea2abcf273",
+          "cp38"
+        ],
+        "stripy-1.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "f7aa53e3edd4c81d44f87eee85c49b3721857425d39a8efa5787f7fd8f915e62",
+          "cp38"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "c1f39f441b3108bc1830c65611553a437154af27e9a484efcb189b3454eddcc7",
+        "stripy-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "stripy-2.0.2-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "96ce32a4667742f10b8f4633a9a0a78bc5cd7e4c87eb3c362b57c27eefa87736",
+          "cp27"
+        ],
+        "stripy-2.0.2-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "203d31611dd1401884cdcb1c87bf2c3877c9387a2d0a66d1f77799d23986a512",
+          "cp27"
+        ],
+        "stripy-2.0.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b59c78b98cc59a77f08dc05ac4403161b2f8a4fb31cffe00b7850ef17722dc4a",
+          "cp36"
+        ],
+        "stripy-2.0.2-cp36-cp36m-win_amd64.whl": [
+          "7c154000bce3632e576b2f8ede555bf46eb29213a625788cb3b6cdb03adefce2",
+          "cp36"
+        ],
+        "stripy-2.0.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "17c90bc7327e3b599384c03e35221447cdf6f99589e529db1484d5b9d7b2fa92",
+          "cp37"
+        ],
+        "stripy-2.0.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1f569932bb774fd8558cf5cc49ca57b05b9636cb1eb7cd97c6e89d5276d7a7fd",
+          "cp37"
+        ],
+        "stripy-2.0.2-cp37-cp37m-win_amd64.whl": [
+          "4af1b9bf1de34ddfbcc719e225f83fd532ed202ef6cd5d56f64fc3b11f0d7edf",
+          "cp37"
+        ],
+        "stripy-2.0.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ccd8430f6a61d26245493ae9e9bdee7901aad07ebb85f768db276ed99528ac15",
+          "cp38"
+        ],
+        "stripy-2.0.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "82503b83376696b266d40e9f36226a44c39bc6a284d04bf646d5e89216cd8666",
           "cp38"
         ]
       }
