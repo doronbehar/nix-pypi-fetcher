@@ -6645,6 +6645,18 @@
           "py3"
         ]
       }
+    },
+    "1.1": {
+      "sdist": [
+        "142f2dca14af151f0204adf3eb9e30d310fb954dd2280e422bf1381c661a06eb",
+        "codeswitch-1.1.tar.gz"
+      ],
+      "wheels": {
+        "codeswitch-1.1-py3-none-any.whl": [
+          "4bb98f5829041cc8106bef66d2003ed6278b48b7070de822573a0122648a6e83",
+          "py3"
+        ]
+      }
     }
   },
   "colasan": {
@@ -20255,44 +20267,6 @@
       }
     }
   },
-  "kafka-utils-wrapper": {
-    "0.1": {
-      "sdist": [
-        "bab49cda1cd1a50bca464b17f5254d5769e12b020eb161a916c6d0be807e411d",
-        "kafka-utils-wrapper-0.1.tar.gz"
-      ]
-    },
-    "0.2": {
-      "sdist": [
-        "41a9ba320d457546a1e93c3b5b21232b171f564e17b7aa0f82993cd80a23e1c7",
-        "kafka-utils-wrapper-0.2.tar.gz"
-      ]
-    },
-    "0.3": {
-      "sdist": [
-        "006d6b79c28f83d89f7f8661ce3314a1b6f44d02f00840546d5cc85a0b24167a",
-        "kafka-utils-wrapper-0.3.tar.gz"
-      ]
-    },
-    "0.6": {
-      "sdist": [
-        "e4a9552d3bb211b18c43333df267bebc9c0f8fed6529de986c2db9788892cd0f",
-        "kafka-utils-wrapper-0.6.tar.gz"
-      ]
-    },
-    "0.7": {
-      "sdist": [
-        "ca4da8e52ff394ba797a2a9dfb09a626d6f4be998593acfead38fb289efc680c",
-        "kafka-utils-wrapper-0.7.tar.gz"
-      ]
-    },
-    "0.8": {
-      "sdist": [
-        "8a83b109701263c46089caf061d6f59d878091b7e17d0d91c331bbf9b3d6c8c6",
-        "kafka-utils-wrapper-0.8.tar.gz"
-      ]
-    }
-  },
   "kalsimplenester": {
     "1.2.0": {
       "sdist": [
@@ -24408,6 +24382,18 @@
       "sdist": [
         "e3d0244267247aabc7795a355ad61b905071152e2f8f3b913661e810c9e92e2a",
         "livestyled-0.0.1.dev99.tar.gz"
+      ]
+    },
+    "1.0.0.dev0": {
+      "sdist": [
+        "afabcf9e663fbc734102596909d89fb5514a2937be9ec0002a2c2abd11b13ca9",
+        "livestyled-1.0.0.dev0.tar.gz"
+      ]
+    },
+    "1.0.0.dev1": {
+      "sdist": [
+        "1e4890b3dc6af243fbbfec21b8fa4835197a1867da64eff6166fe289dbb69919",
+        "livestyled-1.0.0.dev1.tar.gz"
       ]
     }
   },
@@ -37717,6 +37703,24 @@
         "287ffa4a3322e07fb7993462724085c3ae11cd586b34193224cfbfaba6c98b58",
         "pydoclite-0.1.2.tar.gz"
       ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "f05a8969a1f5039561a062cd09fe5325e7a73a15fdff5630986563c73b602084",
+        "pydoclite-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "e498284dc6896c469b6587044e71e7ddbaa5708cebd2606f83a2e1ad7b5bb8f6",
+        "pydoclite-0.1.4.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "bc16648b71557382b11cd6ba4bd32bd6ae2fe825152b4963700216a98e5fd7f7",
+        "pydoclite-0.1.5.tar.gz"
+      ]
     }
   },
   "pydpft": {
@@ -49951,6 +49955,12 @@
         "2084c45163e7559e4bfd5b62e3aaadf82b80ec62b04469f683f1e7c057be0caf",
         "spikesorters-0.4.0.tar.gz"
       ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "12ac4fade7be92c5540786b5b2613789abfbb2c18922b8355604855616504603",
+        "spikesorters-0.4.1.tar.gz"
+      ]
     }
   },
   "spx": {
@@ -51716,6 +51726,30 @@
         ],
         "tensorstore-0.1.5-cp38-cp38-manylinux2014_x86_64.whl": [
           "93a261ce73db1e9c59a800584fd7a624e1cfc9ec74edb6ff1d4da85c5e764ed6",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "32dcc8564ea80a6174812162b2baeec5253235d57021c88c64d634b0e44dd498",
+        "tensorstore-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "tensorstore-0.1.6-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "bed3d9d291f3c1504ec46fb6e45f1b6c3479c8c5b831ee82095c1a084f007170",
+          "cp35"
+        ],
+        "tensorstore-0.1.6-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "6acce565689e9f702513ad8719546a7b3ca2aee8a960d9fcb4ab36a6d1009408",
+          "cp36"
+        ],
+        "tensorstore-0.1.6-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "e03718332e2bdb36d5b722080f93e388ada73288e590d885017e6312a816281a",
+          "cp37"
+        ],
+        "tensorstore-0.1.6-cp38-cp38-manylinux2014_x86_64.whl": [
+          "02d6663767ca0d271a2994a089d4aa7088168670b441dda2b75aa48d23327c68",
           "cp38"
         ]
       }
@@ -55815,6 +55849,20 @@
         "8f049b530ecc3161818bf5a7d9e306c208ed71b361376acbe8c61506b2f61368",
         "utilSuperPush-1.0.tar.gz"
       ]
+    }
+  },
+  "varname": {
+    "0.4.0": {
+      "sdist": [
+        "7574804b831b1b9943ab677417a104dc80bca1fb00cb2be1d686d70a1ff9299c",
+        "varname-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "varname-0.4.0-py3-none-any.whl": [
+          "1d274eee505059ad9ba5fa383827b1da817d634dea072c6e7cf9099abbc1abd5",
+          "py3"
+        ]
+      }
     }
   },
   "vc-deepmodel": {

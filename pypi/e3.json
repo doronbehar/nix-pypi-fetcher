@@ -113,6 +113,12 @@
         "eee5977be0f0988f72c4a7918d8a99e80db38f1f41a9b28a062b755bed157e3e",
         "adafruit-circuitpython-vl53l0x-3.3.2.tar.gz"
       ]
+    },
+    "3.3.3": {
+      "sdist": [
+        "df9b79fc0e802f3de064bf04c7aec80e2738f6143fa369f9663c5a9a116a5802",
+        "adafruit-circuitpython-vl53l0x-3.3.3.tar.gz"
+      ]
     }
   },
   "adafruit-nrfutil": {
@@ -4832,6 +4838,14 @@
       "wheels": {
         "c7n_kube-0.2.3-py3-none-any.whl": [
           "cec070550aa6a0fb8043c91d3c12ce610a27259f77b1f7c6c287615d1e24db75",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "wheels": {
+        "c7n_kube-0.2.4-py3-none-any.whl": [
+          "18c5b39ccb9652d7e9e864c360fc30edac3381543841fd4d2bd3c9745668542f",
           "py3"
         ]
       }
@@ -32023,6 +32037,18 @@
         "a00f71286ca77445a90ba77e755a6e48bfe8cef7718560be9b80f7dff362a9ef",
         "neoload-1.1.4rc3.tar.gz"
       ]
+    },
+    "1.1.4rc4": {
+      "sdist": [
+        "478cb3bfe4b12c61efb3fd59f8724249dd2f7674f8af6ab0d5aabb85b934f023",
+        "neoload-1.1.4rc4.tar.gz"
+      ]
+    },
+    "1.1.4rc5": {
+      "sdist": [
+        "100edbc54faacf29fb41fe73a906b82210db4fcf3b1dc71b2b6f71ceb6106647",
+        "neoload-1.1.4rc5.tar.gz"
+      ]
     }
   },
   "nephos": {
@@ -50759,6 +50785,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.0.dev20200825": {
+      "sdist": [
+        "f9e61aebe46b3478161c527c1e22f996f8cd2c8b2bb38208ef26e4c104f84ac6",
+        "pytorch-ignite-0.5.0.dev20200825.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_ignite-0.5.0.dev20200825-py2.py3-none-any.whl": [
+          "9c4b4a5bfcb1fdd8911d59a04196b2e8c1681ffbe00e04808d73fa0b08bc5f61",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyturbsim": {
@@ -53533,6 +53571,62 @@
           "cp38"
         ]
       }
+    },
+    "3.9.1": {
+      "sdist": [
+        "3bffd750beff31af357a4c679562e791666955848a0e19df4f17f360cbf64e35",
+        "quasardb-3.9.1.tar.gz"
+      ],
+      "wheels": {
+        "quasardb-3.9.1-cp35-cp35m-macosx_10_6_x86_64.macosx_10_9_x86_64.macosx_10_10_x86_64.macosx_10_11_x86_64.macosx_10_12_x86_64.whl": [
+          "6b1f653b9cc7061a998fb9ffa47e1a346b0f232706b63e15c7c35796c812a1ff",
+          "cp35"
+        ],
+        "quasardb-3.9.1-cp35-cp35m-win32.whl": [
+          "561f710c5d0b866bd277794a26733c7d193717a990988fcfb07c0eacc7884c3a",
+          "cp35"
+        ],
+        "quasardb-3.9.1-cp35-cp35m-win_amd64.whl": [
+          "30da432e76b8da71d812e960940b33f67634b79bde8656ab636012196d66ca74",
+          "cp35"
+        ],
+        "quasardb-3.9.1-cp36-cp36m-macosx_10_6_x86_64.macosx_10_9_x86_64.macosx_10_10_x86_64.macosx_10_11_x86_64.macosx_10_12_x86_64.whl": [
+          "1bf3e3620aac01a5a73caf9bcb14c70863e0c081f580d1355f0fd2c1f60ab7b3",
+          "cp36"
+        ],
+        "quasardb-3.9.1-cp36-cp36m-win32.whl": [
+          "e785294dcde35f265050d32e46f317eb2d64e97cacb9a3dd3e1e6c116e18b0cd",
+          "cp36"
+        ],
+        "quasardb-3.9.1-cp36-cp36m-win_amd64.whl": [
+          "94731b28487ae515de5995bc4cc3cdef38c001690d7248c513a6ea5db9ad3e52",
+          "cp36"
+        ],
+        "quasardb-3.9.1-cp37-cp37m-macosx_10_6_x86_64.macosx_10_9_x86_64.macosx_10_10_x86_64.macosx_10_11_x86_64.macosx_10_12_x86_64.whl": [
+          "e382695227ce2cecad7319d5019c216794a52631c29bfa30f5883dc119932b07",
+          "cp37"
+        ],
+        "quasardb-3.9.1-cp37-cp37m-win32.whl": [
+          "0342b259565ec708c11062b906ad6cb9df8809eebb5751c5fbc060a447aa92dd",
+          "cp37"
+        ],
+        "quasardb-3.9.1-cp37-cp37m-win_amd64.whl": [
+          "de69a7c6b2a005974824ddfaa40ec3ddc5a026465e2845e22fb62d74d1d6d69b",
+          "cp37"
+        ],
+        "quasardb-3.9.1-cp38-cp38-macosx_10_6_x86_64.macosx_10_9_x86_64.macosx_10_10_x86_64.macosx_10_11_x86_64.macosx_10_12_x86_64.whl": [
+          "33823ae6651b3daefd3fddc6b26c7e17c5830369079ca0a6c0797a0c8218f9eb",
+          "cp38"
+        ],
+        "quasardb-3.9.1-cp38-cp38-win32.whl": [
+          "3e05c14e52ff0fc5e3641da8537475c0355fcff6e6fa8d11d8e03d0e24d99579",
+          "cp38"
+        ],
+        "quasardb-3.9.1-cp38-cp38-win_amd64.whl": [
+          "439f9ceced393dfe8e58c92389d1e3dc52e46602d694a4c025753e2dbcf942e4",
+          "cp38"
+        ]
+      }
     }
   },
   "qvikconfig": {
@@ -55093,6 +55187,16 @@
         "d30eb414365cdb400d11bdb473493dd432b402bd6912773982f975707b31ef22",
         "rightarrow-0.4.tar.gz"
       ]
+    }
+  },
+  "robotframework-doesislibrary": {
+    "0.1.0": {
+      "wheels": {
+        "robotframework_doesislibrary-0.1.0-py3-none-any.whl": [
+          "4437de15b586f11ba2ecc02d1bd6ecc416e91589359830bd6d37405a3d10de71",
+          "py3"
+        ]
+      }
     }
   },
   "robotframework-eyeslibrary": {

@@ -799,6 +799,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "c92916bec93c078f0cf657e02e2953857cd568d6eca008ef8c1d32d1138e96fc",
+        "airflow_dbt-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "airflow_dbt-0.1.2-py2.py3-none-any.whl": [
+          "b3da2a2bf9b2a2ad5de2427efa8793fa8c91003dc1576601cbddfc397f545294",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ajcli": {
@@ -4176,6 +4188,18 @@
       "wheels": {
         "biothings_client-0.2.1-py2.py3-none-any.whl": [
           "8dca389165cfa2c924d6544a16c695d3e5c709f9e01607198dae29fe684ff84f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "f5bf1a697489bff987b2f1f1ad5b2543fbe4799c2fa9fee6803a3d226edf9ed4",
+        "biothings_client-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "biothings_client-0.2.2-py2.py3-none-any.whl": [
+          "40425a8333687951f90b34d79163442fb503439c75ba08b001a9ed95554b78d3",
           "py2.py3"
         ]
       }
@@ -25921,6 +25945,102 @@
         "gpudb-7.0.18.0-cp37-cp37m-manylinux1_x86_64.whl": [
           "979c2fd0daabd7bfab124aa6a3198ebfcd117c24e37018e2b2062b34f2adee93",
           "cp37"
+        ]
+      }
+    },
+    "7.0.19.0": {
+      "wheels": {
+        "gpudb-7.0.19.0-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "f60c90e16cefcade769308fbf32f37b83e7e9c168f09f953d0d056e039b61b7f",
+          "cp27"
+        ],
+        "gpudb-7.0.19.0-cp27-cp27m-manylinux1_i686.whl": [
+          "b24495e31ad4992da2b17dc73a27781c8bc0e1a69eb3d5e63e90e630490090dc",
+          "cp27"
+        ],
+        "gpudb-7.0.19.0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "1a68173699373ac6f9465202b2dc4d9d84b74ac7d8d461f57b0bccdb0c1ec37f",
+          "cp27"
+        ],
+        "gpudb-7.0.19.0-cp27-cp27mu-manylinux1_i686.whl": [
+          "031150bb194b601fbbb5636aa3373983bb2474ae70a43b4a641c231ffa710757",
+          "cp27"
+        ],
+        "gpudb-7.0.19.0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "90e6f1f2518e5f8858dc17aa313111a240e7a4090e27663aac461a4b57f1c9c6",
+          "cp27"
+        ],
+        "gpudb-7.0.19.0-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "d7b5691e0571d6548b3a7db15d7743d03e7693dc56ae97e34cd6fa0b06aa6bae",
+          "cp34"
+        ],
+        "gpudb-7.0.19.0-cp34-cp34m-manylinux1_i686.whl": [
+          "faf8b5cea5b73c2fd4b8e1f632ab93046b358fd2a4f4fa9bb26482ebdcc784da",
+          "cp34"
+        ],
+        "gpudb-7.0.19.0-cp34-cp34m-manylinux1_x86_64.whl": [
+          "3d8e9135d6adeb4e2ec6a2937dfa0d72fa5642982615b90945821b844ab08755",
+          "cp34"
+        ],
+        "gpudb-7.0.19.0-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "9eeda14c1857bd4029be474293b4e616cfffc76cd20e0308c9f9a134c701e7be",
+          "cp35"
+        ],
+        "gpudb-7.0.19.0-cp35-cp35m-manylinux1_i686.whl": [
+          "90d17b8d6db08faa580c6a2ca1c02819739faecf2207c42574d369924551827f",
+          "cp35"
+        ],
+        "gpudb-7.0.19.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "7de7b5e3ae75aecc81221c6073fc9cf573a5e20916122940540d61830a282c01",
+          "cp35"
+        ],
+        "gpudb-7.0.19.0-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "a33df293c0959c63ac5cd7205b789dbdedf7fb35c61e0b12f5547e0b612b9324",
+          "cp36"
+        ],
+        "gpudb-7.0.19.0-cp36-cp36m-manylinux1_i686.whl": [
+          "ff4fe5fbb2ef1583c9194ee451a01e427a49d444003306eabb0d60fe6df92091",
+          "cp36"
+        ],
+        "gpudb-7.0.19.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "016fa93c305d3a1f6c6a7ea42302fd3f20cdece0f39f3e2f71c0866916e5b321",
+          "cp36"
+        ],
+        "gpudb-7.0.19.0-cp36-cp36m-win32.whl": [
+          "821c94c77da737abff2e535773feb875cdadd49f97216846f8a27f54be939521",
+          "cp36"
+        ],
+        "gpudb-7.0.19.0-cp36-cp36m-win_amd64.whl": [
+          "c83eb73a0c78355f37a0d73b8ead23165af6dd3c7aad209e80216456e72d4cc6",
+          "cp36"
+        ],
+        "gpudb-7.0.19.0-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "0d5c0178fd691be4780daa0f6f4e335ad58be02df75f79cf200ccf7bc586fff5",
+          "cp37"
+        ],
+        "gpudb-7.0.19.0-cp37-cp37m-manylinux1_i686.whl": [
+          "a702b40023db6078a25bdbdbaf69ffa191e78111749aeeb53fb925042f3d2575",
+          "cp37"
+        ],
+        "gpudb-7.0.19.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "0b22c0963b4cf495b6f9cb1125ee32c73502296143024199cff28c80abe17d57",
+          "cp37"
+        ],
+        "gpudb-7.0.19.0-cp37-cp37m-win32.whl": [
+          "4b9d30b8a8bad9df28a55224a088b2747ee21e0e3edb6fa79cabcf7d763dfdea",
+          "cp37"
+        ],
+        "gpudb-7.0.19.0-cp37-cp37m-win_amd64.whl": [
+          "0528c0ba3b264196f853b0d98723c1314389c425c5fe523cc8fedeca85f4a2cb",
+          "cp37"
+        ],
+        "gpudb-7.0.19.0-cp38-cp38-win32.whl": [
+          "4bca21644437334f4e2a221b4a1e9ec59dafd72fa2ed623d59b7dade714e6a52",
+          "cp38"
+        ],
+        "gpudb-7.0.19.0-cp38-cp38-win_amd64.whl": [
+          "08bd5f54d047a4d9958d31ca4522fd158fd1dabe61baf1aab97808fc768fd7aa",
+          "cp38"
         ]
       }
     },
@@ -64138,6 +64258,14 @@
       "wheels": {
         "unicon.plugins-20.7.3-py3-none-any.whl": [
           "9eb15c574f475b88aa500a235ac83e574cfe0cfc161affdb1634cea4f5597dd1",
+          "py3"
+        ]
+      }
+    },
+    "20.8.1": {
+      "wheels": {
+        "unicon.plugins-20.8.1-py3-none-any.whl": [
+          "e181b328b237dca3795c73ebd89d7198dc782847dc0b8e3aed7655d9e478efb0",
           "py3"
         ]
       }

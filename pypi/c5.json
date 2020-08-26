@@ -1243,6 +1243,18 @@
           "py3"
         ]
       }
+    },
+    "2020.8rc0": {
+      "sdist": [
+        "129bf9c9f0f47a5b0a726a8752421dfd3e6fbc37da8df8c4cb9424a021b79e63",
+        "alpyro_msgs-2020.8rc0.tar.gz"
+      ],
+      "wheels": {
+        "alpyro_msgs-2020.8rc0-py3-none-any.whl": [
+          "b79fdbf9daeef0a994587c2d7dc1c4e9b70c708ad79994b3f1fc09c030a7ee68",
+          "py3"
+        ]
+      }
     }
   },
   "ambition-inmemorystorage": {
@@ -9497,6 +9509,12 @@
         "675e6fc43bcad39f796f588d492bbc402baa4efde164fdb1b3f50264779278a6",
         "cheap_repr-0.4.1.tar.gz"
       ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "3d6428acab94a2fd94127ebe6a7c838ff52286632c934e0ca526c8318b27e46c",
+        "cheap_repr-0.4.2.tar.gz"
+      ]
     }
   },
   "chirpstack-api": {
@@ -9844,6 +9862,18 @@
       "wheels": {
         "chirpstack_api-3.7.4-py3-none-any.whl": [
           "c94ed20e99586a861d39398c624b0f2c53eb478d974de1e650617bcbd6bc2313",
+          "py3"
+        ]
+      }
+    },
+    "3.7.6": {
+      "sdist": [
+        "804ab2969bde6fc446e08bff819a587c7ef7619103e87884f0948cae29d2697d",
+        "chirpstack-api-3.7.6.tar.gz"
+      ],
+      "wheels": {
+        "chirpstack_api-3.7.6-py3-none-any.whl": [
+          "0bd85ccbd6464687c6cd5cc60642ff637bd7cac626d62846cc6766aaeef849ac",
           "py3"
         ]
       }
@@ -26026,6 +26056,12 @@
       "sdist": [
         "ba4b63b11079535e55a8c563424cc36a7aefbf1070a4a56101092bb6a0bee84c",
         "histomicsui-1.0.0.dev78.zip"
+      ]
+    },
+    "1.0.0.dev80": {
+      "sdist": [
+        "401619e8be93e02d62beeab92eba9099f604c8f0caf3bd18c060725c9fdef108",
+        "histomicsui-1.0.0.dev80.zip"
       ]
     },
     "1.0.0.dev9": {
@@ -57630,6 +57666,74 @@
         ],
         "snowflake_connector_python-2.3.0-cp38-cp38-manylinux2010_x86_64.whl": [
           "1700c45b31e57a20797d3d62cbd1382078a1f88c6a6837157f925f1edf4ca729",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.1": {
+      "sdist": [
+        "957ddb8fb7a4f2797e9c63553e65d2bb7ba199ac102973d97da223b8c1612cb4",
+        "snowflake-connector-python-2.3.1.tar.gz"
+      ],
+      "wheels": {
+        "snowflake_connector_python-2.3.1-cp35-cp35m-macosx_10_13_intel.whl": [
+          "fb164e5d68d1311a2b3b50a372d14f168240d0a4e818d12e930664456dd93c02",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.3.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e4eaecb34f98f69e2cb928e392a6cbba6f3c9925e74689e7b0c5856d697af6b1",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.3.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "7fa269747f72b6dbc84a2358702cbc6cade4c626f175fa324ed78c3594a9eddf",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.3.1-cp35-cp35m-win_amd64.whl": [
+          "cc374bdefb50369dedc30ca3cc75a2ffe3bd1f3f481929f1cfd63bbf7fbd223d",
+          "cp35"
+        ],
+        "snowflake_connector_python-2.3.1-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "72edd61a7a2869a792c3d45c26dbf5febedeba27313cfe53dac84ab01c2b3939",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.3.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "50e72a9ec760082898f77a9f951f5c1e70311b2c570caa9df30b6f975254cbda",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.3.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "fe794ab48a0a3ee71b9570826d1b9cc60f08714641e22f78e614244f94640ec5",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.3.1-cp36-cp36m-win_amd64.whl": [
+          "b1c5473f51c1edf46f90c251fde29bf07d8f8dbdff55431669697cf022bd1307",
+          "cp36"
+        ],
+        "snowflake_connector_python-2.3.1-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "4008b1b3ba4da435a656cf81b032a66b8edcb97eaec0cd0216a16a2fc987cf3a",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.3.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8ec03c0412809bbf2dc0559328ba1955d9029b21d900b45b1f47f9d931416300",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.3.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e7726d0f45390f4ec451591badb5f088c43ba0f2011f6b98eb63de42a0d3490a",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.3.1-cp37-cp37m-win_amd64.whl": [
+          "b15c8efe58a413257b47f3313b348e38a013cf263d85ab06145792921bbd93b9",
+          "cp37"
+        ],
+        "snowflake_connector_python-2.3.1-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "5d95b426e0ab2b22b9e653936725db8591361b24487f59e7930622f3e79af03a",
+          "cp38"
+        ],
+        "snowflake_connector_python-2.3.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "0c5274973575773010d648297a265ebff41f1426c2e09debbcad44f39e98322e",
+          "cp38"
+        ],
+        "snowflake_connector_python-2.3.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "8c4c45388385d26da9cf4a6d6de639302f898d4e754f83e87cde1c822c331fc6",
           "cp38"
         ]
       }
