@@ -3372,6 +3372,18 @@
         ]
       }
     },
+    "1.61.0": {
+      "sdist": [
+        "049736f77cc1e54fda8db803bc5d7f0277fdec42c213b664382a9d0737dd7c56",
+        "aws-cdk.aws-cloudtrail-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.61.0-py3-none-any.whl": [
+          "fcec68f4d809e08ba04f269510f0ce00f2bec9d40660fd543f4450eda674bb06",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "20059f1d3364bab46224a195ef9dacff43c2d510ba8df668ad58a55c7667a71a",
@@ -4486,6 +4498,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.60.0-py3-none-any.whl": [
           "518a412f1e3c823da8920bff5078d8ac9b38b11bd9dab89dbeb20f18dae171ba",
+          "py3"
+        ]
+      }
+    },
+    "1.61.0": {
+      "sdist": [
+        "2916e76d55a499ed4c89b55dd288b1a2101721d3dd5de2f4cbf956561c265075",
+        "aws-cdk.aws-ecs-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.61.0-py3-none-any.whl": [
+          "5f52b9ac0cb863ba27b585829c1fabedcb56a6ebed1cabc7336bb62b5dadf871",
           "py3"
         ]
       }
@@ -67657,6 +67681,12 @@
         "cd92cee2ee4ba5f922328db9be486344e9f8ab86fedbd51a12c58f02300d3874",
         "schainpy-3.0.0b1.tar.gz"
       ]
+    },
+    "3.0.0b2": {
+      "sdist": [
+        "b5e597f737b000b0453e81c249e3d1db194746e261c6139f013c8456f62feef0",
+        "schainpy-3.0.0b2.tar.gz"
+      ]
     }
   },
   "schematics-fork": {
@@ -77248,6 +77278,42 @@
         ],
         "tf_nightly-2.4.0.dev20200826-cp38-cp38-win_amd64.whl": [
           "14b71ddac26bf6c40fcc3197bbc9a5ed733f476548e3692825b60e450cccab41",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200827": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200827-cp35-cp35m-macosx_10_6_intel.whl": [
+          "1ced2cc920bbd2ed3599573d36da294f9663ab44bcea18a463be9bc27406ff0c",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "bffa5bbae9f9073d12824dfadcd76d29562e2664fd30323d1ce5961dc44a2864",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "61c89f73c9d9f0c00a090acbfdbf85cf9a7899466b5d7d8609a29825fcd54aa7",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "2e09628347f62bc66919f0fc0a46bb271aa7923aa3bb735980e2caade9f931b0",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "162267faf38442ffc451fb9c7ba28b088fe9a5761d7b5671d8a4f19e9c5da95d",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "61713917da1a7d01bb3807552ed58adf512f9cecb609fb5d9782471b101c1084",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "b1862efa811d72b81838dd5a16239da6a2138a7c7fdd29f04076d735d6c31d38",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200827-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1fa6500e9d0cddf53b250e934f08f91f9d71447cc03fb30656c693305e8b08fc",
           "cp38"
         ]
       }

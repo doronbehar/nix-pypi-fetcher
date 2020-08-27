@@ -3712,6 +3712,18 @@
         ]
       }
     },
+    "1.61.0": {
+      "sdist": [
+        "abb046860e2105b9603e63281b91671cf93ad47867414b9171e6501174fb6514",
+        "aws-cdk.aws-lambda-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda-1.61.0-py3-none-any.whl": [
+          "59452e5887beaa691f80766030d9a42975c2f0eabc230fc88ea6937057b5110f",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "199d0da0f100c5beca60d9d23401e8a68f4a208cb84143a0ec06c81edbdde50e",
@@ -4830,6 +4842,18 @@
         ]
       }
     },
+    "1.61.0": {
+      "sdist": [
+        "3157182fb7d07a9bc569d85de178c18c43337c5cc3480b540815b91e46c7e8ea",
+        "aws-cdk.aws-s3-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3-1.61.0-py3-none-any.whl": [
+          "838327853dec7d4548dad912d3d4d9fe40adbaf1d95faf5753fcdaa842f8308b",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "ae2e46c7f55b93708c075fa3fda9063857e698336c94066d1c9f8f2a256667a1",
@@ -5944,6 +5968,18 @@
       "wheels": {
         "aws_cdk.aws_ses-1.60.0-py3-none-any.whl": [
           "9463451ba1af12352cb67e6c566d79837eb6a194ddf9dfa39b50b505008c70c3",
+          "py3"
+        ]
+      }
+    },
+    "1.61.0": {
+      "sdist": [
+        "1652c009b3908e0bc8d6bb5a27b5b83ba14d41b39352f3df3a1e9ac110ac5ba8",
+        "aws-cdk.aws-ses-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ses-1.61.0-py3-none-any.whl": [
+          "9b428fe030e2827c25a57f99841feab2730b0b45a88558241693a73a8d30072e",
           "py3"
         ]
       }
@@ -13808,6 +13844,12 @@
       "sdist": [
         "f394e72c25b2bf36ea49b31b63b933a656c4f69bfdbd6532f183952560ce8f59",
         "databay-0.1.4.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "40ada94594cf3c3fa367efcba433cdfab7d505a1958a80251b3ebda42ce2209d",
+        "databay-0.1.5.tar.gz"
       ]
     }
   },
@@ -63178,6 +63220,58 @@
         ],
         "tensorflow_addons-0.11.1-cp38-cp38-win_amd64.whl": [
           "6dd265cb4102edbc07375e1592fa3dba8b6f1d76e9d0cc56ebabb874a0421078",
+          "cp38"
+        ]
+      }
+    },
+    "0.11.2": {
+      "wheels": {
+        "tensorflow_addons-0.11.2-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "c3dcf5fd56aeacf13fd41b198eb6c11567b9cf86f516673b9766a1f97061bde2",
+          "cp35"
+        ],
+        "tensorflow_addons-0.11.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "adcfcddc62f879880f0e164344612198ea3b6de0f54978b9379cad5c350af5ff",
+          "cp35"
+        ],
+        "tensorflow_addons-0.11.2-cp35-cp35m-win_amd64.whl": [
+          "16b3fc4258a0251401bb0ced75742c6c02d7c5dee0531df976499da8208b5bb4",
+          "cp35"
+        ],
+        "tensorflow_addons-0.11.2-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "677bbe0714eb8286667d7ecf3a41e53234de72d93e67d23f63b6e55345da91b6",
+          "cp36"
+        ],
+        "tensorflow_addons-0.11.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "cfbd34c93327de78ef0dee14956fed19bac9ef039670869000b0a4405f539c4e",
+          "cp36"
+        ],
+        "tensorflow_addons-0.11.2-cp36-cp36m-win_amd64.whl": [
+          "35ae042544b6f3334c2d05f111db7bc9692ac2a001078c20f4414d270c481832",
+          "cp36"
+        ],
+        "tensorflow_addons-0.11.2-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "22177e036e17d057afeeea0327f045d2aeb84539db31c4d81dbb5e7942692ce5",
+          "cp37"
+        ],
+        "tensorflow_addons-0.11.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "76d7a1b99ddb69c3990581147fe751c9767f3b2555836f170c4a580525decdf9",
+          "cp37"
+        ],
+        "tensorflow_addons-0.11.2-cp37-cp37m-win_amd64.whl": [
+          "8663048652b8b5f7fb09c58b1c166c001fdf6e704e4a132307daef08f1b7beab",
+          "cp37"
+        ],
+        "tensorflow_addons-0.11.2-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "e6b9acec0a8353b52854d7c7e422a1e96459c58c3307ee4c7ba7bf3afb035fb6",
+          "cp38"
+        ],
+        "tensorflow_addons-0.11.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e36dd53520989dbd2c6850ea92a23739bd90fb481d7076777d8d521dce47fcc8",
+          "cp38"
+        ],
+        "tensorflow_addons-0.11.2-cp38-cp38-win_amd64.whl": [
+          "551b0097f28075c31dfebc3d8e717bc23bd8521ba03f2d69e2141c2bd687cd29",
           "cp38"
         ]
       }

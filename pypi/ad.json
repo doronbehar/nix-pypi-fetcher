@@ -3002,6 +3002,18 @@
         ]
       }
     },
+    "1.61.0": {
+      "sdist": [
+        "7f07e3ec3c96fc6d6f995cc734941f83f1b74ddc1d156d84df78ff1779624abe",
+        "aws-cdk.aws-stepfunctions-tasks-1.61.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_stepfunctions_tasks-1.61.0-py3-none-any.whl": [
+          "9c91a103f46adf5cdc2adf1e939fb6ad501842e170f4d1c4f64223f35620103a",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2dbcfff2b7c45d39796073b28ab486727498c63e93dfe3dc194385749ff50eb9",
@@ -5366,6 +5378,10 @@
           "50dd9ad2a2bb12da4e9002a438672d182f98e546e99952de80280a1e1729664f",
           "cp27"
         ],
+        "Brotli-1.0.7-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "aeaae3d60ecd72f04a54f4e7d4fccf2f83aab8e6362c625e003651bebf4347ba",
+          "cp27"
+        ],
         "Brotli-1.0.7-cp27-cp27m-manylinux1_i686.whl": [
           "c675c6cce4295cb1a692f3de7416aacace7314e064b94bc86e93aceefce7fd3e",
           "cp27"
@@ -5414,6 +5430,10 @@
           "f969ec7f56ba9636679e69ca07fba548312ccaca37412ee823c7f413541ad7e0",
           "cp35"
         ],
+        "Brotli-1.0.7-cp35-cp35m-macosx_10_6_intel.whl": [
+          "fb7fd630e6096112d9f159cb19516e8eccb9daa1c258608c2cbe21686dea36e8",
+          "cp35"
+        ],
         "Brotli-1.0.7-cp35-cp35m-manylinux1_i686.whl": [
           "dc91f6129953861a73d9a65c52a8dd682b561a9ebaf65283541645cab6489917",
           "cp35"
@@ -5434,6 +5454,10 @@
           "f775b07026af2b1b0b5a8b05e41571cdcf3a315a67df265d60af301656a5425b",
           "cp36"
         ],
+        "Brotli-1.0.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "92ae753b9cc13d9d91f5636607afbca961fa7ca9e9770ac2a849b38424bf5bea",
+          "cp36"
+        ],
         "Brotli-1.0.7-cp36-cp36m-manylinux1_i686.whl": [
           "2f2f4f78f29ac4a45d15b3d9fc3fd9705e0ad313a44b129f6e1d0c6916bad0e2",
           "cp36"
@@ -5452,6 +5476,10 @@
         ],
         "Brotli-1.0.7-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
           "ad7963f261988ee0883816b6b9f206f11461c9b3cb5cfbca0c9ab5adc406d395",
+          "cp37"
+        ],
+        "Brotli-1.0.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "315fbb0d1294594a3701d735c44a2a059219b82fc59aa02cd9c827c38b0980c4",
           "cp37"
         ],
         "Brotli-1.0.7-cp37-cp37m-manylinux1_i686.whl": [
@@ -5488,6 +5516,82 @@
         ],
         "Brotli-1.0.7-cp38-cp38-win_amd64.whl": [
           "f9ee88bb52352588ceb811d045b5c9bb1dc38927bc150fd156244f60ff3f59f1",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "6a0fd679b93252b96cde8a8b4449ae556840d855fea2276a03ea22e024940e9b",
+        "Brotli-1.0.8.zip"
+      ],
+      "wheels": {
+        "Brotli-1.0.8-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "3d134161bd6899add2530bc304d7591768a6049e0c5dca88da1b82249daa6ffc",
+          "cp27"
+        ],
+        "Brotli-1.0.8-cp27-cp27m-manylinux1_i686.whl": [
+          "f8bd94d9db600a487f118cad76690b92e7d8ebeb07a3cc492df3d9b715119d5c",
+          "cp27"
+        ],
+        "Brotli-1.0.8-cp27-cp27m-manylinux1_x86_64.whl": [
+          "1b8f09196fe293e2eb7c9883cb311754cc287b6d9daa18e05f6df7fc750c1ecc",
+          "cp27"
+        ],
+        "Brotli-1.0.8-cp27-cp27mu-manylinux1_i686.whl": [
+          "3e206e945e8bb627c59bff35d3aaaaf7631e073e077c607f8e381c2f40a91a95",
+          "cp27"
+        ],
+        "Brotli-1.0.8-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "403da6d497599b4a1a1e9b66754050b88fa8a518834a1f397506a5ae170e47a8",
+          "cp27"
+        ],
+        "Brotli-1.0.8-cp35-cp35m-macosx_10_6_intel.whl": [
+          "3d7b2fe280f1b8a67dc981e8659d403e03fdf478cefd84804aaa7df07a0d5528",
+          "cp35"
+        ],
+        "Brotli-1.0.8-cp35-cp35m-manylinux1_i686.whl": [
+          "4b98a2a2f1c4047ae0e30dd4479dbc30b2bafb0351558c66e557a2adc57e000e",
+          "cp35"
+        ],
+        "Brotli-1.0.8-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c3fdc975caa7c02c77d2708efeedf79f21885f34dea1327e6310f2964b0c13ec",
+          "cp35"
+        ],
+        "Brotli-1.0.8-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "1127548334919eada82aac215f318bd66fe92799458b4f3e62976ad16b9696c6",
+          "cp36"
+        ],
+        "Brotli-1.0.8-cp36-cp36m-manylinux1_i686.whl": [
+          "76523497bdc5bda054773d66ad566e7a8b92e45e1d52bf8026a645eea986ecd7",
+          "cp36"
+        ],
+        "Brotli-1.0.8-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2542eb516ac41329062f9806e7a98a59ab6e176b253a909c39ba60202616ec88",
+          "cp36"
+        ],
+        "Brotli-1.0.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "c4e6888a6e745685335551307c1ce80435da167a66b305ad53d962d05d56ac42",
+          "cp37"
+        ],
+        "Brotli-1.0.8-cp37-cp37m-manylinux1_i686.whl": [
+          "2aed5e4bbb436b250d2acfb3b37711f43858701fd8485a599840b43753ca77ef",
+          "cp37"
+        ],
+        "Brotli-1.0.8-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8d357ccb6468076efbef9c53b461a271e5f60597587771890350548ea6e5fa07",
+          "cp37"
+        ],
+        "Brotli-1.0.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "c2b44c83e91ae63e505983f8fd106cacf6152cacfa9bbac97ff92709ea014309",
+          "cp38"
+        ],
+        "Brotli-1.0.8-cp38-cp38-manylinux1_i686.whl": [
+          "ddba27275cd90bb3ac4b0daaae9c1f0b749dc772d101f314c8af8667f97b500b",
+          "cp38"
+        ],
+        "Brotli-1.0.8-cp38-cp38-manylinux1_x86_64.whl": [
+          "01c12363f5411f15fa99011d7e09e779bf6eb48cadd3594c9bcf5ba6609e28d6",
           "cp38"
         ]
       }
@@ -63025,6 +63129,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.2.1.2": {
+      "wheels": {
+        "odoo13_addon_l10n_th_tax_invoice-13.0.2.1.2-py3-none-any.whl": [
+          "8cd3b6619b92d4c16380b7c83e2f2643c005db70e890fdb6b95d12556f688778",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-project-list": {
@@ -69508,6 +69620,18 @@
       "wheels": {
         "pycaret_nightly-2.1.dev1598401643-py3-none-any.whl": [
           "e29ba8f2c099ac548da508fe92565f5217daf7f3e1d811e23ad105c254c3a1e3",
+          "py3"
+        ]
+      }
+    },
+    "2.1.dev1598488059": {
+      "sdist": [
+        "f758528e823395b45bd6a4db3b5141976d6ce992dfafb49e982c3f224ef61735",
+        "pycaret-nightly-2.1.dev1598488059.tar.gz"
+      ],
+      "wheels": {
+        "pycaret_nightly-2.1.dev1598488059-py3-none-any.whl": [
+          "f4045c432b200067b38afcad7323f1ba3bd90936344dbafdf37c6fbbfcd512f8",
           "py3"
         ]
       }
@@ -84962,6 +85086,14 @@
       "wheels": {
         "tff_nightly-0.0.1.dev20200826-py2.py3-none-any.whl": [
           "1384de00ffb13581ba3801b969d364e4a7ee3a2b12970951b1b628335b4d3b8a",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.1.dev20200827": {
+      "wheels": {
+        "tff_nightly-0.0.1.dev20200827-py2.py3-none-any.whl": [
+          "4ccf3182ee63af47b12fb768995729d167d2a6d354afa85957398c6f856e02aa",
           "py2.py3"
         ]
       }
