@@ -2341,6 +2341,18 @@
           "py3"
         ]
       }
+    },
+    "1.61.1": {
+      "sdist": [
+        "1a87eac00665e27c82fbae6c2f74aac1dccc9fa9cb4ee2dce25b7b335fa2e1a8",
+        "aws-cdk.aws-globalaccelerator-1.61.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_globalaccelerator-1.61.1-py3-none-any.whl": [
+          "416223649ae2ee120da47190019b0efcbee29641df77fa67107c06fc4a9148bd",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-configurer": {
@@ -24681,6 +24693,18 @@
           "cp37"
         ]
       }
+    },
+    "0.6.0.dev200828": {
+      "wheels": {
+        "genomeworks_cuda_10_1-0.6.0.dev200828-cp36-none-any.whl": [
+          "2f0e33ddf178b40b7ed0783c52ea7808de00277e7395b2218c6335e1eccc8791",
+          "cp36"
+        ],
+        "genomeworks_cuda_10_1-0.6.0.dev200828-cp37-none-any.whl": [
+          "fadcdfaf070f79ae56ad81530ce89b9d1f665e420ea0e0ed4da18cfd8d69dc68",
+          "cp37"
+        ]
+      }
     }
   },
   "genomx": {
@@ -39350,14 +39374,6 @@
     }
   },
   "mxnet-cu90": {
-    "0.11.1b20171009": {
-      "wheels": {
-        "mxnet_cu90-0.11.1b20171009-py2.py3-none-manylinux1_x86_64.whl": [
-          "d90f6e05f5cb55b655c4edfae07cfbb6fd3b5bc1a54602ff8cad6addfe6d1f1f",
-          "py2.py3"
-        ]
-      }
-    },
     "0.12.0": {
       "wheels": {
         "mxnet_cu90-0.12.0-py2.py3-none-manylinux1_x86_64.whl": [
@@ -39366,70 +39382,10 @@
         ]
       }
     },
-    "0.12.0b20171021": {
-      "wheels": {
-        "mxnet_cu90-0.12.0b20171021-py2.py3-none-manylinux1_x86_64.whl": [
-          "94eff53a1a611234789a765d351d43ae1a862975237c25504dfea5979c225d9b",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.0b20171028": {
-      "wheels": {
-        "mxnet_cu90-0.12.0b20171028-py2.py3-none-manylinux1_x86_64.whl": [
-          "989af7bfa10545cf67321ae3e31873882ac8bcbf96d9ec602a9f66c44ca72e21",
-          "py2.py3"
-        ]
-      }
-    },
     "0.12.1": {
       "wheels": {
         "mxnet_cu90-0.12.1-py2.py3-none-manylinux1_x86_64.whl": [
           "ff99eb7bd47766c60735751a71b5463b8f16791cf9ae8e622064a477d84dff32",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.1b20171103": {
-      "wheels": {
-        "mxnet_cu90-0.12.1b20171103-py2.py3-none-manylinux1_x86_64.whl": [
-          "4b4595b90613e3b58f01135e5a9dab8f8717ef201c9a9a2c15f2c4c78bbe66dc",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.1b20171109": {
-      "wheels": {
-        "mxnet_cu90-0.12.1b20171109-py2.py3-none-manylinux1_x86_64.whl": [
-          "75c8592ee669733f8438922ed043ddce28f95fb4d973773a958d303f562c5750",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.1b20171118": {
-      "wheels": {
-        "mxnet_cu90-0.12.1b20171118-py2.py3-none-manylinux1_x86_64.whl": [
-          "54b27a4f7f52fb97d3d862101458d1d33757b971d5bd30f6a142f22f5dea9b4b",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.1b20171125": {
-      "wheels": {
-        "mxnet_cu90-0.12.1b20171125-py2.py3-none-manylinux1_x86_64.whl": [
-          "8d0fb5980dbff65f2a2cb572a55f3cf91138247921e3ce3b8abe42a05e93bc9e",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.12.1b20171202": {
-      "wheels": {
-        "mxnet_cu90-0.12.1b20171202-py2.py3-none-manylinux1_x86_64.whl": [
-          "29d31eb27322a14da2160a5c607160b6608d92492541260fc519f4cdd37370a8",
-          "py2.py3"
-        ],
-        "mxnet_cu90-0.12.1b20171202-py2.py3-none-win_amd64.whl": [
-          "917d8f42a5e0e1d0a089e691e4c0992a5a281cbfcc3b33d7996bcd8b009e2600",
           "py2.py3"
         ]
       }
@@ -39478,78 +39434,6 @@
         ]
       }
     },
-    "1.0.0b20171210": {
-      "wheels": {
-        "mxnet_cu90-1.0.0b20171210-py2.py3-none-win_amd64.whl": [
-          "1a3e2ad083cb89e09117a0f7f14b84cb6796a7e9dea8b265ec3692b7d783f05b",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0b20171217": {
-      "wheels": {
-        "mxnet_cu90-1.0.0b20171217-py2.py3-none-manylinux1_x86_64.whl": [
-          "698695ce651419d569a73443c63115cb2e4ef0e0b972523c21a66d1066c14814",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0b20171224": {
-      "wheels": {
-        "mxnet_cu90-1.0.0b20171224-py2.py3-none-win_amd64.whl": [
-          "5164df8b83f6322aab493573459c01fa117a3b4ab72c4c588725ae66d9510bc0",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1b20171231": {
-      "wheels": {
-        "mxnet_cu90-1.0.1b20171231-py2.py3-none-manylinux1_x86_64.whl": [
-          "03e5facebf94b4a2825dfe2c02812b70bb754f8c0641fe2f7cfa21e63a635a89",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1b20180103": {
-      "wheels": {
-        "mxnet_cu90-1.0.1b20180103-py2.py3-none-manylinux1_x86_64.whl": [
-          "54bed20416f674612b91ee7a71e49f4063884fc74ab0b51d97b0ca3fefc05552",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1b20180124": {
-      "wheels": {
-        "mxnet_cu90-1.0.1b20180124-py2.py3-none-manylinux1_x86_64.whl": [
-          "0d44eff38be974c7ef16b015671943c9e76baf99bb1b25dda1f25d04812cea70",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1b20180131": {
-      "wheels": {
-        "mxnet_cu90-1.0.1b20180131-py2.py3-none-manylinux1_x86_64.whl": [
-          "e30d44abeebdd71bad25385e0638ac8c103281acb8218dc6cfd873809985762e",
-          "py2.py3"
-        ],
-        "mxnet_cu90-1.0.1b20180131-py2.py3-none-win_amd64.whl": [
-          "77b92d094730c7eafd15905a0a664b9a122f7df09302b49052ee50b085f77098",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1b20180206": {
-      "wheels": {
-        "mxnet_cu90-1.0.1b20180206-py2.py3-none-manylinux1_x86_64.whl": [
-          "450f0993fed3d45ee98140b6dfe7ddf6f9dbb2d2c2eddb58c7c5d8d1b4d4a387",
-          "py2.py3"
-        ],
-        "mxnet_cu90-1.0.1b20180206-py2.py3-none-win_amd64.whl": [
-          "5626ede5632c6b7d9966da07c3515af0c9e60a92d29175eae7e5819014b33750",
-          "py2.py3"
-        ]
-      }
-    },
     "1.1.0": {
       "wheels": {
         "mxnet_cu90-1.1.0-py2.py3-none-manylinux1_x86_64.whl": [
@@ -39570,26 +39454,6 @@
         ],
         "mxnet_cu90-1.1.0.post0-py2.py3-none-win_amd64.whl": [
           "3f306227b9341d1d7ab3db1cfbbd0476a92084a9067caff9f8ca6ece5a9d938e",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.1.0b20180213": {
-      "wheels": {
-        "mxnet_cu90-1.1.0b20180213-py2.py3-none-manylinux1_x86_64.whl": [
-          "bed67009ce0ee5a28595a92bfb486c1abf273b2801699d1f30a144cbc600497e",
-          "py2.py3"
-        ],
-        "mxnet_cu90-1.1.0b20180213-py2.py3-none-win_amd64.whl": [
-          "aec448a5d62ef35c3d4139f434e06b54b21c5acaf1243a0482f8ba42ec3a1208",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.1.0b20180220": {
-      "wheels": {
-        "mxnet_cu90-1.1.0b20180220-py2.py3-none-manylinux1_x86_64.whl": [
-          "ad143aeff5e37154be2d89783b989246c49d87469a5f0323d1dff662f2eb641a",
           "py2.py3"
         ]
       }
@@ -64786,6 +64650,26 @@
         ]
       }
     },
+    "0.5.13": {
+      "sdist": [
+        "87ec5fabb285b335e06783411dfc2ae9a2db9dfa3a51f7cee0401b39e478e294",
+        "sentry-relay-0.5.13.zip"
+      ],
+      "wheels": {
+        "sentry_relay-0.5.13-py2.py3-none-macosx_10_13_x86_64.whl": [
+          "8058685ff67666c3d919d073cf1dbc31782c332d3375ad3b5918bddeb084b952",
+          "py2.py3"
+        ],
+        "sentry_relay-0.5.13-py2.py3-none-manylinux1_i686.whl": [
+          "539d51a5ce32e1f7414d5fc14cf44d6f7abd14912306c69c5e488ccba824ad99",
+          "py2.py3"
+        ],
+        "sentry_relay-0.5.13-py2.py3-none-manylinux1_x86_64.whl": [
+          "2a59017d042c825c8b6a6ae0bc1d788cf2c1b9aeacedd882a9c0c889c219f0bb",
+          "py2.py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "64aabc5603ae4485f2bb8489db87c4ad47b72da315c04e6e7ee9c3ca2158dc27",
@@ -70465,6 +70349,20 @@
         "3b0f412240ff874de44c0c41102ab46d7d2eb4e95fb3e261f08786c4f7c48557",
         "time_sheet-1.0.7.tar.gz"
       ]
+    }
+  },
+  "timebandit": {
+    "0.1.0": {
+      "sdist": [
+        "58dfab44828a9bbd32a238b83699bb641c7650a80b70f3727ca15c1dc73b2c41",
+        "timebandit-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "timebandit-0.1.0-py3-none-any.whl": [
+          "0f15f5311e4b8df8b1d07a13e8c04ad832e67128e317f74f922e487810fdd0a3",
+          "py3"
+        ]
+      }
     }
   },
   "tinyshar": {

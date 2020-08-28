@@ -4128,6 +4128,18 @@
         ]
       }
     },
+    "1.61.1": {
+      "sdist": [
+        "e00cd232c55e0ad3d0544d3a683170716f21c78f35e854976e2a1ab84f4b3f13",
+        "aws-cdk.aws-dlm-1.61.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.61.1-py3-none-any.whl": [
+          "6bbb90dc8d32197888565eaa312d7f39ccdf65482c345a97ea706f5a3091a0ff",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2ab3bf27a7b3d365d8b286db9989090e14b8601a4d5778b9232a25c4e7dfaa89",
@@ -5854,6 +5866,14 @@
       "wheels": {
         "behavioral_signals_swagger_client-2.7.3-py3-none-any.whl": [
           "9c467f7c4141c36037fc1cae09310593e73f481a1d632dc6b609114d146f4663",
+          "py3"
+        ]
+      }
+    },
+    "2.8.0": {
+      "wheels": {
+        "behavioral_signals_swagger_client-2.8.0-py3-none-any.whl": [
+          "6e60964817f949c1a15653fe96d5341ce986e6019f80d5a7e84e6c403af90fab",
           "py3"
         ]
       }
@@ -20885,14 +20905,6 @@
       ]
     }
   },
-  "def": {
-    "0.1.0": {
-      "sdist": [
-        "782d506dd578d7523460fe7663d5a450a3ff72d4e37c999085a1f8588fb00da5",
-        "def-0.1.0.tar.gz"
-      ]
-    }
-  },
   "def-print-list": {
     "1.0.0": {
       "sdist": [
@@ -24124,6 +24136,20 @@
       "wheels": {
         "dmit-0.3.5-py3-none-any.whl": [
           "7f89b0db8a04efde1342e1965a81eba06ac55601dd732c352b18b9013c2c374d",
+          "py3"
+        ]
+      }
+    }
+  },
+  "doc-datatypes": {
+    "0.0.4": {
+      "sdist": [
+        "efdf419f27ebb0549e1991920787cedd394a35680ffe0de91f2670d3adb7a731",
+        "doc_datatypes-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "doc_datatypes-0.0.4-py3-none-any.whl": [
+          "46e998a536fad7491ff422e590096cfdcebf073c7003276e0df2edffc32b67b2",
           "py3"
         ]
       }
@@ -39658,6 +39684,18 @@
       "wheels": {
         "json_logging-1.2.6-py2.py3-none-any.whl": [
           "c5aeaeb5ae51b8ca4381b08944326d6c8e9b12b5df85aa1c5956ab63ad6f7aeb",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.7": {
+      "sdist": [
+        "d614acfeb05982dd02f2bc587a2da2a7d49c38807182da98790266f88eb0374e",
+        "json-logging-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "json_logging-1.2.7-py2.py3-none-any.whl": [
+          "19bbf185c1730359edf64f94ca57644dea6863b843170ccc3b0e9260ea0d4129",
           "py2.py3"
         ]
       }
@@ -76908,6 +76946,42 @@
         ],
         "tf_nightly_cpu-2.4.0.dev20200827-cp38-cp38-win_amd64.whl": [
           "2570ce1ad5e85b3d9b96631af76ade4239971f2bf161f5d94ac5ceda07b23047",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200828": {
+      "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20200828-cp35-cp35m-macosx_10_6_intel.whl": [
+          "02af142b68906f685e6ad6e2c418802679a2eef8bf1912af933ee5011793302a",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "2899b4d0805adc4bad13c16ab8f8065ecbb8d564b971e4d9d82e3ca589fb35f1",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "863bf59f68efc3815c10b9be5afe2264e3b20f4c0bf94fefe545a5dd72672525",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f94f7994baa6707aca01a649bd99ebefaad0eadea605e64b177f455494914b9a",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "250f57176b25232a9be064db72db332a7dc4b7e08b91f52d763aa335ff2b8ebd",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "64bdba779f6b354e51ffef8b1b24c2a5d3076367b87cf450fc6c630c7cfb707e",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "bb76fde45fab834a284f0809f0a96a8417de3f1e98fb6d13f60e88ef30983a79",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200828-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cd1b33af4aefc79576e5ef3b7d4e5e04c9872d537b2eed788332df39dcec60c6",
           "cp38"
         ]
       }
