@@ -1875,6 +1875,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.7.3": {
+      "sdist": [
+        "ead201db6c73b62c85412cc5ac76ad70fa3b4587192a62b964bc1d84063bbb89",
+        "ask-smapi-model-1.7.3.tar.gz"
+      ],
+      "wheels": {
+        "ask_smapi_model-1.7.3-py2.py3-none-any.whl": [
+          "0404b6a38b94a3d442a4d16c963bd6b4f0970cd8b9c9d086b4aaeffbbc991035",
+          "py2.py3"
+        ]
+      }
     }
   },
   "asphalt-influxdb": {
@@ -11844,6 +11856,30 @@
       "wheels": {
         "dagster_postgres-0.9.3rc0-py3-none-any.whl": [
           "34ef5dc4ccdace82c17184f1ec9920540807e18e7500b891162b6014d4c053c0",
+          "py3"
+        ]
+      }
+    },
+    "0.9.4": {
+      "sdist": [
+        "1459c0eba96a97f72699b2d88bd5636dd7601e55afe48dc0c1c7ee9de3cc5147",
+        "dagster-postgres-0.9.4.tar.gz"
+      ],
+      "wheels": {
+        "dagster_postgres-0.9.4-py3-none-any.whl": [
+          "2db39111b28dab559ecf71bc4c31c5d4ccea849c39e341c1a659e5ee5717f870",
+          "py3"
+        ]
+      }
+    },
+    "0.9.4rc0": {
+      "sdist": [
+        "7cbe136e9f6dd9ed51f026f7ca1545160057f4f034fd29ee576cb1324950593b",
+        "dagster-postgres-0.9.4rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_postgres-0.9.4rc0-py3-none-any.whl": [
+          "0a64ca94439463e61584152bdfe2c15395e8a04a8cff9f171b171adf742883a1",
           "py3"
         ]
       }
@@ -35507,6 +35543,12 @@
         "cb23935d4044e5a2a9b04d2cc013d28e3208c93f0a6119daba54d6a68d1e3ff1",
         "mq_consumer-1.0.9.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "b26079a4866d0f62c49af27cbfc1c42a9611c9d037eb24174cc5dc2d1d6b7464",
+        "mq_consumer-1.1.0.tar.gz"
+      ]
     }
   },
   "mrg-core": {
@@ -37570,6 +37612,18 @@
         ]
       }
     },
+    "1.14.50.0": {
+      "sdist": [
+        "951f4017c83dd49d676fdcf5f67f1163c802e618e7191359b6bf760b8111997c",
+        "mypy-boto3-apigatewaymanagementapi-1.14.50.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_apigatewaymanagementapi-1.14.50.0-py3-none-any.whl": [
+          "55514ec679840b95dcd4185a4f1ef10929aaf495f25b8d75c7c4d1f89cadbfce",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "8e1037a2f2de7def787ae1c8bc715598ff81d07fe41511d5fe39321acfd2faea",
@@ -39376,6 +39430,18 @@
       "wheels": {
         "mypy_boto3_sns-1.14.5.0-py3-none-any.whl": [
           "2317a9f9e2bc36c6ebcf207254899ed5c736c6eecdc86f7666310de35bd4e2ea",
+          "py3"
+        ]
+      }
+    },
+    "1.14.50.0": {
+      "sdist": [
+        "74e59444ffdf54b52b18e2ae8d11e00979704cd596a01e54581738a01b59e907",
+        "mypy-boto3-sns-1.14.50.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sns-1.14.50.0-py3-none-any.whl": [
+          "d6b3e3e98a655a9d014e0144c98de52a4c7cdeb0dded86326b6c257b0640fc43",
           "py3"
         ]
       }
@@ -49755,6 +49821,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "69508abf235bcb356707b38a9e89f23dc5b4ee0ec25c7d34f20f87f526ba132e",
+        "pyradigms-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "pyradigms-0.0.3-py3-none-any.whl": [
+          "f40daf70b14a542698c88c390fd497482a673e072a7713b8623cd88b6afc887b",
+          "py3"
+        ]
+      }
     }
   },
   "pyramid-perfstat": {
@@ -58306,6 +58384,24 @@
       "sdist": [
         "a8e8e92147dcc521378162579d79ee6e1b02eb131829961d7c7e7b946ac9ec7a",
         "timesmash-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "de4a39a7a31aebc35c05ff45dd8f5adf462c38556999499f3133049f396bc74e",
+        "timesmash-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "49188f7e4216a4b7d88fb1ab50a561ef993f8417b60359926d3c3aacdce22349",
+        "timesmash-0.2.3.tar.gz"
+      ]
+    },
+    "0.2.4": {
+      "sdist": [
+        "4a5c39c3afccf6df2c4ee76225778e3ae75ebbb4984de64257c63419d10a8147",
+        "timesmash-0.2.4.tar.gz"
       ]
     }
   },
