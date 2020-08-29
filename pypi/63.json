@@ -623,6 +623,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "23cc544f0aecdd6afa1c5f8733bbe521199951586d57baef06e85bcd06e87246",
+        "AirSpider-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "AirSpider-2.0.1-py2.py3-none-any.whl": [
+          "6613ec6bb84876ac9c9c95e264ae9be42790f83cc4c58fdf88be77a4064eb749",
+          "py2.py3"
+        ]
+      }
     }
   },
   "akki-distributions": {
@@ -12889,20 +12901,6 @@
       }
     }
   },
-  "discovery-components": {
-    "2.3.5": {
-      "sdist": [
-        "8d8ba897f02bb33eeb7f6fddb9d22a9899ae3be4e512d35dffcc85a5e0c88551",
-        "discovery-components-2.3.5.tar.gz"
-      ],
-      "wheels": {
-        "discovery_components-2.3.5-py37-none-any.whl": [
-          "bc3142971fc45815c2cf9df333f1bd5cbffb869f74b2bd5798088bf0b13297f3",
-          "py37"
-        ]
-      }
-    }
-  },
   "disnodelogger": {
     "0.4": {
       "sdist": [
@@ -20459,20 +20457,6 @@
         "2f103d60fac0ef5fa56f96c14badcdebc7a8efa08f603afcb4353e3143552bea",
         "fftw-cffi-0.1.tar.gz"
       ]
-    }
-  },
-  "ffz.py": {
-    "1.3.2": {
-      "sdist": [
-        "9d30020dc788e44cdbdc42e1b647f5b9dd76eed4a7b4db7bb6d689943566f7a4",
-        "ffz.py-1.3.2.tar.gz"
-      ],
-      "wheels": {
-        "ffz.py-1.3.2-py3-none-any.whl": [
-          "289937af72a2835ccf1de5195971f49cbe36155adf46990e09f73565e296868f",
-          "py3"
-        ]
-      }
     }
   },
   "fgarcade": {
@@ -28263,6 +28247,62 @@
         "149cfa2a0bfa6be503c9dc7562102aa2140c14b58f0b6f5187c78c6d5508af52",
         "libpymath-0.0.6.tar.gz"
       ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "75b316cb06845c58712a7f26ab08808c03bdfa4478c91477c5d32cb77e30de8f",
+        "libpymath-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "libpymath-0.0.7-cp35-cp35m-macosx_10_9_intel.whl": [
+          "eb39ec72ed3783748e7bea4ea77990a9fbf9cd10781e7e514eab7c0c0214858a",
+          "cp35"
+        ],
+        "libpymath-0.0.7-cp35-cp35m-win32.whl": [
+          "547e5ac1423b8452c4e155ac8e1332881311af2e83f3a51ce05e58e4de58886d",
+          "cp35"
+        ],
+        "libpymath-0.0.7-cp35-cp35m-win_amd64.whl": [
+          "bc7412b0e3411c63d04b404d9e684160c605acf23d5b196f47e1d965c2e39e81",
+          "cp35"
+        ],
+        "libpymath-0.0.7-cp36-cp36m-macosx_10_9_intel.whl": [
+          "a8621234e15f062f439f38d0f8de66dbdfeb6f896f819fa31becba4e9e56a2e7",
+          "cp36"
+        ],
+        "libpymath-0.0.7-cp36-cp36m-win32.whl": [
+          "c6e616e4c75b792de544347b3434ec08f358e6ff64eb29a9fdcfe7ab5b482305",
+          "cp36"
+        ],
+        "libpymath-0.0.7-cp36-cp36m-win_amd64.whl": [
+          "ffb94d4e830172fce04110aae63174d713cc44958a7adafdc621014f50e99966",
+          "cp36"
+        ],
+        "libpymath-0.0.7-cp37-cp37m-macosx_10_9_intel.whl": [
+          "eabb166220164351bae55a1b670e6948178a58abc326f7a9b60f2db8d922de73",
+          "cp37"
+        ],
+        "libpymath-0.0.7-cp37-cp37m-win32.whl": [
+          "a8e6a49a98fe5806d1c79dd4a979ab97f18c404b975b67ec93e017f9bd084fb1",
+          "cp37"
+        ],
+        "libpymath-0.0.7-cp37-cp37m-win_amd64.whl": [
+          "277dd507429f62cf6b831629ddb59955ca4f633555f50051e9403ceb3a3204c7",
+          "cp37"
+        ],
+        "libpymath-0.0.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cd0d9aaf9a99c882f29646b9bf47b5d2c19444a4974b8af76906d802281bba14",
+          "cp38"
+        ],
+        "libpymath-0.0.7-cp38-cp38-win32.whl": [
+          "e0b9f89ffd04c0fff64fdd4dcd069dda3005a0946881ea62b16de6a378f02805",
+          "cp38"
+        ],
+        "libpymath-0.0.7-cp38-cp38-win_amd64.whl": [
+          "375ce584cef79aca4c8c8a990814a1613f863a5f48c08360e180df1d9c414002",
+          "cp38"
+        ]
+      }
     }
   },
   "libpynix": {
@@ -31878,6 +31918,18 @@
       "wheels": {
         "more_itertools-8.4.0-py3-none-any.whl": [
           "b78134b2063dd214000685165d81c154522c3ee0a1c0d4d113c80361c234c5a2",
+          "py3"
+        ]
+      }
+    },
+    "8.5.0": {
+      "sdist": [
+        "6f83822ae94818eae2612063a5101a7311e68ae8002005b5e05f03fd74a86a20",
+        "more-itertools-8.5.0.tar.gz"
+      ],
+      "wheels": {
+        "more_itertools-8.5.0-py3-none-any.whl": [
+          "9b30f12df9393f0d28af9210ff8efe48d10c94f73e5daf886f10c4b0b0b4f03c",
           "py3"
         ]
       }
@@ -35908,6 +35960,18 @@
       "wheels": {
         "mypy_boto3_eks-1.14.50.0-py3-none-any.whl": [
           "d2ade060af79570852785cb6e2f1693e86f781dde9fd83774ad20216cdc60398",
+          "py3"
+        ]
+      }
+    },
+    "1.14.51.0": {
+      "sdist": [
+        "bb354cf6cfe054ba5bc18a6f2ad7bfc6cc26acf3eb24a1eec267a5b5256ed7d5",
+        "mypy-boto3-eks-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_eks-1.14.51.0-py3-none-any.whl": [
+          "6fb7d91fbdc94672051793edcc18eb7f8ac4c6ebae308660c36478b04dc62d6c",
           "py3"
         ]
       }
@@ -60476,6 +60540,44 @@
       "wheels": {
         "trytonlq_account_personal-5.6.0-py3-none-any.whl": [
           "3942c1eb6b3377e1c840a3331a081bd060f1d4875c9fed090af236ad5171a32b",
+          "py3"
+        ]
+      }
+    }
+  },
+  "tuanalyzes": {
+    "0.0.1": {
+      "sdist": [
+        "e25260757535439a91df16f0beed892addda9965fea0c409647607771f09bc53",
+        "tuanalyzes-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tuanalyzes-0.0.1-py3-none-any.whl": [
+          "33df83aead28b091e6aefd825d70e834e7771b5db814c5a93b1e728ca9e570a5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f24395864ecbd3c4137c57d49e31e50a621f5d5fba2a3365ed75f36655c590e7",
+        "tuanalyzes-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "tuanalyzes-0.0.2-py3-none-any.whl": [
+          "06433f4430f67f66662a3b89e7e87fa9eb324d8cc6ec6ead3d432096b54af78f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "269d93fd03012c58a8254e7b6bf8b93ac93a1990b01ec700b4a58dda315c9869",
+        "tuanalyzes-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "tuanalyzes-0.0.3-py3-none-any.whl": [
+          "3b9fc0a7eacd380b2d8d124a9066b7a86e8e6c9d652621290c19486d85a8d079",
           "py3"
         ]
       }

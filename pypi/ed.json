@@ -9721,6 +9721,12 @@
         "077f0ba1923d6016024756591770f4267d0e306340dc644adfe8ccfd8661a6f0",
         "clickhouse-toolset-0.4.dev0.tar.gz"
       ]
+    },
+    "0.5.dev0": {
+      "sdist": [
+        "4db471324e5352d8cf34955eef3878b02a0cc65bde4e8f0a50769c3a04eaad34",
+        "clickhouse-toolset-0.5.dev0.tar.gz"
+      ]
     }
   },
   "clickoptiongroup": {
@@ -44918,6 +44924,18 @@
         ]
       }
     },
+    "1.14.51.0": {
+      "sdist": [
+        "1ada88e3571a8e898c6b308942c389f971e90e561a22dd057541c478b6d1319b",
+        "mypy-boto3-codeartifact-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codeartifact-1.14.51.0-py3-none-any.whl": [
+          "c396a61eb420ddabcbe3d7133aa6df1f704f4d18d449aa301cb15d564752b244",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "3233fa8462bbb87f7c20297af55dc65c5491c14b7a63007d58616d170942ef42",
@@ -46536,6 +46554,18 @@
       "wheels": {
         "mypy_boto3_dataexchange-1.14.50.0-py3-none-any.whl": [
           "3266acf0d0015bbaebcaaebf4288e9fd49c30a54f1c33c36e030d86523527c92",
+          "py3"
+        ]
+      }
+    },
+    "1.14.51.0": {
+      "sdist": [
+        "c59a59383e1f23302b97b21942b71f9fc39298c42ef07c23d64bc559280fcf62",
+        "mypy-boto3-dataexchange-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dataexchange-1.14.51.0-py3-none-any.whl": [
+          "f1d94105218189dd98d0b01eb8a3cb738e5fd58e717ca95ca7e411a49a25b7c8",
           "py3"
         ]
       }
@@ -48362,6 +48392,18 @@
         ]
       }
     },
+    "1.14.51.0": {
+      "sdist": [
+        "6f2a00f143ab00f3261208132fccf512d9c65dc3d32595f915aa1cdd4cad685c",
+        "mypy-boto3-fms-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fms-1.14.51.0-py3-none-any.whl": [
+          "db56a466f823080c37724d087b4470652e82e411bde571117960acb9ed83830b",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "d4b7758110238a16873c06f96ce41c6b8bc9965d02deff1b68b184aabe81824f",
@@ -49463,6 +49505,18 @@
         "1761691862aad99433c492b4ed5511cd6ceb3e51fe174d5cbe00099ead6281f0",
         "nproc-1.2.tar.gz"
       ]
+    },
+    "1.3": {
+      "sdist": [
+        "e1b9526cba9a0ae21cece16f303a37b20812bd9502d46f02608e01c55cdb51a1",
+        "nproc-1.3.tar.gz"
+      ],
+      "wheels": {
+        "nproc-1.3-py3-none-any.whl": [
+          "a6cb0d34db984abdf5900b2d39259c68f0b2680170a6532c9ccd511281b4e1fa",
+          "py3"
+        ]
+      }
     }
   },
   "nttpipeline": {
@@ -62995,6 +63049,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.7": {
+      "wheels": {
+        "scikit_hep_testdata-0.3.7-py2.py3-none-any.whl": [
+          "02ec94b916a3a1eb250a743d334f805c6c769a23e2983d70e3030c6a4ec4b265",
+          "py2.py3"
+        ]
+      }
     }
   },
   "scikit-surgery": {
@@ -65454,142 +65516,18 @@
     }
   },
   "smartpii-installer": {
-    "1.0.23": {
+    "1.0.45": {
       "wheels": {
-        "smartpii_installer-1.0.23-cp38-cp38-manylinux1_x86_64.whl": [
-          "25b133819fed74ff8f40024d6fb658b0141c6c3c2c2a0ee663a29f8c765ce8e4",
+        "smartpii_installer-1.0.45-cp38-cp38-manylinux1_x86_64.whl": [
+          "36e2ba404d6a0c4fd93a7f2ffbd794d59515e8e178788e53291c2c302a66b7cf",
           "cp38"
         ]
       }
     },
-    "1.0.24": {
+    "1.0.46": {
       "wheels": {
-        "smartpii_installer-1.0.24-cp38-cp38-manylinux1_x86_64.whl": [
-          "664b1ca30d4609eccb0d7cc8391fffaa94f5f73b77bc1c35165b2881e4dbf7f6",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.25": {
-      "wheels": {
-        "smartpii_installer-1.0.25-cp38-cp38-manylinux1_x86_64.whl": [
-          "e36ef976bcca6d9fbe4c25edaecb13f4db92234eb1b9aebee31d5f66d69f8c32",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.26": {
-      "wheels": {
-        "smartpii_installer-1.0.26-cp38-cp38-manylinux1_x86_64.whl": [
-          "df946028303070dfcebfe0190598f613d018b47b48c03ab9b12df854f08f4af0",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.27": {
-      "wheels": {
-        "smartpii_installer-1.0.27-cp36-cp36m-manylinux1_x86_64.whl": [
-          "6e75623c7fa8a3f0965d71ed9446c9603f306070e1dfece7549495e4340ed4a2",
-          "cp36"
-        ],
-        "smartpii_installer-1.0.27-cp38-cp38-manylinux1_x86_64.whl": [
-          "0f2ab95baa69ca120cad8d62bc0811a295257d042a6498f93f2d846e31bc124b",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.28": {
-      "wheels": {
-        "smartpii_installer-1.0.28-cp38-cp38-manylinux1_x86_64.whl": [
-          "5b0eea80896638e543da0b8343aa0ad0daefd8a90fd1c0194cde1693600fe91e",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.29": {
-      "wheels": {
-        "smartpii_installer-1.0.29-cp38-cp38-manylinux1_x86_64.whl": [
-          "90be40eaa2095e7039e2304dce3234e7d53c4813a0b40761bc3c576fd8016655",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.30": {
-      "wheels": {
-        "smartpii_installer-1.0.30-cp38-cp38-manylinux1_x86_64.whl": [
-          "ed5146cb25e2e975c37d9d9f6202b001423aa0ead5203adce8e135e8eb0be21c",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.31": {
-      "wheels": {
-        "smartpii_installer-1.0.31-cp36-cp36m-manylinux1_x86_64.whl": [
-          "36557a4d953eae8d58c8b645143ffe2df3ab78b462777fbe496c568c58c78a82",
-          "cp36"
-        ],
-        "smartpii_installer-1.0.31-cp38-cp38-manylinux1_x86_64.whl": [
-          "0ab2e89099e167611bcd290cfaa0e3c4a270afe917afe6f32d14508101954947",
-          "cp38"
-        ],
-        "smartpii_installer-1.0.31-cp38-cp38-win_amd64.whl": [
-          "bf8b87096dc472f0a776f298613cc8548ea01cacd1ffa11a459e1535bfbc924a",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.32": {
-      "wheels": {
-        "smartpii_installer-1.0.32-cp36-cp36m-manylinux1_x86_64.whl": [
-          "c16883cc9d312c2863b3555977d51df6d4525962748d80a6325f9080c5e9cf60",
-          "cp36"
-        ],
-        "smartpii_installer-1.0.32-cp38-cp38-manylinux1_x86_64.whl": [
-          "db05c32c25f700790896f6e3a1aa374a38364223710a1245b2cf900738e2624c",
-          "cp38"
-        ],
-        "smartpii_installer-1.0.32-cp38-cp38-win_amd64.whl": [
-          "2039bdeaf7c7951773dd1a046c1ba079fef64dc2dfb726bbcd4d3af986e51bdb",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.33": {
-      "wheels": {
-        "smartpii_installer-1.0.33-cp36-cp36m-manylinux1_x86_64.whl": [
-          "941274fbe5de6aa8849bb53078bf9a31bdd990e4a550a1c1bde118cbee0e2ab5",
-          "cp36"
-        ],
-        "smartpii_installer-1.0.33-cp38-cp38-manylinux1_x86_64.whl": [
-          "a03612e12c6c54263fa6a324131640ac501b9a0eeb3ab883844a31cbe39202ea",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.34": {
-      "wheels": {
-        "smartpii_installer-1.0.34-cp38-cp38-win_amd64.whl": [
-          "b9c5356dec42f2c6037b77d59b694b58afe876bef44289db26ecfbbb40a3c637",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.35": {
-      "wheels": {
-        "smartpii_installer-1.0.35-cp38-cp38-manylinux1_x86_64.whl": [
-          "b894d34edd345d6f0a0f4232337cbf052609a406b23d38a00cdc4879667a17d2",
-          "cp38"
-        ],
-        "smartpii_installer-1.0.35-cp38-cp38-win_amd64.whl": [
-          "09da9572111fa7164fc067a4c0056cf48fb1702d9be4f1c50ff5dfe784a31cfe",
-          "cp38"
-        ]
-      }
-    },
-    "1.0.36": {
-      "wheels": {
-        "smartpii_installer-1.0.36-cp38-cp38-manylinux1_x86_64.whl": [
-          "ef93caebc0f7c359a9ae173f6e1a8843a018af9784e902c1dc9144a7e1814129",
+        "smartpii_installer-1.0.46-cp38-cp38-manylinux1_x86_64.whl": [
+          "4bf98250ae3b68e60318495177fa4b0674f128bef9fafa4d0ea5b03be718bd90",
           "cp38"
         ]
       }

@@ -6673,6 +6673,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "wheels": {
+        "byb2lsl-0.0.6-py3-none-any.whl": [
+          "85b971f0c5397ab38f35e2b4cf92a757a951cf7faf9fc7ebb12a795498594d16",
+          "py3"
+        ]
+      }
     }
   },
   "c14-jpic": {
@@ -39420,14 +39428,20 @@
     }
   },
   "miceforest": {
-    "1.0.1": {
+    "1.0.3": {
       "sdist": [
-        "8742690bf02555aec71cf00412d1a9128d0e1edf0235a5678017864b4e54c926",
-        "miceforest-1.0.1.tar.gz"
+        "5951df0ba3364b3e3bbcbf60122b4dcacc204d3fe50209c547728ba0fcf01b0e",
+        "miceforest-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "67a0dea367de83c961a6adce87fa2b1878f5758572d3a56cd72c3d14f88d06dc",
+        "miceforest-1.0.4.tar.gz"
       ],
       "wheels": {
-        "miceforest-1.0.1-py3-none-any.whl": [
-          "642364fbb59832cb4d56f92d4e55fdfeb3f99acfcb36047b49cd11cc0463bca5",
+        "miceforest-1.0.4-py3-none-any.whl": [
+          "0de273c194fe416b41b4cee0748d032e2b8cfe5635f8a4ed39e291d24799f3b6",
           "py3"
         ]
       }
@@ -42032,6 +42046,18 @@
         ]
       }
     },
+    "1.14.51.0": {
+      "sdist": [
+        "295dedc4ed596e8cfdd6b0bf90db706a75992aa7b9584417d8f1680ce6310e41",
+        "mypy-boto3-docdb-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_docdb-1.14.51.0-py3-none-any.whl": [
+          "3b1b21d92f975146c37f10aa494597ee3795cbc24d0425a496c12a67c2f884f4",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "962dae54b856989436ab40f4b6fbf3302f274caea06c04dc8e4a1f307adff002",
@@ -43866,6 +43892,18 @@
       "wheels": {
         "mypy_boto3_ec2-1.14.50.0-py3-none-any.whl": [
           "09df336c8346f4c16ec675ab455660bdcf0b0ae62585934f955ba467fc5f2da6",
+          "py3"
+        ]
+      }
+    },
+    "1.14.51.0": {
+      "sdist": [
+        "23d665408899a9908ea4d12c750de711d6add4aa2d572837ea3c7d3b97e1421c",
+        "mypy-boto3-ec2-1.14.51.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ec2-1.14.51.0-py3-none-any.whl": [
+          "f0ba6949eea68794edfdb76663f3c50b47e3e5ffa78d273de55042dd0340bcc8",
           "py3"
         ]
       }
@@ -77813,6 +77851,94 @@
         "zhinst-20.1.2199-cp37-cp37m-win_amd64.whl": [
           "6f502525742d10ce21d1c472cf5b5a30a803216c7eb6866f1203b17cdf630b9f",
           "cp37"
+        ]
+      }
+    },
+    "20.7.2238": {
+      "wheels": {
+        "zhinst-20.7.2238-cp27-cp27m-macosx_10_11_x86_64.whl": [
+          "9ed961f50240359a11a344e6e3fa079efc83ce6de3af4977050530958b7e7f70",
+          "cp27"
+        ],
+        "zhinst-20.7.2238-cp27-cp27m-manylinux1_x86_64.whl": [
+          "33a92f977fc431205b9772273f88f059d8cf8aadb857a01800a79c54d181e29c",
+          "cp27"
+        ],
+        "zhinst-20.7.2238-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "24fd5388198ebd79491613674f662a1b5e5f7dbec986bd66a7ee08a977035f35",
+          "cp27"
+        ],
+        "zhinst-20.7.2238-cp27-cp27m-win32.whl": [
+          "83ec49d5cdfb765b35682419e568b59578364b8dba657fe939f3897831aecaa2",
+          "cp27"
+        ],
+        "zhinst-20.7.2238-cp27-cp27m-win_amd64.whl": [
+          "87d72716c51a39543a4f5733b9689986d3a4b6388513e052c741906940a46e60",
+          "cp27"
+        ],
+        "zhinst-20.7.2238-cp35-cp35m-macosx_10_11_x86_64.whl": [
+          "045fb5e87281343d6bd97a27f4bddc6e8fe582bd8ca539e5945941f1c52f34ac",
+          "cp35"
+        ],
+        "zhinst-20.7.2238-cp35-cp35m-manylinux1_x86_64.whl": [
+          "4a34ab5f406142ef4713753da0f66a274759fd778887d99a92609b840dd64125",
+          "cp35"
+        ],
+        "zhinst-20.7.2238-cp35-cp35m-win32.whl": [
+          "f34ed110e9ac18232985a0c35aa2e750aaa66b89e55d15a0e457d73b057b136b",
+          "cp35"
+        ],
+        "zhinst-20.7.2238-cp35-cp35m-win_amd64.whl": [
+          "38e26aee35e03dd11770f1e5b21eb1f6efd76eb6f4e3acd9202f6572fd6d3d04",
+          "cp35"
+        ],
+        "zhinst-20.7.2238-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "a1b5c7fd497bd8c100cebc26b0ec2c95284091ce0cffb6e271e2ce1fbd16c775",
+          "cp36"
+        ],
+        "zhinst-20.7.2238-cp36-cp36m-manylinux1_x86_64.whl": [
+          "71de11398df58fd0575a2e4e2b7ef4fbfb82ef4a01edf2acfed27b7abb562b94",
+          "cp36"
+        ],
+        "zhinst-20.7.2238-cp36-cp36m-win32.whl": [
+          "4721400a124b4dd86a2b049646ffd9f5fc6154eece323b2a3eda6058ec523528",
+          "cp36"
+        ],
+        "zhinst-20.7.2238-cp36-cp36m-win_amd64.whl": [
+          "c30932c0f442c95afc164f46ca4292b1ce61af439a13d22ac05e1b606882eacf",
+          "cp36"
+        ],
+        "zhinst-20.7.2238-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "fd19ac666b6ddd006df87cb99c4eb6d4c6a7da0ddff97bbf99630326d9507708",
+          "cp37"
+        ],
+        "zhinst-20.7.2238-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d6eb62a5730fa103e799491bd2577da7d49427ee3359fe1d8f1ef2dd364dcf92",
+          "cp37"
+        ],
+        "zhinst-20.7.2238-cp37-cp37m-win32.whl": [
+          "3814535acabe0dea79009bbbb14df68a36f17bf8492101b9b3c087d394a70043",
+          "cp37"
+        ],
+        "zhinst-20.7.2238-cp37-cp37m-win_amd64.whl": [
+          "d7c3f6c72a13b419d900bef5c78faa139c3e3de4bddc96e96db996fda933adb0",
+          "cp37"
+        ],
+        "zhinst-20.7.2238-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "ab2b23fdc55eb09e8158e4d62f0a9f9534299c77ac6fe785be00f2b6bc84210e",
+          "cp38"
+        ],
+        "zhinst-20.7.2238-cp38-cp38-manylinux1_x86_64.whl": [
+          "009d194763f160ceaa87747ab43dec6113ecb0ed390842a4668c1665eee75297",
+          "cp38"
+        ],
+        "zhinst-20.7.2238-cp38-cp38-win32.whl": [
+          "7f915cff55f8db494bae345237e7aa9c1750b421bf6b3240fbbfb1cb84b25ec8",
+          "cp38"
+        ],
+        "zhinst-20.7.2238-cp38-cp38-win_amd64.whl": [
+          "add0bc96f4806c456deb3bcaff90c1f6a5ae2989f3344b60ea9b2a3f403d8bdf",
+          "cp38"
         ]
       }
     }
