@@ -9487,6 +9487,20 @@
       ]
     }
   },
+  "clintpdf": {
+    "1.0": {
+      "sdist": [
+        "5f6347d527f3a6f76ba9f0e4d1af1b8cad8a150b413e9cf53e404ca47b1eecd6",
+        "clintpdf-1.0.tar.gz"
+      ],
+      "wheels": {
+        "clintpdf-1.0-py3-none-any.whl": [
+          "82fc9fd4f3e79805b52089a7f831e7e2d581c4dbb894a46104ca0457070078f7",
+          "py3"
+        ]
+      }
+    }
+  },
   "cliresms": {
     "0.2.0": {
       "sdist": [
@@ -31187,80 +31201,6 @@
       }
     }
   },
-  "kriegbot": {
-    "0.1a0": {
-      "sdist": [
-        "9ac8b182e103854f4245e22682ceb3328651b5ff8aa9457e924ea176310a1695",
-        "kriegbot-0.1a0.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.1a0-py3-none-any.whl": [
-          "2619f24d848ef8d9ec0c703483facc15a9db791e0ba81d06661f180b98b446cb",
-          "py3"
-        ]
-      }
-    },
-    "0.2a0": {
-      "sdist": [
-        "fdbb7ad4c2773095f139b25dfcd9b17bdbdc8fe114e0cc20765273c5ed6b4265",
-        "kriegbot-0.2a0.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.2a0-py3-none-any.whl": [
-          "3b1dec558f4c48937e61261e1260cfbb0008b38646cd71714cbae58f638c4b93",
-          "py3"
-        ]
-      }
-    },
-    "0.3a0": {
-      "sdist": [
-        "dbeb97b6a3a010aea84b7e9f3d665df1c76e0fb8e36e3d4fc45ec385f9589f34",
-        "kriegbot-0.3a0.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.3a0-py3-none-any.whl": [
-          "9ea92937708c877bc895897af24a988a5cb7af54a2a6e7dff140177ec1e95d8b",
-          "py3"
-        ]
-      }
-    },
-    "0.4a0": {
-      "sdist": [
-        "85a4f93444d9466f77f982c7be5d08e579f659bd7624c603a44fd50b3496a0a6",
-        "kriegbot-0.4a0.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.4a0-py3-none-any.whl": [
-          "3490ff8e7c8f65c7b335ad874e106f8ead353f06551b64ab4b0accf4c53e1494",
-          "py3"
-        ]
-      }
-    },
-    "0.4a1": {
-      "sdist": [
-        "e2a5cf21d2b623be404e82fc28a88fe02aef71f9e5470b712b00e34e578b5c45",
-        "kriegbot-0.4a1.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.4a1-py3-none-any.whl": [
-          "4a63d72f8e4cdaedfb775f2866837edb176108ed86f5aa7768cc8417400a4439",
-          "py3"
-        ]
-      }
-    },
-    "0.4a2": {
-      "sdist": [
-        "f1267a2e7cfcc535bac4ea80a20f6f311cc698c0448bba7c5e3cae1a3a630f4a",
-        "kriegbot-0.4a2.tar.gz"
-      ],
-      "wheels": {
-        "kriegbot-0.4a2-py3-none-any.whl": [
-          "b8793bc0f6a5bbc766c2a695159cb52a2a83498e978de9eac228a4b7b8e0648a",
-          "py3"
-        ]
-      }
-    }
-  },
   "kubetemp": {
     "0.1": {
       "wheels": {
@@ -51289,20 +51229,6 @@
       ]
     }
   },
-  "pybaseball2": {
-    "2.0.0": {
-      "sdist": [
-        "c9b466e404c2b28735348a7c0cd8756be7e096c49eda76396db2aa990e0a2add",
-        "pybaseball2-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "pybaseball2-2.0.0-py3-none-any.whl": [
-          "53529924157d1a4c1afc57b85f9ed9592e11824256b613c9864e0fa385278171",
-          "py3"
-        ]
-      }
-    }
-  },
   "pybga": {
     "0.6": {
       "sdist": [
@@ -51660,12 +51586,24 @@
           "4d2d143cb97af5e84882462116abadc455a380a180e75a4567a1d2537b210ea1",
           "cp37"
         ],
+        "pybinding-0.9.5-cp37-cp37m-win32.whl": [
+          "396d00e64b4d74e553dd4260aea4d1de3c9d381558e869abd9e61b3d946a3dce",
+          "cp37"
+        ],
         "pybinding-0.9.5-cp37-cp37m-win_amd64.whl": [
           "b751534f30b2b07f423be9b761cf745c06cc5daa7ed7e1f36e5862f9180ecea9",
           "cp37"
         ],
         "pybinding-0.9.5-cp38-cp38-macosx_10_9_x86_64.whl": [
           "b2badbc39a79251e2c5593fb27d5aae1bdcbdcbb6efd76dfb01af8b8e5ddb069",
+          "cp38"
+        ],
+        "pybinding-0.9.5-cp38-cp38-win32.whl": [
+          "6764ce0bd936a8e2b0f4d376f0b0ddba7b1f71a39261707382bd28cef630719a",
+          "cp38"
+        ],
+        "pybinding-0.9.5-cp38-cp38-win_amd64.whl": [
+          "845dfdbc5a2718bdf9b25f4d05bdf49696709945c62f1146067b22368a82afc0",
           "cp38"
         ]
       }

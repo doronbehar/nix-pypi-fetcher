@@ -635,6 +635,30 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.2": {
+      "sdist": [
+        "049cc0c21e6fe6b9bcfa30c2e48e4419e8b32f02662b8849d4d26f6221b45caa",
+        "AirSpider-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "AirSpider-2.0.2-py2.py3-none-any.whl": [
+          "fe383d810f859cd8c91b063745c6b14bfbea440d57366dc62f7fc145fefa8002",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.3": {
+      "sdist": [
+        "2068f78e0d5bd3c262e1cd6175fce7d08b64aa2d36e730171f4ceb6466713e42",
+        "AirSpider-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "AirSpider-2.0.3-py2.py3-none-any.whl": [
+          "fc3998cd5a57fcd87297b9458b0e1afaf28b55c2817488663e03026c4fe887cd",
+          "py2.py3"
+        ]
+      }
     }
   },
   "akki-distributions": {
@@ -21837,6 +21861,12 @@
         "912e74d13692f603817f631e1b0f74f896b04e2a814de04b6b3d5c91f4648b9b",
         "gauss_dsnd-1.0.tar.gz"
       ]
+    },
+    "1.1": {
+      "sdist": [
+        "76df043da9a1ef6f8d40d2dad98849250ded51ec1f5a722b1974e8bf3ae32385",
+        "gauss_dsnd-1.1.tar.gz"
+      ]
     }
   },
   "gaussbinodist": {
@@ -28182,6 +28212,86 @@
         ],
         "libpymath-0.0.12-cp38-cp38-manylinux1_x86_64.whl": [
           "a531c380d12189268c82ac3275da4688f78dcd433c006d6f1aeb64daaa5c72f5",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "ffca074e6951118366d8bfd736d3ac533b2aa15e50bf053c982681b4705f6d36",
+        "libpymath-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "libpymath-0.0.13-cp35-cp35m-manylinux1_i686.whl": [
+          "5c1b2e8bfa4c120ac9d4ae5c0d710ed8c03aac7d5534f36bc69d02e838afeef6",
+          "cp35"
+        ],
+        "libpymath-0.0.13-cp35-cp35m-manylinux1_x86_64.whl": [
+          "cab1088ec0a05ba06b2dc4d6b6ee631aa18cf47355c5b51ebf343c4f6d5504c6",
+          "cp35"
+        ],
+        "libpymath-0.0.13-cp36-cp36m-manylinux1_i686.whl": [
+          "330f692547ae73df85de92f47af3f76671468ebc4d3cfd865943f03c9a6e6040",
+          "cp36"
+        ],
+        "libpymath-0.0.13-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b53e38222877782f5f6c56eabc1c784b062010314f6ed6822c9a61dc7ad8ceda",
+          "cp36"
+        ],
+        "libpymath-0.0.13-cp37-cp37m-manylinux1_i686.whl": [
+          "d744a87b64ed859cc57e60e97ab4f4f352d0d7493edf94c025da9c24eb1b7c23",
+          "cp37"
+        ],
+        "libpymath-0.0.13-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4429842e85a82ac76681f55cefeea93eb35a17e06bfb0460e15e234069676ed3",
+          "cp37"
+        ],
+        "libpymath-0.0.13-cp38-cp38-manylinux1_i686.whl": [
+          "2bbcc2efff950b19f0d72873783afd60bdba23c035639b59a11a6de55f13066f",
+          "cp38"
+        ],
+        "libpymath-0.0.13-cp38-cp38-manylinux1_x86_64.whl": [
+          "449f2817b03639f59385438696a677fefe1964846e9bb8e3f8c466b46689e5eb",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "952481f8d320503d41fa955f178a5e594df6ead0d7c7b6822d8efc3317e062ac",
+        "libpymath-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "libpymath-0.0.14-cp35-cp35m-manylinux1_i686.whl": [
+          "2f6ae84bc41d2b90c8237c01019737d6f27c2f163441d2d5c169f68d3cf9cbe1",
+          "cp35"
+        ],
+        "libpymath-0.0.14-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e85513aec658ca05f9db5af70c414bea8041e8e0a8d58e964b6017533fb60327",
+          "cp35"
+        ],
+        "libpymath-0.0.14-cp36-cp36m-manylinux1_i686.whl": [
+          "8f40dfc95c4c92377519a9fa559618ec95b8747a62380908cec769bbf4c8e04a",
+          "cp36"
+        ],
+        "libpymath-0.0.14-cp36-cp36m-manylinux1_x86_64.whl": [
+          "e710bfdf9b75e79872b445adaa69871ff74c5f9a135241752068c0a711090c7b",
+          "cp36"
+        ],
+        "libpymath-0.0.14-cp37-cp37m-manylinux1_i686.whl": [
+          "cc8c05b8acff178c8849b10168bf27447d08527b456e607a9d4f2c01f0207ffb",
+          "cp37"
+        ],
+        "libpymath-0.0.14-cp37-cp37m-manylinux1_x86_64.whl": [
+          "115821eeb57cc968ebdf5c46b37f0ab8344cd3d5b1f0a3a321a683ea03e20547",
+          "cp37"
+        ],
+        "libpymath-0.0.14-cp38-cp38-manylinux1_i686.whl": [
+          "7d890e4c2d2a0994c3c489b603e3ee83016c3785eb68756004b86899bcc9b68a",
+          "cp38"
+        ],
+        "libpymath-0.0.14-cp38-cp38-manylinux1_x86_64.whl": [
+          "6aa4c31dc78dc6a5984df4d1f299c85b3f6de62622098beec411832f8e331679",
           "cp38"
         ]
       }
@@ -49295,6 +49405,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1008a4b94943f1e534d08889dcf77861beb7796ae7193ab90677e50513c250fe",
+        "pytorch_model_summary-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_model_summary-0.1.2-py3-none-any.whl": [
+          "ba71f46038a2c6d71e1275f2e61ff0bb367f54dc8df942a5643a5bbd280482db",
+          "py3"
+        ]
+      }
     }
   },
   "pytorch-tools": {
@@ -62646,6 +62768,18 @@
       "wheels": {
         "wayslack2-0.4.4-py2-none-any.whl": [
           "3aa58ace7e702e8c4edb1b558df2b79faa85ca6c1eb35ce340588eab1a3d71e5",
+          "py2"
+        ]
+      }
+    },
+    "0.4.5": {
+      "sdist": [
+        "4e75fbdd5cd42a1a70d5ac4bfeaf843ff8eaeec57f601b5c87eb189275985ea7",
+        "wayslack2-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "wayslack2-0.4.5-py2-none-any.whl": [
+          "0062f1f50c74050ac1f535162c70af6c0a10cbd6d35d33148da154d5359bf7e9",
           "py2"
         ]
       }
