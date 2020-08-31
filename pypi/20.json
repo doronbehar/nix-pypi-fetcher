@@ -14451,14 +14451,6 @@
       ]
     }
   },
-  "dependencymanagement": {
-    "0.1.1": {
-      "sdist": [
-        "35ed1a4f34aadc0d9826a131a97d91b033a05058c538ba0433c0b68503423755",
-        "dependencymanagement-0.1.1.tar.gz"
-      ]
-    }
-  },
   "depflow": {
     "0.0.3": {
       "sdist": [
@@ -14488,62 +14480,6 @@
       "sdist": [
         "072cb40a797fc1696a1a5f340b5c72c0fa5787dfe63d99532dc4cc8c2ef9de9f",
         "depflow-0.0.7.tar.gz"
-      ]
-    }
-  },
-  "devai": {
-    "0.0a1": {
-      "sdist": [
-        "432ce679092e9338d57b6e7cc6426d21176692c48b119dd77a3454a2296738d6",
-        "devai-0.0a1.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a1-py3-none-any.whl": [
-          "a2e6a8a6137550246bc7de6f86a29425ea8bf7849d767636beaf89a50291ef3f",
-          "py3"
-        ]
-      }
-    },
-    "0.0a2": {
-      "sdist": [
-        "f42084f1f6f6e286ca245683b928cfa3c981d1e5f79b4ce621fe60e7ec3eaa85",
-        "devai-0.0a2.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a2-py3-none-any.whl": [
-          "d07bed47298dedbf8fd9ada0ef79a88b8406f2097860b35caf6c52dfd79bcc36",
-          "py3"
-        ]
-      }
-    },
-    "0.0a3": {
-      "sdist": [
-        "6aa208bb09f029d2191020b30490ac7cfb7307679c045cc9cbf35a3cd12bb4b3",
-        "devai-0.0a3.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a3-py3-none-any.whl": [
-          "27ca2560fbfc920afba6b29ec8c001a8cbd89fb2de7259194a1adb1062d10b87",
-          "py3"
-        ]
-      }
-    },
-    "0.0a4": {
-      "sdist": [
-        "36cde0402d4e4263965c735a6f45f29655ec5f37b325664c6bca4900ebe58536",
-        "devai-0.0a4.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a4-py3-none-any.whl": [
-          "4ec47f0d4f6df1b72605723202566f4bdb0382cecbc1a9e2ffdd209202ff64f1",
-          "py3"
-        ]
-      }
-    },
-    "0.0a5": {
-      "sdist": [
-        "2ee9e44f97b2096a4def932db53849d84f893877d9ebe7ea32ef12e38f90fc65",
-        "devai-0.0a5.tar.gz"
       ]
     }
   },
@@ -45188,6 +45124,12 @@
         "pulumi_newrelic-3.2.1.tar.gz"
       ]
     },
+    "3.3.0": {
+      "sdist": [
+        "04289a79f2eb2e9183675759f14e6e140527079a0db35b93c2602b7df406009f",
+        "pulumi_newrelic-3.3.0.tar.gz"
+      ]
+    },
     "3.3.0a1597438283": {
       "sdist": [
         "dac8bf37ab311ced49648dd4c9c62d906b1bf18309cb0fe4142bc0cc822e9b74",
@@ -58245,80 +58187,6 @@
       }
     }
   },
-  "smart-tag-tools": {
-    "0.0.2": {
-      "sdist": [
-        "94fe8b17f6ae03a20dc4c4234a30c45795fe09397a44a4acb3d8f43122a53883",
-        "smart_tag_tools-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "44334a88fe904482a12723ec1a9bb8e33bbd7c7c257831985a93ae96003dab34",
-        "smart_tag_tools-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "9590853ab128b59c7e21c6d4ba3616bcb3df02e7f833b0e375bdf472fc405d9d",
-        "smart_tag_tools-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "dc3dd2ef4d8f9da481794dd45559c50a878821cd16ec22be6cb2f78d57a9abe7",
-        "smart_tag_tools-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "e714c80dadf7c11019f056c64e6fbfc002dc76c3eb9ab5b80c9793c4187f58a6",
-        "smart_tag_tools-0.0.6.tar.gz"
-      ]
-    },
-    "0.0.7": {
-      "sdist": [
-        "6903f6655ea85de99e72f70a69b4a1b2e81c8b340ca35970e33dfb9c101cc708",
-        "smart_tag_tools-0.0.7.tar.gz"
-      ]
-    },
-    "0.0.7.post1": {
-      "sdist": [
-        "a1f94cf79198be3435bbe0f18e491a6ec56df3cbe6bc28343fd9c3ea9d291e6e",
-        "smart_tag_tools-0.0.7.post1.tar.gz"
-      ]
-    },
-    "0.0.7.post2": {
-      "sdist": [
-        "69c06dfcad7d3ce2f329815e14d3182ffb1cab2cdbae9c6434d5167f9855206f",
-        "smart_tag_tools-0.0.7.post2.tar.gz"
-      ]
-    },
-    "0.0.7.post3": {
-      "sdist": [
-        "67fd4a133adcef7613706c5acaf34bcb1b20a1a64a50fa3494ab789e49e6e3b8",
-        "smart_tag_tools-0.0.7.post3.tar.gz"
-      ]
-    },
-    "0.0.7.post4": {
-      "sdist": [
-        "63cbdf5d0d7df70c790d42af3c2352cd6672966bbeaaf810281f9def47cede28",
-        "smart_tag_tools-0.0.7.post4.tar.gz"
-      ]
-    },
-    "0.0.7.post5": {
-      "sdist": [
-        "9f7fd2a5de96eaee5689c07ca2fff62173665dfbd2759e4e676a17a49d360da0",
-        "smart_tag_tools-0.0.7.post5.tar.gz"
-      ]
-    },
-    "0.0.7.post6": {
-      "sdist": [
-        "a95d76d1d881d53448191bc63d65da164add9cfc4867786d9459a967f64489f0",
-        "smart_tag_tools-0.0.7.post6.tar.gz"
-      ]
-    }
-  },
   "smarthab": {
     "0.10": {
       "sdist": [
@@ -63286,6 +63154,18 @@
       "wheels": {
         "temboard_agent-7.0a3-py2.py3-none-any.whl": [
           "aa22d6c0fce097d8be3cec00e824252658b5a83ba743bd1112806189f5abfe72",
+          "py2.py3"
+        ]
+      }
+    },
+    "7.0a4": {
+      "sdist": [
+        "7ee7f090ddd899659cdaface17ba104f001cfc8f9955742ea796b4ab020e7048",
+        "temboard-agent-7.0a4.tar.gz"
+      ],
+      "wheels": {
+        "temboard_agent-7.0a4-py2.py3-none-any.whl": [
+          "c78d9204c178519dbb0ee3e773738a07567d3ebe0a5777f9687593f2b37937a7",
           "py2.py3"
         ]
       }
