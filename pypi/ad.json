@@ -7123,6 +7123,20 @@
       }
     }
   },
+  "cmd.py": {
+    "1.1": {
+      "sdist": [
+        "4d5186e467864103346d89344f146ca3318272ef8a8a9c7184a38eba18c07e4a",
+        "cmd.py-1.1.tar.gz"
+      ]
+    },
+    "1.11": {
+      "sdist": [
+        "d118cda44457d02eae96c28c3222c0ac1bce65231eb77177239ea675f8dabf83",
+        "cmd.py-1.11.tar.gz"
+      ]
+    }
+  },
   "cmd3": {
     "0.8.1": {
       "sdist": [
@@ -12368,6 +12382,18 @@
       "wheels": {
         "discovery_transition_ds-2.9.14-py37-none-any.whl": [
           "721f47a137341229af245e6c47f0f34a19b7af13bd1e95228412a60acfd51d78",
+          "py37"
+        ]
+      }
+    },
+    "2.9.19": {
+      "sdist": [
+        "23364899114dc6028bec099910f46960a9572287b81dded226be0d1cf779d050",
+        "discovery-transition-ds-2.9.19.tar.gz"
+      ],
+      "wheels": {
+        "discovery_transition_ds-2.9.19-py37-none-any.whl": [
+          "d944036d3bee3b7cf0707d9e4a0508fcb798eaaa10510970197f23b290cc663e",
           "py37"
         ]
       }
@@ -44384,6 +44410,12 @@
         "graphistry-0.11.7.tar.gz"
       ]
     },
+    "0.11.8": {
+      "sdist": [
+        "2c25ed80d9bb8f8fc6e46d5b467d31d90155980dbd61467d9dfd419d65dab5d8",
+        "graphistry-0.11.8.tar.gz"
+      ]
+    },
     "0.9.0": {
       "sdist": [
         "fb6cc19c9c6fabc6aab7d553238e3f810098f1a6bf620676901db1135c3eb1c9",
@@ -49680,6 +49712,74 @@
         ],
         "guildai-0.7.1.dev2-cp38-cp38-win_amd64.whl": [
           "3d56985b90b0f0971fb5f401f7a3e9f704c358f78fc70bb27dd184332b80afb3",
+          "cp38"
+        ]
+      }
+    },
+    "0.7.1.dev3": {
+      "wheels": {
+        "guildai-0.7.1.dev3-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "c2245ccb5ec0498d40aa02dc925e75ccafe9f42ba3cbe312f1d3dea2a756507e",
+          "cp27"
+        ],
+        "guildai-0.7.1.dev3-cp27-cp27m-macosx_10_15_x86_64.whl": [
+          "43629016a6d16a7944ba8f2bfaca2d5bd51d4ba173d21130b0f9c1f4b167f5e8",
+          "cp27"
+        ],
+        "guildai-0.7.1.dev3-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "2dc882639aca06093c1d94a54b5fb724d11e89054ba04369b872316f1c1fbb95",
+          "cp27"
+        ],
+        "guildai-0.7.1.dev3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "4452f60123e4694b301751089b48a3f06278165a664dd865cdbc9a09727a19be",
+          "cp35"
+        ],
+        "guildai-0.7.1.dev3-cp35-cp35m-win_amd64.whl": [
+          "c24992042a9384b1aef8974105c5be807ffb4f267725ca06e09f611ae141ec74",
+          "cp35"
+        ],
+        "guildai-0.7.1.dev3-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "528245b7fbb4e9fe3034aeaf89021e5022ea84d967c3e62cc48dd0deb50dd696",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7e2818ebab537657858ebf61f94c3cbbc6987357ffe350520214c7bcf75671bb",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev3-cp36-cp36m-win_amd64.whl": [
+          "85103bbdb211cfde9d2c1d1d602a1f25fc6d9afbd5fb4ce2106cdfdf45096219",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "cb928ca90129cb0cbdcb0329f0f9be1569051407677dd67c428d7a71ea5c3444",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "23cd7e1cfac7e854c61be2fba14fb53ba8c73de0ebb8633b8416d0e984368e3a",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4f22418660f88c3ac22180bcb2217cd2000b190c48048c455e776c99178d81cd",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev3-cp37-cp37m-win_amd64.whl": [
+          "e6b650681baf9a44a22efb4faed46ae91cdb1694b5a234181f587e705bdedf87",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "0a6b5ab455b56e362b0579b15cadc99337b9bb5b2bdb506d190ef2bd15a99f96",
+          "cp38"
+        ],
+        "guildai-0.7.1.dev3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "c399cb5ded8dc79a84e7838cc00a225719012a3aa50647f58490b823710c3d8f",
+          "cp38"
+        ],
+        "guildai-0.7.1.dev3-cp38-cp38-manylinux1_x86_64.whl": [
+          "ae5865774da0ba873e9d650f000b06ec6f92465fd1863b2f5a1646ef0d082728",
+          "cp38"
+        ],
+        "guildai-0.7.1.dev3-cp38-cp38-win_amd64.whl": [
+          "a0e099f308d1a442dbfb398999db990a42ace8196534c88a085e5a765c9194bc",
           "cp38"
         ]
       }
@@ -58343,6 +58443,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.4.dev200831": {
+      "sdist": [
+        "117ec1a4e974b47776b51f788f094364fcecc1170796b6ea49e5f46fa7217412",
+        "manticore-0.3.4.dev200831.tar.gz"
+      ],
+      "wheels": {
+        "manticore-0.3.4.dev200831-py3-none-any.whl": [
+          "db02f5eab5fd46c7d7f26d697cf1459d3878877762d16ca71d280233c777de0b",
+          "py3"
+        ]
+      }
     }
   },
   "marionette-client-mozilla-b2g32-v2-0": {
@@ -66596,6 +66708,12 @@
       "sdist": [
         "b292b968ed579f08393674da48d37c11e45a96faf3f1aa505de2b52c11219732",
         "paleomix-1.2.9.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "930724460312956679f3bfbd19c6d719e56f880b94b22e23a7b80064261680a3",
+        "paleomix-1.3.0.tar.gz"
       ]
     }
   },
@@ -81028,7 +81146,13 @@
       "sdist": [
         "027ce6ec0a1dbca7446bb20e18e334582f57d1cde2492b94447e88f937929cda",
         "stVAE-0.1.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "stvae-0.1.0-py3-none-any.whl": [
+          "8747db24fb364c645d7454f336019a8b4be4c464456671bf0c51bc5184aee5a8",
+          "py3"
+        ]
+      }
     },
     "0.1a0": {
       "sdist": [
