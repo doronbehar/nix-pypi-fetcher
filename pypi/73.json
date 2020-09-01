@@ -3537,6 +3537,18 @@
         "52df081bd482553e1fb74696cc2a03896958192dff82b6195fef72f01138c6e2",
         "ansible-base-2.10.0rc4.tar.gz"
       ]
+    },
+    "2.10.1rc1": {
+      "sdist": [
+        "a6d9e41b6e33b8ccc0f240abcbe538382840620b60aa7296db903015315adc7f",
+        "ansible-base-2.10.1rc1.tar.gz"
+      ]
+    },
+    "2.10.1rc2": {
+      "sdist": [
+        "ac9d818b0c572352839803ae113158d5a23b92951edf370bcfb161a8fddcf7e4",
+        "ansible-base-2.10.1rc2.tar.gz"
+      ]
     }
   },
   "apigtool": {
@@ -13815,136 +13827,6 @@
         "cherami_client-1.0.3-py2.py3-none-any.whl": [
           "d6a465a96a1e499434ff357c0ed1e29d3f7d83cddfe2f3484865c76a2b89c47d",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "chuchuro-compliance-lib": {
-    "0.0.1": {
-      "sdist": [
-        "740737b0147084c3068471dd51bd7354af2c74ddf4390dd591fb23010276a2db",
-        "chuchuro-compliance-lib-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.1-py3-none-any.whl": [
-          "c7d1c1d94d45066aba098146379f2c05d7ee4abf4d44beca4b7efa5c35a0cf28",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "b2419eed69a7d7736abb953217cdce5f441b0ae5211dc86bb078d48f26ff8ebb",
-        "chuchuro-compliance-lib-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.10-py3-none-any.whl": [
-          "b408e4d4c068195027337f279511c19d708fac9c87d16730720d2ab1cb3fc5f0",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "c7c695bf9a2f0c27ab14dbc8131d625b02f62fb7e53233075b84684ff0e53313",
-        "chuchuro-compliance-lib-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.12-py3-none-any.whl": [
-          "ad4fcd46523f17a769c207a28dda0a0c567b86f545b2d087c9df3c3c261a3ec2",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "959b1ee3d57052ac7faf716be8399c154e0953a51c6ff1c565df729c45530227",
-        "chuchuro-compliance-lib-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.13-py3-none-any.whl": [
-          "0f8348018e90309b13f45ad4185c53ba06f58cc180ff3960db8f190dca6cfd33",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "017bec61020ccd0e812a04da245177824d7b8a6f793aff2bae24e386affde967",
-        "chuchuro-compliance-lib-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.14-py3-none-any.whl": [
-          "f8c37560215f3d1483ebfc707f19a9540acdb187706941b117470fe5768c2e7f",
-          "py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.16-py3-none-any.whl": [
-          "73569aa20d101bbdbc6ef8e31d41912a3f360ae2575e655f8cb253f8c521a879",
-          "py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "d4d10fc02fdd8d40bc865bde8c1e68ecb13b2068e161d7ebb0807507d8ed801c",
-        "chuchuro-compliance-lib-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.17-py3-none-any.whl": [
-          "dbff49d8d9c55bfbe805caa4fc58e3ca23641eb809d61b557473a15dfe2351a0",
-          "py3"
-        ]
-      }
-    },
-    "0.0.19": {
-      "sdist": [
-        "148981351ab9eddf386a21522b239921ef16927e9fa0f9386bfabd2437bc035f",
-        "chuchuro-compliance-lib-0.0.19.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.19-py3-none-any.whl": [
-          "7b755e291673ee22bf84c815b54b07671c7a0c866fa3f6eab9b3056f73a48f4a",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "617109601a111b738a1fbe471298c8f7d7fc18864a01b2e28b76816ec456c4dc",
-        "chuchuro-compliance-lib-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.2-py3-none-any.whl": [
-          "5da205fded817874e12a2d3fcf0b66a50d0962e9d671ebe2087fcba2c8d57156",
-          "py3"
-        ]
-      }
-    },
-    "0.0.20": {
-      "sdist": [
-        "3bb56e9a57006db39603d9165ef32dba166ea182109012097e9aaacebd3240ce",
-        "chuchuro-compliance-lib-0.0.20.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.20-py3-none-any.whl": [
-          "2a4912640084c5e52cf60c34d519e0a3a628597d5432f2fa432394c82b185c2a",
-          "py3"
-        ]
-      }
-    },
-    "0.0.21": {
-      "sdist": [
-        "b373f96c9e171e7fb27faaabe5d1e109a1e43ecb9b87d0b1b8ea10ae82f560ea",
-        "chuchuro-compliance-lib-0.0.21.tar.gz"
-      ],
-      "wheels": {
-        "chuchuro_compliance_lib-0.0.21-py3-none-any.whl": [
-          "8ce9d4e82a26d7d0fd1b8d93f0d01ecb951119969366e58ad59a02f8b05c45c8",
-          "py3"
         ]
       }
     }

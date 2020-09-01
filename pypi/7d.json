@@ -15350,6 +15350,18 @@
         ]
       }
     },
+    "2.2.16": {
+      "sdist": [
+        "62cf45e5ee425c52e411c0742e641a6588b7e8af0d2c274a27940931b2786594",
+        "Django-2.2.16.tar.gz"
+      ],
+      "wheels": {
+        "Django-2.2.16-py3-none-any.whl": [
+          "83ced795a0f239f41d8ecabf51cc5fad4b97462a6008dc12e5af3cb9288724ec",
+          "py3"
+        ]
+      }
+    },
     "2.2.2": {
       "sdist": [
         "753d30d3eb078064d2ddadfea65083c9848074a7f93d7b4dc7fa6b1380d278f5",
@@ -15506,6 +15518,18 @@
         ]
       }
     },
+    "3.0.10": {
+      "sdist": [
+        "2d14be521c3ae24960e5e83d4575e156a8c479a75c935224b671b1c6e66eddaf",
+        "Django-3.0.10.tar.gz"
+      ],
+      "wheels": {
+        "Django-3.0.10-py3-none-any.whl": [
+          "313d0b8f96685e99327785cc600a5178ca855f8e6f4ed162e671e8c3cf749739",
+          "py3"
+        ]
+      }
+    },
     "3.0.2": {
       "sdist": [
         "8c3575f81e11390893860d97e1e0154c47512f180ea55bd84ce8fa69ba8051ca",
@@ -15646,6 +15670,18 @@
       "wheels": {
         "Django-3.1-py3-none-any.whl": [
           "1a63f5bb6ff4d7c42f62a519edc2adbb37f9b78068a5a862beff858b68e3dc8b",
+          "py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "59c8125ca873ed3bdae9c12b146fbbd6ed8d0f743e4cf5f5817af50c51f1fc2f",
+        "Django-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "Django-3.1.1-py3-none-any.whl": [
+          "b5fbb818e751f660fa2d576d9f40c34a4c615c8b48dd383f5216e609f383371f",
           "py3"
         ]
       }
@@ -24032,14 +24068,26 @@
         "hermione-databricks-0.0.1.tar.gz"
       ]
     },
-    "0.0.2": {
+    "0.0.3": {
       "sdist": [
-        "d6ffaf8886cf38790bb8c4b1968b9947dcef134ae6b4c58432b4529a6fb01bae",
-        "hermione-databricks-0.0.2.tar.gz"
+        "1454a570f29ee63f98aa2fd28cae91282a5928bd07740198435337fada2ebf61",
+        "hermione-databricks-0.0.3.tar.gz"
       ],
       "wheels": {
-        "hermione_databricks-0.0.2-py3-none-any.whl": [
-          "4621166d25c632e37d2663c057f9139e1d005b00a3cf08cc070ef2ecdeea6fde",
+        "hermione_databricks-0.0.3-py3-none-any.whl": [
+          "dfb88a6a071b9eab440a92776930e10ef5014f3a12cb9cf829ba2e363ce71de5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "838fb9fb0fe2a4cf8ac0ba5e49f7c71df5f5f4b7854ec8751649257f13433682",
+        "hermione-databricks-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "hermione_databricks-0.0.6-py3-none-any.whl": [
+          "39750cd03da4ce27544de5f14f1de4871bef11746c509a52a1866a5cea30878e",
           "py3"
         ]
       }
@@ -36350,6 +36398,54 @@
       "wheels": {
         "moto-1.3.15.dev1035-py2.py3-none-any.whl": [
           "6bd3fb9bfdf630fe78c7093452c840e0c305025a23944f774b23e9b078932dfb",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.15.dev1036": {
+      "sdist": [
+        "b6451d1a3dbdc8a80ef639ca6828085b0148dd8bf11aea6ece7f2a29e34ab0ba",
+        "moto-1.3.15.dev1036.tar.gz"
+      ],
+      "wheels": {
+        "moto-1.3.15.dev1036-py2.py3-none-any.whl": [
+          "0ac344f69b788d2a955a21e08111cffdf5cbd199f855f170077d2cc7426aeb26",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.15.dev1037": {
+      "sdist": [
+        "82980a513f28994a5c07938cbcb7b3cf6723854d45eef1d4fe7aa8dc9f985ace",
+        "moto-1.3.15.dev1037.tar.gz"
+      ],
+      "wheels": {
+        "moto-1.3.15.dev1037-py2.py3-none-any.whl": [
+          "08abf72787b9611cda9fc7d3b5ed69ec2b560fe82c242ed12c533c8d6f1f474e",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.15.dev1038": {
+      "sdist": [
+        "0bde6a22bc61bdbeb67b118156cb38be58f4d943cf571249dc87293a40903aa0",
+        "moto-1.3.15.dev1038.tar.gz"
+      ],
+      "wheels": {
+        "moto-1.3.15.dev1038-py2.py3-none-any.whl": [
+          "eef13f7a10ed32f46a7445aec69ba77d4500c877ab596270f98be114e3f01696",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.15.dev1039": {
+      "sdist": [
+        "2ebcf43185584d930dcfc2b58fc1af8e05c29269810c4f4985beab21b8bf37a8",
+        "moto-1.3.15.dev1039.tar.gz"
+      ],
+      "wheels": {
+        "moto-1.3.15.dev1039-py2.py3-none-any.whl": [
+          "14b24005a01344554a8f5b176e4bb27b4bb3f4c4252f673816736004d5b08b4a",
           "py2.py3"
         ]
       }
@@ -59302,14 +59398,14 @@
     }
   },
   "sanja": {
-    "1.0.3": {
+    "1.0.4": {
       "sdist": [
-        "7c97647a974f083f81907bacd8fef3badc3bb7c5ae8da1870751648c10ad391c",
-        "sanja-1.0.3.tar.gz"
+        "e5c3a8dd41d9c8c029d13d1c52a74fd5b74d36ad84029fb5656824d1fb8cf6e1",
+        "sanja-1.0.4.tar.gz"
       ],
       "wheels": {
-        "sanja-1.0.3-py3-none-any.whl": [
-          "b11a22718503822798a2f0252244557a947949f0e7787e65350c4a8b0c5ba8b4",
+        "sanja-1.0.4-py3-none-any.whl": [
+          "969d510af4bda2a2d4af9743ccc2abb15d3fe72034e3c22b7447b70b8e0a210d",
           "py3"
         ]
       }
@@ -68908,6 +69004,14 @@
       "wheels": {
         "tfp_nightly-0.12.0.dev20200831-py2.py3-none-any.whl": [
           "72452f25efc68b1336586a021088d072c18ca3bbc8e2af1fbc360b690e0cbc8f",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.12.0.dev20200901": {
+      "wheels": {
+        "tfp_nightly-0.12.0.dev20200901-py2.py3-none-any.whl": [
+          "841055ef2e9ce434d4645fe52d4b66a4b927dcd78d99eb74bff5c40da14e5629",
           "py2.py3"
         ]
       }
