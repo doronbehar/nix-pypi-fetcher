@@ -10556,6 +10556,18 @@
         ]
       }
     },
+    "0.22.5": {
+      "sdist": [
+        "c230aad73f66de2ca23dd005fe4e79a8d6c4f4a7c0fc9327941829322b4ccee6",
+        "dbdaora-0.22.5.tar.gz"
+      ],
+      "wheels": {
+        "dbdaora-0.22.5-py3-none-any.whl": [
+          "bae4a3af5bc44e62e48cb40ef4a37855e59555bf669862b6e7aeda03cf9d5449",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "cf7c8f9bb8e5800ee134c8a8a392a8a26381211a6fb212049c6dbc99640f692d",
@@ -21362,6 +21374,12 @@
       "sdist": [
         "1944fe3b567c2eccf872c69d55ad998d2da5941bc266ffdf8800d9be8655ca08",
         "greedyFAS-1.3.3.tar.gz"
+      ]
+    },
+    "1.3.4": {
+      "sdist": [
+        "6dc598ef6d5eca672c4ea014ba0568ec7179316aceb56093fdc414e0e2b7e6d9",
+        "greedyFAS-1.3.4.tar.gz"
       ]
     }
   },
@@ -32848,6 +32866,18 @@
       "wheels": {
         "mypy_boto3_networkmanager-1.14.52.1-py3-none-any.whl": [
           "6d8f49abd33a40b1a294cb02a17e05a0ef2dbfcbf925231cb6c601ff8b3a07dd",
+          "py3"
+        ]
+      }
+    },
+    "1.14.53.0": {
+      "sdist": [
+        "0019367ca8d08780da629509210f83f9a1dbabcf150f7fb1f78c825368d3a16f",
+        "mypy-boto3-networkmanager-1.14.53.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_networkmanager-1.14.53.0-py3-none-any.whl": [
+          "7b16ee97d9d799a84fd3ff536c5dd3f3dbb565034a7f479602467423cbf0558a",
           "py3"
         ]
       }
@@ -60727,164 +60757,6 @@
         "517cf2de4322038a8e323e63bc7120db999b25ba14820f96f0d3578397cc31d8",
         "tangled.mako-1.0a5.tar.gz"
       ]
-    }
-  },
-  "tap-activecampaign": {
-    "0.1.0": {
-      "sdist": [
-        "c1f2cf54050d2103e6b5fa8be6e0b36fc5249884f161a67f18ae47c8fef8f02a",
-        "tap-activecampaign-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.0-py3-none-any.whl": [
-          "a2244844d77dacf7bcdf6ea92d4b2572c1586b8e326486efa8d996583924a73a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "6da99e9cc5bc511a22c798cda2b36f987971618760aff83e81ed751e44a1dd16",
-        "tap-activecampaign-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.1-py3-none-any.whl": [
-          "9fb7b0795bf1c8cc6ec7e53212df85debecd4ea4ccb276697339a538809c3f80",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "d8a0d6bb81e4e98f36ce5e8e88e610596c58e2f44edbf62842d0fc08819d0802",
-        "tap-activecampaign-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.2-py3-none-any.whl": [
-          "eb5068c898a8e577d759cadea7a2d0c1c822e7d0d39089ec98418668cabe60ff",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "015648a685fe40428384c228b090cd84e6ad3263fcec0f6ead00bff4e13ab390",
-        "tap-activecampaign-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.3-py3-none-any.whl": [
-          "6d01c467c8544383a23e9b3adfec6aebee465afa2288186afcd0ea9a5ae93b79",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "7aa3329209479324081a0a5b898afb43c7d9b8a2a3fdb2d6fdc98cf714b3c2e2",
-        "tap-activecampaign-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.4-py3-none-any.whl": [
-          "b53c969e3b11fc7c0fe58a4d35f349e974b60660b586475198dd35444e09fb7b",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "8db462c923a06be7e4eab6168e8b7abd4d946997837a1604ac488c9828a9d3e1",
-        "tap-activecampaign-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.5-py3-none-any.whl": [
-          "c3105e60e57db1fbc44496a27ac09d5bbeaecfe48cc41483f4ec86da583cca9e",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "c9a20de5bb33b6f653dc7d948d817e6b1d07d4dc6f362cd085dc753ebb0c3cbf",
-        "tap-activecampaign-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.6-py3-none-any.whl": [
-          "3c64f6b937c79b568322b35dee68b3a9e2afaf41793917396c51ae8bc35d8284",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "20405921c5d7c1438f8f8e5ab007d213ea260b3264225265742a99e4f35f6951",
-        "tap-activecampaign-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.7-py3-none-any.whl": [
-          "66f8bb010cf7e614ebb6cd5b79478297f1013d910c14583e5ae6e24a1975eeb4",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "5b7f6da464b3f6babb8d19c70666d6bc6c08217543ad6992e0a36c7a6e20259a",
-        "tap-activecampaign-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.8-py3-none-any.whl": [
-          "7bb5a6cbcb7b897a7035390d9cb46299bae9ca19457cfe57e5701d7459ca2516",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "5c3831f4f5d5c43ab9e9636f457745dd022e1b3530e70361cbea760df03e3f37",
-        "tap-activecampaign-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.1.9-py3-none-any.whl": [
-          "c9a8b692cfe46879335f1788e14a652adc65f83d3857f5823cbfafff2881ca37",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "29c44a0325eeb5ac3f1eac9aa1404b088ea47d7ef3d32ee3eba9fa24f37734c8",
-        "tap-activecampaign-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.2.0-py3-none-any.whl": [
-          "ea410d52ee30543dd9845c79e01a1e87b5a277f1570cb3343b9fd37c8232b6a6",
-          "py3"
-        ]
-      }
-    },
-    "0.2.2": {
-      "sdist": [
-        "64240b28332c051b927784be4ced48cadcbd3a046a0ed34a46a6c64d33bb3d66",
-        "tap-activecampaign-0.2.2.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.2.2-py3-none-any.whl": [
-          "f8b5e6c64068f31af42fa583c3a83c541b8abcc031d93623d9c828f902deeecf",
-          "py3"
-        ]
-      }
-    },
-    "0.2.3": {
-      "sdist": [
-        "c90fe28d5d8cc8ff74263ca587fa9dea1f09a89a4aa0a1fc6e8881fd2e1a2615",
-        "tap-activecampaign-0.2.3.tar.gz"
-      ],
-      "wheels": {
-        "tap_activecampaign-0.2.3-py3-none-any.whl": [
-          "e8b19746abff5727beea5d8aa565c839269e23ad9952acc8f0533e95dadf8086",
-          "py3"
-        ]
-      }
     }
   },
   "taplytics": {

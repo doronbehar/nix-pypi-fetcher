@@ -4669,6 +4669,18 @@
           "py3"
         ]
       }
+    },
+    "1.61.1": {
+      "sdist": [
+        "ee03ec8fdbebe3f787e9b9303e25d6da453ad069902badd9ebf14cf0527154bf",
+        "aws-solutions-constructs.aws-lambda-step-function-1.61.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_step_function-1.61.1-py3-none-any.whl": [
+          "256db10e621b37f983d12536e9111553a6483cf5cf58b9170e7ff6e3573cbd37",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawssqs": {
@@ -5714,6 +5726,18 @@
       "sdist": [
         "5b4ae15c5921d63c1c420b474913d5882dfacebe43a147f7f085fca4cae78538",
         "bigml-sensenet-0.1.9.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "f8f9691ffa8efa6a841c5980dd85f877a7f31c81778d3b4076ee8f0942fb158a",
+        "bigml-sensenet-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "4b52d4166586f3af170a6d0e47ed06accf339c4b6266d19a547c2fb6449b4529",
+        "bigml-sensenet-0.2.2.tar.gz"
       ]
     }
   },
@@ -16225,6 +16249,14 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "wheels": {
+        "doxyth-1.1.0-py3-none-any.whl": [
+          "e50f1e00a5295057d20429ec13078bfc11b5c2770d05ed12400d11964d65f682",
+          "py3"
+        ]
+      }
     }
   },
   "drf-extensions-django2-patch": {
@@ -16602,6 +16634,18 @@
       "wheels": {
         "dvha_stats-0.1.0-py3-none-any.whl": [
           "d2a8adee5f7c2c7ac26d56725bf6897507e29b32afa38547f9f48e4ffb9974ef",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "f9c9c2f6bad3a4e172e85a89f306ff060bbb25a58621b56a784ca9000bb19a77",
+        "dvha-stats-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dvha_stats-0.1.1-py3-none-any.whl": [
+          "31f79bd3d923cf792f438fbe5eb8ee92811fe79d530eb56dc015824033cbfb10",
           "py3"
         ]
       }
@@ -22428,6 +22472,18 @@
       "sdist": [
         "74ec56db1c3f2da171781c25ae869582876f3df80d91b51909dfcd6fe8243677",
         "girder-dicom-viewer-3.1.1.dev93.tar.gz"
+      ]
+    },
+    "3.1.2": {
+      "sdist": [
+        "b23d6c3b388866f7ecf9e216893c4d5bee4a0da0a96adafcfd478c0dec9cc36b",
+        "girder-dicom-viewer-3.1.2.tar.gz"
+      ]
+    },
+    "3.1.3.dev2": {
+      "sdist": [
+        "922204c40e7980d8e4eb01ecd28a63bbea996b30180301ba4182b4f36fe7aeb7",
+        "girder-dicom-viewer-3.1.3.dev2.tar.gz"
       ]
     }
   },
@@ -38510,6 +38566,18 @@
         ]
       }
     },
+    "0.0.25": {
+      "sdist": [
+        "afe56ff939696ac587914f20d311f37e36e07b5d26d1f7522b17c83d5fb92e2b",
+        "osm-export-tool-0.0.25.tar.gz"
+      ],
+      "wheels": {
+        "osm_export_tool-0.0.25-py3-none-any.whl": [
+          "6fe650cbfcc9840a4c5563835662148ecc180b277fa115c6977a983c6f0940a2",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "f1ec1fd3b02550ffe7a3989a1225f0619f74b1bd85898cb9c10b5b5dc3d07528",
@@ -43114,6 +43182,34 @@
         ],
         "pl_nightly-0.10.1.20200829.1-cp37-cp37m-win_amd64.whl": [
           "0c0f27caaf1684152a81cae12b3c73c61d4b41b30b24a14fc99f2bc13b102af5",
+          "cp37"
+        ]
+      }
+    },
+    "0.10.1.20200901.1": {
+      "wheels": {
+        "pl_nightly-0.10.1.20200901.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "b62f1316a5401aa4e3ead5a1a1684fb9c334b1f97e0763c75fb42c1ac16e2ae1",
+          "cp36"
+        ],
+        "pl_nightly-0.10.1.20200901.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a97db4ae10606706dfd235782b4c5a2516a2d96a67f9641d8eae1315a2721a61",
+          "cp36"
+        ],
+        "pl_nightly-0.10.1.20200901.1-cp36-cp36m-win_amd64.whl": [
+          "0785cac2d3ba53dedcd68f907731110b3da7b2ac2f7203367c7b010237a33699",
+          "cp36"
+        ],
+        "pl_nightly-0.10.1.20200901.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "f375c24e0e603ec5439b4efb232dd1b4b225570d875a714699cf80a7c0ee0c6a",
+          "cp37"
+        ],
+        "pl_nightly-0.10.1.20200901.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "42086779bf55b529799dbdba1b4327b20dfe3d947aefb8998e4b4d95861bc3f6",
+          "cp37"
+        ],
+        "pl_nightly-0.10.1.20200901.1-cp37-cp37m-win_amd64.whl": [
+          "993acfd146fccabbf227f8d55ba67606160c046e2f4a45a004e08dd4bb9ee2d3",
           "cp37"
         ]
       }
@@ -64749,6 +64845,12 @@
         "20fbb15d07c2fe6f17dc0c347f6ac5b465cb8acecbd5719287f2edefe2a8f657",
         "vectoralg-1.0.tar.gz"
       ]
+    },
+    "1.1": {
+      "sdist": [
+        "060e2303a676901486c1289e05f4fd5b913fb5e4bdf28c98262e449a99beeb54",
+        "vectoralg-1.1.tar.gz"
+      ]
     }
   },
   "vectorial": {
@@ -67214,6 +67316,12 @@
       "sdist": [
         "5a540bf89293483f26da8aa1fb7d07ad917ca8997e9258c49f1e4186ef48c93e",
         "ynab-sdk-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "1f86f1886ddc8d75cbca5195a5abe64658f761f741cb21a710bbe4fa83aee24f",
+        "ynab-sdk-0.2.3.tar.gz"
       ]
     }
   },

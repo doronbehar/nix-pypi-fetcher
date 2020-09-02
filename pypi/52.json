@@ -2343,6 +2343,18 @@
           "py2.py3"
         ]
       }
+    },
+    "5.0.0b1": {
+      "sdist": [
+        "4514702a63ffd7129814d4cc8f48a0ff2b33182d400f9402de3bc4a2c5ba11a3",
+        "amqp-5.0.0b1.tar.gz"
+      ],
+      "wheels": {
+        "amqp-5.0.0b1-py2.py3-none-any.whl": [
+          "30d4ef90c010ea592df680ebd0b760d52335cf9dea90ce15bbcc196910da06df",
+          "py2.py3"
+        ]
+      }
     }
   },
   "anchor-topic": {
@@ -18439,6 +18451,12 @@
         "82f11e032208a69661d2195d960a29262d6ffc8eae30e470d187536bd3edf10a",
         "eds-1.2.2.dev231.tar.gz"
       ]
+    },
+    "1.2.2.dev232": {
+      "sdist": [
+        "5f0cb2b04a4258edf5cc474bcc38c46698d776daf7bf826ea8375676ba39605f",
+        "eds-1.2.2.dev232.tar.gz"
+      ]
     }
   },
   "edx-analytics-data-api-client": {
@@ -24008,6 +24026,18 @@
       "wheels": {
         "gordo-0.63.1-py3-none-any.whl": [
           "355e065a6b05ca6e55d532a5f367817c77e801f51e0956addc0b6157efc4c8d4",
+          "py3"
+        ]
+      }
+    },
+    "0.64.0": {
+      "sdist": [
+        "80e3168cc2f1e9496570e3e76ae665c43ebb6f833626765e588c14847ef27502",
+        "gordo-0.64.0.tar.gz"
+      ],
+      "wheels": {
+        "gordo-0.64.0-py3-none-any.whl": [
+          "3a4401ef9a1b95c41d596cbae51e7653641358891da53868d8c6d3e9ae3661a9",
           "py3"
         ]
       }
@@ -35714,6 +35744,18 @@
         ]
       }
     },
+    "1.14.53.0": {
+      "sdist": [
+        "88cae1998020367f817fecd9363cdef94fbf51f90cc3a4c41dc6d0cac09db9b7",
+        "mypy-boto3-mediatailor-1.14.53.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediatailor-1.14.53.0-py3-none-any.whl": [
+          "820cdf8e80ba0e9c742a7b766b618b50704b4ff8a3dc1d9d54db48f53256d1f2",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "e5def6bbc9e201d5139aa5fbdec2464c681e4bad044e9ff59ea753d71c6e3f07",
@@ -37584,6 +37626,18 @@
       "wheels": {
         "mypy_boto3_textract-1.14.52.1-py3-none-any.whl": [
           "3be9828c75442222442388c5bd659cb912830a04f19df217458d01e6c69352f3",
+          "py3"
+        ]
+      }
+    },
+    "1.14.53.0": {
+      "sdist": [
+        "664fa19cf0c889d0c5bbba8b549f6a311697ad25cd73369a8e00ae18c6967938",
+        "mypy-boto3-textract-1.14.53.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_textract-1.14.53.0-py3-none-any.whl": [
+          "0aeb76549224e6436d4c4e9e56d9817ff94a2fbb97e83414310be2b2d45f4e2d",
           "py3"
         ]
       }
@@ -55186,6 +55240,12 @@
         "rucio-webui-1.23.4.tar.gz"
       ]
     },
+    "1.23.5": {
+      "sdist": [
+        "ea8ace235c3e861b7db077de46f0cce74015e0d3172588e1330907a8a8c03ca8",
+        "rucio-webui-1.23.5.tar.gz"
+      ]
+    },
     "1.5.10": {
       "sdist": [
         "bfceda085f3d677020931eeba027b4098476dee497c5bd66f7c038099fb3f208",
@@ -63832,6 +63892,30 @@
         ]
       }
     },
+    "0.17.1": {
+      "sdist": [
+        "70ca39ba9a5c6f10047fb649b217e4b55a9352da397f4330964cffe10e60fd91",
+        "thoth-common-0.17.1.tar.gz"
+      ],
+      "wheels": {
+        "thoth_common-0.17.1-py3-none-any.whl": [
+          "a5d490038727df6af89b338abc0bbb6648aedbd1626b7ed539556faf582090b5",
+          "py3"
+        ]
+      }
+    },
+    "0.17.2": {
+      "sdist": [
+        "61f832b9639b3a5658414e8bae0030c89b38a5a5b787d80dc9d4e50264941639",
+        "thoth-common-0.17.2.tar.gz"
+      ],
+      "wheels": {
+        "thoth_common-0.17.2-py3-none-any.whl": [
+          "06eeb06e0114062578a5f99fc37d9df7ed3cb3288429522b4f9ea28f1ebf3c0b",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "bc7d0c47624f3c9df177fe839d7ee3e90ebe9bf82fc3996da83aa70c6ba95bee",
@@ -68480,6 +68564,32 @@
       "wheels": {
         "wagtail_graphql_api-0.0.1a0-py3-none-any.whl": [
           "f145c5f3ba1f2d3b8e28ad96bd443abf16d309d9cb98429bd22826b92fb4ddc4",
+          "py3"
+        ]
+      }
+    }
+  },
+  "wagtail-placeholder-images": {
+    "0.1.0": {
+      "sdist": [
+        "a270fcd6ceaba1e2e4e3d1cab725763d08b31e8baceac746ed23f94554b1171f",
+        "wagtail-placeholder-images-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_placeholder_images-0.1.0-py3-none-any.whl": [
+          "7c5da2d70e6df822937b2f01571ed1513a4b86acad5eca21ed1af2190ae28a81",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "4f9070ce3ffaa2be02e0baf6c6b44c9f8d6d9302a60e384f85310c5e6b432bae",
+        "wagtail-placeholder-images-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "wagtail_placeholder_images-0.1.1-py3-none-any.whl": [
+          "44cbdb18e4123c8423758c21f9e25c399c3a1f8349791071786d62e1c6077c0f",
           "py3"
         ]
       }

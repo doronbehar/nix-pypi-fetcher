@@ -28357,6 +28357,20 @@
       ]
     }
   },
+  "goalzero": {
+    "0.1.0": {
+      "sdist": [
+        "5ddb29df47a8b201f05487a623815cdcb2665fbbeaa86e80c0bb9821658d95b7",
+        "goalzero-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "goalzero-0.1.0-py3-none-any.whl": [
+          "e70aa986a4772318ab9f13ff2d7fc458a29f276e344114bc5ac58bbd9cdb0e3a",
+          "py3"
+        ]
+      }
+    }
+  },
   "googleassistantgrpc": {
     "0.1.1": {
       "sdist": [
@@ -29391,6 +29405,12 @@
         "c9cc4ce703b448b488c16859e21d9137244abd864df490e077cd1e11774edfd8",
         "hiker-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "c2a37a6472f8c5474ca092d764dd312635e246b7962f3592dd8aef05b511fdee",
+        "hiker-0.1.2.tar.gz"
+      ]
     }
   },
   "hipchatpy": {
@@ -29694,6 +29714,14 @@
       "wheels": {
         "honeybadger-0.3.0-py3-none-any.whl": [
           "24ffd11271a695b308b44941f51a9a0fb3a18aadba057f482922155f49d6a7c3",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "honeybadger-0.3.1-py3-none-any.whl": [
+          "8adef8a11c04cf1a1018510406edd74b6b329ab5fdf2f42ba10ccf7936b48723",
           "py3"
         ]
       }
@@ -32314,6 +32342,12 @@
       "sdist": [
         "3742d503fb558df86e80a1237c0dfc791d8ed9b0cbcdb19f39c2de98088ec1cc",
         "jensen-0.1.1.zip"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "c70308eaf612ff5f79d453194dc099e61044115ffd7578ddd8d907b8ea14ad11",
+        "jensen-0.1.2.zip"
       ]
     }
   },
@@ -41648,6 +41682,70 @@
         ],
         "Mosek-9.2.20-cp38-cp38-win_amd64.whl": [
           "fa4115466049c7b7152433e9ac3448c37e5861a1ad858b242083f8b8891b9bd3",
+          "cp38"
+        ]
+      }
+    },
+    "9.2.21": {
+      "wheels": {
+        "Mosek-9.2.21-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "f917d9445e0c18ab834d192b7d48a0f3f35f56d425189636d5d0e9dd57f81c7c",
+          "cp27"
+        ],
+        "Mosek-9.2.21-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "a391325cfc5fb6961d94300aec95f42a83e8f716d834d56919fe833d611e7cb6",
+          "cp27"
+        ],
+        "Mosek-9.2.21-cp27-cp27m-win32.whl": [
+          "7fef5bfb3cf57a7adeae9df4b963558f051050ffd74af7c08e65ce0f9f2265ba",
+          "cp27"
+        ],
+        "Mosek-9.2.21-cp27-cp27m-win_amd64.whl": [
+          "63c21b2ccdc4d5aa31fcddb8164360675e774fcb6cf5141ca7b5a52b0ac2ad37",
+          "cp27"
+        ],
+        "Mosek-9.2.21-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "fb2fccfdb4e9235d68fbae05f9d023276e0aecd00f7c6639913c350eb3b1b96a",
+          "cp36"
+        ],
+        "Mosek-9.2.21-cp36-cp36m-manylinux1_x86_64.whl": [
+          "28c58721372eceb2cc2ecb84b5be1a00ae5871baaa81e94fd8c045bdd3b44731",
+          "cp36"
+        ],
+        "Mosek-9.2.21-cp36-cp36m-win32.whl": [
+          "7a0b2b99c71f56edd3e1a656f801c95c14e9d70dae00ce6e14d1f49d0978c64d",
+          "cp36"
+        ],
+        "Mosek-9.2.21-cp36-cp36m-win_amd64.whl": [
+          "6676642d93df3402d1bd64eb2e2f58c2e0c5a00c7c21b376021d161baaed414b",
+          "cp36"
+        ],
+        "Mosek-9.2.21-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "112ec3476a2b60f32336ae240bf109c55c99481a7ccaac7eda91a02ec69e4560",
+          "cp37"
+        ],
+        "Mosek-9.2.21-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5cf4a1fb1eee3dac44c183fdbe5424df60a7f749e64824d28573ca74eb6414e0",
+          "cp37"
+        ],
+        "Mosek-9.2.21-cp37-cp37m-win32.whl": [
+          "83587b0298bbc673ecbd9817d0a3d62034e87eafe491f2b01f7ffed59b37a839",
+          "cp37"
+        ],
+        "Mosek-9.2.21-cp37-cp37m-win_amd64.whl": [
+          "2bd5770a95f59e2adfb5f49cfddccda26d5d8513eebd7d8e037319e58d94fe45",
+          "cp37"
+        ],
+        "Mosek-9.2.21-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "b6a742f2fe9f33f752c207130dbc9f8cbeab9f397593a891337c4d027eac05a9",
+          "cp38"
+        ],
+        "Mosek-9.2.21-cp38-cp38-manylinux1_x86_64.whl": [
+          "ad1a75daac244d130da8462a3385af2f2fb2ac273eb5e9937cfda5b21422492c",
+          "cp38"
+        ],
+        "Mosek-9.2.21-cp38-cp38-win_amd64.whl": [
+          "efe0ee927648e3cc30ad3d938b62276ffc2b1f444231c5e1fa200ea26905b423",
           "cp38"
         ]
       }
@@ -67630,6 +67728,18 @@
       "wheels": {
         "spydrnet-1.4.0-py3-none-any.whl": [
           "ad3cfbcbe021fe6a2c3a7e571174c8af6b48b8a7afaad37c552f3ff483cfc957",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "90025258f1dba9ebcd79c891eaf5d5949492090c07179763914e4fb37660da17",
+        "spydrnet-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "spydrnet-1.5.0-py3-none-any.whl": [
+          "cd5170a1c98237b2718fe6e49df8f251a605e01a542ab16b16abd141f0e53d88",
           "py3"
         ]
       }
