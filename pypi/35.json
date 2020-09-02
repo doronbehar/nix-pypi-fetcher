@@ -2409,6 +2409,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.3.0": {
+      "sdist": [
+        "5186d21584a352b8a1addc7b11cfe7159f6dafd489a2f2b85df2c056303061ca",
+        "ask-sdk-webservice-support-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "ask_sdk_webservice_support-1.3.0-py2.py3-none-any.whl": [
+          "05a9004d63d7119fe00c9ed35f351df67e840b202802078d5e4e63e562d5e420",
+          "py2.py3"
+        ]
+      }
     }
   },
   "asl5000-utils": {
@@ -2882,6 +2894,30 @@
       "wheels": {
         "Av1an-1.12.12-py3-none-any.whl": [
           "e659b9517c5738e74aab3899de4782fcb1d992986dc707f1869c1fc94c43a795",
+          "py3"
+        ]
+      }
+    },
+    "1.12.13": {
+      "sdist": [
+        "4d4087029b2cfe12f7115d8d2cb54f00ceaaaa8d5c79cf33220e84ebae63e12e",
+        "Av1an-1.12.13.tar.gz"
+      ],
+      "wheels": {
+        "Av1an-1.12.13-py3-none-any.whl": [
+          "083bb8ac94ef8aa8c3dfc87d90713a611d9d6179e8a78a96fcbb82573c7b6532",
+          "py3"
+        ]
+      }
+    },
+    "1.12.13.post1": {
+      "sdist": [
+        "fb9a42a4a0b3a4664d8e364cf1aa1b0f5ad6708b68c0bb7d5a09a482b990a579",
+        "Av1an-1.12.13.post1.tar.gz"
+      ],
+      "wheels": {
+        "Av1an-1.12.13.post1-py3-none-any.whl": [
+          "384cf760542060baaeee45114f1089da28456ae41494a4e4b9f73f8ee20801d7",
           "py3"
         ]
       }
@@ -17086,6 +17122,12 @@
       "sdist": [
         "157d04ed36652b676ee9c8ed9a1d47b0967b837c7e4b471ae31948e7c0e5e67c",
         "drf-json-api-utils-1.7.7.tar.gz"
+      ]
+    },
+    "1.7.8": {
+      "sdist": [
+        "c67ec77de29ab4836fe1e47fac3dde6cc238b447eaf702eff64d8e7bceab5ea4",
+        "drf-json-api-utils-1.7.8.tar.gz"
       ]
     }
   },
@@ -50269,148 +50311,6 @@
       }
     }
   },
-  "python-debian": {
-    "0.1.13": {
-      "sdist": [
-        "620dfa4ce886b6ccf081d821aec14b8da1c0b111d8c8a59c5057032945c482ff",
-        "python-debian_0.1.13.tar.gz"
-      ]
-    },
-    "0.1.16": {
-      "sdist": [
-        "69e2673b33bb8c281031860234dce4aec2ae2a6dfa4ce0adc9f52318121dd38f",
-        "python-debian-0.1.16.tar.gz"
-      ]
-    },
-    "0.1.21": {
-      "sdist": [
-        "1e6447da1fcc2d7654d4d26e1e7cfc7086824ab010985ddef234c01d5255744a",
-        "python-debian-0.1.21.tar.gz"
-      ]
-    },
-    "0.1.21-nmu2": {
-      "sdist": [
-        "2c2cfeef00ea77bd6cff8591c1bc768d2d0099f064e61af634e4da9998623e69",
-        "python-debian-0.1.21-nmu2.tar.gz"
-      ]
-    },
-    "0.1.23": {
-      "sdist": [
-        "d07a0fd581f36d35eab5d95517fb0fd8bf044d8ddff39052b18349cbed576ea4",
-        "python-debian-0.1.23.tar.gz"
-      ]
-    },
-    "0.1.28": {
-      "sdist": [
-        "1e4441548598b8dfd2b61bc36db64bfa5a7b93a65ae04641d3e998fe3b702544",
-        "python-debian-0.1.28.tar.gz"
-      ]
-    },
-    "0.1.30": {
-      "sdist": [
-        "57c3a9b090cb06916ca44cbbe808db3aea809c11b9ade8a32f2e4b90223a2f55",
-        "python-debian-0.1.30.tar.gz"
-      ]
-    },
-    "0.1.31": {
-      "sdist": [
-        "21465ccb8a4cb2942f15e74b6c9b92caff5188365e22ab4a0dcc778b90f28479",
-        "python-debian-0.1.31.tar.gz"
-      ]
-    },
-    "0.1.32": {
-      "sdist": [
-        "143887ac647ad30819f289f5a4ca13b77e56df27b686b84c34669447f7591280",
-        "python-debian-0.1.32.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.32-py2-none-any.whl": [
-          "e04236a3c450fbaeb827d41a91acd3d76fe963106eb8457c9139e66988003ffc",
-          "2.7"
-        ],
-        "python_debian-0.1.32-py3-none-any.whl": [
-          "c755d34ff4767b4357290e76df7baa5add365c4ceaefcc96fd96af71bd1e691b",
-          "3.6"
-        ]
-      }
-    },
-    "0.1.33": {
-      "sdist": [
-        "06e91d45019fe5f2e111ba827ea77730d6ce2fea698ada4e5b0b70b5fdbc18c5",
-        "python-debian-0.1.33.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.33-py2-none-any.whl": [
-          "4d0ea7d47a6e035125c18a666aad3910207b571eaba28deff67dbad581b7dee6",
-          "py2"
-        ],
-        "python_debian-0.1.33-py3-none-any.whl": [
-          "3eaf8d71e95e3afae9581b544b293952136bdc5f3a0514bc7e75edac78eb598f",
-          "py3"
-        ]
-      }
-    },
-    "0.1.34": {
-      "sdist": [
-        "a02e073214e9f3a371f7ec0ff8b34dd82bd4941194dd69c49ad80b321b9d887e",
-        "python-debian-0.1.34.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.34-py2-none-any.whl": [
-          "9336ce85af476577eb59a01f9a4b65abe13b63bb43f448d51f9c4f4a83c7ee49",
-          "py2"
-        ],
-        "python_debian-0.1.34-py3-none-any.whl": [
-          "1e241f05d322f4bf6c9e89819ec4ee0dfe52f4fbb7a60e86dcae1df028dba46e",
-          "py3"
-        ]
-      }
-    },
-    "0.1.35": {
-      "sdist": [
-        "5bcbcadfb7f9b4c51eece9d8492ccc45d205b07c34262adebdb6fa16bfa5ac7c",
-        "python-debian-0.1.35.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.35-py2-none-any.whl": [
-          "a5d47a93f796c9ed7ffd1f299fde9661ab418bc511f601e198a87644aec6899d",
-          "py2"
-        ],
-        "python_debian-0.1.35-py3-none-any.whl": [
-          "d7d7cc91cf4489b4a403a05babea7116639556b41b409b5c41e6552d826054af",
-          "py3"
-        ]
-      }
-    },
-    "0.1.36": {
-      "sdist": [
-        "c953bb0c54e96887badd2324cc66e1887bf2734f301882cd4fe847a844b518a6",
-        "python-debian-0.1.36.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.36-py2-none-any.whl": [
-          "de84efec1a581e28240de6e71b0a83180f3390eb436d0cd891c848aeb28a2518",
-          "py2"
-        ],
-        "python_debian-0.1.36-py3-none-any.whl": [
-          "075ab2d3a948d1a3a8833bb5838a8b59a06c3f41b80c0e2905cd00ef6f848e41",
-          "py3"
-        ]
-      }
-    },
-    "0.1.37": {
-      "sdist": [
-        "ab04f535155810c46c8abf3f7d46364b67b034c49ff8690cdb510092eee56750",
-        "python-debian-0.1.37.tar.gz"
-      ],
-      "wheels": {
-        "python_debian-0.1.37-py3-none-any.whl": [
-          "847890c158ae77f3d09bc6da10ae6cb4f2c2a5fb6d874528c6e076417d5fd333",
-          "py3"
-        ]
-      }
-    }
-  },
   "python-feedly": {
     "0.0.3": {
       "sdist": [
@@ -61972,6 +61872,18 @@
       "wheels": {
         "tfkit-0.3.81-py3-none-any.whl": [
           "6ea447245714244d7ee557552baef458f84b4c28bc9ab6f0bf7728a19d3deaa4",
+          "py3"
+        ]
+      }
+    },
+    "0.3.83": {
+      "sdist": [
+        "717966db796723179fde48cea245d904c84cf14be9d2858bdb891eecc472a039",
+        "tfkit-0.3.83.tar.gz"
+      ],
+      "wheels": {
+        "tfkit-0.3.83-py3-none-any.whl": [
+          "d35eeb14046a98189e358defc4aa93c84cfe3e31905406b8bd1ae132ff88cff4",
           "py3"
         ]
       }

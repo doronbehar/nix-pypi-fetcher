@@ -211,6 +211,12 @@
         "3b57d1885f42d637758aced4e8a3d5c0fd62794aa5991740ac5933a8ddcf6d9d",
         "adapay-core-1.0.0.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "4bee7c9db056d2a1b8368544ee82c5ff75805332d6c5732b35e30d91abfcbbb0",
+        "adapay-core-1.1.0.tar.gz"
+      ]
     }
   },
   "addlicense": {
@@ -12838,6 +12844,18 @@
       "wheels": {
         "dragonfly_core-1.25.12-py2.py3-none-any.whl": [
           "05d05c15943a5cd92754eec55fcc2d42c8290a374c6e5a14a32b0b953d98cbb4",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.25.13": {
+      "sdist": [
+        "bfde4ce8fcb29c85aac9532a744a6fdaffef9797f9f30e462f2eb402f4a42eab",
+        "dragonfly-core-1.25.13.tar.gz"
+      ],
+      "wheels": {
+        "dragonfly_core-1.25.13-py2.py3-none-any.whl": [
+          "d52a8fbf64d23812661203989699acfd8450c5a2f2314315f4c11d67afda7489",
           "py2.py3"
         ]
       }
@@ -55869,6 +55887,114 @@
           "cp38"
         ]
       }
+    },
+    "2.9.6": {
+      "wheels": {
+        "rqdatac-2.9.6-cp27-cp27m-macosx_10_7_x86_64.whl": [
+          "1ef3bf810af34888bc9e77ef88cc9d80ca9d118d784b4afe90b4ae4a736abe65",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp27-cp27m-manylinux1_x86_64.whl": [
+          "75b394c2af23da44f8b73ee16b99cc3a9c7228e0935f06c38b9c6e38899d62e5",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "bce74e435f030da81f3ac67dcc5215836725302f451b556bb37c0f9b61323f9f",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "f9751a486226e0c74be8f2a5ca98481bb1b18bb5bcd3df2817205e45df63ffbf",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "0e80cfd931d65f3352cd41c91fb2e50c7990798fb4b7e7b226f2992a748e3c62",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp27-cp27m-win_amd64.whl": [
+          "d93d5ac6f9b14b9386f194ed5b45919fe7e7b6afe2c931a068228ea69319d5b3",
+          "cp27"
+        ],
+        "rqdatac-2.9.6-cp34-cp34m-macosx_10_6_x86_64.whl": [
+          "928a9019f6b417b09797702da22bc8c434bdbba83d4620fa6f3d464840b941b2",
+          "cp34"
+        ],
+        "rqdatac-2.9.6-cp34-cp34m-manylinux1_x86_64.whl": [
+          "6bb5e0b8b33c906aa4e6bcd8db2a6df07e5873d0b61c65c2bba072c6951faff1",
+          "cp34"
+        ],
+        "rqdatac-2.9.6-cp34-cp34m-manylinux2010_x86_64.whl": [
+          "e079df12cd8b4dcf167bac293d6bd9d08ee47fa069b9e65e43e38e606e39a2e6",
+          "cp34"
+        ],
+        "rqdatac-2.9.6-cp34-cp34m-win_amd64.whl": [
+          "66f218eb3abea640018af1243a7e5c9538580f207e6fa101434be123485aa174",
+          "cp34"
+        ],
+        "rqdatac-2.9.6-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "6981ab0fc445c3e89ff23342097ec51dce89e5b6ae5d000bbf0da2ae0bd64e67",
+          "cp35"
+        ],
+        "rqdatac-2.9.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "dde2db02f892387f645d667e7a09d95841f0a32cc677f90061511fc0afcc72ba",
+          "cp35"
+        ],
+        "rqdatac-2.9.6-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b27100e9d61f941a66196305b74b680863dbbf360979131d306adc5f28433a96",
+          "cp35"
+        ],
+        "rqdatac-2.9.6-cp35-cp35m-win_amd64.whl": [
+          "4b045310f5211c9d7a2ba7230c3a7f09d5eb2aca5e96b018ec317381147e0236",
+          "cp35"
+        ],
+        "rqdatac-2.9.6-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "2f9508343fb54a33882ee94169ec5286cdfe6ee2ff61b508ed084533e6db66cb",
+          "cp36"
+        ],
+        "rqdatac-2.9.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0788a8c61562322f6a828d449ffddc89c1327951bf02493c2431a41c55205055",
+          "cp36"
+        ],
+        "rqdatac-2.9.6-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0d12413c9c91d6e1e24d9f3dbccfb65171a5cb34909c47652ba22301d8d3b536",
+          "cp36"
+        ],
+        "rqdatac-2.9.6-cp36-cp36m-win_amd64.whl": [
+          "67b10fadfa44af1b2e1cd0aa34a4048b3b3d001a5e9a24643975198d627884bb",
+          "cp36"
+        ],
+        "rqdatac-2.9.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "72d152196a1a15eb11104e489a41fb943ef91093048fb72f43156593a4878247",
+          "cp37"
+        ],
+        "rqdatac-2.9.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "bec9933cd15cf658f48aebd0b0088c8163ed59a49ff0266b815b67032d01fafa",
+          "cp37"
+        ],
+        "rqdatac-2.9.6-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "03206b3d9c5a8859ea13d60fc44327b98813c7f0f2c5eed2c35089578387c96c",
+          "cp37"
+        ],
+        "rqdatac-2.9.6-cp37-cp37m-win_amd64.whl": [
+          "0514a4adffc80823e455ef187d6ccad4ed706dfab3d9b583d49b156996419077",
+          "cp37"
+        ],
+        "rqdatac-2.9.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "c4eb30f2936e41e3507d9064f6d2051ee74c5f5308dee1ef0b10f5a2e6948a55",
+          "cp38"
+        ],
+        "rqdatac-2.9.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "76fee21e60d02c362e225ff8704f57e6d2b7c55e5432c821241487220b0b97bb",
+          "cp38"
+        ],
+        "rqdatac-2.9.6-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a71e01529d287454415d1a9828546f726708fb416e1f81e806a686503c515815",
+          "cp38"
+        ],
+        "rqdatac-2.9.6-cp38-cp38-win_amd64.whl": [
+          "9b16034ac478dde43b9f0bbda88000b9b242842c4a94b6e684baddaca4f2ebe6",
+          "cp38"
+        ]
+      }
     }
   },
   "rsfsup": {
@@ -65728,6 +65854,12 @@
       "sdist": [
         "2e77c7b962cec4d89f1fcd33ddac0e2264dd8331c7d9312c88bb310539ac0edf",
         "xml2rfc-2.9.9.tar.gz"
+      ]
+    },
+    "3.0.0": {
+      "sdist": [
+        "eae776d37b24e9644477350176605306e37c1cf971807b4973be868b9bf33f0b",
+        "xml2rfc-3.0.0.tar.gz"
       ]
     }
   },
