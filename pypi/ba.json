@@ -12127,6 +12127,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.28.9": {
+      "sdist": [
+        "a76298d56ab744ff6641fc35ba485f8390928cc652304b1784f47b5cfd71d876",
+        "dbnd-airflow-0.28.9.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.28.9-py2.py3-none-any.whl": [
+          "5235f4211f66e22f535a197629b121db0d7f474c165ab75ca46d9fe344ebadf0",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -23102,6 +23114,12 @@
       "sdist": [
         "c09bebcc2110d5bc5058c5cc45d199f9bd8878158f106827a1b116b514851c3e",
         "graphdot-0.7a10.tar.gz"
+      ]
+    },
+    "0.7a11": {
+      "sdist": [
+        "f2751b829c041769b62a24899b0cea5a751b37c0e0680820d0ee9878fe3eb7f2",
+        "graphdot-0.7a11.tar.gz"
       ]
     },
     "0.7a2": {
@@ -40920,6 +40938,18 @@
         ]
       }
     },
+    "1.14.54.0": {
+      "sdist": [
+        "9a9eb78bf5aacbfc6cf8810f141a85cd82b25d4a95181e2c6cc34eb9e5573715",
+        "mypy-boto3-amplify-1.14.54.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.14.54.0-py3-none-any.whl": [
+          "3a39e11598ad95c54bc38523bf4fbfe8c6f7a6351e6ef22463d57c5863d4caa4",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "dcb090401997f13025d4f1f9fb0ef75ca5a713b8d6b11c082c55f3055ae214ba",
@@ -42802,6 +42832,18 @@
         ]
       }
     },
+    "1.14.54.0": {
+      "sdist": [
+        "d907674bfd30394055c26c47e5ca4593a1d61cc96ccd4d8fe9ec14b38ee3ee0e",
+        "mypy-boto3-elb-1.14.54.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.14.54.0-py3-none-any.whl": [
+          "f79e08c41b0d0d3e0e1a96c5843ed0bb52fcd29bfa0b4d29eb72e95100462433",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "f0e788f6a07dcc769151260655787ab6c665f59a25bb6443b224e40523090a54",
@@ -44672,6 +44714,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.14.53.0-py3-none-any.whl": [
           "fd2c7bfc02403d4dfe3ca9a66449c05beebcda1ba9334f5720fa16ef8cdecbc6",
+          "py3"
+        ]
+      }
+    },
+    "1.14.54.0": {
+      "sdist": [
+        "cb39ab5d9dc75efe7ae4511acc81a3deccffd119d5719af2fc44f708a64784eb",
+        "mypy-boto3-meteringmarketplace-1.14.54.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.14.54.0-py3-none-any.whl": [
+          "5e0533087d253f119d540b6a9d3b1496020e31cafa9bc4a0cf69a291cb4f85da",
           "py3"
         ]
       }
@@ -68097,6 +68151,14 @@
           "cp38"
         ]
       }
+    },
+    "0.0.1.5": {
+      "wheels": {
+        "samna-0.0.1.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "322555e48bc1670e543cba2c1f14c6c43adf67fed1ae5491191b9e54cf5a5be7",
+          "cp38"
+        ]
+      }
     }
   },
   "sanic-aioorm": {
@@ -72695,6 +72757,16 @@
         "63ad2eaf1801c919cbeca60a62c099b330338740c8cc4422717b236f3c8f98a7",
         "termcolor2-0.0.3.tar.gz"
       ]
+    }
+  },
+  "test-pmv-osmnx": {
+    "0.0.0": {
+      "wheels": {
+        "test_pmv_osmnx-0.0.0-py3-none-any.whl": [
+          "2028914c4187703bcb827c6ed437b4c96436ea2a73379a18f1e035399a8f8efe",
+          "py3"
+        ]
+      }
     }
   },
   "test-sharmasumit64": {
@@ -77994,6 +78066,10 @@
           "2c40445d8c60235f88ca17e091471d1c8b484504744698e4df80c76fbeb3f2a4",
           "cp36"
         ],
+        "tf_nightly-2.4.0.dev20200902-cp36-cp36m-win_amd64.whl": [
+          "54f2ecb06cdf01127d27f7a727e2dc5ef316a76ee044db228356a71ad5e9f793",
+          "cp36"
+        ],
         "tf_nightly-2.4.0.dev20200902-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "43f8e405253d2ecd3c96e7ab3673cde9d2ffa6eeb6a9ff7431e058e0d6f50846",
           "cp37"
@@ -78002,8 +78078,16 @@
           "5695355066e80ea4138c0f0f387df7897a63ed04270b34d44f428390a663c7f5",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20200902-cp37-cp37m-win_amd64.whl": [
+          "33fdd7b08e75f2d4e96cd87627bf0f34df6f5badca9ee42ebb4868bd2896ac68",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20200902-cp38-cp38-macosx_10_14_x86_64.whl": [
           "df7df62fc96081343dfd27d87045579e9980f78013ac0da43c937653421c8acc",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200902-cp38-cp38-win_amd64.whl": [
+          "0296e188f1e861a8f3c86286c876f011f72ccb86b83a320d97eaeb6dd16dfca7",
           "cp38"
         ]
       }
