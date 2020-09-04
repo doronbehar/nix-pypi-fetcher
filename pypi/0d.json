@@ -4998,6 +4998,18 @@
         ]
       }
     },
+    "1.62.0": {
+      "sdist": [
+        "7e68c52934e29bf9cf1fc1f71935b0b21df0ed2ab36dee37fecae17031807137",
+        "aws-cdk.aws-kinesisfirehose-1.62.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose-1.62.0-py3-none-any.whl": [
+          "560d0824b13ba0700956947c78f3f06507258216c08a475e175aab3463567f1d",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "127bf60ca38aaeefc0e2a8828628a03b2d8e8c11bea8e526b4c1d1acc773d9a4",
@@ -7278,6 +7290,18 @@
       "wheels": {
         "ccutils-0.2.10-py3-none-any.whl": [
           "ceb092088d3d05f5d059db184a3b493ea040fb838665eb7e960bbfd466d57b35",
+          "py3"
+        ]
+      }
+    },
+    "0.2.11": {
+      "sdist": [
+        "52948e6c87868d25fbc4aec093953f85088160b35296b29f45c7246e0ae12d6f",
+        "ccutils-0.2.11.tar.gz"
+      ],
+      "wheels": {
+        "ccutils-0.2.11-py3-none-any.whl": [
+          "7dbaa293b3c914676610d223af92ba646020d027a1bcb42506023de962b69f86",
           "py3"
         ]
       }
@@ -42735,6 +42759,38 @@
       }
     }
   },
+  "py-justdial-scrapper": {
+    "0.1": {
+      "sdist": [
+        "78fceb8ded7be09fcd8252b71a7f0dbf9d1f1d6c694f1498a8d1ea3db28767b9",
+        "py_justdial_scrapper-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "813a8485e53580fd7617399bc0291caa0a7111e79a1f538ffa06f41dbcb5cb4b",
+        "py_justdial_scrapper-0.2.tar.gz"
+      ]
+    },
+    "0.3": {
+      "sdist": [
+        "67e5d34bf28664a935995800332d306507ed47ecc863554af3afd0e97056004a",
+        "py_justdial_scrapper-0.3.tar.gz"
+      ]
+    },
+    "0.4": {
+      "sdist": [
+        "fb31dd1631ce0a7d99014942f4edcac308fa6c84e150c157dce3e167d455b08b",
+        "py_justdial_scrapper-0.4.tar.gz"
+      ]
+    },
+    "0.5": {
+      "sdist": [
+        "b92e23f0b7aeff5a49cf996f7d4fa6d650760d815e89caf27779c0d13e25b220",
+        "py_justdial_scrapper-0.5.tar.gz"
+      ]
+    }
+  },
   "py-opc": {
     "0.3.0": {
       "sdist": [
@@ -53104,6 +53160,58 @@
         ],
         "sgext-0.9.12-cp38-cp38-win_amd64.whl": [
           "3c7b0b2f495e13071112f87fe7ce1720ee4194828306d16b002cbe458bb6b39d",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.13": {
+      "wheels": {
+        "sgext-0.9.13-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "7c8e970ad1772a6fd6969ec9ccc3e3d771c7e68afb774d1f938dac533bc14efb",
+          "cp35"
+        ],
+        "sgext-0.9.13-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "55f35054dae1e99136926e3c91bd64b97bd45e9c16e4cfaccdeb848f78dd6a7f",
+          "cp35"
+        ],
+        "sgext-0.9.13-cp35-cp35m-win_amd64.whl": [
+          "f51fa1c076f9b46fdba5dde48685bd94363b4ca158303fa60598177c0bb801f3",
+          "cp35"
+        ],
+        "sgext-0.9.13-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "6e55efce522c3fe02b3b090eaa6df12ed7200a4b2f942e1a8761a4812ab74b1c",
+          "cp36"
+        ],
+        "sgext-0.9.13-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "995c76933e4d44c9216496f5bf30623fdef023c841ce81b4f104ec1dee8c07c0",
+          "cp36"
+        ],
+        "sgext-0.9.13-cp36-cp36m-win_amd64.whl": [
+          "d3ca92cdb05a07a8cd67d9ae320d7e3327d756b6f54037e1dbfee576bebd49f0",
+          "cp36"
+        ],
+        "sgext-0.9.13-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7f970ef684c6170b4fed5ce56a055fcff24314804c58793e479b013acc9b0163",
+          "cp37"
+        ],
+        "sgext-0.9.13-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9b3cbbd8ab0fca51dc277f971c54c5add5ef0784539f4589be8649a17093fa33",
+          "cp37"
+        ],
+        "sgext-0.9.13-cp37-cp37m-win_amd64.whl": [
+          "5727556f86aa37ffa4de422acb691e7b05beb732eb4797d47b6e62e4534c3e6a",
+          "cp37"
+        ],
+        "sgext-0.9.13-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "55999c785c248d47fe15d146df442a00890fe97fe7bb3ea6e33dd394f458c5cb",
+          "cp38"
+        ],
+        "sgext-0.9.13-cp38-cp38-manylinux2014_x86_64.whl": [
+          "e6bb0240d1c6c32b71d9800f489c3306e19c02a04d60df33d1c2a31f9ce3ce4e",
+          "cp38"
+        ],
+        "sgext-0.9.13-cp38-cp38-win_amd64.whl": [
+          "99d37ac27675f0bad965f92b4ea67a9a8fd709bd978b4a961bfa3de641701446",
           "cp38"
         ]
       }
