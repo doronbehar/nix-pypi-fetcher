@@ -147,6 +147,12 @@
         "0c89ea21e7e9a6a2d6176609e1e85796ba9bc6c13912bf6decd051098b8180dc",
         "acapture-1.2.5.tar.gz"
       ]
+    },
+    "1.2.6": {
+      "sdist": [
+        "b7a7ff26ecb4a20b17c1059101db9acff03fce16ff4de18741bfc7bfb56b1829",
+        "acapture-1.2.6.tar.gz"
+      ]
     }
   },
   "acclasstools": {
@@ -848,6 +854,18 @@
       "wheels": {
         "ajsonapi-0.7.3-py3-none-any.whl": [
           "8061df624242957f62595da1cf2c8009fc20f7751f665ee65787eb2fb476d266",
+          "py3"
+        ]
+      }
+    },
+    "0.7.4": {
+      "sdist": [
+        "c120c221bc3bdc32e9ec73d3850f47dbdf195b652dd2d9e1454e584328f93e62",
+        "ajsonapi-0.7.4.tar.gz"
+      ],
+      "wheels": {
+        "ajsonapi-0.7.4-py3-none-any.whl": [
+          "25d47a87b1246d5f155a16d355e3a9c0ee02a68753cacd673ffd149d945b2404",
           "py3"
         ]
       }
@@ -8813,6 +8831,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "cite-tools": {
+    "0.1a1": {
+      "sdist": [
+        "abea01db767a615a8c25b1c6136d93ad38a505b870a56088fb0f10f61fe2412f",
+        "cite-tools-0.1a1.tar.gz"
+      ]
     }
   },
   "cjworkbench-re2": {
@@ -19938,6 +19964,30 @@
       "wheels": {
         "dagster_dask-0.9.4rc0-py3-none-any.whl": [
           "0ab00cce662b9756fabd5c4c4ba39215f1aee437c6267d3e58ec19a6b878565f",
+          "py3"
+        ]
+      }
+    },
+    "0.9.5": {
+      "sdist": [
+        "701118d052bdc5585e271341d1330d6b33551240940143d0d0b3eca2550e144d",
+        "dagster-dask-0.9.5.tar.gz"
+      ],
+      "wheels": {
+        "dagster_dask-0.9.5-py3-none-any.whl": [
+          "13ed38e3c6a7ceec96a28a2641d48b362045232c01a5cc25ef81798e3603622e",
+          "py3"
+        ]
+      }
+    },
+    "0.9.5rc1": {
+      "sdist": [
+        "cdb588e8e4820793d43d62d93f3e1997971542251a46c8a36845509a745fc6d3",
+        "dagster-dask-0.9.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "dagster_dask-0.9.5rc1-py3-none-any.whl": [
+          "6cfc4faa0ddc9cdc973bb230aa64bb96547feb9c81391c7a66d67ce6b78b341d",
           "py3"
         ]
       }
@@ -34013,6 +34063,14 @@
       ]
     }
   },
+  "jitools": {
+    "0.1": {
+      "sdist": [
+        "8df4470749869b25fdecf7d3238b9545845e2e02ccce3b19771fd94f55f1579d",
+        "jitools-0.1.tar.gz"
+      ]
+    }
+  },
   "jocommentatom": {
     "0.1.2": {
       "sdist": [
@@ -47049,18 +47107,86 @@
       }
     },
     "1.13.0": {
+      "sdist": [
+        "67fc82a3d3e565ddfe81b81603c2b5b0343b3248a20ee4410e4874b76f11f17a",
+        "parallel-ssh-1.13.0.tar.gz"
+      ],
       "wheels": {
+        "parallel_ssh-1.13.0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "5e052c37151af6688fdbbf963fd24bed8794279db97828e2a2ca8bdc08616f87",
+          "cp27"
+        ],
+        "parallel_ssh-1.13.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "5264c25137acd5dfdbb0058afcb7cf3b83f4be0c4f1a04987541f8a8a6112c81",
+          "cp27"
+        ],
+        "parallel_ssh-1.13.0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "94895479f58bfe95e6911147698c1de603bb0bd0ecfe33185553885cd9ef4ef4",
+          "cp27"
+        ],
+        "parallel_ssh-1.13.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "ded9beada57073b4511a1c25b11e83aa4744cb5389ab0fb3fc96be16705d0690",
+          "cp27"
+        ],
+        "parallel_ssh-1.13.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "d1a45e0ce20521988b8c1c4d5a5447b52f4541d7f4dce9a6c10d3c96c9e12ade",
+          "cp35"
+        ],
+        "parallel_ssh-1.13.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "0cbca1913861b3eb6265ca92ec513d209d7fd6703467dad1ba5b5138fdba9803",
+          "cp35"
+        ],
+        "parallel_ssh-1.13.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "32bdb42c4599cfb3a92a376ad5c948afe6ee4102fd2f869ae7121b443286f2f2",
+          "cp36"
+        ],
+        "parallel_ssh-1.13.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "919fc3ea0238d2266d382134ae4e64cfce86b1abd41fa114929e8bee991c6d22",
+          "cp36"
+        ],
         "parallel_ssh-1.13.0-cp36-cp36m-win_amd64.whl": [
           "c794641ebb690eb549832016001547fc6c163548ba353de863430085e6d5c129",
           "cp36"
+        ],
+        "parallel_ssh-1.13.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "3ed2797cd5345ba8629a8f2ff481cf3dd9eef37d306b4675970c2ec2dc2db2b6",
+          "cp37"
+        ],
+        "parallel_ssh-1.13.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "94d9d387e51cada8feb3c8e568c5ccd850723342878cbb2da923d48a5a06d7f5",
+          "cp37"
+        ],
+        "parallel_ssh-1.13.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a410e6de773c915f9b0044027737d4cd5c7cadce130033f22380e03f3b109659",
+          "cp37"
         ],
         "parallel_ssh-1.13.0-cp37-cp37m-win_amd64.whl": [
           "2bb494ec6d06cef4482a39cd24b117b69a507b889e17862a5fcdc30dd3097c46",
           "cp37"
         ],
+        "parallel_ssh-1.13.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "b0ae2e8450274656c2430e23d9a73744e536d35db0099dfb69322c0b7b39d561",
+          "cp38"
+        ],
+        "parallel_ssh-1.13.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "df1825236df3c289ea0bdf345dc8389bb3ab9715f92009f6ed87017f95632bd4",
+          "cp38"
+        ],
+        "parallel_ssh-1.13.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "d983f923dbf6c5c9d116e558a0ebd843e2df0f5dbc9b371ad75fd7295709ab9f",
+          "cp38"
+        ],
         "parallel_ssh-1.13.0-cp38-cp38-win_amd64.whl": [
           "b7103c0c4888f1ba1899a39b36f113ad714376569da590bc14da534f35c90c8b",
           "cp38"
+        ],
+        "parallel_ssh-1.13.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "967ed56252c38e8f1fb5000a73227987ab48b46de7b4d777e1582757ca6ebb87",
+          "cp39"
+        ],
+        "parallel_ssh-1.13.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "c9fd73b2acffdf099ef5bfd2fbe4a152576d9bea81978682681ba9d1e99e18fd",
+          "cp39"
         ]
       }
     },
@@ -59204,6 +59330,18 @@
       "wheels": {
         "rac_schemas-0.20-py3-none-any.whl": [
           "7109a971892753ab2b7c3e05878d67ed4e5e351433415a4fb719ccc2e1eb7821",
+          "py3"
+        ]
+      }
+    },
+    "0.20.1": {
+      "sdist": [
+        "cddba9764b070caaee72c72cc7f2050f66fdb20fc72e036b8b66c94d4e38048e",
+        "rac_schemas-0.20.1.tar.gz"
+      ],
+      "wheels": {
+        "rac_schemas-0.20.1-py3-none-any.whl": [
+          "65a9868a21e073515f124e42726cc84c25107ced888435efac11a3fb539e919b",
           "py3"
         ]
       }
