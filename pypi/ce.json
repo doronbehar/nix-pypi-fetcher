@@ -2777,6 +2777,42 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "24273e43472b6bf64edc6eab80fccd84c7c3111cff17a05c6e9f67338187859a",
+        "bert_multitask_learning-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "bert_multitask_learning-0.5.0-py3-none-any.whl": [
+          "f0eec81f80b3661963e86515aeb7cba36c2595e88623eeab73664502438754e0",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "d27fd10c7fa846375a81df06d06c2ae14d278c00e7328f99a9311ee2c2cb7e0a",
+        "bert_multitask_learning-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "bert_multitask_learning-0.5.1-py3-none-any.whl": [
+          "3cb697e9b168f0080ce10641ccbedd64c8d3c5d4acfa3fc2180bf057b328d60a",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "5366c5ce898bb9251e3134da6b3c5201d78f8b9963d982597ca5dcdd069024ba",
+        "bert_multitask_learning-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "bert_multitask_learning-0.5.2-py3-none-any.whl": [
+          "dfadabfd15e618c2d84e4c4a2ee91b8acc5698efc24ec0476bc4dbec605951ba",
+          "py3"
+        ]
+      }
     }
   },
   "bestappever": {
@@ -29796,6 +29832,18 @@
         ]
       }
     },
+    "0.17.0": {
+      "sdist": [
+        "7f9e58acd1efa2133802c03c3602c141de8c3962448f4f5b0c3b6bdf1f15f143",
+        "lahja-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "lahja-0.17.0-py3-none-any.whl": [
+          "1eeb6448c8a8acac054b605eb617139181b12b85f9c87d70f4f7590afaad7d2c",
+          "py3"
+        ]
+      }
+    },
     "0.2.1": {
       "sdist": [
         "413f0e740995b56555d7dfcccf3e64635f2da4eaf1c70b0580bc25a226e72442",
@@ -38686,6 +38734,18 @@
       "wheels": {
         "mypy_boto3_xray-1.14.55.2-py3-none-any.whl": [
           "82c92761f96506257ae796e4d27922fdd7ebc1029dc0bfa9f1873cef7248ba05",
+          "py3"
+        ]
+      }
+    },
+    "1.14.56.0": {
+      "sdist": [
+        "3460f5bf8c0240e918645be25b2882315405f72d478beeec79e05e2e3d7f4be4",
+        "mypy-boto3-xray-1.14.56.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_xray-1.14.56.0-py3-none-any.whl": [
+          "de31a909d137598794ea837ec1986843be0e6737a0c6496f5ceb6b0dbfad8d8c",
           "py3"
         ]
       }
@@ -48680,6 +48740,12 @@
       "sdist": [
         "bca3d08a345c98dc5417291259f912890e339f62928a2f5239116fb7271136c7",
         "pulumi_alicloud-2.15.0a1598987608.tar.gz"
+      ]
+    },
+    "2.16.0": {
+      "sdist": [
+        "7c68cf102b5073c219314c83fdf144e1e17fb045a57763506e03c7681bfb5fde",
+        "pulumi_alicloud-2.16.0.tar.gz"
       ]
     },
     "2.16.0a1599152557": {
@@ -70761,56 +70827,6 @@
         "8dbdd714575a7e5a0cec542aa523675505725b57165b22d5a9adad911f1043bd",
         "venvctl-1.3.9.tar.gz"
       ]
-    }
-  },
-  "vineyard": {
-    "0.0.1": {
-      "sdist": [
-        "f9673468424e58db740cf8ecf09c0c366b5bfb4684f5def8ce345d747dc0ad54",
-        "vineyard-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "vineyard-0.0.1-py3-none-any.whl": [
-          "9f50aa247584a7137e5cab79cae57afae3268c5acf4ed2679eb4c7b2c33557cc",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "d1ae71ceec0b0072fa567cc99bf7d3ae330fd55927d1b7367a6eb89dfe2234b6",
-        "vineyard-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "vineyard-0.0.2-py3-none-any.whl": [
-          "eec0c0b2cb281f23e409827f49932474dd06020ff77ed0c4ac5863bf52ca5503",
-          "py3"
-        ]
-      }
-    },
-    "0.3": {
-      "sdist": [
-        "75ae5b90e73e9c5dbc888a6a489882d5b765f70c426b54a0abdb61c13c24ff98",
-        "vineyard-0.3.tar.gz"
-      ],
-      "wheels": {
-        "vineyard-0.3-py3-none-any.whl": [
-          "36348f349adcea7d1be7da5defc827d8644cc4ad20fe2f9152fd18c0339eeb8c",
-          "py3"
-        ]
-      }
-    },
-    "0.4": {
-      "sdist": [
-        "273a7376f524ef53f7ab58c6ad7e9b5c450827d7522a7b142fd9cc54b7550c3b",
-        "vineyard-0.4.tar.gz"
-      ],
-      "wheels": {
-        "vineyard-0.4-py3-none-any.whl": [
-          "a4b846e6450da02a18f9bbd9de043ed96d2ad2ddabd795e487ab6a62cf488fff",
-          "py3"
-        ]
-      }
     }
   },
   "vistautils": {
