@@ -22,14 +22,26 @@
     }
   },
   "acd-helpers": {
-    "0.1": {
+    "0.1.1": {
       "sdist": [
-        "62ac33b12207f4c2c83661816226e683d9824e3c7e70cb51d29493e89cda1c90",
-        "ACD_helpers-0.1.tar.gz"
+        "4b306bd78cfa2221510e9cd28ec3f6e46d1927c8929b0997b97d424d24b4ca50",
+        "ACD_helpers-0.1.1.tar.gz"
       ],
       "wheels": {
-        "ACD_helpers-0.1-py3-none-any.whl": [
-          "9e2f425902bc6075daadabae97c8ba7c64f3a4c89b08eb00c78593aee0bb9a06",
+        "ACD_helpers-0.1.1-py3-none-any.whl": [
+          "8af362f6f62d34ad99b2caee3ee3d3220f4f4e29fec9980a08f05cfdf76fe1e9",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "4f3ad739e5aa45f53215e41d61a631e3d12748926c948264c640ffb08dff0ddd",
+        "ACD_helpers-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "ACD_helpers-0.1.2-py3-none-any.whl": [
+          "fff5a337dd0451e04c4ff61d1a263f3db5a12e3f9c797eb8e1eca441098b0904",
           "py3"
         ]
       }
@@ -1378,6 +1390,18 @@
       "wheels": {
         "allennlp_models-1.0.0rc6-py3-none-any.whl": [
           "932e3a41875779e3bcd95bfda0ae62f240d75133afc3c963a29c19d3e8ea225d",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "c15c30d001092ee7923b7cd0ae0d66bcdf2357e6619284acfc5b7d25b43868b9",
+        "allennlp_models-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "allennlp_models-1.1.0-py3-none-any.whl": [
+          "aeaff0ea326d25364865a19bcb4ff484a4aff487a0da274b27718b224e6bd04a",
           "py3"
         ]
       }
@@ -5282,6 +5306,18 @@
       "wheels": {
         "cdk_fargate_fastautoscaler-0.2.22-py3-none-any.whl": [
           "d39948b16828ace1e9102d88f2c38ea88efcfc249a714e0283c5f7d765a2a315",
+          "py3"
+        ]
+      }
+    },
+    "0.2.23": {
+      "sdist": [
+        "87c163ca3ac54aadee18cbc5a9b5c6af96c418c8896ac394c54c4548df551cae",
+        "cdk-fargate-fastautoscaler-0.2.23.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fargate_fastautoscaler-0.2.23-py3-none-any.whl": [
+          "f3f7911190559f7c873807607e2e5fd58fcd5a62e64105e87dbe813f0a00ca03",
           "py3"
         ]
       }
@@ -36388,6 +36424,18 @@
         ]
       }
     },
+    "1.14.57.0": {
+      "sdist": [
+        "8520022048091b825d8cd7a8bc13d40d1cb51e56eba43c48fe7e0e48f9742c4d",
+        "mypy-boto3-1.14.57.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3-1.14.57.0-py3-none-any.whl": [
+          "18bc3d84a5a95cffbe0df62b3097c52594184a1708092fed233befeb30a8af33",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "f4c6ba46dfca27f8b2d30ed46889e204f355ec2c1332bb7934be13b6df7fae32",
@@ -38354,6 +38402,18 @@
       "wheels": {
         "mypy_boto3_autoscaling_plans-1.14.56.0-py3-none-any.whl": [
           "6bc4e0508f940c7b4d3addf437b969ffe257e09f95d8062cb9319abbdae46250",
+          "py3"
+        ]
+      }
+    },
+    "1.14.57.0": {
+      "sdist": [
+        "14074262be56c1b58984dca73048fd3857274511a862cb586d83188c19e1527a",
+        "mypy-boto3-autoscaling-plans-1.14.57.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_autoscaling_plans-1.14.57.0-py3-none-any.whl": [
+          "021728c326ffcf661ca25806b6b6401b2562991d368c1da9db7883f16fa6884f",
           "py3"
         ]
       }
@@ -40328,6 +40388,18 @@
         ]
       }
     },
+    "1.14.57.0": {
+      "sdist": [
+        "6f7473acfeafc4dbd01f4d0b7ce019cc83ce2804005f683986c6f4324dd1d0fb",
+        "mypy-boto3-ce-1.14.57.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ce-1.14.57.0-py3-none-any.whl": [
+          "ce946212cd12bdbe42f092b44176dbc253d1df5b7166765ae01276c01213c0bc",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "2e11380ff4b6c9e9d04203dee8caa1851e53836b26d5d8b31065e4530347dfc6",
@@ -42088,6 +42160,30 @@
       "wheels": {
         "NREL_rex-0.2.15-py3-none-any.whl": [
           "870d7c2b9196fb79093e34d22223873a3a90952e1ba563131cfc248a9f965688",
+          "py3"
+        ]
+      }
+    },
+    "0.2.16": {
+      "sdist": [
+        "94a253b4e71da2ca4373386391b9a370d935a3aaf6fd2c74402a09d370ba4f23",
+        "NREL-rex-0.2.16.tar.gz"
+      ],
+      "wheels": {
+        "NREL_rex-0.2.16-py3-none-any.whl": [
+          "ea46f031d629fc8073c9e9309bd7dc8713692c84192f655f25572a11a2f0b5d6",
+          "py3"
+        ]
+      }
+    },
+    "0.2.17": {
+      "sdist": [
+        "cd6930d0b54fad93307d3ae1244a2f7a8603a455713158ee6d3d86c86641e3ba",
+        "NREL-rex-0.2.17.tar.gz"
+      ],
+      "wheels": {
+        "NREL_rex-0.2.17-py3-none-any.whl": [
+          "686ae247e0af1366c1f39706aa4ed422aeab6f5fdbdb777ac4b8df409bc3649d",
           "py3"
         ]
       }
@@ -65651,6 +65747,20 @@
         "46ef35056ab303c60847b72f662159ec1786e5075d79cbbbea985b345d48d514",
         "torndb3-0.4.5.tar.gz"
       ]
+    }
+  },
+  "tortus": {
+    "0.0.1": {
+      "sdist": [
+        "a71994a5ffd54a86d18e52ab829e1eabd494d5fbc754f7759ebf055ae4012da3",
+        "tortus-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tortus-0.0.1-py3-none-any.whl": [
+          "c4162b690f03edb28eda701e95934bbc3e2d7d14e5b22bd574bdd70bae97b52b",
+          "py3"
+        ]
+      }
     }
   },
   "trackfilter": {

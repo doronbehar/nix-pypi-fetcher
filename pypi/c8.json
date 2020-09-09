@@ -2071,6 +2071,14 @@
           "py3"
         ]
       }
+    },
+    "3.8": {
+      "wheels": {
+        "am_viewer-3.8-py3-none-any.whl": [
+          "9ac6df9b105e612e7751050251b0ab9f9736066da46cbbb3fe383b469de0fed6",
+          "py3"
+        ]
+      }
     }
   },
   "amqp-worker": {
@@ -5970,6 +5978,20 @@
       "wheels": {
         "azure_core_tracing_opencensus-1.0.0b6-py2.py3-none-any.whl": [
           "d8c96f3ea0d32e0b22d56762011e73e68089990647b958981a3b7a4ff5d1fdc5",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "azure-data-nspkg": {
+    "1.0.0": {
+      "sdist": [
+        "57b49885cd166abad7ff0945a68f0b6f51748e4fa7d9ee8e7ba7314a3fa1e5ee",
+        "azure-data-nspkg-1.0.0.zip"
+      ],
+      "wheels": {
+        "azure_data_nspkg-1.0.0-py2.py3-none-any.whl": [
+          "983cec43ebd4f68686557a2e3377d3b1b7606c2f2fa4cd49d7bad8651d706e9e",
           "py2.py3"
         ]
       }
@@ -16396,6 +16418,18 @@
       "wheels": {
         "databind.core-0.4.0-py3-none-any.whl": [
           "107fabde067662d922cf77c20a4477ee054cba92a2547968c0aa59fdd7d5eb99",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "533e62836e297ed78bc34d82433b2ac77eb995584b7e223e3ebf2420af1324b0",
+        "databind.core-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "databind.core-0.4.1-py3-none-any.whl": [
+          "96f63e792e48aca6a9705d61c13d7ac629a4d51ac42606fdfd503e4fb98e1e80",
           "py3"
         ]
       }
@@ -28462,6 +28496,14 @@
       "wheels": {
         "google_domains_api-0.1.0-py3-none-any.whl": [
           "058bd9d3324789ba36e0b599ae540f28e0570f573bc8a95cc38ec689385b414a",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "google_domains_api-0.1.1-py3-none-any.whl": [
+          "c485bef63aa0a05b9038f772baeed993ae090464b9d37ee6a441b13e443870d1",
           "py3"
         ]
       }
@@ -48642,10 +48684,34 @@
         "napoleontoolbox-2.6.46.tar.gz"
       ]
     },
+    "2.6.47": {
+      "sdist": [
+        "ac618d8b79d317cb4618686fc4f01d6e298cbfa8fb3ed64aeff7989e94cd7f44",
+        "napoleontoolbox-2.6.47.tar.gz"
+      ]
+    },
+    "2.6.48": {
+      "sdist": [
+        "6524035fccb944d91208573ad44673e1be94bd5939ad8621cabb1627a4d67b0c",
+        "napoleontoolbox-2.6.48.tar.gz"
+      ]
+    },
+    "2.6.49": {
+      "sdist": [
+        "3a6bb821295c9c88e4afa170c96a1bf2453efb9b6d862a594ddcb7a98ae4b793",
+        "napoleontoolbox-2.6.49.tar.gz"
+      ]
+    },
     "2.6.5": {
       "sdist": [
         "b4582a2f095da780514e164093d5a638ff8cca4fa3e4e0acc2103926aa8617f7",
         "napoleontoolbox-2.6.5.tar.gz"
+      ]
+    },
+    "2.6.50": {
+      "sdist": [
+        "07586130730c9c64075aae2f477e7790036e012aab2592014034d2a87155253e",
+        "napoleontoolbox-2.6.50.tar.gz"
       ]
     },
     "2.6.6": {
@@ -59144,6 +59210,18 @@
     }
   },
   "pycsep": {
+    "0.1.0": {
+      "sdist": [
+        "74e17c58ff8a0aaf11712cba8b6ea3db25d0283367000be2c2ee92659f8998c1",
+        "pycsep-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pycsep-0.1.0-py3-none-any.whl": [
+          "c1ab7b00f1a192be08eef27c4088f53cb9845e62211ddf08a74d99d41ebcfefd",
+          "py3"
+        ]
+      }
+    },
     "0.1.0.dev0": {
       "sdist": [
         "da8b2264917263db33b46b3c107bdb6ad9dccad25b3c3eae7b23894eed34001b",
@@ -59152,6 +59230,30 @@
       "wheels": {
         "pycsep-0.1.0.dev0-py3-none-any.whl": [
           "1d507e67df0ff0eb45d03e4c2ec1889983879a6067741586c7e7746ec13fe318",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev1": {
+      "sdist": [
+        "f194b21cb65e93f66df995132a7bb1dd68aa6dcfc4dd293656f7ad5c00d7fe04",
+        "pycsep-0.1.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "pycsep-0.1.0.dev1-py3-none-any.whl": [
+          "e0da5aaea582c0aa17aa673c42598b6dbb3a13692f661fb96a0f42628203e05b",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev2": {
+      "sdist": [
+        "25025f643204af376a416f5126c9df87ed31839209aec00446c5296d6b14df35",
+        "pycsep-0.1.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "pycsep-0.1.0.dev2-py3-none-any.whl": [
+          "cec24ed9b54ee5a307e0551e6374a553a29e62731beb4c05ba916ab989eb58da",
           "py3"
         ]
       }

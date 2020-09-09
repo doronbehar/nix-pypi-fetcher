@@ -5167,6 +5167,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "b92a9a7d6ccd3278d46cf78b3ab46ba434e1fb01d1013547626448c3135597eb",
+        "azure-eventhub-checkpointstoreblob-aio-1.1.1.zip"
+      ],
+      "wheels": {
+        "azure_eventhub_checkpointstoreblob_aio-1.1.1-py3-none-any.whl": [
+          "254e7f2cb674a0382901702fdb86390c671112eb933c1cda86978f2237de81af",
+          "py3"
+        ]
+      }
     }
   },
   "azure-search-nspkg": {
@@ -31374,6 +31386,18 @@
         ]
       }
     },
+    "5.63": {
+      "sdist": [
+        "0a92e04d0f01293c71e06d246e2fd1f36c9ca376ab846b20acc322f5c0559958",
+        "ll-xist-5.63.tar.gz"
+      ],
+      "wheels": {
+        "ll_xist-5.63-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "440814bf82b1803dfcf5aa376fe733483871efa16c8e2357aff89c28eb566e7e",
+          "cp38"
+        ]
+      }
+    },
     "5.7": {
       "sdist": [
         "625c2f9c42c0349afc70d3bd102f49ca4a3f4b62c0a452395b76bb3e6eb90ed3",
@@ -36862,6 +36886,18 @@
         ]
       }
     },
+    "1.14.57.0": {
+      "sdist": [
+        "eaead6b8a0e9e00556010008d1c5224a0f899d438135055c08e6dee88d5e465b",
+        "mypy-boto3-codecommit-1.14.57.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codecommit-1.14.57.0-py3-none-any.whl": [
+          "fcb825112fe8ff945de9d59d480707112ba0bdf18a815b2aa97ffe33cfd91e8f",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "18d9cfb03dd5d425df622b59a1f2bc704d077493072f25b7bef981283269d721",
@@ -38812,6 +38848,18 @@
       "wheels": {
         "mypy_boto3_pinpoint_sms_voice-1.14.56.0-py3-none-any.whl": [
           "a89b2e6e3e90c34dd6ca7ecb8a03891a2e7af644201b0af2682eac5076ae95d3",
+          "py3"
+        ]
+      }
+    },
+    "1.14.57.0": {
+      "sdist": [
+        "eed75f1d49b87af798e514336d646719b8a8d466f91eca2cba306fa31b549406",
+        "mypy-boto3-pinpoint-sms-voice-1.14.57.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint_sms_voice-1.14.57.0-py3-none-any.whl": [
+          "5f2f94da2a1c64abd9fbe470859cd97edadb86fe27b3b6101a864bcc570709ef",
           "py3"
         ]
       }
@@ -45152,6 +45200,50 @@
         ],
         "pgsync-1.1.11-cp38-cp38-manylinux2010_x86_64.whl": [
           "f9d2a2739ea7b336d6098bedd15e30cb0699eac4032e355876e969d47e32009b",
+          "cp38"
+        ]
+      }
+    },
+    "1.1.12": {
+      "wheels": {
+        "pgsync-1.1.12-cp36-cp36m-manylinux1_x86_64.manylinux2010_x86_64.whl": [
+          "c426475bade14445a510b206f62744b2dbdb2028336a8e3933d704c1ebd0492e",
+          "cp36"
+        ],
+        "pgsync-1.1.12-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5e7ad25816be7ed29dcc8354d8e4aa3a2f61bff98f39d45f5101076f8080edff",
+          "cp36"
+        ],
+        "pgsync-1.1.12-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9cfa328a19f050524019678d7e97c7a0f4b71ea70c6a65154260b58894e5862f",
+          "cp36"
+        ],
+        "pgsync-1.1.12-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "2605288386bf35d720bfa8e312937e76753692e80f84465bf73ee3c023d324e5",
+          "cp37"
+        ],
+        "pgsync-1.1.12-cp37-cp37m-manylinux1_x86_64.whl": [
+          "daae757b053e4ce4d94a54cac38983612c3990bf0156325691686aac299077b0",
+          "cp37"
+        ],
+        "pgsync-1.1.12-cp37-cp37m-manylinux2010_x86_64.manylinux1_x86_64.whl": [
+          "a3aef66493f2f541480879616fe3b07b8916a6dbed872775a55291282ace4c26",
+          "cp37"
+        ],
+        "pgsync-1.1.12-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "79cf7709e73afd0c62a28b0184b989ed4c1349e90424a7668234d3543c23a13f",
+          "cp37"
+        ],
+        "pgsync-1.1.12-cp38-cp38-manylinux1_x86_64.whl": [
+          "000e8c45ebc36ee3e2e56ddb0af6cd6436c8d6737c6b9e6741368a1296776700",
+          "cp38"
+        ],
+        "pgsync-1.1.12-cp38-cp38-manylinux2010_x86_64.manylinux1_x86_64.whl": [
+          "5486702663c59d50fd3f6cc5e5a9e9425ce227a33bdc8ef1aa884dc947f776cd",
+          "cp38"
+        ],
+        "pgsync-1.1.12-cp38-cp38-manylinux2010_x86_64.whl": [
+          "64a2aad98e6f96b992392d75c1678e1c77bb818694517e9c2adf6ab8370829bf",
           "cp38"
         ]
       }
@@ -66654,6 +66746,12 @@
       "sdist": [
         "b9407fbadd8f49f1dcec005a09742ceb5896a66b41b754a14bb481326eccefff",
         "topy-0.3.0.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "f109795ac7549d630e1c2a9798a31cf64387f4dd31bec16c15d554a3e6b62d50",
+        "topy-1.0.0.tar.gz"
       ]
     }
   },

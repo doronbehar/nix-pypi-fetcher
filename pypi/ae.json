@@ -13838,6 +13838,18 @@
         ]
       }
     },
+    "1.17.57": {
+      "sdist": [
+        "4b7865ac5f62b5abc40331ff696da839f4b3d746943db7dc90802703dbd7a68a",
+        "botocore-1.17.57.tar.gz"
+      ],
+      "wheels": {
+        "botocore-1.17.57-py2.py3-none-any.whl": [
+          "5cafc8f7e594892ac3d8591d5625d2cfc13b777a0617339e851dba6e91a32311",
+          "py2.py3"
+        ]
+      }
+    },
     "1.17.6": {
       "sdist": [
         "a5737a5215f9db23344752a4d2a43646c104e6d500a2d6f9409624d2e58c92f1",
@@ -21462,6 +21474,20 @@
       "wheels": {
         "csnake-0.3.1-py3-none-any.whl": [
           "2aae114f44586638fabc8f70e27c66d5b05319b11ff4586f43415a8a780095ce",
+          "py3"
+        ]
+      }
+    }
+  },
+  "csv2googlesheets": {
+    "1.0.0": {
+      "sdist": [
+        "a6a1b8e3d6353796d563cd24c9615b8323a2347a1a400c7efffd95e4c103d6c0",
+        "csv2googlesheets-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "csv2googlesheets-1.0.0-py3-none-any.whl": [
+          "4562ce1b8b491c875caf4b747b1160fe2dcaefe528cf2fef2d614348e586e1c9",
           "py3"
         ]
       }
@@ -59443,6 +59469,74 @@
           "cp38"
         ]
       }
+    },
+    "1.1.2": {
+      "sdist": [
+        "b64ffd87a2cfd31b40acd4b92cb72ea9a52a48165aec4c140e78fd69c45d1444",
+        "pandas-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pandas-1.1.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "eb0ac2fd04428f18b547716f70c699a7cc9c65a6947ed8c7e688d96eb91e3db8",
+          "cp36"
+        ],
+        "pandas-1.1.2-cp36-cp36m-manylinux1_i686.whl": [
+          "02ec9f5f0b7df7227931a884569ef0b6d32d76789c84bcac1a719dafd1f912e8",
+          "cp36"
+        ],
+        "pandas-1.1.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1edf6c254d2d138188e9987159978ee70e23362fe9197f3f100844a197f7e1e4",
+          "cp36"
+        ],
+        "pandas-1.1.2-cp36-cp36m-win32.whl": [
+          "b821f239514a9ce46dd1cd6c9298a03ed58d0235d414ea264aacc1b14916bbe4",
+          "cp36"
+        ],
+        "pandas-1.1.2-cp36-cp36m-win_amd64.whl": [
+          "ab6ea0f3116f408a8a59cd50158bfd19d2a024f4e221f14ab1bcd2da4f0c6fdf",
+          "cp36"
+        ],
+        "pandas-1.1.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "474fa53e3b2f3a543cbca81f7457bd1f44e7eb1be7171067636307e21b624e9c",
+          "cp37"
+        ],
+        "pandas-1.1.2-cp37-cp37m-manylinux1_i686.whl": [
+          "9e135ce9929cd0f0ba24f0545936af17ba935f844d4c3a2b979354a73c9440e0",
+          "cp37"
+        ],
+        "pandas-1.1.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "188cdfbf8399bc144fa95040536b5ce3429d2eda6c9c8b238c987af7df9f128c",
+          "cp37"
+        ],
+        "pandas-1.1.2-cp37-cp37m-win32.whl": [
+          "08783a33989a6747317766b75be30a594a9764b9f145bb4bcc06e337930d9807",
+          "cp37"
+        ],
+        "pandas-1.1.2-cp37-cp37m-win_amd64.whl": [
+          "f7008ec22b92d771b145150978d930a28fab8da3a10131b01bbf39574acdad0b",
+          "cp37"
+        ],
+        "pandas-1.1.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "59df9f0276aa4854d8bff28c5e5aeb74d9c6bb4d9f55d272b7124a7df40e47d0",
+          "cp38"
+        ],
+        "pandas-1.1.2-cp38-cp38-manylinux1_i686.whl": [
+          "eeb64c5b3d4f2ea072ca8afdeb2b946cd681a863382ca79734f1b520b8d2fa26",
+          "cp38"
+        ],
+        "pandas-1.1.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "c9235b37489168ed6b173551c816b50aa89f03c24a8549a8b4d47d8dc79bfb1e",
+          "cp38"
+        ],
+        "pandas-1.1.2-cp38-cp38-win32.whl": [
+          "0936991228241db937e87f82ec552a33888dd04a2e0d5a2fa3c689f92fab09e0",
+          "cp38"
+        ],
+        "pandas-1.1.2-cp38-cp38-win_amd64.whl": [
+          "026d764d0b86ee53183aa4c0b90774b6146123eeada4e24946d7d24290777be1",
+          "cp38"
+        ]
+      }
     }
   },
   "pantsbuild.pants.contrib.cpp": {
@@ -86244,6 +86338,18 @@
       "wheels": {
         "wc_utils-0.0.21-py2.py3-none-any.whl": [
           "647bd6a53a45b29f2c099b5c4db26ae90633528e1c010f8ec3bb18198dc5f18d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.22": {
+      "sdist": [
+        "b492e032af5e6309fcb5dc7f41273438e33a50681522f454178069f966485a06",
+        "wc_utils-0.0.22.tar.gz"
+      ],
+      "wheels": {
+        "wc_utils-0.0.22-py2.py3-none-any.whl": [
+          "cea6a4dfacb22d2bd8dc00ea59b159f0bb92720da7e917ee2cdb969d660a7b30",
           "py2.py3"
         ]
       }
