@@ -5483,6 +5483,20 @@
       }
     }
   },
+  "azure-schemaregistry": {
+    "1.0.0b1": {
+      "sdist": [
+        "27f9b831f9e7901f88957e44b32db9e4a866fd0084f16ee2b61149d50e2c9eb7",
+        "azure-schemaregistry-1.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_schemaregistry-1.0.0b1-py2.py3-none-any.whl": [
+          "16908d674a7719760f684a1f348a2abce141b6ee21718131627ee4bb99c585cb",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "azure-storage-blob": {
     "0.37.0": {
       "sdist": [
@@ -5732,6 +5746,18 @@
       "wheels": {
         "azure_storage_blob-12.4.0b1-py2.py3-none-any.whl": [
           "2690fdc86ed844a0c2d3a9646fb6de47f6fa2176357f0a5090886507f8724bfc",
+          "py2.py3"
+        ]
+      }
+    },
+    "12.5.0": {
+      "sdist": [
+        "1469a5a0410296fb5ff96c326618d939c9cb0c0ea45eb931c89c98fa742d8daa",
+        "azure-storage-blob-12.5.0.zip"
+      ],
+      "wheels": {
+        "azure_storage_blob-12.5.0-py2.py3-none-any.whl": [
+          "6f2de5b60f16141731b7561c218a8455053bcdb9b3775a0e5364fb2b041bcf1e",
           "py2.py3"
         ]
       }
@@ -12574,134 +12600,134 @@
     }
   },
   "devsnets": {
-    "1.6.1": {
+    "1.6.6": {
       "wheels": {
-        "devsnets-1.6.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "0183e25c0dbee9d724e7e17aa9c4faa915a497e64b4a6994702b5f9643ffa793",
+        "devsnets-1.6.6-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "f1c938904af11c1ea9ec4690cb645893152fb4d08bb8ab90d84aa1ad5c25abd7",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-manylinux1_i686.whl": [
-          "b727c1798f8201bac0be73eff110bb7f89046393bc69fe3e417a9e3a6361a515",
+        "devsnets-1.6.6-cp35-cp35m-manylinux1_i686.whl": [
+          "cf72c3c9183b85fec924221510e65bb026cd5b0e4013db9d079ba9ca49ca2e20",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "4dd0ab241926cd4c65e814cbb725323423e4c1ad1d069b6b449bc03c118932e4",
+        "devsnets-1.6.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "0b73efa72558dc47384d8065cf64eab5c5e9138e3cf6076021873d2b52d8a173",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-manylinux2010_i686.whl": [
-          "0f2cde68349f5262cedf74af34e88aeeb7da50cabdf491de62b7a60480f10577",
+        "devsnets-1.6.6-cp35-cp35m-manylinux2010_i686.whl": [
+          "2724381dbda4ffd824a1593ce4c149fa9b642a95a844f756d05ffd63ab81ca84",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "7c589c7b01808a2eb6fd0c5b8276cd52fac78d964a48459f8cf806524e196c72",
+        "devsnets-1.6.6-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "067233129f6f1abd352ef671af6eda482b68b0210f759f5eb32ce3c9779c932e",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-win32.whl": [
-          "137a3100af4ab4f683bd7d52aafc4b6123b880d5b9394af3842cc846c5bbf4d1",
+        "devsnets-1.6.6-cp35-cp35m-win32.whl": [
+          "798b27149167551a7be9fbd426923da700a85aa8a26450530890298b7e3b7e9d",
           "cp35"
         ],
-        "devsnets-1.6.1-cp35-cp35m-win_amd64.whl": [
-          "224622edcbe210d726f329a4a5b930f20f785b980270d6b776716a2ebe4441cb",
+        "devsnets-1.6.6-cp35-cp35m-win_amd64.whl": [
+          "662a989505b95b7818befe94e8109d6d277e6a6cdcba7a45825eb42718245dcf",
           "cp35"
         ],
-        "devsnets-1.6.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "c343ce77d9c9b56bbdddc688edbf58439ed38648394e2df39841ed43d56b7ce3",
+        "devsnets-1.6.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "71480a9615cb9bf4fc304df984991e21c33e402041a2f813f68e96030f649a20",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-manylinux1_i686.whl": [
-          "c0c39578e13ec9d6c544d9d5083984bb30b5e9b9a3f33450426b7857285092b5",
+        "devsnets-1.6.6-cp36-cp36m-manylinux1_i686.whl": [
+          "bfaf42887296f5d6db17776d5979c3109a3e536f8d56fbf7c119cb5b190f4e19",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "c1cd403bdea43191c5b5d2dd54c200cf9340df5b006754e574d289d789c6d9b3",
+        "devsnets-1.6.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "603a46b84c4fdc82be4f6d2730436d2667c73d1a53845c9665e1721d6e235891",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-manylinux2010_i686.whl": [
-          "fa14a6e24a235abda014ff26d0a7577cbd2183aa27e7b959e980e59b6f83d8e6",
+        "devsnets-1.6.6-cp36-cp36m-manylinux2010_i686.whl": [
+          "f8647c0516876b8923ca3cb4a21e9b776531fdc68edf306ea2d29573b68b88c0",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "e062c189197d4616097c22b1d7b87ed2a6b44209a825e8b0e56bc9a5700c9912",
+        "devsnets-1.6.6-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b4c2af23869c3acca18fb5b42f7c186fb72aa54fbbc47a527cb8c3a182f953b5",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-win32.whl": [
-          "166ef950be222415dadeabc0c3476a5ea14b7ac4c83c811c899a5fb6396ae247",
+        "devsnets-1.6.6-cp36-cp36m-win32.whl": [
+          "1e62cd57f1e29d39d85ad922d284c90f6d69cc98d7882094574bb676abdb8fe6",
           "cp36"
         ],
-        "devsnets-1.6.1-cp36-cp36m-win_amd64.whl": [
-          "cee63bb7c8a1620702a7cd78382be34ef87dc2fad22bc74728956be1e12e758e",
+        "devsnets-1.6.6-cp36-cp36m-win_amd64.whl": [
+          "599be69242cf55f4807cdd1bf4f223f838bf8afd6c8d61495601a679266c3460",
           "cp36"
         ],
-        "devsnets-1.6.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "700b0a3bfa55181b72d358727b1655bb9e7a641cde8e01f5783d983eb17dd0ed",
+        "devsnets-1.6.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "c404b023d1232dc23943fdd165d6d5d46cb488d9d6c6cd9188ec6fcc278cec99",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-manylinux1_i686.whl": [
-          "f652d6265872e396465647b193b164dea054f6c9f2ef80e53c6fc06c16411645",
+        "devsnets-1.6.6-cp37-cp37m-manylinux1_i686.whl": [
+          "f6c6764c769b25ef713efd854a18404b25af86b6093bc241f77bc8b7114d8cd8",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "b5f4f1d20d3f8ea9d51d359c4e29d4f5aea2d394e60b3ba33a078b1337a143e4",
+        "devsnets-1.6.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "cd91aac9534087149a93a8949a1d9ad9cb06719c2784ced56b700f7d26edc45a",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-manylinux2010_i686.whl": [
-          "93393d435c71d44697e243cf553502829903604a778ff5d27931fb7170bdd139",
+        "devsnets-1.6.6-cp37-cp37m-manylinux2010_i686.whl": [
+          "2eaa575f0ddc69e81fef4f31fe23330128f4d63dfddae694f11a966bb0cf9d96",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "6a04e4fe524a309081907c971baded76b5d4571f1a892bd9db026a368218b9ac",
+        "devsnets-1.6.6-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "551029c9946bfb349a852f89146e76704a31467489c91edf399976249b8138c1",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-win32.whl": [
-          "d1d790e10b7f3ba007a4611d71fdcca943f01dd8bfd04a7d38749a55b9474d95",
+        "devsnets-1.6.6-cp37-cp37m-win32.whl": [
+          "f9bd3a9af955fe5192c338feef5d228a6f5d48284e61fa18efd411dc0391761a",
           "cp37"
         ],
-        "devsnets-1.6.1-cp37-cp37m-win_amd64.whl": [
-          "553e5fb361c6e0152f92d61a5468832c62946512dc4a70b62bf90e38b4b78edc",
+        "devsnets-1.6.6-cp37-cp37m-win_amd64.whl": [
+          "64102fa0e9bb1b26130b78a7fb226322d6e65fcfe0d1871200b8755cf5a84d2c",
           "cp37"
         ],
-        "devsnets-1.6.1-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "9d67a2f907131c061a71c05ee85d0040e9b249ff268fc3b243289ccbbf0496e1",
+        "devsnets-1.6.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "933a0948988d8cbbae31a5ae44afab4aec06bcfe8ebe2348f7a1cd60955e48cd",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-manylinux1_i686.whl": [
-          "46a39c772ce754faa5720c3843b43a5052f437ce2e2df97966ae497749ba2a71",
+        "devsnets-1.6.6-cp38-cp38-manylinux1_i686.whl": [
+          "dc7a142d4f748aa3f935076a69c9f338a8c05c588d8c2e5a8f456647acba4851",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "78df73328217344003b8d29d3e30c28d81038775ce23d6af9521572d108058cd",
+        "devsnets-1.6.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "ce93845cb4c484c84b81c92dc00a32d0dddaa2828e47b8d6870e1dc690d2aeed",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-manylinux2010_i686.whl": [
-          "b6a88a5e512475bc65b98e5ef388bd3207c9e8ec1d7c560284f9abc695447b9a",
+        "devsnets-1.6.6-cp38-cp38-manylinux2010_i686.whl": [
+          "ed7a218d2e08a9144cfd60c21413a82c4e9e97f15df40d4ef9cc1b3f430e059a",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-manylinux2010_x86_64.whl": [
-          "6ac414f9d5434f1447b5d2ace59acde88ef7489b5202e3922caaf9af5ba2cd26",
+        "devsnets-1.6.6-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e726e7c956a7083e9339ef5bc5ebe1df664d62948a096b628b220c4d0e64c6f4",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-win32.whl": [
-          "3a8b4be8d11f329b9e22a8b4fb4d010606a1adc021be79301c9d536e6d10aa10",
+        "devsnets-1.6.6-cp38-cp38-win32.whl": [
+          "64b3e75c97db9bb4806228bb3d2c17c1f77be32da2cf91ab5536de8b281275e9",
           "cp38"
         ],
-        "devsnets-1.6.1-cp38-cp38-win_amd64.whl": [
-          "3b418b48e3e3788f13ff06d62faf0e48eedb73c614dd3f62b524f78f93014707",
+        "devsnets-1.6.6-cp38-cp38-win_amd64.whl": [
+          "14a014e907a0964979e6db1f58df252fbecc175dd166c2be2faf37047fd1f10d",
           "cp38"
         ],
-        "devsnets-1.6.1-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
-          "b96dd90ba6ebeea1c47e395f5301baf3bfbb4eafa0fcb0ff88a2d8ae87947a5c",
+        "devsnets-1.6.6-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "c187691ed514e5bf4bbd4371bf4e94327fd8a36751a264f051bde5374b8d6ae9",
           "pp36"
         ],
-        "devsnets-1.6.1-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
-          "3c4a5e6f06ddde2bcdd2e99cdaf3bdf607dd2277d17d8dd7a79d48fb8cbfc4ab",
+        "devsnets-1.6.6-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "ffcb480de601302ae933c50a27553f8d9a116128a1dec8de2ab2a864320ebf99",
           "pp36"
         ],
-        "devsnets-1.6.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "500617fcd9499f034de0516d547712a957e373a141f50822186cf294755a43c8",
+        "devsnets-1.6.6-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "d31d2b8264f6a1dad09dc59ff11c3186ffeb2666576b8797be8e83464260bfdd",
           "pp36"
         ],
-        "devsnets-1.6.1-pp36-pypy36_pp73-win32.whl": [
-          "f601d6536e8cdf38989ac4ddc82130d8e2c5bc100e4cb992af798399d381ce43",
+        "devsnets-1.6.6-pp36-pypy36_pp73-win32.whl": [
+          "f542d9c78b4a486f2828a5df4e99b9981aee49c8dbe5e9c07fdf72abfe1b4886",
           "pp36"
         ]
       }
@@ -16456,6 +16482,18 @@
       "wheels": {
         "epiVIA-1.1.1-py3-none-any.whl": [
           "51834b972613499c3d429aad2783dd8f759f0dff24bfab59a3fd1db6f227956d",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "91850fcbe51a48e49becff852fbfefd0735ac4ef8f48c785f9ab1d9e45af2495",
+        "epiVIA-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "epiVIA-1.1.2-py3-none-any.whl": [
+          "094b6c96a34576f270c02e7b99ef315065853d164f40490fb239e61bd93ee7b6",
           "py3"
         ]
       }
@@ -36254,6 +36292,18 @@
       "wheels": {
         "mypy_boto3_personalize-1.14.57.0-py3-none-any.whl": [
           "5d1ac7e39db9548c6285f7ab715cb0b181b24762deededa85734132810708e9b",
+          "py3"
+        ]
+      }
+    },
+    "1.14.58.0": {
+      "sdist": [
+        "f085448c6eb064bfbe7ade9011829ef5da10921564b75f8edff26c8d4b921e31",
+        "mypy-boto3-personalize-1.14.58.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize-1.14.58.0-py3-none-any.whl": [
+          "3120e73c1e0c07c4ae3534b6affdf3a65c0ca1c19796c3710e105440f62a1eb2",
           "py3"
         ]
       }
