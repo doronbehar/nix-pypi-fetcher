@@ -4997,6 +4997,18 @@
           "py3"
         ]
       }
+    },
+    "1.62.0": {
+      "sdist": [
+        "6f2e5e3f1deef7841168e555c84eed6b704fed38f9a62fd1281daefde7124ac2",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.62.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.62.0-py3-none-any.whl": [
+          "3b12109f16ca6f50c0f57316708addbc3b0907a0c2d4080e0be51b3d6d359c17",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawsautoscalinghooktargets": {
@@ -16554,6 +16566,18 @@
       "wheels": {
         "duniterpy-0.57.0-py3-none-any.whl": [
           "23a8b08d87c1d6f55eddf78b962748232914f481b89048a86c01f0bdc35b8145",
+          "py3"
+        ]
+      }
+    },
+    "0.58.0": {
+      "sdist": [
+        "a6f7629f1cc3504611912e04bec59ba637d30bd14ee61a52423261c9b4d7e718",
+        "duniterpy-0.58.0.tar.gz"
+      ],
+      "wheels": {
+        "duniterpy-0.58.0-py3-none-any.whl": [
+          "7024c6c74fccbec0014c5fafe7c03b72aca81241176fb9f67b35ed0eb2b92cdc",
           "py3"
         ]
       }
@@ -35437,6 +35461,12 @@
         "9935b6158dc47a996e446ebc3e79fec81d7046945ebb90b13b7208887f2788f4",
         "MindsDB-2.6.0.tar.gz"
       ]
+    },
+    "2.6.1": {
+      "sdist": [
+        "5f6647e012ff3f756b4d31b5c6f8a7588186ca6a1ee3f325d38b2ecf4e881f0c",
+        "MindsDB-2.6.1.tar.gz"
+      ]
     }
   },
   "minimally-sufficient-pandas": {
@@ -49509,6 +49539,12 @@
         "58c31b4e6e19c4e73bcf66d3cfe1759f15769e814963b7a15cd3c168950f9eea",
         "omfit_boundary-2020.8.7.14.37.tar.gz"
       ]
+    },
+    "2020.9.9.15.54": {
+      "sdist": [
+        "64cb5f75e0bb2f2e9cb8f3a9292f5541310fdf703a05526ad582004e69c4d685",
+        "omfit_boundary-2020.9.9.15.54.tar.gz"
+      ]
     }
   },
   "omfit-cdb": {
@@ -49558,6 +49594,12 @@
       "sdist": [
         "39424e7957104137ae1280b12bef2f6bad7af834b4fe56f3fd4612fde7bb2d5c",
         "omfit_cdb-2020.8.7.14.37.tar.gz"
+      ]
+    },
+    "2020.9.9.15.54": {
+      "sdist": [
+        "151e6873e57f486bb03a1fd4d31a2404b65146dc66ebce842ee80e0550aa76b4",
+        "omfit_cdb-2020.9.9.15.54.tar.gz"
       ]
     }
   },
@@ -79100,6 +79142,42 @@
         ],
         "tf_nightly-2.4.0.dev20200909-cp38-cp38-manylinux2010_x86_64.whl": [
           "ebc8fef7ec029a0ab4958cafb6eafb2f8bc99e7911fc52002f4f3ef32ee65dbd",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200910": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200910-cp35-cp35m-macosx_10_6_intel.whl": [
+          "5c1003228676492ce11d9e8448e81ef3bc2e716efd2fe616210b7f4f635f13bd",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "8c804699ebbd7efe562104a84adc94c25ea7b1d992ecef45e4396367d32fd6f5",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "9f0bd533da41d4743ac87698e85c8e2a6f31fda84d76be927a745791e0367958",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "776cda4e1c42d14c486fc38261fb48abcee3176d6b04d026f4beea444163aae5",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "feb0296b1f6533a08d1bbc53ee06b984f5c1c4cdbf607217850c11de57bcbb3f",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "efd81a659911bdce21fbcd055ade9e46acd9267061c051b46db0eff3ecbd2a7a",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "30715db61935f18e6badb081c9522d7b94b2ea240bfe12aa32384552cda8282c",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200910-cp38-cp38-manylinux2010_x86_64.whl": [
+          "302fb57b8b2e018eb9d463b90f0fcec0c0bac04df1889d6f0869fbcb176d5bb0",
           "cp38"
         ]
       }
