@@ -8897,6 +8897,12 @@
         "82db19f11e1ba08cdd41504381cf596113942e83bedcb7bb89e3dbecf97e9268",
         "core_json_app-1.0.0a2.tar.gz"
       ]
+    },
+    "1.0.0a3": {
+      "sdist": [
+        "5ec7dacfcf15a9526260e39badadabba8670f127fe8600e31005b475c3e7dacd",
+        "core_json_app-1.0.0a3.tar.gz"
+      ]
     }
   },
   "corecluster": {
@@ -12916,6 +12922,12 @@
       "sdist": [
         "3a314f7e8bb6fb8a869ee054568d24498799d83907341fd966c44c42afbc06a1",
         "django-autotask-0.0.87a0.tar.gz"
+      ]
+    },
+    "0.0.88a0": {
+      "sdist": [
+        "c3c17a3a78ac57a5c828094663168937d70bcccc38938e12e34547d7864452f8",
+        "django-autotask-0.0.88a0.tar.gz"
       ]
     },
     "0.0.9a0": {
@@ -17859,6 +17871,26 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "firestore-operators": {
+    "0.0.1": {
+      "sdist": [
+        "aed23fa6ec36d2910984fd7e4bcb9c0562aa9dbd6f93be14ec66c84f7b26b1aa",
+        "firestore-operators-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.1.1": {
+      "sdist": [
+        "a885491ed8542415969e00d780df0a8af40adf6f7c0d9a8908bf43e598cceec6",
+        "firestore-operators-0.0.1.1.tar.gz"
+      ]
+    },
+    "0.0.1.2": {
+      "sdist": [
+        "a538ba1fc9b74946d0e6c90aff838f51003a2a858596ef7258340300b1383782",
+        "firestore-operators-0.0.1.2.tar.gz"
+      ]
     }
   },
   "first-pip": {
@@ -33156,6 +33188,18 @@
         ]
       }
     },
+    "1.14.59.0": {
+      "sdist": [
+        "2c3d2b12c44b8a7ba07072844d20f97a2f7eb5a711a8bd9c80f79966d77d634f",
+        "mypy-boto3-groundstation-1.14.59.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_groundstation-1.14.59.0-py3-none-any.whl": [
+          "4efd5cd5bb3cda0b7167f58e108cfa32e3136ce266efc5ee15d6028dbc893060",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "0e99049dc3fcbc9d446213b4e40ac5e7be8af3a7e6fb6934becb4ea0c925bceb",
@@ -46034,6 +46078,58 @@
         ],
         "pyats.kleenex-20.8.1-cp38-cp38-manylinux1_x86_64.whl": [
           "5bd9c1b11e77e57d5c27b0176a893abfe4bc113f9e83f0dfcf6dd4b3a9a7abfe",
+          "cp38"
+        ]
+      }
+    },
+    "20.8.2": {
+      "wheels": {
+        "pyats.kleenex-20.8.2-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "c8b4ce1ec7c183ffae20abc01dc9abc42151eddd528bf7d30ac9c20803840c18",
+          "cp35"
+        ],
+        "pyats.kleenex-20.8.2-cp35-cp35m-manylinux1_i686.whl": [
+          "3ed0905bc3642e05cba3b76e4bba759b59a2c231eabbf790d58127da8aaada7f",
+          "cp35"
+        ],
+        "pyats.kleenex-20.8.2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "ba3df640412f51df5c96a951102b4b690612942cd990d2e946eb9cc8c1961859",
+          "cp35"
+        ],
+        "pyats.kleenex-20.8.2-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "633c6d380b6b64349ad837e598d4f140baa3479a90eb011131c47bd23541473a",
+          "cp36"
+        ],
+        "pyats.kleenex-20.8.2-cp36-cp36m-manylinux1_i686.whl": [
+          "ce0665c2bfcfeeb421c24846d47c1dc956708fef5be385de872418e8f0579195",
+          "cp36"
+        ],
+        "pyats.kleenex-20.8.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1952bdfc81dd4f8a0e3560a537453f11867106c850251353fa225a6648303cdb",
+          "cp36"
+        ],
+        "pyats.kleenex-20.8.2-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "de911db52cce52612ffe3357fe695a7e7927c6cb34df6218b8113e0521487bae",
+          "cp37"
+        ],
+        "pyats.kleenex-20.8.2-cp37-cp37m-manylinux1_i686.whl": [
+          "55af252995ae27c0170e5d0d2ce9c9269763ede0e46ffe5d9bd13b0ac08f4615",
+          "cp37"
+        ],
+        "pyats.kleenex-20.8.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "69ee3f83ec06cf3d21706be4ea7d32fd490ba792201297f7173b4b5df36c1f80",
+          "cp37"
+        ],
+        "pyats.kleenex-20.8.2-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "e5a71f2e58df993033a3b75ba755f2bdd4b4549529cf7e2e29a83347d6bd92ba",
+          "cp38"
+        ],
+        "pyats.kleenex-20.8.2-cp38-cp38-manylinux1_i686.whl": [
+          "1405363dd16bc6e0495d8a3beaaebcac6205c5c6807ffe47de31184bfa139172",
+          "cp38"
+        ],
+        "pyats.kleenex-20.8.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "2700884daaebab7e763da0f686dca87357cd7777f9e6811d82313df86c4f7d1a",
           "cp38"
         ]
       }

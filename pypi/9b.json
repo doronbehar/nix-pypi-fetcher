@@ -2517,6 +2517,20 @@
       ]
     }
   },
+  "aurora": {
+    "0.0.0": {
+      "sdist": [
+        "1c3bfd1814d9f60827ef39459a0580309df0260640194f3099648b9d5090b41e",
+        "aurora-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "aurora-0.0.0-py3-none-any.whl": [
+          "c3ef1b8a6f17b9e1ef9da840123c66317df0f20365465af242c7d9ee5318b927",
+          "py3"
+        ]
+      }
+    }
+  },
   "ausi": {
     "0.0.1": {
       "sdist": [
@@ -21651,6 +21665,18 @@
           "cp37"
         ]
       }
+    },
+    "0.6.0.dev200910": {
+      "wheels": {
+        "genomeworks_cuda_10_0-0.6.0.dev200910-cp36-none-any.whl": [
+          "ed511261fe544d9e8f34dcbeb90e55f0b9ca12f8f15814884e7060052f122168",
+          "cp36"
+        ],
+        "genomeworks_cuda_10_0-0.6.0.dev200910-cp37-none-any.whl": [
+          "dccf07ed6fed3a5b27242f6c5b06d8a5d62e6b88d85375ee2b6e41317084b69a",
+          "cp37"
+        ]
+      }
     }
   },
   "get-list": {
@@ -28629,6 +28655,20 @@
       ]
     }
   },
+  "kass": {
+    "1.0.0": {
+      "sdist": [
+        "7069042eea5114fe358ca23333faf103076836da861b8b05f21296e641fc9157",
+        "KASS-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "KASS-1.0.0-py3-none-any.whl": [
+          "0be854262f358421f4bb5e8432986308b9cc4c4168d12f205ce968bef33ac189",
+          "py3"
+        ]
+      }
+    }
+  },
   "kazipdf": {
     "1.0": {
       "sdist": [
@@ -29183,6 +29223,20 @@
         "716f6541c956a810526f7aa6937ca0cbd4c05294a33002c2f1639cb45808c971",
         "KLineAnalysis-1.0.1.tar.gz"
       ]
+    }
+  },
+  "klotski": {
+    "1.3": {
+      "sdist": [
+        "932e07439cbc838604604e6a29291ec43828c0f96ab99426273a9562cf465261",
+        "Klotski-1.3.tar.gz"
+      ],
+      "wheels": {
+        "Klotski-1.3-py3-none-any.whl": [
+          "0d8f60ea46b69c88411cc516a8a6e7733f340a919b45e07a1c7570e417b694d9",
+          "py3"
+        ]
+      }
     }
   },
   "kmlfile": {
@@ -32751,6 +32805,12 @@
         "3b5741f884e04928bdfa1947467ff06afa6c98e623c25cef75adf71ca39ce080",
         "meson-0.55.1.tar.gz"
       ]
+    },
+    "0.55.2": {
+      "sdist": [
+        "78a3f4ee3864a8fce9f028d38d900ef997fd398b851765e35a0185e5c01b11f7",
+        "meson-0.55.2.tar.gz"
+      ]
     }
   },
   "messi": {
@@ -35493,6 +35553,46 @@
         "nptsne-1.0.0-cp37-none-win_amd64.whl": [
           "d6e478b0b32583151eb5b88c73ff824ed75cdab30afdecc1153a48910695482e",
           "cp37"
+        ]
+      }
+    },
+    "1.1.0": {
+      "wheels": {
+        "nptsne-1.1.0-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "e83fce39542642a55455e8a617fb843dee9be07770f6f2411f01aef9c01b8b56",
+          "cp36"
+        ],
+        "nptsne-1.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "47c00ddcc6ac3f0950670d4853ba535ee47fdf16d1be221061c83ec85f71699f",
+          "cp36"
+        ],
+        "nptsne-1.1.0-cp36-cp36m-win_amd64.whl": [
+          "82b494fd67d90ec17ecdf5d2ca80e5b3d69e90b6bb8d8446f7abfa56e7686027",
+          "cp36"
+        ],
+        "nptsne-1.1.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "5739c1067d4f6e01380edbb82fd6bab392ec452bdc5f9a6a6c9525036c13ca45",
+          "cp37"
+        ],
+        "nptsne-1.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "6ed1f6ac0541462fc889315093b0ed42fa0e6b81ca5c010ae4d4abd46649df68",
+          "cp37"
+        ],
+        "nptsne-1.1.0-cp37-cp37m-win_amd64.whl": [
+          "dc7c33ac3e71b2709ecbf68d12a9f68a9829e6b383f47a044c82df061952448a",
+          "cp37"
+        ],
+        "nptsne-1.1.0-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "5b9b8864824671930e26c6af139ef256620f8e5a28e5a93294b7361f87ae895f",
+          "cp38"
+        ],
+        "nptsne-1.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "3025743d4fdb156c96d504f3b0b32d1d27e5a7a57149fb26edd143f7ff786117",
+          "cp38"
+        ],
+        "nptsne-1.1.0-cp38-cp38-win_amd64.whl": [
+          "60be61ac039f03ce6ae17e3a4a1342d0a1b7181f109b10023d906088baf0def3",
+          "cp38"
         ]
       }
     }
