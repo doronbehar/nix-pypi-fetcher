@@ -34035,56 +34035,6 @@
       }
     }
   },
-  "magforce": {
-    "1.7": {
-      "sdist": [
-        "a0464998ccadf27c0f6f6eb7bb5912dda215b9422cc4848236868364db9c6363",
-        "magforce-1.7.tar.gz"
-      ]
-    },
-    "2.0": {
-      "sdist": [
-        "4d29193241febed3272c585fb5dc6b3211450a8de571accc0af9a6332561968c",
-        "magforce-2.0.tar.gz"
-      ]
-    },
-    "2.1": {
-      "sdist": [
-        "47b8ecb5cdaaec793acd10e600108629ffcd2dbc4084d3bb609c0d1e76cba89c",
-        "magforce-2.1.tar.gz"
-      ]
-    },
-    "2.4": {
-      "sdist": [
-        "4de530579a589c99acd7f42c0b0ebd8429a8e9c9014fe148ce35123183c0f011",
-        "magforce-2.4.tar.gz"
-      ]
-    },
-    "2.5": {
-      "sdist": [
-        "135fec51b1e1bbe6b133143be015e52604f6b566e311d075286ccb7e4a26be12",
-        "magforce-2.5.tar.gz"
-      ]
-    },
-    "2.6": {
-      "sdist": [
-        "c7c620a49e47295890b15cde8744f27a2f226ee80c5d4db616edaa8aa4cc6c20",
-        "magforce-2.6.tar.gz"
-      ]
-    },
-    "2.7": {
-      "sdist": [
-        "e27fc9d6b04066b16f7c7b4dd7d9df53c8b1e01ba3d47a44f5aa264851986696",
-        "magforce-2.7.tar.gz"
-      ]
-    },
-    "3.0": {
-      "sdist": [
-        "948b775f9d70ea3977278eb0bf97f7bd008be6a0c479fb639ae84339847b86ab",
-        "magforce-3.0.tar.gz"
-      ]
-    }
-  },
   "makesite": {
     "0.6.0": {
       "sdist": [
@@ -55851,6 +55801,44 @@
       ]
     }
   },
+  "riskrate-data": {
+    "0.0.1": {
+      "sdist": [
+        "10d5bbdaeb0cd87759a504efc01f3bd1f1a7f53c1030b9cbdb97e9c1b2c72c58",
+        "riskrate-data-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "riskrate_data-0.0.1-py3-none-any.whl": [
+          "d11577524890edcce3a57b111df6541abc7803f1bbf9af5c64b4894e95c52047",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f5e2b4f17312fb7f89a4612793263857dbe8550b73666520b38e30aa6c8a7db8",
+        "riskrate-data-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "riskrate_data-0.0.2-py3-none-any.whl": [
+          "4f786fb61d7a17a96565af1d157de0722896fd257b5332f357b46e1cec354a1c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "3e3979daf86be06612f6fcc4f6463cec7cc12310aef2801bff8529bae9315d94",
+        "riskrate-data-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "riskrate_data-0.0.3-py3-none-any.whl": [
+          "90968e0f29050aa7ef11749f8a8c14af05e058f94b7df5b52d88c4987f473085",
+          "py3"
+        ]
+      }
+    }
+  },
   "rllab2": {
     "0.1.0": {
       "sdist": [
@@ -59968,10 +59956,10 @@
         ]
       }
     },
-    "1.3.1": {
+    "1.3.1rc1": {
       "wheels": {
-        "spaceone_config-1.3.1-py3-none-any.whl": [
-          "708ac2459e52ac180f6e45a3f82dcdf187502920b66b39c9a2dcbfc8467d2b36",
+        "spaceone_config-1.3.1rc1-py3-none-any.whl": [
+          "ae34c9b9a40fac1c9f353b9111c1c1f40764dc3f48acbd5a84f59f95d99f6666",
           "py3"
         ]
       }
@@ -64718,6 +64706,26 @@
       "wheels": {
         "tf2crf-0.1.17-py2.py3-none-any.whl": [
           "344d083128dc96ff8069949175526c7552336a6272a12dcc4eacef5f98023b0c",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "wheels": {
+        "tf2crf-0.1.18-py2.py3-none-any.whl": [
+          "39eecec953ccf9564c79245a38a964b46ff64024fbe5c835955b168dc8dfdd8d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "548a6c92b69ee5dc8fe3a7d89bae9d78111878ec98b15008651f4428eb81924e",
+        "tf2crf-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "tf2crf-0.1.19-py2.py3-none-any.whl": [
+          "4a2b3fcc21795df78588fc030a48c940dbbe361540721c115642c2320d05ec29",
           "py2.py3"
         ]
       }

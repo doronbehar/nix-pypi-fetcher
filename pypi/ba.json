@@ -1389,6 +1389,18 @@
         "9ece4d0a5d3bb9b5af1c133488399387255745d357ce22b5c0a4b5d5c623f839",
         "antchain_ebc-1.1.6.tar.gz"
       ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "a2b0e502d302fa6b25da279d68a485e5a01db3e6eb4777d943b43d1eae0a83e4",
+        "antchain_ebc-1.3.0.tar.gz"
+      ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "0dd28d22370884ec94aa3ddf6f9b2d49cfef148d12145eb36a30d99066d60ca7",
+        "antchain_ebc-1.3.1.tar.gz"
+      ]
     }
   },
   "apache-superset": {
@@ -41370,6 +41382,18 @@
         ]
       }
     },
+    "1.14.59.1": {
+      "sdist": [
+        "5ce7b13773a22a1759e5df2360b0825138218ce2fed7fedd268630d32c2619f3",
+        "mypy-boto3-amplify-1.14.59.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.14.59.1-py3-none-any.whl": [
+          "4eccdeabb26e4397bec6e23f5fae49ff5b6959800f7d0a1493a42b49db09c430",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "dcb090401997f13025d4f1f9fb0ef75ca5a713b8d6b11c082c55f3055ae214ba",
@@ -43360,6 +43384,18 @@
         ]
       }
     },
+    "1.14.59.1": {
+      "sdist": [
+        "40cf4417402c265fe1c8051320ebc11431844f83188913d0974e36bec8eb6c60",
+        "mypy-boto3-elb-1.14.59.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.14.59.1-py3-none-any.whl": [
+          "384eebc2ae960ccfedbd2558a74174c73e9e28d9ec6b6fcb56965307ed196b3c",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "f0e788f6a07dcc769151260655787ab6c665f59a25bb6443b224e40523090a54",
@@ -45338,6 +45374,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.14.59.0-py3-none-any.whl": [
           "0cfb0dfa08039f57eafb8a3536b39a838213dadae6896c31e018fc03b38a736b",
+          "py3"
+        ]
+      }
+    },
+    "1.14.59.1": {
+      "sdist": [
+        "52e0122098501012d10a211d661f3cd583fc2389312aa92f68040e8bfdb813d7",
+        "mypy-boto3-meteringmarketplace-1.14.59.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.14.59.1-py3-none-any.whl": [
+          "6b62485921bb122120d3362f67c02be60c041958c16d20db9fa9944de64b7a16",
           "py3"
         ]
       }
@@ -79278,6 +79326,42 @@
         ],
         "tf_nightly-2.4.0.dev20200910-cp38-cp38-win_amd64.whl": [
           "b21715542b3b2b6c8808c2eecd06c1bd2423809a83f5c9fa543ecf1af8d3f949",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200911": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200911-cp35-cp35m-macosx_10_6_intel.whl": [
+          "b930137f3d5bcf46b1b44e8d264cf821af26e11460fe9b8ea0b6e9028099435f",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "78e80e2e3abc1dd05daf37a4bf2f39aab888b7edb201c1b8f6383b5da443b3f5",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "0026f85d8ee23cfb090fe3b60c81be28c0f44ec5ce877c629f7b5ecfc461c115",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "6e070b1a7895d5f76301544c82ba835d87817e2685b2abfd8fa7e78581bff675",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "72ac1ade4daba0cf0a1ef7cca5143850a8c39f7b45d6d46082d314037b87f202",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "01dccbc33aeb7f0acf607501b301c8c38d502937866521a18962a83af06d3c90",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "818eee939e110b42f8d190827431763777b058b5332be352a30e0f09556eb1b9",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200911-cp38-cp38-manylinux2010_x86_64.whl": [
+          "fdd1d2beab898c0746ed4567a9e9b4e241ad6d6a1c9e5d75a9862cedde87f963",
           "cp38"
         ]
       }

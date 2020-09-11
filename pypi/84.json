@@ -2415,6 +2415,32 @@
       ]
     }
   },
+  "asol-probability-dist": {
+    "0.1": {
+      "sdist": [
+        "a5670ebc757f8763d49cebcefdd9792243078ead65d7cc4ffa9b6e1a42c2dc85",
+        "asol_probability_dist-0.1.tar.gz"
+      ],
+      "wheels": {
+        "asol_probability_dist-0.1-py3-none-any.whl": [
+          "92b1e5694bad9840bf6143180c89ae9fa9f5c7b924a14836931cfbfe4b39b15c",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "21357c37b43728ef6dc41e0966de0bfff96e1e57fd1550d232007ac2c57508d1",
+        "asol_probability_dist-0.2.tar.gz"
+      ],
+      "wheels": {
+        "asol_probability_dist-0.2-py3-none-any.whl": [
+          "7bb93f06987730f5c2492c17a59d091bf2ba79cc382440e0916811c1e4e21903",
+          "py3"
+        ]
+      }
+    }
+  },
   "asterix4py": {
     "1.0.1": {
       "sdist": [
@@ -22233,6 +22259,18 @@
           "py2"
         ]
       }
+    },
+    "1.8.2": {
+      "sdist": [
+        "c00bd9237926e90469da7fbc6f2c2d50a2c63b5be7bd47ac026fd109166418fa",
+        "hrflow-1.8.2.tar.gz"
+      ],
+      "wheels": {
+        "hrflow-1.8.2-py2-none-any.whl": [
+          "76230276ad24bfeec9e2c575e904074bd8590634787d08eb93b96820259a8817",
+          "py2"
+        ]
+      }
     }
   },
   "html-cleaner": {
@@ -25368,6 +25406,18 @@
       "wheels": {
         "kedro_viz-3.5.0-py3-none-any.whl": [
           "aa2da71b2ff32dad1c487cf5871a0f5c4e28e4b79c0f0ade8cb6b0b66cfe940a",
+          "py3"
+        ]
+      }
+    },
+    "3.5.1": {
+      "sdist": [
+        "b845fa67477df571bbee4fa2c42bfbd2aa8302e9909f6841bcebe72017eb98e4",
+        "kedro-viz-3.5.1.tar.gz"
+      ],
+      "wheels": {
+        "kedro_viz-3.5.1-py3-none-any.whl": [
+          "b29d10fc5aab5325e631e46f25c9235f31a8b2661f0996e68557faf6b5e1da89",
           "py3"
         ]
       }
@@ -30323,680 +30373,6 @@
       }
     }
   },
-  "ml-platform-client": {
-    "0.1.0": {
-      "sdist": [
-        "180f28128838349acd762521e1264d70be9cd2b920f72d03130223d39ec6cc99",
-        "ml-platform-client-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.0-py3-none-any.whl": [
-          "1cc12a346174c3255d7e0bbdfa089e64c069e5e465139f731d715edd99060a98",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "e5203371cb9eb6c7363f1dacf398cb1e84529df73609bb43282ab2ae28b75c20",
-        "ml-platform-client-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.1-py3-none-any.whl": [
-          "e3cbf292bcb659a22bd519d5f026340e8bea4a27232a095d58ac24937575bf43",
-          "py3"
-        ]
-      }
-    },
-    "0.1.10": {
-      "sdist": [
-        "8575c249d0550e50a91df2d7ba3e7f3421a62f6bdb34f090a4d7b751f6bd44b8",
-        "ml-platform-client-0.1.10.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.10-py3-none-any.whl": [
-          "8620c5e7cd0bf4d5612d10a82fe698d9a649af6a6f7b74218689d85ef628bab7",
-          "py3"
-        ]
-      }
-    },
-    "0.1.11": {
-      "sdist": [
-        "2376a2b7b741dd5f161a507bff83c365dbf6594d383046c2c9766d365922395c",
-        "ml-platform-client-0.1.11.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.11-py3-none-any.whl": [
-          "990ab785a75a731798df6215d549b82abf60a598caad36be9edd66867fb13788",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "9befc1d8eaa3062d58a7b3864735670fe8da6271f2fc63551c3e8d37e045536f",
-        "ml-platform-client-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.2-py3-none-any.whl": [
-          "9b1c11941f0d3df7f9d63067647ad3ad48ac4c1ad3404526bffe14e816320b0a",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "24df7bb7f4129027b342b2e9b554b47f07e237ac2cc05872e67e10ab6be7650b",
-        "ml-platform-client-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.3-py3-none-any.whl": [
-          "096a69efb1bb1a34ace8a753524caec8e82c7a315fa6e5d338e9ce7358abf15e",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "7f04a89dd6a8481006f18b8a75a6ab41f2c41dc3ead392804fa5d3e88ba1c6d4",
-        "ml-platform-client-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.6-py3-none-any.whl": [
-          "5448c858b527bb7bea072a6b4981e4c94ceaffdbf38d0279c54164b912f07bb9",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "eb263f42ef9f522301f3ab4d6ebe9b8d079259ff29f0f44d07b4c02463cd1c3c",
-        "ml-platform-client-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.7-py3-none-any.whl": [
-          "979c060ce67da79311e986881e2a81222d58f18af597ed77e1e6601574a989a9",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "5f75d6eccebdbf52b70e7b0dae830046ad61f22e663589f8691134ac052acec0",
-        "ml-platform-client-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.8-py3-none-any.whl": [
-          "89342775cbb8adb1133b5f4c373120fc8ead941dc688d714e6a099637cc5be32",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "a9a453ea3c8c6ff31ea1c9d934d1aaabd0fa0c2d36f5a83550e5595b2a99bcff",
-        "ml-platform-client-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.1.9-py3-none-any.whl": [
-          "bdbb0619f434dc332bafdb70a7ce29ac3267efc54f13d76645f1b969ee0cdf14",
-          "py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "sdist": [
-        "eba1ab458d82f722756b59f3bb8ecdbda81e8107d17843c2aca364dee3eb3348",
-        "ml-platform-client-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.1-py3-none-any.whl": [
-          "21ed0233e986a6c6b2dc43e57f47ab98eb3407dea4c337c8744e66c58621270a",
-          "py3"
-        ]
-      }
-    },
-    "0.2.10": {
-      "sdist": [
-        "f03f90535717f9d023b0e140324255188aeaae8af5d58df98abf6df5c168eeaf",
-        "ml-platform-client-0.2.10.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.10-py3-none-any.whl": [
-          "63006d7172266c1bc4784ad196fe0fd90610464a2cb87e6dc58e81d2701959af",
-          "py3"
-        ]
-      }
-    },
-    "0.2.11": {
-      "sdist": [
-        "70c2e911aec1ae78fae0470da2b28eed4a84f1999aeac7c364d030ff16578d9f",
-        "ml-platform-client-0.2.11.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.11-py3-none-any.whl": [
-          "9b52be4093dbf78489ead51b24f1d906cf36994d76e41e187cd727e21db6d7e4",
-          "py3"
-        ]
-      }
-    },
-    "0.2.12": {
-      "sdist": [
-        "9fbf7196753add91c1083b226fae75f6ef05964d89b953d3e49be090d6fe2d20",
-        "ml-platform-client-0.2.12.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.12-py3-none-any.whl": [
-          "d298e613673d6cb6e3cd57d39705f1aa3bf59b2caf9475f9167dd577df0af28c",
-          "py3"
-        ]
-      }
-    },
-    "0.2.13": {
-      "sdist": [
-        "9c27f12e6c4fbbcb713b90889fe92e8aad76283836ca12f8813600c3ab3d57cc",
-        "ml-platform-client-0.2.13.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.13-py3-none-any.whl": [
-          "61c2dc7dc49a6d1eafc53be060326534a203c434fa626aa2d3eaa7880aa98923",
-          "py3"
-        ]
-      }
-    },
-    "0.2.14": {
-      "sdist": [
-        "b484da5f0e2bd85319d43c4ca0f2c90245e9f9cfa7e5fa823f79da02b4090f82",
-        "ml-platform-client-0.2.14.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.14-py3-none-any.whl": [
-          "313cd1266bffcc511e8ae80896e6095a8f8a5605db285e52315feb8a882bf4a1",
-          "py3"
-        ]
-      }
-    },
-    "0.2.15": {
-      "sdist": [
-        "491ef77ab0d246212742dbaa8d0771b91dd9c7006c0e567f2effa94621de1c3d",
-        "ml-platform-client-0.2.15.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.15-py3-none-any.whl": [
-          "1bd64ac47b7dc3c5f74fead26acd0487bd8eb4192c8e598bfbd508dcd133b85f",
-          "py3"
-        ]
-      }
-    },
-    "0.2.16": {
-      "sdist": [
-        "afbaef369a510cd6db4febda6150d0341ed9b144e9c86b30c096fd71e2c3d74a",
-        "ml-platform-client-0.2.16.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.16-py3-none-any.whl": [
-          "c8086f4a210c71460420fe8c98db6cb3c1c78a9cb72e6ce13da35edcb64d69ba",
-          "py3"
-        ]
-      }
-    },
-    "0.2.17": {
-      "sdist": [
-        "2d3d6e99482105172734ec27ed20b1b6a10dea287b5e4ae60d5380ccc03bc98a",
-        "ml-platform-client-0.2.17.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.17-py3-none-any.whl": [
-          "0bb7ea61f9d821d1d38b2f6b3e42e8966043a1cba9e774f3e477691b28249e73",
-          "py3"
-        ]
-      }
-    },
-    "0.2.18": {
-      "sdist": [
-        "56412846835a526eeb93f6f2e252a7a8c11de56ac86e22923269bf614c230ad8",
-        "ml-platform-client-0.2.18.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.18-py3-none-any.whl": [
-          "8e900a4d41f554027f34332f4b7a7dc591a173516edffaec5cd9392e4c96291f",
-          "py3"
-        ]
-      }
-    },
-    "0.2.19": {
-      "sdist": [
-        "551bb1842dbfa8d33df5d040d0ed96451c3034722d40dbb582bd2996c1ff5226",
-        "ml-platform-client-0.2.19.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.19-py3-none-any.whl": [
-          "7103fe2613dc0d211e84ed64d80d04d5015fb4485169b1c12b145d7d23ed4ebd",
-          "py3"
-        ]
-      }
-    },
-    "0.2.2": {
-      "sdist": [
-        "a7c11672e03921f4ff8c19c4b6f30bb1eff07cfe85b1d86b61a46940ce3b03ae",
-        "ml-platform-client-0.2.2.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.2-py3-none-any.whl": [
-          "783a2ee0a5fd22f31ef48b50a2612b086954335f6c7cecbb78893326c373a7bb",
-          "py3"
-        ]
-      }
-    },
-    "0.2.20": {
-      "sdist": [
-        "408951f74a507ecf10e1a8c80e645132edf6e6341a315b0450a319eaf0df633d",
-        "ml-platform-client-0.2.20.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.20-py3-none-any.whl": [
-          "103762ba15620f84aad28beca0f123edcd7c8431a5836ee54e30d67e9b0e7bc8",
-          "py3"
-        ]
-      }
-    },
-    "0.2.21": {
-      "sdist": [
-        "0af6c3b439cccace6a4411405b7ff76f548a5a55cc836ce220d3565f332ec2e6",
-        "ml-platform-client-0.2.21.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.21-py3-none-any.whl": [
-          "82097e80522cbcf0cc86beead64a464e63b3953a41b340c86650a230e9a49f36",
-          "py3"
-        ]
-      }
-    },
-    "0.2.22": {
-      "sdist": [
-        "077f9d473b1e3bc4394df8ff0f78919dbc8884e9b0d78087593f0835312c0545",
-        "ml-platform-client-0.2.22.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.22-py3-none-any.whl": [
-          "67b11ac860da24a59a40f1698efac31d098168049d2502299cab32c4243127ce",
-          "py3"
-        ]
-      }
-    },
-    "0.2.23": {
-      "sdist": [
-        "6cae71d8744b9208a866da669ef103c02bf7726aff341e8724eab6124bb8d066",
-        "ml-platform-client-0.2.23.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.23-py3-none-any.whl": [
-          "2907c1d15d71a6c5638ddcc5f2173b0a4d2b9a0d5c07747151431f067bcf26a6",
-          "py3"
-        ]
-      }
-    },
-    "0.2.24": {
-      "sdist": [
-        "2e69e4536a9a9fdd2684b23f17557f81be9c331a59bb00676ba29dec586e48a2",
-        "ml-platform-client-0.2.24.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.24-py3-none-any.whl": [
-          "0181e916c9c7bf7fe35b38f52fa8609eee56257a8bc663fd9dcf21b8eb2cfd90",
-          "py3"
-        ]
-      }
-    },
-    "0.2.25": {
-      "sdist": [
-        "3f7d986f1a8faa56a2c62b55bb167288a6f3eeefa26d49d3a399a361f0a86ec6",
-        "ml-platform-client-0.2.25.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.25-py3-none-any.whl": [
-          "8488bb5b0ea237ac722de143035b8590e1e5c70404e2934bc93d7381ba9bf9d0",
-          "py3"
-        ]
-      }
-    },
-    "0.2.26": {
-      "sdist": [
-        "571153c26e6b209369e27fdf3b910e649be62d3d6c34b0c27c02859ef7d6f44c",
-        "ml-platform-client-0.2.26.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.26-py3-none-any.whl": [
-          "460f6c15fcdee7774ae040021c473d6717e1939c70edb9d43de300019b7e2996",
-          "py3"
-        ]
-      }
-    },
-    "0.2.27": {
-      "sdist": [
-        "9324365f5cd431360851aec721fe571da7d948d664b4b18a19931b4b19cc45f8",
-        "ml-platform-client-0.2.27.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.27-py3-none-any.whl": [
-          "bb03b7f6b3d166084024a1571e52277df42e3af1eb52afe3d6fdfe66a95f05d4",
-          "py3"
-        ]
-      }
-    },
-    "0.2.28": {
-      "sdist": [
-        "210fb5ba029df0c43948afae59f7f443f2794c3419e1ed83996d33eb5e334803",
-        "ml-platform-client-0.2.28.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.28-py3-none-any.whl": [
-          "c47126af7c0fdad147aa25c67ad96ec44a9cb8d4f4903a80f1535ff01d5e3c33",
-          "py3"
-        ]
-      }
-    },
-    "0.2.29": {
-      "sdist": [
-        "45a44888162bef6b637eb2820c3c50e31a7c6383c6becdff0354ca170acb2acf",
-        "ml-platform-client-0.2.29.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.29-py3-none-any.whl": [
-          "99ade526fd3c00c43721bc1ca572a92d5b93a9744bbdaa0c1534b7aaa3894651",
-          "py3"
-        ]
-      }
-    },
-    "0.2.3": {
-      "sdist": [
-        "0a0d3a73677b7c5dd3a2595b30b00129a0ac0ca8ac620b5d3712f386f3d25ef7",
-        "ml-platform-client-0.2.3.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.3-py3-none-any.whl": [
-          "4a9923b5055853df3c1d7aaead29b4588e97ed9a6e677b6a75c2f2a9b6a62872",
-          "py3"
-        ]
-      }
-    },
-    "0.2.30": {
-      "sdist": [
-        "70edec98279e8e6a35fa7bc9ae49df0bfb6a3b262fc7cfd0918282376f806678",
-        "ml-platform-client-0.2.30.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.30-py3-none-any.whl": [
-          "4723d0c93296651265c8aaa7d9a0d556d184616b72558cd436613d5028934b76",
-          "py3"
-        ]
-      }
-    },
-    "0.2.31": {
-      "sdist": [
-        "7faa15743736244ebbf8222b1e5025b284586a824f14c070a377995f4b64f9e7",
-        "ml-platform-client-0.2.31.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.31-py3-none-any.whl": [
-          "ed49de500d4ca49c79441e0cfb987415c3772e7d296b771844d071ab88a80bf1",
-          "py3"
-        ]
-      }
-    },
-    "0.2.32": {
-      "sdist": [
-        "ca26f591ce3b897593b193b4d458d3b22642bf4cd1a19946d68992a252220464",
-        "ml-platform-client-0.2.32.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.32-py3-none-any.whl": [
-          "c06d3421aa516a36e4366183fb1ce48de9ee8e0928d4a73dc78f4f638ee04b07",
-          "py3"
-        ]
-      }
-    },
-    "0.2.33": {
-      "sdist": [
-        "fa9c1fc5b21d34b987359e73e9be8ae2f5ef22ddb7398acce2afe450eb1ad408",
-        "ml-platform-client-0.2.33.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.33-py3-none-any.whl": [
-          "675ddc92d67c321283f5ee89dd293efb5c44c9942745ffcedb68cd9823de1d80",
-          "py3"
-        ]
-      }
-    },
-    "0.2.34": {
-      "sdist": [
-        "0d0a0a9f4a69b96464bb88ff85948c107bd421b4a03123704d82513a3a5e73b1",
-        "ml-platform-client-0.2.34.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.34-py3-none-any.whl": [
-          "fda6d2b5b93d0fac80ce71394c3323ca4c17967b7c4504c870496b739a837f3a",
-          "py3"
-        ]
-      }
-    },
-    "0.2.35": {
-      "sdist": [
-        "03aa7aa64fb07ccf773bdbc75ad341352b388b422700b70298ba6cd844db9716",
-        "ml-platform-client-0.2.35.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.35-py3-none-any.whl": [
-          "78cd131915c3d88fb4061429820460855f0c3fe315c5fd1c1aa1c68101872306",
-          "py3"
-        ]
-      }
-    },
-    "0.2.36": {
-      "sdist": [
-        "4875c53b0a18f0c7163c05ff8b25d6e03d749b8211b2cfcb18530f04da30b98e",
-        "ml-platform-client-0.2.36.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.36-py3-none-any.whl": [
-          "5890af1769b1400320210ae637c3e4017a6ec0e555fd5644e7ca5862211626da",
-          "py3"
-        ]
-      }
-    },
-    "0.2.37": {
-      "sdist": [
-        "dac696abc8ddc205917dafc6a97955d4f5508703f9544a363a062bbb284f90dd",
-        "ml-platform-client-0.2.37.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.37-py3-none-any.whl": [
-          "56d597127baccf3e8fe0e59b52f67c11c83d3c16e84fb6eb6e89c06a0869f553",
-          "py3"
-        ]
-      }
-    },
-    "0.2.38": {
-      "sdist": [
-        "33ad5d86740c200cc07673fa3cacdf156876f852e43868c00c1722d6ee5b86c7",
-        "ml-platform-client-0.2.38.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.38-py3-none-any.whl": [
-          "795938671f3fe6deafe5183b6f974bfdb1637d6fc807fdc5354c7cf1d1c5785d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.39": {
-      "sdist": [
-        "44d523704f1833c4b6be38e5eef878a2e294cb05f8bee4f2a90ba14eb587f50d",
-        "ml-platform-client-0.2.39.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.39-py3-none-any.whl": [
-          "a24496e0182d29fb395c03a536c0555e769bbcc74b8bed4b94857900588a2b92",
-          "py3"
-        ]
-      }
-    },
-    "0.2.4": {
-      "sdist": [
-        "92f1ec55ea4140e7851bff174575030f4aeef1e3398d3632e50920efd980bc26",
-        "ml-platform-client-0.2.4.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.4-py3-none-any.whl": [
-          "21c9945ca16b5509e354949fcba3dcc45194672df27990dd0a517ec6504acd43",
-          "py3"
-        ]
-      }
-    },
-    "0.2.40": {
-      "sdist": [
-        "1d8bad5a523566c4439c8b65c671362f0941aebe66cff4081571a821e4b8170e",
-        "ml-platform-client-0.2.40.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.40-py3-none-any.whl": [
-          "3308a8b3079ced3ae838e777826c3fc1ce6bd8a5f2658de8c2a7654b9a71b23f",
-          "py3"
-        ]
-      }
-    },
-    "0.2.41": {
-      "sdist": [
-        "e9273fe329b241aee7817a2ddf198d0fa3889012fe93be4bbb7debf116f051de",
-        "ml-platform-client-0.2.41.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.41-py3-none-any.whl": [
-          "ec076c1c2a891555615b2bcf23ba4cbe56e9bb4ea3b197a44255e63125778b18",
-          "py3"
-        ]
-      }
-    },
-    "0.2.42": {
-      "sdist": [
-        "04be11b24673187a192177e8d67f82230b6dec278a593d7eade9c488c84783fa",
-        "ml-platform-client-0.2.42.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.42-py3-none-any.whl": [
-          "9afcc808ff90e802b263375f88c449fc756bf22ec9f9464ab664f3c05dec914d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.43": {
-      "sdist": [
-        "df4139929301bf14dd0e1a86f28a4fa1cc6eea2d5bca22179254408c7a865a00",
-        "ml-platform-client-0.2.43.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.43-py3-none-any.whl": [
-          "772d525ac518c38e7a5137339c0a8d6fb5985e0e14cb57d6f59918f4bbbfa60f",
-          "py3"
-        ]
-      }
-    },
-    "0.2.44": {
-      "sdist": [
-        "c7347c6c0ad3c065c7adaf269ac90b97d5b837eec267c920fdd137eae13aa37b",
-        "ml-platform-client-0.2.44.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.44-py3-none-any.whl": [
-          "1670eaac114f18097d2977cd319b928cf9abda411e2df0c368b0a889f75f3427",
-          "py3"
-        ]
-      }
-    },
-    "0.2.45": {
-      "sdist": [
-        "ab1d0fe28d61d50fac7813aac8ce81c7de7a1ec95264be62f4c6cfa6eff39d20",
-        "ml-platform-client-0.2.45.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.45-py3-none-any.whl": [
-          "6fd5f5f10b4b4a97924729d066e91b619aceb25557a1601af372b18620b2a757",
-          "py3"
-        ]
-      }
-    },
-    "0.2.46": {
-      "sdist": [
-        "12d2fe4d8c89f4d3d9f761fb1509201aa4e20d7cb456bc98c35e7da728564eaa",
-        "ml-platform-client-0.2.46.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.46-py3-none-any.whl": [
-          "4d783b2bdd71dc1e42a0e8548dc5522f84f70ff9d270247725e52124cafdec18",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "sdist": [
-        "d099e97fbf77693e8f1fe574ca71557ac1fa953947641377c9b9e033c094c87d",
-        "ml-platform-client-0.2.5.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.5-py3-none-any.whl": [
-          "8453ff3aeb578ad5af649b996c877602cadaf3b89bce7f1277491f97a2ac6fbf",
-          "py3"
-        ]
-      }
-    },
-    "0.2.6": {
-      "sdist": [
-        "a9869caaf0897424cf3180de5aad77918eb3faaaacbf7196311a3b77ae4c11f4",
-        "ml-platform-client-0.2.6.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.6-py3-none-any.whl": [
-          "5672223e4afabd0859997e3d0fd5f8c06feca2c474e107d9837ba5a135bc321e",
-          "py3"
-        ]
-      }
-    },
-    "0.2.7": {
-      "sdist": [
-        "503835ad6ecd54083218c695cad8fd5fd4329def5970cb9e39dc4a2500bae097",
-        "ml-platform-client-0.2.7.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.7-py3-none-any.whl": [
-          "a6eaba5217fd4720391b822a4de92a930bb6f688a94ca23a2d6201bf1dbfdde0",
-          "py3"
-        ]
-      }
-    },
-    "0.2.8": {
-      "sdist": [
-        "ae9e07d795b899980c6b5649e4e44b3e71707d1461e49745c62d33fcf2739481",
-        "ml-platform-client-0.2.8.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.8-py3-none-any.whl": [
-          "2db143c5c903958b6af8ec49c74010fa922cd2fd67c7ae926129ed2e8203dd4d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.9": {
-      "sdist": [
-        "7ac51dbbc9bca5c1a133fc664efdd30b03b1281292f8ccc4206181ce16595309",
-        "ml-platform-client-0.2.9.tar.gz"
-      ],
-      "wheels": {
-        "ml_platform_client-0.2.9-py3-none-any.whl": [
-          "7b36d66ecbedf560c4035d5b13d7e0367ddba89bdd6a386259341de2f50539d8",
-          "py3"
-        ]
-      }
-    }
-  },
   "mloyalty": {
     "0.1.0": {
       "sdist": [
@@ -34492,6 +33868,18 @@
         ]
       }
     },
+    "1.14.59.1": {
+      "sdist": [
+        "41dbf08dbf156536c409fdf6da0888d7abdb105f7f4a24e2cf2d6448f70f9cb2",
+        "mypy-boto3-ssm-1.14.59.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ssm-1.14.59.1-py3-none-any.whl": [
+          "17a94a663bd06df12653161b792771ac08606bc5be342c1290a4163c329b3f54",
+          "py3"
+        ]
+      }
+    },
     "1.14.6.0": {
       "sdist": [
         "fa50dc2a077bfca0515af5fe44a1de02b3fca95a8b69681ec6619f3ae3a92e8a",
@@ -35064,6 +34452,18 @@
       "wheels": {
         "nevermined_sdk_py-0.3.0-py2.py3-none-any.whl": [
           "00cfd416b8ebfa7f58dd2877b40f315be29ff6a28860b85179df737caecb34d1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "075ac4f3dd3be993cfede14ff72b7be651c64f809c2f4cc971d1f007be9ffa0b",
+        "nevermined-sdk-py-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "nevermined_sdk_py-0.4.0-py2.py3-none-any.whl": [
+          "5aacf1e855437c8a2981b585ea483d53b37bc99e3cb7f6a75979942e45d65a10",
           "py2.py3"
         ]
       }
@@ -63792,6 +63192,14 @@
       "wheels": {
         "tb_nightly-2.4.0a20200910-py3-none-any.whl": [
           "26472f89afccbfe8d6deb50dacf0f46c4e7a32182f7d3dbd69f07627b94197dd",
+          "py3"
+        ]
+      }
+    },
+    "2.4.0a20200911": {
+      "wheels": {
+        "tb_nightly-2.4.0a20200911-py3-none-any.whl": [
+          "b1de07b64d172a34db744dcd7968cf1b3bf7e7b8c911dcbf870e2a0e38ec8078",
           "py3"
         ]
       }

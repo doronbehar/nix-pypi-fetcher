@@ -2653,6 +2653,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.1": {
+      "sdist": [
+        "08ffee65cf1c3ebda2592a2dd9d51d34ad07d8e736b9424f2eda78ace9a44c4e",
+        "applocker-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "applocker-1.1.1-py3-none-any.whl": [
+          "f3bc1d421c2c2e817f795a5909949e6d2be58c07a05a574ed3e75b4bab2e1bfc",
+          "py3"
+        ]
+      }
     }
   },
   "apprise-transactions": {
@@ -20869,6 +20881,16 @@
       ]
     }
   },
+  "fescache": {
+    "1.0.0b1": {
+      "wheels": {
+        "fescache-1.0.0b1-py3-none-any.whl": [
+          "8537d9b6ff54257a30b55db48f3b547198968e47ae0bd8b0461da5c835898dd5",
+          "py3"
+        ]
+      }
+    }
+  },
   "fiddler-cli": {
     "0.1": {
       "sdist": [
@@ -25046,6 +25068,14 @@
       "wheels": {
         "huaweicloudsdkexample-3.0.11b0-py3-none-any.whl": [
           "9b9b71df160a4e34262f9551d490792347032f2c657b80d80f9391636773d139",
+          "py3"
+        ]
+      }
+    },
+    "3.0.12b0": {
+      "wheels": {
+        "huaweicloudsdkexample-3.0.12b0-py3-none-any.whl": [
+          "1e7aa2ae9a9c749768002461c99d466def322b2aa9dfae54240035fe5c3ca6fa",
           "py3"
         ]
       }
@@ -65407,20 +65437,6 @@
       }
     }
   },
-  "sigma.coding": {
-    "0.1.0": {
-      "sdist": [
-        "45a295363d1aacb9f77a778949d730ad3eaa3a0831a6b618fac367f7bfa158b5",
-        "sigma.coding-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "sigma.coding-0.1.0-py3-none-any.whl": [
-          "5b5c97a5da62e3ac95cdf9fe5831301bbf9262ca01da967fd4c41e24daa47c9f",
-          "py3"
-        ]
-      }
-    }
-  },
   "silence-tensorflow": {
     "1.0.0": {
       "sdist": [
@@ -65738,6 +65754,18 @@
       "wheels": {
         "Simba_UW_tf_dev-0.58-py3-none-any.whl": [
           "9eec4a7573bb0518843553ae994d73402f83808ac58a9ebb3e38e4cfc5f144b3",
+          "py3"
+        ]
+      }
+    },
+    "0.59": {
+      "sdist": [
+        "73c351fe62f3a8b71a8214aab41857b8b1a038bbfffa66bca3b3392df1ba4e81",
+        "Simba-UW-tf-dev-0.59.tar.gz"
+      ],
+      "wheels": {
+        "Simba_UW_tf_dev-0.59-py3-none-any.whl": [
+          "148abca55183f2658053d782fbe51be838a59e746dc2dacecc108dc0c19f5c44",
           "py3"
         ]
       }
@@ -69074,6 +69102,24 @@
       "sdist": [
         "2b85809f58eb241283ce4b7200c4433766f255714c3c166c210233fb2cca4bee",
         "tello-python-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "2c12bbd56623c53934b521659865ce01be1999fca1012e0df5f528c99639090e",
+        "tello-python-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "e13a35352be3ab24bc2548e07f7570f627aecd1d5ea0cefec6b4f84307eb6027",
+        "tello-python-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "0dcbf73c766f50cd9cd87406c42d817741bee1655f62b1a398e4f3fbaa1ef4f0",
+        "tello-python-1.0.4.tar.gz"
       ]
     }
   },
@@ -79908,6 +79954,110 @@
         ],
         "tfa_nightly-0.12.0.dev20200910220101-cp38-cp38-win_amd64.whl": [
           "455265e85c14c098bf261669f412d86655217a90fdf42a3f87cfb3e936b6190a",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.0.dev20200911002148": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200911002148-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "dd9024bff8165d6fc908c5262512996bcf8b3850973fffa79f7943c98c0fcef7",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "4133b8e4c9d6a1c0efe30310e129e931c69354ded7e63ce65562043c203077b3",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp35-cp35m-win_amd64.whl": [
+          "2f1eb729a3ac5cc7485cb284f07630cac1b6f00913b653728d161517dd4b59ff",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "d855f967920c0b2b39ee8f9f83f9d10bf354733f1acfcf5a139ddcd0d90f04c5",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d5eeb9854f4323417dc684ffd977cefe22b8237655d111ca04d18d6c4ae091b6",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp36-cp36m-win_amd64.whl": [
+          "5b927c4f32589042db99b07d6e4cec9bafa6bf4080d103e5f2a4495935cb77ea",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "a212e5b050462226e2dd6a91a077f95f8ba69f9abb9fc6f639c8ea60a73b529f",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2d475dbb6989ae01d7f45bd6d4867f2fc39d6fc16541dd13e3929249709dd998",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp37-cp37m-win_amd64.whl": [
+          "5ede3f02543bda7f9be3322fb035ab6b40f3fa064959ce12f5462018815fa2a3",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "37dee5db499a23cf1e0a761aa2d0addf7fc33c9d1c427aa6670454e9bea95ab8",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c6f411353fbfcdc56f47dba2d64cac30566f96acd6c1f30d54d79a432aeb8683",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200911002148-cp38-cp38-win_amd64.whl": [
+          "ad6786f00eaf6fb3f65c450f95c534f454adbcde3093a48cfb022719af3da667",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.0.dev20200911074049": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200911074049-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "73b7aeece302e01af9d4f5add645bf50782fef97379a03422cddbe397fea2d69",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "20bc74c45d3cccb2571a0d2cb5882ec2934067c82afeec7e956d669f355df73a",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp35-cp35m-win_amd64.whl": [
+          "dcdf27668a0dc77072fa49bd8934c9839356510d0909af9d8de58ef9c24a8118",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "2296785cf217e6eb86f94c64e5e8d1ace48568e4847ed3b48d51f679fb0e431a",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "a3c84cbf0ed508073ad7c0bb06e85b079ec9fabf38d325b5ecbcd18169ed5f59",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp36-cp36m-win_amd64.whl": [
+          "77a31e3faccb1022b61113b109c35da5bcea0db1db7c6fc66440d77d8f75048f",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "5d61f410402db307ab89697e194b748789f9fc1a82ffbb30a04adf99a1592194",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3741ba34723bfbfaaa9959c42d292430006e69ce8e3f102f904aab81a9cd8fd3",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp37-cp37m-win_amd64.whl": [
+          "f599323663cae70051f93a0a22ef114042e57c3b41a14fa30b19d53994c2f87b",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "37f97dab826fabafe1180bed6a2404e58db35b0d6175cd3967218ffab9789f82",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp38-cp38-manylinux2010_x86_64.whl": [
+          "07aba4527bcbda707cd6d69699af7a131461727e1eec37cdc5c1338162db518a",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200911074049-cp38-cp38-win_amd64.whl": [
+          "ad16addba29cba3572046b0d29c0798a3c7fbba3f2c1c7495a89095a2d176681",
           "cp38"
         ]
       }
