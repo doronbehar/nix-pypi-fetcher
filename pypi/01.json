@@ -35821,6 +35821,14 @@
       }
     }
   },
+  "mechanical-components": {
+    "0.3.post4": {
+      "sdist": [
+        "bf77c721e4a75e9f0f81353f07682535535d593133866d78579f54d9a64325b0",
+        "mechanical_components-0.3.post4.tar.gz"
+      ]
+    }
+  },
   "mediummuncher": {
     "0.0.1": {
       "sdist": [
@@ -41104,6 +41112,18 @@
       "wheels": {
         "mypy_boto3_cloud9-1.14.6.0-py3-none-any.whl": [
           "16bb23925445a374212ace2611494b0978e4fa5658012462b6fb02bdcaa47e58",
+          "py3"
+        ]
+      }
+    },
+    "1.14.60.0": {
+      "sdist": [
+        "51f64390edcd58cfe4510ab050c909eb61d2dc26f0bac09cacbdab86d0b5492c",
+        "mypy-boto3-cloud9-1.14.60.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloud9-1.14.60.0-py3-none-any.whl": [
+          "45e10e79efae78dc5ada5bd80ef1d41a90b23e81f045f5bdc1dc87c65f491b8e",
           "py3"
         ]
       }
@@ -61592,106 +61612,6 @@
     }
   },
   "riptide-cpp": {
-    "1.5": {
-      "wheels": {
-        "riptide_cpp-1.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "bf1a8ac5a0169d608677ad64a2ff6408b3783c411a63d45bd03f459885766550",
-          "cp36"
-        ],
-        "riptide_cpp-1.5-cp36-cp36m-win_amd64.whl": [
-          "b90959e14812d81db3e36d27539f7b70a571d8e38f093cce60903fa165fc262c",
-          "cp36"
-        ],
-        "riptide_cpp-1.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "23aa52eb7e35d3998d7dca1cb4d5725d1534050a8beed942ea423c6833912889",
-          "cp37"
-        ],
-        "riptide_cpp-1.5-cp37-cp37m-win_amd64.whl": [
-          "1cb74b5c60313cb5e83f6e7b77c3dfd0a66c7e4dc437618a466d810d54efe499",
-          "cp37"
-        ],
-        "riptide_cpp-1.5-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "31530207397084e8759048b7856c6e58910a0e01de4b404c2bb8cdafca6045a9",
-          "cp38"
-        ],
-        "riptide_cpp-1.5-cp38-cp38-win_amd64.whl": [
-          "b7d229e82ccfac66694a71065e602b034ded6127e09ec009e92b7ebfc3f4ef41",
-          "cp38"
-        ]
-      }
-    },
-    "1.6.1": {
-      "sdist": [
-        "14e7da4cbec686795b2abc138b0af745d4696437eb5d2cb91b93209f5ef3f960",
-        "riptide_cpp-1.6.1.tar.gz"
-      ]
-    },
-    "1.6.2": {
-      "sdist": [
-        "f22f3d0a73960b6a8c3be3b8ada98699110052fc67eff4c3823623eee09514dd",
-        "riptide_cpp-1.6.2.tar.gz"
-      ]
-    },
-    "1.6.3": {
-      "sdist": [
-        "77245c82c922e1a465781415b3af6c02e0b5a9b5fcaed37719fbd46250e347a1",
-        "riptide_cpp-1.6.3.tar.gz"
-      ],
-      "wheels": {
-        "riptide_cpp-1.6.3-cp36-cp36m-win_amd64.whl": [
-          "ca1623bc2793078d943740879ed958a855dfa4f3010119f6072b7c2d5bcc1ffc",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.3-cp37-cp37m-win_amd64.whl": [
-          "28375220b162e43fa50375e3c025e9b394a4c4371f018fd9c12a4cf7b2a4b7f5",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.3-cp38-cp38-win_amd64.whl": [
-          "e2c17fc72a7a0f183e6470d8963c73f1381d32a6c329adda72d7698ab159f708",
-          "cp38"
-        ]
-      }
-    },
-    "1.6.4": {
-      "sdist": [
-        "0edc63d7f6e7f3d26a068cd824fa69b9647e6871790e814635fbe1af4448fb0e",
-        "riptide_cpp-1.6.4.tar.gz"
-      ],
-      "wheels": {
-        "riptide_cpp-1.6.4-cp36-cp36m-win_amd64.whl": [
-          "1df14d3d1d92a8ff85918d58b237fd7787fa90085da126fe741b9cec2c8ee465",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.4-cp37-cp37m-win_amd64.whl": [
-          "a4c8d926c0e127d1bcac6b7b32e65b46fcc4262daf20245968708ae28c5430ec",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.4-cp38-cp38-win_amd64.whl": [
-          "317d385f82b4622fde1b348d0df9ed82e523cf89661d57f2a2e5394044e44fba",
-          "cp38"
-        ]
-      }
-    },
-    "1.6.5": {
-      "sdist": [
-        "5632f7f7b78bd2e745b4066fda906c7611c613c1aa2ecddb5169ddfb7e740dee",
-        "riptide_cpp-1.6.5.tar.gz"
-      ],
-      "wheels": {
-        "riptide_cpp-1.6.5-cp36-cp36m-win_amd64.whl": [
-          "9d4c18855bd631a29f17ec07dda7f05504e81234357795366a8bd85a5d6d0e48",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.5-cp37-cp37m-win_amd64.whl": [
-          "3d3a737c85afb008937ac501e5cbdfec009ed201291d2794c9561d13271ae685",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.5-cp38-cp38-win_amd64.whl": [
-          "3df406766cf18e486146251576c616936c987491fb8c5ceace77366c681f9a37",
-          "cp38"
-        ]
-      }
-    },
     "1.6.6": {
       "sdist": [
         "286a162db394ec1f918ffaeb072ef1efb9c095d5dccd048d476e2b2f72a87751",
@@ -61708,6 +61628,38 @@
         ],
         "riptide_cpp-1.6.6-cp38-cp38-win_amd64.whl": [
           "d01275ecf3ee3b91086932dc5b0daee572231843b38312cca238f5a36388e761",
+          "cp38"
+        ]
+      }
+    },
+    "1.6.7": {
+      "sdist": [
+        "20d337523af896e722dec0abeaec922672eb90d15d4f9823a0c3dcb975b3a74c",
+        "riptide_cpp-1.6.7.tar.gz"
+      ],
+      "wheels": {
+        "riptide_cpp-1.6.7-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "692a44d03ceee97ba4773025a47bdc23e37fd7b35d59a450ee3a2701c0f8a81c",
+          "cp36"
+        ],
+        "riptide_cpp-1.6.7-cp36-cp36m-win_amd64.whl": [
+          "d5a7b425c669b6d93be886492c4e71384459add8e72923b95302fe1f5793d5f8",
+          "cp36"
+        ],
+        "riptide_cpp-1.6.7-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "e3f9a8002ad9995980f16cd97cf3434ff993e88a67663cb6197e9d2ac736ec60",
+          "cp37"
+        ],
+        "riptide_cpp-1.6.7-cp37-cp37m-win_amd64.whl": [
+          "012c2479e911a4770409e78f6395ceb8c6c1fd165fda919ac7f3be5e9f7a4172",
+          "cp37"
+        ],
+        "riptide_cpp-1.6.7-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "546eef406804b088679877099c044b0124bb5cfc0f8589d00b8d2728e6b79ab5",
+          "cp38"
+        ],
+        "riptide_cpp-1.6.7-cp38-cp38-win_amd64.whl": [
+          "a881f3b74921fdf8f9339521a56a0bca91f3923b50c909fd3b42d1f977e09eba",
           "cp38"
         ]
       }
@@ -70246,6 +70198,12 @@
       "sdist": [
         "3d54b2c6cd02ceb43150a454e44a28939da477eb32bcab311d9bafbf861c059e",
         "torch-vectorized-0.1.14.tar.gz"
+      ]
+    },
+    "0.1.15": {
+      "sdist": [
+        "4af4c39d784cc803bbb639c343afe89cde59c312711698ac591c316293b595a0",
+        "torch-vectorized-0.1.15.tar.gz"
       ]
     },
     "0.1.2": {
