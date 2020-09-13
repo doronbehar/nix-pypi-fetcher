@@ -15613,6 +15613,18 @@
           "2.7"
         ]
       }
+    },
+    "5.2.1": {
+      "sdist": [
+        "74ff365efeaa7b78c9eb7f6d7bd349ccd6252a6cdf879bcb4137ee5ff0fb127a",
+        "devpi-client-5.2.1.tar.gz"
+      ],
+      "wheels": {
+        "devpi_client-5.2.1-py2.py3-none-any.whl": [
+          "1b0488dc78f8cae30d61c4338293fe505d60d39bafe40b2454b9b03c3640495e",
+          "2.7"
+        ]
+      }
     }
   },
   "diadump": {
@@ -21568,18 +21580,6 @@
       "wheels": {
         "elle_beam2d-1.0.1-py2.py3-none-any.whl": [
           "7ca4816bb15693028eef49247310a81e1da7e224dc902be5088e168009296e4e",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "21272be380815101d8c2ffdd1b814e3c181c33f0117115e89b8a26b4f1a773d2",
-        "elle_beam2d-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "elle_beam2d-1.0.2-py2.py3-none-any.whl": [
-          "0d946cde37482c33de9c445ca71005ee75aeaf129277633acdbb6da73fbd5033",
           "py2.py3"
         ]
       }
@@ -31598,6 +31598,18 @@
       "wheels": {
         "kodexa-2.2.77-py3-none-any.whl": [
           "1d6e5fa495dcd9877f802b83f01400d242906b584a4ee7ac61ac4c2f1d96bff1",
+          "py3"
+        ]
+      }
+    },
+    "2.2.78": {
+      "sdist": [
+        "f8bcdf324f3bb1764690733d7a9ae072049074181f658fa597f8ee257f525389",
+        "kodexa-2.2.78.tar.gz"
+      ],
+      "wheels": {
+        "kodexa-2.2.78-py3-none-any.whl": [
+          "a4504aaa3119fddcb554c3def45ed659ed2bf3d1810ba28d809ee887d682214c",
           "py3"
         ]
       }
@@ -62686,34 +62698,34 @@
     }
   },
   "pyzstd": {
-    "0.6.2": {
+    "0.6.4": {
       "sdist": [
-        "9f4e618dda90f5b8fba7ac8d3eef2bc352674fca5830b1173c41277852c88b0e",
-        "pyzstd-0.6.2.tar.gz"
+        "d21d323aff47afc86f26ea092e49d2023081f684d6cae9f76044427d16854325",
+        "pyzstd-0.6.4.tar.gz"
       ],
       "wheels": {
-        "pyzstd-0.6.2-cp37-cp37m-win32.whl": [
-          "5b2996b276c067a0a41513f2529d11ba48979e9127b624854116ed5b9533a422",
+        "pyzstd-0.6.4-cp37-cp37m-win32.whl": [
+          "bc7238550f967b7b09d774ef7b51e3cc3d42d8956e142208c86ac3532f01f003",
           "cp37"
         ],
-        "pyzstd-0.6.2-cp37-cp37m-win_amd64.whl": [
-          "020a667603a88c3c509ec5f6739bee6052b897111ff92fc18c1433b009195998",
+        "pyzstd-0.6.4-cp37-cp37m-win_amd64.whl": [
+          "049b7dad0c6db59d06ba1c6877925369cb8d55f5bfa887f3ba8037289e6fcb03",
           "cp37"
         ],
-        "pyzstd-0.6.2-cp38-cp38-win32.whl": [
-          "fd4359bcaf591385379cb5cf5fab42ecc9fa12d54ec6770b35f6fb5e6d3e7e26",
+        "pyzstd-0.6.4-cp38-cp38-win32.whl": [
+          "90b1ee34e19d2a4e98917acb11795284537048e19b0cb12aa4090760dd802118",
           "cp38"
         ],
-        "pyzstd-0.6.2-cp38-cp38-win_amd64.whl": [
-          "27d9794bc565dbc166bd2e041982f160a6649dd7bd5218ac6d20dd3c1a01a6f6",
+        "pyzstd-0.6.4-cp38-cp38-win_amd64.whl": [
+          "f198dfd5bbb0e7cbe30ccc0a51ec84d90c6b2db841416355dd0787ecb7698525",
           "cp38"
         ],
-        "pyzstd-0.6.2-cp39-cp39-win32.whl": [
-          "ff8668157cf9a4893554301fae33347758369b023475ab4b40b839a03820f6be",
+        "pyzstd-0.6.4-cp39-cp39-win32.whl": [
+          "3022a7b5febc1a6b8aca648252a5c0bc6b276dd155cf587d294051aa21f11d69",
           "cp39"
         ],
-        "pyzstd-0.6.2-cp39-cp39-win_amd64.whl": [
-          "6ffa86a2b03bd4012c0b892e4dfe936781033677378b15bcdb852fef129d084b",
+        "pyzstd-0.6.4-cp39-cp39-win_amd64.whl": [
+          "c468448c5be8181ada6f401e4b0f6027ecdf147f516c73fa1b4fe865dee18943",
           "cp39"
         ]
       }
@@ -71522,6 +71534,24 @@
       "wheels": {
         "swh.search-0.2.2-py3-none-any.whl": [
           "9d535cd00c8e7feba36340b9f8dbc0842d099f13c11603f6a386b6e973d4f915",
+          "py3"
+        ]
+      }
+    }
+  },
+  "swiftpipeline": {
+    "0.1.1": {
+      "wheels": {
+        "swiftpipeline-0.1.1-py3-none-any.whl": [
+          "9a19c0630e95a46f9124021f145a1a2971dea723263c35f58e3a9e0bf867766f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "wheels": {
+        "swiftpipeline-0.1.3-py3-none-any.whl": [
+          "6f9a26536f915117d7fa0c67e5602401c9cbf64a7323e64309349b4002054dea",
           "py3"
         ]
       }
