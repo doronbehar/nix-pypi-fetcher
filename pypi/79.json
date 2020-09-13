@@ -4275,6 +4275,12 @@
         "42f0e75b2bf960bcf4ee489317962559988a774c2964868d4f3a599699388f4c",
         "beam-mysql-connector-1.8.2.tar.gz"
       ]
+    },
+    "1.8.3": {
+      "sdist": [
+        "a0984178126131056224e5a47fd07def5d0a42358052b63424a3412d3175dcfc",
+        "beam-mysql-connector-1.8.3.tar.gz"
+      ]
     }
   },
   "betsee": {
@@ -6770,6 +6776,18 @@
       "wheels": {
         "caer-1.3.5-py3-none-any.whl": [
           "20244b6d24e6fe2b0d624cfbeff40d9c42d3cae778984aad812f11ffa972074d",
+          "py3"
+        ]
+      }
+    },
+    "1.3.6": {
+      "sdist": [
+        "9be0f52385058a3c719e589ccd55a50d76f33c60b7f165f6004df60b4fe4aace",
+        "caer-1.3.6.tar.gz"
+      ],
+      "wheels": {
+        "caer-1.3.6-py3-none-any.whl": [
+          "04e97bff4a776603963ccb1b11989bacdadefbc42404506bc152ec2ab1e2768c",
           "py3"
         ]
       }
@@ -28881,6 +28899,30 @@
           "py3"
         ]
       }
+    },
+    "3.1.0": {
+      "sdist": [
+        "452a6220b273b6cf08947e0caa8016182fff54003ebb070a3fa4633d5837d211",
+        "jaraco.test-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "jaraco.test-3.1.0-py3-none-any.whl": [
+          "e0b86748add6bce0d3df0d67f56a107dca8e90520e556500dcebb5b2524cc251",
+          "py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "36748cfef571cbb23fdc7211625f4d1bbf2583c851a9b43fa6bc5938b12e93c5",
+        "jaraco.test-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "jaraco.test-3.1.1-py3-none-any.whl": [
+          "465aedfeae3441dae6f7bd0d3145fc4eefe2608bc6e6e08525c57206309d8c45",
+          "py3"
+        ]
+      }
     }
   },
   "jasdistributions": {
@@ -30280,6 +30322,30 @@
       "wheels": {
         "klattah-0.2.1-py3-none-any.whl": [
           "4e75e49eb0748d7305dbdedc8ed1c9274aba9d7237da4260eaffbc007f4d09e2",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1a0": {
+      "sdist": [
+        "cbd9afd39ee96d250420ca78e0ea7aaa7badf60cdcf1adc30c306cc29d3d3d12",
+        "klattah-0.2.1a0.tar.gz"
+      ],
+      "wheels": {
+        "klattah-0.2.1a0-py3-none-any.whl": [
+          "22b02e548dbba807af0fd9c9e76e7cd05c77b9b863b1b0e412f6ed4582775db8",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "7037da667db7fabb23abfba521146482af3b4f5fa11d5d5b8c2f5b0cd7a223f9",
+        "klattah-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "klattah-0.2.2-py3-none-any.whl": [
+          "bcd35f856625cea1be379254439375e6e8a06a4c2f6c7b9feb5a85a677a36892",
           "py3"
         ]
       }
@@ -62439,6 +62505,18 @@
           "py3"
         ]
       }
+    },
+    "1.3": {
+      "sdist": [
+        "7df4a4027ae72be8c2579804b2889abce73473c7f87737b421698e4d36def7ea",
+        "SirvPy-1.3.tar.gz"
+      ],
+      "wheels": {
+        "SirvPy-1.3-py3-none-any.whl": [
+          "d7a8c31652681bc7f6c3c41bf78932e1a53736c324fed769b978e66c7acb9765",
+          "py3"
+        ]
+      }
     }
   },
   "sked": {
@@ -67712,6 +67790,38 @@
       "sdist": [
         "91fa9fc3586c7cae0b186aac794aff9747581eca63c271792faeb8f388b6ed93",
         "unicore.languages-1.0.0.tar.gz"
+      ]
+    }
+  },
+  "unimi-common-tools": {
+    "0.0.1": {
+      "sdist": [
+        "7011c5ef61928a08e8ac955077503a08c1f49210107cdc452f424d3b29f5fdc0",
+        "unimi-common-tools-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "unimi_common_tools-0.0.1-py3-none-any.whl": [
+          "581470fcc3eb0a3f7005a937f278bb96a03cab67c8b23891e203899cf9a8166c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "a3935b0719da2d795d6e2d98b6f323ff4e4e342b0cb425c8e489103bd7f26dd1",
+        "unimi-common-tools-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "9b9407da6cc17af16517f7b63162c179dec363f268b6bbd36d93d477e4dd4e47",
+        "unimi-common-tools-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "677a4f01c4611038f7f750389704ff7e3c545a951244fd759fd256ceb1a7a168",
+        "unimi-common-tools-0.0.4.tar.gz"
       ]
     }
   },
