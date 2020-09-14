@@ -23729,6 +23729,18 @@
         "e7bc9f073cd32d9259cfb7e5b12c76f45e29316259d1d9a7872333bc63cb3bbd",
         "gattlib-0.20200122.tar.gz"
       ]
+    },
+    "0.20200911.post2": {
+      "sdist": [
+        "ed7f0156e14a181b541ebe71d07b82e964b3ef5f59e95ec6a91b0745ed6cbd59",
+        "gattlib-0.20200911.post2.tar.gz"
+      ]
+    },
+    "0.20200914": {
+      "sdist": [
+        "5afba2c7726927c669dc80d7582efa7a0d864941b48a28d1b51ea63e1828a6fb",
+        "gattlib-0.20200914.tar.gz"
+      ]
     }
   },
   "gauss-binom-distributions": {
@@ -45459,6 +45471,18 @@
           "py3"
         ]
       }
+    },
+    "4.8.1": {
+      "sdist": [
+        "512dfdb4fe28cef2f3c06c534faac6c0564f760240616e31da50290071dcc304",
+        "orange-widget-base-4.8.1.tar.gz"
+      ],
+      "wheels": {
+        "orange_widget_base-4.8.1-py3-none-any.whl": [
+          "80f21b4a90d11be9c258e6568bdcc4ad55acce972fba71d04c74b4540a6e0abd",
+          "py3"
+        ]
+      }
     }
   },
   "orchestrate": {
@@ -54856,7 +54880,73 @@
       "sdist": [
         "9a65cd114dcc7462d09d7c9621231ec615890b01b86ab298b548be5fdc436098",
         "pybullet-3.0.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pybullet-3.0.0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "9b7a9ecb5cbe033016f7f9dfe2b41b256005eab99eba81c67dd97c7d6dc49724",
+          "cp27"
+        ],
+        "pybullet-3.0.0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "ab7d3e91cb94990f6374209bd1d2cef769785d63e0ab2aa1a5e0bbcdf26c7d11",
+          "cp27"
+        ],
+        "pybullet-3.0.0-cp34-cp34m-manylinux1_x86_64.whl": [
+          "a39b83df6f82ed921c52ce5b14b8629c8f857bd87b7911d027b0436ad82fb53a",
+          "cp34"
+        ],
+        "pybullet-3.0.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "5b2278cf87241ba110cb79adf981d4158147f75455f3bfae14fd761d6bc3bb91",
+          "cp35"
+        ],
+        "pybullet-3.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "95bdf1a67a2af44a7edc0961f8fe834fedc5a2c9ed7476a6bd30e5c3a55eb133",
+          "cp36"
+        ],
+        "pybullet-3.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "fd572360b157b1b673e9f1e5bf4106d78ecfaa3ed0db303054814a3a8f907998",
+          "cp37"
+        ],
+        "pybullet-3.0.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "d92b5696731664360f2fce4660de833a99e35c517f103bcb3785b3563f4d62cc",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "21ff774c100db31e47bd97adc29043d864677f1ecf60dea03312ce8ffe8306a0",
+        "pybullet-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pybullet-3.0.1-cp27-cp27m-manylinux1_x86_64.whl": [
+          "1e08c339605ca5733577ed8e959cc126a3ce33f4de6ea0bf1e8cc2a894acf018",
+          "cp27"
+        ],
+        "pybullet-3.0.1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "d29f3c6285ef5509a8c74f379cf27a2a1b94868e4d75053445ba2ebe49054f72",
+          "cp27"
+        ],
+        "pybullet-3.0.1-cp34-cp34m-manylinux1_x86_64.whl": [
+          "9e7ae2cf065c4538da190c08ce5bd852cd9f180902cd773061b4fe0abf7a1eb1",
+          "cp34"
+        ],
+        "pybullet-3.0.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "24c367a821995166bc4887900025072b20fa825e0b3d2e46c44759dccc8ee5f5",
+          "cp35"
+        ],
+        "pybullet-3.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2d8d0c88b6d2ab1fb4090eadf0bc8e7db925ffe2f6e59486ed794eccb55d41a4",
+          "cp36"
+        ],
+        "pybullet-3.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "f604a23d3f2fd9ba40fd27458493f0cf1bc02e23c98bb27e0e1136b889cda397",
+          "cp37"
+        ],
+        "pybullet-3.0.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "b084c3de73a519caefecf78f317c530861c389e3c8a17b61b96f44362b90b0bf",
+          "cp38"
+        ]
+      }
     }
   },
   "pybursts": {
@@ -82002,6 +82092,12 @@
       "sdist": [
         "9eaf4048efa407d5bc8748b687fc68dcbdfbb777adea66fc27a9ed52796ffa82",
         "zuper-typing-z6-6.1.5.tar.gz"
+      ]
+    },
+    "6.1.6": {
+      "sdist": [
+        "99590fc4ec6cf2599b02af825182392a7d665c0ecff172190b34abfb4293a4f6",
+        "zuper-typing-z6-6.1.6.tar.gz"
       ]
     }
   },

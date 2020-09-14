@@ -3219,6 +3219,18 @@
           "py3"
         ]
       }
+    },
+    "1.63.0": {
+      "sdist": [
+        "2188c02aeff3f5c50405d11a4494e4958a870d1e9f73e8c79b85a185d847a752",
+        "aws-cdk.aws-chatbot-1.63.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_chatbot-1.63.0-py3-none-any.whl": [
+          "85ee43a7f152a899a8932503c52d413b41dc0782734de04261a4c58a851b7c81",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-lakeformation": {
@@ -4094,6 +4106,18 @@
       "wheels": {
         "aws_cdk.aws_lakeformation-1.62.0-py3-none-any.whl": [
           "20378af5ee32bd23baa2c4497d67c594ae2db328a340c364a11ce9870db6ff57",
+          "py3"
+        ]
+      }
+    },
+    "1.63.0": {
+      "sdist": [
+        "992e992ece5e3fcac4e77402528c90f2c1f87f29d782b88d7db571026308f37e",
+        "aws-cdk.aws-lakeformation-1.63.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lakeformation-1.63.0-py3-none-any.whl": [
+          "c5cdbadfb8c4609071ec3150709c9285ef427a88c3a67c6e65fe49ae7d2d2df6",
           "py3"
         ]
       }
@@ -32379,44 +32403,6 @@
         "829e38d03032baf771cdbc96af885f09851ba996e8496f06f831fc6ce829f35e",
         "indexer-0.6.2.tar.gz"
       ]
-    }
-  },
-  "indian-cities": {
-    "0.0.1": {
-      "wheels": {
-        "indian_cities-0.0.1-py3-none-any.whl": [
-          "79f03c7e61d19e0adb7968f88ed53a0dd0ca44972a2d738fcf9225908ccead7b",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "indian_cities-0.0.2-py3-none-any.whl": [
-          "7b2e4a4ff6b4b5771f9aacf9145804b5f84459777997116462494976785bd353",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "wheels": {
-        "indian_cities-0.0.3-py3-none-any.whl": [
-          "eaabfa12f58f2c582987fc897f0e2506c638fd4b268b89c5c833627913470e52",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "f97718ea51b91ee06840afbda60bb7a752f11367c3d467b5dd151c28315eff4f",
-        "indian_cities-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "indian_cities-0.0.4-py3-none-any.whl": [
-          "9f0e0de8eebd64da3dc5d7508b278011e1519ddb3152730fc036a5c98c7064d6",
-          "py3"
-        ]
-      }
     }
   },
   "indy-client": {
@@ -76200,6 +76186,58 @@
         ],
         "scikit_network-0.19.1-cp38-cp38-win_amd64.whl": [
           "8ba7c86cfae86f6ecb0580bf0127d09ac206b92224da238ed91d6581bb58474e",
+          "cp38"
+        ]
+      }
+    },
+    "0.19.2": {
+      "wheels": {
+        "scikit_network-0.19.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "0a11bc86b94ea11c963ff7405e2a646b91f222ab09c53035254cf1449420f9c8",
+          "cp36"
+        ],
+        "scikit_network-0.19.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7f06f6af24a2660b91b319948457d66a9afb70cc7f4421c607d840cf3437ddec",
+          "cp36"
+        ],
+        "scikit_network-0.19.2-cp36-cp36m-win32.whl": [
+          "1efff729c7458dc8e8259fe0515371cef2a96f02b334ff7df615cce1f0acd50f",
+          "cp36"
+        ],
+        "scikit_network-0.19.2-cp36-cp36m-win_amd64.whl": [
+          "12ee796e0ecc9a8910c1f5cff7440721bdf84961f1256a634755ef52ffe51ce7",
+          "cp36"
+        ],
+        "scikit_network-0.19.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "292c14a91a9fe223040cc75915aa2a3f91d509e4862fe0294c3ee872b502971f",
+          "cp37"
+        ],
+        "scikit_network-0.19.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0fddebe88dbb02ca59b536d1ffcd4eb9d4bcc0b0b5ea0eda0d153fba75e12cbd",
+          "cp37"
+        ],
+        "scikit_network-0.19.2-cp37-cp37m-win32.whl": [
+          "5152fe79677b63af4f48b74c209b766d203ee941495fc01bc805774999275f14",
+          "cp37"
+        ],
+        "scikit_network-0.19.2-cp37-cp37m-win_amd64.whl": [
+          "f309917e825a46cb385ff03b2cefb776959e68d170989ecd7bdfd50d36795796",
+          "cp37"
+        ],
+        "scikit_network-0.19.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "652c16d896a0fc57abe544a666781e184084d42c90bd4704c6652eabd755c695",
+          "cp38"
+        ],
+        "scikit_network-0.19.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "7ac6fb9eb4a56848e90efa2709c325dba64211c876f0b6c14339b8d681ddcab7",
+          "cp38"
+        ],
+        "scikit_network-0.19.2-cp38-cp38-win32.whl": [
+          "edf84d6daca331aabb8ceb811ea5282656831c6a68a40c90ec6eaab657fc9c7a",
+          "cp38"
+        ],
+        "scikit_network-0.19.2-cp38-cp38-win_amd64.whl": [
+          "ef1f241cd4611498eec6a92f86d7e619f180edac42d1b68e53bab84c88966e63",
           "cp38"
         ]
       }

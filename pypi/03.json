@@ -5165,6 +5165,18 @@
           "py3"
         ]
       }
+    },
+    "1.63.0": {
+      "sdist": [
+        "3fc26690e17d060eadc670715e02618649a940ad00c3735c7c03cdaa73fb2b28",
+        "aws-cdk.aws-cloudfront-origins-1.63.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront_origins-1.63.0-py3-none-any.whl": [
+          "86f20d61166ed649435a0b869f6e745ebbe3bacd430df5a629bb9b7b0a30b433",
+          "py3"
+        ]
+      }
     }
   },
   "awsvault": {
@@ -12580,6 +12592,12 @@
       "sdist": [
         "62854d68843da3ecba0eeab6d9c57e9d5812350d8aaf3ac603e3369ef3900d10",
         "cs.upd-20200716.1.tar.gz"
+      ]
+    },
+    "20200914": {
+      "sdist": [
+        "e32cd2ec9bd9a03e5020e47e6fb7087dd5a622535a61bf8bec1d1ced2b613bda",
+        "cs.upd-20200914.tar.gz"
       ]
     }
   },
@@ -20450,6 +20468,12 @@
       "sdist": [
         "65356f7f355fc0f6bbce9b5341ec1642f2d399654d0655bb08c7a7b186777b63",
         "docassemble.demo-1.1.72.tar.gz"
+      ]
+    },
+    "1.1.73": {
+      "sdist": [
+        "f6161bc876e675461318ac2c6ba7398f6f9bed84fcbc0bfdfc5063ba33ff10dc",
+        "docassemble.demo-1.1.73.tar.gz"
       ]
     },
     "1.1.8": {
@@ -49275,6 +49299,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "d63400f2d9573094a8618aa8a2718ca468f623ffcbedfcf2efd8936a796b91a2",
+        "pyairnow-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyairnow-1.1.0-py3-none-any.whl": [
+          "aa89c197845fa454a3314757889e2d5b9785541c5032336395bb7ba3cf164921",
+          "py3"
+        ]
+      }
     }
   },
   "pyalswr": {
@@ -56679,26 +56715,6 @@
       }
     }
   },
-  "rsosp": {
-    "1.0.0.1": {
-      "sdist": [
-        "20bbd7bde18ed0abf81bf98849bf179297d04a672e007503823e9933734fcd46",
-        "RsOsp-1.0.0.1.tar.gz"
-      ]
-    },
-    "1.0.0.40": {
-      "sdist": [
-        "e1bb816465729efa3ef283e90edb679d4786cdca9908f770081338cc1a43f48f",
-        "RsOsp-1.0.0.40.tar.gz"
-      ]
-    },
-    "1.0.0.41": {
-      "sdist": [
-        "7463bdd87ee2b1b39398660c9fefdf3f19c24c8c714c9c67d2d0c6594795f787",
-        "RsOsp-1.0.0.41.tar.gz"
-      ]
-    }
-  },
   "rssnoticiasecuador": {
     "0.1": {
       "sdist": [
@@ -59860,6 +59876,146 @@
         ],
         "scrypt-0.8.16-cp39-cp39-manylinux2010_x86_64.whl": [
           "1cfff6b9a36e65db7adbdab4855f0825adbeb405569550671186e0839b90e1da",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.17": {
+      "sdist": [
+        "25b5075f2238be93af1cd574540a5ea01b8547f9b678aa72d22fce22577475ec",
+        "scrypt-0.8.17.tar.gz"
+      ],
+      "wheels": {
+        "scrypt-0.8.17-cp27-cp27m-manylinux1_i686.whl": [
+          "bd26bde77e7e6ddc1049c1402efc4a0c14e5f283c29a54f9c3e7117a95df46af",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27m-manylinux1_x86_64.whl": [
+          "122161709b57dc41969047dbcb5a2a9dde4a4f45ac6a8340d29fcd06d505690d",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "3da63fb585db00fb513d9ca002338e5905c46a1b4a57acfffa4a94aacfdc71e8",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27mu-manylinux1_i686.whl": [
+          "401bfb4341e206189bba5530cdc5c55ef4f0f20be289603dbe403785014da3cf",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "c34ebd77a85ac97203a0eff0d6963f650686677f3e2ebc8e3eb3e54a76211992",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "a3dc95763f1254141c483277c5bf5dd49fee9d0f4b5076ba952f0db88fc73ea3",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp27-cp27m-win32.whl": [
+          "196f5886f58d5a28b6bc4de7785a1baa9062c6a8db0f03a9b8fa4ba2ecdf4216",
+          "cp27"
+        ],
+        "scrypt-0.8.17-cp35-cp35m-manylinux1_i686.whl": [
+          "156af0077ad7aadf465acd9eed8598d70155febdd92b297b9be3581152674a4d",
+          "cp35"
+        ],
+        "scrypt-0.8.17-cp35-cp35m-manylinux1_x86_64.whl": [
+          "41aaa6c7eeb988a0513b59b81baecf05ea07f2d9cae90abe438ba37b670e8140",
+          "cp35"
+        ],
+        "scrypt-0.8.17-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "cb8f7cec9d8e5aa1e20f3672b66216ffd9f72f2d4b665963ceb4bd0c705ad798",
+          "cp35"
+        ],
+        "scrypt-0.8.17-cp35-cp35m-win32.whl": [
+          "a316bff96a046f69e75414dcfaccaa56426db32482533936ccc4e628e89e23fd",
+          "cp35"
+        ],
+        "scrypt-0.8.17-cp35-cp35m-win_amd64.whl": [
+          "0e8c136c58e2f032591cb6ce6e22932a78fb1dc01dd61ee0c831eb3abaaf074f",
+          "cp35"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "a8f6669d9d0a94708b9c32cc8eb9502e3142d6cb81f59d4d79fe6b5b31d49156",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-manylinux1_i686.whl": [
+          "a8e24b40de6bab8531edf55d7506c309d6b03117ce34ab422152049f9e47836e",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2bc2e53d465c633f153b32e838b2de70846eb682f89b28e4f0331d9d6ffc38c9",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "dae9bc00391fab92d89b78006c494d97ec6a43e5fb266efaacdae1243eb123e4",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-win32.whl": [
+          "fb9167846ecaafdaf7782a531bc5e4fdbd8334521cbaa407808496b9d914bd0e",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp36-cp36m-win_amd64.whl": [
+          "75be7e3df7dbbfd2310d7318c4b0d182337b2b61c31e22243b707d3b1c3d6c4a",
+          "cp36"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "086a358f5b1a26fa88756449205caab4ff810b01e770a2491b6a2c1ac566d2e0",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-manylinux1_i686.whl": [
+          "9915b8fbf9458d809c7be54c4b44d1fb09d293c25627500ce95c1c60bfd3884d",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-manylinux1_x86_64.whl": [
+          "72a8c2d9f4243dc1b0008bf485b024c0af0f4e5663c4f7c78a829c03e124d9d8",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3e68c49ef02d680256ff47f69d8fa353cc97ecda7beee53893777bd70a4a5195",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-win32.whl": [
+          "a6bd5f6088e5088e3db83e9658c5ddbd70bf06c0e2e92d6855677dc655c51192",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp37-cp37m-win_amd64.whl": [
+          "3cf66c54ed2802183a8ca893e539a2d41c76921a84d4060eb34aaacf9772f150",
+          "cp37"
+        ],
+        "scrypt-0.8.17-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "32a3fd35c0705730bf98dcd8e83d55e425b6d1c27e84bd93020091c6d480a896",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp38-cp38-manylinux1_i686.whl": [
+          "e2fc402b14aeec6d6ce3df4347a0a55a543463f53a40901bff269b1992e0ad72",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp38-cp38-manylinux1_x86_64.whl": [
+          "857762b699839aca3eec9a0994c35d944d31d8c16888330a9428a2a7e5f77b5a",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp38-cp38-manylinux2010_x86_64.whl": [
+          "6ee0adceb76564294be62a8c6cd8da65b452e0a9700185a4c3127bce8596ca28",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp38-cp38-win32.whl": [
+          "5280d76572a7fc4ce7c08ededbf080713a6739fb233e69696c65b21adbe68436",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp38-cp38-win_amd64.whl": [
+          "bdaa38710f46f940b9d091d8748585562966077c71e8619d52f42ad82382d014",
+          "cp38"
+        ],
+        "scrypt-0.8.17-cp39-cp39-manylinux1_i686.whl": [
+          "29a7eb73ca820e7fb5142d3f0a25d5ae1964241c14ed1bc819d0270ce8449f1c",
+          "cp39"
+        ],
+        "scrypt-0.8.17-cp39-cp39-manylinux1_x86_64.whl": [
+          "08e40aaf1da834a4b42bd783e428400b3c1e6f2902ea2aa52f043df7694265f8",
+          "cp39"
+        ],
+        "scrypt-0.8.17-cp39-cp39-manylinux2010_x86_64.whl": [
+          "1b8b37a3a617a05a7b6462153a9de520eb73334d950cc325c8653f7d7d4248dd",
           "cp39"
         ]
       }

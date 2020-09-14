@@ -6612,6 +6612,18 @@
         ]
       }
     },
+    "1.63.0": {
+      "sdist": [
+        "9d15cbb1c97ae9ae85e5de8b9c790c3feacc80da2a5bb206886f454e0948ef12",
+        "aws-cdk.aws-medialive-1.63.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_medialive-1.63.0-py3-none-any.whl": [
+          "e60093bd13ea83a07cad517cca1cea13ebc4e4a50c6001819f84700a6a33bd17",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "88736375301ce389a10671da5e1c65445957ab9ba6bcc63121f8e75df5d12286",
@@ -8377,6 +8389,18 @@
         "94a12e2a09e29b724e2bc11d3484a87a99a2257bf19c4e66d09579f68fc1752e",
         "bitcoin-utils-0.4.7.tar.gz"
       ]
+    },
+    "0.4.8": {
+      "sdist": [
+        "c4e8bb96bafb6b427aec1183c4ad842c35b2faf86eb852d6ef7dca5f2cfdbc13",
+        "bitcoin-utils-0.4.8.tar.gz"
+      ],
+      "wheels": {
+        "bitcoin_utils-0.4.8-py3-none-any.whl": [
+          "3921e845837e2e84685d7f829bae347382747e1001cedec6932bcb5f3d6253ae",
+          "py3"
+        ]
+      }
     }
   },
   "bithumb-bot": {
@@ -27368,6 +27392,22 @@
         ]
       }
     },
+    "0.19.2": {
+      "wheels": {
+        "IBATS_Common-0.19.2-py3-none-any.whl": [
+          "e6e1b09ce3fb2928b97c8b42c9c1e235e151bf5a72279a833d09987237136d93",
+          "py3"
+        ]
+      }
+    },
+    "0.19.4": {
+      "wheels": {
+        "IBATS_Common-0.19.4-py3-none-any.whl": [
+          "8a0c2c274172275806e50a1de766ad1febdfb78cd1f501efd055845617841cd7",
+          "py3"
+        ]
+      }
+    },
     "0.2.10": {
       "sdist": [
         "9ba3dae6789e1a86d52f015fed6e721fdc9a2d97f7014fe17ba0fb4db13ddf16",
@@ -43108,6 +43148,30 @@
         ]
       }
     },
+    "0.1.50": {
+      "sdist": [
+        "aed6b04942d30629d4207cefe3a4917a8a64d552097b31b0048d8668ca1b3c21",
+        "nbcommon-0.1.50.tar.gz"
+      ],
+      "wheels": {
+        "nbcommon-0.1.50-py3-none-any.whl": [
+          "f7a72471409ef47cdc2e43a189702849256ad097b6f2dbb9a2b7ded9c5e2f032",
+          "py3"
+        ]
+      }
+    },
+    "0.1.51": {
+      "sdist": [
+        "45d6d0d3e030cc66ccd1f933cdfff1a8dd9c5f1b03679a1019d6b68d0d79cdec",
+        "nbcommon-0.1.51.tar.gz"
+      ],
+      "wheels": {
+        "nbcommon-0.1.51-py3-none-any.whl": [
+          "76f2ee51182b6b089ad60f2321bce667966134c7afc7dc603018987522a345d7",
+          "py3"
+        ]
+      }
+    },
     "0.1.6": {
       "sdist": [
         "da234dcfe36f48792e380abfa7e7420c6754793402284f06b09adc4224de4f0f",
@@ -57778,6 +57842,14 @@
       "wheels": {
         "reveal_yaml-2.1.0-cp37.cp38-none-any.whl": [
           "ddd24078fe7160b95adbfd058a6ae4665832d801681067557393c31e71c56787",
+          "cp37.cp38"
+        ]
+      }
+    },
+    "2.1.1": {
+      "wheels": {
+        "reveal_yaml-2.1.1-cp37.cp38-none-any.whl": [
+          "614e5a52ddbedf8e52476b50e50dc38a70b8fc8f2bfe2ce91ead5d9bc7ef8095",
           "cp37.cp38"
         ]
       }
@@ -73829,6 +73901,34 @@
           "cp38"
         ]
       }
+    },
+    "0.4.0.dev20200914": {
+      "wheels": {
+        "tfq_nightly-0.4.0.dev20200914-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "eaba3393a08193d89e01299bdcbb66c65e5192910fca07da3e71091bc521acdc",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200914-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "1332631c06dec41c0bf1fbedde731431ce314128dcfb1bb646fa2dddc2bfb6d3",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200914-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "986be7a2d4c04c835539439c4b298d379348ba3c6890e541f00de8fbee93a828",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200914-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ef06fb2208f5ed832991fb562bc229f1695b3755b1af210b174b7d64ea5751af",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200914-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "76065f295fde3fc683107df30c35b1a75910c62313e96416dbce290c8dc7dbe9",
+          "cp38"
+        ],
+        "tfq_nightly-0.4.0.dev20200914-cp38-cp38-manylinux2010_x86_64.whl": [
+          "15e822a72c0c9a4a6877190a44778ad326e551ce9da6c1302f9be5cb7ece2bb9",
+          "cp38"
+        ]
+      }
     }
   },
   "tgcrud": {
@@ -75979,6 +76079,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "19bf34f2be3f4e75a1a5fe63540067d1617f106052b5187913b29a96167b5dbf",
+        "vsdx-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "vsdx-0.2.3-py3-none-any.whl": [
+          "75eb574d510e7d15a0928a198e92e6357db88e2d6fe48934a44dbad0429bd773",
+          "py3"
+        ]
+      }
     }
   },
   "waitredis": {
@@ -76120,6 +76232,18 @@
       "sdist": [
         "e72ec711d10b4c1aa22afd18ed412d7a92a3ec785beedf1235c83ac74cda2e4b",
         "wcs-python3-sdk-5.0.19.tar.gz"
+      ]
+    },
+    "5.0.20": {
+      "sdist": [
+        "7aed9dede7357dc6d704b5f904d366a808af7bbb5bca9357e2e882d4289cceba",
+        "wcs-python3-sdk-5.0.20.tar.gz"
+      ]
+    },
+    "5.0.21": {
+      "sdist": [
+        "b32afd16e4835eb6803ada6cc38668a8e9e73504261fc707552b761d77a12e88",
+        "wcs-python3-sdk-5.0.21.tar.gz"
       ]
     },
     "5.0.6": {
