@@ -16290,6 +16290,70 @@
         ]
       }
     },
+    "0.2.2.dev111": {
+      "sdist": [
+        "41b46debbcb215e9487bb6643de138af19e41ccf7eaf14ffcfa5919f15b45418",
+        "duckdb-0.2.2.dev111.tar.gz"
+      ],
+      "wheels": {
+        "duckdb-0.2.2.dev111-cp36-cp36m-manylinux1_i686.whl": [
+          "2ea04c3671e0f8ad9f26fae76a6003af13a907b596e2d2f8ed1a71841ea57398",
+          "cp36"
+        ],
+        "duckdb-0.2.2.dev111-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0414328d5fe17f6a11d15e281fbb15834a6f4fea870eaeb9d65f64ef29fdaee0",
+          "cp36"
+        ],
+        "duckdb-0.2.2.dev111-cp36-cp36m-win32.whl": [
+          "0e76ed767b2bebe756702459373642243f2c7ed6aa1dac2008e3114f03417679",
+          "cp36"
+        ],
+        "duckdb-0.2.2.dev111-cp36-cp36m-win_amd64.whl": [
+          "9e1e12323088dacdec9a41eaed64560fd33f049a00a7a182f4f0c22ca46ac276",
+          "cp36"
+        ],
+        "duckdb-0.2.2.dev111-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "c125dc8e6277415c8d4df1a1252b0982b44ed8345ddd6421143e19f86076c7dc",
+          "cp37"
+        ],
+        "duckdb-0.2.2.dev111-cp37-cp37m-manylinux2010_i686.whl": [
+          "b9d1fac78785df63b902b7ff1ab190fdd9de02d8d6e758b8d14b365c753ca41d",
+          "cp37"
+        ],
+        "duckdb-0.2.2.dev111-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f405b26e15c6dc9575498232d8dd3d582266638b83e98eacf7b7bccb5fe02043",
+          "cp37"
+        ],
+        "duckdb-0.2.2.dev111-cp37-cp37m-win32.whl": [
+          "6ad6c720cdfac3d5b5c7f0ccf02a40ea61ebc69c1e34de302d72691829e486b8",
+          "cp37"
+        ],
+        "duckdb-0.2.2.dev111-cp37-cp37m-win_amd64.whl": [
+          "1c92f22066f0f921d9a059957b54eaaa02f9a1fe5619dd1c8cac74e52f8ab617",
+          "cp37"
+        ],
+        "duckdb-0.2.2.dev111-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "a886e93d1bf5c5c85dccecbc199d83989bdbe01690b9c7b4c78961fa81e4b934",
+          "cp38"
+        ],
+        "duckdb-0.2.2.dev111-cp38-cp38-manylinux2010_i686.whl": [
+          "102f02ebd66fbc08f4c4106a2e414c779fd46e60db4d114f88f2c135ac78869e",
+          "cp38"
+        ],
+        "duckdb-0.2.2.dev111-cp38-cp38-manylinux2010_x86_64.whl": [
+          "7fe776a0d964408d95af2b1cd43a2569f6afb5eba1c181c5c1a66eb1a6b76516",
+          "cp38"
+        ],
+        "duckdb-0.2.2.dev111-cp38-cp38-win32.whl": [
+          "300074860d4f6c33984a26edcce99d6553ad2e9e86f0c76e1504e1d02c94044f",
+          "cp38"
+        ],
+        "duckdb-0.2.2.dev111-cp38-cp38-win_amd64.whl": [
+          "5a40fc0151ecde5c8c9b53c59dd10508baa9d50712dbe525ee32b6403716c2dd",
+          "cp38"
+        ]
+      }
+    },
     "0.2.2.dev70": {
       "sdist": [
         "ca75647271e334ff9a5a7e8d6ebb067c6988a54af9a8cc4a0789ebc63cd078cc",
@@ -30078,6 +30142,30 @@
       "wheels": {
         "mathy_core-0.7.21-py3-none-any.whl": [
           "3a994af524d6625f009814fa699a2e7a8af9c40bf100dec31abb2dc85b82b6a1",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "f73dd0357b73bffb420356b0490da49263e24ffb5d8e2f0267df218f5864e7fb",
+        "mathy_core-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mathy_core-0.8.0-py3-none-any.whl": [
+          "7cb3b3c06b7510ca5e383a3fae342bb8503a1ad722cb258ca0efb17daa27e24f",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "4bf50a9cd93eee40f4eda5a5c5bcb97f805791eecd95d000ad77808269a41e4f",
+        "mathy_core-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "mathy_core-0.8.1-py3-none-any.whl": [
+          "9274d1e9d0987cbedd3b49c8cb36a5b82adb06e3efb160507daa70c11c13d865",
           "py3"
         ]
       }
@@ -62449,6 +62537,20 @@
         "soar_sami-0.2.2-py3-none-any.whl": [
           "d67ce1b799fd77ce027a8196808ae63fb6456238b31d8ffcfd9e7be374e90994",
           "py3"
+        ]
+      }
+    }
+  },
+  "spacy-ray": {
+    "0.0.0": {
+      "sdist": [
+        "edaa1296880a48b0d5d45fa5183964d7eb86b0c20218f43277c8c7561b51a916",
+        "spacy_ray-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "spacy_ray-0.0.0-py2.py3-none-any.whl": [
+          "3e47de910bec87577dfeddf671a52632d0e53345c3a20ffa4af1bd2d1157dc5b",
+          "py2.py3"
         ]
       }
     }
