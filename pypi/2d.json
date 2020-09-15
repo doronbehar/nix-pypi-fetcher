@@ -21473,6 +21473,12 @@
         "ba0c9bd2e336cc4b810236195f8058f1c4eb03f92670c4595fb713210bd5e167",
         "geoid-1.1.2.tar.gz"
       ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "7a07b6e440925a0d8246de111b348eca998d02600b13aeacc3aa6cdb9b9ebfbb",
+        "geoid-1.1.3.tar.gz"
+      ]
     }
   },
   "geopatra": {
@@ -23890,6 +23896,30 @@
       "wheels": {
         "GusPI-0.0.53-py3-none-any.whl": [
           "2e0a513eb9aee69fb51030084b1baedabb88613276808e90e9cdc50db885bc56",
+          "py3"
+        ]
+      }
+    },
+    "0.0.54": {
+      "sdist": [
+        "35ebf8cc4f59ab8d616c2ff8ce094e2e4640135d68438478789e7208a89aebc3",
+        "GusPI-0.0.54.tar.gz"
+      ],
+      "wheels": {
+        "GusPI-0.0.54-py3-none-any.whl": [
+          "fae97100d5259e0a5116b53a14eda1b670b0add65166015bda7dea636c9544c7",
+          "py3"
+        ]
+      }
+    },
+    "0.0.55": {
+      "sdist": [
+        "63f6477b3727df21f0471cbc6f3c4dcfaa2f3cffd2d97baf41d16846047ca4c4",
+        "GusPI-0.0.55.tar.gz"
+      ],
+      "wheels": {
+        "GusPI-0.0.55-py3-none-any.whl": [
+          "822ab7040f41aaa70258c532f16e95b40145f0e1c5f220148e74d8cdedcc445e",
           "py3"
         ]
       }
@@ -38178,6 +38208,12 @@
       "sdist": [
         "f287aa5bfad0faf3fc188507a181f66f65fd702b189e862ef384e7b6b6adcab2",
         "paymentech-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "c192097dc1fe7f99eb4b01c6b3f62f6fabdc7ff484bd8768838c1b9cd3f0d15d",
+        "paymentech-0.1.4.tar.gz"
       ]
     }
   },
@@ -54707,38 +54743,270 @@
   },
   "strontium": {
     "0.0.1": {
+      "wheels": {
+        "strontium-0.0.1-py2.py3-none-any.whl": [
+          "93441c946f6a7afe7e15d22ed0231910f3a77c87630445d1d091f722a362913b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.10": {
       "sdist": [
-        "b5c2ded51fff85a170e279534d7fc5e9aa8dff141a37298a050086a0d9f9c04a",
-        "strontium-0.0.1.tar.gz"
+        "2b012d7d9a185ff0d0e72c156ec96e10bde554eead25b7fbaf7116332752ee97",
+        "strontium-0.0.10.tar.gz"
       ],
       "wheels": {
-        "strontium-0.0.1-py3-none-any.whl": [
-          "863a8ec0232c69d3b784804f9225535a4bfcac21227f5307ea226aca847fd5d1",
-          "py3"
+        "strontium-0.0.10-py2.py3-none-any.whl": [
+          "073e41d2a767b7617dad50e802b716c469cd616ee78be98e2921d725e5127323",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "e7b9dbd2bbb1fb9393994064dd83539e4350eb25e0946e0e4dababc4714a695d",
+        "strontium-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.11-py2.py3-none-any.whl": [
+          "1fa52724dc249e79e6d968ad20d69128f0f67e411185727f2f9a69155dadc3a9",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "926e81677998c55702032df0cf270ae0274ccf529296459cdf0fd6107188756f",
+        "strontium-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.12-py2.py3-none-any.whl": [
+          "000ebd3bf964c5cb1c089b2a47b1410f1313a339b7479b89659248176d699345",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.13": {
+      "sdist": [
+        "bf3ad73ab5f7dec67e40e1a36e47d05b6ecccb108e49683e9f592e4b5457983d",
+        "strontium-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.13-py2.py3-none-any.whl": [
+          "6f3ccee0459c2b843216fa5b7698ba950dfec267c00cdfbd73697f1b9a5fa4a2",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "d887092d56634ed779470d104f3e2087e5182bcff6e3bf91a9ec354becd4df46",
+        "strontium-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.14-py2.py3-none-any.whl": [
+          "60a9a03b3f33e2df898b4c16b5cb84830a5b3fb3c7ce1602d606cc009cb785d8",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "9cb7ab77163c11e11027b17e4b2c5785a9d97351b69eb18fcfcec61e1db4c8e7",
+        "strontium-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.15-py2.py3-none-any.whl": [
+          "2c22074a8a11b0de869920b724f1fb008b01b9a88b252fb12e0e890d01981dce",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "526225f20b40b8e1353f2d21ced51fddab62c271ddfd115a3f683f0ebacabb72",
+        "strontium-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.16-py2.py3-none-any.whl": [
+          "dbc418340d60117be111010b6abc089a97ea4d0e75e9d662508bb784b9aea18d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.17": {
+      "sdist": [
+        "78afabae3baf5a985f32253339f5591271dfce0a326749a13ba4befd958c2d48",
+        "strontium-0.0.17.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.17-py2.py3-none-any.whl": [
+          "8daf97e3a5320c2e91f1a2f08f243ef1bdf19fdfcf94439261dbe5d97be338ca",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "475817910c60a9b3a3b53e913edf7f2587923d7370115bb8bacfd093fbb812c7",
+        "strontium-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.18-py2.py3-none-any.whl": [
+          "b072c96e22b276dd9965f0be4b47029ba28da70e124acbc7916788dfc25c9cc8",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "sdist": [
+        "bef753780133ce9a895cb1bac139856f20f2321362777c49ce79311bb9877b35",
+        "strontium-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.19-py2.py3-none-any.whl": [
+          "b68c21e4024594b6043939ed7753dd3d5a6e1d0c0e57190b90b066f921bcbc5e",
+          "py2.py3"
         ]
       }
     },
     "0.0.2": {
-      "sdist": [
-        "76af6dc061e4a308925939b9013aaf5a629e5c24e549511a63ac00024d44a19a",
-        "strontium-0.0.2.tar.gz"
-      ],
       "wheels": {
-        "strontium-0.0.2-py3-none-any.whl": [
-          "284fe16211088371fe7c6000ff8541630a00955afffe9e6db64680af2b351cef",
-          "py3"
+        "strontium-0.0.2-py2.py3-none-any.whl": [
+          "8744f44e64eac0e5c5adce8fc9024509cab9fa85900012b83c19fd2ec9fcc57a",
+          "py2.py3"
         ]
       }
     },
-    "0.1.0": {
+    "0.0.20": {
       "sdist": [
-        "ceb1d4eb8d1582e994fbd0fec516f2d0b074fdfca84b17cfbfcfc316d2b66b4a",
-        "strontium-0.1.0.tar.gz"
+        "e71e4d2c55b8319f59fe9e566168e3185664f061f942841d9146402a16fedfc7",
+        "strontium-0.0.20.tar.gz"
       ],
       "wheels": {
-        "strontium-0.1.0-py3-none-any.whl": [
-          "bdee00c671dd7052973f7dc80b1526cb3c6af73b7782150c527b9401627fecb0",
-          "py3"
+        "strontium-0.0.20-py2.py3-none-any.whl": [
+          "20350f7c3e0e232d0cced8844d034cd5fd8f4fdd06fe165dd04e7cf3482c39bf",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.21": {
+      "sdist": [
+        "32e0cd1cdf8b15c9c6291d352de67c5dd34fc78723f472adafb8047864638c6b",
+        "strontium-0.0.21.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.21-py2.py3-none-any.whl": [
+          "127a62b48f13b5f7ae51169fe5cbe9f642b993a69ea88859eb6f21578c4226c2",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.22": {
+      "sdist": [
+        "9ff7a9a40011354c1a12c1232a684504f4f7e430ef3a2937ef6aade9a2fe54f0",
+        "strontium-0.0.22.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.22-py2.py3-none-any.whl": [
+          "8e3b20bba0927fb835c166be8027cd31aaf1e85a1e0a99951d2d8241e9684cc4",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "sdist": [
+        "d4149c90701274a0e40a7df049f6228a358e6625f8018d496fa7a6736a32cd73",
+        "strontium-0.0.23.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.23-py2.py3-none-any.whl": [
+          "ccd0010008ed783bddb7bb228afee6ebc918da8995388c6114215eed4a044f51",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "3c34dbecbe68ae9ce05650d1a68486be546d2fadfbdb6f1be5ed7083e648e99d",
+        "strontium-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.3-py2.py3-none-any.whl": [
+          "c2965f4859548def24048d86b26a3cda023dd01d2d6b8474cadaa13086937e08",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "bb94cf3c7dfbac93327fc8a15a7909095fd906f2c6e2b119dfc6190b67c484b7",
+        "strontium-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.4-py2.py3-none-any.whl": [
+          "44142938f3ff586d04c0748e11e0f78ea12a5815e91e22ec2c051586b9aeb74c",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "92d709f8193564a651e50341082d8ed16868cfb7aa7481f43fa315d8544a6a17",
+        "strontium-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.5-py2.py3-none-any.whl": [
+          "5ccc296b3445266999fc7c6852719773b39d78a05e48160e529d8df316b67507",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "9e118884c5ce5cb1ba8858d4c960b0cf638f8ed227de6940f4d201180301763f",
+        "strontium-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.6-py2.py3-none-any.whl": [
+          "78c22a6119e24bfd4fb38461a085bba9c8a070678899890aecfd799483038bf7",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "e602f265200e13b7fd20074cf27e842f252ea6f05ec42bb1fec828a3e164f2c4",
+        "strontium-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.7-py2.py3-none-any.whl": [
+          "b382c3e51b79d9df95445b41183b35db35606c20490ffe3ab2ad1086c1c5271a",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "51aefd8aad4c7b2759c446b4b0adbba5c78cb44a1accead57518bd60b5fb2bf3",
+        "strontium-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.8-py2.py3-none-any.whl": [
+          "62fbf91296b295f2c8f1c15048795a95ef015088b77a73dfeb12355050f5aa3d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "0db48268c42678154024e20ed33e189f2080c3b8d90d24cc4db1387927bb4eca",
+        "strontium-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "strontium-0.0.9-py2.py3-none-any.whl": [
+          "bd3719e77f76febe7c360f93fa7a96dba3f1089b559e45a8df7cb5fea5551bcf",
+          "py2.py3"
         ]
       }
     }
@@ -56574,6 +56842,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sts-3.0.255-py2.py3-none-any.whl": [
           "1e545f37a20a90175ea2fb12f974b137572ab08ae0869ced48bbec8350f5b06d",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.256": {
+      "sdist": [
+        "7edcd5c1fff78a0d30205443211762f31c1af7a7b45509b7f4062f40aecd1c24",
+        "tencentcloud-sdk-python-sts-3.0.256.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.256-py2.py3-none-any.whl": [
+          "e079fc35a5f0884498b7adbe0653b45c099137777862ab23cdd2ffe8fad75066",
           "py2.py3"
         ]
       }
@@ -60476,6 +60756,12 @@
       "sdist": [
         "05c53fc01a04efa55ce299aefba6d6eed5c897b5dc97aeab1a2433b17ab59dd1",
         "wtss-0.7.0.post0.tar.gz"
+      ]
+    },
+    "0.7.0.post1": {
+      "sdist": [
+        "0ab7137addd70e707cb827a8c09e1c07342304b4ae26fab39bcf862add606039",
+        "wtss-0.7.0.post1.tar.gz"
       ]
     }
   },

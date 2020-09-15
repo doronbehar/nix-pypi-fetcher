@@ -9867,6 +9867,14 @@
           "py3"
         ]
       }
+    },
+    "1.3": {
+      "wheels": {
+        "clilib-1.3-py3-none-any.whl": [
+          "ce2f8ab49c2849e792e78995fba63e91d505f617dfb4dfc4e791751981e028f0",
+          "py3"
+        ]
+      }
     }
   },
   "cloudview": {
@@ -20149,6 +20157,18 @@
         "deployhub-9.3.95-py2-none-any.whl": [
           "600ce8f21cce8074f66d064b464bb038cf783ba3a39f3e307353a1d5aabc9ef8",
           "py2"
+        ]
+      }
+    },
+    "9.3.96": {
+      "sdist": [
+        "85924cd1889e7dc23eaaed5b34b5708644039d2e41991615fc0241048b6c28f3",
+        "deployhub-9.3.96.tar.gz"
+      ],
+      "wheels": {
+        "deployhub-9.3.96-py3-none-any.whl": [
+          "29f34c07dc677df213773d490da9d4bb310fcf8654ae4d107fd99583448fd967",
+          "py3"
         ]
       }
     }
@@ -33271,98 +33291,6 @@
       }
     }
   },
-  "google-cloud-functions": {
-    "0.1": {
-      "sdist": [
-        "8746ac72a41d3d8297bf76a93c109b276d7d098f02cfdd206d7be4db4999d4c3",
-        "google-cloud-functions-0.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "633e80c10eef44bdf206ed4f1d30779de4f77903f63890f24ed2eef116697ae9",
-        "google-cloud-functions-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.1.2-py3-none-any.whl": [
-          "37df89d9377472a329cbe66bf6c646c772fbb8c76931c98b38d20bd5dd5aa7fc",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "a853b40fba05e1ece7a27a4703839cea8509df247d98dffb20e343c4ffe95704",
-        "google-cloud-functions-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.1.4-py3-none-any.whl": [
-          "4db05cd164377b37f2dfb9a7839b4e98f95402e5b52aca6e0d136b7667e7071d",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "7cf4c4ec8ac3d4a03a2bbf0053f263ddbe3dbd3278e73d3a3077069fc6277cc8",
-        "google-cloud-functions-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.2.0-py3-none-any.whl": [
-          "0387fa0d7f43771bbab5c6b06f6cb639808eaf56770af7369d084bfc1d4b2ee2",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "a88a2d3cd91a4a39e1e11eeaae1f780c11ba27b40a38177142ca9e67aafb9dbe",
-        "google-cloud-functions-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.3.1-py3-none-any.whl": [
-          "196bc17c7fd922829f2fb1ce872a09ca41728564f3010887b67cd9e4d461940f",
-          "py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "a88af947f6b34935a9ef838ccd0f6889c2589372db9d26e3bccfdd00a7aed621",
-        "google-cloud-functions-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.3.3-py3-none-any.whl": [
-          "0105d00605858e812c935b91200241c4b79752efe25abb0f688e90601933cfde",
-          "py3"
-        ]
-      }
-    },
-    "0.3.5": {
-      "sdist": [
-        "e2b567feecf398c7d96a2fec8cb9a49abca57cfe12ccf64fecc454848b3b703b",
-        "google-cloud-functions-0.3.5.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.3.5-py3-none-any.whl": [
-          "628084e26834d026dbe2493b3df9b0a6eb143b3a2d1156b3d0d7acf76b04ec82",
-          "py3"
-        ]
-      }
-    },
-    "0.3.6": {
-      "sdist": [
-        "9d0f2f2581dce1a07d6c541a5c921eb7d99ed71796421eb12ab71600c356ff91",
-        "google-cloud-functions-0.3.6.tar.gz"
-      ],
-      "wheels": {
-        "google_cloud_functions-0.3.6-py3-none-any.whl": [
-          "66573620e5f45144d5671e3b98f65d9b17f9ff28aa614ce2e1429fa83103719e",
-          "py3"
-        ]
-      }
-    }
-  },
   "google-oauth": {
     "1.0.0": {
       "sdist": [
@@ -44716,6 +44644,14 @@
       "sdist": [
         "3683df30b88a01d66cfda3ddcae99fa5d95dea1261ef6dc94b5d3bf00f821d26",
         "Mopidy-Touchscreen-1.0.0.tar.gz"
+      ]
+    }
+  },
+  "motional-lsn": {
+    "0.0.0": {
+      "sdist": [
+        "b1d7bffda527b2c37df065ef7795de7eb081003db2d3035a1eaf30b7b66e9c93",
+        "motional_lsn-0.0.0.tar.gz"
       ]
     }
   },
@@ -69981,6 +69917,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.256": {
+      "sdist": [
+        "a6966a22410388f47325f6d1a1ca2a0fdb8d7c7939aba9b30071bcae4a50952c",
+        "tencentcloud-sdk-python-dayu-3.0.256.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dayu-3.0.256-py2.py3-none-any.whl": [
+          "74d9bcadbe19b483bf8c25caf37fbb86691989432e1c7d7e64239ef09981d403",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenform": {
@@ -74208,6 +74156,30 @@
       "wheels": {
         "wasu_test-1.0-py3-none-any.whl": [
           "ca26ee070a5ed15bf75075bede1dd2d32ce9f4b041d12b8840cb9126fb403c9e",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "b0f2c86b90183ce537801595b621c334aaea3c1652c1da8dc86c95ebbc3e4151",
+        "wasu_test-1.1.tar.gz"
+      ],
+      "wheels": {
+        "wasu_test-1.1-py3-none-any.whl": [
+          "f6eac25139163c7316bad351e32309d14c389bb25fb91cb26fcaf7ca33e7f52f",
+          "py3"
+        ]
+      }
+    },
+    "1.2": {
+      "sdist": [
+        "8e2898d880748ab2bce61760fb960656f68a3245723112c5c00d1bb600588703",
+        "wasu_test-1.2.tar.gz"
+      ],
+      "wheels": {
+        "wasu_test-1.2-py3-none-any.whl": [
+          "a251b4a5f4e61855597bc49e75e3ad277ae81ee5875997354873d6c8e3ffe19c",
           "py3"
         ]
       }

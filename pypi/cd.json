@@ -4841,6 +4841,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "b9c02d507a9137f7c80c3755c15b2ae71a65a7edb032413f6e9ff599224af197",
+        "chino-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "chino-2.1.1-py2.py3-none-any.whl": [
+          "329c6971522aba680232885b1625686891a106785db104776cec9b37b1b41375",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cidc-api-modules": {
@@ -5226,6 +5238,12 @@
       "sdist": [
         "c220058522b7686e74da8b08358cc269d0ce9850fda00ce99dcd056834c80852",
         "cidc_api_modules-0.2.2.tar.gz"
+      ]
+    },
+    "0.20.3": {
+      "sdist": [
+        "51eb33a3995f621d3978eceb16c3557b411365f0e1489a906f93e4f8810d92b5",
+        "cidc_api_modules-0.20.3.tar.gz"
       ]
     },
     "0.3.0": {
@@ -15766,6 +15784,12 @@
       "sdist": [
         "1e581c635dab0e926bf0554ce7d9312940039f1fb95d593a3f344807eb44599b",
         "Flask-PASETO-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "0ff4bd994456a3cd3156e0112053a357183363a6a84b5b705f4698e0da4b38e0",
+        "Flask-Paseto-0.0.5.tar.gz"
       ]
     }
   },
@@ -50805,6 +50829,12 @@
         "115fac09beee868982d52ef9117af6c233a3cdf36d242913b0e70741bf5d8be0",
         "pycopy-sqlite3-0.3.1.tar.gz"
       ]
+    },
+    "0.4": {
+      "sdist": [
+        "33fec71eb3a88cdfec53e362b30914bd9843538acbb56391a0423689a1bba105",
+        "pycopy-sqlite3-0.4.tar.gz"
+      ]
     }
   },
   "pycopy-symtable": {
@@ -57686,6 +57716,18 @@
       "wheels": {
         "pyscaffoldext_django-0.1b1-py2.py3-none-any.whl": [
           "57062cd80e79aa9da5415976e2913babab1dd6a2339bfb63e6280fe55e2ec566",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1b3": {
+      "sdist": [
+        "33267acf607af55cd244382d690c9a8dcd59bfd892386c3a6c1a2d99dce38a78",
+        "pyscaffoldext-django-0.1b3.tar.gz"
+      ],
+      "wheels": {
+        "pyscaffoldext_django-0.1b3-py2.py3-none-any.whl": [
+          "9b045f9076990878eb6374cb57c234d6691582a42ef61ee3985c63d447acb9c4",
           "py2.py3"
         ]
       }
@@ -73042,6 +73084,62 @@
         ],
         "viztracer-0.6.3-cp38-cp38-win_amd64.whl": [
           "7e4e5b6f43d97d8659e12ec3059dfd72595eaf23a745af7b2415b045aeb0d6b6",
+          "cp38"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "c8d1c5c27e69a749528061936f0f77744a2b6172652cbd8b04471d899c8034a2",
+        "viztracer-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "viztracer-0.7.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "6d714fa260d17d84deb925dd63f6cd46f816a97dca9c02669df35329eac53eda",
+          "cp36"
+        ],
+        "viztracer-0.7.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "59e81ff4a09b573175b4e9f26e5c4a5209137359f339751e36a83779c82a7493",
+          "cp36"
+        ],
+        "viztracer-0.7.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d017c49e75b7d1186e791f04c874bd4c829040285635be035371a45b5375a346",
+          "cp36"
+        ],
+        "viztracer-0.7.0-cp36-cp36m-win_amd64.whl": [
+          "413ec213e5b9567129cee3840725db2bc7fd1129719e5e2ca44bc6282411498b",
+          "cp36"
+        ],
+        "viztracer-0.7.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "3f7221faa7ff4156cb3f0aae779e6a0ee955567d482333be6a3492bbbb0a18a0",
+          "cp37"
+        ],
+        "viztracer-0.7.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "e75bbc833dcf3fedc403500bdfe209fc67ce6138c712c1b05c04c64f1eb76478",
+          "cp37"
+        ],
+        "viztracer-0.7.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "bdb4ff7b245cb100470f2f9acec698eb7a9c684b89f0ac505ba76a3cebd61c74",
+          "cp37"
+        ],
+        "viztracer-0.7.0-cp37-cp37m-win_amd64.whl": [
+          "d976486edbf0fc3b4d03087c842c182d98474f5cbd2a6871091dc771c74d62cc",
+          "cp37"
+        ],
+        "viztracer-0.7.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "3354d70a5e4852fb32eb3ee775c08ff466c14076e412fe46b8001edbe355dbb4",
+          "cp38"
+        ],
+        "viztracer-0.7.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "8cb47c414b54d512e80e6d8de5561610129f68319c307e3f8effe3f136b5fb98",
+          "cp38"
+        ],
+        "viztracer-0.7.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c0a946739b42bb06af752ac8228e73bc08e92952d92fed695805472dce80925f",
+          "cp38"
+        ],
+        "viztracer-0.7.0-cp38-cp38-win_amd64.whl": [
+          "b290c218acca7aad73c182bceb2c1fe23b06e922105141015c55badc1c33bfd6",
           "cp38"
         ]
       }
