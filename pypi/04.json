@@ -751,6 +751,12 @@
         "45fbc2a810f8dc15f67edef4ec0166b2175aa9a89a6eaebe6aecf50d839bab5d",
         "aliyun-fc2-2.4.0.tar.gz"
       ]
+    },
+    "2.5.0": {
+      "sdist": [
+        "f353b05db56d8ed2bad868857e89f21a7d6a56a0f5cb098750bd783fac007f83",
+        "aliyun-fc2-2.5.0.tar.gz"
+      ]
     }
   },
   "aliyun-python-sdk-fnf": {
@@ -11062,6 +11068,18 @@
       "wheels": {
         "chaosiq_cloud-0.13.0-py2.py3-none-any.whl": [
           "bbed79953a732130cf9df6f55e904e10e3af366d476ac7da078a79456c3d6617",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.14.0": {
+      "sdist": [
+        "288d7bb6812fc0d9a461188b02a82ff25ad2031fceb31ebd1891f2f2582c7511",
+        "chaosiq-cloud-0.14.0.tar.gz"
+      ],
+      "wheels": {
+        "chaosiq_cloud-0.14.0-py2.py3-none-any.whl": [
+          "9746cdf1fc25ddebd0473dc496a432f01ee7f08d6508eda92ad6ebced34b71a1",
           "py2.py3"
         ]
       }
@@ -28353,6 +28371,12 @@
         "a5aca294ffc5b35600c6c585ea98c032a0b1b9abdc83a371d16d2927c0af6b7d",
         "ESGConfigParser-0.1.9.tar.gz"
       ]
+    },
+    "1.0.0a1": {
+      "sdist": [
+        "ec83c5108905df3bbe4d1ba5488c0fe4fefcee29d709a9468d7476e942131639",
+        "ESGConfigParser-1.0.0a1.tar.gz"
+      ]
     }
   },
   "espnet-tts-frontend": {
@@ -29518,174 +29542,6 @@
     }
   },
   "facebooker": {
-    "0.1.0": {
-      "sdist": [
-        "9799953b395f4f30c8609e8646c9eab4e0e77280d08c511e88147340cd6f251b",
-        "Facebooker-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.0-py3-none-any.whl": [
-          "a2f6ef3cda8e121d09e0a8473e5bd9630eaa2b0a60650890f6dfa8c43d38bd67",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "612e6b3194ec3a98e0b8c112c2c298c318e266c4ee45f791031b499c2fc540cd",
-        "Facebooker-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.1-py3-none-any.whl": [
-          "f14e4a771c29c91158f187cc9dcfc502e4ec1d868bdfa90b57730ea68efa7d86",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "ede783f71f99533e800a54aea73a31816657382f1b0d7129c659afc66fa28c24",
-        "Facebooker-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.2-py3-none-any.whl": [
-          "c599d5417f324696b93b737abe90a15fd376b608e7a8f66b08d5c84bee32e102",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "227737add0262f57460003ee211511b9f455956a75a9aaf14fd1ad7622cb1dd5",
-        "Facebooker-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.3-py3-none-any.whl": [
-          "2bbb95ddaaa8834eaf5c029b42a4c79a414545b472f83bdd544a94224b281b30",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "9263c77f9281e548e2839a72990629a53642611d8dde60f0c6cbaa5afc1a0714",
-        "Facebooker-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.4-py3-none-any.whl": [
-          "fa27e78551ea6c00080ae896f72ca649140e7afe30beb1c5040edc6f2e6f2e94",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "6c8176b1f9de2479264c3fc57cd8726a3be678c61576f1140a91688bb80d08c1",
-        "Facebooker-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.5-py3-none-any.whl": [
-          "8333275036c7f2e300e9e88190c2155f3ab47d81e1e1683e2c805283a9728d2e",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "5197c1029e946d5adcfd7b897d3d96c81e525c5194e8bc0b88b4648ed811e45e",
-        "Facebooker-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.6-py3-none-any.whl": [
-          "60bab0bdb5234af0f25848840484bef9a5a97165914104c4eefd119630355185",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "1f3e7d2a51c15e35b893a6ff047e7331d55403dd1e72da40ffc64272c0b27f79",
-        "Facebooker-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.1.7-py3-none-any.whl": [
-          "1d1b582ac3984878e4b620ec2d542ebc3ed76b4962790da1c36871533023114b",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "1297b4f87cbd1b3b90bc572917ba36a63d9cd89ee8eeedfbd2e447afc8d09e60",
-        "Facebooker-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.2.0-py3-none-any.whl": [
-          "61585c81896d3f55c9a9b6fa56ab0edd226960e5999fdf5dfa9bae860339c29e",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "75e4339cf2be9fbabfc8d9976738aa5fe8f4e9bddf73b5e29925a70026171755",
-        "Facebooker-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.3.0-py3-none-any.whl": [
-          "a9fc43423e7c5528a875b02ef0110e42429dee3378e2ca43fce2bd3dbdff8c1c",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "cd8ee5ec3cc0eeb09f23bc86441b75a5c3e262d23593d8c4f53d61b078eeb4fb",
-        "Facebooker-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.3.1-py3-none-any.whl": [
-          "4849c5fdc22ebd40c362c1b5616de565d6740a00a2304fad7be302eb5e930da6",
-          "py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "ca5801752a64f80751a1a9767595cdcd580f22c2f6cfe2f11f837a8c12e08270",
-        "Facebooker-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.3.2-py3-none-any.whl": [
-          "852db98dc8d8e49e435496d72a650e322e0611315c15b1591049eb38f66b8301",
-          "py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "7b5757132fe9e025c102f7bb8aa3cd0ac02f835c7b8dbb5bde574f41204956a1",
-        "Facebooker-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.3.3-py3-none-any.whl": [
-          "e0fc8283850947bb097476533a4c3999161ae98ff43566fbe071d6ea35d94c0f",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "17f1057b4247125178c47fce98148eee05e9b6e3b493cdeb52d76dfa5997e2c4",
-        "Facebooker-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-0.4.0-py3-none-any.whl": [
-          "2af65956d29d4a01f6555099ab52d2d8bc4e8e9c01880f33553bce4b6d07e383",
-          "py3"
-        ]
-      }
-    },
     "1.0.0": {
       "sdist": [
         "6342e445fb19443f4165c2d8cf5e40a6a53de358d01e936c473675130ea08958",
@@ -29718,18 +29574,6 @@
       "wheels": {
         "Facebooker-1.0.2-py3-none-any.whl": [
           "c85054bea8947fb6215169c5ad26da931b3afd2fe9157deb57ad8cf9a19d816d",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "d796f92b792b25706dd0e5455c553653eb8d00c41ada42bc4100b43572e7c4bf",
-        "Facebooker-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "Facebooker-1.0.3-py3-none-any.whl": [
-          "388975e681fe88dffcb3ca2fd43e02cbe465bc5f228242c0450908879d302382",
           "py3"
         ]
       }
@@ -49152,6 +48996,18 @@
         ]
       }
     },
+    "1.14.61.0": {
+      "sdist": [
+        "8d7f0b527f49cd2dd634d76e603740aae63703ec5fb732d9fbab97b1e0624186",
+        "mypy-boto3-codebuild-1.14.61.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codebuild-1.14.61.0-py3-none-any.whl": [
+          "3b2266aa77d895e9a56258f9dd42892a9fd8bd077a25a2f7ec6f805de25cb871",
+          "py3"
+        ]
+      }
+    },
     "1.14.7.0": {
       "sdist": [
         "3cc9ccc57caa7b21e0b66acd1c5a9bc794cf7e59cfa15b3c9866e00c28c43a05",
@@ -50962,6 +50818,18 @@
       "wheels": {
         "mypy_boto3_outposts-1.14.60.0-py3-none-any.whl": [
           "fa7fa4bf8298ea9cf75bfc45eab3b42f15844713cbaa2d3364ddb023115c0d4a",
+          "py3"
+        ]
+      }
+    },
+    "1.14.61.0": {
+      "sdist": [
+        "dd383935e144ff67109346207e4de8dbc8aa23b97898f4c2a4629c3d437fa6ef",
+        "mypy-boto3-outposts-1.14.61.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_outposts-1.14.61.0-py3-none-any.whl": [
+          "d7489104d1ecac6f54d46275db360250c0db512a6e3c9d34b50e52a230439d37",
           "py3"
         ]
       }
@@ -75671,6 +75539,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.256": {
+      "sdist": [
+        "1c036c31eb8a3ae9791ed0abe35d8cec6ec14fd0ca84afd3e781de3d30cd394e",
+        "tencentcloud-sdk-python-rp-3.0.256.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_rp-3.0.256-py2.py3-none-any.whl": [
+          "24ae26ffb942d24cab23e7d67763e0883e0f0e0e32a5d6fad3b1008ee4e2c10e",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tmt": {
@@ -75718,6 +75598,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tmt-3.0.255-py2.py3-none-any.whl": [
           "3a9ca9bc4006630ef9e2d0c05d91daf8da6c8400da929144059491e30a3ef81d",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.256": {
+      "sdist": [
+        "21eaa6474e5452841a75008b281def3596c9230548a798e128fb28786b5d65d8",
+        "tencentcloud-sdk-python-tmt-3.0.256.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tmt-3.0.256-py2.py3-none-any.whl": [
+          "f4ae1a4aee0798e3114d0cb6d19cc056b2a9fac80fa8851a0f3ceea58b7dd752",
           "py2.py3"
         ]
       }
@@ -82964,6 +82856,18 @@
       "wheels": {
         "Wand-0.6.2-py2.py3-none-any.whl": [
           "b56b96189df2ac3db586afdc6ba67ca37c886d234c3fd98d94172f03248a8e3b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "d21429288fe0de63d829dbbfb26736ebaed9fd0792c2a0dc5943c5cab803a708",
+        "Wand-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "Wand-0.6.3-py2.py3-none-any.whl": [
+          "566b3d049858efa879096a7ab2e0516d67a240e6c3ffd7a267298c41e81c14b7",
           "py2.py3"
         ]
       }

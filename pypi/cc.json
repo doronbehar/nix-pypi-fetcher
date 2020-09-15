@@ -32405,6 +32405,12 @@
         "fc672512d8ead9d655bd8ca6cf927a725ba2d0931b14c9d0ecd1ff6f02ef0d9f",
         "labstep-2.6.0.tar.gz"
       ]
+    },
+    "2.7.0": {
+      "sdist": [
+        "26f13eba956197ca50649df3d0357fc9e3d9cf7c197382636779ee8fce7911b3",
+        "labstep-2.7.0.tar.gz"
+      ]
     }
   },
   "lahiru-distributions": {
@@ -41715,6 +41721,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1.99.dev4": {
+      "wheels": {
+        "odoo12_addon_product_bom_revision-12.0.1.0.1.99.dev4-py3-none-any.whl": [
+          "70da547812e720903afdbdc50d7de2c50d9be1ea7620c85d76fb2e372441e06a",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-web-widget-mermaid": {
@@ -49178,13 +49192,25 @@
         "pyshtools-4.7.tar.gz"
       ],
       "wheels": {
+        "pyshtools-4.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "b9ea7681fec08e5921eb8e2709dd2f9dd25e4057d933a65db87d99df138ed4d6",
+          "cp36"
+        ],
         "pyshtools-4.7-cp36-cp36m-win_amd64.whl": [
           "00027f5676451c973ce41e8e6c99d0745ada164d35547dbec5dfff01446122ab",
           "cp36"
         ],
+        "pyshtools-4.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a9d65f123808589082416c15d551e4c0a09ad7afc52229729166a8f70d1af11a",
+          "cp37"
+        ],
         "pyshtools-4.7-cp37-cp37m-win_amd64.whl": [
           "0ede2d0b5e5747f939a275ea0108dc0b0a358d338228e699578cfc411dbf29b5",
           "cp37"
+        ],
+        "pyshtools-4.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "470964b061b4a833bae45825357a3d01c8bdf7bc534a5745d8cac8aacc125eb6",
+          "cp38"
         ],
         "pyshtools-4.7-cp38-cp38-win_amd64.whl": [
           "3f2304555e09920e6ec7fa669fe0dd4dd9fe0aa00dac43c18736d5333a68c085",
@@ -52243,6 +52269,120 @@
         "9abb321918ba4f4cd99119b26298ef3fa19cd9f71564269b8887377705703d42",
         "risset-0.3.3.tar.gz"
       ]
+    }
+  },
+  "rjieba": {
+    "0.1.0": {
+      "sdist": [
+        "8f409ecd89f216bc5045975538d362a920674959c9883c61bb6344c61f51b747",
+        "rjieba-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rjieba-0.1.0-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "64f6dfc5b2121b58394c051ba32e9b14092f3647fb44f62672af72bec5a958e4",
+          "cp35"
+        ],
+        "rjieba-0.1.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "7e16db75a2b6c0973c253eefb701f0bd7aed382f626479db45496bffc1d6a047",
+          "cp35"
+        ],
+        "rjieba-0.1.0-cp35-none-win_amd64.whl": [
+          "d79a70b6b968c4030e5216c43272162734d01c886e2fd8237c0ab17e6b420ec9",
+          "cp35"
+        ],
+        "rjieba-0.1.0-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "8bcd010dbbe01391e853934fa160504218171c277a704a47c232d7bb0c5a13d2",
+          "cp36"
+        ],
+        "rjieba-0.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "76f001ee63d116515817c886a744be34b9fdf46b166420091e332f1222e5957e",
+          "cp36"
+        ],
+        "rjieba-0.1.0-cp36-none-win_amd64.whl": [
+          "8542b1667ef4aca6fb16e6cd41d66d820f1e5cb5920d09eca19d571d7392f34e",
+          "cp36"
+        ],
+        "rjieba-0.1.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "ccc1b74018c2cd357676027c869b30afe713c08a6f53dd4373783eb73c419b44",
+          "cp37"
+        ],
+        "rjieba-0.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2a0a0aea1fb213ce811ea357a41dcbf1a06a120a650a501ea7c5d307b7114da3",
+          "cp37"
+        ],
+        "rjieba-0.1.0-cp37-none-win_amd64.whl": [
+          "443cbb2ae3cb615a16f58d970bd090eebe5b586334c10789f153bafc228fc28a",
+          "cp37"
+        ],
+        "rjieba-0.1.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "407db920aa51dafd6647243f3ff4e563b5b01d0cd016be2a2d4c499424ea4bcc",
+          "cp38"
+        ],
+        "rjieba-0.1.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "8795b36e4022737f2c5c508ae90c33988d31cf7e76fd2ee53e1ddb3ee3f3ad2e",
+          "cp38"
+        ],
+        "rjieba-0.1.0-cp38-none-win_amd64.whl": [
+          "103553bed18b6bb0117dd8ee0d1f3174e12e9cd6738a914e173f40acc9b9dd4c",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "f84f42761dda0361f51221bb01fa09f652d5f44adef25491ccd2811ce24be162",
+        "rjieba-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "rjieba-0.1.1-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "edaccfa36f040a07b8c4ea4161ca01b303c0dba1156ba5781b1ddd1a567a468a",
+          "cp35"
+        ],
+        "rjieba-0.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "59cc685b8db3a8b23c476e18e22592ee1b07cb329415bc633e34334e5479d973",
+          "cp35"
+        ],
+        "rjieba-0.1.1-cp35-none-win_amd64.whl": [
+          "3c683aa7ef68f7d4189987444ac6504f998b5b52393e0d00f6cd0a61c6b2e3ef",
+          "cp35"
+        ],
+        "rjieba-0.1.1-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "dfa68e62867dd7d86377ade744828a9df196d531a4700a4983d45ab71c78fab8",
+          "cp36"
+        ],
+        "rjieba-0.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ac31458ef5fbde3ffd735124aec66228d8726d0a7400f14eca86161d2f5223da",
+          "cp36"
+        ],
+        "rjieba-0.1.1-cp36-none-win_amd64.whl": [
+          "dbb05c20a5803c031e28670d1170f946cf3173819bde6eb7784f655a88fdb2ab",
+          "cp36"
+        ],
+        "rjieba-0.1.1-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "65c747518c0ccf790365539fc14fd4ada9b6fba1d5c2bd35894436931658fb9b",
+          "cp37"
+        ],
+        "rjieba-0.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d33647abbc318d42db486cdc053dd3660b13b86fbaf241cf44d5345e8ee91808",
+          "cp37"
+        ],
+        "rjieba-0.1.1-cp37-none-win_amd64.whl": [
+          "2c3afda9ada4a82080efe9153635a073c60ee722d8c512baa73fc30d11ea1e8e",
+          "cp37"
+        ],
+        "rjieba-0.1.1-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "84a27a42cbfe892c1cf334a2976dcb8bf61eb53f5d2f5d9f9c636a196ee65f1d",
+          "cp38"
+        ],
+        "rjieba-0.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "9f767d8008469080850ad2b591b2f6c33483ea7abbaa00855690e15fd9d9d88b",
+          "cp38"
+        ],
+        "rjieba-0.1.1-cp38-none-win_amd64.whl": [
+          "00fbfdbc8433e9f6084cb2241e449e198fe0b9331715a1139ff689d0661233f7",
+          "cp38"
+        ]
+      }
     }
   },
   "rlt-json-tools": {
