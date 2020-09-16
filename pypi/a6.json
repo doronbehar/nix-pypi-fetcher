@@ -35128,6 +35128,18 @@
         ]
       }
     },
+    "1.14.62.0": {
+      "sdist": [
+        "2218adc531abaf2a25689583e839e7f4121f95a2615909aa0cbcd66d99d8927b",
+        "mypy-boto3-dynamodbstreams-1.14.62.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dynamodbstreams-1.14.62.0-py3-none-any.whl": [
+          "a9d3d4e167d04ed6ecff0036eb688bd34f170d2bb50b2def31a73a6d31e1d5ff",
+          "py3"
+        ]
+      }
+    },
     "1.14.7.0": {
       "sdist": [
         "71d4ed161d41d2d1fa0de61e7c56a289aa6c020689f6e9e39a9c02de2456c38c",
@@ -37154,6 +37166,18 @@
       "wheels": {
         "mypy_boto3_translate-1.14.61.0-py3-none-any.whl": [
           "2e1b642cadc14345e99a4d19e59e4360b07b572fe3f76b3bfbd02317e1e9bead",
+          "py3"
+        ]
+      }
+    },
+    "1.14.62.0": {
+      "sdist": [
+        "4614aee766ae942fa9fb842fcac5c1360e9e72cb40b496b9a5972ffa8168f29f",
+        "mypy-boto3-translate-1.14.62.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_translate-1.14.62.0-py3-none-any.whl": [
+          "d9d76b6c22652831b11c03f118f73e106228c71837ff00572ad2fe70683311e5",
           "py3"
         ]
       }
@@ -43240,6 +43264,14 @@
           "45487a1e6ada887bb5a11fc2f7ddbeb84c298d810fd93bfa33697696c7197d23",
           "cp27"
         ],
+        "panda3d-1.10.7-cp27-cp27m-win32.whl": [
+          "51073dda50c2f77787ee8bc127710b264565986536b763ed93e084c9595a2359",
+          "cp27"
+        ],
+        "panda3d-1.10.7-cp27-cp27m-win_amd64.whl": [
+          "cdaf9c86f89fbf453855ea17b22bcf60a709a2070c236f63f1a094be2e420cbc",
+          "cp27"
+        ],
         "panda3d-1.10.7-cp34-cp34m-manylinux1_i686.whl": [
           "95f0eaf8421fe754fdde6e5dd3fa6db20be9d7998b4499e266559add0644dd8c",
           "cp34"
@@ -43248,12 +43280,28 @@
           "52fc8ae1ba50e342dc8b2d75c8fc1bf990bcbcabdd72ccc03cf7d955b6b86f2e",
           "cp34"
         ],
+        "panda3d-1.10.7-cp34-cp34m-win32.whl": [
+          "db5f27a07ebaa0facaae5c6c3b0bd3ef748e54b24a61774142d404d410151bad",
+          "cp34"
+        ],
+        "panda3d-1.10.7-cp34-cp34m-win_amd64.whl": [
+          "6c5b98b4af84cba7d3906bcb51fd086f91ba4fe68753552b0980b6cec5894a7b",
+          "cp34"
+        ],
         "panda3d-1.10.7-cp35-cp35m-manylinux1_i686.whl": [
           "bb32efc9a85aeec8e551af800a2a0f421421bcdcdfaad1792344abe487f2bd90",
           "cp35"
         ],
         "panda3d-1.10.7-cp35-cp35m-manylinux1_x86_64.whl": [
           "4d9f222f20c41d08418e32a50658b2d6b12b9d51fd6ad45e05edae32e5e382b8",
+          "cp35"
+        ],
+        "panda3d-1.10.7-cp35-cp35m-win32.whl": [
+          "655a614bb9f1dae2f0b96f285738f7b513cacb143c666a1a6546bb550d17824a",
+          "cp35"
+        ],
+        "panda3d-1.10.7-cp35-cp35m-win_amd64.whl": [
+          "fa95b5c5a70bacebd747bb8e14ce4be246a8f875c9fefa0499fadc80cb6f75f7",
           "cp35"
         ],
         "panda3d-1.10.7-cp36-cp36m-macosx_10_6_i386.whl": [
@@ -49754,6 +49802,18 @@
         ]
       }
     },
+    "0.0.18a1": {
+      "sdist": [
+        "93979303f4b1ba2cb7493822c1184a511f60a4326953bcdd0a874f585c32b86e",
+        "pyrasgo-0.0.18a1.tar.gz"
+      ],
+      "wheels": {
+        "pyrasgo-0.0.18a1-py3-none-any.whl": [
+          "38fc0d4c15be32daa6d403bfc88fdf2e95ec226e06a98b2f95dd7a8ec77cb99b",
+          "py3"
+        ]
+      }
+    },
     "0.0.4a0": {
       "sdist": [
         "e486ecebf7a0005612742a8810e371825d023d8a65294f0eee5314ee30d1e7fa",
@@ -54965,6 +55025,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "scrapy-zenscrape": {
+    "0.0.1": {
+      "sdist": [
+        "72668a6480286a4035248e8f70f649b1d86497005e83db979050e8fe299b96f5",
+        "scrapy-zenscrape-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "cb9914a189841dd83840a50139a3bd8eb13fe3952aff3ccb93beb09d3c9bf2b6",
+        "scrapy-zenscrape-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "02306ab4b25cd15e7c078935d4edabae58e0b825e8c843135659df8af26cde06",
+        "scrapy-zenscrape-0.0.3.tar.gz"
+      ]
     }
   },
   "scrubby": {
@@ -61798,6 +61878,18 @@
       "wheels": {
         "tencentcloud_sdk_python_aa-3.0.256-py2.py3-none-any.whl": [
           "0a750eb7229e45a0308ac99312650ec2f6b9d742cf3f6352e02879019a166c94",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.257": {
+      "sdist": [
+        "944a0025ee7b56f2012abc9dd840630052152e068c18d926fffafbd79998da8d",
+        "tencentcloud-sdk-python-aa-3.0.257.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aa-3.0.257-py2.py3-none-any.whl": [
+          "a26877700153601d4c4d7eccff37eebcdb8f35d6ebed61367192c18337b97879",
           "py2.py3"
         ]
       }
