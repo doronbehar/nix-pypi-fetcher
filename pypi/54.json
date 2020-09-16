@@ -23407,6 +23407,12 @@
         "781640723f65e22a9204a598bca6b3bbb29f58db1a16cb0891cbce03f753d31e",
         "fast_tracker-0.1.4.tar.gz"
       ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "b31e26f15991831bf19c781009f53a863948c4287118186a68493f9a1acfd4fb",
+        "fast_tracker-0.1.5.tar.gz"
+      ]
     }
   },
   "fastapi-jwt-auth": {
@@ -60270,68 +60276,6 @@
     }
   },
   "revpayment": {
-    "1.8": {
-      "sdist": [
-        "7438b0d9b4baa8defd0c637beeaa143d75dd7fe593bedff601403ea807af089f",
-        "revpayment-1.8.zip"
-      ]
-    },
-    "1.9": {
-      "sdist": [
-        "aa96afe89a88d2a7bb681f5d73e9f0332d95884efa9568277bf4a8e20d69fdaf",
-        "revpayment-1.9.zip"
-      ]
-    },
-    "1.9.1": {
-      "sdist": [
-        "33fba104df8e083bb24446bc455dea04523df43a698d9215aca8e67bc23f1db0",
-        "revpayment-1.9.1.zip"
-      ]
-    },
-    "1.9.2": {
-      "sdist": [
-        "51cc7bce2621f4872eeb36297e69e74f9b1f8f80ab3861225e43a1bc62ebe260",
-        "revpayment-1.9.2.zip"
-      ]
-    },
-    "1.9.3": {
-      "sdist": [
-        "b06362e5e8a93bfb64df762dddf5e0c9fd76e90fb68df74c6f138bfb94ae8ffe",
-        "revpayment-1.9.3.zip"
-      ]
-    },
-    "1.9.30": {
-      "sdist": [
-        "31cbdec468a44380d00e42571524c91f307862827393dc67ff339506753a1313",
-        "revpayment-1.9.30.zip"
-      ]
-    },
-    "1.9.31": {
-      "sdist": [
-        "5725214baec2a1aa79959496efaa7b3c21d20e6276695777158e1563bc91ecac",
-        "revpayment-1.9.31.zip"
-      ]
-    },
-    "1.9.32": {
-      "sdist": [
-        "39c116045f7465d226975005ac77d7fa9f5a626278175252fb32bf7fd6f75f6a",
-        "revpayment-1.9.32.zip"
-      ],
-      "wheels": {
-        "revpayment-1.9.32-py2.py3-none-any.whl": [
-          "93311494c9728c8d2358b19d37ea6468e4699910473210712309d59a2a8d41d7",
-          "py2.py3"
-        ]
-      }
-    },
-    "2.0.0": {
-      "wheels": {
-        "revpayment-2.0.0-py3-none-any.whl": [
-          "66d1f60c78f3083ed65c9c8b026dc23100a38f998fb8adb592a05604b5e9a2ba",
-          "py3"
-        ]
-      }
-    },
     "2.0.1": {
       "sdist": [
         "5e3b73b01a69ab48a2c0dc102caa10c98873d3f4896b2564a93bdfcb4bc0d9da",
@@ -60472,6 +60416,102 @@
       "wheels": {
         "revpayment-2.1.2-py3-none-any.whl": [
           "c5eb86220244ea08a8a1efada83238d8780b585c4070b9a920c1a8e118f72b2c",
+          "py3"
+        ]
+      }
+    },
+    "2.1.3": {
+      "sdist": [
+        "febebbb4f6a861e72b307de14bfbbe53960f3fc9fbd00a40983ec71e094f3adf",
+        "revpayment-2.1.3.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.3-py3-none-any.whl": [
+          "a18ac949fd6ebae5d7c6d388d76f8928fb92dfb6f37bccdb57eb56d9f5ed674c",
+          "py3"
+        ]
+      }
+    },
+    "2.1.4": {
+      "sdist": [
+        "9c922788b0851fc768712045d72153cbbc685b8757731aa4e684d7df238bce32",
+        "revpayment-2.1.4.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.4-py3-none-any.whl": [
+          "7db72df2e1ef630c4787c969f9fbeda06c7336cd85aeaeccf13678cc9ce2a32f",
+          "py3"
+        ]
+      }
+    },
+    "2.1.5": {
+      "sdist": [
+        "8ca2087057ed6d3ee4077973a624eedf4a56b6992cd29d3bdfc1df9093b54e20",
+        "revpayment-2.1.5.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.5-py3-none-any.whl": [
+          "1a1d69f7dc301883f05b67b225dc5f5905913361f280c9cddfb98569b193c859",
+          "py3"
+        ]
+      }
+    },
+    "2.1.6": {
+      "sdist": [
+        "529ca859936272314f3ea11c5a64ab55a1e0d91ecfd04d833a8cd640b297960d",
+        "revpayment-2.1.6.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.6-py3-none-any.whl": [
+          "beb9c67871fa13c93fe7831b3956c863f22d2ef7f823b53b7a8275e351a727ae",
+          "py3"
+        ]
+      }
+    },
+    "2.1.7": {
+      "sdist": [
+        "10ed914efa48d9d4f1a306bda79777ffd87de4c569d40289dccbcd114b910c95",
+        "revpayment-2.1.7.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.7-py3-none-any.whl": [
+          "9d7a0585bf3f2a8516e6c4e471d640c5ebf4d44249f3c36702a91165aa9e3055",
+          "py3"
+        ]
+      }
+    },
+    "2.1.8": {
+      "sdist": [
+        "3e88d6ce1160a3cc1a8d92e35c5e7d3c4b25b7dd5fa0c3b87763da1758d0d792",
+        "revpayment-2.1.8.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.8-py3-none-any.whl": [
+          "b433feed9ee634209e4003b26e8c1f27e3ad84b5d25b70dfd897203c50759fad",
+          "py3"
+        ]
+      }
+    },
+    "2.1.9": {
+      "sdist": [
+        "de0569cdc349596e4b535ad4bad7fd53f1c8759cec1f958460e504116ddeeef3",
+        "revpayment-2.1.9.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.1.9-py3-none-any.whl": [
+          "dc97643925ae9d9d4930b56f8d2ee3d9d943e7cf9937da54d9e88581c18b79eb",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "67335500b9c0378b4a5d49d8176c6c8e61be89bb15feb6d8fe04d4e5bfe0cffd",
+        "revpayment-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "revpayment-2.2.0-py3-none-any.whl": [
+          "a7cafe3c988fba6b7bcd17565de2cbc534f5ae9f1096758c3522f7127e6618a5",
           "py3"
         ]
       }
@@ -75450,6 +75490,36 @@
       "sdist": [
         "dc10ab510db60500633e8ead977bc110dfed6fb1b20a935a47c1ac9799adff59",
         "xbcptool-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "943e2e859aec71f301d9f9a9c3a05bb69597e3a44b8778c308d33224830628c5",
+        "xbcptool-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "5dff017ec6542cad730ce291ed75399062178f65b7db9ec78f0b09b42a4ecde7",
+        "xbcptool-0.0.7.tar.gz"
+      ]
+    },
+    "0.0.8": {
+      "sdist": [
+        "724cae9d203e68b87ab0ae1fbd22b05d22ba1c19547f57921b0ef097fff9548d",
+        "xbcptool-0.0.8.tar.gz"
+      ]
+    },
+    "0.0.9": {
+      "sdist": [
+        "9c109ec563b85fa428a4bce280bdd0379d930222f50272b3d84c568497d7acd0",
+        "xbcptool-0.0.9.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "40ccaf51225573593bd971df2f4ba3737741fc7ecf30481504495ccd6f048fbb",
+        "xbcptool-0.1.0.tar.gz"
       ]
     }
   },

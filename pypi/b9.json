@@ -2415,32 +2415,6 @@
       }
     }
   },
-  "aiomemcached": {
-    "0.7.0": {
-      "sdist": [
-        "a11d129e2151978afa728fb1e3224830f420e64b510406a8ab8c544918db37c0",
-        "AioMemcached-0.7.0.tar.gz"
-      ],
-      "wheels": {
-        "AioMemcached-0.7.0-py2.py3-none-any.whl": [
-          "901c8c7d8a2c171ba422b6baca43af3b80b11b3317dec1640d2b2037e7bccb01",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.8.0": {
-      "sdist": [
-        "4515fc3916fe2a819e3e361c527926b3c1799e8bf292d53d458ed40fecfa3d3c",
-        "AioMemcached-0.8.0.tar.gz"
-      ],
-      "wheels": {
-        "AioMemcached-0.8.0-py2.py3-none-any.whl": [
-          "7caf7792ac0b043efc4ab80225d38284a2cff48121b23c329441ffca4af21285",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "ak-websockify": {
     "0.6.0.1": {
       "sdist": [
@@ -5796,14 +5770,6 @@
       "sdist": [
         "b2a50ea8fc18e2e36782d997e5cd40ebfd38bf7b08b4c08f293c11af7992829a",
         "bst.pygasus.resources-1.0.1.tar.gz"
-      ]
-    }
-  },
-  "buildbotwww": {
-    "0.1.1": {
-      "sdist": [
-        "da4408754a1b5a98f6e1e8292da615424619c4352479bb9f548abf62d58d5118",
-        "buildbotwww-0.1.1.tar.gz"
       ]
     }
   },
@@ -13732,6 +13698,26 @@
         ],
         "dgl_cu100-0.6a200915-cp38-cp38-manylinux1_x86_64.whl": [
           "cc1ccdbe93a1d3964f86abf97b06696ccf32ce36709080c3e74abacf2b8bc4a8",
+          "cp38"
+        ]
+      }
+    },
+    "0.6a200916": {
+      "wheels": {
+        "dgl_cu100-0.6a200916-cp35-cp35m-manylinux1_x86_64.whl": [
+          "52a258be62a72ebcbe52cd6a73bf589c3fa9923ef29813d294681b829acf5aad",
+          "cp35"
+        ],
+        "dgl_cu100-0.6a200916-cp36-cp36m-manylinux1_x86_64.whl": [
+          "00b3ec0764538eba1c7902b0a4ba9ff220979c842276f1507be833ea768f5d3b",
+          "cp36"
+        ],
+        "dgl_cu100-0.6a200916-cp37-cp37m-manylinux1_x86_64.whl": [
+          "312299e8546c4f8ed7fb8de51fc3796bcd2aff15417cabf3bbbbe4d79d6a9264",
+          "cp37"
+        ],
+        "dgl_cu100-0.6a200916-cp38-cp38-manylinux1_x86_64.whl": [
+          "c311783bc39fa4411b682af0dbeb5c410f07d16646fc02ceff39a3ae2338c3b5",
           "cp38"
         ]
       }
