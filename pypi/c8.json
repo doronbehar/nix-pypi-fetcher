@@ -42210,6 +42210,70 @@
         ]
       }
     },
+    "9.2.22": {
+      "wheels": {
+        "Mosek-9.2.22-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "0abb8c5cefa6e1af877b69dd2270ce4237932b54b7903ccc6f2097f5cd33b013",
+          "cp27"
+        ],
+        "Mosek-9.2.22-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "3dcb0b77d082739f903ed157416de94e9529229a7ad318586f3e2a867fec1f36",
+          "cp27"
+        ],
+        "Mosek-9.2.22-cp27-cp27m-win32.whl": [
+          "62809a5e86f1a6540ad1ce729d6dcd0e04cd9ff22cb0cfd7515c412d8d9805c3",
+          "cp27"
+        ],
+        "Mosek-9.2.22-cp27-cp27m-win_amd64.whl": [
+          "fe147d5f49747c43936c6d4c92f6998207459d3014967bb3e17eda75c0fea082",
+          "cp27"
+        ],
+        "Mosek-9.2.22-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "90868096e192ffd75ae749be813df1a865b9cc421d652391dac21a6de0a8def5",
+          "cp36"
+        ],
+        "Mosek-9.2.22-cp36-cp36m-manylinux1_x86_64.whl": [
+          "dd4910eaa4a4cbb4bb314462c5dfca9e45ac81c2fdc5c86720e09f2cfb75724c",
+          "cp36"
+        ],
+        "Mosek-9.2.22-cp36-cp36m-win32.whl": [
+          "5884a1cb0891793002b1741b7ff6f51fdac418d84de175a7d7d9844915ff1c32",
+          "cp36"
+        ],
+        "Mosek-9.2.22-cp36-cp36m-win_amd64.whl": [
+          "1f247d411e16811e9225fb8b95b676c6511502992f77ec8596c658e1cf19e24d",
+          "cp36"
+        ],
+        "Mosek-9.2.22-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a4bba1511aad0a824fbdb628def614fd613bfa56914ba7473da304bc835fc666",
+          "cp37"
+        ],
+        "Mosek-9.2.22-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a148d9ef894172c4761676f2bfe5bbc73adb6e812944867563b5affcd56116e6",
+          "cp37"
+        ],
+        "Mosek-9.2.22-cp37-cp37m-win32.whl": [
+          "2c7cb3931e47d76d9fac953569e39bc9885d9ea6c57d761088f54ec2aa5840cc",
+          "cp37"
+        ],
+        "Mosek-9.2.22-cp37-cp37m-win_amd64.whl": [
+          "05d972e5268396497cdcb32b08b62093d2fb241ad5c25a0759d0c18fb54fa45c",
+          "cp37"
+        ],
+        "Mosek-9.2.22-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "49a5ecb36c48b73ea302a222f7c4741485ad9e409a39759eceee75f20d23a2f9",
+          "cp38"
+        ],
+        "Mosek-9.2.22-cp38-cp38-manylinux1_x86_64.whl": [
+          "31b58a3d5915b7b7e7940c5f873f20ded5eda5b6ab4cf8e8184a16f54c44737a",
+          "cp38"
+        ],
+        "Mosek-9.2.22-cp38-cp38-win_amd64.whl": [
+          "160939ef47e002eec8a91899a027fdfd3fcf3ca80f36646a4b52d1f82179a107",
+          "cp38"
+        ]
+      }
+    },
     "9.2.3": {
       "wheels": {
         "Mosek-9.2.3-cp27-cp27m-macosx_10_7_x86_64.whl": [
@@ -51995,6 +52059,22 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.0": {
+      "wheels": {
+        "odoo13_addon_base_maintenance-13.0.1.1.0-py3-none-any.whl": [
+          "469f136f13cf3a04dd85e6c67ada9ba4f10747cf6261b661fedcefd83614023a",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo13_addon_base_maintenance-13.0.1.1.1.dev1-py3-none-any.whl": [
+          "3feddd486274c97807bdd32bf32aaef5d850c158fe640aef89bb3a5bf842aed2",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-partner-contact-age-range": {
@@ -55676,6 +55756,12 @@
       "sdist": [
         "161b9b3806da7856b74f586e2cabd3465822b708a710c345cc14c4a9eb2f27ab",
         "osrsbox-1.3.38.tar.gz"
+      ]
+    },
+    "1.3.39": {
+      "sdist": [
+        "4814c5751e2f8fa57173900232d3737f930789cf871fa2e8e5237459084dd7fd",
+        "osrsbox-1.3.39.tar.gz"
       ]
     },
     "1.3.4": {
@@ -72426,6 +72512,32 @@
       "sdist": [
         "2d7f4e0f86ab023c32d649fdbbb1815a36d5e9b5a10d92dcc37cb257ff5553bc",
         "tessplan-0.0.2.tar.gz"
+      ]
+    }
+  },
+  "test-search-es-client": {
+    "1.1.0": {
+      "sdist": [
+        "1eeb71ac0604c66b9afe819aed0529663dd61837ee6ee46a672a4197e2d1aa02",
+        "test_search_es_client-1.1.0.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "074afb2035690659f7b5008de4ff1ee6a28547524ba1787f0551e125cdc5529d",
+        "test_search_es_client-1.2.0.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "8ffc411385db8b29f2df30308c43e0910f3352598a669970171cb6dcc6125c40",
+        "test_search_es_client-1.2.1.tar.gz"
+      ]
+    },
+    "1.2.2": {
+      "sdist": [
+        "49a5ba544fc3fd2980324f29097aee9e86a606333fd574696e3b066b3c6184f3",
+        "test_search_es_client-1.2.2.tar.gz"
       ]
     }
   },

@@ -13755,6 +13755,26 @@
           "cp38"
         ]
       }
+    },
+    "0.6a200917": {
+      "wheels": {
+        "dgl_cu100-0.6a200917-cp35-cp35m-manylinux1_x86_64.whl": [
+          "35e621c9fd35394969a2f1364fd4a2289234503fddf5e279729739b817a9aa00",
+          "cp35"
+        ],
+        "dgl_cu100-0.6a200917-cp36-cp36m-manylinux1_x86_64.whl": [
+          "22de519f3d3bd3aafa4f44bc23dd62c06a69a0545760c6d099236684d6f3fd4e",
+          "cp36"
+        ],
+        "dgl_cu100-0.6a200917-cp37-cp37m-manylinux1_x86_64.whl": [
+          "98fa43a5cdc5f66284ca65f3f2d1f0313efe65b4248cbf102da7c689608a9145",
+          "cp37"
+        ],
+        "dgl_cu100-0.6a200917-cp38-cp38-manylinux1_x86_64.whl": [
+          "adf00e8f2fc1e54625158478f04d58bd1c22b7c04f06ce46adda88f63e2ee7ad",
+          "cp38"
+        ]
+      }
     }
   },
   "digimat.pdata": {
@@ -22884,6 +22904,12 @@
       "sdist": [
         "50693f4ec5c9874914272939797a1baafe8e1df48a2353b0b423bde8393de694",
         "HelioSat-0.4.4.tar.gz"
+      ]
+    },
+    "0.4.7": {
+      "sdist": [
+        "acd08128fd5a57f6e5c6a845b9d78bb2ebe4c566a17074aa7f5400e65b2a8fd7",
+        "HelioSat-0.4.7.tar.gz"
       ]
     }
   },
@@ -33594,6 +33620,42 @@
       "wheels": {
         "nemspy-0.1.7-py3-none-any.whl": [
           "38edd8f2d85e3fa75bd911e1efb00c12213085beab07b0a496978bb52d9b966c",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "bed43fe3d23994e7d70c1cffab264d4d1846c126c914fc41158f4f9dc61ed645",
+        "nemspy-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nemspy-0.2.0-py3-none-any.whl": [
+          "cad4bf55d9fbc9d077f53a5f0fa100a1d6314bf1bb2bb87995440e26b0cb754b",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "602af44cbf275456cc44c1ff55352de9bd1d78ab280f2cd49f6d7c9023d41cd0",
+        "nemspy-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "nemspy-0.2.1-py3-none-any.whl": [
+          "757893a3d2815e09f2e957996490651677cc8ef0bdccd917a8b6f05f545d6127",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "6ec30e0491340dd265d771e1bc3e52463c54a52547487fedd5e13d4b7de366fe",
+        "nemspy-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "nemspy-0.2.2-py3-none-any.whl": [
+          "2d0c43f9d733df53312f94b1aeb8bec1372369693b5011d4e55e7adad0391859",
           "py3"
         ]
       }
@@ -56079,6 +56141,64 @@
         "241ab5669c90d1e1577f2641f1c1551ee6814728a25af9bee13cc7b3dc612ecc",
         "robotframework-rammbock-0.4.0.1.tar.gz"
       ]
+    }
+  },
+  "rocksdb3": {
+    "0.0.1": {
+      "sdist": [
+        "8a704ef2bf615abfec379db04b7f3e6c6d9b3d5fe31c3b2c3fd451545656d8c6",
+        "rocksdb3-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "rocksdb3-0.0.1-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "ab164a929b85f9b88f30c01c031a5eecda7665c697986ef3917383631ebb2f30",
+          "cp35"
+        ],
+        "rocksdb3-0.0.1-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "06ac16fc526cca29c95f6df567618459828617e0bd0b811a6fcc07c51a8f0ea9",
+          "cp35"
+        ],
+        "rocksdb3-0.0.1-cp35-none-win_amd64.whl": [
+          "596f4e533c4f6dce789c4d413bad68f6a4e7aa78c127821e270c990f8d3cb479",
+          "cp35"
+        ],
+        "rocksdb3-0.0.1-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "f42fead33d2d698c8c22b4ceefd91307b789d0732b2abfff29d1c24c2fdc6f0c",
+          "cp36"
+        ],
+        "rocksdb3-0.0.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "95a8293372aa098ae87dc379d9ba818576a06d8fa3f25ba369480e109680c667",
+          "cp36"
+        ],
+        "rocksdb3-0.0.1-cp36-none-win_amd64.whl": [
+          "f988127584610966e133f4650b33d893e723b142ba886cb20779bc8fa0c8c209",
+          "cp36"
+        ],
+        "rocksdb3-0.0.1-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "b0e012e76e23cb6315b1df57828c25b55c18fd9d85a7b06c99306d12df205cf6",
+          "cp37"
+        ],
+        "rocksdb3-0.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "24fc6d6fc7a239fd190bf7c4294fdafa9c9da45e437f3c435d3e3345535082e1",
+          "cp37"
+        ],
+        "rocksdb3-0.0.1-cp37-none-win_amd64.whl": [
+          "1ba34767cb49e2b16cbec0aa55bf04b824dba460e1744a905383cfbb9342e11c",
+          "cp37"
+        ],
+        "rocksdb3-0.0.1-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "e37f8e8f2bce3d3e0dadad111316d8e48f690a293d9f597f9841c995e859a1c4",
+          "cp38"
+        ],
+        "rocksdb3-0.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "4da4be62ada683328c670f21b1caa1e57a13b42ebf9bddcb92342fbef21df6ee",
+          "cp38"
+        ],
+        "rocksdb3-0.0.1-cp38-none-win_amd64.whl": [
+          "c84da40bec3c787762508d9e5af18cd362bde1bdf6140e8ed6b347de75b1472b",
+          "cp38"
+        ]
+      }
     }
   },
   "rosey-stats": {

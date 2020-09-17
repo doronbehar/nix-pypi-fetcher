@@ -6970,6 +6970,14 @@
         ]
       }
     },
+    "1.12.0.post2": {
+      "wheels": {
+        "azureml_train_automl_client-1.12.0.post2-py3-none-any.whl": [
+          "67f47e372c0c1e06c78f1da26980d46d0701c16b1cb678d3350b9ea2a99267d4",
+          "py3"
+        ]
+      }
+    },
     "1.13.0": {
       "wheels": {
         "azureml_train_automl_client-1.13.0-py3-none-any.whl": [
@@ -27472,6 +27480,14 @@
         ]
       }
     },
+    "0.19.5": {
+      "wheels": {
+        "IBATS_Common-0.19.5-py3-none-any.whl": [
+          "c4d1c2fe871215f7311abb78547e2522320238c3e5406bc777871f574868a01a",
+          "py3"
+        ]
+      }
+    },
     "0.2.10": {
       "sdist": [
         "9ba3dae6789e1a86d52f015fed6e721fdc9a2d97f7014fe17ba0fb4db13ddf16",
@@ -43555,6 +43571,14 @@
       ]
     }
   },
+  "nextoff": {
+    "0.1": {
+      "sdist": [
+        "cd258b1848b6c3d2aa665d7e55f81ca03a3a3da3f98a074635367c6ba6e4dfc5",
+        "nextoff-0.1.tar.gz"
+      ]
+    }
+  },
   "nlptoolkit-wordtovec": {
     "1.0.0": {
       "sdist": [
@@ -57981,6 +58005,22 @@
           "cp37.cp38"
         ]
       }
+    },
+    "2.2.2": {
+      "wheels": {
+        "reveal_yaml-2.2.2-cp37.cp38-none-any.whl": [
+          "d8846c3b0cca32e0c1335179a0edb8e2726f673355b5762ed00d031026857de8",
+          "cp37.cp38"
+        ]
+      }
+    },
+    "2.3.0": {
+      "wheels": {
+        "reveal_yaml-2.3.0-cp37.cp38-none-any.whl": [
+          "e1c68172ac9b9e31ac5879cdabdbca1f87562026dc7499463f3ce30d6829dac8",
+          "cp37.cp38"
+        ]
+      }
     }
   },
   "revtok": {
@@ -59455,6 +59495,20 @@
         "161b9099c0298ffd1ca7f7ec06678cad1c7e97fbfefe5df135fa90421ab91bca",
         "rtmbot-0.4.1.tar.gz"
       ]
+    }
+  },
+  "rtspbuffercam": {
+    "0.1.0": {
+      "sdist": [
+        "faa1fb4ca2f2e67fac15f301065118a9838cb15a9352ca63a494061ed17686cc",
+        "rtspbuffercam-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rtspbuffercam-0.1.0-py3-none-any.whl": [
+          "5dd78274799de8d4586c2bd26f7c2fd9873df923681462dfa78a842a9dbd7694",
+          "py3"
+        ]
+      }
     }
   },
   "ruco": {
@@ -62686,6 +62740,18 @@
       "wheels": {
         "spherical-0.0.1-py3-none-any.whl": [
           "3024ff9de3e4205408ffa0a6d1cbc1924838c037e87e7fe7f654299191156975",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "a3a2474fd38d06a4535b826b940f3b01ab1fd5383a146714a5fb6462783d7b49",
+        "spherical-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "spherical-0.1.0-py3-none-any.whl": [
+          "351d7677d1a52ae54c7fd64600e937cf5bd9ff22154a81874e33ad30f402518e",
           "py3"
         ]
       }
@@ -74154,6 +74220,34 @@
         ],
         "tfq_nightly-0.4.0.dev20200916-cp38-cp38-manylinux2010_x86_64.whl": [
           "7691ffe2d600a06a338a41ed0de02e7f51d8f62eda26dc9a3f3c4970f7a0a9be",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.0.dev20200917": {
+      "wheels": {
+        "tfq_nightly-0.4.0.dev20200917-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "eab5e015d76234182d0b1024de72b77dc9190efe3c4e1a5f50f9526fb0f91276",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200917-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "90d6d1348fa5132e7bd4d2a3eba6452271a19a27868c507045c6c1a7aef82ccd",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200917-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "0da7e9aaa7c06786cc0ab42e6646d413348d55b4bede2d641e0fd37a9e5efe1c",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200917-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2809cd1151d6454b1547da2bb58460d67a3d9f99ced1b56a3e3cd93c5ec7a2e8",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200917-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "843fa3476f1a7520ca191e4d156b7a5d5bf63c1107e98426194cac334271a661",
+          "cp38"
+        ],
+        "tfq_nightly-0.4.0.dev20200917-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2f5cb3e5a54bfea11d5556f4c609cd5d7f61d5cb25c4ebd30adb4eaab7a6f6ab",
           "cp38"
         ]
       }

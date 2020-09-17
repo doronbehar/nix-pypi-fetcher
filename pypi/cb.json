@@ -45051,56 +45051,6 @@
       }
     }
   },
-  "mqcall": {
-    "0.0.1": {
-      "sdist": [
-        "022b1b46dcb14a17d0197e83e1efe8a9091aebb565dbbf80066e442ad2c42f10",
-        "mqcall-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "mqcall-0.0.1-py3-none-any.whl": [
-          "f6818bce669f118cc9884eda930b736cf580ad7b90f2200a6b132f73df64bcd3",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "aa0bd03c698073c0a1d7bc1a4dd25b993d066db6d1e26a98c19e32ae9264ea7b",
-        "mqcall-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "mqcall-0.0.2-py3-none-any.whl": [
-          "bb12e8bcb60d26c13f8685d3cb8175c35b0708f356a9a6ba0f15da1a711422f5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "e0fe7b5492578d7575b54625ee5cde8312c30b6eec884b6f16167163d0ee47c5",
-        "mqcall-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "mqcall-0.0.3-py3-none-any.whl": [
-          "a18929c3a75ce89ebb2d436328b3b1cb8762414157b8eb38ec16d32022daf84f",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "280bae5585cba15fe7f535a11a8fcaf8d7c096a1c6e8e987cefa5cb4e1fe528d",
-        "mqcall-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "mqcall-0.0.4-py3-none-any.whl": [
-          "5c68d529f5cf4d0a3d8b19bf97e9aea7429be0647106d0845cfc7c58d56f9da6",
-          "py3"
-        ]
-      }
-    }
-  },
   "muppet": {
     "0.1.2": {
       "sdist": [
@@ -48835,6 +48785,22 @@
           "py3"
         ]
       }
+    },
+    "12.0.2.3.0": {
+      "wheels": {
+        "odoo12_addon_account_asset_management-12.0.2.3.0-py3-none-any.whl": [
+          "e575f26fd825845715f3a8f7e35ec62bb6149a301c1be4aa786e2c817a5afd3a",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.3.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_account_asset_management-12.0.2.3.0.99.dev1-py3-none-any.whl": [
+          "da9a199587b1f2aa80f4b7e11239584cbc58fad470890c6880e6b306d43b38a6",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-account-check-printing-report-sslm102": {
@@ -51734,6 +51700,30 @@
       "wheels": {
         "pandasnotebooks-0.1.2-py3-none-any.whl": [
           "a703ed430f070eda8c0ea1e70dcdbd364e25a09e2bcc05e88cb8717834936834",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "6be55711be0d08a64f50ce8c5427749a387434307bd996e88490d2cee526d9c1",
+        "pandasnotebooks-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pandasnotebooks-0.1.3-py3-none-any.whl": [
+          "9597280d40f5e2f74a31f5b790d1b891ca86158a2678f91558742bbe9c0164ee",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "9116b2147c20c09e138d8619f264616a6f7dc8f13c07b701db5f1304186ba64f",
+        "pandasnotebooks-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "pandasnotebooks-0.1.4-py3-none-any.whl": [
+          "c3348bb6e74de543b6f458d36a1a8df1ef7d954e760387a95417146681558119",
           "py3"
         ]
       }
@@ -78694,6 +78684,42 @@
         ],
         "tf_nightly_cpu-2.4.0.dev20200916-cp38-cp38-win_amd64.whl": [
           "00489e6da4d3ca02f7b01f6accef50aaedbc725c3fdfd5d74cbb1d5540cc1227",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200917": {
+      "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20200917-cp35-cp35m-macosx_10_6_intel.whl": [
+          "e8456256aa0e1e5787e9505c2fb5b8b75c37dbfcec690fcf66be1140a86f66a5",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "89533e7e922e58cd3e1db045c37908a79cc812128204f7dd8b0ea9d1b2552237",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4838cb38d889f043476d512df872c8bbc53fbeb22117db1bef02402a65fbf418",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d82cb3811e990183f955e74212a00c8782eee67f8ae8676c5598b10470aa3bf1",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "d213e900a9e19ddccba7e9c4dec0d24e83fc13bf0b71ecc18d36a893383a3804",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a2d007c92c694fe4895b9de80ceb270f276b56d2c5b249f4a26cbed9ee7b95a3",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "0842cb0dd954fd8d1d7af3707d602d3b52b7a5ef2a376f7b3276deaf89352ba5",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200917-cp38-cp38-manylinux2010_x86_64.whl": [
+          "945de78897493c46e3224f1e51e9592ee82a39f3bbb80c73ece5d4fa4e7ccaaf",
           "cp38"
         ]
       }

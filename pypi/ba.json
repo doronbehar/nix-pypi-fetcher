@@ -19544,17 +19544,17 @@
         "freeway-0.0.1.tar.gz"
       ]
     },
-    "0.0.2": {
+    "0.0.4": {
       "sdist": [
-        "ecee8fcd76666951c326c0a2ae53c82bb78006f5aae22c3037b282a481e44a75",
-        "freeway-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "6f7ad12155abed52ae195b35990a6048a4ed54e72c27491d9f5e58d9e0503b82",
-        "freeway-0.0.3.tar.gz"
-      ]
+        "93bf0b5c6beabffbb2f5a66837d11c924fd7423aee295160b382d5f2ff9b3d7d",
+        "freeway-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "freeway-0.0.4-py3-none-any.whl": [
+          "2837de1622ba7721f3accacaedaf603a0e956e487982f676afb2a68b5c5030e4",
+          "py3"
+        ]
+      }
     }
   },
   "fs-extra": {
@@ -23612,6 +23612,12 @@
       "sdist": [
         "7928051cbbb55c0eda11cfb52132373c9506e2612f730b38d7b9d9a52768a61c",
         "graphdot-0.7b1.tar.gz"
+      ]
+    },
+    "0.7b2": {
+      "sdist": [
+        "8766b16cc2fe35e5eb2c4fe7696fcb0ef1df31ce98a51e75470c40fc5027f225",
+        "graphdot-0.7b2.tar.gz"
       ]
     }
   },
@@ -37010,26 +37016,14 @@
         ]
       }
     },
-    "0.2.1": {
+    "0.2.3": {
       "sdist": [
-        "d4b03229f98c14e2e237801539a5a69f9f831afeffd57bdba2379781fdea8c31",
-        "modm-devices-0.2.1.tar.gz"
+        "fcb6704c56e7ac2d3dded02075b7d932bbf900ee399c88e4c52eba6b8ac92b5b",
+        "modm-devices-0.2.3.tar.gz"
       ],
       "wheels": {
-        "modm_devices-0.2.1-py3-none-any.whl": [
-          "943e827b66e42b72592d42e82ba55970a54d86f9f1ae0d4d1d66118cda813f8e",
-          "py3"
-        ]
-      }
-    },
-    "0.2.2": {
-      "sdist": [
-        "da1b2625e9969e8d82758e850d4d1fd0f321b99c444a7ace1bec50833f3df68e",
-        "modm-devices-0.2.2.tar.gz"
-      ],
-      "wheels": {
-        "modm_devices-0.2.2-py3-none-any.whl": [
-          "e9cf8d966972c817f7aa758052628b8440295f0d29f406d1247ae117df419095",
+        "modm_devices-0.2.3-py3-none-any.whl": [
+          "60269fac6c5041fef48cd42fc5a091ba77ef0663f93687e2c638db6b36c2bde1",
           "py3"
         ]
       }
@@ -80131,6 +80125,42 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20200917": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20200917-cp35-cp35m-macosx_10_6_intel.whl": [
+          "cc2bca2cb71caca7df7a9c74db9687e367f2a6af53e7f5f2c33d892a7217719d",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "82a965578afe91394d86696fdca9817a02a85816dec7c961e994bce393bddb93",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "defecdfd49549f99013badfdbc85c76cdb763dffa6dd38aa719ea1e2caf5031d",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0960559758b5c9acc8ef499b25fba2d4e8b96e7f01ebbb0b56d563bc38c17c8b",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "faf8a88efe321d399cd63b66726433db72241877d5c80b114871890f9cb083ed",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "6f52cc31ad8c56ac6cbd1bd9e5b150a62143b226fdf8a5329ad6b469ec56a6c8",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1118fb13d94d0f7778d839e3f099de58635e3b161e65bbcf86b7ab146f9cfad2",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20200917-cp38-cp38-manylinux2010_x86_64.whl": [
+          "7878da92a466ac387adab6825de4a2eab12494c8f93eaa815116d7407b02d5d6",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -80440,6 +80470,30 @@
       "wheels": {
         "timely_beliefs-0.1.0-py2.py3-none-any.whl": [
           "28a95a27127564b2e4b7a2730aedee83812e08296ac0f34f6ab81729a897724e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.0.dev8720538": {
+      "sdist": [
+        "5d54ee55c401cf85d20f6148e05ef11dd167bcde9ab22a2150bd3fb060aa8be8",
+        "timely-beliefs-0.1.0.dev8720538.tar.gz"
+      ],
+      "wheels": {
+        "timely_beliefs-0.1.0.dev8720538-py2.py3-none-any.whl": [
+          "4ae594f1c8198e6427fe51a1f5dec481c7925b8876e9d0b615420aa0d4fd3be8",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.1.dev617939": {
+      "sdist": [
+        "b5e1f8e5537af4a9be97e369999ae912b9721e1e782d1430ac088a4a9cf829a4",
+        "timely-beliefs-0.1.1.dev617939.tar.gz"
+      ],
+      "wheels": {
+        "timely_beliefs-0.1.1.dev617939-py2.py3-none-any.whl": [
+          "9cc198fb897435f3428230d654f1695fb81e65d7bf4839abcf6d6beff1d8c6b7",
           "py2.py3"
         ]
       }
@@ -82270,6 +82324,12 @@
       "sdist": [
         "c47013f4b51d2cd73ce244abf789bc382f1fae313a09bd6785ce818a4d942a5c",
         "tutor-xqueue-10.1.0.tar.gz"
+      ]
+    },
+    "10.1.2": {
+      "sdist": [
+        "5133bd10debcb87b156caa6a46f78a218f57b726f662647ed662b7c3c0057d46",
+        "tutor-xqueue-10.1.2.tar.gz"
       ]
     }
   },
@@ -86164,6 +86224,54 @@
       "wheels": {
         "wpdatabase2-0.0.4-py3-none-any.whl": [
           "92034b2cc37d0b5b95cf7d917c759a8dd477d8ce5593672d3a49f5dfdc046387",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "5dd1a63b75b02f619e5b0be6bfe1afd2a14ea3cd7e89ecfce829657388ed6343",
+        "wpdatabase2-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "wpdatabase2-0.0.5-py3-none-any.whl": [
+          "a4cb519b38c5664c48c3524d12da6b91a54eb203947f45c3b383a4268fbc09d3",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "f8a3b377fef4acd6955e08b672d8593d8bb11cdb8c5bc83224a381ead2d9117e",
+        "wpdatabase2-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "wpdatabase2-0.0.6-py3-none-any.whl": [
+          "0efa31e8b9abcd11d444533b3b0dc1db59808e4824c1d5158a776544559a3dcb",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "5dda0ea7b954956c4e710a473568e0a48bdc710a16b6b116ea8774cfde126943",
+        "wpdatabase2-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "wpdatabase2-0.0.7-py3-none-any.whl": [
+          "86e71590cb7ec86626dfc596a1245500b98407958cd6a804046493d4248c0d6c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "e0d429ba98705a4196468d319b486a6cd1db4247382034ce1fbcac8ef9fe77be",
+        "wpdatabase2-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "wpdatabase2-0.0.8-py3-none-any.whl": [
+          "324cb5971fd44a59adb1846ba462baf0dfba3ebd2e6a1aabe6fd43c65ba3f77a",
           "py3"
         ]
       }

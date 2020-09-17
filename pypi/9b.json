@@ -14812,6 +14812,30 @@
         ]
       }
     },
+    "0.1.14": {
+      "sdist": [
+        "cf4f6786f537acdea7c92d7e5b750470fccf4f0883b184428e5b50ad416bd7ac",
+        "DockerENT-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "DockerENT-0.1.14-py3-none-any.whl": [
+          "e3316c7f37eb5bb087d20b6d7e3e866c8cc94d4f1815a71587e345eddf32f10c",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "419541290003a53a9ed0d65cac57b92e1b816f6c1739188a419c81b891567ac7",
+        "DockerENT-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "DockerENT-0.1.15-py3-none-any.whl": [
+          "dc2a885be9cbafb0e0b6c21517dbfc3e29bd4047b4414db9da85cedee8559ccd",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "0a7d91ef93be039bd4b216f8a9c0b7fd3967ab18b8ac0e5bb2a34c55a615e4e2",
@@ -52793,6 +52817,20 @@
       ]
     }
   },
+  "pytorch-nnmodels": {
+    "0.0.1": {
+      "sdist": [
+        "f2f814dc66f025d54538afe784956f4be71a4f4cf8e8b67ec63f4746f2e6ed27",
+        "pytorch-nnModels-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_nnModels-0.0.1-py3-none-any.whl": [
+          "7d2d067cc89e2b8624780d5d07082f2f04ebc32a34c7d771245d3e66c03e236e",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyudorandom": {
     "0.0.1": {
       "sdist": [
@@ -69714,74 +69752,14 @@
     }
   },
   "xebus-restful-api-client-library": {
-    "1.5.10": {
+    "1.6.0": {
       "sdist": [
-        "1956f84d1778589e147036948deda40abafe8c7d1a4e2cac5c0e0f8590f00068",
-        "xebus-restful-api-client-library-1.5.10.tar.gz"
+        "f4fbdf751672cb96c563fee81d1bc4f054467b48ea00abb63ad12ca326613f38",
+        "xebus-restful-api-client-library-1.6.0.tar.gz"
       ],
       "wheels": {
-        "xebus_restful_api_client_library-1.5.10-py3-none-any.whl": [
-          "0f91fc693a73d02d27dc13d00151062c54d68176691b5bd529ffb3d5b3478f6f",
-          "py3"
-        ]
-      }
-    },
-    "1.5.11": {
-      "sdist": [
-        "fc69135b9c7ac97565ab19bff8089746317ce6ecd1d03a9eba57549129a77759",
-        "xebus-restful-api-client-library-1.5.11.tar.gz"
-      ],
-      "wheels": {
-        "xebus_restful_api_client_library-1.5.11-py3-none-any.whl": [
-          "d8241da7b638f1e46855ee112f4564c12258dbf49b824d7f1d6af5101bb5434e",
-          "py3"
-        ]
-      }
-    },
-    "1.5.12": {
-      "sdist": [
-        "4a644fb37e970a407f9aeab979df98d54e921d0ccfad2baaea6b90705a858ee4",
-        "xebus-restful-api-client-library-1.5.12.tar.gz"
-      ],
-      "wheels": {
-        "xebus_restful_api_client_library-1.5.12-py3-none-any.whl": [
-          "c5215729850b0c93cb3714423a3ff738618ae1fd3b51ec9e418b4b070103474d",
-          "py3"
-        ]
-      }
-    },
-    "1.5.13": {
-      "sdist": [
-        "8d36934c288482f7d23286fc919d50bed96570e0c219f0ed3b94cf04fdddb12c",
-        "xebus-restful-api-client-library-1.5.13.tar.gz"
-      ],
-      "wheels": {
-        "xebus_restful_api_client_library-1.5.13-py3-none-any.whl": [
-          "4ae2652e1fb70eca5ecf4fc80dd0f4b6fa0e3638b2ab8905a3851a16f9c86ff2",
-          "py3"
-        ]
-      }
-    },
-    "1.5.8": {
-      "sdist": [
-        "8556639758db285d404e40b88a5e9758d2c441e2748b4aad9527b637d0248116",
-        "xebus-restful-api-client-library-1.5.8.tar.gz"
-      ],
-      "wheels": {
-        "xebus_restful_api_client_library-1.5.8-py3-none-any.whl": [
-          "2e077ade42aa8c49dba4ce008b4eee6d8bc8f9ccfc2ce63065d942aca9d8fa2a",
-          "py3"
-        ]
-      }
-    },
-    "1.5.9": {
-      "sdist": [
-        "014417e19776f49b894b0dff2205d23f181f3f07e8177b979fbb29089d7aeb7d",
-        "xebus-restful-api-client-library-1.5.9.tar.gz"
-      ],
-      "wheels": {
-        "xebus_restful_api_client_library-1.5.9-py3-none-any.whl": [
-          "0778602433dd8a87e80741aaa89de24f5f36ebbd108aa32dd42fa6eeb50a8583",
+        "xebus_restful_api_client_library-1.6.0-py3-none-any.whl": [
+          "2d3a0bb5b2484fa997b1ff03783a8e7aa4228391bfbffb69d2eb6d9165f2b432",
           "py3"
         ]
       }
