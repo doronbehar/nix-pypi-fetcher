@@ -2108,6 +2108,12 @@
         "asyncserf-0.16.2.tar.gz"
       ]
     },
+    "0.20.0": {
+      "sdist": [
+        "0b41071888452d38a5f4d17120fd2fb107966a3422a35b4d055d5984fce7716d",
+        "asyncserf-0.20.0.tar.gz"
+      ]
+    },
     "0.5.1": {
       "sdist": [
         "77bd27aee9625672a43c396e1cb4acf6f9b48878f6ff2f83d0f5da51838c1ecc",
@@ -10783,6 +10789,12 @@
         "895a6f3e6da3a86b83a42aa6d9ffb60518d535861c12dfec8aead0a58027d4ae",
         "cookgame-0.2.2.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "00e3736f1c3e51cdfc3b89d5f55460d4fe30af18ace5a7f59e6017569acc0107",
+        "cookgame-0.3.0.tar.gz"
+      ]
     }
   },
   "coredatastruct": {
@@ -16064,6 +16076,18 @@
       "wheels": {
         "dynamorm-0.10.0-py2.py3-none-any.whl": [
           "5b57921c4a4395bb0dd99940bda9346980f22a76e7bf2c40217388aae62446ae",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "6ad48124fcdb90f22beac43f45a5446c8282668777591c26b9cb15c9561c81ac",
+        "dynamorm-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamorm-0.11.0-py2.py3-none-any.whl": [
+          "94e1ead390718cff38519c5bafb02d35b077c949544894309fd841bcd097381e",
           "py2.py3"
         ]
       }
@@ -36212,6 +36236,18 @@
         ]
       }
     },
+    "1.14.63.0": {
+      "sdist": [
+        "835d863fe09096afcb4d83cc8cd01e1853510025b0de64121237da77dc25037b",
+        "mypy-boto3-logs-1.14.63.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_logs-1.14.63.0-py3-none-any.whl": [
+          "a6192243cccd6aff03f608549bfdc669d11165d95a5be06dbe6e80a6aab5b67d",
+          "py3"
+        ]
+      }
+    },
     "1.14.7.0": {
       "sdist": [
         "099dcbba4b80691c03ce7c417de946f7ef5ddd0ba61f8be57d2d6b03f4f8b812",
@@ -38250,6 +38286,18 @@
         ]
       }
     },
+    "1.14.63.0": {
+      "sdist": [
+        "7505393c1963f413a3825e9b926972fccaba121c949ef383a39318df641f86a3",
+        "mypy-boto3-s3control-1.14.63.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3control-1.14.63.0-py3-none-any.whl": [
+          "c88c4c492daf60699bec3b7f4711b46c5e890af6c04d373066ae7a56191d0c4d",
+          "py3"
+        ]
+      }
+    },
     "1.14.7.0": {
       "sdist": [
         "a7588df7bc31e39424eae4c4d17dbee70f69855dfa29a77b425a0cce5c9ba383",
@@ -40284,6 +40332,18 @@
       "wheels": {
         "mypy_boto3_workmail-1.14.62.0-py3-none-any.whl": [
           "b651cb2c143b5f43a933aaf7a3a3345f7c9af819651135aaa9136764c3fdbe65",
+          "py3"
+        ]
+      }
+    },
+    "1.14.63.0": {
+      "sdist": [
+        "4305947cc7ff62bb1873390cc10a5b2c4887195ad5c1044eac706dc31b166ee9",
+        "mypy-boto3-workmail-1.14.63.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workmail-1.14.63.0-py3-none-any.whl": [
+          "a1d70952c66a249018846f80cd4fb57a289082aee824c4a72e2e792d22d3a759",
           "py3"
         ]
       }
@@ -50614,6 +50674,34 @@
         ],
         "pymunk-5.6.0-py2.py3-none-win_amd64.whl": [
           "7688620bdfd9b81442ee2ea12505440428b1703a2cd137c3e35d0ee5edc3ce70",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.7.0": {
+      "sdist": [
+        "585aabe9a7039b7a2dc07217120b6ccfc2abc200bd381187e0912ae852a63894",
+        "pymunk-5.7.0.zip"
+      ],
+      "wheels": {
+        "pymunk-5.7.0-py2.py3-none-macosx_10_13_x86_64.whl": [
+          "b7fa2d00e173a06edc230d6d296f41e88b88a90e292ffb752a24b9b3759935ee",
+          "py2.py3"
+        ],
+        "pymunk-5.7.0-py2.py3-none-manylinux1_i686.whl": [
+          "05eeeb2c34b11a06d68188ea2636720422436481b8fe28f5db5a7e366b8a5f78",
+          "py2.py3"
+        ],
+        "pymunk-5.7.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "71c885f6200ad31c65d4ee9b3cb74c62c5c7638e1a6a4dcc8daee740b4063ce1",
+          "py2.py3"
+        ],
+        "pymunk-5.7.0-py2.py3-none-win32.whl": [
+          "e8feaff79f85c6b35d84a857db540faeaff2ecb19cfcbfcf2f8117c6ed69ee16",
+          "py2.py3"
+        ],
+        "pymunk-5.7.0-py2.py3-none-win_amd64.whl": [
+          "beaed1aa67a31509260ceae23baafc51ec8735a9352d843271bdd312bad8d778",
           "py2.py3"
         ]
       }
@@ -63178,6 +63266,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mps-3.0.257-py2.py3-none-any.whl": [
           "3f99b207aca3f0ea94081e02da41432b9a5b6c218438cdafb3155da712180076",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.258": {
+      "sdist": [
+        "92f8d0bc4f9dc4fe2206ef77ed197d8715ef05fa3c7ce89ffef628cddb43a395",
+        "tencentcloud-sdk-python-mps-3.0.258.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mps-3.0.258-py2.py3-none-any.whl": [
+          "52c8814254563ff30a08679271eb900ccc318a885e27aed4fb539c942bbc0903",
           "py2.py3"
         ]
       }
