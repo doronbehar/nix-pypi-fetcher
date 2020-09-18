@@ -7420,6 +7420,18 @@
         ]
       }
     },
+    "0.28.18": {
+      "sdist": [
+        "d6f614563b045585a85f57bae0e23c0e190bc952b265843db3b1f5f901d73783",
+        "dbnd-postgres-0.28.18.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_postgres-0.28.18-py2.py3-none-any.whl": [
+          "130188972d92658104c334a7edb33e141263cc9bac3ee391e6475e3cce25a7ed",
+          "py2.py3"
+        ]
+      }
+    },
     "0.28.2": {
       "sdist": [
         "8890bc827a54ee93994c30169e00cafecdcfed9851459abc4ae19b1841e6fddb",
@@ -12870,6 +12882,12 @@
       "sdist": [
         "13a76e5f637973a571ac0300c153f2f2f9f3936c90b93424f6ea934dd27ca1da",
         "emhub-0.0.1a5.tar.gz"
+      ]
+    },
+    "0.0.1a6": {
+      "sdist": [
+        "fa752aa4bd76d853eaab3ba0c5b75b35283fe26f4dcc44d0458a28681d7d4b70",
+        "emhub-0.0.1a6.tar.gz"
       ]
     }
   },
@@ -23505,20 +23523,6 @@
       ]
     }
   },
-  "kasd": {
-    "1.0.0": {
-      "sdist": [
-        "6be7af069843f3b63c9125ed83d146c5bd9bff983673739fd963a7fd2ca6acc4",
-        "KASD-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "KASD-1.0.0-py3-none-any.whl": [
-          "00f49ce83a1a9a15e7d4e4c088b2e90b4867adf5879e24d63276a53792771177",
-          "py3"
-        ]
-      }
-    }
-  },
   "kd163photodownloader": {
     "1.0.0": {
       "sdist": [
@@ -31810,6 +31814,18 @@
       "wheels": {
         "mypy_boto3_kms-1.14.9.0-py3-none-any.whl": [
           "9daf5c0bc582239bfc22d87929733ddbfa4218d69cc0789bafe9955198911f10",
+          "py3"
+        ]
+      }
+    },
+    "1.15.0.0": {
+      "sdist": [
+        "cf63d858e8fd2e6f0536bc13b68152e43d3ff602551141f875ef4a3de248da1f",
+        "mypy-boto3-kms-1.15.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kms-1.15.0.0-py3-none-any.whl": [
+          "af099d7d786a8c0196e9f331399b61581d45e5745ed6150563b0445b981bdb13",
           "py3"
         ]
       }
@@ -43070,6 +43086,30 @@
       "wheels": {
         "pyfb_company-1.0.0-py2.py3-none-any.whl": [
           "c826405fd4a7664c569c3ab7753ac54f30709b2fd015bcf8a5407e0c34b3f18b",
+          "3.5"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "df57da36f5567851b5e5a49d0153b0337df34c785d12fa9895fed4b5b19f3778",
+        "pyfb-company-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyfb_company-1.1.0-py2.py3-none-any.whl": [
+          "c5896f5c59fd34edea713e02223b198738ed805689ca294e1ab25a23260a70f6",
+          "3.5"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "e70ad3f3e89ff26c680a75ec917a354cabbbd14d0666c5dbc972d111835f8186",
+        "pyfb-company-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyfb_company-1.2.0-py2.py3-none-any.whl": [
+          "43b69a0ff184b2ad3a9015b1a6d25ca3270ecd07dff76eb358c63f235eb55112",
           "3.5"
         ]
       }
@@ -66629,6 +66669,32 @@
       }
     }
   },
+  "tensorflow-recommenders": {
+    "0.1.1": {
+      "sdist": [
+        "964cb08acc6180eb79ffb5c44a4d582fcd36b82baf6cd753733444065184388d",
+        "tensorflow-recommenders-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tensorflow_recommenders-0.1.1-py3-none-any.whl": [
+          "22bcb225cecaa175b2bfa3907a595ec8ad2b6fd4e33a864f195e827a4837510b",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "9b1863f156e65b5264c249c183e467c489aa38bbe720b1e08baf2f38accc406f",
+        "tensorflow-recommenders-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "tensorflow_recommenders-0.1.2-py3-none-any.whl": [
+          "6e7146ac3f83b893436a6b119d07a6141873da1c2dad5d9b58234e66b491e994",
+          "py3"
+        ]
+      }
+    }
+  },
   "terminalcloud": {
     "0.2.1": {
       "sdist": [
@@ -71695,80 +71761,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "yourai-toolbox": {
-    "0.1.0": {
-      "sdist": [
-        "35c53a099fd6a44cdcca5c3b6ae12296d81fa32f96a78d06e27dd18023d183ea",
-        "yourai_toolbox-0.1.0.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "480102224ff18f040b666090e1a62b0338cf4391a00177a0b51cfcfee991fa8c",
-        "yourai_toolbox-0.2.0.tar.gz"
-      ]
-    },
-    "0.2.1": {
-      "sdist": [
-        "cb49332a18122910435255b9b9842d668a1b7ba6435b0703642becaeebbdf173",
-        "yourai_toolbox-0.2.1.tar.gz"
-      ]
-    },
-    "0.2.3": {
-      "sdist": [
-        "a712174b94cd51461a715877a7eea36ff944ed34160ee36c9da8a09602b557cf",
-        "yourai_toolbox-0.2.3.tar.gz"
-      ]
-    },
-    "0.2.4": {
-      "sdist": [
-        "02a6d57f8b4790e93b7bc7ab597550a9f6637a215f3e28dc4961ec9d5a07e36e",
-        "yourai_toolbox-0.2.4.tar.gz"
-      ]
-    },
-    "0.2.5": {
-      "sdist": [
-        "b41a20bb41d9d47e1cfd86ea49c932c9bb5f752f180903bcf0c2b3e08d046b09",
-        "yourai_toolbox-0.2.5.tar.gz"
-      ]
-    },
-    "0.2.6": {
-      "sdist": [
-        "d5220dd83d8f96a120bc85f16ef8963b6e21ac3417006d71bb6e19130309c6ef",
-        "yourai_toolbox-0.2.6.tar.gz"
-      ]
-    },
-    "0.2.7": {
-      "sdist": [
-        "efd231e3b4070877f0e664b889e085241b96b3d46bced89ad9f1652dd9e37996",
-        "yourai_toolbox-0.2.7.tar.gz"
-      ]
-    },
-    "0.2.8": {
-      "sdist": [
-        "381eef17231c443c79f3407b6d1d785d2bcbaee89cb8ca06047e24ce64c0af51",
-        "yourai_toolbox-0.2.8.tar.gz"
-      ]
-    },
-    "0.2.9": {
-      "sdist": [
-        "48a67b0e4739b1cf78df9d7f3dcc851b8e424a403654b51d9849784fcf2810b1",
-        "yourai_toolbox-0.2.9.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "780878292b3ab8fee457744175fc10f76901adf180f62912a1a6beff5f6ca2c0",
-        "yourai_toolbox-0.3.0.tar.gz"
-      ]
-    },
-    "0.3.1": {
-      "sdist": [
-        "ed573c4902319ece9caedb168631147937e95b880c7b34fc23091b291e6da0e2",
-        "yourai_toolbox-0.3.1.tar.gz"
-      ]
     }
   },
   "ypassbook": {

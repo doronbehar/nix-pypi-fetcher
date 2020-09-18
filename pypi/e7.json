@@ -37157,6 +37157,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.0.0": {
+      "sdist": [
+        "4f3e661084cd0bc31edd9ed7e41fddbb4414cf6263c5f465abf932d6920e3f81",
+        "mypy-boto3-elasticache-1.15.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elasticache-1.15.0.0-py3-none-any.whl": [
+          "5847ad78d7b322c02419e88d127a140896dbef08a21e03e1a000d7064dabbdf9",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-kinesis-video-signaling": {
@@ -39004,6 +39016,18 @@
       "wheels": {
         "mypy_boto3_kinesis_video_signaling-1.14.9.0-py3-none-any.whl": [
           "8c4f6dc7f8a8ef0d8719233079f37e7eebbe7fe0fa4aa7b658f2380d0bed8084",
+          "py3"
+        ]
+      }
+    },
+    "1.15.0.0": {
+      "sdist": [
+        "bb33744e2624ff732e66412c4dabbcd2f2077f7da1f5a1296b2a5190bcb32e67",
+        "mypy-boto3-kinesis-video-signaling-1.15.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesis_video_signaling-1.15.0.0-py3-none-any.whl": [
+          "67cd24ff410949e78a970f65db2f6f487d62eb4a784454c20b5ea6d9037ad89c",
           "py3"
         ]
       }
@@ -46363,6 +46387,20 @@
       ]
     }
   },
+  "plenty-api": {
+    "0.0": {
+      "sdist": [
+        "6b3236d532910e20aa42d7d115291fa90af1c434341dd8ce5fa6983ebabb2d56",
+        "plenty_api-0.0.tar.gz"
+      ],
+      "wheels": {
+        "plenty_api-0.0-py3-none-any.whl": [
+          "bb72551731dc94b5e9dbae02af38a3ae998e55dff82e907f670039c5d2200bd6",
+          "py3"
+        ]
+      }
+    }
+  },
   "plentyofbugs": {
     "0.0.90a0": {
       "sdist": [
@@ -47099,92 +47137,6 @@
         "dd0a4de639d4051980d03d2dbab8af0cf04010ffdd2cf7df062f6475fd1da9d6",
         "publicatorclient-0.1.1.tar.gz"
       ]
-    }
-  },
-  "pulp-docker": {
-    "4.0.0b1": {
-      "sdist": [
-        "c454ff7c67d7db647ba56332a1087477d715824d1238645d969fa7ada0ff4cfd",
-        "pulp-docker-4.0.0b1.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b1-py3-none-any.whl": [
-          "18249bace25b865c688786432e95d368798b470a3ec90a42c9345151787e8323",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b2": {
-      "sdist": [
-        "10ddc2d77eebbb5b4cc311b6636840ed84d2783a94eea4a5e870f5ace6ea5c6f",
-        "pulp-docker-4.0.0b2.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b2-py3-none-any.whl": [
-          "cfeffdbf26b9413a0cbee101034cc2146dee0906cd3d2c237eb5889afc4835e7",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b3": {
-      "sdist": [
-        "9aadf144fa2e398db25b0f6c36ad918f7216604f5b8aed637567c7e50dd04f1b",
-        "pulp-docker-4.0.0b3.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b3-py3-none-any.whl": [
-          "0adbf5bffe72d4b0bdae760cc8fae440bafde4d2b7364f2255b2b29d4d1acd2e",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b4": {
-      "sdist": [
-        "73d09d7b5b2680adcc8c74b9216fdfa49b72daf5db1cf25d5e19120b1ba2e9c4",
-        "pulp-docker-4.0.0b4.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b4-py3-none-any.whl": [
-          "d3f7d2da4fea6f3c8d452b143ef13adda8739896c724a6c5bb31b2cd11f1dd66",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b5": {
-      "sdist": [
-        "f68e2ca0d6e6f3f2b12c30da4071256aca4b4a048d0ee3c1ddfdea2ed9c6166e",
-        "pulp-docker-4.0.0b5.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b5-py3-none-any.whl": [
-          "e6c2055993498277d30e0566038ffd420a6daca4b3998945e928495ea2884162",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b6": {
-      "sdist": [
-        "40c2d388319fd3c913330d7394beb821768c9696be43e3befecf8dd4bbd2679b",
-        "pulp-docker-4.0.0b6.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b6-py3-none-any.whl": [
-          "b25a77af8e98af373d1f19734cfba8842a38c81d247aff08a2b6b437b948480f",
-          "py3"
-        ]
-      }
-    },
-    "4.0.0b7": {
-      "sdist": [
-        "54de82c4be6f6669354fe2d191cebcc94bc5dabc5cb66f3496ef8f93470e971a",
-        "pulp-docker-4.0.0b7.tar.gz"
-      ],
-      "wheels": {
-        "pulp_docker-4.0.0b7-py3-none-any.whl": [
-          "015f45772aaa1058991e2d096a46003f597c5a16f7dec8c0d663956b354c9a61",
-          "py3"
-        ]
-      }
     }
   },
   "pulumi-scaleway": {
