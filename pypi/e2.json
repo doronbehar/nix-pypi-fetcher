@@ -38097,6 +38097,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.1.0": {
+      "sdist": [
+        "2c69509c940c6c80cd4cec387e55f88b5dbe666b6359095ef2e52b79dd4b3667",
+        "mypy-boto3-cognito-identity-1.15.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cognito_identity-1.15.1.0-py3-none-any.whl": [
+          "8a51171f5ece060f7d3b4100f706b260ff0b48cf493f6396cd0bc61337f69913",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-kafka": {
@@ -40148,6 +40160,18 @@
       "wheels": {
         "mypy_boto3_kafka-1.15.0.0-py3-none-any.whl": [
           "553726c13c719f58d98d2773629dae80aadbd25c4292fe02d54cb23470169dcb",
+          "py3"
+        ]
+      }
+    },
+    "1.15.1.0": {
+      "sdist": [
+        "591d18440239be4c61c9f8ac25ca7b30f7eb31a803d80499b5add82502398d63",
+        "mypy-boto3-kafka-1.15.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kafka-1.15.1.0-py3-none-any.whl": [
+          "ea806c475e2b66cbc2333dd67771033c41cb320966f73895b792ef198ed3f50a",
           "py3"
         ]
       }
@@ -63094,66 +63118,34 @@
     }
   },
   "pyzstd": {
-    "0.7.4": {
+    "0.9.2": {
       "sdist": [
-        "ee87b4bd68be2f152143725c0d5a921a0cbe2055ef0576715c0b3b167fbf9a24",
-        "pyzstd-0.7.4.tar.gz"
+        "989e9786616e0fcc9ae1faca6f43ad609eb0f148895c540dddca4f2fc57ca133",
+        "pyzstd-0.9.2.tar.gz"
       ],
       "wheels": {
-        "pyzstd-0.7.4-cp37-cp37m-win32.whl": [
-          "b1b795c762721006ccc9727e6315f3e64171381e209c812f141438c26aa8eb16",
+        "pyzstd-0.9.2-cp37-cp37m-win32.whl": [
+          "6d5b7d368bfd98e9c1aaad11371485cab7103ebbe4752890450bc3254fb6a422",
           "cp37"
         ],
-        "pyzstd-0.7.4-cp37-cp37m-win_amd64.whl": [
-          "f7a1add5f47c6e536907f3c8662647e6137561716026bb103adc11d35917071a",
+        "pyzstd-0.9.2-cp37-cp37m-win_amd64.whl": [
+          "33cea825b9c43b4bf4ad71d6d4ad9c89e8778cce1df77be70b2eb600b8ff4933",
           "cp37"
         ],
-        "pyzstd-0.7.4-cp38-cp38-win32.whl": [
-          "d572482fa339b622bd05372d0c9a8b17242bc59cf8cf978e07508895cd7b5696",
+        "pyzstd-0.9.2-cp38-cp38-win32.whl": [
+          "486f5b02a11567c3790a61f4eef556adcb1cc02069493bf70debf98b44c2d0a3",
           "cp38"
         ],
-        "pyzstd-0.7.4-cp38-cp38-win_amd64.whl": [
-          "23d01653be784ae4c9bf5592674c3cbf633fdcd32550a94cae938226bd615dcd",
+        "pyzstd-0.9.2-cp38-cp38-win_amd64.whl": [
+          "1baef69854a0341ae053432fcd7debebf426941f57449bd8e18ab42c8423df36",
           "cp38"
         ],
-        "pyzstd-0.7.4-cp39-cp39-win32.whl": [
-          "d3db0f3958bb807bf93478021cd68d8ecc3902d2cf9a73ce22c702e3ed27df6d",
+        "pyzstd-0.9.2-cp39-cp39-win32.whl": [
+          "24d14d54ccfbb5d624cfa0bd7b4eb1322e133b274b4f8de2af59d5929547cd23",
           "cp39"
         ],
-        "pyzstd-0.7.4-cp39-cp39-win_amd64.whl": [
-          "a49c912a2a2ae01179bfcb1b58a4b03bd95fbe5dea645d9f2add9e92984cdf26",
-          "cp39"
-        ]
-      }
-    },
-    "0.8.0": {
-      "sdist": [
-        "df9eb5ef20a1dafdef9361e451edfddf9c3979a77ed3e1092b39a4699d722f7c",
-        "pyzstd-0.8.0.tar.gz"
-      ],
-      "wheels": {
-        "pyzstd-0.8.0-cp37-cp37m-win32.whl": [
-          "ea6bc64c0a10c7206cad83db09b3e09042bfaea685816d00a0c02211a17faf57",
-          "cp37"
-        ],
-        "pyzstd-0.8.0-cp37-cp37m-win_amd64.whl": [
-          "3b41ff98e56ce0d318de960934e6514df6185c246a74b1917a29a8908a8d8433",
-          "cp37"
-        ],
-        "pyzstd-0.8.0-cp38-cp38-win32.whl": [
-          "201d93f0bb191fa58bf7e842304eca91d7a31f4863d1d4ea9282bf8177f0ed28",
-          "cp38"
-        ],
-        "pyzstd-0.8.0-cp38-cp38-win_amd64.whl": [
-          "3bebc4ed3882b4f2396ce97fc8b2d0a96630b4e96c4fea34e88f8e935398f510",
-          "cp38"
-        ],
-        "pyzstd-0.8.0-cp39-cp39-win32.whl": [
-          "e3b3b4de1c8d264cee7bd39fbb89479749861060de05ce266c47c0cd8bd76ac1",
-          "cp39"
-        ],
-        "pyzstd-0.8.0-cp39-cp39-win_amd64.whl": [
-          "ce572c8cd625120b23b1c8bc9313b154e22f1ad0a9d44e8b1e62c76bdd964eed",
+        "pyzstd-0.9.2-cp39-cp39-win_amd64.whl": [
+          "75698a9be0101a557aeb7c31633586aed18709813d05536e568cbf23a636b82a",
           "cp39"
         ]
       }
@@ -69530,6 +69522,18 @@
       "wheels": {
         "splunk_add_on_ucc_framework-4.0.4-py3-none-any.whl": [
           "4786a3ee44bdedd4a31dbca052fd343f48be4f05514a0fc9ef982ea15adec6f3",
+          "py3"
+        ]
+      }
+    },
+    "4.0.5a2": {
+      "sdist": [
+        "2928b36eda754473131781e8233be80364f22a5d747c00b2ca5fd9a49cc4abc5",
+        "splunk_add_on_ucc_framework-4.0.5a2.tar.gz"
+      ],
+      "wheels": {
+        "splunk_add_on_ucc_framework-4.0.5a2-py3-none-any.whl": [
+          "d611dfe3260e02f543f06f411f03296ab32198347b35f02a9a89b88ebe987a3a",
           "py3"
         ]
       }
@@ -76908,6 +76912,18 @@
       "wheels": {
         "torchlayers_nightly-1600388274-py3-none-any.whl": [
           "8fb3e56e5eb676df6c4741ddc52e69e853332d786ab31f00ac3da69a8db3af44",
+          "py3"
+        ]
+      }
+    },
+    "1600474635": {
+      "sdist": [
+        "7a5a32d4d884a7278e74509092d8ab715588624fc9fffa234afced51a0f133ae",
+        "torchlayers-nightly-1600474635.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1600474635-py3-none-any.whl": [
+          "4f2604c8d2604ff6060adcb6cc03d10ea5cd0554ffe4a336f598fb9946530d95",
           "py3"
         ]
       }

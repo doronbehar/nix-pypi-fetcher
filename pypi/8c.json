@@ -44607,6 +44607,34 @@
           "cp37"
         ]
       }
+    },
+    "0.11.0.20200918.2": {
+      "wheels": {
+        "pl_nightly-0.11.0.20200918.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "f837004f119d4ff6dbee1991117100df684e9bf394d64bb6ad92330435492a04",
+          "cp36"
+        ],
+        "pl_nightly-0.11.0.20200918.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "c5466d554928d83b8c23be0dd0ae61f45db2613f349bf63dfbe9b55f748ad7cb",
+          "cp36"
+        ],
+        "pl_nightly-0.11.0.20200918.2-cp36-cp36m-win_amd64.whl": [
+          "80b71da6b9372efe6324765e39839745b8a1e9aaa4e9d7fc0d4a0db63f28e7bb",
+          "cp36"
+        ],
+        "pl_nightly-0.11.0.20200918.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "036d6c65bf76d538716baa7eb4ce493ea8a7d9ecdcc7f7c6293b09323c308327",
+          "cp37"
+        ],
+        "pl_nightly-0.11.0.20200918.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "cc9c5b832c4713fb7d3ca7eabe538174a6cc4c5d38b75dae6fa7b73f0d595956",
+          "cp37"
+        ],
+        "pl_nightly-0.11.0.20200918.2-cp37-cp37m-win_amd64.whl": [
+          "3603272c29fc05322e7f648e5ea2624f23603f7d6c2292e42d31fd16624863c5",
+          "cp37"
+        ]
+      }
     }
   },
   "pmfp": {
@@ -48951,6 +48979,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0.dev1600456861": {
+      "sdist": [
+        "0beee6af6c44dce3862a9490ece3f6c9952acc13246e195413a01213da25054c",
+        "pulp_container-client-2.1.0.dev1600456861.tar.gz"
+      ],
+      "wheels": {
+        "pulp_container_client-2.1.0.dev1600456861-py3-none-any.whl": [
+          "22569bacad96532329c47c8c78f243f677d6b854da0b926870bdc8971523c2cf",
+          "py3"
+        ]
+      }
     }
   },
   "pulseaudio-switch": {
@@ -50158,26 +50198,14 @@
     }
   },
   "pyfs-base": {
-    "1.0.0": {
+    "1.0.2": {
       "sdist": [
-        "aab340e8c589143a9c57cc4df7222bd530084b6da7f357a6ccf3d0a95288038a",
-        "pyfs-base-1.0.0.tar.gz"
+        "adc9d78ee231f8ecdfe49a1227ada0b049efa626048cd3fd1d7b9c389110b281",
+        "pyfs-base-1.0.2.tar.gz"
       ],
       "wheels": {
-        "pyfs_base-1.0.0-py2.py3-none-any.whl": [
-          "776c3a55364f544230c25b62db9d5f8029ab5f0e486b5f6a9a2d5205ab5e4a4d",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "2190ac3ee1027b944457b13c257b2a3540cbfcd336928ee605ff0678bed6a31b",
-        "pyfs-base-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pyfs_base-1.0.1-py2.py3-none-any.whl": [
-          "3f8a74018f9029e3c324da1e0d612cb3edf80173ee41cb57af063805f238cca0",
+        "pyfs_base-1.0.2-py2.py3-none-any.whl": [
+          "41d61592da814afe562f0c2b1273b599fac96121305a101fdeae5b07da32eba3",
           "py2.py3"
         ]
       }
@@ -66724,16 +66752,106 @@
         "vectoralg-1.0.18.tar.gz"
       ]
     },
+    "1.0.19": {
+      "sdist": [
+        "1e91828e4b16fbcddecf72b16ea494fb141b4dd17d80ba022585de98fc896a70",
+        "vectoralg-1.0.19.tar.gz"
+      ]
+    },
     "1.0.2": {
       "sdist": [
         "971cf672be5d7311760b55628d7e007474a9ac00fca2b725f01fc2aaee4a0455",
         "vectoralg-1.0.2.tar.gz"
       ]
     },
+    "1.0.20": {
+      "sdist": [
+        "8d9358879e9099f6835d5b0aa77e91338ebe075a2006569bded550927fda0d37",
+        "vectoralg-1.0.20.tar.gz"
+      ]
+    },
+    "1.0.21": {
+      "sdist": [
+        "90ca9b6161f536ccd1a740d6e282f130b28f67f43032e038e3c122f61198ecef",
+        "vectoralg-1.0.21.tar.gz"
+      ]
+    },
+    "1.0.22": {
+      "sdist": [
+        "be405f3abbe50568c9bcadabcb359c7cb79ef7795895e3c97632a6947affea04",
+        "vectoralg-1.0.22.tar.gz"
+      ]
+    },
+    "1.0.23": {
+      "sdist": [
+        "4e496f134fb2b1fa0c42923a5a427ddec9b77b9aec14fbc09484022be84e61c1",
+        "vectoralg-1.0.23.tar.gz"
+      ]
+    },
+    "1.0.24": {
+      "sdist": [
+        "c21d0a85fe7ba2b0f0cce0ff44979222209a61233eaa9ea2d84b938b9cfaf2aa",
+        "vectoralg-1.0.24.tar.gz"
+      ]
+    },
+    "1.0.25": {
+      "sdist": [
+        "d5861e5a6e4554b7ba69c5e527b3f9b113ba38a8eaa600ef6f8bcdeab519e519",
+        "vectoralg-1.0.25.tar.gz"
+      ]
+    },
+    "1.0.26": {
+      "sdist": [
+        "1014e37b5a08036a1967278f90320046eefe0b089f04e22d8eb601b8da3c36f3",
+        "vectoralg-1.0.26.tar.gz"
+      ]
+    },
+    "1.0.27": {
+      "sdist": [
+        "a244ef406bd6ca8fcc351691487c5d1952eb49c37a5804a343f6a1042d0767fd",
+        "vectoralg-1.0.27.tar.gz"
+      ]
+    },
+    "1.0.28": {
+      "sdist": [
+        "db4318cb0daeeb3e7a772c53b11ce57a3005bcdf66added85e22253787b05d63",
+        "vectoralg-1.0.28.tar.gz"
+      ]
+    },
+    "1.0.29": {
+      "sdist": [
+        "f8436f2de2c1b1a67fbfa8dad5aeb2b64fdcab51c727b7103b5bbd23c6a43c6e",
+        "vectoralg-1.0.29.tar.gz"
+      ]
+    },
     "1.0.3": {
       "sdist": [
         "bd1e8f93e9fba9fb25e71c396c35c3e3aaa95cb63a1d334cb280b3e206f218dd",
         "vectoralg-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.30": {
+      "sdist": [
+        "20e22b9f8b8048da34a2e7b83910345f57a5328e580411cea01f28bb5faffeff",
+        "vectoralg-1.0.30.tar.gz"
+      ]
+    },
+    "1.0.31": {
+      "sdist": [
+        "6e435db48878508d4070b5c375d2063d12aa464369f84f2c418b4b0b689eb7f1",
+        "vectoralg-1.0.31.tar.gz"
+      ]
+    },
+    "1.0.32": {
+      "sdist": [
+        "26350a42daa826654befb107ab5babb9421fc7b8c93e62a6f6c9682d58eab474",
+        "vectoralg-1.0.32.tar.gz"
+      ]
+    },
+    "1.0.33": {
+      "sdist": [
+        "79546d1069d40ab32b46c8d959f06abb3d180e7c19cb1d09701af82d5a4185d3",
+        "vectoralg-1.0.33.tar.gz"
       ]
     },
     "1.0.4": {
@@ -70066,6 +70184,18 @@
       "wheels": {
         "zaber_motion_bindings_windows-1.5.1-py3-none-any.whl": [
           "41ec20bd1ba195fc13f867bb7bf900b36dadcd1ce5ab4b215f99c7282523c655",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "942bb804b5b4f2f784bb5dba9d6efa369409c4afe3507988916afb3f79978bda",
+        "zaber_motion_bindings_windows-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "zaber_motion_bindings_windows-1.6.0-py3-none-any.whl": [
+          "3c817321b3166cdd0291ffe92f5ab599f2558b3e4f4c8a7bfbd72b419df89091",
           "py3"
         ]
       }

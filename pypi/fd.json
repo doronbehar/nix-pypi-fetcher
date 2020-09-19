@@ -13284,6 +13284,12 @@
         "django-connectwise-0.3.107.tar.gz"
       ]
     },
+    "0.3.108": {
+      "sdist": [
+        "e302e4913c1d3e5cbaa57a48c5d7c2488bfe63451a6dfb7a847b0af117247e93",
+        "django-connectwise-0.3.108.tar.gz"
+      ]
+    },
     "0.3.11": {
       "sdist": [
         "598235b2541d1f9746285110691db8baf37cd136ab3175a25ef7db5b129cd0d9",
@@ -15932,6 +15938,18 @@
       "wheels": {
         "docrepo-0.8.4-py3-none-any.whl": [
           "594d1f4bd2e74a7875cda64184c734c3b2b23a4e94ccff097f97a717b0fc2ae0",
+          "py3"
+        ]
+      }
+    },
+    "0.8.5": {
+      "sdist": [
+        "5e12a32437ea6ed01c6b7981b1ac25dc32bbdd07285669eb8256d31846abb3b4",
+        "docrepo-0.8.5.tar.gz"
+      ],
+      "wheels": {
+        "docrepo-0.8.5-py3-none-any.whl": [
+          "38d42338a5a3f1140119b943fc07e3e8a014eab4301fb18ae3afd8b9050ce57e",
           "py3"
         ]
       }
@@ -39255,6 +39273,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.3.2": {
+      "sdist": [
+        "0d70fe1c15c519ed2688c9d6dafdfd369960d07829f2cdcfdcd593382aa77c77",
+        "nitclk-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "nitclk-1.3.2-py2.py3-none-any.whl": [
+          "79cefc241a41f33f7e14c62f16ad2edb674cb33ea92d7878364e987cc904872e",
+          "py2.py3"
+        ]
+      }
     }
   },
   "niteoweb.windmill": {
@@ -39504,10 +39534,10 @@
     }
   },
   "nvidia-torch": {
-    "0.0.1.dev0": {
+    "0.0.1.dev4": {
       "sdist": [
-        "bff1405428650ddab58f27491ae4bb8bd25a6a9871acc2765a7e3ef83f01ae04",
-        "nvidia-torch-0.0.1.dev0.tar.gz"
+        "a7457cfda434bf9f2ac9abbf676a61c70e5a81a736e06572dfbdb64a2ea5ea2d",
+        "nvidia-torch-0.0.1.dev4.tar.gz"
       ]
     }
   },
@@ -43757,6 +43787,20 @@
         "5bcf70b49fd5a6b089a23d49d93fd6deb05bde560219704de53ae5e48cb49acb",
         "peru-1.2.0.tar.gz"
       ]
+    }
+  },
+  "pessimist": {
+    "0.5.0": {
+      "sdist": [
+        "5aaab8de334f54c85f986c708495409b1cb42a21416b3ad9698b719d1c11a23e",
+        "pessimist-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "pessimist-0.5.0-py3-none-any.whl": [
+          "68c58c7da2e8f5c361b2ee48ec658e752b5f294fcedf3bdf3517f4eff9b88345",
+          "py3"
+        ]
+      }
     }
   },
   "pexdoc": {
@@ -49011,6 +49055,54 @@
           "cp39"
         ]
       }
+    },
+    "0.0.2": {
+      "wheels": {
+        "pyplane-0.0.2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "b4e5048f6dbf0b68854a36bea9b198badb648f02cdb8b9e148b9e884cc127808",
+          "cp35"
+        ],
+        "pyplane-0.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "680b05f9e5a28055f2645e7a9a53aa06a11f6d542ecc3809eb6860bfe68e3d24",
+          "cp36"
+        ],
+        "pyplane-0.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "58a536da7f4e09760d77878fad2619d798900775163d339dd7bc92e13337562b",
+          "cp37"
+        ],
+        "pyplane-0.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "32c29d0c8a60755c11fa333fede0eee4ff5cc41f1c266520f9dee5079e345175",
+          "cp38"
+        ],
+        "pyplane-0.0.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "4b2169ae503f543beb90605124b260d99212234843af8a20cb112ee659a037d9",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "pyplane-0.0.3-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "414d5ac51ade0866ee1a9a8b8da36254c58b0ee9d8bbcefaa160548a1c8be1d0",
+          "cp35"
+        ],
+        "pyplane-0.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "0658c188040bd9f38a8216d44b93627b52b01537c12d6e063866ae80361e5635",
+          "cp36"
+        ],
+        "pyplane-0.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9fadd9c973aabe77ac15079cfeaef49f11cccff2d1f04675619ec0f065e04626",
+          "cp37"
+        ],
+        "pyplane-0.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "925c69e45cc3dbad45396e7154ae2d2f2ff5d2ec7572cefdf5fc3331e6dd7c5c",
+          "cp38"
+        ],
+        "pyplane-0.0.3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "fcca9fc3d7fe8156ead2b6f69b7c21054d18ec67e73690754a0a48c9e293bdf4",
+          "cp39"
+        ]
+      }
     }
   },
   "pyrata": {
@@ -50927,6 +51019,32 @@
         "6ec4730ad2e0f38e5deb34d60979df5439f4c60b92a0e6390bc50f444f749670",
         "pytorch_influence_functions-0.1.1.tar.gz"
       ]
+    }
+  },
+  "pytrodactyl": {
+    "1.0.0": {
+      "sdist": [
+        "b8a3a174d361475f74aea4e1e85a1062b9e9781053677c75735bd4474079ceac",
+        "pytrodactyl-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pytrodactyl-1.0.0-py3-none-any.whl": [
+          "dfc5d1a1e3d8b3b8d74f1c5ca936675dd66f1433c543e1a0a45809ad6fa3f2f7",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "18771e6a0d09a6f5da4c4deecc94a89bb40cab4056a96a8ff8a23497c3c13191",
+        "pytrodactyl-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pytrodactyl-1.0.1-py3-none-any.whl": [
+          "4fa8c008e77eeac2fa30240f45ece2799c3d18607b88480e41b497acfafcadc8",
+          "py3"
+        ]
+      }
     }
   },
   "pyutok": {
@@ -61923,6 +62041,32 @@
         "c93d38f445747cc6e5ec26634a211e9120f29a030e08c645f689213dccee184b",
         "textutils-0.1.zip"
       ]
+    }
+  },
+  "tf-metric-learning": {
+    "0.1.0": {
+      "sdist": [
+        "0668db061f3a6c048e3508663e1ba3fb371cfcdf8656dbb1bc55bb9440ab4da2",
+        "tf-metric-learning-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tf_metric_learning-0.1.0-py3-none-any.whl": [
+          "46edf94f3e64833d321fd060c029e9e7f43f6d1ee8193e7f13c5ecdbed1aa7ad",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "104e039325b79fcf2c2a5830fe64902bf4a777c1d34fe3465853190b3127a9da",
+        "tf-metric-learning-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tf_metric_learning-0.1.1-py3-none-any.whl": [
+          "00bded89ff1e7f0daf8beef937df10064b158c51dadf37ab7a27217d3d229696",
+          "py3"
+        ]
+      }
     }
   },
   "tf-models-official": {

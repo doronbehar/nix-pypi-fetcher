@@ -16509,6 +16509,14 @@
       }
     }
   },
+  "django-ad-import": {
+    "0.1.1": {
+      "sdist": [
+        "2d6208f5fa2f3607cf5e6a63ff74479617756b97df7986b2edb721a20ec04492",
+        "django-ad-import-0.1.1.tar.gz"
+      ]
+    }
+  },
   "django-admin-blame": {
     "0.0.2": {
       "sdist": [
@@ -34849,6 +34857,56 @@
       ]
     }
   },
+  "kuailian-blockchain": {
+    "0.0.1": {
+      "sdist": [
+        "9d3daef3d7ce63ae70c3d5592b0451b8a72b6bb570fbb080af58817f988ac654",
+        "kuailian-blockchain-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "kuailian_blockchain-0.0.1-py3-none-any.whl": [
+          "be6aae7fdbf2aa968062465e53d1b859bba6987b2ff05102a3a44f864d147cc0",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "01944b8de7f733df5d03d877941d261c26492e571c32bb05c6b4fff25d8b05d5",
+        "kuailian-blockchain-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "kuailian_blockchain-0.0.2-py3-none-any.whl": [
+          "8dd05c7b7e084bf99571d33aac9edd7dbf1858cbe6ead15a114e1cc5394de2cb",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "2dafaddec0679618fb981ece9eb184a31e83348f0221be37e1de5faed64bc9cb",
+        "kuailian-blockchain-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "kuailian_blockchain-0.0.3-py3-none-any.whl": [
+          "578145d44a4576e2682a2a6b37e018f3cacd297c03e26e6ff596e5f481ca1f40",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "5e7988ceb2305cc19ccfd5dac849d225e1b31a64b82ea7c0bb0dae8dc86505ce",
+        "kuailian-blockchain-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "kuailian_blockchain-0.0.4-py3-none-any.whl": [
+          "2059720e6c018f5c9d7ae6d038441052afcde7dbcc263213fc9b0f2365711168",
+          "py3"
+        ]
+      }
+    }
+  },
   "kubesync": {
     "0.9b0": {
       "sdist": [
@@ -41482,6 +41540,18 @@
       "wheels": {
         "mypy_boto3_cloud9-1.15.0.0-py3-none-any.whl": [
           "8d8305258c74e4633d0bddd21a913cf05ddf1c14c2595059779a5dfe27259b33",
+          "py3"
+        ]
+      }
+    },
+    "1.15.1.0": {
+      "sdist": [
+        "5ace8dc1ae3358696b78996ae94b1e99f51b1a06b8fa10e146a07b2bfee3e607",
+        "mypy-boto3-cloud9-1.15.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloud9-1.15.1.0-py3-none-any.whl": [
+          "22107fc475aa5435af2fc0214f03864d856e1a126ede363fa66b4098b2776009",
           "py3"
         ]
       }
@@ -60710,58 +60780,6 @@
     }
   },
   "riptide-cpp": {
-    "1.6.6": {
-      "sdist": [
-        "286a162db394ec1f918ffaeb072ef1efb9c095d5dccd048d476e2b2f72a87751",
-        "riptide_cpp-1.6.6.tar.gz"
-      ],
-      "wheels": {
-        "riptide_cpp-1.6.6-cp36-cp36m-win_amd64.whl": [
-          "c502505adc32abcdcfc317d524ac19ab878076da67e5a9271446046ffabd85f5",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.6-cp37-cp37m-win_amd64.whl": [
-          "2c78dad29055d5bee724d90a832955c0e3e6f5de31f4db8f0f476715286d595a",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.6-cp38-cp38-win_amd64.whl": [
-          "d01275ecf3ee3b91086932dc5b0daee572231843b38312cca238f5a36388e761",
-          "cp38"
-        ]
-      }
-    },
-    "1.6.7": {
-      "sdist": [
-        "20d337523af896e722dec0abeaec922672eb90d15d4f9823a0c3dcb975b3a74c",
-        "riptide_cpp-1.6.7.tar.gz"
-      ],
-      "wheels": {
-        "riptide_cpp-1.6.7-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "692a44d03ceee97ba4773025a47bdc23e37fd7b35d59a450ee3a2701c0f8a81c",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.7-cp36-cp36m-win_amd64.whl": [
-          "d5a7b425c669b6d93be886492c4e71384459add8e72923b95302fe1f5793d5f8",
-          "cp36"
-        ],
-        "riptide_cpp-1.6.7-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "e3f9a8002ad9995980f16cd97cf3434ff993e88a67663cb6197e9d2ac736ec60",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.7-cp37-cp37m-win_amd64.whl": [
-          "012c2479e911a4770409e78f6395ceb8c6c1fd165fda919ac7f3be5e9f7a4172",
-          "cp37"
-        ],
-        "riptide_cpp-1.6.7-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "546eef406804b088679877099c044b0124bb5cfc0f8589d00b8d2728e6b79ab5",
-          "cp38"
-        ],
-        "riptide_cpp-1.6.7-cp38-cp38-win_amd64.whl": [
-          "a881f3b74921fdf8f9339521a56a0bca91f3923b50c909fd3b42d1f977e09eba",
-          "cp38"
-        ]
-      }
-    },
     "1.6.8": {
       "sdist": [
         "ff4d15a6efde1821ff331883df2dc224e19b16fe93d3d9fff00523dc16035fe3",
@@ -61055,6 +61073,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ruitestpackage3": {
+    "0.0.1": {
+      "sdist": [
+        "d1ecb7a42434a2adfcd2d2c2d73c09fe073eb89fa3235f98101c5dcf5b5f79ea",
+        "ruitestpackage3-0.0.1.zip"
+      ]
     }
   },
   "sa-rpm-s3": {
