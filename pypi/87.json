@@ -13096,6 +13096,12 @@
         "conan-1.29.1.tar.gz"
       ]
     },
+    "1.29.2": {
+      "sdist": [
+        "901f119287fa1dc909910d52c8180aef1f76297a87d57dd0ba9b118de3ed1b50",
+        "conan-1.29.2.tar.gz"
+      ]
+    },
     "1.3.0": {
       "sdist": [
         "ad12026265b63b63cbbbbc46f3aaeec91667d437022f41a2916ea8a712f3e6b2",
@@ -35242,6 +35248,42 @@
       "wheels": {
         "lbt_dragonfly-0.4.225-py2.py3-none-any.whl": [
           "3a52ce686fe7f36f740bca8a79e8cb6f4a0d184db2d566ca8b406b1aa48d4fda",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.226": {
+      "sdist": [
+        "08e5a6965faa2859587cc2bb258c5ebb6e211d6169c10f0a98c8f9c28cff1400",
+        "lbt-dragonfly-0.4.226.tar.gz"
+      ],
+      "wheels": {
+        "lbt_dragonfly-0.4.226-py2.py3-none-any.whl": [
+          "44357639182509da16169999eefcb7a741ba6f40dea92b53f977e2c783c4f93b",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.227": {
+      "sdist": [
+        "5b0a98c90bb04df6a289619c9627c95e748f15f2c1a313a576140a4fea7cbdf2",
+        "lbt-dragonfly-0.4.227.tar.gz"
+      ],
+      "wheels": {
+        "lbt_dragonfly-0.4.227-py2.py3-none-any.whl": [
+          "a93b4dad39636e2b0b400f3499ef776a6e468e1d0bc239a722639e5ac622a630",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.228": {
+      "sdist": [
+        "ab72579f2c9a74aa91d8ef59ee248f14bef95c16c4eab5cdfde77966fe77ae6b",
+        "lbt-dragonfly-0.4.228.tar.gz"
+      ],
+      "wheels": {
+        "lbt_dragonfly-0.4.228-py2.py3-none-any.whl": [
+          "e7c7e5025f878389bf674aa0ace62aec78c7163a5e78e9da66d6fe04f3591a8f",
           "py2.py3"
         ]
       }
@@ -62221,6 +62263,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "6607264c16a384838739918af9949d6000368d517eca53a00c9f93e3ee9f16c0",
+        "remote-ssh-tunnel-controller-qt-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "remote_ssh_tunnel_controller_qt-0.5.0-py3-none-any.whl": [
+          "fba4b7d9969ed1f40d4f09eb526b0cdb557f76766279cad6c39c4c41265aaf82",
+          "py3"
+        ]
+      }
     }
   },
   "renv-device": {
@@ -70967,32 +71021,6 @@
       ]
     }
   },
-  "temperature-reporter": {
-    "1.0.0": {
-      "sdist": [
-        "1efe49df6ce50c1713ad205eb1aa756f373918b9d99fef16426c2fa33dc3e2d4",
-        "temperature-reporter-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "temperature_reporter-1.0.0-py3-none-any.whl": [
-          "9c60f781e2631a94bdea6ae1a4c5b3c39a79580f8bc3097efe030d9f490212fa",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "6242d8527aca7431f6c651bc725f37e0fc6af4854c63e0d3162863b8120f3982",
-        "temperature-reporter-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "temperature_reporter-1.0.1-py3-none-any.whl": [
-          "2d31fa0569736f748fc44721533c8a0580706566c58df290eb27051650189e3f",
-          "py3"
-        ]
-      }
-    }
-  },
   "tensorflow-forward-ad": {
     "0.1": {
       "sdist": [
@@ -73898,6 +73926,66 @@
       "wheels": {
         "tql-2020.9.21.0.35.22-py3-none-any.whl": [
           "652a22b506090b7b19a2d08ae89c941dde3048ccf050234b63338b4716eaff8c",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.21.10.39.23": {
+      "sdist": [
+        "27f7e2d715d0c756a0cfde26765b93b86c060aaae2993083b239fcc46579fe68",
+        "tql-2020.9.21.10.39.23.tar.gz"
+      ],
+      "wheels": {
+        "tql-2020.9.21.10.39.23-py3-none-any.whl": [
+          "dd00a748b0e5c5be0bc6d3c577d6624824e8a0a004b9c68fe068d1f365d529ed",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.21.10.44.27": {
+      "sdist": [
+        "a4d159615139c56df4512ea62b20c061b85f8408a3eb4ba7b08e84fe32bcd074",
+        "tql-2020.9.21.10.44.27.tar.gz"
+      ],
+      "wheels": {
+        "tql-2020.9.21.10.44.27-py3-none-any.whl": [
+          "0299dedf076c93d85b5216f313a224d577f56f776a5ad48713cabfa57948ea00",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.21.10.51.2": {
+      "sdist": [
+        "09823157dc35d1b31282bd8b87afbc6ab4692888497aad9c7ba021c178a80613",
+        "tql-2020.9.21.10.51.2.tar.gz"
+      ],
+      "wheels": {
+        "tql-2020.9.21.10.51.2-py3-none-any.whl": [
+          "e1f00538709d2090028f43f63d6806372a2b57025f6843f06aa292568e9065ef",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.21.10.52.48": {
+      "sdist": [
+        "da595d1550eaf232bb0eaa6694fa78b9a9deb431a41d37bf26e8127e21f3f166",
+        "tql-2020.9.21.10.52.48.tar.gz"
+      ],
+      "wheels": {
+        "tql-2020.9.21.10.52.48-py3-none-any.whl": [
+          "3674d6a417b8dd86b55a0177afc4a3436bc8a63f204ea0d95a7f766c5233bb51",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.21.14.38.47": {
+      "sdist": [
+        "b26d05dd1d64438e63c64cb6c5588328e6fd2d9f7ff056fd93d850a2b3f6ab5f",
+        "tql-2020.9.21.14.38.47.tar.gz"
+      ],
+      "wheels": {
+        "tql-2020.9.21.14.38.47-py3-none-any.whl": [
+          "5e9ea964e02ff195f3fbb0b8302e5cfa36c0007482f62336f44d710c2b3c585a",
           "py3"
         ]
       }
@@ -79934,6 +80022,12 @@
       "sdist": [
         "74791b20b3c92693606f5b0b84f5d1929ce4dd8da64745fc55e452a2ab24e510",
         "yandexcloud-0.52.0.tar.gz"
+      ]
+    },
+    "0.53.0": {
+      "sdist": [
+        "662cc36b9851a06f03e8e97879b201b6b1ec400e252d58dfb2e1a596ae709140",
+        "yandexcloud-0.53.0.tar.gz"
       ]
     },
     "0.7": {
