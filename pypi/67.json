@@ -39045,6 +39045,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.2.0": {
+      "sdist": [
+        "f4ad9f727d7a778a9c6ad67e262c9e9d0f657499b5f6acd7a2751809cf84dad6",
+        "mypy-boto3-autoscaling-plans-1.15.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_autoscaling_plans-1.15.2.0-py3-none-any.whl": [
+          "1b3b26f0a0c51a2d457b82e18271f2907d17c50c566775ea16967b54d4aa2538",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-ce": {
@@ -41132,6 +41144,18 @@
       "wheels": {
         "mypy_boto3_ce-1.15.1.0-py3-none-any.whl": [
           "829b5e7d46eb4f9e1ace70844d74a777c59a6286e37404a653863d9bdd39878a",
+          "py3"
+        ]
+      }
+    },
+    "1.15.2.0": {
+      "sdist": [
+        "80ce33de4daeb295e51083e348b4889e15035cb428fae78fa01f867ab1838357",
+        "mypy-boto3-ce-1.15.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ce-1.15.2.0-py3-none-any.whl": [
+          "ad17a50bcd90bf6d999f56086179e874109d0c6fed93ea631df1ef00ce4885e6",
           "py3"
         ]
       }
@@ -45041,6 +45065,14 @@
       ]
     }
   },
+  "omod": {
+    "1": {
+      "sdist": [
+        "de2c691293b2b685ef34ad530603e957515f9b8ec31b68e4bce48066177dd503",
+        "omod-1.tar.gz"
+      ]
+    }
+  },
   "oort-cloud": {
     "0.1.1": {
       "sdist": [
@@ -47340,6 +47372,50 @@
         ],
         "Phidget22Native-1.6.20200916-cp38-cp38-win_amd64.whl": [
           "2ab403d04a8773fb4f05aee81e5363a610b88dcb2128fdedd66dc91e7f8fddf5",
+          "cp38"
+        ]
+      }
+    },
+    "1.6.20200921": {
+      "wheels": {
+        "Phidget22Native-1.6.20200921-cp27-cp27m-win32.whl": [
+          "a610ba6534a4b6dd84c223e75ae7cf7a128ea5955cd4fb8d649dcd8adc4a56a0",
+          "cp27"
+        ],
+        "Phidget22Native-1.6.20200921-cp27-cp27m-win_amd64.whl": [
+          "6edede428ad154f0dbe326f6393c5b6bfde322b361a0a229bf24f8e991028914",
+          "cp27"
+        ],
+        "Phidget22Native-1.6.20200921-cp35-cp35m-win32.whl": [
+          "a123984882b80dc5bf3b8715d64edb77297bcac2fe5230ccc0c270601c12d377",
+          "cp35"
+        ],
+        "Phidget22Native-1.6.20200921-cp35-cp35m-win_amd64.whl": [
+          "abe6f2cc4e9b5aef9448d00de74025c7fc3122bed02c92639cdcb2328cb162d8",
+          "cp35"
+        ],
+        "Phidget22Native-1.6.20200921-cp36-cp36m-win32.whl": [
+          "b883671e928424b5433f31d685fbd2bf4b721fcb02b3474f960ef88551758d5c",
+          "cp36"
+        ],
+        "Phidget22Native-1.6.20200921-cp36-cp36m-win_amd64.whl": [
+          "84385dd7c5526eef7085283571b251e65f5cc2663af2063cd4bc91a37fbc079b",
+          "cp36"
+        ],
+        "Phidget22Native-1.6.20200921-cp37-cp37m-win32.whl": [
+          "272335c3bbe70180f5d30579f8bed2528fbedd62ddd71d93240e58baa20232fe",
+          "cp37"
+        ],
+        "Phidget22Native-1.6.20200921-cp37-cp37m-win_amd64.whl": [
+          "cfbd229576bd9ed3e7898e53fccdd2162a30a3f07fed4083ceb060d5d11238be",
+          "cp37"
+        ],
+        "Phidget22Native-1.6.20200921-cp38-cp38-win32.whl": [
+          "68904f2f2468e1404d8a2682c08191484d5e1c92a562da340d64e9820f14f19c",
+          "cp38"
+        ],
+        "Phidget22Native-1.6.20200921-cp38-cp38-win_amd64.whl": [
+          "9bc93c2b90684a1ad7b1d3b1e628ee758a798bd8700dfba52eeb17fb3b606cbc",
           "cp38"
         ]
       }
@@ -54132,6 +54208,18 @@
       "wheels": {
         "qinling_dashboard-3.0.0.0rc1-py3-none-any.whl": [
           "3b10b5faf1e9a54ae2b8101a80959a7978270995d75b978afedd09b1e4d9fdc6",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0.0rc1": {
+      "sdist": [
+        "c8393d3536e0436ec44f92db9bf27887c1042fa3f14a76253afacc07e84fd6ac",
+        "qinling-dashboard-4.0.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "qinling_dashboard-4.0.0.0rc1-py3-none-any.whl": [
+          "e1aede8a364f931418a1e56673b8ebaa9e18ca2fabb0acaa99de6a54b99dd0b6",
           "py3"
         ]
       }
@@ -66886,6 +66974,42 @@
       "wheels": {
         "tortus-0.0.2-py3-none-any.whl": [
           "f12931cef1d532f103e336c54c8775397bebd2983cb40e5c90e07b42a74c8079",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "eb96dafd6f1377c22cd430cfd626fd1160c55dbdd5cb9e9f22490dbcd4f80505",
+        "tortus-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "tortus-0.0.3-py3-none-any.whl": [
+          "e01e33ea0bc321f4f06e2c16292ea6a4b45c1670c0f7fee4f6ecb6511b057a4b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "3068650caaf89606e9f8aaa01aee63c9286c95c1c5c3797c35279e523495056b",
+        "tortus-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "tortus-0.0.4-py3-none-any.whl": [
+          "7fbbbb251840450a5539fb3ec4a38ee9f361409ecf5a75dcf3d3fe5ec06b4293",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "2070b6bf87ae7f38c9fad553b2e95f58246a98e1d4e3da13923857057c24ccf2",
+        "tortus-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "tortus-0.0.5-py3-none-any.whl": [
+          "4e52f38ec6aa4216e924f4fb4a04f29d25812217bc48c3bfab0e074cfcbe3b21",
           "py3"
         ]
       }

@@ -13815,6 +13815,20 @@
       ]
     }
   },
+  "codecolor": {
+    "0.0.2": {
+      "sdist": [
+        "2d50af44a135db210d1f9dff3b55f779d4d1a36607790ca542a64da8ef0b9a0c",
+        "codecolor-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "codecolor-0.0.2-py2.py3-none-any.whl": [
+          "77db8357a5a2393691805a9c86ca9c650ba7f78169a07794dafa8c67e7114e3b",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "coff": {
     "0.0.2": {
       "sdist": [
@@ -16377,6 +16391,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0a0.dev198": {
+      "sdist": [
+        "41ba920dd52ebc8649c70ba5bb42a77bd03e51a96c9a49874244b59e258a009f",
+        "dapr-ext-fastapi-dev-0.7.0a0.dev198.tar.gz"
+      ],
+      "wheels": {
+        "dapr_ext_fastapi_dev-0.7.0a0.dev198-py3-none-any.whl": [
+          "539e984f59258b28ea9228479c8d74d8196540150af7ee6b8c3856854f6cde69",
+          "py3"
+        ]
+      }
     }
   },
   "darwin-shared": {
@@ -17201,20 +17227,6 @@
         "69194c6923a4a25b6ad31009f90afad0a743fd6c33004361c6bc3d4302368060",
         "darwin-shared-0.4.1.tar.gz"
       ]
-    }
-  },
-  "dataclass": {
-    "0.0": {
-      "sdist": [
-        "e30715679c798b2ea2be0027f0b0306a6a4f678017f08faac903d899cf4da4bc",
-        "dataclass-0.0.tar.gz"
-      ],
-      "wheels": {
-        "dataclass-0.0-py3-none-any.whl": [
-          "ea6b7de4b8bde996ba14c45519a1e5a73a25a928420f2eb2d5f1442aff8c0d04",
-          "py3"
-        ]
-      }
     }
   },
   "datalad-neuroimaging": {
@@ -22362,6 +22374,94 @@
         ],
         "dimod-0.9.5-cp38-cp38-win_amd64.whl": [
           "fa5d92873a3b3372db2eb100fb55152fe009d5eea1280999cf9de7940a0e9922",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.6": {
+      "sdist": [
+        "c6c3aa1782d6d2454942ab48eb8a2899c861dc010034c1765ff847790c3e95e3",
+        "dimod-0.9.6.tar.gz"
+      ],
+      "wheels": {
+        "dimod-0.9.6-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "7332c3c7a9ca6f6971952000b4ed566dec921ff216733ca5da6bc5267196c735",
+          "cp35"
+        ],
+        "dimod-0.9.6-cp35-cp35m-manylinux1_i686.whl": [
+          "3953ecaab0630e90f7fd7ed5628d90cabecfa31b8289865c8d2329e6b2185652",
+          "cp35"
+        ],
+        "dimod-0.9.6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "1d107ee9cbe221214f16ed9638945b31c3178e425f98259a379c6d80cdfe8275",
+          "cp35"
+        ],
+        "dimod-0.9.6-cp35-cp35m-win32.whl": [
+          "681381bbbcd5c0162c93efc17fef0a597d150ded530044065d5f98e7a8af178b",
+          "cp35"
+        ],
+        "dimod-0.9.6-cp35-cp35m-win_amd64.whl": [
+          "eda512ab1df9b408140247758beefbadad9aa0c3dab8a097594cc3c48949c5e8",
+          "cp35"
+        ],
+        "dimod-0.9.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "edb84db7d7ff2607164ac632a94a90209d46f580f663f145872d6f71f52ebe9e",
+          "cp36"
+        ],
+        "dimod-0.9.6-cp36-cp36m-manylinux1_i686.whl": [
+          "a1452ceac1193db1a7bd7b7e2cb817405c1f10ced31e31a0abfba8a894213e6f",
+          "cp36"
+        ],
+        "dimod-0.9.6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "bbdeddd46b7a437759485237ded82fe3b1ef08b14d84a2e59f3b1184e57ad1e4",
+          "cp36"
+        ],
+        "dimod-0.9.6-cp36-cp36m-win32.whl": [
+          "25de190d963a1c02552eba114675c421e71f086a9df243fca6456c19c77a72d8",
+          "cp36"
+        ],
+        "dimod-0.9.6-cp36-cp36m-win_amd64.whl": [
+          "aed7d62ed2456b48dce80adde309c955c73eda5aad9075b487b062d8c2086a7f",
+          "cp36"
+        ],
+        "dimod-0.9.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "5a7b652346feed6c37c8d65df4aa92406254a951588ec19afa1555b935b28569",
+          "cp37"
+        ],
+        "dimod-0.9.6-cp37-cp37m-manylinux1_i686.whl": [
+          "95212f8e4ac80c1a8b8fa7bb3599a64731a4bd640e85d68c1e19b125637683ed",
+          "cp37"
+        ],
+        "dimod-0.9.6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2639d2149a86a46afc0a2db10827766a7a807dd77ecb0448b327619e1fd68711",
+          "cp37"
+        ],
+        "dimod-0.9.6-cp37-cp37m-win32.whl": [
+          "fedf7ea34a273ee4a1f880d581012889032fd18ad902be8085575eb4dfee632c",
+          "cp37"
+        ],
+        "dimod-0.9.6-cp37-cp37m-win_amd64.whl": [
+          "696d0bd7b6ce94268833118dbd7eb90c08d572b189fa37a432c35e0323c9772e",
+          "cp37"
+        ],
+        "dimod-0.9.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ec426f85d86035e8d51b2eb5e69118eaf56b28b1c3b0153b81db71234927baff",
+          "cp38"
+        ],
+        "dimod-0.9.6-cp38-cp38-manylinux1_i686.whl": [
+          "0ac6d2fcb034e3ec39905514f4b144cd781d9558939480cd3f103375b8706281",
+          "cp38"
+        ],
+        "dimod-0.9.6-cp38-cp38-manylinux1_x86_64.whl": [
+          "267e0d3db0a121ff15a2326c9a5fdc4aba74c3dd4f9abfd7c9c379db68613f37",
+          "cp38"
+        ],
+        "dimod-0.9.6-cp38-cp38-win32.whl": [
+          "f021c0a7671698620614235fb54888adfa128b6fecaf993d7b27ce0190df337f",
+          "cp38"
+        ],
+        "dimod-0.9.6-cp38-cp38-win_amd64.whl": [
+          "921d93840d4859539de286865d5397f6feea3998da20404f24a5b9fdf7c5ce79",
           "cp38"
         ]
       }
@@ -41811,6 +41911,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.2.0": {
+      "sdist": [
+        "12b8c923bee35ddbd32c47b0dff4056cf19f367ae55ca4c1a2b7fbdd4e964293",
+        "mypy-boto3-codepipeline-1.15.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codepipeline-1.15.2.0-py3-none-any.whl": [
+          "7759f7ceecc5616022ae5dd76525284294cd98b07b5fbabed3a97811e61be864",
+          "py3"
+        ]
+      }
     }
   },
   "myroot99": {
@@ -50346,6 +50458,18 @@
       "wheels": {
         "plone.app.upgrade-2.0.34-py2.py3-none-any.whl": [
           "e1b380944aca7e1b1c1e4300f97046b9b87268effa614e08a7be154fd6363495",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.35": {
+      "sdist": [
+        "79a70644d43bd71f918a27e59af55942a665de3a433f71fa545d9075f4626820",
+        "plone.app.upgrade-2.0.35.tar.gz"
+      ],
+      "wheels": {
+        "plone.app.upgrade-2.0.35-py2.py3-none-any.whl": [
+          "acc6127b4943cada9a65a3a1eff263bed7c75791ee5f757235affcb67444213c",
           "py2.py3"
         ]
       }
@@ -63548,6 +63672,18 @@
       "wheels": {
         "SeismicMesh-3.0.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "6446f5e897eb61344064163ceab1a0947573ff048d3abc283187fdf2f11ace47",
+          "cp37"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "a00fb020bfe9ae96a92b6243a6e94fda28b385793f4af5f75d23aa9f8ee13e91",
+        "SeismicMesh-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "SeismicMesh-3.0.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "055177420c52e3576d3f1318d6ce497d5e109269793154b887118c18d046b7af",
           "cp37"
         ]
       }

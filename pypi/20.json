@@ -6940,6 +6940,14 @@
         ]
       }
     },
+    "1.14.0": {
+      "wheels": {
+        "azureml_contrib_automl_dnn_forecasting-1.14.0-py3-none-any.whl": [
+          "b71c7452d0259cf722b2802a523cb029d0730e5c593a26cc5a238f061de7c0c0",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_contrib_automl_dnn_forecasting-1.2.0-py3-none-any.whl": [
@@ -10300,6 +10308,18 @@
         ]
       }
     },
+    "11.0.0.0rc1": {
+      "sdist": [
+        "488678b4bcf6518b1bea2fc30bc6515967a7bf1229607a251d166aadd14a78de",
+        "cloudkitty-dashboard-11.0.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "cloudkitty_dashboard-11.0.0.0rc1-py3-none-any.whl": [
+          "d8e8355e18fd6c7e08d821b7ebab4656ef39d012ce2518a11bd10b71205e5699",
+          "py3"
+        ]
+      }
+    },
     "5.0.0": {
       "sdist": [
         "fb1329a4a774fd352851b890bf9a38c0a114bc928b5169ba13fccb4f565a20a9",
@@ -12038,6 +12058,12 @@
       "sdist": [
         "3ae53e9ed823d062ed145a0df1f95a873ca79d2f9122e36bcd1770dd1e722ac9",
         "CoreMS-17.7.6b0.tar.gz"
+      ]
+    },
+    "17.7.7b0": {
+      "sdist": [
+        "f135601669b7761b387ada1ef3549f61e61d60451f06e80d14851177bc837bf9",
+        "CoreMS-17.7.7b0.tar.gz"
       ]
     }
   },
@@ -27102,6 +27128,18 @@
       "wheels": {
         "google_cloud_pubsub-2.0.0-py2.py3-none-any.whl": [
           "e794fe0b227f0c14826175e00650d2eaa8fd8647cad5e8ccfb6b73f9a85a07bc",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "42b07d8652f0ff0d118430a04abc19ee1f6fd85ccbfe86fcbb01bf487079a80c",
+        "google-cloud-pubsub-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_pubsub-2.1.0-py2.py3-none-any.whl": [
+          "84ba7485cf036b38bc3b1b146504dd39922a1dc719d6845809d7b2d0e1ede624",
           "py2.py3"
         ]
       }
@@ -45415,6 +45453,18 @@
         "66603006dd55701d678821fe54c2e2d0dbf84f48a29510c77a672a8631d40ae6",
         "pulumi_kong-2.4.0a1599152648.tar.gz"
       ]
+    },
+    "2.4.0a1600708671": {
+      "sdist": [
+        "c87c0e29e519cd8d331fff1a1ade969c02b75bd7f7d83b93618a135f8859e240",
+        "pulumi_kong-2.4.0a1600708671.tar.gz"
+      ]
+    },
+    "2.4.0a1600730963": {
+      "sdist": [
+        "7a389095e848b68430acbbf3698805c64005a86968b37aa83b39ba46c0d8e528",
+        "pulumi_kong-2.4.0a1600730963.tar.gz"
+      ]
     }
   },
   "pulumi-newrelic": {
@@ -46060,10 +46110,28 @@
         "pulumi_newrelic-3.4.1.tar.gz"
       ]
     },
+    "3.4.2": {
+      "sdist": [
+        "284988db255846a459ec0d5f646b78180a4485af906efa58dbb83a004a705231",
+        "pulumi_newrelic-3.4.2.tar.gz"
+      ]
+    },
     "3.5.0a1600096278": {
       "sdist": [
         "e299db6bb896aabb80be9ca652519a8ccaa20b262649513afccd463c54576f20",
         "pulumi_newrelic-3.5.0a1600096278.tar.gz"
+      ]
+    },
+    "3.5.0a1600708990": {
+      "sdist": [
+        "715931b357a58d8f2267e5516591c1d5cf1c75634cc5823a235b438e6560da30",
+        "pulumi_newrelic-3.5.0a1600708990.tar.gz"
+      ]
+    },
+    "3.5.0a1600731060": {
+      "sdist": [
+        "0a149ed665b3f83c027431228246158c71ef095e8ed85e115cd8c0ba056c44b5",
+        "pulumi_newrelic-3.5.0a1600731060.tar.gz"
       ]
     }
   },
@@ -66566,6 +66634,94 @@
         ],
         "upolygon-0.1-cp38-cp38-manylinux2010_x86_64.whl": [
           "0dcb571e3c689850bf662106a5561349ffdd9031fb344582827b65b752087c52",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "a9a4eb00bc40e3db39dc0f74acf5ade766a98100dca6418d7207b84abbc845df",
+        "upolygon-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "upolygon-0.1.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "8035004430c92f2476a9c458e9614cbcb270c0923d95d898cccec68457179157",
+          "cp36"
+        ],
+        "upolygon-0.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2ea58717e7c1b80f985683b4b0f099d77a4846ff0d25c3360e8196060263d8b1",
+          "cp36"
+        ],
+        "upolygon-0.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "082762744b2cd354ba509c31f876d4fb77b78cc80a9ae28be54750fcfe67bdd1",
+          "cp36"
+        ],
+        "upolygon-0.1.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "beab8228969c91f2080e2afab066475fe1c37b4cb4f42b493defcadec4f077e5",
+          "cp37"
+        ],
+        "upolygon-0.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "10be0dc7f0d88538166f4b7a5051dd8ff1fe724aedffafea21707820bbee8dd8",
+          "cp37"
+        ],
+        "upolygon-0.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1745421105a33866e2e2a00fc9627a1f04bf3c8a17615022a176e155aba8a13c",
+          "cp37"
+        ],
+        "upolygon-0.1.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "5f948d464612812a9380afc7207f15e4c55c83a3e4763dec5469171561510334",
+          "cp38"
+        ],
+        "upolygon-0.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "7c43608c98eed4b676647c70f0274386dc3d2cfb858b435d310486b38c7faf38",
+          "cp38"
+        ],
+        "upolygon-0.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "fef0a7d2b09426b7cbd19867f3255dadb0b0a507c24e686946c84a1bccc32493",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "28c2b3c7c9b6492c128a914be17b360dc08e0ac4ac466dcd2a50bdaafc7832bb",
+        "upolygon-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "upolygon-0.1.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "4abb958257255c0c811e973d475ae4a1363f5604801950850858ce3726b20566",
+          "cp36"
+        ],
+        "upolygon-0.1.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "cf6d3a49bf058a2a7c928a66a5052ea1043823fe4c36d43273829d0eb640e21b",
+          "cp36"
+        ],
+        "upolygon-0.1.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c90afc4b50426bba880625600a625dbb6707771ec96c46802970eaf0b33ffc61",
+          "cp36"
+        ],
+        "upolygon-0.1.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "0f7e0063eaa3a73fa803fb122cdc6d48470d15942d0931f6b0ef2397914e3bab",
+          "cp37"
+        ],
+        "upolygon-0.1.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "59ea2abf63c82e90f41a6464e05db884085aa16870544b89823cc12033069f60",
+          "cp37"
+        ],
+        "upolygon-0.1.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a59ea4606e8ea296cce300eb9006ffcba93f476826c6da7229f49f011d08ff64",
+          "cp37"
+        ],
+        "upolygon-0.1.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "416f987c95962e9de85feffa2ee6ffe32408dd172c24bc2e13ed1be7400d7ce1",
+          "cp38"
+        ],
+        "upolygon-0.1.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "02d7130b510395dd5e269d4ad6d17219131d2ec787a396472a57268cc9f2e72a",
+          "cp38"
+        ],
+        "upolygon-0.1.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "724b28064365ee28d3f17bb6464cd9a91b25e867cac6bac66fefb9f112fbc228",
           "cp38"
         ]
       }
