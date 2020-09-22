@@ -2680,6 +2680,34 @@
         ]
       }
     },
+    "20.9.0": {
+      "wheels": {
+        "appdynamics_bindeps_linux_x64-20.9.0-cp27-none-any.whl": [
+          "587bb65ea394fbb8269594887c3e41f92ce64acc1da28c6ad6e01697dc46346e",
+          "cp27"
+        ],
+        "appdynamics_bindeps_linux_x64-20.9.0-cp34-none-any.whl": [
+          "a00c43cf263299e8c5a6ff699b9e97870c968ca67fa02721532e25e960c74f35",
+          "cp34"
+        ],
+        "appdynamics_bindeps_linux_x64-20.9.0-cp35-none-any.whl": [
+          "00fe27dc8e1d72e9509bc19b0a7f14d6c3c5a391cb0935fa8a497707a3870c34",
+          "cp35"
+        ],
+        "appdynamics_bindeps_linux_x64-20.9.0-cp36-none-any.whl": [
+          "2de0eac5fa35817f29dbbb80f463e388eef7ba4edd429a1fa6890e525d28b3d6",
+          "cp36"
+        ],
+        "appdynamics_bindeps_linux_x64-20.9.0-cp37-none-any.whl": [
+          "7a538c7f276b6f9c11f2e6599fd4dc90475c31bd0d73c5d8979388032d5a986f",
+          "cp37"
+        ],
+        "appdynamics_bindeps_linux_x64-20.9.0-cp38-none-any.whl": [
+          "e915e71fa32107c280324a0f8a2bbbf5847ab9c532e171c0704576bcfb7433f7",
+          "cp38"
+        ]
+      }
+    },
     "4.0.5.0": {
       "wheels": {
         "appdynamics_bindeps_linux_x64-4.0.5.0-cp26-none-any.whl": [
@@ -16655,6 +16683,30 @@
           "py2.py3"
         ]
       }
+    },
+    "4.1.0": {
+      "sdist": [
+        "b1a642c41262225910ffad00bf71f6e93fa94fc1a5413ff5d4310aeb950a6f7a",
+        "django-tinymce4-widget-4.1.0.tar.gz"
+      ],
+      "wheels": {
+        "django_tinymce4_widget-4.1.0-py3-none-any.whl": [
+          "fc13dd784bc0cf0feb53b7ad9752a25d50f67f887ce322a8eb65a52af64704a6",
+          "py3"
+        ]
+      }
+    },
+    "5.0.0": {
+      "sdist": [
+        "ecba17b37905c054353498130ca5e061b07e1f73999947938238789848d8b803",
+        "django-tinymce4-widget-5.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_tinymce4_widget-5.0.0-py3-none-any.whl": [
+          "1794ca4324dfa8a24b09ae95434a6b798967b030072be0bb8b4d3b8e530fa8c8",
+          "py3"
+        ]
+      }
     }
   },
   "django-vitae": {
@@ -17132,6 +17184,18 @@
       "wheels": {
         "djpb-0.6.0-py3-none-any.whl": [
           "cfe4c30b918a08b8674939dc92e45c273d12140e4373aa2dafb49fe349a96531",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "b5c2ddc4b0a7d3c6a160b8590b49a356f88abc13c5b997682cf2ff9e828a2c6d",
+        "djpb-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "djpb-0.7.0-py3-none-any.whl": [
+          "67e3f4743da3bcb88fc99395feb3b9f7b642b26ba098a557d17fc8426fffd5fe",
           "py3"
         ]
       }
@@ -60513,6 +60577,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.261": {
+      "sdist": [
+        "a7bd93e20f37dd9c0fefccaee4f46df4fba6be37350eb9f78ed0103251ce54b3",
+        "tencentcloud-sdk-python-memcached-3.0.261.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_memcached-3.0.261-py2.py3-none-any.whl": [
+          "ef3148a87b9f8bd1197a215d84a800fdcf89add313d183a30dcc83365c8ded06",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tennyson": {
@@ -61170,6 +61246,14 @@
       "wheels": {
         "tf_hub_nightly-0.10.0.dev202009210006-py2.py3-none-any.whl": [
           "204a7a45549d6cb2bfa37f9a77c21b74d3fc082edf67884e9eaad58f0fe6350d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.10.0.dev202009220006": {
+      "wheels": {
+        "tf_hub_nightly-0.10.0.dev202009220006-py2.py3-none-any.whl": [
+          "46041f0433974ef712784605ad4f89facfa65bb2fb3af8310ef3f8a7044c9633",
           "py2.py3"
         ]
       }
@@ -70279,6 +70363,56 @@
         "b1ef5c6678c9be394af58306d3b184e3dbe3431b3e81f051b5f0df190dd3c5e6",
         "wadus-0.3.tar.gz"
       ]
+    }
+  },
+  "wavecount-cli": {
+    "0.1.0": {
+      "sdist": [
+        "aea3f53d31133f8b28725095b068b858958bfd9a0d12a0d773fc1e670399006b",
+        "wavecount-cli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "wavecount_cli-0.1.0-py3-none-any.whl": [
+          "f77d1b5bda1285e64a6b78cfb016fe05b4e6a66c149b24536e2bf089263c18f1",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "16815ccbeaf7446d7a5813a6da227424e1b618d9791fa62029ecad3acdf62d26",
+        "wavecount-cli-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "wavecount_cli-0.1.1-py3-none-any.whl": [
+          "edc9a2d540f5d1a594e6f455b137e961c6c37a140da7737627f840f324cf3035",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "1ba5b6f145f0e12b48586f37fa4b17c28dfceb2b69fb279ecb1aba1b8ce271e5",
+        "wavecount-cli-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "wavecount_cli-0.1.2-py3-none-any.whl": [
+          "53e7c9aa51a02863b84800388a4a1344387a56bbf653e7ddb05dfe28f1f4ea55",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "48e80546951312dfdc19b1d7068e8dba6c45864a1a4c017f700b6d114ce1366f",
+        "wavecount-cli-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "wavecount_cli-0.2.0-py3-none-any.whl": [
+          "504ccd60adef19ae4b28554b92176a640fb0e19f8a10daac2965ebc09143893c",
+          "py3"
+        ]
+      }
     }
   },
   "wcpan.drive.core": {
