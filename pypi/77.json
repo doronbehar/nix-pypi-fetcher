@@ -3483,6 +3483,12 @@
         "e5decea90fcc65d6e742ef4f2383b326e581ff84026d213072b30a665f4338f7",
         "aliyun-python-sdk-scdn-2.1.1.tar.gz"
       ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "1c161043c32efd7b134428f163392682c2ff5fcdd45d062d31956757829d5aa6",
+        "aliyun-python-sdk-scdn-2.1.2.tar.gz"
+      ]
     }
   },
   "allmusic": {
@@ -10866,10 +10872,10 @@
         "client_sdk_python-0.1.4.tar.gz"
       ]
     },
-    "0.13.1": {
+    "0.13.1.1": {
       "sdist": [
-        "af703bfcfcfc5711b55f8833a1c7510995dd6f2f8c659417d422a5786c17727c",
-        "client_sdk_python-0.13.1.tar.gz"
+        "7416e7eb0fa7254bd72bc97cb1baee2304590f3d01be526b9e243834ec531a12",
+        "client_sdk_python-0.13.1.1.tar.gz"
       ]
     },
     "0.2.0": {
@@ -21074,6 +21080,18 @@
         "ducktape-0.7.1.tar.gz"
       ]
     },
+    "0.7.10": {
+      "sdist": [
+        "c71610f9d7574016d44ddcc89d592236853a7f06aa072b1e8918e2669684715d",
+        "ducktape-0.7.10.tar.gz"
+      ],
+      "wheels": {
+        "ducktape-0.7.10-py3-none-any.whl": [
+          "7d8c9cdc9bbfef95abe4506ad5ad06abc06f78e2782eff71b992d3d97e0ad832",
+          "py3"
+        ]
+      }
+    },
     "0.7.2": {
       "sdist": [
         "873467eb71865c3093f682d91ca3a5b8e2b7f4f4311326778a935aa56bfb40ab",
@@ -24160,6 +24178,18 @@
       "wheels": {
         "folkol.yg-0.0.10-py3-none-any.whl": [
           "dc8a1cb623c8a5f25cf0ecfa739c2e1d32da0eb5457cbcb6110062b3c231b4fb",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "9befd0a0a5eca6da438bc0290f4ed5e111e7807de63c39dd31193e207419a7a6",
+        "folkol.yg-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "folkol.yg-0.0.15-py3-none-any.whl": [
+          "4688bd14ec40fd5dd263aa82a34d92328820e44bcbeb8ad6802216e2ff837d14",
           "py3"
         ]
       }
@@ -70115,6 +70145,158 @@
           "pp36"
         ]
       }
+    },
+    "0.9.2": {
+      "sdist": [
+        "127baa680b47a66b3b7d5a345e22d61bdfecac79a9a2c8f80a1c4c321c264a6a",
+        "sme-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "sme-0.9.2-cp27-cp27m-manylinux1_x86_64.whl": [
+          "7756e580d36a6f55493d6161bc698a6d8d04bb4d1ec0dbc702151ccc0629c83b",
+          "cp27"
+        ],
+        "sme-0.9.2-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "db7da09e623eca2c71979ea4ab0649a0682a35f1d6e05693ed92bc7ce7491de9",
+          "cp27"
+        ],
+        "sme-0.9.2-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "aa9b1e50f73c0383b6c58683f32f663a49c4ccee865533202019565a5625e51e",
+          "cp27"
+        ],
+        "sme-0.9.2-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "745ecbc79fa1aab9f0f6482f78f5438f28c2ef4c62b51e54e451bd3a0c22ec89",
+          "cp27"
+        ],
+        "sme-0.9.2-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "933610e0170bd6b86236befbc4508467247da5acfc5527720d3a3ac52593485f",
+          "cp35"
+        ],
+        "sme-0.9.2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e8ecc4c86dcaac597b47ca859edc6b4f1be1e241315320187053c32589e9edce",
+          "cp35"
+        ],
+        "sme-0.9.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "9b3b44aa58b97daae2335fd26bd2ab0deb88172506d24ac4455902206e8299c3",
+          "cp35"
+        ],
+        "sme-0.9.2-cp35-cp35m-win32.whl": [
+          "c88694a94dbdb469e63c6d4bc24a7f3365ebfc90d32f035db81680fb592f7446",
+          "cp35"
+        ],
+        "sme-0.9.2-cp35-cp35m-win_amd64.whl": [
+          "82ec1d20ac1367888a879837e355aeb8c70f998c56d3ad9ae91b14d786c5c42a",
+          "cp35"
+        ],
+        "sme-0.9.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "713f0f39b703404971c8f566e8b8acd7cb8b4f834b97e7a1b99c4f0080bd16fe",
+          "cp36"
+        ],
+        "sme-0.9.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1fae8a5ad26ccb536aa05fa32702b5aa66a47da14ee9f3c0614eefa2d7be8e7d",
+          "cp36"
+        ],
+        "sme-0.9.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "de4a8c8d5bede80c2ba084487c9f2f95165285245fe23711a718ec18b5a1ae7a",
+          "cp36"
+        ],
+        "sme-0.9.2-cp36-cp36m-win32.whl": [
+          "c07c60cea1ed28854afb30ea73e2d1452c82c28b5c86bf5d7beae27d184cba98",
+          "cp36"
+        ],
+        "sme-0.9.2-cp36-cp36m-win_amd64.whl": [
+          "7f3c0d8c3b08d84a0a5f2a58b860ac95aa7c712dcb6dfc0b62f6608eecb11374",
+          "cp36"
+        ],
+        "sme-0.9.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "966f1aa45817bffa5f51a59e31682b0af48625a6e69804f5cc18f60667a82e46",
+          "cp37"
+        ],
+        "sme-0.9.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "85795d68449da688d1bfd433250a82753c11858c907c3c340ecb046c314a0f90",
+          "cp37"
+        ],
+        "sme-0.9.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "6e17cd992f880192917b27ef88ed6c6ccbbf742c2a646d338448c3241b22bb99",
+          "cp37"
+        ],
+        "sme-0.9.2-cp37-cp37m-win32.whl": [
+          "1001d1d9e2b1141429c3e20d2a99600d880e551e4ea4fd462ef061a6d66b06fd",
+          "cp37"
+        ],
+        "sme-0.9.2-cp37-cp37m-win_amd64.whl": [
+          "134e9eeff7f6fa5af5fa1aaef9ab704a1bbdf863275d34e7fe7c09b22cf013d0",
+          "cp37"
+        ],
+        "sme-0.9.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "657c4eb752bf3082eaf0401e1dc4c4a40bdea8375f8355fac332ff324744629a",
+          "cp38"
+        ],
+        "sme-0.9.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "3d4d8c06a0b9802c6b295eda159cebbac3a52da7ef3bb2c846af9b5595ccbf46",
+          "cp38"
+        ],
+        "sme-0.9.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "844a6dcb43c09b62fbd8d6341184fb58082563c99455ad6306e0f9cb3de2e397",
+          "cp38"
+        ],
+        "sme-0.9.2-cp38-cp38-win32.whl": [
+          "151d731d9ce257917115903ac4067186ff76a954c243397d2444ed232ce8aa4a",
+          "cp38"
+        ],
+        "sme-0.9.2-cp38-cp38-win_amd64.whl": [
+          "a66496a8d65e61624ef281bd0a06952ecc36ea86933e21bb2092b27adaebdf66",
+          "cp38"
+        ],
+        "sme-0.9.2-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "56ebc42649d9d0989c7d3413f839d6c99b209fb19899f16d1b2212d3fefe2ce3",
+          "cp39"
+        ],
+        "sme-0.9.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "7c7b4e2940f722879f2fddf239d1eeae0fe169cc22a6f0f75f9139c81cd777ef",
+          "cp39"
+        ],
+        "sme-0.9.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "bdff01e660f6b90333a546e663af8c9c628729980ac83eeab6c424b12429e29b",
+          "cp39"
+        ],
+        "sme-0.9.2-cp39-cp39-win32.whl": [
+          "2d52dca2ba30b47e9dc9e294749fcd961fd398aaf06aaeaaa6d8d0172c4ac733",
+          "cp39"
+        ],
+        "sme-0.9.2-cp39-cp39-win_amd64.whl": [
+          "f5d7b3d8e1aa6322d9912a6a2f6418f05602ffa3e07d351d3cc72a1cee196ce4",
+          "cp39"
+        ],
+        "sme-0.9.2-pp27-pypy_41-manylinux2010_x86_64.whl": [
+          "73ea32f300a44395cbd16d5c5ec3c88ea3a589be2d1aadad4b2d86d1f7fdec16",
+          "pp27"
+        ],
+        "sme-0.9.2-pp27-pypy_73-macosx_10_14_x86_64.whl": [
+          "2134a0db938c1f87794d6a306567832c0c4b68b2850d1dc694c54e352c58de20",
+          "pp27"
+        ],
+        "sme-0.9.2-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "feb1261b03b43beb8d6ab064e32ccb2672d32c2cc0a0e86281cc832f008775cd",
+          "pp27"
+        ],
+        "sme-0.9.2-pp36-pypy36_pp73-macosx_10_14_x86_64.whl": [
+          "5f8cfc143d21a54b4723d0b667b968550f941bf4070613159fd8ce0100bf0e60",
+          "pp36"
+        ],
+        "sme-0.9.2-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "90582de980bc4d40219bf9f053ff60847057147b817fa933cec3fd3a451f9f59",
+          "pp36"
+        ],
+        "sme-0.9.2-pp36-pypy36_pp73-win32.whl": [
+          "76bd9f9aa16939dcbe1ffcd4d42dc224eb52597d2a450a9344a37dff2cfb10d4",
+          "pp36"
+        ],
+        "sme-0.9.2-pp36-pypy3_72-manylinux2010_x86_64.whl": [
+          "e98bcd123a73981a0555b466797b36a2da3778a9a68c25278f381964fae00ee3",
+          "pp36"
+        ]
+      }
     }
   },
   "smnet-gpu": {
@@ -74220,6 +74402,18 @@
       "wheels": {
         "tencentcloud_sdk_python_habo-3.0.261-py2.py3-none-any.whl": [
           "9033ede0fcea3570ca17204341c912b92385be864a9a9076aba8946d758f6033",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.262": {
+      "sdist": [
+        "eca1e87d907e8dc142b90666865799f4ab0df1c01fac7602d463d85d7c22022f",
+        "tencentcloud-sdk-python-habo-3.0.262.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_habo-3.0.262-py2.py3-none-any.whl": [
+          "da9f85c28a2936ecc9261460518f885965d281509a5616403a424decd40dde76",
           "py2.py3"
         ]
       }

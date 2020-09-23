@@ -10390,6 +10390,18 @@
         ]
       }
     },
+    "0.0.13a132": {
+      "sdist": [
+        "65914a2fa17fb1e5d3bc647c89f7deb68f3a409a81c20d54d70a03963c09fb4f",
+        "binalyzer_core-0.0.13a132.tar.gz"
+      ],
+      "wheels": {
+        "binalyzer_core-0.0.13a132-py3-none-any.whl": [
+          "b341a5babd878447180bdeab6f52d0f6a100d82eb048279bb4db4c82304f8c85",
+          "py3"
+        ]
+      }
+    },
     "0.0.13a78": {
       "sdist": [
         "6162e7ff186c5fe9e7d6ae49175d4575357a84e6cebec709fd269d9714c34d0f",
@@ -19648,13 +19660,29 @@
   "cupy-cuda110": {
     "7.8.0": {
       "wheels": {
+        "cupy_cuda110-7.8.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "8d2f43ed233a1fc986564198066723cfc356cc1c11eca2d39c954a5479b2eafd",
+          "cp35"
+        ],
+        "cupy_cuda110-7.8.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0c0d87818bf8ab3ccec276ab2f893cf09ab640fefccea107970270d03aed4769",
+          "cp36"
+        ],
         "cupy_cuda110-7.8.0-cp36-cp36m-win_amd64.whl": [
           "363ba06e8d345b70d551268c88d059ac844cf38d2ea24ea3e8baa5c966c5ad62",
           "cp36"
         ],
+        "cupy_cuda110-7.8.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "05810107d586d648fbdae8237c7f2dd7a225cfc12ae662eb484cefff26a44153",
+          "cp37"
+        ],
         "cupy_cuda110-7.8.0-cp37-cp37m-win_amd64.whl": [
           "631fd7a7c26f5c241c4c9bf8cf1d98767b64c342444efd5612d21ee4925e8153",
           "cp37"
+        ],
+        "cupy_cuda110-7.8.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "3508fb0d2be86322820a4c33a1bf4a8293785a6f10aec31d1c05e0a3ad85e9c9",
+          "cp38"
         ],
         "cupy_cuda110-7.8.0-cp38-cp38-win_amd64.whl": [
           "587b263c08439b8b2fac4fa98d7d0acf673cb6a13f50d80005af665743b75461",
@@ -19664,13 +19692,29 @@
     },
     "8.0.0rc1": {
       "wheels": {
+        "cupy_cuda110-8.0.0rc1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "0129a9907d1a048e78584814670fe0e7aefdd4c1c15363ab7e354325b10a4509",
+          "cp35"
+        ],
+        "cupy_cuda110-8.0.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "edaeb616152a5f2df987cfc548a0e776cb96c08bac4b067aea83cbcbe91e748b",
+          "cp36"
+        ],
         "cupy_cuda110-8.0.0rc1-cp36-cp36m-win_amd64.whl": [
           "ec66194c203832b7c27805b66f89e515f6bd841259c35f1888e28919e07baae6",
           "cp36"
         ],
+        "cupy_cuda110-8.0.0rc1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d25a6ecdec4da85da126e3cdd0cd4c1efe5c31e2c6374e072580b863e8e5cb3b",
+          "cp37"
+        ],
         "cupy_cuda110-8.0.0rc1-cp37-cp37m-win_amd64.whl": [
           "e156771c1538f43439b6bb200d8ee893607e7262c42a0aa410a3449dd2c65668",
           "cp37"
+        ],
+        "cupy_cuda110-8.0.0rc1-cp38-cp38-manylinux1_x86_64.whl": [
+          "b92115bf41471bd2844cd2c77be0d2a8b0e6b37e15402bcb4b6f42703a752450",
+          "cp38"
         ],
         "cupy_cuda110-8.0.0rc1-cp38-cp38-win_amd64.whl": [
           "5512e1487e0fa06958dbeef45ddc3e6e71b1c855c067794ad2c63525cb02db2d",
@@ -39500,6 +39544,32 @@
       "wheels": {
         "learn_flow-0.1.9-py3-none-any.whl": [
           "5143c8387785441d93bd974fe72387c368ec19a8147e44190e0d60d5a2c5084f",
+          "py3"
+        ]
+      }
+    }
+  },
+  "lethical-lib": {
+    "0.0.1": {
+      "sdist": [
+        "4bfb5dbfdfcec9e9bba33a6ccee1354a05524368ec064d43258cb3245c712228",
+        "lethical_lib-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lethical_lib-0.0.1-py3-none-any.whl": [
+          "d8eecf2fac13a8352658c3479b437d7c759ca73d5ce4e6779c107dd010bdf8aa",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "4e5a73b11103d68742fd0168e5b4b8c3d23d75de534352c8a2ca3904431c6ab5",
+        "lethical_lib-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lethical_lib-0.0.2-py3-none-any.whl": [
+          "d0ff47c99ca75930c3be4c774baa6c72bba73e1e3ad33eada114d723c96f8a57",
           "py3"
         ]
       }
@@ -61810,6 +61880,12 @@
       "sdist": [
         "3bd2f6bd737b4264f6aba8b361666661b062078e6f500ed6af91c7bc2917832f",
         "sampledb-0.13.1.tar.gz"
+      ]
+    },
+    "0.14.0": {
+      "sdist": [
+        "dec9c8eef8cb77e7146a36b6fd42a41a750cdfc812a9c590f288c0b495b1be12",
+        "sampledb-0.14.0.tar.gz"
       ]
     },
     "0.8.1": {

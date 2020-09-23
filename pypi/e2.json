@@ -1241,6 +1241,12 @@
         "df8168d1c2ed60c00e0bff20f80a4588c323ef47a70276375315457fb762b21c",
         "alibabacloud_imagesearch20200212-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "83e2cfa112f9c2c859ee80228302b1b9ab9e076b97324373c82c5f86cb5bc9f1",
+        "alibabacloud_imagesearch20200212-1.0.1.tar.gz"
+      ]
     }
   },
   "aliyun-iot-linkkit": {
@@ -1856,6 +1862,18 @@
       "wheels": {
         "Anomaly_Model-1.3.0-py3-none-any.whl": [
           "d176d316442eedf465455d8acab5eaa84884ad8fb8568029c6c7e71d6f741793",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "55f98e2014fec03e69bfe0e78b8a0cea25db9a67af7d0b8344328bd83a73f552",
+        "Anomaly-Model-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "Anomaly_Model-1.4.0-py3-none-any.whl": [
+          "29f9514f25c3ab477d2736ba7b2e4c36997d6d46cd5fa5e5dfbc9a7dc67d80da",
           "py3"
         ]
       }
@@ -21578,6 +21596,18 @@
       "wheels": {
         "edx_ecommerce_worker-0.8.3-py2-none-any.whl": [
           "441df71ad9ebb255cbd3c1ef5de4171ce4d06ffa20d4d5a1c8ef5f563d09c329",
+          "py2"
+        ]
+      }
+    },
+    "0.8.4": {
+      "sdist": [
+        "416cdf8adc27e20ef4ab2c3b246aa055a2bfb53cf4dbf84dbcb815d4765627c5",
+        "edx-ecommerce-worker-0.8.4.tar.gz"
+      ],
+      "wheels": {
+        "edx_ecommerce_worker-0.8.4-py2-none-any.whl": [
+          "d4dff930d1cc17f7b03cfa44bccc1865ee1cdc34069b170254cffd3b9ca5ef07",
           "py2"
         ]
       }
@@ -48236,16 +48266,52 @@
           "4ae4b270bc5f5b0ec06b82c07c36d506635545e76d7a603fe82c0be3d3716a43",
           "cp36"
         ],
+        "opencv_contrib_python_headless-4.4.0.44-cp36-cp36m-win32.whl": [
+          "6fa8326f6c7a08c1ce533ead500ae5c55f63767b40b76abf6efdeae1d3261e1b",
+          "cp36"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp36-cp36m-win_amd64.whl": [
+          "789ccc92a656a4d5a2d04dea0af743c5a406a4a01114bebfa1d8077eefa75c73",
+          "cp36"
+        ],
         "opencv_contrib_python_headless-4.4.0.44-cp37-cp37m-macosx_10_13_x86_64.whl": [
           "0861e57abb08436088e80654bdcad0fc86c1d1e7c2fcf469e9b61b2a10bc99fa",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp37-cp37m-manylinux2014_i686.whl": [
+          "21fac95fe31eed7757a1486fab4bdc26b02d26136d8fe9537a377ea4099b92b6",
           "cp37"
         ],
         "opencv_contrib_python_headless-4.4.0.44-cp37-cp37m-manylinux2014_x86_64.whl": [
           "6219db0f346f777772c190a58f6e69d3b356ae147501a6a8a4bf91713539c830",
           "cp37"
         ],
+        "opencv_contrib_python_headless-4.4.0.44-cp37-cp37m-win32.whl": [
+          "e2d25dd9a87dfb0f2b28eee44869f031bc8c85e406b127bb4a986db9e468fa12",
+          "cp37"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp37-cp37m-win_amd64.whl": [
+          "c34c96fa931292e36a4aabd82bdfc715fa55cef5c763b17aa019e36a4b3134c3",
+          "cp37"
+        ],
         "opencv_contrib_python_headless-4.4.0.44-cp38-cp38-macosx_10_13_x86_64.whl": [
           "4d362d983a5542a21c4c568c768488be2ca155f0fbefcdd7185fdff5f92fa5bf",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp38-cp38-manylinux2014_i686.whl": [
+          "d815e77b367e15b7e937f91e9242a52b464a859c2efb0c49875a95a09a1e09ab",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp38-cp38-manylinux2014_x86_64.whl": [
+          "ccd41bed9155fb168e52c7a319398d4d94030865a5029e25e938f8bb316a5bd6",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp38-cp38-win32.whl": [
+          "dd5b489b84e4388a3dd075da03e413fa18d1729b433ca533105d1d7fa9bfcbf8",
+          "cp38"
+        ],
+        "opencv_contrib_python_headless-4.4.0.44-cp38-cp38-win_amd64.whl": [
+          "cd2c913e4b96103e4422e02b2ca045d8f9e422f90498b4ac7572df2d5545663a",
           "cp38"
         ]
       }
@@ -72980,6 +73046,12 @@
       "sdist": [
         "675c8cc7f9a2aadd00db0e6e6df385b6a7ae14c7aa8e208d3db21c1ee60861cb",
         "tailbone-theo-0.1.4.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "b61d660bec2c3c84ef880fb4c99b49782e26b656868d985f3e3d09f6239a02af",
+        "tailbone-theo-0.1.5.tar.gz"
       ]
     }
   },

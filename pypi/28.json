@@ -31689,6 +31689,12 @@
         "1ddac44ba269e92aef03610daf8c97925a1de8c351ef25e83030f0990c4b45b3",
         "godefine-1.1.3.tar.gz"
       ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "7c2acd2ee2686ee60fbf0aad0eb5f53f4f58c97c85c1f55f493bb003d05ba966",
+        "godefine-1.1.4.tar.gz"
+      ]
     }
   },
   "graphenefederation": {
@@ -45644,6 +45650,22 @@
         ]
       }
     },
+    "12.0.2.13.0": {
+      "wheels": {
+        "odoo12_addon_fieldservice-12.0.2.13.0-py3-none-any.whl": [
+          "292797484fd41f52719ad9e8d726b367d93263f612f00c6d88a2e376d942a52a",
+          "py3"
+        ]
+      }
+    },
+    "12.0.2.13.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_fieldservice-12.0.2.13.0.99.dev1-py3-none-any.whl": [
+          "22302ab901e722246d8cc1b5e449864c823c256f142f3d117ae0e6cead6c1967",
+          "py3"
+        ]
+      }
+    },
     "12.0.2.2.0": {
       "wheels": {
         "odoo12_addon_fieldservice-12.0.2.2.0-py3-none-any.whl": [
@@ -59252,118 +59274,14 @@
     }
   },
   "pyvia": {
-    "0.0": {
+    "0.1.0": {
       "sdist": [
-        "05e2d8b6d6ea695c0356d76fe05ca8b290a6c96161b42aec3ed1e18d082ec15f",
-        "pyVIA-0.0.tar.gz"
+        "f21d7c51901033709332e82892c1d5a8e6eb3c4c0ca0b62220a89632886a7acc",
+        "pyVIA-0.1.0.tar.gz"
       ],
       "wheels": {
-        "pyVIA-0.0-py3-none-any.whl": [
-          "5bffb763e51537b70489bc82d4721d0530cff9498ff3efb5221f6fadbf024e6a",
-          "py3"
-        ]
-      }
-    },
-    "0.1": {
-      "wheels": {
-        "pyVIA-0.1-py3-none-any.whl": [
-          "db251827bd36cc469cf079d02618c71852c903f9e7c063438a8ab1e821b1f3c5",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "5f3ba462d917267f20385ad4c9dba417537ab80be3d025f2209366e647bb245a",
-        "pyVIA-0.2.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.2-py3-none-any.whl": [
-          "40dfe92a2a1dd215600d211733b8882dd8e520496ee310669c57ae0c7c7413f7",
-          "py3"
-        ]
-      }
-    },
-    "0.3": {
-      "sdist": [
-        "27fc8fc3aecb6e49ffcceaefdba8330c4b3846f5dc5815b57db0cf754d06a563",
-        "pyVIA-0.3.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.3-py3-none-any.whl": [
-          "83a2b3908ba7d2c339e8f83528567d0783de664ff6765aee7e39f371de14f573",
-          "py3"
-        ]
-      }
-    },
-    "0.4": {
-      "sdist": [
-        "3eb722d96d47b6fa26daa50eeffdf491ff830de021a31d07e73fcff4793429a0",
-        "pyVIA-0.4.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.4-py3-none-any.whl": [
-          "11d2099b7d3a6ed6595adb97bf28f557ffa7fb2ac24aa67c6ebe012040718989",
-          "py3"
-        ]
-      }
-    },
-    "0.5": {
-      "sdist": [
-        "25eab50fa354d101168606bca1189036fa140c17206ab9e2630094b86a49489a",
-        "pyVIA-0.5.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.5-py3-none-any.whl": [
-          "6fc4cb3907715935b61102b2cdb39dc3421d56e101ec7951ef206c3231341356",
-          "py3"
-        ]
-      }
-    },
-    "0.6": {
-      "sdist": [
-        "c840e1b75712f7721f78e81ebea4861baae3485e0810178fd5cebc5ed063c9b3",
-        "pyVIA-0.6.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.6-py3-none-any.whl": [
-          "11eb93559b55ffe7eae16459298fb13820c91ea527529ca37d4aaf954415bad0",
-          "py3"
-        ]
-      }
-    },
-    "0.7": {
-      "sdist": [
-        "4cb105209fdf5e52952525f81601fc6964e6a6893ff81516225c8aab64c767fe",
-        "pyVIA-0.7.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.7-py3-none-any.whl": [
-          "846072c611729cc92b3e12801297e3e27a31caea3d9770528b2c5304e07f3b9d",
-          "py3"
-        ]
-      }
-    },
-    "0.8": {
-      "sdist": [
-        "2a04dbc29451c6511c7c786b4c8c30960c2cfd5dc4b3e5f4ad1668f4ae8043c1",
-        "pyVIA-0.8.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.8-py3-none-any.whl": [
-          "16672789e85330b7e253be618b8bc400d973a933851764b481c592daa3019536",
-          "py3"
-        ]
-      }
-    },
-    "0.9": {
-      "sdist": [
-        "61bdf287d8793718c543b26efa4c3bf45724995a15394e9ca96fe10c4e7275e1",
-        "pyVIA-0.9.tar.gz"
-      ],
-      "wheels": {
-        "pyVIA-0.9-py3-none-any.whl": [
-          "128992d74983819e193161e2f456f67e106adc17690423cfe299b0616b2dd28a",
+        "pyVIA-0.1.0-py3-none-any.whl": [
+          "b56b346e8a458d82677818b8881a2abb7e65270e58307686612691957517b1b4",
           "py3"
         ]
       }
@@ -67882,6 +67800,18 @@
       "wheels": {
         "tencentcloud_sdk_python_afc-3.0.261-py2.py3-none-any.whl": [
           "736048a6f1b2fff0fe03c0f8d14ff0a9cddcc2e5c358d734c1e5571e760e0c75",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.262": {
+      "sdist": [
+        "c3a4fd1a1af89086ae21759c84f8a8cb9de55e8516c98ea3933a9d6547cadf60",
+        "tencentcloud-sdk-python-afc-3.0.262.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_afc-3.0.262-py2.py3-none-any.whl": [
+          "a88e67b8e4fce4d8c9f30f556809a64479e658c1eaa2104aeef21749ba12be7a",
           "py2.py3"
         ]
       }

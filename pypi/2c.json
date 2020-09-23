@@ -2322,6 +2322,12 @@
         "aliyun-python-sdk-ecs-4.19.11.tar.gz"
       ]
     },
+    "4.19.12": {
+      "sdist": [
+        "6e055b49e05a3652b76ec3fc19c52260b1111eb987a2512ab6d7fcde1e3ffd21",
+        "aliyun-python-sdk-ecs-4.19.12.tar.gz"
+      ]
+    },
     "4.19.2": {
       "sdist": [
         "f8b274a9c28e5818fc2137556ff6b934651e7e00a3f2fac72b94f9283114ab3b",
@@ -58129,6 +58135,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "4ab9839ee1415e5dd9027f341692ce03bc9862958e181914769048683e7269fa",
+        "openbayestool-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "openbayestool-0.3.0-py3-none-any.whl": [
+          "6c2b551e01400db1b22fab428c502e56aca755c5a5ad870c37ca600752793153",
+          "py3"
+        ]
+      }
     }
   },
   "opencache-lib": {
@@ -70218,6 +70236,70 @@
         ]
       }
     },
+    "0.1.117": {
+      "sdist": [
+        "40ffd60e32c60e2919d57985f1cef7aa0ff57918954a00c0971ff7abf7dbd4d7",
+        "rook-0.1.117.tar.gz"
+      ],
+      "wheels": {
+        "rook-0.1.117-cp27-cp27m-macosx_10_11_x86_64.whl": [
+          "7ee72ca891c8d46ccc77e549478f7485b6ff16746915067b03b2047c779ab91c",
+          "cp27"
+        ],
+        "rook-0.1.117-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "3995c8f5a76da9ffa14172e4ec613f5ef561ab34bfd9609a62a9a0b8a6ce495c",
+          "cp27"
+        ],
+        "rook-0.1.117-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "7f884aed751a28961297dff4c676f9bc65c3c570f10a14ac7cf1ad57b563d86e",
+          "cp27"
+        ],
+        "rook-0.1.117-cp35-cp35m-macosx_10_11_x86_64.whl": [
+          "79a3437ec836a112e33d11e30ab3ae2c2e7ec4d30dc4fffe52b0a1ed097689fe",
+          "cp35"
+        ],
+        "rook-0.1.117-cp35-cp35m-manylinux1_x86_64.whl": [
+          "acf81bb34688bcb352de22ed810bd9a4f17b249fa7a330129ff0f169f6840d3c",
+          "cp35"
+        ],
+        "rook-0.1.117-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "7a124ce5089d67229b1e55e1bf3ad7fd1567d6063dc44473a9601e770685d855",
+          "cp35"
+        ],
+        "rook-0.1.117-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "c10aa3c64ddafbacbb787fe952ddd03b41d6f1d9952ce8ba5e677425721fa35f",
+          "cp36"
+        ],
+        "rook-0.1.117-cp36-cp36m-manylinux1_x86_64.whl": [
+          "85c2c8d597f521b753813c448c5df88786903fdde0c92618b38f54acd533bb81",
+          "cp36"
+        ],
+        "rook-0.1.117-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f27cf131d17f7ae24f75ac89454108a3d7f5c3874a3722f68eb98fb6964e1c4a",
+          "cp36"
+        ],
+        "rook-0.1.117-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "e8564a84bce5c2f8b2404e1f2bd766b8a08c833f75259eeb8fc8a172d2e3bc16",
+          "cp37"
+        ],
+        "rook-0.1.117-cp37-cp37m-manylinux1_x86_64.whl": [
+          "33e3668738010a7c331892619b72480cc9fde90bb5c22ae38700a844fa4519a5",
+          "cp37"
+        ],
+        "rook-0.1.117-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "4fcceb59d8897451aa4bf9bddf35f5ca4fd10e9daf8f3de5281f343aac0c57b7",
+          "cp37"
+        ],
+        "rook-0.1.117-cp38-cp38-manylinux1_x86_64.whl": [
+          "48495bd1ca10e4f73c9c60516b6bc009b4f939e7457159749042300a5776877d",
+          "cp38"
+        ],
+        "rook-0.1.117-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e34a10827d5d68beb3ae36d9e0919f4f69a0d28c3619a226c48a38df19af31ea",
+          "cp38"
+        ]
+      }
+    },
     "0.1.12": {
       "sdist": [
         "9f8c6d3e9fa07f32416e1dc536ea3e3eeb13fcf01e10bd5eae667da0b4e60a03",
@@ -74016,10 +74098,10 @@
         "sensifai-0.2.1.tar.gz"
       ]
     },
-    "0.6.0": {
+    "0.6.1": {
       "sdist": [
-        "2812d624d6d97d9ca01e3bdc7ebda3155876bf9f74b021760ec47a3b9bef0405",
-        "Sensifai-0.6.0.tar.gz"
+        "ba6a96f1f9ffdfb983701b1650edf2971289cc4e76406cc346f078366fbbea26",
+        "Sensifai-0.6.1.tar.gz"
       ]
     }
   },
@@ -78858,6 +78940,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ic-3.0.261-py2.py3-none-any.whl": [
           "76e90f214e825c12e9b6db713d3325910216408aa52e7a2f80d8cd0e29248bd3",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.262": {
+      "sdist": [
+        "b063ff5466a8296d79ac320eb7174f57254074854294bc5a0f5f562e042dad46",
+        "tencentcloud-sdk-python-ic-3.0.262.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ic-3.0.262-py2.py3-none-any.whl": [
+          "6b414dbae91d5b9b9d09d6ce291c2fb35bf02fc5e2ba3c95c8c80eb5be4c0f2c",
           "py2.py3"
         ]
       }
