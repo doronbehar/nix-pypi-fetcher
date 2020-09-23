@@ -4785,6 +4785,20 @@
       }
     }
   },
+  "catfishq": {
+    "1.0.0": {
+      "sdist": [
+        "a36eaa658fd5af0d4e090b20b22011fd82948aa82fca60c98b67510094c71ea9",
+        "catfishq-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "dc366975735071e7cded029f5fd5c4e1434b13e3a1ed777ad395452858fd655e",
+        "catfishq-1.0.1.tar.gz"
+      ]
+    }
+  },
   "catsnap": {
     "1.0.0": {
       "sdist": [
@@ -6204,6 +6218,18 @@
       "wheels": {
         "coba-1.0.2-py3-none-any.whl": [
           "fe69065ceeabb9f039e2136e661cd9e998cd956030df96440199d6c38c7bcf19",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "a71cc9aa38bdc0b7f462bd50eb581dac78251bf19aff32e0c6f52020432ef15b",
+        "coba-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "coba-1.0.3-py3-none-any.whl": [
+          "8e02826f87c6fb22ed6a2b53eb7ce5a2ed94884b42fc49e8612df1d3ec04c3b6",
           "py3"
         ]
       }
@@ -35973,6 +35999,70 @@
           "cp38"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "ef178af514f6a8a9e6be709b016c0a9951daa5a601beff388bf33382e3f1257f",
+        "nvtx-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "nvtx-0.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2f6d09f3d48723063617d4183907782f39514b27f3a9c65d801244f78e197546",
+          "cp36"
+        ],
+        "nvtx-0.2.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7de62ecf92f9cf9390a3e55e3aaa9a8b108782b2941c8e39a0d6caca9aec8d76",
+          "cp36"
+        ],
+        "nvtx-0.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1fc39ddb0efabd6497db3b4a34e284023bae1e8ec8eb7e255108a90e61b93fba",
+          "cp37"
+        ],
+        "nvtx-0.2.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "83e18818d86f4855787ddb90ed7ccc51a309a9851b5010881bc8183f355c347e",
+          "cp37"
+        ],
+        "nvtx-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "74f9874eb873a8c414b148de46a161e7610c95dc59ed658bc7a52cbc5d097d8c",
+          "cp38"
+        ],
+        "nvtx-0.2.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "4d639473db9c5ac2f82596056204e014302d1c0592249921cfb578005e325268",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "09baa1e4704141e0df1f4b6d7ebaf1fde6c3e5fa399f916dac66abb6b1fb82bb",
+        "nvtx-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "nvtx-0.2.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "d06a62825663d3922ade015d5b192b59a4c44b68358cbf1edd9f1a0d1a4ccb35",
+          "cp36"
+        ],
+        "nvtx-0.2.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7801b897d2492d55bbfca6e2f0d3789838ddea9957c50ca2ecd6c745485d28e9",
+          "cp36"
+        ],
+        "nvtx-0.2.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "97cf44e60827390372d7aad5f9a60ce26f63aea00ea838ce65862414e44954e6",
+          "cp37"
+        ],
+        "nvtx-0.2.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e313ddb05db66806b5e5aafa06b6702f2dae2cf7689d833458ae22181d835ecc",
+          "cp37"
+        ],
+        "nvtx-0.2.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "31ec53fb5205d729d520f38fd05ca39e16449aa272c708925b8982a6afce0fbd",
+          "cp38"
+        ],
+        "nvtx-0.2.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "514ab1bfb19f73d7f9ace5c9d94edb409ea6b338054b9b398395451ffcbb74cc",
+          "cp38"
+        ]
+      }
     }
   },
   "nzbclients": {
@@ -47386,98 +47476,38 @@
     }
   },
   "pyroborock": {
-    "1.0.0": {
+    "0.9.2": {
       "sdist": [
-        "5f753e74d4e6fbe3b266a8e6139c256b4ea9f99d4f09705d104c2babb7ef6e15",
-        "pyroborock-1.0.0.tar.gz"
+        "f590d9949219316e989f4d4e371feadb9dc548f506ab35f1df826f26bd391284",
+        "pyroborock-0.9.2.tar.gz"
       ],
       "wheels": {
-        "pyroborock-1.0.0-py3-none-any.whl": [
-          "68dcacf28cd4ce75962ab56915cf7e16cb8b16f071eb6e249d80f09c657d11bc",
+        "pyroborock-0.9.2-py3-none-any.whl": [
+          "8daebaec0e2f5310873b0ccfd6a06fead3656f43f6b82e8adff6740c35f1722a",
           "py3"
         ]
       }
     },
-    "1.0.1": {
+    "0.9.3": {
       "sdist": [
-        "9286b7e2bc2a6e6c68b5522e6e5082b8efe8e1141d4e89c27a428b760e6439c6",
-        "pyroborock-1.0.1.tar.gz"
+        "1811547ea68a72cc456d9dfdc547e0258edc5dbb8c424e0efcfb423e58ba0e74",
+        "pyroborock-0.9.3.tar.gz"
       ],
       "wheels": {
-        "pyroborock-1.0.1-py3-none-any.whl": [
-          "56fd69b5ddef72e1af8b4110583398c7126ee42aa780737ee0e74311b4dafef3",
+        "pyroborock-0.9.3-py3-none-any.whl": [
+          "cbe7dd0ecf6a4a5636e4f61c7503e4ebda10a948ac6b33f5d1898c39a465908e",
           "py3"
         ]
       }
     },
-    "1.0.2": {
+    "1.0.9": {
       "sdist": [
-        "14b3db612b57891cca31f4c887c14fd07adcf40a635379f6b6afc46205172f72",
-        "pyroborock-1.0.2.tar.gz"
+        "cae18fc0e63f968cc41158bd0c8c17cbbc82a628521a7cf366ecb10945515aa6",
+        "pyroborock-1.0.9.tar.gz"
       ],
       "wheels": {
-        "pyroborock-1.0.2-py3-none-any.whl": [
-          "fa5ccdaa09f01e9855a2223eac605a9581fab9be6d9ec821de0e9a7a9c436364",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "be569c845ad4903b05e851fb1561c13a0ac33cd2781f431c9756873a97cf6bd7",
-        "pyroborock-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pyroborock-1.0.3-py3-none-any.whl": [
-          "f973b5b19081b993dd6c70ae6b9a6c7a1c7f8c52a4cb9ad0528909c1ea979bdc",
-          "py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "0a5fcd93203311057a3333277b178f256cfb9be55fa428acd99043d976270775",
-        "pyroborock-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "pyroborock-1.0.4-py3-none-any.whl": [
-          "4112d09d4b3e5a3accd931287131788dd00a6ddc9cd1cb567903eac571b35f06",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "2e0fb2fea5ac53d393c8893ed6dc3b28be448a6dfdcc75d608b26f6135fc008e",
-        "pyroborock-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pyroborock-1.0.5-py2-none-any.whl": [
-          "60a83ddad36b0b658d6aeab4c9ba2e88808751afca1d1205da572b365795b997",
-          "py2"
-        ]
-      }
-    },
-    "1.0.6": {
-      "sdist": [
-        "4484ea71825c65051ea7f2cd797a57529f9ec566f15bbd8d450aa2a83b63e5fa",
-        "pyroborock-1.0.6.tar.gz"
-      ],
-      "wheels": {
-        "pyroborock-1.0.6-py3-none-any.whl": [
-          "505954748fb39b6ded0035f43ba9097900a1e7df39ac97ad44a1c4860fb1dac1",
-          "py3"
-        ]
-      }
-    },
-    "1.0.7": {
-      "sdist": [
-        "b141f0ba709fcc2c0f08a325b368446b005c4de0ab62ce3ddb6a6aa670e4e82e",
-        "pyroborock-1.0.7.tar.gz"
-      ],
-      "wheels": {
-        "pyroborock-1.0.7-py3-none-any.whl": [
-          "5ce6ab50bc10c5c84a6b5a520acdac1b2d747a594c625548d935f2d2f00e44fe",
+        "pyroborock-1.0.9-py3-none-any.whl": [
+          "397ac28797e929e854e521eac94d2f1b7c39755d4431f654dc0ab8b6d2273155",
           "py3"
         ]
       }
@@ -58094,6 +58124,42 @@
       "wheels": {
         "tgenv-1.0.1-py3-none-any.whl": [
           "b43a2f04e7d2ed5e04834b2f82e15d87fadff474514d754f5129b9ded4aa8b68",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "341ee8e4959efb8066c66ee4f89be2902958f417a4ac5336bbf8617ac3912ec4",
+        "tgenv-1.0.2.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "tgenv-1.0.2-py3-none-any.whl": [
+          "f5da1b9e0b2bd646913c774829645d3c5ab3f3cd0f08d97f041f944c264ee496",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "38f0c4d050aa58b0316a5363418d83709cd5be6cb72fd1374b6590f9d66ef572",
+        "tgenv-1.0.3.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "tgenv-1.0.3-py3-none-any.whl": [
+          "da57e4923ec58138089c5ad34ff6b30e4d40e861d0d3210b268105c347265160",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "304fd9dc6223570cb613c003fe053f1ea9da4b95c72adaaf7bb9cc65a74498da",
+        "tgenv-1.1.0.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "tgenv-1.1.0-py3-none-any.whl": [
+          "e1895dbdaedc8186541092ee0744dc48176c31a869f4de097db37e315e2ba0ee",
           "py3"
         ]
       }

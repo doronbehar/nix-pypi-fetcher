@@ -8397,6 +8397,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.4": {
+      "sdist": [
+        "89cbfb0705cf6a27c19fbd478c0c952827da1575ab4b9ab4fbf0d2785368693e",
+        "canonicalwebteam.flask-base-0.6.4.tar.gz"
+      ],
+      "wheels": {
+        "canonicalwebteam.flask_base-0.6.4-py3-none-any.whl": [
+          "ab4d395a8be12e255c13d2ec4496c9f8e4dfacf6d41b1964127ec259822d72bc",
+          "py3"
+        ]
+      }
     }
   },
   "carboxylic": {
@@ -18328,6 +18340,98 @@
         ],
         "cryptography-3.1-cp38-cp38-win_amd64.whl": [
           "548b0818e88792318dc137d8b1ec82a0ab0af96c7f0603a00bb94f896fbf5e10",
+          "cp38"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "9d9fc6a16357965d282dd4ab6531013935425d0dc4950df2e0cf2a1b1ac1017d",
+        "cryptography-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cryptography-3.1.1-cp27-cp27m-macosx_10_10_x86_64.whl": [
+          "65beb15e7f9c16e15934569d29fb4def74ea1469d8781f6b3507ab896d6d8719",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27m-manylinux1_x86_64.whl": [
+          "983c0c3de4cb9fcba68fd3f45ed846eb86a2a8b8d8bc5bb18364c4d00b3c61fe",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "e97a3b627e3cb63c415a16245d6cef2139cca18bb1183d1b9375a1c14e83f3b3",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "680da076cad81cdf5ffcac50c477b6790be81768d30f9da9e01960c4b18a66db",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "5d52c72449bb02dd45a773a203196e6d4fae34e158769c896012401f33064396",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27m-win32.whl": [
+          "cb179acdd4ae1e4a5a160d80b87841b3d0e0be84af46c7bb2cd7ece57a39c4ba",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp27-cp27m-win_amd64.whl": [
+          "b372026ebf32fe2523159f27d9f0e9f485092e43b00a5adacf732192a70ba118",
+          "cp27"
+        ],
+        "cryptography-3.1.1-cp35-abi3-macosx_10_10_x86_64.whl": [
+          "f0e099fc4cc697450c3dd4031791559692dd941a95254cb9aeded66a7aa8b9bc",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp35-abi3-manylinux1_x86_64.whl": [
+          "a7597ffc67987b37b12e09c029bd1dc43965f75d328076ae85721b84046e9ca7",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp35-abi3-manylinux2010_x86_64.whl": [
+          "4549b137d8cbe3c2eadfa56c0c858b78acbeff956bd461e40000b2164d9167c6",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp35-abi3-manylinux2014_aarch64.whl": [
+          "89aceb31cd5f9fc2449fe8cf3810797ca52b65f1489002d58fe190bfb265c536",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp35-cp35m-win32.whl": [
+          "559d622aef2a2dff98a892eef321433ba5bc55b2485220a8ca289c1ecc2bd54f",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp35-cp35m-win_amd64.whl": [
+          "451cdf60be4dafb6a3b78802006a020e6cd709c22d240f94f7a0696240a17154",
+          "cp35"
+        ],
+        "cryptography-3.1.1-cp36-abi3-win32.whl": [
+          "762bc5a0df03c51ee3f09c621e1cee64e3a079a2b5020de82f1613873d79ee70",
+          "cp36"
+        ],
+        "cryptography-3.1.1-cp36-abi3-win_amd64.whl": [
+          "b12e715c10a13ca1bd27fbceed9adc8c5ff640f8e1f7ea76416352de703523c8",
+          "cp36"
+        ],
+        "cryptography-3.1.1-cp36-cp36m-win32.whl": [
+          "21b47c59fcb1c36f1113f3709d37935368e34815ea1d7073862e92f810dc7499",
+          "cp36"
+        ],
+        "cryptography-3.1.1-cp36-cp36m-win_amd64.whl": [
+          "48ee615a779ffa749d7d50c291761dc921d93d7cf203dca2db663b4f193f0e49",
+          "cp36"
+        ],
+        "cryptography-3.1.1-cp37-cp37m-win32.whl": [
+          "b2bded09c578d19e08bd2c5bb8fed7f103e089752c9cf7ca7ca7de522326e921",
+          "cp37"
+        ],
+        "cryptography-3.1.1-cp37-cp37m-win_amd64.whl": [
+          "f99317a0fa2e49917689b8cf977510addcfaaab769b3f899b9c481bbd76730c2",
+          "cp37"
+        ],
+        "cryptography-3.1.1-cp38-cp38-win32.whl": [
+          "ab010e461bb6b444eaf7f8c813bb716be2d78ab786103f9608ffd37a4bd7d490",
+          "cp38"
+        ],
+        "cryptography-3.1.1-cp38-cp38-win_amd64.whl": [
+          "99d4984aabd4c7182050bca76176ce2dbc9fa9748afe583a7865c12954d714ba",
           "cp38"
         ]
       }
@@ -61745,6 +61849,14 @@
       }
     }
   },
+  "ride": {
+    "0.0.2": {
+      "sdist": [
+        "fa582f6e28b5153469ed0fc6bf0197c70e3c57c13b88c022c432cb8c82f0e7fa",
+        "ride-0.0.2.tar.gz"
+      ]
+    }
+  },
   "righteous": {
     "0.0.1": {
       "sdist": [
@@ -70208,6 +70320,54 @@
       "wheels": {
         "wapt_tools-1.1.1-py2-none-any.whl": [
           "62bcf0cd6dcf6b8b7caa30d77d8a856bb6be73e4a88e7e9a7b31bd296570cca7",
+          "py2"
+        ]
+      }
+    },
+    "1.10.0": {
+      "sdist": [
+        "2287401dc72df6d8bdfa16b509e24246916012613a0507d8d4995a2e36cb91d7",
+        "wapt_tools-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "wapt_tools-1.10.0-py2-none-any.whl": [
+          "7c5ed5ae39ad6a1026cb51f13bf49feba6bb0a8c3281cfc3a936d0207e167e1c",
+          "py2"
+        ]
+      }
+    },
+    "1.10.1": {
+      "sdist": [
+        "6a02a0b89ad36d2ec161d9d757a375d85e1f7ec63572d88e43387e23a2eef0da",
+        "wapt_tools-1.10.1.tar.gz"
+      ],
+      "wheels": {
+        "wapt_tools-1.10.1-py2-none-any.whl": [
+          "aa814538b7ea692332ae734dbd1889cb94ff6e5825a6b267ac7c1ac07b58e00b",
+          "py2"
+        ]
+      }
+    },
+    "1.10.2": {
+      "sdist": [
+        "58755241b74fc3f496c2f1080887d218a04fe7070cb324c6cbc13151484f326c",
+        "wapt_tools-1.10.2.tar.gz"
+      ],
+      "wheels": {
+        "wapt_tools-1.10.2-py2-none-any.whl": [
+          "0aa60dcc5d331099766fc22b4d119dc83b13487a10f52e46657d8027c4631d4f",
+          "py2"
+        ]
+      }
+    },
+    "1.10.3": {
+      "sdist": [
+        "bacfc6ef09a55d371d8fb3026818c6f5f3cbabb68a46957c7cf1b5c16d8f2fe9",
+        "wapt_tools-1.10.3.tar.gz"
+      ],
+      "wheels": {
+        "wapt_tools-1.10.3-py2-none-any.whl": [
+          "d89bedad50ff107f687ef5ea15467b1522c019536b9ba6a2a629570a79728534",
           "py2"
         ]
       }
