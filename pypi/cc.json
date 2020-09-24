@@ -14959,6 +14959,12 @@
         "b2b6ab611be75a6041c13b521985fa7de97a614178f866d42f08eb858fd63ff7",
         "deid-0.2.19.tar.gz"
       ]
+    },
+    "0.2.20": {
+      "sdist": [
+        "b9b717ee5bda5d501e1fdf5dc44cc41cff2625413217a2aadf463fb40489b1e0",
+        "deid-0.2.20.tar.gz"
+      ]
     }
   },
   "deltw": {
@@ -32587,6 +32593,12 @@
         "26f13eba956197ca50649df3d0357fc9e3d9cf7c197382636779ee8fce7911b3",
         "labstep-2.7.0.tar.gz"
       ]
+    },
+    "2.7.1": {
+      "sdist": [
+        "f6321c98c418839e159c4464072bc0dfd70f217ba3ed29afc9c00a1ee0aab16a",
+        "labstep-2.7.1.tar.gz"
+      ]
     }
   },
   "lahiru-distributions": {
@@ -47537,6 +47549,56 @@
       ]
     }
   },
+  "pycreator": {
+    "0.1": {
+      "sdist": [
+        "98a1794a406376b4601146293a1eb59ec416a88c0ada18e06802a5d75bf9854e",
+        "pycreator-0.1.tar.gz"
+      ],
+      "wheels": {
+        "pycreator-0.1-py3-none-any.whl": [
+          "6925c69cae54182a16342db01215037cdb6a4e95bbfa5dbe90e59ad39e3ad70a",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "23d10deaa3c85b6b7d45ec71a80c37a2594360d17c39d6a6c7a1f1b54ae23cb4",
+        "pycreator-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pycreator-0.1.1-py3-none-any.whl": [
+          "fc8286fdd1a445e2565fb9e4ce9a9f2e9425031c35e49a38f14af6bd6d5550a7",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "fec4ba2ff882eac9d2d9da7b72f222ed347b29acd34951d100fa033f2c5c149d",
+        "pycreator-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pycreator-0.1.2-py3-none-any.whl": [
+          "d5dd906f9c1c32d80829f612198b72ac4edc70f32de96ce7778b371b1c7fef6d",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "354bdc6fe6c5209296ff1826edd7b155661487b640429877dc8b94d189405311",
+        "pycreator-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pycreator-0.1.3-py3-none-any.whl": [
+          "7b94c690f5ab87f8bf8fd64dd77670f8367199711b238693b4cb8185d5d4b2ce",
+          "py3"
+        ]
+      }
+    }
+  },
   "pydensecrf": {
     "1.0rc1": {
       "sdist": [
@@ -49444,6 +49506,10 @@
           "b9ea7681fec08e5921eb8e2709dd2f9dd25e4057d933a65db87d99df138ed4d6",
           "cp36"
         ],
+        "pyshtools-4.7-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b74ea5cda1a28d2406576333fc0e6b08301dde103c9305026cb076b04936508e",
+          "cp36"
+        ],
         "pyshtools-4.7-cp36-cp36m-win_amd64.whl": [
           "00027f5676451c973ce41e8e6c99d0745ada164d35547dbec5dfff01446122ab",
           "cp36"
@@ -49452,12 +49518,20 @@
           "a9d65f123808589082416c15d551e4c0a09ad7afc52229729166a8f70d1af11a",
           "cp37"
         ],
+        "pyshtools-4.7-cp37-cp37m-manylinux1_x86_64.whl": [
+          "989e18b4711271e3fc6e72b12d62fd721180e860f60d0b8aa79fb09d23e6b898",
+          "cp37"
+        ],
         "pyshtools-4.7-cp37-cp37m-win_amd64.whl": [
           "0ede2d0b5e5747f939a275ea0108dc0b0a358d338228e699578cfc411dbf29b5",
           "cp37"
         ],
         "pyshtools-4.7-cp38-cp38-macosx_10_9_x86_64.whl": [
           "470964b061b4a833bae45825357a3d01c8bdf7bc534a5745d8cac8aacc125eb6",
+          "cp38"
+        ],
+        "pyshtools-4.7-cp38-cp38-manylinux1_x86_64.whl": [
+          "7823afa1d4a35a47698af8cc19424299fe8dc9a01d8235c74069aa3f66226c51",
           "cp38"
         ],
         "pyshtools-4.7-cp38-cp38-win_amd64.whl": [
@@ -61148,6 +61222,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tia-3.0.262-py2.py3-none-any.whl": [
           "53bd8e06a4061c34c5d9a196223bef2e0ff09d232f3c7f1d2ca98c7e4edbac68",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.263": {
+      "sdist": [
+        "12d9b4f260c245671b123728e0378d7605b962b9f9d7ee73d7b3e6e5e2c5748a",
+        "tencentcloud-sdk-python-tia-3.0.263.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.263-py2.py3-none-any.whl": [
+          "721f87fe6f8794f54982092bad40e35dbc5c2499a2c9ba875b0bb99dddae372c",
           "py2.py3"
         ]
       }

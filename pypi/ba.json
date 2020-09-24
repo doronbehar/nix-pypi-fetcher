@@ -9035,6 +9035,12 @@
         "f64192d5c03358289386fdad53ccc6d971b9204a711f015917cbdddf57fee8a4",
         "cjwparquet-1.0.2.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "26d7c23bcfd72f508df982f44fb0ee547c3437ebc88c8590089fa9dfebe7cc53",
+        "cjwparquet-2.0.0.tar.gz"
+      ]
     }
   },
   "ckanext-xloader": {
@@ -19175,6 +19181,12 @@
         "4ae5472b5cba80ec5695cff4645f24512b3ac7b145af053099ebabb343e5f229",
         "firmware_uploader-0.2.0.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "e102f73138536905cad8aabc522cc080748d5f73e767493c3d35ef960e27e05d",
+        "firmware_uploader-0.3.0.tar.gz"
+      ]
     }
   },
   "fisher-modified": {
@@ -21202,6 +21214,14 @@
       "wheels": {
         "genie.libs.parser-20.8.1b5-py3-none-any.whl": [
           "c9d662f32e339b804fc5502ab5538e927847fcf9d67ab245d6ad61134990f4da",
+          "py3"
+        ]
+      }
+    },
+    "20.8.1b6": {
+      "wheels": {
+        "genie.libs.parser-20.8.1b6-py3-none-any.whl": [
+          "0aee5c0e5854ca4b89ee699ead4c658749fb3a275f972001afcb859dd9280822",
           "py3"
         ]
       }
@@ -42055,6 +42075,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.4.0": {
+      "sdist": [
+        "e2a7d5c53233d854bb28c5a519b9be348c8cf30ff4fdf5f5a5ab2320af9dc844",
+        "mypy-boto3-amplify-1.15.4.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.15.4.0-py3-none-any.whl": [
+          "fccec00a5aa3a52c5d7954e3b705b358a236b7c8476372001ef238c8f5a3755f",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-elb": {
@@ -44153,6 +44185,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.4.0": {
+      "sdist": [
+        "a781368eec3f2247b496e38e2081fb0afdc7d429c0d6a991ef8874a97d03781c",
+        "mypy-boto3-elb-1.15.4.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.15.4.0-py3-none-any.whl": [
+          "721c71cd2339ad4a3d78d4ee60e57a47bacc4afdde3f399696e2a84a7b3572ed",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-meteringmarketplace": {
@@ -46240,6 +46284,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.15.3.0-py3-none-any.whl": [
           "7d9b00e63848be3a8bd03f147cd712c9cb48a5894b15b9900b8cd33ae00cdff1",
+          "py3"
+        ]
+      }
+    },
+    "1.15.4.0": {
+      "sdist": [
+        "668650fa91e124db6f9ee30d5894c2ed54cd1dee436a2454e32867c46848729a",
+        "mypy-boto3-meteringmarketplace-1.15.4.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.15.4.0-py3-none-any.whl": [
+          "86dfe7c83e0c5de9495c5038519e5d0d46d877a805f140b23c61967c4b853dbf",
           "py3"
         ]
       }
@@ -68557,6 +68613,12 @@
         "bc3361466d4f90b61f085851829c8b72ba075813f383f1bfca885862e42c1f56",
         "radvel-1.4.1.tar.gz"
       ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "800c91b223b44919a079982658f37fede98c79273b471a533560374892e76d1c",
+        "radvel-1.4.2.tar.gz"
+      ]
     }
   },
   "rambo": {
@@ -80820,13 +80882,25 @@
     },
     "2.4.0.dev20200923": {
       "wheels": {
+        "tf_nightly-2.4.0.dev20200923-cp35-cp35m-macosx_10_6_intel.whl": [
+          "23a1ef897067c6635347112dd77f80c26f496626fac042bf15e3866ea317b1c2",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20200923-cp35-cp35m-manylinux2010_x86_64.whl": [
           "e1e142daf1c583311fa48c1a24a9d245c0fb980a5b972bd416e45881d9afd22c",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20200923-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "cd85d59de7f8b7514037aa4f0078a0112211286a216320c089c6ac2403aa76a3",
+          "cp36"
+        ],
         "tf_nightly-2.4.0.dev20200923-cp36-cp36m-manylinux2010_x86_64.whl": [
           "a92e1bd014d5c175a769938a9043381a203cef228561c27f0eff6dd95abd0fd1",
           "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20200923-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "8313639f5f042520287ec85a65363fd218ac50575d56dfde1442d20d0ccded2e",
+          "cp37"
         ],
         "tf_nightly-2.4.0.dev20200923-cp37-cp37m-manylinux2010_x86_64.whl": [
           "2569c8a4649016ab75f4035c9efc7d0feba6e10dc9ce786891bac0ff8483f6bc",
@@ -80916,6 +80990,18 @@
       "wheels": {
         "thoth_glyph-0.1.3-py3-none-any.whl": [
           "98136fea8b0b80dce58f3856706586d71d5f4962b11e4fc8d58da3bd0c66e60e",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "c0fd2b35cf99cdd46bdaf88499b4bb186f3270a26296505f846c6bccf1ab8537",
+        "thoth-glyph-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "thoth_glyph-0.1.4-py3-none-any.whl": [
+          "dbd6c782fc40f5ad27f4da1aa4c23f7f86274305e71d6654a672d94724619054",
           "py3"
         ]
       }

@@ -2184,6 +2184,14 @@
         ]
       }
     },
+    "4.0.0.dev176": {
+      "wheels": {
+        "assemblyline_v4_service-4.0.0.dev176-py3-none-any.whl": [
+          "f33f912326ff73ef42cc269e5a117489487420125a9c11807a59c8d93ff3e7d1",
+          "py3"
+        ]
+      }
+    },
     "4.0.0.dev18": {
       "wheels": {
         "assemblyline_v4_service-4.0.0.dev18-py3-none-any.whl": [
@@ -9650,6 +9658,18 @@
         ]
       }
     },
+    "0.1.20": {
+      "sdist": [
+        "4cf00f4d877f926b5eabd32d38bcd77e23dab1c84809dd1e7024de4d06c45332",
+        "cdk-remote-stack-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "cdk_remote_stack-0.1.20-py3-none-any.whl": [
+          "403419349261e3537fc1f67a8a226a23dcf334e55e76c51499e688079987d360",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "377dae39091170c67e556a530bc022cb0fa16312d111d233a3034a9e6dbef097",
@@ -10020,6 +10040,30 @@
       "wheels": {
         "cg-12.6.0-py3-none-any.whl": [
           "6a62d3f5c1f51f4f7f4f9bd49dfcb03c7537ddc5ccec5a8e20c8e2c3f0bf3dc7",
+          "py3"
+        ]
+      }
+    },
+    "12.7.0": {
+      "sdist": [
+        "6772dfdbfad8dfe73fdf839d7ae7af2a8df2d72acd5e72b4b9cc033e696d22eb",
+        "cg-12.7.0.tar.gz"
+      ],
+      "wheels": {
+        "cg-12.7.0-py3-none-any.whl": [
+          "668113a29ddb46f757f60e358bed550776d873491331593bb2719685d075da2c",
+          "py3"
+        ]
+      }
+    },
+    "12.7.1": {
+      "sdist": [
+        "cadc624feb42e1967ea1095043e3bcbbd18aafc5c1a4657b2aed240615d7459e",
+        "cg-12.7.1.tar.gz"
+      ],
+      "wheels": {
+        "cg-12.7.1-py3-none-any.whl": [
+          "0f61efd24d92ed9fe241d412cee0ae2313174d4fb3c651b062fe2daf5b43243d",
           "py3"
         ]
       }
@@ -15978,8 +16022,8 @@
           "4ce18010d6951ffea4405a41e3a1f916b64edeb68541bac7def3c34b69b1c58f",
           "cp35"
         ],
-        "dlib_bin-19.21.0-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "3a0386addf4beb492a5e2a3b33c9612751bd4419c18061120f7fccb86c9531cd",
+        "dlib_bin-19.21.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "e121b61bedba75c7de31fb4de7f20e56379e7c135295f7ef3aee0a31f3b5f05f",
           "cp36"
         ],
         "dlib_bin-19.21.0-cp36-cp36m-manylinux1_i686.whl": [
@@ -15990,8 +16034,16 @@
           "4f4555e199046f20a4a7238e04c89dafe98a1b46717f388492caeb99a53a1f42",
           "cp36"
         ],
-        "dlib_bin-19.21.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
-          "d3e82dba15d779e26b3b0126b3b55d81032a309d21d48591c96c7651d19c624d",
+        "dlib_bin-19.21.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "1123db3f89f29255c7477a47814c770dc1820950d2323006426668c54a68b9d4",
+          "cp36"
+        ],
+        "dlib_bin-19.21.0-cp36-cp36m-win_amd64.whl": [
+          "6cda479f5d27ab7985285a68c5d0a3e5e884ce087f0d02115ffe59dce25f3091",
+          "cp36"
+        ],
+        "dlib_bin-19.21.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "61ef5f4086e7e77dc672df8245b6175b40c047596f4e7a60d5da932ac5e80be5",
           "cp37"
         ],
         "dlib_bin-19.21.0-cp37-cp37m-manylinux1_i686.whl": [
@@ -16002,8 +16054,24 @@
           "e1e331b6d9c50d5bc428d329532b8c4fddb4fe0bc1f3d216d8e51635e559e2a7",
           "cp37"
         ],
-        "dlib_bin-19.21.0-cp38-cp38-macosx_10_13_x86_64.whl": [
-          "9ba641769eccb9333fdb100f9fbd40b244b91e032ab11a8dffd04cdd09a03b10",
+        "dlib_bin-19.21.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d637ca96a591943ef401af37545dbc86c4505be22c56d9b31b81d2c55eb6d733",
+          "cp37"
+        ],
+        "dlib_bin-19.21.0-cp37-cp37m-win_amd64.whl": [
+          "16825e3dd06a89e9dfe29e0957de73b0757f870ce92121d5322b6e264c9051de",
+          "cp37"
+        ],
+        "dlib_bin-19.21.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "49338255ffd6f90d0f4c72ef6a8590bff8023387d0eedf75ae64f94771e669ea",
+          "cp38"
+        ],
+        "dlib_bin-19.21.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "d0788c8d7f942eeb12b8c905bab5da3b1da818ca0bfa67a198e2d618772700b8",
+          "cp38"
+        ],
+        "dlib_bin-19.21.0-cp38-cp38-win_amd64.whl": [
+          "c7785c474bfd51f266a19a7c8f5710e4e6ae22b43f5230e796b301d1637cee33",
           "cp38"
         ]
       }
@@ -20920,6 +20988,18 @@
         ]
       }
     },
+    "1.56.2": {
+      "sdist": [
+        "640e13e3a8af774bf07443cd176dd730312a3fb57e74ea45c1840837433c2916",
+        "epsagon-1.56.2.tar.gz"
+      ],
+      "wheels": {
+        "epsagon-1.56.2-py3-none-any.whl": [
+          "803abbd0524d41a9af45fe054cafb5e5f412b3c8fe6bdb856a940226b7957596",
+          "py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "c25c27f6687243563544e912db5066974c4972c03321c0c7ecdcfb8f306e7ba3",
@@ -22394,6 +22474,12 @@
       "sdist": [
         "15b5068d9cf30d01fe469ff56b1b1eef6d3c176e00b101f42321eefe03a2dc66",
         "femagtools-0.9.42.tar.gz"
+      ]
+    },
+    "0.9.43": {
+      "sdist": [
+        "0897a1d893c4f7a8be4018ce462f7a3dbfe1689aecf26800879cf85bf0439837",
+        "femagtools-0.9.43.tar.gz"
       ]
     },
     "0.9.5": {
@@ -38515,6 +38601,18 @@
         "743e433a187dfff7163ec5812fbb8d223c7faf864668a6982ef62a2a4c771500",
         "nets-0.0.2.tar.gz"
       ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "3b3f230f8f3aeb3f6941995e6a53cf4e5ea44e1f23bd6e309b47ed12df9f75b7",
+        "nets-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "nets-0.0.3-py3-none-any.whl": [
+          "b709b5e5e8a62a1e62cc5195a17a7863cc238d27c6c8bcf4185c119c177df217",
+          "py3"
+        ]
+      }
     }
   },
   "neuraltangents": {

@@ -11186,10 +11186,28 @@
         "detritalpy-1.3.18.tar.gz"
       ]
     },
+    "1.3.19": {
+      "sdist": [
+        "543002af6bd48b1cebf5399d3efcd6e4f4911037cba21f1dc99ecacdee034d49",
+        "detritalPy-1.3.19.tar.gz"
+      ]
+    },
     "1.3.2": {
       "sdist": [
         "66877b2a5ce3acfa8c013f0ae485b5eb36cd4775109110efed758e85c412f5f7",
         "detritalpy-1.3.2.tar.gz"
+      ]
+    },
+    "1.3.20": {
+      "sdist": [
+        "e9410a259a61bada87cc8f4c919e9d3a5a7754172297b4f07d967a8b951edf51",
+        "detritalPy-1.3.20.tar.gz"
+      ]
+    },
+    "1.3.21": {
+      "sdist": [
+        "feb7afd46e08173a388c2188552c0518d77f49969becfd57e71e4d1e6ab0ce6d",
+        "detritalPy-1.3.21.tar.gz"
       ]
     },
     "1.3.3": {
@@ -23371,6 +23389,12 @@
         "167bbe62e7f7388eea5f6536287e575885a2a04b342d55c84ac50e23dc1a06e5",
         "graph-theory-2020.9.22.51752.tar.gz"
       ]
+    },
+    "2020.9.23.63516": {
+      "sdist": [
+        "dcabe312e9fe754c75267ca8cd48867a39e6de851a9cd621812436d6af49d5b4",
+        "graph-theory-2020.9.23.63516.tar.gz"
+      ]
     }
   },
   "grimoirelab": {
@@ -25958,6 +25982,18 @@
       "wheels": {
         "i2-0.0.4-py3-none-any.whl": [
           "94271ad8c3af48d9b7d948681b0d88e35e579f1590f0259475820641882c5b91",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "06c19435ede07746a290658a93ca437475efca496d62434a106c1385c6feab9e",
+        "i2-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "i2-0.0.5-py3-none-any.whl": [
+          "1a9957375282d910f17ba5d0cfeb5434a8bc4805ff0bccab48ba24b44191d4cf",
           "py3"
         ]
       }
@@ -29576,6 +29612,30 @@
       "wheels": {
         "llog-1.0.0-py3-none-any.whl": [
           "bbcb4a7428178cd32c27df667c980dd1b826333386ea564d68e04bdd7f8aa03f",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "3cc5b13cdf6468e6525fbd4fbad86dee8dcee1cdfa0fb4c699e3f4ec7659ad6a",
+        "llog-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "llog-1.1.0-py3-none-any.whl": [
+          "0b0761d6736979c08baf96ff378afeadd6d2845293b9d1ec33ee46636188b484",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "d03620eb5526e817d44209e5b5d29eff017e11b1b63b75a6add220bc68e9964d",
+        "llog-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "llog-1.1.2-py3-none-any.whl": [
+          "50a524051deb1a362a4054d0612b3b25734970feaa195b143b806e1e41226dfe",
           "py3"
         ]
       }
@@ -81360,6 +81420,58 @@
         ]
       }
     },
+    "0.12.0.dev20200923163528": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200923163528-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "1ade1bd085293337d3d45e930b5cafe24d8489d7b2f39347dbda036297d4b5cf",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d4b978c78a8ba82e50e21d197094a9606e8dcdba53945f5afb7e319491a3c9f6",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp35-cp35m-win_amd64.whl": [
+          "268d943ad4f600b6a1ed975d781d4207a1e899a3a05b1b545e2c4f5acc8c78fe",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "e2d5d54c67d7ea4932889d5659e4a1b899d6fbe5c134ef7ef631031caa7518db",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9b5cdce37fbb2892e99f93802cf6b0cdeff2d8d8591b42e5fb1c2d4f1387cde4",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp36-cp36m-win_amd64.whl": [
+          "36690088be14b2bc92d2c06552aec3edd8b35187ae782d426fcd9d24cbe20df4",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "237fa2e961777cd127f094abc049d1c16b0f22c0a24e2888024864ca96cbbdda",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "7f5603e6f0defa47ed5bf71570a42274bc4f934d82476338edbdb0937b223416",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp37-cp37m-win_amd64.whl": [
+          "63190dee8dc9211e87a43d73ee68dcdc8cc553371e2c612e6e76cf27543ad8f3",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "4532d18925a636275a4bc8d82e171176489531febd786cc4e79cd2955b7fcab3",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2c6f149bb0b8150cef2b0d1242ba793300efc2c78590f68d4382001cdeb625be",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200923163528-cp38-cp38-win_amd64.whl": [
+          "004a5c1394304cc3528fec8996c43aa04c11e081922d32b220bcc18dfcb3da4e",
+          "cp38"
+        ]
+      }
+    },
     "0.3.0.dev20190422": {
       "wheels": {
         "tfa_nightly-0.3.0.dev20190422-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -103287,6 +103399,32 @@
         "c11769ec0692778b6af7fbf75c0a944f2654e8e89eb239791355e004934dcbbe",
         "tpDcc-libs-python-0.0.9.tar.gz"
       ]
+    }
+  },
+  "tqdj": {
+    "0.0.1": {
+      "sdist": [
+        "ecd14b9c8f8c02cb428721d1b8a3c2ba091a9160d7f58a1aacaafeafa98cca11",
+        "tqdj-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tqdj-0.0.1-py3-none-any.whl": [
+          "68f2a215d327a3465f00370717b68592cca261d2a63ec8e2ab386fb8cbff5e47",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "2ecf3ddd9527cf07f3cafbbd93384d3e53a4af87fa7b9019c609b88c476cc44c",
+        "tqdj-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "tqdj-0.0.2-py3-none-any.whl": [
+          "1854d3509c6f48ef251b611942fe0357bd81b114378508593653069921aa76da",
+          "py3"
+        ]
+      }
     }
   },
   "tracshortcuticonplugin": {
