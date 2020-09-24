@@ -5590,6 +5590,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "cf0ab309c9ba7eeaaab11c96b42a6350e57e017883c35b7136fe61f389a7ff79",
+        "aws-cdk.aws-codedeploy-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codedeploy-1.64.0-py3-none-any.whl": [
+          "4854e30ffbeedd3fb838266941da2ce8ad7e03bdd3cefd83d2b3c9729353426f",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "9988bbc170a5540e093bcf4b9805f41cd22c373a016df1da6e24b75ef295bbfd",
@@ -6752,6 +6764,18 @@
       "wheels": {
         "aws_cdk.aws_elasticsearch-1.63.0-py3-none-any.whl": [
           "be9b17c15360c7720435c764c2ddf4c3d505554b723cc66195184c2866d9f460",
+          "py3"
+        ]
+      }
+    },
+    "1.64.0": {
+      "sdist": [
+        "509d568319287fcddf1e6f08aee6cf4e684f42f97a0b033d0702b93ccfc9e1a9",
+        "aws-cdk.aws-elasticsearch-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticsearch-1.64.0-py3-none-any.whl": [
+          "7194ca046ea53838a27b54c26d7be5ad97e4651d1066cf8f388655fe6b0f4d59",
           "py3"
         ]
       }
@@ -7986,6 +8010,18 @@
       "wheels": {
         "cdxj_indexer-1.1.1-py2.py3-none-any.whl": [
           "74f6f2893179e531f9e01bb9468b5ad7e7afe85e0a199e150148b69ac82bce9a",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "3536c9e6237455584bd2c424a766b617e9d1eb1d1b3096f86a171362bdf8fd52",
+        "cdxj_indexer-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "cdxj_indexer-1.1.2-py2.py3-none-any.whl": [
+          "0cc13f8ce3fb12b4905a0c6192af580dc2e616c7a0da789fd3cf7d036ff504a3",
           "py2.py3"
         ]
       }
@@ -25879,6 +25915,12 @@
         "455e3edd72f6ff5d22d01c1a83d35d10c9e88ad50fa90119b135c421ef927bbf",
         "hfpy-0.2.1.tar.gz"
       ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "83cb39ce1e3eaf68ce753a6bdbb7fd255bcd1f1d807e93a052ba404c7f4d9e39",
+        "hfpy-0.2.2.tar.gz"
+      ]
     }
   },
   "hiero": {
@@ -31826,6 +31868,38 @@
         ],
         "libecl-2.9.2b0-cp38-cp38-manylinux2010_x86_64.whl": [
           "2c25a458cdb53f1442d0d1765a5c44da8cd6b6a9c1326c3d208b32fd1fd72cdd",
+          "cp38"
+        ]
+      }
+    },
+    "2.9.2rc1": {
+      "wheels": {
+        "libecl-2.9.2rc1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "754c206bc8b2a8bf86e63ccc234304a865864eb300bc305f7790b8467387df99",
+          "cp27"
+        ],
+        "libecl-2.9.2rc1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "cf7ff99a1c3ffd78385f78af100e031d400ce921d7ba7cb1547c243537dd9731",
+          "cp36"
+        ],
+        "libecl-2.9.2rc1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f2520df0195ec573f0a2193f863f10f9d1944c8c97f3547ff4b2c83141254ee6",
+          "cp36"
+        ],
+        "libecl-2.9.2rc1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "96383a61d420a0131c2b0073d2c8304f46cd3b44a1e225c7a5a11fcf07c716e1",
+          "cp37"
+        ],
+        "libecl-2.9.2rc1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "c858a5efcd24e65ac916322d89ee8c5df41e09cf1fdd8ec25d353479bbd64d4d",
+          "cp37"
+        ],
+        "libecl-2.9.2rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "7b0e238dd1f2abbd8f4c2dbe18c863713cd82aaf6d85e05010342ba8d4f213c7",
+          "cp38"
+        ],
+        "libecl-2.9.2rc1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "aeb2ecc9774a99136620b2899298cacbbf27011b0bd08cb80c79265789f298fc",
           "cp38"
         ]
       }
@@ -61384,6 +61458,14 @@
       "wheels": {
         "tf_hub_nightly-0.10.0.dev202009230005-py2.py3-none-any.whl": [
           "9c3c63cd9149d045e3b36e640f0a5294f4835e50d49e3f2b2424e8548bbd9e43",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.10.0.dev202009240006": {
+      "wheels": {
+        "tf_hub_nightly-0.10.0.dev202009240006-py2.py3-none-any.whl": [
+          "4e4aa65d3d32ac86dfdb31383d83238631ec9478f7c84ee01b5535a696045c74",
           "py2.py3"
         ]
       }

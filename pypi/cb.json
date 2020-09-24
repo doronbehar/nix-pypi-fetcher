@@ -4288,6 +4288,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "4739efdc659d3511f77f2c7a7157810c29568cec2d00edead8938b3b1951b1d8",
+        "aws-cdk.aws-dlm-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.64.0-py3-none-any.whl": [
+          "c4273fa952cf145e861e04e69ff0147bdac7d104a335439eac003184c8e10f20",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2ab3bf27a7b3d365d8b286db9989090e14b8601a4d5778b9232a25c4e7dfaa89",
@@ -46455,6 +46467,12 @@
         "678f3d7de386857ed794e00a5673b3cd5507e371f2df71ef4cf602c90cd57962",
         "NlpToolkit-DataStructure-Cy-1.0.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "5a31d85ba36b7e0d284f70407736316552205bba9d251042bbba249fa755bb1a",
+        "NlpToolkit-DataStructure-Cy-1.0.1.tar.gz"
+      ]
     }
   },
   "nmslib-viz": {
@@ -52062,6 +52080,30 @@
       "wheels": {
         "pandasnotebooks-0.1.4-py3-none-any.whl": [
           "c3348bb6e74de543b6f458d36a1a8df1ef7d954e760387a95417146681558119",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "ce68c59052d7e67e161cb54e088550cf9e4b21ed2f06b098db6ed489b1a78a9f",
+        "pandasnotebooks-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pandasnotebooks-0.2.0-py3-none-any.whl": [
+          "cd81ceb54687ed9d6c3f1e9b88c016d50fb7bdff09bf637d1788fc6002e7e2ea",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "4330497bf9d098e2f06d77448750813feb6b1eec953bce1b86272345f1793301",
+        "pandasnotebooks-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pandasnotebooks-0.3.0-py3-none-any.whl": [
+          "4a73f0ae8625c2e4568d32007778e4d1f12703dfe8f7ab332acdd1df787207b4",
           "py3"
         ]
       }
@@ -63015,6 +63057,80 @@
         "scikit_optimize_w-2020.2-py2.py3-none-any.whl": [
           "3d73b4a6e8732abcfd650b4f03e0ab548664e264741e37caf89224a1eb0ef4c6",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "scmdml": {
+    "1.4": {
+      "sdist": [
+        "501f540cf9d954838312f2a5ab893c992ee3b9617757cdf02b655e22a3b0a0ff",
+        "scmdml-1.4.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.4-py3-none-any.whl": [
+          "5820ecf4bb39edde882e43aeb5c1f3c14f5654a80bfdee5254d33b4af28281f8",
+          "py3"
+        ]
+      }
+    },
+    "1.5": {
+      "sdist": [
+        "2a19119cf8ce34c011fc4273a116f34890e66b5590490cd96a825fd651ee3cde",
+        "scmdml-1.5.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.5-py3-none-any.whl": [
+          "2051eba1dbd10eb93be9d431e9bd1e50ec976b778de25a6d6cabf3135fd8840f",
+          "py3"
+        ]
+      }
+    },
+    "1.6": {
+      "sdist": [
+        "1092572663757ed3ab33721b021fcaccb519e7bf026da36282ab9d14ea0d55a1",
+        "scmdml-1.6.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.6-py3-none-any.whl": [
+          "0be61245c1d9087cbff2b501c97119381ac9528c1f3b4a16b6f32ca0fa81688d",
+          "py3"
+        ]
+      }
+    },
+    "1.7": {
+      "sdist": [
+        "8bcb17517386c12c0ca3b130c95eaa048a40ede35c3663d588e91194c4ef8f36",
+        "scmdml-1.7.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.7-py3-none-any.whl": [
+          "6b1eb2fd65a9ea35c6cdd00c73780a4f6d7cb7947abea1a4b7fe5d25cec76524",
+          "py3"
+        ]
+      }
+    },
+    "1.8": {
+      "sdist": [
+        "560b09bf8dea7b7eee930755e9b4a48e2684b5bc57edccb4da751d5ddc30e401",
+        "scmdml-1.8.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.8-py3-none-any.whl": [
+          "4cb62872dd5ce8c5cd618e0daefbe6689cc491ab4951d46e0af1017a8a0fe103",
+          "py3"
+        ]
+      }
+    },
+    "1.9": {
+      "sdist": [
+        "7de9c4fb9dd8732d9e0ddd9efe13869ddbf99f50f4411305e3c880c0de5ca636",
+        "scmdml-1.9.tar.gz"
+      ],
+      "wheels": {
+        "scmdml-1.9-py3-none-any.whl": [
+          "e27d8414b23d16d0ff9cc9ff54d5eb3937f6e741364e0b13f2fbcddb427ecf94",
+          "py3"
         ]
       }
     }
@@ -79258,6 +79374,42 @@
         ],
         "tf_nightly_cpu-2.4.0.dev20200923-cp38-cp38-manylinux2010_x86_64.whl": [
           "1f900bbcf68d7fd1770fe9267d6bf4a2660180fb7f26e14e6b553a6296842f7c",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20200924": {
+      "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20200924-cp35-cp35m-macosx_10_6_intel.whl": [
+          "a2c4bb73cc2590898f090b0df002371f96b307369a236e8af2eaaa5fb8dfff78",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "4e74d35c19fcb2f11b97208ef5c2b465b776d39c61aa516ca0ed841148927b7c",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ebc3b2ca27344280ba3a00f3b9b66165b9764adf9074d4987541f6c7b20e5d87",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "527c2aec675d40a04a250db99f69beec39e6e0b1290c6e8505c2251e9ae73cd5",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "777fa3aab7ebbb46a5c3a27b667a749294cfec1c8d60833c6771c8c30a870370",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "e8454df377915672a8027c4d8f9e7b5465a672446b62f89224a3efbf190a5c58",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1f707491a6fbc638ba08667aa155144980995edf6c9be859be89bfb4d1b1dc2d",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp38-cp38-manylinux2010_x86_64.whl": [
+          "da75c565da2e4712e35dd6dd0778c95e3fcc367583936bde591525eaceaadde7",
           "cp38"
         ]
       }

@@ -4254,6 +4254,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "918c72b6afe7cb7d645978c80e51c3b37d7148ce624341c84ba168149632e128",
+        "aws-cdk.aws-datapipeline-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datapipeline-1.64.0-py3-none-any.whl": [
+          "8a78f6e226893d63b435c119f360ba0c62b85d8af67930ea92a49a29a7e11b2d",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "522e8a6c29bbdc6f4b768e3691d5643e1a3e612b93565fac5ae37d3e17f6f8d7",
@@ -5416,6 +5428,18 @@
       "wheels": {
         "aws_cdk.aws_sqs-1.63.0-py3-none-any.whl": [
           "44e88a6707eda56cd6c24e8566de803136e8b94285ae34186e6d41b48de98f1d",
+          "py3"
+        ]
+      }
+    },
+    "1.64.0": {
+      "sdist": [
+        "cb747e3df1b3ef055a7fb946296b87c6005247e69dbe1c671199d61335557f77",
+        "aws-cdk.aws-sqs-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sqs-1.64.0-py3-none-any.whl": [
+          "4128b1354b17223c27d8082c97c9ebc6c6be7116d3a7fcf4a2cec95264508b11",
           "py3"
         ]
       }
@@ -8669,6 +8693,16 @@
         "cappy-1.2.1-py2-none-any.whl": [
           "de9933ca7f11e259680658e6b069165d7bc28e38e9c696162085bd0ffb7a5c20",
           "py2"
+        ]
+      }
+    }
+  },
+  "card-service-clients": {
+    "0.0.3": {
+      "wheels": {
+        "card_service_clients-0.0.3-py3-none-any.whl": [
+          "c1d9db8b865c5df61b2e49f1d3905d38cdb7d301cd915e884e1a19f48bc5aaff",
+          "py3"
         ]
       }
     }
@@ -17960,6 +17994,62 @@
         ],
         "ensmallen_graph-0.3.6-cp38-cp38-manylinux1_x86_64.whl": [
           "eb6e4cc7da3d9b039e263cba8ad0cff6d92a1448b3cc0a45ee67c4691f822380",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "b0358ff4be526b6858c5a1f5bb2f8f512dd41d61dc9dd71de3ddfb8df5ef1513",
+        "ensmallen_graph-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ensmallen_graph-0.4.0-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "93dd12b77f7bdf3296e83cd4a5966dbfe1a16e58fe4f4624650858dc598b8022",
+          "cp35"
+        ],
+        "ensmallen_graph-0.4.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "e145bda10229c6b2da1def71944817b4a7cb85e4c8009ca4692e0bda99ed4af7",
+          "cp35"
+        ],
+        "ensmallen_graph-0.4.0-cp35-none-win_amd64.whl": [
+          "056001b50019dd9bce9681738b82d6eb816957c4449caa943c9f6285d7cd5b4c",
+          "cp35"
+        ],
+        "ensmallen_graph-0.4.0-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "652fb9204b4248b957fde381f61323f95cfa52134a223be30b32ac4cf3a8a423",
+          "cp36"
+        ],
+        "ensmallen_graph-0.4.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a7ee2420425a340d0d49a905eeee0a465a579a08cca05622d0e89c3988e39b79",
+          "cp36"
+        ],
+        "ensmallen_graph-0.4.0-cp36-none-win_amd64.whl": [
+          "066c0cb96fc414f8e298b22b1791e189de9129a04aabdafb475d260409a22461",
+          "cp36"
+        ],
+        "ensmallen_graph-0.4.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "103960902216ea352851c589a5819afa706e5f241b22926e0be89b7b5de54242",
+          "cp37"
+        ],
+        "ensmallen_graph-0.4.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b3e72a14d667b4f29f7b6d2b742babd90ebb145b31f6c2a4763237652f3826ce",
+          "cp37"
+        ],
+        "ensmallen_graph-0.4.0-cp37-none-win_amd64.whl": [
+          "a72fa912fd97fd8aa5c7b1cbb6da77da03c03879cac522a788745c9c53ca590b",
+          "cp37"
+        ],
+        "ensmallen_graph-0.4.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "32daf140dbc85d2c7906c94d572d0ae2c6b217e4e71f3392d6501df15a44bd31",
+          "cp38"
+        ],
+        "ensmallen_graph-0.4.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "5cbe91ae6b16d3258cfb9ef4fdbfc51e11b43bfd27ed6852e99fd5ee1596e4b1",
+          "cp38"
+        ],
+        "ensmallen_graph-0.4.0-cp38-none-win_amd64.whl": [
+          "429f082dba3bbc45ca26421d7eb9009d56e6539528d1ae1ee0a392aec0cfae19",
           "cp38"
         ]
       }
@@ -60506,6 +60596,12 @@
         "synonyms-3.12.0.tar.gz"
       ]
     },
+    "3.13.0": {
+      "sdist": [
+        "06188aaceeffa17dbe0d8d9aab6c699247e2c90410e570b06900552f150663f5",
+        "synonyms-3.13.0.tar.gz"
+      ]
+    },
     "3.8.0": {
       "sdist": [
         "73e7a994ad478a9da1ab89f06d4f14d5067b4deccb636299548bd680321e1724",
@@ -61818,6 +61914,18 @@
       "wheels": {
         "tflite_model_maker_nightly-0.2.1.dev202009170212-py3-none-any.whl": [
           "d4ca15dbd7ef54489c1406f11ecd52bfa79bc9cb6c7ff2d4deddb7bb203077a3",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1.dev202009232146": {
+      "sdist": [
+        "413dc7b21aac706e7f3e5172f95d72a1ebd0352f04109308651acd85f59366e4",
+        "tflite-model-maker-nightly-0.2.1.dev202009232146.tar.gz"
+      ],
+      "wheels": {
+        "tflite_model_maker_nightly-0.2.1.dev202009232146-py3-none-any.whl": [
+          "aee23b923661dd2e413bb90794f09a2f60a415ee4321c986e050087fd584a312",
           "py3"
         ]
       }

@@ -926,6 +926,12 @@
         "aliyun-python-sdk-alinlp-1.0.15.tar.gz"
       ]
     },
+    "1.0.16": {
+      "sdist": [
+        "6b0508b55f75762e3c83727a1f94330efaa6b13d664d30d5e836791ca8214e21",
+        "aliyun-python-sdk-alinlp-1.0.16.tar.gz"
+      ]
+    },
     "1.0.5": {
       "sdist": [
         "e74c88bae0abf55d40fd4c617de07bbb64a55d2ca70f26f6eeed1f651e2e8298",
@@ -8917,44 +8923,6 @@
       ]
     }
   },
-  "custom-layers": {
-    "0.0.2": {
-      "sdist": [
-        "fbc0a752d655723a06e745670ab9d7a1203aa8f19be42a843fc8e94e9381c003",
-        "Custom_layers-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "Custom_layers-0.0.2-py3-none-any.whl": [
-          "e920b0633e9c69698cd741e32601617284f9b35351fa170c145931a80e302b5d",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "024c92e51834dfdda561cdc8648cb332785bb67d8e32b68718946ce5eefe9d1f",
-        "Custom_layers-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "Custom_layers-0.0.3-py3-none-any.whl": [
-          "9877af98d4e4ca08f77a65a70be6d96b19359d8ee0311d5fa2e16878fb245b41",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "94234f54a513b6d3f6ac1b2fc6722554c1951cd3b68ab4757525369ae36b8622",
-        "Custom_layers-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "Custom_layers-0.0.4-py3-none-any.whl": [
-          "ebb95849faa48d38b643b0deaf8739f240c73176f15c26695bd60efa51a136a4",
-          "py3"
-        ]
-      }
-    }
-  },
   "cycyc-xzpq": {
     "1.0.0": {
       "sdist": [
@@ -14377,6 +14345,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.4.1": {
+      "sdist": [
+        "6c442a576e9a9249c35520c98093feef4d2e9df267c9c54a57901575f7fced9f",
+        "django-tree-queries-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "django_tree_queries-0.4.1-py2.py3-none-any.whl": [
+          "09425f804692bc3de0e168c08e6221a3451362becf59b025174ae9b6cd676b4a",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "806fa670709c4df90021a6635ddc9ddc6eb12b146c57ac554cb37c4ff10bebff",
+        "django-tree-queries-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "django_tree_queries-0.4.2-py2.py3-none-any.whl": [
+          "62fcdd4b8769f4ebdf5711fbcd0dfcefad891a4a9474c38ebfbc6c8fb5d4fda8",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-vendor": {
@@ -16448,6 +16440,94 @@
         ],
         "dwave_greedy-0.1.0rc2-cp38-cp38-win_amd64.whl": [
           "fd3019769282168d3ebd07c499e58eae32e363dda0d0f37ad8ed5ab9c27e7e77",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "d346f987ff9569d76fb1e70cadd1dbf3ec36d8b1fa92d7e0da909b3f31baf0a6",
+        "dwave-greedy-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dwave_greedy-0.1.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "0a7c04b485897db352abcdf7d0ec2c2cb5f88681d1b738478f3bd35a57c01020",
+          "cp35"
+        ],
+        "dwave_greedy-0.1.1-cp35-cp35m-manylinux1_i686.whl": [
+          "fe0481d44d2fcf1a5cb7321064d96956db51eb7e8366564b8bb11e0ac3d50326",
+          "cp35"
+        ],
+        "dwave_greedy-0.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "fb94cd89fc56b542f1ef38fc14e157ade316f9989133be4b5d3a5951dde2d784",
+          "cp35"
+        ],
+        "dwave_greedy-0.1.1-cp35-cp35m-win32.whl": [
+          "0db008da43a0a18f07a8cbff0182a24b44c270997b7c335fdab1989d6974d57a",
+          "cp35"
+        ],
+        "dwave_greedy-0.1.1-cp35-cp35m-win_amd64.whl": [
+          "74b36cca4c9e22be547683216955723e37700bb67b1203e9c0ccb90cfa8091ed",
+          "cp35"
+        ],
+        "dwave_greedy-0.1.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4fe566f5b8bbadb29ab098f8d34c558ff56b3d6403bea02bdf0ca35d47cb3e25",
+          "cp36"
+        ],
+        "dwave_greedy-0.1.1-cp36-cp36m-manylinux1_i686.whl": [
+          "d9cb105aeec9efcfd45d5b857937c802163b07df91416c72c683bc13827fac8b",
+          "cp36"
+        ],
+        "dwave_greedy-0.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f4ae91b44618f395bc9fc19d19fc07b7cc302816af7f7b66359a717af7a75370",
+          "cp36"
+        ],
+        "dwave_greedy-0.1.1-cp36-cp36m-win32.whl": [
+          "d5e43cf2c7e3c5ddc80d278ac88ce7a4217dc24ee364d4697ceb1374bd3964fa",
+          "cp36"
+        ],
+        "dwave_greedy-0.1.1-cp36-cp36m-win_amd64.whl": [
+          "13b0404995f0d80fde5b11ddd461ccc7fff3c9d0d5e1bed6739e9e34bb4de726",
+          "cp36"
+        ],
+        "dwave_greedy-0.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "59011f16a5a0c3f8fc15f03c49650aa0310de847373c9b9b95b08a94888f932f",
+          "cp37"
+        ],
+        "dwave_greedy-0.1.1-cp37-cp37m-manylinux1_i686.whl": [
+          "13f75eb9904cbe19f9cc3b3f17c540e08b3ae3a94045234241a84a10296d070b",
+          "cp37"
+        ],
+        "dwave_greedy-0.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c1068fc5f91a658c654072c3a4d80254fb87a234c94407e406d20d4bfb14119f",
+          "cp37"
+        ],
+        "dwave_greedy-0.1.1-cp37-cp37m-win32.whl": [
+          "30d9ee040b129ce521db360017eea1930b198a236155d3f7ad63b6f5507593a0",
+          "cp37"
+        ],
+        "dwave_greedy-0.1.1-cp37-cp37m-win_amd64.whl": [
+          "ddacb1c62ab2b58eaae523ab8833874d2fd6abac72dc305a4229aa4559a273a7",
+          "cp37"
+        ],
+        "dwave_greedy-0.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "e712e5195f35c2b1ad9ae59f46939523f9642e9839334aa880d5647ebb9e21fd",
+          "cp38"
+        ],
+        "dwave_greedy-0.1.1-cp38-cp38-manylinux1_i686.whl": [
+          "9efac4e72e54a6acdf2e5bb8fdb55b3ae5a189486dfaa90a1eaecea24706d9ea",
+          "cp38"
+        ],
+        "dwave_greedy-0.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "0569b1b5b7351878d51433894312c35ac19857b3761bbd55ea00efccbf62a1ef",
+          "cp38"
+        ],
+        "dwave_greedy-0.1.1-cp38-cp38-win32.whl": [
+          "9f1061385eb15fcc71958cb6de6f7326b1048898dc287c5f0b092b86e261c9cc",
+          "cp38"
+        ],
+        "dwave_greedy-0.1.1-cp38-cp38-win_amd64.whl": [
+          "498d52645af2c8a346426ca33ba8e86224150bd0e563d55b5ccb151732d7848f",
           "cp38"
         ]
       }
@@ -27602,6 +27682,54 @@
       "wheels": {
         "IPRemote-0.1.4-py3-none-any.whl": [
           "6091eb5fcbfd379274b72ab514f45c0aa6fa19db4c9f5a5ce341ccbe9e6a9f56",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "80e9c611d1dc222e2be24f70357cfd70a73d56b2da126650e68c6e1a21677ff6",
+        "IPRemote-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "IPRemote-0.1.5-py3-none-any.whl": [
+          "1e2e35704e05b11719688d08bd9b9b19414ffb1fec2a630d4379ecc5ca5de431",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "ffb99ef22ad039f3d82509bdf5913d67e3a9331d95c7ff321a9a8d3e457f1887",
+        "IPRemote-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "IPRemote-0.1.6-py3-none-any.whl": [
+          "fa23a4c7592db8dacae94075709c189020e2799e862fb23ad7901f817f2e3b47",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "27836af964f43add5d8f95ec606d7eb7fe6cbe82fc2a8254e58331834f9e6eb6",
+        "IPRemote-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "IPRemote-0.1.7-py3-none-any.whl": [
+          "e7691527c40afca5aea89696e617d591ae79cca75e5404212eb52add35b28de4",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "f9761d31c277f2d9442f250bbd18d82ef0af569c79088fa02de81615eeb476fd",
+        "IPRemote-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "IPRemote-0.1.8-py3-none-any.whl": [
+          "88863ed861f984868594adf6c98c2763928564a3b6ecc96a212f122a2cec3c42",
           "py3"
         ]
       }
@@ -61230,6 +61358,18 @@
       "wheels": {
         "wilmes-0.6.0-py3-none-any.whl": [
           "218a43698814133353b141f93897b168357f3d2ac2902b18fa0d218ba32a9167",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "537a98c284c773591bc3bf8f22c92901add753aeab2d7045e0112d5001d85668",
+        "wilmes-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "wilmes-0.7.0-py3-none-any.whl": [
+          "ace9702e1e160b3f70fd517a7d88fca8ab20269e1b0b04c1e10dd587f75fc687",
           "py3"
         ]
       }

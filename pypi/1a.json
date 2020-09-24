@@ -10019,6 +10019,18 @@
         "653621e28b4b84c6292432b5255c58388b60bfd18fe5e4545f5e03f1e6f0ae8f",
         "colorbm-1.0.1.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "a22b6a47990e246c3abcd84446b53ae012ecb89c6cf87ddcc73a5f31ff5c4aa1",
+        "colorbm-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "cdeb3da5143a4cde3d42c6b221a66c2122d1a4f7fc6f238f8d2def6524e641df",
+        "colorbm-2.0.2.tar.gz"
+      ]
     }
   },
   "comapsmarthome-lambda-decorators": {
@@ -52731,9 +52743,17 @@
       }
     },
     "2.6.0": {
+      "sdist": [
+        "14decefbf22d2d2955d8a2e4f9401d46ac148a4866960bacfef96d15742b3b80",
+        "reynir-2.6.0.tar.gz"
+      ],
       "wheels": {
         "reynir-2.6.0-cp36-cp36m-manylinux1_x86_64.whl": [
           "1e0f9672ca6256318e2f279a2f6a010e56a77a232e1bf9c79c1cefbb52a58d54",
+          "cp36"
+        ],
+        "reynir-2.6.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "806b53a8036ba9567aa92df7b845d1f36235344d8e8013c42ceed845e273a603",
           "cp36"
         ],
         "reynir-2.6.0-cp36-cp36m-win_amd64.whl": [
@@ -52744,8 +52764,16 @@
           "5dcf02afda34b86e201bfa92c6c809db10cea2197175a0c6e7af11df7e124b4e",
           "cp37"
         ],
+        "reynir-2.6.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3b2ec01dde01418be959d37d27c80cf5b3c77f5aaf742a76d0bc822002bc8567",
+          "cp37"
+        ],
         "reynir-2.6.0-cp38-cp38-manylinux1_x86_64.whl": [
           "0cd29c09e8c044c438cfd4d23157cf7c026bcb176ff1943eca0c621b73fa9361",
+          "cp38"
+        ],
+        "reynir-2.6.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "ec660a34d3c51653f07c7adbd4864372ca1fb275e2048ad548f013d26abb4164",
           "cp38"
         ]
       }
@@ -64268,6 +64296,18 @@
       "wheels": {
         "xxh_xxh-0.8.5-py3-none-any.whl": [
           "51c82e81c3a4fcfe2a838eee9b5828ab274d90bfa52fef8138bbdb80cc0855f6",
+          "py3"
+        ]
+      }
+    },
+    "0.8.6": {
+      "sdist": [
+        "c35f828c937a34d0ca98797984ac8457a4906ab75dbb38a1ab8843142ff765de",
+        "xxh-xxh-0.8.6.tar.gz"
+      ],
+      "wheels": {
+        "xxh_xxh-0.8.6-py3-none-any.whl": [
+          "0dd11f606a20180b46be9be04b3dbae3b91ad153761e72722704032bfc620a72",
           "py3"
         ]
       }

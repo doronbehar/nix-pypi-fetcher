@@ -5566,6 +5566,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "581d4eb076c8fd10e2f4b5e7acef9831364cb16cbd1a310fe95fcfb0ace1aeb8",
+        "aws-cdk.aws-autoscalingplans-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscalingplans-1.64.0-py3-none-any.whl": [
+          "5a2744824df635710f533191867dd4ab30ddc187c7c731854318b2586bbd61fd",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "7f5a5da09b976be448950a760ce5b3b11eceadd0eccbf128277c1082c7ed2a35",
@@ -21608,6 +21620,18 @@
       "wheels": {
         "edx_ecommerce_worker-0.8.4-py2-none-any.whl": [
           "d4dff930d1cc17f7b03cfa44bccc1865ee1cdc34069b170254cffd3b9ca5ef07",
+          "py2"
+        ]
+      }
+    },
+    "0.8.5": {
+      "sdist": [
+        "63ee7b8e0515c1b46ee39f44f182539d50e744ecd44ffd8f879b9b0d75c961c1",
+        "edx-ecommerce-worker-0.8.5.tar.gz"
+      ],
+      "wheels": {
+        "edx_ecommerce_worker-0.8.5-py2-none-any.whl": [
+          "c26cc9149c49f42c464b6ed2985f1dfeacecf058bd7cb2cccbe09dd5c5058421",
           "py2"
         ]
       }
@@ -63594,34 +63618,34 @@
     }
   },
   "pyzstd": {
-    "0.9.2": {
+    "0.10.0": {
       "sdist": [
-        "989e9786616e0fcc9ae1faca6f43ad609eb0f148895c540dddca4f2fc57ca133",
-        "pyzstd-0.9.2.tar.gz"
+        "5f2b2eba9c0c76ecfa379cb5f37643a6163acd5e4346c201dff4cd9024596ae2",
+        "pyzstd-0.10.0.tar.gz"
       ],
       "wheels": {
-        "pyzstd-0.9.2-cp37-cp37m-win32.whl": [
-          "6d5b7d368bfd98e9c1aaad11371485cab7103ebbe4752890450bc3254fb6a422",
+        "pyzstd-0.10.0-cp37-cp37m-win32.whl": [
+          "ce3ca5f8ff671467a75d8024bace6f064cb46af6a0d576221a78710f7227e3d9",
           "cp37"
         ],
-        "pyzstd-0.9.2-cp37-cp37m-win_amd64.whl": [
-          "33cea825b9c43b4bf4ad71d6d4ad9c89e8778cce1df77be70b2eb600b8ff4933",
+        "pyzstd-0.10.0-cp37-cp37m-win_amd64.whl": [
+          "eeea8a9ef41c86a28900b5e865cd4eec914790617d1e2798a0f29d5aaafa7cf4",
           "cp37"
         ],
-        "pyzstd-0.9.2-cp38-cp38-win32.whl": [
-          "486f5b02a11567c3790a61f4eef556adcb1cc02069493bf70debf98b44c2d0a3",
+        "pyzstd-0.10.0-cp38-cp38-win32.whl": [
+          "f7593b7a81e672d95586f9648aa7194d56853d1277af456c9a344b3d1650150b",
           "cp38"
         ],
-        "pyzstd-0.9.2-cp38-cp38-win_amd64.whl": [
-          "1baef69854a0341ae053432fcd7debebf426941f57449bd8e18ab42c8423df36",
+        "pyzstd-0.10.0-cp38-cp38-win_amd64.whl": [
+          "e88ff74ed8f62d829a44edbe06e45550515f708ac13b26ded42d83dd8af311b0",
           "cp38"
         ],
-        "pyzstd-0.9.2-cp39-cp39-win32.whl": [
-          "24d14d54ccfbb5d624cfa0bd7b4eb1322e133b274b4f8de2af59d5929547cd23",
+        "pyzstd-0.10.0-cp39-cp39-win32.whl": [
+          "0558c00ea725eb6b9d35132d50b41b994cf35282e4a7dd5ccc7069e6cca9de9d",
           "cp39"
         ],
-        "pyzstd-0.9.2-cp39-cp39-win_amd64.whl": [
-          "75698a9be0101a557aeb7c31633586aed18709813d05536e568cbf23a636b82a",
+        "pyzstd-0.10.0-cp39-cp39-win_amd64.whl": [
+          "294336e3fc7ea44496f8932b916dab03fc1d9b092b5e57f764674b9469a3d54f",
           "cp39"
         ]
       }
@@ -73284,6 +73308,22 @@
         ],
         "task_client-0.2.0-py3-none-any.whl": [
           "e6493c2949441d75b4e6f265f3bc00fc50fa4dc589fbd65fe54b65259870bcef",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "2206e287449b414c1270eca7bc99f2a410e31788e53b7f201d5d462d9a330749",
+        "task-client-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "task_client-1.0.0-py2-none-any.whl": [
+          "1e7355560b001590066234cca3d666d88c9af92ac9f2a773b5372ee15042df9b",
+          "py2"
+        ],
+        "task_client-1.0.0-py3-none-any.whl": [
+          "bb42318aca0f72a093983fcac0c1e80060529c3385009425fcbaa12c644b29e5",
           "py3"
         ]
       }

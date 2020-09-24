@@ -6312,6 +6312,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "cee1f167a5f4cd0157c72b37ec9d0b29f3435f2483eaf95ce0fe753f1b08d036",
+        "aws-cdk.aws-opsworkscm-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_opsworkscm-1.64.0-py3-none-any.whl": [
+          "563520f9e90a5139f8130bc554e033cf08736b0536af6db23e42c3a7e7b86409",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "1177e1ee68ca7b8d06e79421e817703fe5f258812049fd6069bf5b423f405472",
@@ -7378,6 +7390,18 @@
       "wheels": {
         "aws_cdk.aws_pinpoint-1.63.0-py3-none-any.whl": [
           "46c7928d04cedcb4caf6699c528f56678cb84f82f39add6ae988a77dcce98bc1",
+          "py3"
+        ]
+      }
+    },
+    "1.64.0": {
+      "sdist": [
+        "0fbc8fa093bce3f42be21f5fabe6e40e560d9463e25a7f5c2869e3067415e575",
+        "aws-cdk.aws-pinpoint-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_pinpoint-1.64.0-py3-none-any.whl": [
+          "d35d821efd1c0f0f463932109a86a364016cb5f47987e9d2408df4f5827e0f9e",
           "py3"
         ]
       }
@@ -38393,32 +38417,6 @@
       }
     }
   },
-  "fluoride": {
-    "0.0.0": {
-      "sdist": [
-        "982e6b77634ac38987bb9c457220ab85d9e028303b335fb123b70852d214d7f1",
-        "fluoride-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "fluoride-0.0.0-py3-none-any.whl": [
-          "960d0eb24237c3acd1aabac8012422d75dc3a98faec76b99a599bb4f73f71054",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "2a58c37b531919749e1e9df65348e47f0f870434db27760fb935ffcd017d5709",
-        "fluoride-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "fluoride-0.1.0-py3-none-any.whl": [
-          "1d474cc1e5a38e73230d7fd5f4023d40d1e50f7671b424b43658a94273ad6a13",
-          "py3"
-        ]
-      }
-    }
-  },
   "flyingcircus-numeric": {
     "0.1.0": {
       "wheels": {
@@ -56947,6 +56945,20 @@
       }
     }
   },
+  "nb-cli": {
+    "0.1.0": {
+      "sdist": [
+        "5106212dd0bae270fc547a59f8c75e20951b9fbd87af263d647f8474677a2e26",
+        "nb-cli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nb_cli-0.1.0-py3-none-any.whl": [
+          "a5b5f72bd68b48da446d56623e16b08a3483c84840b3a191771cd9b3e6fde8e9",
+          "py3"
+        ]
+      }
+    }
+  },
   "nbclassic": {
     "0.0.1": {
       "sdist": [
@@ -61319,6 +61331,66 @@
           "py3"
         ]
       }
+    },
+    "0.1.1600926071": {
+      "sdist": [
+        "37b135c92a436eddfbf0cb4e98f71d70fd6364717f13c077a49088826d213be3",
+        "orionmlengines-pkg-rioatmadja2018-0.1.1600926071.tar.gz"
+      ],
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600926071-py3-none-any.whl": [
+          "4d017d3b0780375bc9e35ca8268ba955b2dd4bb196b11ab66e3ef92c2cb556e1",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1600926089": {
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600926089-py3-none-any.whl": [
+          "b39a377e3d89d99c13806d4ed2f940492ff45401d02688c841a0399025088d60",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1600929577": {
+      "sdist": [
+        "88f1aa0442cc3f615bde974f6907bb9f78dfca43d3c93063ee408ee3314a0589",
+        "orionmlengines-pkg-rioatmadja2018-0.1.1600929577.tar.gz"
+      ],
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600929577-py3-none-any.whl": [
+          "50e3a807cf81793d0e7059a827fa6b21b9769627e4828ae8baa76bf142071668",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1600929585": {
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600929585-py3-none-any.whl": [
+          "9622ab73326cb70cb4a2f4db3aba7e6f3014fd5d109e0f43ee5c1ef72cc53053",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1600932541": {
+      "sdist": [
+        "2729252339b2afb869d1c044565f20ea48d5403aee86c12d8539bf44dd1c18dd",
+        "orionmlengines-pkg-rioatmadja2018-0.1.1600932541.tar.gz"
+      ],
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600932541-py3-none-any.whl": [
+          "a65d1ca4afadb5714b6ae5ea8ae2a2ff91712ebb9608d06d357f56f27c70cf29",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1600932550": {
+      "wheels": {
+        "orionmlengines_pkg_rioatmadja2018-0.1.1600932550-py3-none-any.whl": [
+          "da54ac6eef8e0165d2dac1fe675308c5965464cf4b13ecea9b9d41a4823aee67",
+          "py3"
+        ]
+      }
     }
   },
   "orionx": {
@@ -63454,6 +63526,18 @@
       "wheels": {
         "phcli-0.3.5-py3-none-any.whl": [
           "fa1eaa4cb30ddfaf498285026014e2d1112bf0e4cde32833ab568f537180972a",
+          "py3"
+        ]
+      }
+    },
+    "0.3.6": {
+      "sdist": [
+        "456eca0c8a7ac8970218e8c900d9c119c9788a38ffc7adc0f1e63465d9563959",
+        "phcli-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "phcli-0.3.6-py3-none-any.whl": [
+          "e9e343000570368f84942c03b32e5d893df1bbf73b40e669d7de40666e76ae16",
           "py3"
         ]
       }
@@ -88248,6 +88332,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mongodb-3.0.262-py2.py3-none-any.whl": [
           "3f26a8b6f0122db1c2c436c03c38b8f509b200c7e962c14b91cf0156e6f5c4c8",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.263": {
+      "sdist": [
+        "cf313988eca582629e5a2e850e0aa53ea62e5800369aa1f3b3a11aa44366109e",
+        "tencentcloud-sdk-python-mongodb-3.0.263.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mongodb-3.0.263-py2.py3-none-any.whl": [
+          "b1d9525284babf5626963ad20b7d845036f5c925c5ef26d12d4c88e9e70101d1",
           "py2.py3"
         ]
       }

@@ -5306,6 +5306,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "eb851d7a624d6ad753ca38fddf6b8597f3bcf8f812386ef17ec997f0d86dda1c",
+        "aws-cdk.aws-transfer-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_transfer-1.64.0-py3-none-any.whl": [
+          "c3ee333a897b70d34a00b08f8e85e69a59f9d6959e2cedcd34b6d8761eff4387",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "b01bb6318bacd163a065f904afa3fd22d72fcd23ccaeed0c716062867aec7fd4",
@@ -6468,6 +6480,18 @@
       "wheels": {
         "aws_cdk.aws_waf-1.63.0-py3-none-any.whl": [
           "ecb41f2289f0683034d9e97050ebb74f522b38bacd73a50bfb1a85090dd19de0",
+          "py3"
+        ]
+      }
+    },
+    "1.64.0": {
+      "sdist": [
+        "08458f52a94eb6c7899fa9a36a8bc34e03def89a3a3867f63a0fb516eb3b687e",
+        "aws-cdk.aws-waf-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_waf-1.64.0-py3-none-any.whl": [
+          "c4144d79df96fa062549d962aa590155e0cae681949e888f9005b4e1a8801b7e",
           "py3"
         ]
       }
@@ -14265,6 +14289,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.1": {
+      "sdist": [
+        "0a39945d055459967b23d9b1d6d2ea876ac027a8d20092b419a1f62f1b8e4afc",
+        "covasim-1.7.1.tar.gz"
+      ],
+      "wheels": {
+        "covasim-1.7.1-py3-none-any.whl": [
+          "85b203a3d7931cd2af102b3ae4ec1a296bd7c1893e19ac41cef1cca9abcb287f",
+          "py3"
+        ]
+      }
     }
   },
   "csdn": {
@@ -14719,32 +14755,6 @@
         "cue_sdk-2.1.0-py2.py3-none-any.whl": [
           "af601f362b6ad98a543201979e5e3e6c62c94ef1398dad8311b0fabb7b036442",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "custom-models": {
-    "0.0.1": {
-      "sdist": [
-        "ae37d37aa0ed9e6defa6b71d0252d325c889783c600eead1004b029a47485ab0",
-        "Custom_models-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "Custom_models-0.0.1-py3-none-any.whl": [
-          "9fdad416497ad9fe8633ceea653dce2dad174250180d24d0a9ba079a080f525c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "f5817f3fdbc71df355f64ac4cb72c0bc6d5a89c7d3b836b1a714aa1453aab5d5",
-        "Custom_models-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "Custom_models-0.0.2-py3-none-any.whl": [
-          "995a6d36f594ecef3e002c207845f4693a0b6b54c89136a63eb79ec43b10d583",
-          "py3"
         ]
       }
     }
@@ -21909,6 +21919,20 @@
       }
     }
   },
+  "etl-toolbox": {
+    "0.0.1": {
+      "sdist": [
+        "26e8efb16272d928adabf302284b649cabd2166cf0e5fe70634ecdedf3ac2275",
+        "etl-toolbox-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "etl_toolbox-0.0.1-py3-none-any.whl": [
+          "92b886c829f1b225f5f708f083d33ccecce18ca67225e094c186b43be9725abf",
+          "py3"
+        ]
+      }
+    }
+  },
   "eventer": {
     "0.1": {
       "sdist": [
@@ -27586,6 +27610,86 @@
         ],
         "iminuit-1.5.1-cp38-cp38-win_amd64.whl": [
           "a5dca96be14cb6488451bd73162efa1b841607418c3561c8d0a2872c8fa7e23f",
+          "cp38"
+        ]
+      }
+    },
+    "1.5.2": {
+      "sdist": [
+        "0b54f4d4fc3175471398b573d24616ddb8eb7d63808aa370cfc71fc1d636a1fd",
+        "iminuit-1.5.2.tar.gz"
+      ],
+      "wheels": {
+        "iminuit-1.5.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "3f04ee652a7cba0d8030a1437d37cdfd26af6d94468d24d6eae735f92216635d",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp36-cp36m-manylinux1_i686.whl": [
+          "a1af6e10e939b00d911d7d571a5ea22be1c43f60e054053ee617ff8007a103ac",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "cfd3e6a9b596d210ee9b4e6abc884cb5b74a09dd7509c5708dd401f3032842f1",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b014921020bd6ff72eb89a757087362d8be98fd9330cbacf80dd8965a61ef44f",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp36-cp36m-win32.whl": [
+          "f4acee6850008582dff0435fe89e3bba25d7ad9f69977bfe76088f46ed303cda",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp36-cp36m-win_amd64.whl": [
+          "24a1aa8a643ce2197e0e400c5421ad835ad305458b308acb22bdc652b9d37426",
+          "cp36"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "15d076194c860594262c1ead96cca2b16e040e48e5734666fede791a766e7065",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-manylinux1_i686.whl": [
+          "fc23efdf71b0be50bee8cf952c9c837d63852e0eff85f9693526cec65abdff22",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "62c40893f645d66e7c99f1270d7524a9d2a1134681a7d6f9141a32899c14ad7d",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "b05ce6197fed8dc32a0cce95e83bdc224ba4583ab3e979ef7d45e07b42cf1584",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-win32.whl": [
+          "7f02d67eda4f325158ec24a76c77ffa3f825b00834e66596185e9a34a332836e",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp37-cp37m-win_amd64.whl": [
+          "c25a9081eaddc422b88558c466251a5360f6dfe3f095d41bdaa2df10af4b9187",
+          "cp37"
+        ],
+        "iminuit-1.5.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "811e204ca015e7c72312275a7c58b5763af41de0a748ac86c650e79a1bad3766",
+          "cp38"
+        ],
+        "iminuit-1.5.2-cp38-cp38-manylinux1_i686.whl": [
+          "fd80d5d3dca797ccb5a07090adc0e50c1cd622107c6cee10bc2579ff2074e45c",
+          "cp38"
+        ],
+        "iminuit-1.5.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "518833f2e63f15879cc068d7bdf16e1b8ca9eefbe19d62035a30562ea953a915",
+          "cp38"
+        ],
+        "iminuit-1.5.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c09fb1708698598c346ef3ee6e930e79128c002875182bf808ab0104d6fa1cd9",
+          "cp38"
+        ],
+        "iminuit-1.5.2-cp38-cp38-win32.whl": [
+          "011a647dc88c539295ecc5b5ab2bebc948a8548e996417d76bd313d0b6019f57",
+          "cp38"
+        ],
+        "iminuit-1.5.2-cp38-cp38-win_amd64.whl": [
+          "fb632f4ecdbba191fc1787ff35d4c6c7a2479d33f5f496f18cc1af3801931f39",
           "cp38"
         ]
       }
@@ -93395,6 +93499,98 @@
           "cp38"
         ]
       }
+    },
+    "0.18.1.dev202009241598534602": {
+      "wheels": {
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27m-macosx_10_6_x86_64.whl": [
+          "83681fc674496aa4343bdc7ffda351dcbb76d660ff0ef20f894b2a1fbefdc7c3",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27m-manylinux1_i686.whl": [
+          "08bc0990252134956b26935e79d57ebdb8db78df87905ea1b1f83cad2df6454a",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27m-manylinux1_x86_64.whl": [
+          "f4673a66013c9eba236370885d35bc6fc5cfbb742d452773f7a1b7562cbf4c99",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27mu-manylinux1_i686.whl": [
+          "5bee4517c3ee235a0b634a053422f11a0bb9d4852c4ad98f5af54593f36d227c",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "cdfe0e0fddaf8b84e5280d44a3df4b7a8c3fb4002e47ac36399741c7830cd71c",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27m-win32.whl": [
+          "5fc0b4e5286ef4927c6a006bd7909e3ffb4851d1afd4ff29da6bac4f7491dac1",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp27-cp27m-win_amd64.whl": [
+          "8908cb32b79d57da77765e2a05be2e79e4c07c989b977d748ab3cd292f6b2cb6",
+          "cp27"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "29beaab64b031eb38fdabde9cb52eccaf7d6df8866ca8fa447a8815679198bd6",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp36-cp36m-manylinux1_i686.whl": [
+          "1d280ced35c07396cc6c80e0ffc9a83ce7acf80866b91ff56926cd88cfc62314",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7f2aff5457be76b32786c7a2cdf029486a9d809d20900780005dad9ea961e6e2",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp36-cp36m-win32.whl": [
+          "e08e939bf63014d3272d5d5e462ac7b618b9cfe2d6c5e6e8111fd979ecc5a39a",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp36-cp36m-win_amd64.whl": [
+          "add71d8ad78f4a9b50ce53c8a9030ab4082c68ef525d66955a8c52fbc41717ec",
+          "cp36"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "70de78d34c8c3a3b7dbf9548790a3e63f709661fb19d73fae08a898760d0532f",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp37-cp37m-manylinux1_i686.whl": [
+          "a87d003bec447f834c062fe2c5f8ea4c8d33b886f9c9606c31296a384912bf21",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp37-cp37m-manylinux1_x86_64.whl": [
+          "866c23bddaff60ba953bef6e4163d61777b39919b68bfa2d5201bd33c06c9b8e",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp37-cp37m-win32.whl": [
+          "5da269fa25dbaa4cb2739b4887fedfe4b2ba9ea3ca2693491a2b6aa16c49e9ce",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp37-cp37m-win_amd64.whl": [
+          "d3598caa9706f952ca12046bd1a474f8f7b877fcd93d9275665d4c0e30f6072b",
+          "cp37"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "6c5255e961cbc9243d7f9d391a5afbd0f3ebbf1573f539e75307d60f57dc2a26",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp38-cp38-manylinux1_i686.whl": [
+          "5ca889882e2d8850aff65619166ccb5ad54834d5b17bf765e468e2e02b904dc9",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp38-cp38-manylinux1_x86_64.whl": [
+          "3c3a588b324b743a8b05e7208921f45ffc0d3aafa1a7349578e11d16fbee706d",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp38-cp38-win32.whl": [
+          "e9297c718a76592a213d3d3181467e4b3493c3b9bb4e849878fc49c88d076368",
+          "cp38"
+        ],
+        "pyAgrum_nightly-0.18.1.dev202009241598534602-cp38-cp38-win_amd64.whl": [
+          "bbd7c5d40fe79f30e344e1c855de35892ba0aa6a3bba2cafee1abb5bfea43fec",
+          "cp38"
+        ]
+      }
     }
   },
   "pyaltt": {
@@ -109392,6 +109588,18 @@
       "wheels": {
         "trove-13.0.0.0rc1-py3-none-any.whl": [
           "c990d86d100091fda584c744e9873bb28333ca48436c3e53ca67020435d9150b",
+          "py3"
+        ]
+      }
+    },
+    "14.0.0.0rc1": {
+      "sdist": [
+        "cb3aaf98cd5f9674f19834605d3f9eb5c7154f4ecdfc1422e1fd2e2b50ab4b7d",
+        "trove-14.0.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "trove-14.0.0.0rc1-py3-none-any.whl": [
+          "fe89a24ffd7f92b95edb88d9fa892123179dec26b099ac63d545b3a9edf6fd98",
           "py3"
         ]
       }

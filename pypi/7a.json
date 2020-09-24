@@ -5310,6 +5310,18 @@
         ]
       }
     },
+    "1.64.0": {
+      "sdist": [
+        "1714f5e1d423c90847205443c1f39f859986fec66f2bda6db3774bbd42282497",
+        "aws-cdk.app-delivery-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.app_delivery-1.64.0-py3-none-any.whl": [
+          "02eaf7fd23da72ef3cc68c0cd6ae8194905d43a2d8512f0142f8a87c0f9623e5",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "d7671410e7d24166152cc4cf7c81086b3bb9bf616d9221358a7acf495b871e60",
@@ -6469,6 +6481,20 @@
         "blackmirror-1.0.0-py2.py3-none-any.whl": [
           "cc87d43e4463d5f8b591f90179b0adf2565389d54debd6e4e220fd1e663e3674",
           "3.7"
+        ]
+      }
+    }
+  },
+  "bldr": {
+    "0.0.0": {
+      "sdist": [
+        "a59559de5d51e039eb0e0640bd1ae5ed95ac25499cea7fe64c98d1aa76b23ce8",
+        "bldr-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "bldr-0.0.0-py3-none-any.whl": [
+          "34e2d0af61a64e1992db2b45746a8d06410c8b51213c2f3be7e91d54e74d6206",
+          "py3"
         ]
       }
     }
@@ -16241,32 +16267,6 @@
         "elasticache_auto_discovery-1.0.0-py2.py3-none-any.whl": [
           "bb4aa82e709ef5f449fe674f0de5b6900c3a1e979d0781e66db20be756656da5",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "elasticsearch-medatadata-collector": {
-    "1.0.2": {
-      "sdist": [
-        "037f72261ca08f550aa95cfdb08956d11b56706c4be2218c1c9bb41301a9a8bf",
-        "elasticsearch-medatadata-collector-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "elasticsearch_medatadata_collector-1.0.2-py3-none-any.whl": [
-          "5972e37717de611db6869858213dd785bc88217256ddd4465404d955e44a0b32",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "21004df42f0f592bd5b86640b1c63c8bc05d4e77868c2d6c24ae6dbfea90cb9d",
-        "elasticsearch-medatadata-collector-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "elasticsearch_medatadata_collector-1.0.3-py3-none-any.whl": [
-          "61141c3982098d4cbdf3ecd5283e956621def374eb9e9b106e4423e1d0d889d4",
-          "py3"
         ]
       }
     }
@@ -32840,6 +32840,18 @@
       "wheels": {
         "mdformat_beautysh-0.1.0-py3-none-any.whl": [
           "e9b3457e3bf749b4c67cef5e77ee080d5caebe2e77eb29a20c9a1d37cfe5bd4c",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "b63a0e3adfc29238917b5d163483952f9326f7737cbe3137d3c6c512daf70789",
+        "mdformat-beautysh-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "mdformat_beautysh-0.1.1-py3-none-any.whl": [
+          "23e52dc93ce4cdee12033766a6146f656c72095f74bc80a2bdfde1974a50ee72",
           "py3"
         ]
       }
@@ -52196,6 +52208,54 @@
       "wheels": {
         "quicklearning-0.0.2-py3-none-any.whl": [
           "2e5e9d64b9085e743379538685acb318a7f400aa4d5168cd0e801667eef3e567",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20": {
+      "wheels": {
+        "quicklearning-0.0.20-py3-none-any.whl": [
+          "49b938d18d8f0509d9613b9995e4267705339831d021add1d6d990d1176b3ef2",
+          "py3"
+        ]
+      }
+    },
+    "0.0.21": {
+      "wheels": {
+        "quicklearning-0.0.21-py3-none-any.whl": [
+          "df723c069303480ffd84aa90b8e42bad27e3c180340dcc84a2f87abfc081511c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.22": {
+      "wheels": {
+        "quicklearning-0.0.22-py3-none-any.whl": [
+          "85a6b95c12ec7bd1dc31f53c88133805217757e2c77916574f64031996547b00",
+          "py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "wheels": {
+        "quicklearning-0.0.23-py3-none-any.whl": [
+          "3c8b6a73c616d2cfce56211c44f43def99fa30fbea528dcdf14d5de596f26e2b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.24": {
+      "wheels": {
+        "quicklearning-0.0.24-py3-none-any.whl": [
+          "6664165e9ae6138bf37b094e3bc50dc319778a91df752d94615bea4a04542c42",
+          "py3"
+        ]
+      }
+    },
+    "0.0.25": {
+      "wheels": {
+        "quicklearning-0.0.25-py3-none-any.whl": [
+          "07e5efb26fd2c57a1c44aa0e5f2f1338aa51f2fc04a27f02691d96aa8d14c488",
           "py3"
         ]
       }
