@@ -23410,6 +23410,42 @@
     }
   },
   "group-based-policy": {
+    "10.0.0": {
+      "sdist": [
+        "9344bd8250a4ac0ec53c6b09b558e0ef4425de8c11bcbef1358a999e4898cd09",
+        "group-based-policy-10.0.0.tar.gz"
+      ],
+      "wheels": {
+        "group_based_policy-10.0.0-py3-none-any.whl": [
+          "a875e5ee34b01725ae6f4d0885b9efc38efbc20c88cce6bfe9757193ee748e84",
+          "py3"
+        ]
+      }
+    },
+    "11.0.0": {
+      "sdist": [
+        "0db212ed004a3370ac16377e5f967f741c0e880a0b72bce37812b647c290c890",
+        "group-based-policy-11.0.0.tar.gz"
+      ],
+      "wheels": {
+        "group_based_policy-11.0.0-py3-none-any.whl": [
+          "95850872a967e34d0424357dfa27654461ac2912f7484aeb07d9245b506eb4e1",
+          "py3"
+        ]
+      }
+    },
+    "12.0.0": {
+      "sdist": [
+        "0fe2132a24e0dd3f0262e18e45a25cd19dcb4aac0565e0f8a02ad3289a4eff6d",
+        "group-based-policy-12.0.0.tar.gz"
+      ],
+      "wheels": {
+        "group_based_policy-12.0.0-py3-none-any.whl": [
+          "f078194932a49e50425ffc184d9b209bd0e567cb81a349ed31ca4d27cda41b0e",
+          "py3"
+        ]
+      }
+    },
     "2014.2": {
       "sdist": [
         "d8f98785c62f3bf7a328fde7118ac7a7c5907a3d4d371f7045980fa140f2b47e",
@@ -31861,6 +31897,14 @@
       }
     }
   },
+  "mirahezebots-jsonparser": {
+    "1.0.0": {
+      "sdist": [
+        "3455d66a85bc3ceac9b474bf85e7e3d211dab4ada89712d1f23da2cca5dea1e6",
+        "MirahezeBots_jsonparser-1.0.0.tar.gz"
+      ]
+    }
+  },
   "miss-hit": {
     "0.9.10": {
       "sdist": [
@@ -35473,6 +35517,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.5.0": {
+      "sdist": [
+        "6bec17ec8a7fb8421f085fc8d24f13cba277b95a25ff6d61332ddef1fb4ed498",
+        "mypy-boto3-dynamodbstreams-1.15.5.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dynamodbstreams-1.15.5.0-py3-none-any.whl": [
+          "e8a9b13bdcc38056104a97e4851f60684a9ed5e7f68f2c2e58914631a707eb3a",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-translate": {
@@ -37584,6 +37640,18 @@
       "wheels": {
         "mypy_boto3_translate-1.15.4.0-py3-none-any.whl": [
           "65a614e3496cdd40cc8e381e5a29704a764eb647375a5db18060a1153706c108",
+          "py3"
+        ]
+      }
+    },
+    "1.15.5.0": {
+      "sdist": [
+        "873cd00512d2153a75a35959e4a893a4b79c2288352abe7931622265a1da1587",
+        "mypy-boto3-translate-1.15.5.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_translate-1.15.5.0-py3-none-any.whl": [
+          "789d0191e0afebc60065606463e07a73155f69925887a85870491eb09f8b68a1",
           "py3"
         ]
       }
@@ -62595,6 +62663,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.264": {
+      "sdist": [
+        "67264e4e8e298d8b68e3542630c751d85c7b563bfea3757e76eb37ac53f698ad",
+        "tencentcloud-sdk-python-aa-3.0.264.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_aa-3.0.264-py2.py3-none-any.whl": [
+          "2b3aa568a4e0c74043bc2630d690cd6a7d7e97ce4e91c45a26e65ab9821353b2",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorboardx-hparams": {
@@ -64452,6 +64532,18 @@
         ]
       }
     },
+    "0.1.25": {
+      "sdist": [
+        "ca2bd7fedb3e08beb106ed7b66e6d176ce89be82e9d5cc05581140e06113cb3c",
+        "ukbcc-0.1.25.tar.gz"
+      ],
+      "wheels": {
+        "ukbcc-0.1.25-py2.py3-none-any.whl": [
+          "357f5a7da624a024e4cd67eafa8de8e62dcd9d65d9e8c723a49e1e480c5cd740",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.4": {
       "sdist": [
         "479c2d743fe4e98245fd14be23c7d3fcf2762618db91e25684f3e5f1fafd22bc",
@@ -64460,6 +64552,18 @@
       "wheels": {
         "ukbcc-0.2.4-py2.py3-none-any.whl": [
           "c19de06906cbc615113b7ce76753768999df9ce9416da1387d5724189b75557c",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "a9562cc990fde250fa9ca4c94c1c1aac6b651fb5b8d936d1d223c7b9badeaad8",
+        "ukbcc-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "ukbcc-0.2.5-py2.py3-none-any.whl": [
+          "da79805f0d87c3205783335b418ec63be2038072a92b0eddc91375a2e4f90ee0",
           "py2.py3"
         ]
       }

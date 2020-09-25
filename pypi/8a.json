@@ -2725,6 +2725,18 @@
           "py3"
         ]
       }
+    },
+    "1.64.0": {
+      "sdist": [
+        "156667ba4523c4de666ef47421a3d815705523bf11f57556ae348c458ee88f5e",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-1.64.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-1.64.0-py3-none-any.whl": [
+          "9485e000dca46b2cfb76db267343bbcf6a0e49b23dbca84846cf5fff5c03efbe",
+          "py3"
+        ]
+      }
     }
   },
   "awscfncli2": {
@@ -25773,20 +25785,6 @@
       ]
     }
   },
-  "grexx-gcloudtools": {
-    "0.0.1": {
-      "sdist": [
-        "9b07a1af7dfe2949f01b6634e3338743a00527b03142b611d381b31c46861440",
-        "grexx-gcloudtools-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "grexx_gcloudtools-0.0.1-py3-none-any.whl": [
-          "a146a55cf9e9c910dd342499dd70485191e815867760b834ca9922e9d555239f",
-          "py3"
-        ]
-      }
-    }
-  },
   "grove": {
     "0.0.1": {
       "sdist": [
@@ -27254,6 +27252,18 @@
       "wheels": {
         "i3_workspace_groups-0.4.7a2-py3-none-any.whl": [
           "18af0a71fac1c3af39bfbad82d52d7144ce007206bb607a2d787ec551fdc356b",
+          "py3"
+        ]
+      }
+    },
+    "0.4.7a3": {
+      "sdist": [
+        "1d3faf604c6559bd04214c866d0b4f7dc3e533af8d2e6ddfbcedc1b6cec8afe1",
+        "i3-workspace-groups-0.4.7a3.tar.gz"
+      ],
+      "wheels": {
+        "i3_workspace_groups-0.4.7a3-py3-none-any.whl": [
+          "c62a1b66f173814e929c98dadf6df4d5e342e848d62e3eb19b09205547da9cac",
           "py3"
         ]
       }
@@ -33388,6 +33398,18 @@
       "wheels": {
         "lager_cli-0.1.36-py3-none-any.whl": [
           "800b4ad7543ebd9da81de9e8a1b572abcbb5fc5cba66ecc9d1eb6e703c9024f8",
+          "py3"
+        ]
+      }
+    },
+    "0.1.37": {
+      "sdist": [
+        "37c8167ac687e5dc2f9c5d049bf6a7d6f3e5bfc289d30c15924fba8becc13df9",
+        "lager-cli-0.1.37.tar.gz"
+      ],
+      "wheels": {
+        "lager_cli-0.1.37-py3-none-any.whl": [
+          "aa5de6768311530ff6122857f80651ff36f2dc486425296159f4b6f96467c831",
           "py3"
         ]
       }
@@ -40568,6 +40590,18 @@
       "sdist": [
         "80baba90b0f1a648fe9826cafaac992c2240131668dd3eb8bc4a6721a22f6ea8",
         "mongodantic-0.1.0b7.tar.gz"
+      ]
+    },
+    "0.1.0b8": {
+      "sdist": [
+        "585e367c23496069511dffa5b7bb40ad8d53fc509c765298d8a67b10337c4674",
+        "mongodantic-0.1.0b8.tar.gz"
+      ]
+    },
+    "0.1.0b9": {
+      "sdist": [
+        "64a97a4deba5b9085557f93c1040244abf111fea7f6289ae59140aa0335b0da2",
+        "mongodantic-0.1.0b9.tar.gz"
       ]
     }
   },
@@ -72096,6 +72130,34 @@
         ]
       }
     },
+    "1.15.4": {
+      "wheels": {
+        "tensorflow_gpu-1.15.4-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "f7102012a5385b8b2686c58d07f36cb466ea601e285af045a9f26216fb34014d",
+          "cp35"
+        ],
+        "tensorflow_gpu-1.15.4-cp35-cp35m-win_amd64.whl": [
+          "d182727c02a8d9e779725331fd494d407dc4ca7d62b86025ba826852514a24a1",
+          "cp35"
+        ],
+        "tensorflow_gpu-1.15.4-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "755109bf58202687d03b0197e921b17b3cd58a087f8a22a82400cc50c6538052",
+          "cp36"
+        ],
+        "tensorflow_gpu-1.15.4-cp36-cp36m-win_amd64.whl": [
+          "4d9cebf6c36ff4ec34ac2d7b8e5ae487e6026b3918943ceb032876a4893f0f72",
+          "cp36"
+        ],
+        "tensorflow_gpu-1.15.4-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "efd04c37a01f50bd9bf40152577e46f481fa9b2b793712beeca69bf7f06e2483",
+          "cp37"
+        ],
+        "tensorflow_gpu-1.15.4-cp37-cp37m-win_amd64.whl": [
+          "c7d19a7ed1add6f1ad0768f436c08b9ffab540f74e066faedaed4ac33537aa9f",
+          "cp37"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "tensorflow_gpu-1.2.0-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -72776,6 +72838,34 @@
         ]
       }
     },
+    "2.0.3": {
+      "wheels": {
+        "tensorflow_gpu-2.0.3-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "1dbfb24cebfacf4c67ad9a64ee494079a0355448f0ad692864fc59321c81789f",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.0.3-cp35-cp35m-win_amd64.whl": [
+          "63f43e3123fcab4a000a157ce7d05c7279802c5ceab9f1181d946e667760a180",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.0.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b34273a4033f3554809f209c6d6a406a55cb272739d55d2e4dcb219295718b27",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.0.3-cp36-cp36m-win_amd64.whl": [
+          "66976eb4f1e829b32b7441f2bf44e28c7e543d81ca65c494f1aaa8291302f91a",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.0.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "7aa73a41a6d4142ff547892cc17ad2c680a991342bf547217df6f1ef34642d5a",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.0.3-cp37-cp37m-win_amd64.whl": [
+          "8c239a34b0e9d48a7237405995819754be19931e6c050cd0351c53543b22b683",
+          "cp37"
+        ]
+      }
+    },
     "2.1.0": {
       "wheels": {
         "tensorflow_gpu-2.1.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
@@ -72928,6 +73018,34 @@
         ],
         "tensorflow_gpu-2.1.1-cp37-cp37m-win_amd64.whl": [
           "24ba29b7221175cf94a8e95098709e5251d800214fb70cd5bb27e23a441752db",
+          "cp37"
+        ]
+      }
+    },
+    "2.1.2": {
+      "wheels": {
+        "tensorflow_gpu-2.1.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "9fe1ee266311b37a6aa36895fd3c249a263f7578c4aa74b9c2712424a42fe8c8",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.1.2-cp35-cp35m-win_amd64.whl": [
+          "c21b85c61b2179174a677f9037d1520e1d811d91ccf06998fa2cc612053d07b0",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.1.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "12d4ccd757442f9469d3d0ae0d769c408c0062292230d05187bec7a34d6fbc97",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.1.2-cp36-cp36m-win_amd64.whl": [
+          "10228ea9fb1a0976b98613fdf80d1ac58e972e0b6eae7164a1823851bfc8d353",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.1.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "27ae8ff934b3cc4b5fdd11f72c2f005297a9d5aefe6e21b07622818ef6588055",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.1.2-cp37-cp37m-win_amd64.whl": [
+          "284a31b00efdd66874a1ea685a9e785fc5c2b8d33947b184145311c8f6f2c2d0",
           "cp37"
         ]
       }
@@ -73140,6 +73258,42 @@
         ]
       }
     },
+    "2.2.1": {
+      "wheels": {
+        "tensorflow_gpu-2.2.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "96f11d5d4ee3eb7aa3d8f5c6c2f01ebae87005a54ae3fe0d7d3e94e4e91892da",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.2.1-cp35-cp35m-win_amd64.whl": [
+          "e1522acae03aea796d8e06cf3e0dabeb5964b06b5c50b86c304eacdfc6322877",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.2.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ee92b24cb97b96cbc17ceef31c4a3bb36685e35e76d699c96ac286c3da66a598",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.2.1-cp36-cp36m-win_amd64.whl": [
+          "aa4fa5bd88c06d439d3edcc58d03c8e0d324ff912389f305ce69fc20353a526c",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.2.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d5cf881bb5b5137aa8ca48308945c53e433bbe5880465f6aad7ba4e22734e0bd",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.2.1-cp37-cp37m-win_amd64.whl": [
+          "290ca4dc2ca8ab9e1c87bce3ef109de9bb8a67a4933202b3f40b5d6c1fa3c576",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.2.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "39acd9ac65829d94e7adb5e38f71222171eade682df69fc4772ba7c53b6329f5",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.2.1-cp38-cp38-win_amd64.whl": [
+          "6b1f9c12a0d85d379b70652a4e9e37c97759bb12a42c54dad561892298437eb6",
+          "cp38"
+        ]
+      }
+    },
     "2.3.0": {
       "wheels": {
         "tensorflow_gpu-2.3.0-cp35-cp35m-manylinux2010_x86_64.whl": [
@@ -73280,6 +73434,42 @@
         ],
         "tensorflow_gpu-2.3.0rc2-cp38-cp38-win_amd64.whl": [
           "ec1a3e48eb09333937d70a4df569a7da7d49d80db6e48829d7b58628b6a97ee1",
+          "cp38"
+        ]
+      }
+    },
+    "2.3.1": {
+      "wheels": {
+        "tensorflow_gpu-2.3.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "20b48f204442aa35c3919067001a576323e1f5c8d304f7d594a23d36587f5d56",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.3.1-cp35-cp35m-win_amd64.whl": [
+          "3f5c9c1a032212b7f3e231d8ea7ddbbceb9fe9513d795e76cb18dad200219cc1",
+          "cp35"
+        ],
+        "tensorflow_gpu-2.3.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0fa7a79eb128ca672177df7f931e5c93d168884815de5b7fecc3b1e72e579989",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.3.1-cp36-cp36m-win_amd64.whl": [
+          "ca75298bdc0910bc5554ed326d3b6faa17b9780041cfba7a93868a66f009f2bc",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.3.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "aded296b14dad15511d6911bbba4b64e0a76432bb6d418fecb25213cfd68f164",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.3.1-cp37-cp37m-win_amd64.whl": [
+          "d0aee58ef571fe9180747f0d2cbca6df9f7226dd6163e29f4282428ee884201a",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.3.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "43aae6718bf50ac51cecaf5e26edc0074fa2eac846c67d4d49ec3539add019cf",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.3.1-cp38-cp38-win_amd64.whl": [
+          "3a30921f0c604d423fca60e402ca78033611ab78e8d97b38153039a26de5623a",
           "cp38"
         ]
       }

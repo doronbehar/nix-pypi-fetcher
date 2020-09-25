@@ -7633,6 +7633,12 @@
         "3b9cb427e972f836c65005e6d8fc230d57a889da063905844e01cbd68ff5e990",
         "CensusData-1.8.tar.gz"
       ]
+    },
+    "1.9": {
+      "sdist": [
+        "134cb2370a440baac58540960ee85dd2f304f46c55a4a891675532165d9582e7",
+        "CensusData-1.9.tar.gz"
+      ]
     }
   },
   "centrifuge-cli": {
@@ -32240,6 +32246,18 @@
         "licensing-0.23.tar.gz"
       ]
     },
+    "0.24": {
+      "sdist": [
+        "3bf150d433b3c6fd8a7b25ca0dfd587112b905e98714f5b6b5f6ae00e1345fd2",
+        "licensing-0.24.tar.gz"
+      ]
+    },
+    "0.25": {
+      "sdist": [
+        "ff08af817c84038c48af7b39fe78add3acc58c078b9207dcb2e47370a6356577",
+        "licensing-0.25.tar.gz"
+      ]
+    },
     "0.3": {
       "sdist": [
         "c02b7ccc4fed2120243ac1fe1616383bbea83cc51c51c09c4a254e77e91e0010",
@@ -37423,6 +37441,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.5.0": {
+      "sdist": [
+        "ca192d2002ac268fa038ef225f9db1b03b22d428a6bf436317fff6b456c18c29",
+        "mypy-boto3-workdocs-1.15.5.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workdocs-1.15.5.0-py3-none-any.whl": [
+          "a435345720f146acd9f1fe573f60ac2d21a5388c642ed75b33a132e48d424e33",
+          "py3"
+        ]
+      }
     }
   },
   "myqlm-simulators": {
@@ -40266,6 +40296,42 @@
       "wheels": {
         "notion2github-1.0.1-py3-none-any.whl": [
           "fde85509595b860c270be32319ffb47d5416a926e1d0682c5ecf1c089a453992",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "fe56092d699c8cfbd15dffac8c92f19cec1d382b86c4861ba280f6f9e88538c8",
+        "notion2github-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "notion2github-1.0.2-py3-none-any.whl": [
+          "57395bf5f3361456fcba54dab4187f2b114e11a31b260efec6a1121a6af9d1d3",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "f2f0d308b8e08e4b988b22b96b3116232f9248560e23e8669559e924fbf9e931",
+        "notion2github-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "notion2github-1.0.3-py3-none-any.whl": [
+          "7af349c52d10a551872ea9617d3ac78b7c6daf53eba4c31170fffafb8d9d18f2",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "35abbe71b68e03d440fb141d85a509cd38c4ac99434a5e10715519b0dd41c173",
+        "notion2github-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "notion2github-1.0.4-py3-none-any.whl": [
+          "36f285ccddd4cd6e8c55843459f2b0c99ec1b4d6dae298b5bdc138df546bbe87",
           "py3"
         ]
       }
@@ -56073,6 +56139,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "0abe38431c10a60478402a120a37ca6ff575cfe7717c9f625431400ea8b092b4",
+        "pysr-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pysr-0.2.3-py3-none-any.whl": [
+          "7d3e5244f40b457fa32e3b9a7de756ef46ee76f86d2613c5439b0fda14dda0a9",
+          "py3"
+        ]
+      }
     }
   },
   "pysviacep": {
@@ -62152,6 +62230,30 @@
       "wheels": {
         "sauce_lib_nltk-3.0.0-py3-none-any.whl": [
           "fdf45950074b871b060708ea6b4181c77bae827bedba01b84b45cf7e282fe7d7",
+          "py3"
+        ]
+      }
+    },
+    "4.0.0": {
+      "sdist": [
+        "f31d863cd0709e50f02d1819eea0787102b425decd295fd58368f22dafd68414",
+        "sauce-lib-nltk-4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sauce_lib_nltk-4.0.0-py3-none-any.whl": [
+          "d3e62697afb08e9028287cf4531f31d554625ab84a22492dbc5628836ddc4cbe",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0": {
+      "sdist": [
+        "a66f9c7526186caa0722f593cf5919ceb0b245cd06c3a313d230dd11e3f8aae4",
+        "sauce-lib-nltk-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sauce_lib_nltk-6.0.0-py3-none-any.whl": [
+          "ca9aeebab7de14bdc78d6a4fa50e7b0a5a12847ee67304c7d80984b9245855e2",
           "py3"
         ]
       }
@@ -69278,6 +69380,30 @@
       "wheels": {
         "strato_query-3.8.1-py3-none-any.whl": [
           "c5b772c39abbe675823d0679112f0483a422959222825fc4b4d479f4ff117292",
+          "py3"
+        ]
+      }
+    },
+    "3.9.0": {
+      "sdist": [
+        "37fe05950606ca69f0b2b64b111c9e6688e0c7d9ab168fff75db188a0e5f27ae",
+        "strato_query-3.9.0.tar.gz"
+      ],
+      "wheels": {
+        "strato_query-3.9.0-py3-none-any.whl": [
+          "dab5f2fe3e1ba1080328e6b6c6df2b1850b5cd591756a573c9fdd6fc4976860d",
+          "py3"
+        ]
+      }
+    },
+    "3.9.1": {
+      "sdist": [
+        "0d545b1e8cefc67c5f82c5199ff06f59d80e6402c5904f61c64a8abe218a9917",
+        "strato_query-3.9.1.tar.gz"
+      ],
+      "wheels": {
+        "strato_query-3.9.1-py3-none-any.whl": [
+          "dc58c0b81e7d2baa6d20d0ed31a65fdd32f85bb5ff2c993ca69b904eeb4898fe",
           "py3"
         ]
       }

@@ -7279,6 +7279,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "c08404d7c83420074ce2a97416b10788c6b900e9eeff8c4d2736103e3cfce5d0",
+        "certbot_dns_corenetworks-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "certbot_dns_corenetworks-0.1.4-py2.py3-none-any.whl": [
+          "1fceb5976a669ed4f861411a23fca590696876409e062fcd29c8296e458e8006",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cffi-magic": {
@@ -8212,6 +8224,18 @@
       "wheels": {
         "cloudcomponents.cdk_container_registry-1.0.32-py3-none-any.whl": [
           "b317986b11aad7f3a934ed6b5c0a1530c01afc049d79c6d7fa4b69326775b587",
+          "py3"
+        ]
+      }
+    },
+    "1.0.33": {
+      "sdist": [
+        "3f1b42508b448dffac63ac691358058dd9a68ae92ea4678f75134477da5c0efd",
+        "cloudcomponents.cdk-container-registry-1.0.33.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_container_registry-1.0.33-py3-none-any.whl": [
+          "52783f3e566f99d4525224970b660a7ffc80324e746260498fabe1ecf23c11d3",
           "py3"
         ]
       }
@@ -45549,10 +45573,18 @@
       }
     },
     "1.0.3.dev1": {
+      "sdist": [
+        "f241e3ec1a0eeaa9541866b2fca59959cb68ca792fc291d32c2032ad5b79d707",
+        "myjdapi-1.0.3.dev1.tar.gz"
+      ],
       "wheels": {
         "myjdapi-1.0.3.dev1-py2.py3-none-any.whl": [
           "a8152128bbdbc1929738b383d68e35fa79bd167822a8dd9863f3db60f4379774",
           "py2.py3"
+        ],
+        "myjdapi-1.0.3.dev1-py3-none-any.whl": [
+          "22e0f50888b60879ca122fb8d2548b664a45a1cfa94753264e679dcfecf79c60",
+          "py3"
         ]
       }
     },
@@ -45568,6 +45600,14 @@
       "wheels": {
         "myjdapi-1.0.5-py2.py3-none-any.whl": [
           "1c88fcd130ce6a7411caa3c7e7455269ca269696d3c1d2c831c14caa3c3842bf",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "wheels": {
+        "myjdapi-1.0.6-py2.py3-none-any.whl": [
+          "b521ea3fba585d333425cd653284c4346ea1317180a131b4af39dd88e6cb0b33",
           "py2.py3"
         ]
       }
@@ -56155,6 +56195,12 @@
           "3.7"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "bd937fb41fe1acc8f1829569b985e86207ba073d807727421a543ba6d76c6aa4",
+        "pvl-1.0.1.tar.gz"
+      ]
     }
   },
   "py-ball": {
@@ -79388,12 +79434,20 @@
           "4e74d35c19fcb2f11b97208ef5c2b465b776d39c61aa516ca0ed841148927b7c",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp35-cp35m-win_amd64.whl": [
+          "680bb2b5cec9e0d0f3af9a0c6328a7225c3ed9ac6d02e02728dc9d0037f432ec",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200924-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "ebc3b2ca27344280ba3a00f3b9b66165b9764adf9074d4987541f6c7b20e5d87",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200924-cp36-cp36m-manylinux2010_x86_64.whl": [
           "527c2aec675d40a04a250db99f69beec39e6e0b1290c6e8505c2251e9ae73cd5",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp36-cp36m-win_amd64.whl": [
+          "94ad1b03ecfebdb20d3983983f75a7f79fcdc1a1f8a5f6f515d7238a9e76c5d7",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20200924-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -79404,12 +79458,20 @@
           "e8454df377915672a8027c4d8f9e7b5465a672446b62f89224a3efbf190a5c58",
           "cp37"
         ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp37-cp37m-win_amd64.whl": [
+          "5ba47237efa7703ecf4a6567454736863f03ef162f350b2b6c74dccd11625dfe",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.4.0.dev20200924-cp38-cp38-macosx_10_14_x86_64.whl": [
           "1f707491a6fbc638ba08667aa155144980995edf6c9be859be89bfb4d1b1dc2d",
           "cp38"
         ],
         "tf_nightly_cpu-2.4.0.dev20200924-cp38-cp38-manylinux2010_x86_64.whl": [
           "da75c565da2e4712e35dd6dd0778c95e3fcc367583936bde591525eaceaadde7",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20200924-cp38-cp38-win_amd64.whl": [
+          "96a6fee5adf507b9be7c9d7e124e8f7f53d04393fb6721514e5839bfb1721041",
           "cp38"
         ]
       }
