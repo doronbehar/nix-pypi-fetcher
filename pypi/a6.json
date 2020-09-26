@@ -3496,6 +3496,18 @@
         ]
       }
     },
+    "1.64.1": {
+      "sdist": [
+        "15e1e1dadc2cc1c359a2a689b79aca802f4eef0d128f4a57fa56e06649d8a6dc",
+        "aws-cdk.aws-amazonmq-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amazonmq-1.64.1-py3-none-any.whl": [
+          "2b28651b33575571867564abd486f9527406804369e88882b7de6790a1f53685",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "57d872b910df59040036c89a6650c5c59b400b40cdbc80bd857ceb5682d224ea",
@@ -4670,6 +4682,18 @@
       "wheels": {
         "aws_cdk.aws_ecr-1.64.0-py3-none-any.whl": [
           "84e5716bddac7ea70b78fb60b61822ffc107e4964dce6d36728c71b7ed671a21",
+          "py3"
+        ]
+      }
+    },
+    "1.64.1": {
+      "sdist": [
+        "02bfd8265ca19a20934adc81235e5ebb4f722616911a345972fb2535fd1e6c9a",
+        "aws-cdk.aws-ecr-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecr-1.64.1-py3-none-any.whl": [
+          "ea6491bc18090eb0648666ef07c58c60d489aea17c0ecb65f2bdc1c84cb534b9",
           "py3"
         ]
       }
@@ -35529,6 +35553,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "fd287a4a918646bb31df92de8dc7ae55fd6720129cb9d3a80add32082361dce8",
+        "mypy-boto3-dynamodbstreams-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dynamodbstreams-1.15.6.0-py3-none-any.whl": [
+          "b5038475bd9114cbf9566939079894a860402a0759b5366b292e05d5839325ce",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-translate": {
@@ -37652,6 +37688,18 @@
       "wheels": {
         "mypy_boto3_translate-1.15.5.0-py3-none-any.whl": [
           "789d0191e0afebc60065606463e07a73155f69925887a85870491eb09f8b68a1",
+          "py3"
+        ]
+      }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "1038c83491c6aaf5f26f3d51b2378be738e63e972f9441e78a81bcd9d3aafd57",
+        "mypy-boto3-translate-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_translate-1.15.6.0-py3-none-any.whl": [
+          "f7925f9d2cc462b348695994396e9d7e0ec115596e019a568572a27aa499bd72",
           "py3"
         ]
       }
@@ -57518,6 +57566,18 @@
         ]
       }
     },
+    "0.0.10": {
+      "sdist": [
+        "19ed86fcdd69b277a30b0916c6fce68d02f01f5a800d97d92e27b5a8b89b8067",
+        "sns_core-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.10-py3-none-any.whl": [
+          "f09f76ba633741ec7996c4733a901a2df00bfcd54f1aa70dd69652fab0722ca4",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "356443442677fc4a57569d5274ddd92707d895709a17caf04df1b4310ddc5238",
@@ -57550,6 +57610,66 @@
       "wheels": {
         "sns_core-0.0.4-py3-none-any.whl": [
           "d670df8edb57898af2faf60f6ac8e2853e22cf89c5bf514c3735c71f8932f7bd",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "b6e10c26ea0bbae1e7392f2be945a6b9eda32f13083e68e5d7632f66ee2f19b7",
+        "sns_core-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.5-py3-none-any.whl": [
+          "7cd2268ba7f19708ee02d0c5798cc2cece39c5a1ee0f25502aead13fd0437fc4",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "d9356b27eee05a6cd866823dfea18dca6ee9752aaa796f7eb793a84fdc0ccfa8",
+        "sns_core-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.6-py3-none-any.whl": [
+          "168c6461bab5784c5f5a576c9db529e162685ccc008844e4dd57ca37a3249ad1",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "18e2588460b8c07403ced6800334cf5e57da1b64e0b8421baba7294793c3fab5",
+        "sns_core-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.7-py3-none-any.whl": [
+          "4ef057f997497703135e4bf30f5a1fbc86836604bb079ef4ab33fbc2a4cabb52",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "daaaf63f6cc1bf6ea988430ea9b98a028a438e8e654d3b0f78c3678478b17e77",
+        "sns_core-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.8-py3-none-any.whl": [
+          "142aa390b30f2b54a5f1dfceeb65ace6ad417de01d512ee133f463d7e1309a01",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "7700ee3030e0933739c431671cc649370dad63ae2b354fe43a69e797d8a44071",
+        "sns_core-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "sns_core-0.0.9-py3-none-any.whl": [
+          "1e6e01ad2a2b9a623ca995c4f5ac805e301a73f946e211b92023bb20d35bf469",
           "py3"
         ]
       }

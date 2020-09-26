@@ -4866,6 +4866,18 @@
         ]
       }
     },
+    "1.64.1": {
+      "sdist": [
+        "c991a0f81b97fc05e8377d7d404516d678bb2d3c4863cf894950cc0518900ccd",
+        "aws-cdk.aws-config-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_config-1.64.1-py3-none-any.whl": [
+          "dfe587d8669ab426459d66df7e3234924863bc1870a70de7cf631e8bf0589a02",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "97857860fb9288230602f6c48c5f026b1e3f3a629a8cb2dc797943faa787f792",
@@ -6040,6 +6052,18 @@
       "wheels": {
         "aws_cdk.aws_elasticbeanstalk-1.64.0-py3-none-any.whl": [
           "e8dd5dc5828a57d751b32b0802b9b85fb1bb45d344cdde376eb5ae59a328c2a9",
+          "py3"
+        ]
+      }
+    },
+    "1.64.1": {
+      "sdist": [
+        "9c1d8519bb07f8941936779c89a362983aa25bdfea2c70b29445587c7dd9467f",
+        "aws-cdk.aws-elasticbeanstalk-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticbeanstalk-1.64.1-py3-none-any.whl": [
+          "1b420938a5ef595e8cb8e93e9ff3c7b772de845b518f3800fdef58c39ee2273b",
           "py3"
         ]
       }
@@ -46109,6 +46133,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "73bb9466167af57bf4db454b38da64aabf81c75e1d5ec2af051046a5335555ce",
+        "mypy-boto3-codeartifact-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codeartifact-1.15.6.0-py3-none-any.whl": [
+          "0d673a336d4f80dcaf5d63ba20e29c1a54a3ebf330cfe5756380378c049caa37",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-dataexchange": {
@@ -48028,6 +48064,18 @@
       "wheels": {
         "mypy_boto3_dataexchange-1.15.5.0-py3-none-any.whl": [
           "581ee707b967f6765900def730e24ffe9fa5ae6a4f67de327a4504bb30518c9a",
+          "py3"
+        ]
+      }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "a55d875195426ee13a74aa4bfb9ea7ae100be5608d1338a910c2c7d93e65a450",
+        "mypy-boto3-dataexchange-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dataexchange-1.15.6.0-py3-none-any.whl": [
+          "c7db682babeb22de3559723965ea32c20ff59e18c67b6eeece4ff29a46d901e5",
           "py3"
         ]
       }
@@ -50150,6 +50198,18 @@
       "wheels": {
         "mypy_boto3_fms-1.15.5.0-py3-none-any.whl": [
           "23430b0e8fdbfcbc2b886e832a32f362f7932d7369af15a337ca6781439dd309",
+          "py3"
+        ]
+      }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "f882bd3b1fd722cad0065613cd7e51262481c2ac0b426a65cbee043a83c9aa2e",
+        "mypy-boto3-fms-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fms-1.15.6.0-py3-none-any.whl": [
+          "78c5c6952be9aed6d4ec70fb4692945c2ad1a533051db50be441d8ddff3e1d53",
           "py3"
         ]
       }
@@ -56958,6 +57018,32 @@
       "sdist": [
         "4734ce916c0910a4b651e4df780c92ebaf84daa8f629f7d6282bdc3d3fb4ad9f",
         "PsiTurk-2.3.9.tar.gz"
+      ]
+    }
+  },
+  "psrmodels": {
+    "1.0.0": {
+      "sdist": [
+        "6a8c390c5d6c438f166d9b9719731ec259bfd01e8a7788702f083bf2a2849a26",
+        "psrmodels-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "f840b45d2da3eb8be7d5afe0bd201bf4d2bad1fef451318bc8258027d7970821",
+        "psrmodels-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "c1543769cf036d673ff1a506f4d0a1442cbda3625014dd49f1fac10e440f5b44",
+        "psrmodels-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "975a214d5e8d85cbb7add0ff0307ad581a1d1d6063829919582ea503f6369910",
+        "psrmodels-1.0.5.tar.gz"
       ]
     }
   },
@@ -70710,6 +70796,12 @@
       "sdist": [
         "cc5fc30e382171937fc9d910e988d5771a424c05d41c4d2c4af337dfd0c6fdae",
         "target-stitch-3.1.1.tar.gz"
+      ]
+    },
+    "3.2.0": {
+      "sdist": [
+        "d709e98f81c3cf3a04d3a2ac5f1e7ca4e1086e50210b546477be3eb9abe6fb80",
+        "target-stitch-3.2.0.tar.gz"
       ]
     }
   },

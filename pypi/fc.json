@@ -4266,6 +4266,18 @@
         ]
       }
     },
+    "1.64.1": {
+      "sdist": [
+        "c85a79ac12793c73611e3299b0b31d82de7535ae604ffd471a9f873db83904c0",
+        "aws-cdk.aws-datapipeline-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datapipeline-1.64.1-py3-none-any.whl": [
+          "d03af566d5f8def183923a81c2284cef503d703c9a66d153ff3df04f4dd65145",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "522e8a6c29bbdc6f4b768e3691d5643e1a3e612b93565fac5ae37d3e17f6f8d7",
@@ -5440,6 +5452,18 @@
       "wheels": {
         "aws_cdk.aws_sqs-1.64.0-py3-none-any.whl": [
           "4128b1354b17223c27d8082c97c9ebc6c6be7116d3a7fcf4a2cec95264508b11",
+          "py3"
+        ]
+      }
+    },
+    "1.64.1": {
+      "sdist": [
+        "641dd4d9814de41d68b7659c8510c92ac17333d6e72afdc5c4c29ee6d942c46e",
+        "aws-cdk.aws-sqs-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sqs-1.64.1-py3-none-any.whl": [
+          "827c0ee0ec9d85b69fb408b124250f8dee63beea4b5def3073ad04c60abe5f8d",
           "py3"
         ]
       }
@@ -18401,6 +18425,20 @@
       }
     }
   },
+  "etos-lib": {
+    "1.0.0": {
+      "sdist": [
+        "f47d98b996e720449872a75259191fa2ace057a2af77e3d92ebd944462cc9248",
+        "etos_lib-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "etos_lib-1.0.0-py2.py3-none-any.whl": [
+          "e1264e7871e85c7adfe79bdcc50dab62d2756820ad1349e6dc721e214cb081ba",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "eventlib-pyqs": {
     "0.1.6": {
       "sdist": [
@@ -20776,6 +20814,14 @@
       "wheels": {
         "fontbakery-0.7.30-py2.py3-none-any.whl": [
           "1d5a347c4a99be3856ac96bde14dc0852346ff752f6a4c61dea602bfd013ac1a",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.31": {
+      "wheels": {
+        "fontbakery-0.7.31-py2.py3-none-any.whl": [
+          "d48461394ac74da5579db5c03bf7040c569d4051dbfc3fea99c1c9ca3d0be9ca",
           "py2.py3"
         ]
       }
@@ -25501,6 +25547,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.94a10": {
+      "sdist": [
+        "2672477e23190fe04476fc3d574a6b3c4e4338dad24a821be539326b3836a519",
+        "goopylib-1.1.94a10.tar.gz"
+      ],
+      "wheels": {
+        "goopylib-1.1.94a10-py3-none-any.whl": [
+          "35e7448655d2a8bffaa814f0f8e1834d3ab2aec98c48ecb6740c3725783640a1",
+          "py3"
+        ]
+      }
     }
   },
   "gordian": {
@@ -29582,6 +29640,18 @@
         ]
       }
     },
+    "0.0.24": {
+      "sdist": [
+        "acf747d073d03a5df76c617bb46bb47899b6d5b88f712a90c67dc45457d1bb84",
+        "ingraph.aws-0.0.24.tar.gz"
+      ],
+      "wheels": {
+        "ingraph.aws-0.0.24-py38-none-any.whl": [
+          "432a8281cd2ba29a95e8eedae76ef969d2148e6f2383b2b8bc977a59d0040d32",
+          "py38"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "9f032d6867cb0cf0a305d9d67c5f0bb1ef05f942c7a29d3dc7aeb26080a3fa08",
@@ -30376,6 +30446,68 @@
       "sdist": [
         "81dd46a8ec7491113c4b31e116bc3252f60f2d27940f87dbf23ad12b2b26ec74",
         "invivoinfer-0.1.1.tar.gz"
+      ]
+    }
+  },
+  "iot-demo-webapp": {
+    "0.1.0": {
+      "sdist": [
+        "5e001d84fe5228bafc6a6824cbb68846ce6a9b55aad6b31e4256670a8a7135ac",
+        "iot-demo-webapp-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "iot_demo_webapp-0.1.0-py2-none-any.whl": [
+          "95bb6a0ca30a1c22ded9740b2ada895f76e8be65078c0e5f1c3c485235328148",
+          "py2"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "adbf2d9e602f548262dda72064b457cab18940ca19b75e42c84cd20ed30c5299",
+        "iot-demo-webapp-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "iot_demo_webapp-0.2.0-py2-none-any.whl": [
+          "b0511e21492c4b02fd24d7dfc56ac9def024c32e2eae3db8571c692bb5baac07",
+          "py2"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "02d737a2fe63e92dc02b6092b23e7ef6bea4592743992d472e04d396a42e3bef",
+        "iot-demo-webapp-0.3.0.tar.gz"
+      ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "e3199ca3cb479f31a212d4da4735d4b34cea62a9c1dd88dbad04c1e15a0829e7",
+        "iot-demo-webapp-0.4.0.tar.gz"
+      ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "338091b5d15ea73979344d639df6fe96758eba745be7e58c77bd5283b3a0abbe",
+        "iot-demo-webapp-0.5.0.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "2c4619725f312569e48c63d7197fda770be0d986601f5b2dddea3a628c5dc0b2",
+        "iot-demo-webapp-0.6.0.tar.gz"
+      ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "f18d73ab5ff7b3949ec54e484af99de29070258cf90d1fb2edde066c233b08db",
+        "iot-demo-webapp-0.7.0.tar.gz"
+      ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "2617ae3ab4f4accec5b1841c861e7ccd2e6062a6dcc4a2201df3a1782ef32e47",
+        "iot-demo-webapp-0.8.0.tar.gz"
       ]
     }
   },
@@ -40675,6 +40807,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "791022145e220d989ca96ae7fe452110d8be98e576f7c57fe121089bb2491ee5",
+        "mypy-boto3-sso-oidc-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sso_oidc-1.15.6.0-py3-none-any.whl": [
+          "15a26b45bdec664082472a62c7df2b8139aecbae2ae7e5e86aa409c2d586a20a",
+          "py3"
+        ]
+      }
     }
   },
   "naffoliapy": {
@@ -46221,6 +46365,20 @@
       ]
     }
   },
+  "poetry-demo-jerber-new": {
+    "0.1.1": {
+      "sdist": [
+        "61d77a3f9dbe3a448de207492db4f83b5a3cc0d76979dd68d81308387523176b",
+        "poetry-demo-jerber-new-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "poetry_demo_jerber_new-0.1.1-py3-none-any.whl": [
+          "1e451d50b6a8cdbf74f8c6a28bedecfc615935a061a357ea5e9d2a3713cef527",
+          "py3"
+        ]
+      }
+    }
+  },
   "poi4py": {
     "0.0.1": {
       "sdist": [
@@ -48050,6 +48208,18 @@
       "wheels": {
         "pyaurorax-0.0.4-py3-none-any.whl": [
           "030df8a64e50c2ece4c2f2eb35f1e75f4965e27503477f37d5710ab40af85670",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "db302e206c0e7304409adb4f56cba9a4e01e66c5a62666f594457909c1d743eb",
+        "pyaurorax-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyaurorax-0.1.0-py3-none-any.whl": [
+          "298de0b17f5dc0fa31eecc8bf92143d4451da3c0a06a08ac2931ecda951d889a",
           "py3"
         ]
       }

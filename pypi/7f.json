@@ -1305,6 +1305,24 @@
         "e60caf75c05a3864bab79fdcf3ff299ba4425d7bbca62d319cf6fefe76a36389",
         "amuse-petar-13.2.1.1.tar.gz"
       ]
+    },
+    "13.2.1.2": {
+      "sdist": [
+        "66ae6744b65e04452fbf21fdc950c84eebc1793b21e39617fa86d5ec485a8044",
+        "amuse-petar-13.2.1.2.tar.gz"
+      ]
+    },
+    "13.2.1.3": {
+      "sdist": [
+        "da8c9849cc764b7f821a1695154bd92b8559fb65c531bdf1c0999bbf1cb8e1fc",
+        "amuse-petar-13.2.1.3.tar.gz"
+      ]
+    },
+    "13.2.1.4": {
+      "sdist": [
+        "bd1bd313a8cfa3464d2764c040fb30d5e058d99f7a635d102ccd402350f31be5",
+        "amuse-petar-13.2.1.4.tar.gz"
+      ]
     }
   },
   "anm": {
@@ -2584,6 +2602,18 @@
       "wheels": {
         "aws_cdk.aws_kendra-1.64.0-py3-none-any.whl": [
           "08f658cb851c00006fabc1d06dbb5c7c297f65b1277639eca127b4ec13feb7d0",
+          "py3"
+        ]
+      }
+    },
+    "1.64.1": {
+      "sdist": [
+        "87277295f340475825ea81c65bd63431702bd58d91574210d7771e8b47209962",
+        "aws-cdk.aws-kendra-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kendra-1.64.1-py3-none-any.whl": [
+          "eb2e714c8ba099976993272c54d5a0630d7a8c4751a64de98b36f20e0ce75933",
           "py3"
         ]
       }
@@ -12690,6 +12720,18 @@
         ]
       }
     },
+    "1.18.147": {
+      "sdist": [
+        "429843b7ab4dda2433d419940fd6073e571d28a0193ca1b68885e0af81570e06",
+        "awscli-1.18.147.tar.gz"
+      ],
+      "wheels": {
+        "awscli-1.18.147-py2.py3-none-any.whl": [
+          "3cc51f12e62fc51ab2af22f457e2238f0abdcd5d19bf25cb5cb0908201c5a887",
+          "py2.py3"
+        ]
+      }
+    },
     "1.18.15": {
       "sdist": [
         "9e2ca672ac4c9d1d986df7d361cedc150a182aeb78460f306af25614a6dbaa26",
@@ -22324,6 +22366,12 @@
         "coverage_strategies-0.8.tar.gz"
       ]
     },
+    "0.9.15": {
+      "sdist": [
+        "b54ab1bb63d739462b67bffb836d13dc945c2031884a9fb396e8e61459ba6235",
+        "coverage_strategies-0.9.15.tar.gz"
+      ]
+    },
     "v0.9.10": {
       "sdist": [
         "1fcd6e1411ba9966c58e8cc8b022fa4322ff9395282b9eeb22bc042f36c90db5",
@@ -22346,6 +22394,12 @@
       "sdist": [
         "b6bbe19abdec156948fb89b91ae6c4485dd73949f47ac2700862bc395b55063b",
         "coverage_strategies-v0.9.13.tar.gz"
+      ]
+    },
+    "v0.9.14": {
+      "sdist": [
+        "2254f1f3987783479eb5ba2c5fd5107459978a2261fbd1bdaa558cf8530ea82d",
+        "coverage_strategies-v0.9.14.tar.gz"
       ]
     },
     "v0.9.8": {
@@ -63683,6 +63737,32 @@
       ]
     }
   },
+  "rpbot": {
+    "0.1": {
+      "sdist": [
+        "2ed501287d781635692fcc439d928329c100b4b1fd90b1d2ede60a4a3bdc7764",
+        "rpbot-0.1.tar.gz"
+      ],
+      "wheels": {
+        "rpbot-0.1-py3-none-any.whl": [
+          "63a9835ee68965c040a5eaed2f9f604823a93a833035f32c1b09db918f2e607c",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "d2ff53157b52d2eda5be3816d7132a09112931b148afb2d491d67dbad86f0690",
+        "rpbot-0.2.tar.gz"
+      ],
+      "wheels": {
+        "rpbot-0.2-py3-none-any.whl": [
+          "821d1d39dc56a4e2ba30b315a527b568575fd2e18cc77c15897c2a84b577bc2f",
+          "py3"
+        ]
+      }
+    }
+  },
   "rpisensors": {
     "0.1.0": {
       "sdist": [
@@ -69227,32 +69307,6 @@
         "704703302fbf95d270791506d0d37d3088e09f58c822aff69497d5415bce6e62",
         "tinysegmenter3-0.1.0.tar.gz"
       ]
-    }
-  },
-  "tms-entity": {
-    "1.0.1": {
-      "sdist": [
-        "cf0d91bdf0b566bc4dbc91f159569d425e58e65310d643a5530352a6b95b887a",
-        "tms-entity-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "tms_entity-1.0.1-py3-none-any.whl": [
-          "beeec4dbba65b8ebe67fcfa526e1dfb31f2c57ec990bc4c1df8e53667d4d21a8",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "3a6a8c63adcc6449ce0f2ccf2fec6fa4597257d844b9d401e189c8a15adf56b6",
-        "tms-entity-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "tms_entity-1.0.2-py3-none-any.whl": [
-          "7babbe432858f8525061ee59be0b49b2e5cd260bb6848f61b8f189145496f701",
-          "py3"
-        ]
-      }
     }
   },
   "tnmk-ensae": {

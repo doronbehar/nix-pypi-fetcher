@@ -12141,32 +12141,6 @@
       }
     }
   },
-  "disrank": {
-    "0.0.1": {
-      "sdist": [
-        "39f74bcbedc6eb560d22ade4b24189c495ea38ababa4059f0de999d74e6b160c",
-        "disrank-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "disrank-0.0.1-py2.py3-none-any.whl": [
-          "fd509e2c3c7c8525beb6170470017bb00f039ad631f743911d1a27ae9c6bf678",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "5b190345cb641559d99ba1564f8fc019a3f8ab9a6385467eff43779105bfabec",
-        "disrank-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "disrank-0.0.2-py2.py3-none-any.whl": [
-          "3dc32aaa05e53c95d4bee087763583136ca7d1a4ad6181188c976391fc82cbde",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "distributions-drs": {
     "0.1": {
       "sdist": [
@@ -15756,6 +15730,12 @@
       "sdist": [
         "f5da435f104af9a9175fa18e5b455243890bb48d7fec4d77366bcef90bc61af3",
         "duckietown-world-daffy-6.0.4.tar.gz"
+      ]
+    },
+    "6.0.6": {
+      "sdist": [
+        "05c6654b031444c380da46b291ca52426488c7db1ced7d95e6ea92fb3327b60d",
+        "duckietown-world-daffy-6.0.6.tar.gz"
       ]
     }
   },
@@ -66185,20 +66165,6 @@
       }
     }
   },
-  "sigma.coding": {
-    "0.1.0": {
-      "sdist": [
-        "45a295363d1aacb9f77a778949d730ad3eaa3a0831a6b618fac367f7bfa158b5",
-        "sigma.coding-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "sigma.coding-0.1.0-py3-none-any.whl": [
-          "5b5c97a5da62e3ac95cdf9fe5831301bbf9262ca01da967fd4c41e24daa47c9f",
-          "py3"
-        ]
-      }
-    }
-  },
   "silence-tensorflow": {
     "1.0.0": {
       "sdist": [
@@ -81526,6 +81492,58 @@
         ],
         "tfa_nightly-0.12.0.dev20200923163528-cp38-cp38-win_amd64.whl": [
           "004a5c1394304cc3528fec8996c43aa04c11e081922d32b220bcc18dfcb3da4e",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.0.dev20200925011516": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200925011516-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "45a64fc7da8a3b4b2c7d5d70ac623b04800e89830ccc89f8a8d5922824a37d99",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "02840f2dce8e2b8b81215089d67ac15d831c6c33e109903be20eba6571e407ee",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp35-cp35m-win_amd64.whl": [
+          "97ae176b11e9cb39efc25bcd13336b8cf3214ced95810c542f4c62674c06b4ef",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "de816ba34b9c2ae0755d6cba5d9297d251def499a3d26ab7bb7521d08e4b319d",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "701c979fd000878cbe470b55269180bae60143abfb323d46f3eadf3188d5b682",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp36-cp36m-win_amd64.whl": [
+          "12363a485e39df92f0e585de52e74c3e1b18c7bc08bf40d9a69ec6efa1a412ef",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "3f6b485558f1e1751fe85593f7d04fe678e56576828eca08f89eff0498c6eb9f",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "05613d8c2dbc0a115257bdf853f0df95c10582e78671834cee1d6eb644e60191",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp37-cp37m-win_amd64.whl": [
+          "0c546735c4e060d441e24d19c34876b3742e652955647f4533717623d4a76d24",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "98e0f09c8e71541f4d103ebc54a401afde3c3c2e3dd891cc17a9f606e39fdac9",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp38-cp38-manylinux2010_x86_64.whl": [
+          "90790e70b8770871d9e090b26f2ed5a242ef15d52ff667f022b40fa878f7ea75",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200925011516-cp38-cp38-win_amd64.whl": [
+          "c21dd117b81d98ce973d577c36d91644f58dbce2ee5deab785bc38969b8208ba",
           "cp38"
         ]
       }

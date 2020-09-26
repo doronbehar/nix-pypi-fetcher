@@ -5076,6 +5076,18 @@
         ]
       }
     },
+    "1.64.1": {
+      "sdist": [
+        "ec48f7a9f714de49b2d0eb735611cae4691e5f1a2ca02c6cabe0cff7536861de",
+        "aws-cdk.aws-fsx-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_fsx-1.64.1-py3-none-any.whl": [
+          "f73a0e0d269198d1cce417ab2059eaeac95a71da5c7558df919bc1a8c55c26f2",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "3b540a6663dc31e8ce6d264be9d490f762d5493d4f9f9d4674ea92050a75145c",
@@ -15264,6 +15276,18 @@
       "wheels": {
         "django_cryptapi-0.3-py3-none-any.whl": [
           "73b2ec4329f2a1e97d309efe3412dc531d240e2ef4a0f5ba873af301740b11c6",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "7fd5d749464c8ff818969833ab0d560cd4548405cbeb470a8f9377c2c23670c4",
+        "django-cryptapi-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "django_cryptapi-0.3.1-py3-none-any.whl": [
+          "842b7e37e29dc6246c039434eb3a53f12d79c8e97ed1598dc2c3f01eeb7a9531",
           "py3"
         ]
       }
@@ -34503,6 +34527,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.6.0": {
+      "sdist": [
+        "45aa866e0f8b2e811b797bff91573300f6ae67adfbe7d67418f605eff69b0ce0",
+        "mypy-boto3-batch-1.15.6.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_batch-1.15.6.0-py3-none-any.whl": [
+          "66ceaffb88df0d1f5a0b519f88f13b3b55fe4dcd2b885d3c72c16a9cba22dc42",
+          "py3"
+        ]
+      }
     }
   },
   "myreco": {
@@ -50893,14 +50929,70 @@
       }
     },
     "1.2.0": {
+      "sdist": [
+        "471161993e6e1f1efc48c752e3e327964da1af2c2f4f26cd0ea7e2ba0ee15fb4",
+        "record3d-1.2.0.tar.gz"
+      ],
       "wheels": {
+        "record3d-1.2.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "31063c15c8314840e99e15dc7c0f0fbc0bca4a5e607d149dfafb45549b333574",
+          "cp27"
+        ],
+        "record3d-1.2.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "7cfcc005ca109eee61cbd9ca21f391fc89a46c816735d125b6eb90cbd95e65d4",
+          "cp27"
+        ],
+        "record3d-1.2.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d0a66680dab8a7dedd1b5a6ca2cb81cc417fb0673c31525f39c68b4a5ef158fb",
+          "cp35"
+        ],
+        "record3d-1.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ad9edd03c27df417e55a0eb7f8b1ac620421f472d0b7b591e5c6501ede194809",
+          "cp36"
+        ],
+        "record3d-1.2.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "145ca64a41d478cf4fad3e99decd0b1caa2ef8be50e33ea1b4283e02a3dfc1f0",
+          "cp36"
+        ],
+        "record3d-1.2.0-cp36-cp36m-win_amd64.whl": [
+          "f50a1a5b2c9150ed404dd70d8284c54d766762d4e6e4bc3b1f08b432a89a431a",
+          "cp36"
+        ],
+        "record3d-1.2.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "57319d2cfac100c00e42b1786789b271434dbb2acfbc3184fae534a6bdd5ab85",
+          "cp37"
+        ],
+        "record3d-1.2.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d6bca0bbd7fc48fc5c655cc395ce5c4deeb38e6eadb068442c64b8bb8029883e",
+          "cp37"
+        ],
         "record3d-1.2.0-cp37-cp37m-win_amd64.whl": [
           "82f10ec52bc798d9b643bc2d9a85be6cf3fbac3c0e6b184cfb7a741909acb78d",
           "cp37"
         ],
+        "record3d-1.2.0-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "4228d15a69ac6ffdb5175e89e7a2d12f02e9a534d4d22f791d7112331f12f688",
+          "cp38"
+        ],
+        "record3d-1.2.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cacd0256f70b1842018b10b2932d432796065fbad4a4b76ed0311a62a5e78bf8",
+          "cp38"
+        ],
         "record3d-1.2.0-cp38-cp38-win_amd64.whl": [
           "d843a60fdb4238292918f41d7dfe0c0382461b6e45739ea63ca43952e17ec568",
           "cp38"
+        ],
+        "record3d-1.2.0-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "0bdfe350b22282daf184a7bfe3457205402805dae655c5a3cff566374d6f0629",
+          "cp39"
+        ],
+        "record3d-1.2.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "e708eaed0e9124859e7003cb3238ffcbee4961ca649bc2fdf8ab5d8e76ca9ee3",
+          "cp39"
+        ],
+        "record3d-1.2.0-cp39-cp39-win_amd64.whl": [
+          "58a22ec87f31c56104cbb391683deea0f3fa221b6df19788e27fb7f83c68a1a8",
+          "cp39"
         ]
       }
     }
@@ -57276,6 +57368,18 @@
       "wheels": {
         "splunk_appinspect-2.2.1-py3-none-any.whl": [
           "68c49b7fb5edbfa8326edaae24e4f8f861ef1be9ef928f887053d0b284d22f27",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "eee158f5c90a6bfe7921e43f5a6686c1b7dc887f4efd321f97e588bca43383b7",
+        "splunk-appinspect-latest.tar.gz"
+      ],
+      "wheels": {
+        "splunk_appinspect-2.3.0-py3-none-any.whl": [
+          "8328b49b1c8e3fd0057719b0931600c43cb3aae9a5d0c9e9f44d170bfd3ef741",
           "py3"
         ]
       }
