@@ -5433,6 +5433,18 @@
           "py3"
         ]
       }
+    },
+    "1.64.1": {
+      "sdist": [
+        "d08335909c4e506b7b13096a11970475c4a1778599d02235decfd1a6b43fd62d",
+        "aws-solutions-constructs.aws-apigateway-sqs-1.64.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_sqs-1.64.1-py3-none-any.whl": [
+          "ec643b3117c278ff55f76f817999e264f32b10fcaefae95187db44b72c320f61",
+          "py3"
+        ]
+      }
     }
   },
   "awscli-plugin-yubikeytotp": {
@@ -29045,6 +29057,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "c1b2deaa2f14ee304d2b97623d2c34802722d6b60b0729ea43cb87cf614825b7",
+        "igel-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "igel-0.2.3-py2.py3-none-any.whl": [
+          "0d39830382fb64d87a8f231a944ac136b6aee2100ef28a2372680c8dc91aad72",
+          "py2.py3"
+        ]
+      }
     }
   },
   "im-jenkins-utils": {
@@ -32847,6 +32871,152 @@
         "3044a7d6b2cdee9132beaf1f69f7bc9bdb1d8f18629f2495fdbfbf02bc0fdc70",
         "lambdafactory-0.8.9.tar.gz"
       ]
+    }
+  },
+  "lamonpy": {
+    "0.0.1": {
+      "sdist": [
+        "bcc63b55119d9ebefcbf674004f41460df2638a6ef15eff6678c3aa735caffcf",
+        "lamonpy-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "lamonpy-0.0.1-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "20f7adc86991d8b731d6ec40503e5a596a507023a961a2a92db6b76b33fbabd9",
+          "cp35"
+        ],
+        "lamonpy-0.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "40e064a5a1174a9bf29717520eeb4cf3f46e8270cbaf0b49cb638f1df1d96418",
+          "cp35"
+        ],
+        "lamonpy-0.0.1-cp35-cp35m-win32.whl": [
+          "f63dcf261c212236bb878c78c4726990113174e72d38dcd48d341d130904d98f",
+          "cp35"
+        ],
+        "lamonpy-0.0.1-cp35-cp35m-win_amd64.whl": [
+          "fa467b9598cedc157c0b236df4dd884850214c56f1d208cc38926a557bd10df3",
+          "cp35"
+        ],
+        "lamonpy-0.0.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "f9d20b0fec601421c5b3fc27d5cd8c984e7b5cbef2baf564f5d9610d5da69337",
+          "cp36"
+        ],
+        "lamonpy-0.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b117f95a530723150ab5b52feaf3660fd64ba3dfcf45bec3f62592678d4c5f0a",
+          "cp36"
+        ],
+        "lamonpy-0.0.1-cp36-cp36m-win32.whl": [
+          "304d865370722e177c3e778ed94aee98878e4cab604b8221b727716e64447f9d",
+          "cp36"
+        ],
+        "lamonpy-0.0.1-cp36-cp36m-win_amd64.whl": [
+          "c6bedc2f206dac8063588b13d3755289f8a4fb8d14ed8eff8167e5e33a2ff47b",
+          "cp36"
+        ],
+        "lamonpy-0.0.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "47d5dc9974f81114e81bdad5bdd9c5da50030031e8d64e099fcc7de232aa135c",
+          "cp37"
+        ],
+        "lamonpy-0.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "78a63b2a81adf34cb4634f9c7743e2312907ba69528791e935ca0e372f8a6a24",
+          "cp37"
+        ],
+        "lamonpy-0.0.1-cp37-cp37m-win32.whl": [
+          "1214bb9c2b39288684d0705dd26609ec96f69b8c826ae0eebd44b91f91b3eb1c",
+          "cp37"
+        ],
+        "lamonpy-0.0.1-cp37-cp37m-win_amd64.whl": [
+          "5c0b744f23273ff5b641dd910503b3ca7daf42944ce31495599da6d69a2bf89f",
+          "cp37"
+        ],
+        "lamonpy-0.0.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ed28a58d5c8d231cdaf76bc0ad5fa251dbf88d1b6516f64aafb2277376336be3",
+          "cp38"
+        ],
+        "lamonpy-0.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c13fa5f4b1cf39c6a7b065c8904b359dd02f0672ce3d98d575cc8bcc98c0c7a5",
+          "cp38"
+        ],
+        "lamonpy-0.0.1-cp38-cp38-win32.whl": [
+          "e67fd245a9d8648525001769be192389a4b4a3296991ff20e18f5a64885a41a1",
+          "cp38"
+        ],
+        "lamonpy-0.0.1-cp38-cp38-win_amd64.whl": [
+          "e1a3f2d724022e83ba5f12cad1b0da8db372059cbf79d0f8bc884f8c5d6593a4",
+          "cp38"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "d12a98c77ceedac014d0af41f472eecf01f73a68cbe1c54553cb6217a1d196db",
+        "lamonpy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "lamonpy-0.1.0-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "eac1e5ab4f36585f1e7cc5796454763b0f3f5e88273ab5c9e110f7f7529904b6",
+          "cp35"
+        ],
+        "lamonpy-0.1.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "b9f97239940c42411a27da3a1d8fed420c32866ea520e6fd4ec1956e5e378e26",
+          "cp35"
+        ],
+        "lamonpy-0.1.0-cp35-cp35m-win32.whl": [
+          "d9e83f97d6fd86ab6143635eb60d7191c339a93f5cc241ce0d7fd96eb7c3711f",
+          "cp35"
+        ],
+        "lamonpy-0.1.0-cp35-cp35m-win_amd64.whl": [
+          "fc775dcc64369a5f1968e976bfd107a30b89d3759af359ddb67820d2082205ad",
+          "cp35"
+        ],
+        "lamonpy-0.1.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "1f6bac80038b3bcd379cc0287eff4433b3b0909158e782fe75ab532cb3b9ffec",
+          "cp36"
+        ],
+        "lamonpy-0.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "57a9d982b191ac3fa1f1cfab031833ec792027652d67095f2e3172d6efe0320a",
+          "cp36"
+        ],
+        "lamonpy-0.1.0-cp36-cp36m-win32.whl": [
+          "326be93d0b2de055026ef8543c8838b05fd8d8b9f126e960fe949b37aa1277ba",
+          "cp36"
+        ],
+        "lamonpy-0.1.0-cp36-cp36m-win_amd64.whl": [
+          "0de52e792f298eb01453b720c0689bc8e73ae0a79875e28654f2ac2f221f1317",
+          "cp36"
+        ],
+        "lamonpy-0.1.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "320d85ca96e9ac322045761a19277070f8a585ec003d10016cac6f0863590c4c",
+          "cp37"
+        ],
+        "lamonpy-0.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "374fbc6dd654770204ea4abe030642f96ebc7c862d7c16d4c7332e0358697c7c",
+          "cp37"
+        ],
+        "lamonpy-0.1.0-cp37-cp37m-win32.whl": [
+          "a48c10c8edefd848bb58994434628004f1bd120b2525825c44d8c9c1920a0020",
+          "cp37"
+        ],
+        "lamonpy-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "a3d9b6807ffbffd94d29881092f2c0468b42cd7942faf04f3e8b039292f4fb72",
+          "cp37"
+        ],
+        "lamonpy-0.1.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "be44e5557b3396b0aaf0b4faa758a17a4c748968fe178522b05331449f6b8111",
+          "cp38"
+        ],
+        "lamonpy-0.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "eea12fca981718eb43a13520e9b7dbbe87fcfbfe770eec0b49d0bfca21705931",
+          "cp38"
+        ],
+        "lamonpy-0.1.0-cp38-cp38-win32.whl": [
+          "9d83ebe4af1f1a928e411b56e7add424ea7004e643ba28461d99617936fc551b",
+          "cp38"
+        ],
+        "lamonpy-0.1.0-cp38-cp38-win_amd64.whl": [
+          "e076014bb6b29984243686baf024aecab16a10301c853f51bc40a87c118b3e27",
+          "cp38"
+        ]
+      }
     }
   },
   "laptop": {
@@ -42962,6 +43132,14 @@
       "wheels": {
         "odoo12_addon_purchase_allowed_product-12.0.1.0.0.99.dev6-py3-none-any.whl": [
           "7390f8d7b184d93c4cdb6e75817058bb9022b566384415b34795cac71cd44f45",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev7": {
+      "wheels": {
+        "odoo12_addon_purchase_allowed_product-12.0.1.0.0.99.dev7-py3-none-any.whl": [
+          "c323422f274bbe04775da4673c78c615b605e2668a3abd06b6ca9f3a5c0a5f89",
           "py3"
         ]
       }

@@ -4881,6 +4881,18 @@
           "py3"
         ]
       }
+    },
+    "3.3": {
+      "sdist": [
+        "bdf691aade1e8c48cabf32229f1b6d364196a221ee739d6eb1b7e2680a134a4c",
+        "BenchExec-3.3.tar.gz"
+      ],
+      "wheels": {
+        "BenchExec-3.3-py3-none-any.whl": [
+          "d0b7d5c762ed929d1260aaf3d5248911609e30be2d2350e642b8ef6f301b51d8",
+          "py3"
+        ]
+      }
     }
   },
   "berry-module": {
@@ -37269,6 +37281,30 @@
           "py3"
         ]
       }
+    },
+    "12.0.3.6.0": {
+      "wheels": {
+        "odoo12_addon_l10n_br_fiscal-12.0.3.6.0-py3-none-any.whl": [
+          "d5555f6d477a5ba770f0906ddf3d715fe3789347afc00dacfc7fb1612f54ac54",
+          "py3"
+        ]
+      }
+    },
+    "12.0.3.7.0": {
+      "wheels": {
+        "odoo12_addon_l10n_br_fiscal-12.0.3.7.0-py3-none-any.whl": [
+          "dec3426361b79809fdec8b6ac866aa4471a5026e57c89cdb299c22f6eb0e1637",
+          "py3"
+        ]
+      }
+    },
+    "12.0.3.7.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_l10n_br_fiscal-12.0.3.7.0.99.dev1-py3-none-any.whl": [
+          "c28a9e164e5ef5af2da9bc8aed799666d20cd5d082f4bf5767402e4cd46aa69e",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-sale-automatic-workflow": {
@@ -66669,126 +66705,6 @@
         "cd2927bd3da24e506285fc736b49b5d7ef384984815a5743aa03949a426bc1e8",
         "walleclient-0.5.0.tar.gz"
       ]
-    }
-  },
-  "wasabi.geom": {
-    "0.1": {
-      "sdist": [
-        "ee1ebc4c939bc15d419060abcd958e5d03de41f593135e8ad4e64504c8c29e85",
-        "wasabi.geom-0.1.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "7dd92885efbabd77a2c80e936d3b72c9754762bcc9b8db44cca7f4bdad8e4520",
-        "wasabi.geom-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "eede1493c5bfee78ba9cd758a9d110ad2d067c638790d066606b0e05b711692e",
-        "wasabi.geom-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.3": {
-      "sdist": [
-        "9fe2d01aebe887b2351fa4afafc630c28bd0316b575bf1703a969a0d5e6f8555",
-        "wasabi.geom-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "wasabi.geom-0.1.3-py2.py3-none-any.whl": [
-          "95324e73b8696e9917351ba38b898723962c27cbf2042c13127901fd0db7d7ee",
-          "3.4"
-        ]
-      }
-    },
-    "2.0.0": {
-      "sdist": [
-        "cb1181e00730ffa73cc779e93f86609b9031ae7b18a250170d12d3b07264501f",
-        "wasabi-geom-2.0.0.tar.gz"
-      ],
-      "wheels": {
-        "wasabi_geom-2.0.0-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "63328fa80edfb76c6402cbb38ec90071f666f67e13402d35a040a792f3fb67c6",
-          "cp35"
-        ],
-        "wasabi_geom-2.0.0-cp35-cp35m-manylinux1_i686.whl": [
-          "aa1e27abec52ed2e45f288ef24212618dd4b388ebbee0e5c44e21235e44cab1c",
-          "cp35"
-        ],
-        "wasabi_geom-2.0.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "a360a47949164b6a1e0b84df9e28c0b88399881b3165ac6d873cdfb8fb674ea3",
-          "cp35"
-        ],
-        "wasabi_geom-2.0.0-cp35-cp35m-win32.whl": [
-          "63f4fa7b6c61c14f280ec2c9dc42aecc710cea40b3dbeec1cef17392c33726ee",
-          "cp35"
-        ],
-        "wasabi_geom-2.0.0-cp35-cp35m-win_amd64.whl": [
-          "65759a104ddb0169fd0a91fa506f3f5d09cf6e71b107f36d1a3e9cbe8fd812f0",
-          "cp35"
-        ],
-        "wasabi_geom-2.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "1484d716b0cb753df3ab8717d2edffd2cce07b621f9f724e059d75bb04fca070",
-          "cp36"
-        ],
-        "wasabi_geom-2.0.0-cp36-cp36m-manylinux1_i686.whl": [
-          "bb3b0180bd028f5053a0e9a83369a1c3b7ee04d722dbd3bd2aa896df3862a8a2",
-          "cp36"
-        ],
-        "wasabi_geom-2.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "117d1b1de9b02ee3b4ed0a3c3afc64de1be10f09c7c4a05d12b64695619e7ad5",
-          "cp36"
-        ],
-        "wasabi_geom-2.0.0-cp36-cp36m-win32.whl": [
-          "c1805bb9fb3d6f8428f8188da722708ff5171fb1a2f9e55744906f88f97967e4",
-          "cp36"
-        ],
-        "wasabi_geom-2.0.0-cp36-cp36m-win_amd64.whl": [
-          "f4583e678b80be67d87524e778991bc8da990131e66da35c6beddb1ece8775d2",
-          "cp36"
-        ],
-        "wasabi_geom-2.0.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "6d95146e085b4492969e28c229878c054086a27b1938be28cd3db836ea1edab3",
-          "cp37"
-        ],
-        "wasabi_geom-2.0.0-cp37-cp37m-manylinux1_i686.whl": [
-          "4b64553a45d8d3588d511ee1ddce65968cb35f61687d29bc7edd7e9cf37cdb39",
-          "cp37"
-        ],
-        "wasabi_geom-2.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "7bde8999fc9f9bf8127654453f69837552b786cd33f0a9184f0c2aa24771b50a",
-          "cp37"
-        ],
-        "wasabi_geom-2.0.0-cp37-cp37m-win32.whl": [
-          "a5375c94c7b68252f08c8735c612bba9ff3546c651ad3e03cef961d5827ac7d1",
-          "cp37"
-        ],
-        "wasabi_geom-2.0.0-cp37-cp37m-win_amd64.whl": [
-          "e073345e3005e3f30f09c91042e0c279b664deb0e6364c816c03ea4ce5a9ec26",
-          "cp37"
-        ],
-        "wasabi_geom-2.0.0-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "04fe270728cd1ef63eb5785e0f1ae6a1de92dfca13ce115079783e998658c417",
-          "cp38"
-        ],
-        "wasabi_geom-2.0.0-cp38-cp38-manylinux1_i686.whl": [
-          "20b8802ac60047fbd88b25e80a464fb2397bec28a1fd2226b520cc02240465ca",
-          "cp38"
-        ],
-        "wasabi_geom-2.0.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "1511b8971241f76cab3fcb471ee772558f388c61a8713ecd72c623ac5585d949",
-          "cp38"
-        ],
-        "wasabi_geom-2.0.0-cp38-cp38-win32.whl": [
-          "10bf2ae2753f06c76bb8c913239c391e1eae882a427bd59dac4a896329ad8286",
-          "cp38"
-        ],
-        "wasabi_geom-2.0.0-cp38-cp38-win_amd64.whl": [
-          "f5f641274662dee425ee6cc1441ed7273419c958fe1c5dc19e7a570e2bf3ebe3",
-          "cp38"
-        ]
-      }
     }
   },
   "wasim-pro": {
