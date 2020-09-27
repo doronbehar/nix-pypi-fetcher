@@ -35375,6 +35375,24 @@
       }
     }
   },
+  "kubepi": {
+    "1.0.0": {
+      "wheels": {
+        "kubepi-1.0.0-py2.py3-none-any.whl": [
+          "bf10cf2160aaf162dca596055f5d4bc7953500a046d4a8365ba030cdba11f907",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "kubepi-1.0.1-py2.py3-none-any.whl": [
+          "2ed6294e90f39a7349d0a7bbf2aaf9d69ef9599855eac05e859a61527f160416",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "kubernetes-explorer": {
     "1.0.1": {
       "sdist": [
@@ -41529,104 +41547,6 @@
         "3f4a34fad67d0afe53bc2312d924feadc715991e07b7bb6577ccc65c48484d4a",
         "nbgrader-0.6.1.tar.gz"
       ]
-    }
-  },
-  "ncm": {
-    "0.0.11": {
-      "sdist": [
-        "f2148e7f436c5652aab6c24df981549badf9bc611354bc3498d06f9f9c9c1eb1",
-        "ncm-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.11-py3-none-any.whl": [
-          "9e77cc2847f20fa4a1ee8c2fdbbfdb1c243f04118a6ed1611c705caf9659b340",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "1524ac371d89f33163f562dc997875afb6b4cb34b0103c047265a12516976a3d",
-        "ncm-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.12-py3-none-any.whl": [
-          "11718da14fd8250b6f2912482170c05a059724ea015822f1595dd132b2fcdbbc",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "6b8d46ba883db2497f0ae23362afddd6cb4df92e54f5e52a7462e05488b0aab2",
-        "ncm-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.13-py3-none-any.whl": [
-          "ca902e16a9508dd4c03fc93692c931cf3f367dcb6f53e621a3c66c41258335a4",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "3ab9923dc53468c1e08c0c8e59a02f2aa0ec4bf317b7a6a4b539685294658720",
-        "ncm-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.14-py3-none-any.whl": [
-          "8a828cb1f45ce4d47d022e68e936f7efdc685331a92a07a7fe5bdce4678b184d",
-          "py3"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "f27f7fa762bcde6657ca18b26bb24323c0f8a661be0397edfa77f0275f54a760",
-        "ncm-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.15-py3-none-any.whl": [
-          "a9d8b1c12cefb5e93739852cee3cb5c1330b5efcdce726e8b0b7024825aabfce",
-          "py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "1584e90f1494893ae76c42b12bd10b3e86800633cdc727a6c7e1aaa1fe2ab747",
-        "ncm-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.16-py3-none-any.whl": [
-          "6ca2a6be47afa28235e93c7c0f0135fa8b9a1f7fbc12ae2a0fb70268e8ab0f25",
-          "py3"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "6cf9ed408dd573ac07edaaa95b9e8070d948586d5b2372baf380624b79fc69f3",
-        "ncm-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.17-py3-none-any.whl": [
-          "cf7b86c6be10d52b8935e2dea7d56b094622555d5cbecf0cf3ec8de7a298f670",
-          "py3"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "2a9e3babe42721a3fa6312b3a0aa15f64df07afda2a9ba99a6e16f80765be0ca",
-        "ncm-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "ncm-0.0.18-py3-none-any.whl": [
-          "dd82b9b634f04f665cfd22f4028812a514438ca6cc67e32230e4b582ea362cca",
-          "py3"
-        ]
-      }
     }
   },
   "nester-hyman": {
@@ -60108,6 +60028,18 @@
         ],
         "rh_doozer-1.2.22-py3-none-any.whl": [
           "6ffddb7d06ff02b4b74866d73514cdb513192e5bfd3944e28dd835177253374c",
+          "py3"
+        ]
+      }
+    },
+    "1.2.23": {
+      "sdist": [
+        "aedaaa4b2536ca46b89465c47670e929af4e41267a775006bfd6f327ccf08f6a",
+        "rh-doozer-1.2.23.tar.gz"
+      ],
+      "wheels": {
+        "rh_doozer-1.2.23-py3-none-any.whl": [
+          "ea4adaac30510785b2b3bafde7d1a33ffb670cda6a74fa2385b02549107b6ef2",
           "py3"
         ]
       }
