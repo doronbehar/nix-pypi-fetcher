@@ -15697,6 +15697,14 @@
       }
     }
   },
+  "dt-daffy-authentication": {
+    "0.1.4": {
+      "sdist": [
+        "2fb9e999e6cfe448fe28bb4f0d32ff980ce6364e50fc6702ce8fc625c4089ce8",
+        "dt-daffy-authentication-0.1.4.tar.gz"
+      ]
+    }
+  },
   "duckietown-world-daffy": {
     "5.0.10": {
       "sdist": [
@@ -40265,6 +40273,18 @@
           "py3"
         ]
       }
+    },
+    "7.0.0": {
+      "sdist": [
+        "f8de79355f4134086e97ffce88e3fdcbc513fa5d4beff15011d480908294e881",
+        "onapsdk-7.0.0.tar.gz"
+      ],
+      "wheels": {
+        "onapsdk-7.0.0-py3-none-any.whl": [
+          "03d21b2e2a8c5f4daa75dbd0b3d999da37953cf8b80b0be23a0a74e9cb8b5d45",
+          "py3"
+        ]
+      }
     }
   },
   "online-judge-verify-helper": {
@@ -42044,6 +42064,18 @@
       "wheels": {
         "picovoice-0.7.0-py3-none-any.whl": [
           "a7f16f79acd291a9b862d7cc164fa16691142e77eedea489e1093e22f1f248f3",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "59f93cd8859137a08037c0bc93d5286e52885035e31876a1c4e1622b93b4fbbc",
+        "picovoice-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "picovoice-0.8.0-py3-none-any.whl": [
+          "fc8ed8096fb4ff83de08712085d5c7aa58c0a6a3c4c51b6f6540aa7886abc544",
           "py3"
         ]
       }
@@ -81992,6 +82024,110 @@
         ],
         "tfa_nightly-0.12.0.dev20200927184204-cp38-cp38-win_amd64.whl": [
           "07c9bf820ec2725deba206fced146de63930084824cbf175eb14f826e4227860",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.0.dev20200929014549": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200929014549-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "0e175fb418d7fde418b7d7f611452fca23f8f9b2cfbed885a88e721c094b07a5",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "edeaaab22d16536fe9bdf0c7cb75a91be457cd3a339154f029e6fbe46ecf3bb8",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp35-cp35m-win_amd64.whl": [
+          "5f04e3b183b08efa32641f4bfafad19bd78a637ec06ed4927a104a93fbe040a6",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "f51911aff888358f55f73630394b44b8d3bbd3271a559ec38ad519db14594a08",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "019fdfbdd0fa8f4c8f6a97d5a8a2b3ed598ca3df0911cde8200063022555dc68",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp36-cp36m-win_amd64.whl": [
+          "bef46dac2fd954b9c37beb06e2ac7acee39df30989c15cf1bf1bdd3c391233f0",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "ce6ca6b411ea4b534b95e64666b7fb9ccc15ff2395f41f0cc4f6fe462e34e303",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d62acd387c7ce56d93eae8b53b90563dad9de53f8473cc5199ac123f6194a24a",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp37-cp37m-win_amd64.whl": [
+          "fd1c6dfaba49e84d22d8aa5e19faa6fd218656c2634b6441986959e5abb37bf2",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "9f3f57f19f8ba1444000ae9e47aa622da9d12713c6a5a7aea4af61b1eefa81ff",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e87b45fb48dfc821a3260a46d11114c9175d93443867ff15b0023da28871048b",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200929014549-cp38-cp38-win_amd64.whl": [
+          "7edae2e948bb659aa5f4d937f0928dfff1e0a3df9c7945f44a8da4a27022afec",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.0.dev20200929072348": {
+      "wheels": {
+        "tfa_nightly-0.12.0.dev20200929072348-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "5ed3652046552a1664230895ce5594e90e8452a6d18768bfdd2a43228f7624b6",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d8e2833673bd72915dd06858097c8e2ee9b789bcd27f54af6fa988286f061cbe",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp35-cp35m-win_amd64.whl": [
+          "840b03d1da9ef492ecff60eac57b191a04227a54f4d7146615ed81bfef6eff62",
+          "cp35"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "f40d01bc58b1845104b52b40fd940abf7ec9216086c1f169502e9485b1fefbb2",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c3461c70321074d017bfd84893e1454ea2808e679a37f665f40381a3b43b118a",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp36-cp36m-win_amd64.whl": [
+          "f68d61f6b479980cf0f9b8d3ea459caad54b5aa7ce2763d3e2f6352db350ba20",
+          "cp36"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "f10020685df736b20f7684e267a3b52c3ef079c9bceb098a85d19ed1c3b7a748",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0df25ba03b94fa882e7313722c01d94f6f737bdd40a40fb918cc42b852d3d55b",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp37-cp37m-win_amd64.whl": [
+          "de53bb9d735d4feb62c6cb180f40e547748f7ea339e80a478581e52ecdde1e9c",
+          "cp37"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "e1db5f800ea564fcb0a1a9b2bb3914e4567fe3952f5e5cdfc00eebc3ec9402ff",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp38-cp38-manylinux2010_x86_64.whl": [
+          "092b42e3c988149fb03d9914d89a2a502505a7d091130946bd706842fd614ea0",
+          "cp38"
+        ],
+        "tfa_nightly-0.12.0.dev20200929072348-cp38-cp38-win_amd64.whl": [
+          "bb6fc04365a93d01641578362311b6463432f45f1169806cd7f6596d58c20369",
           "cp38"
         ]
       }
