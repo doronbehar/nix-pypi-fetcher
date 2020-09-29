@@ -16672,6 +16672,12 @@
         "docassemble-1.1.78.tar.gz"
       ]
     },
+    "1.1.79": {
+      "sdist": [
+        "1081818800a6e50aaed7763a5d8c1e7933071cc807bfa282b0d6ee0689586a8a",
+        "docassemble-1.1.79.tar.gz"
+      ]
+    },
     "1.1.8": {
       "sdist": [
         "93c04ca3e043ae8520112a5763e59ecbb7efe5cc39cde54bd6fe380c0ed9998c",
@@ -23611,6 +23617,18 @@
         "e49f271a6440f50ab56a8088f2d5a466a388d401b0007c3a73cbaa07ec7453ab",
         "girder-worker-0.7.5.dev2.tar.gz"
       ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "23b0630cd2ed4843641d5112da5d16c04a70fe821b60069aa328f6aa800aea48",
+        "girder-worker-0.8.0.tar.gz"
+      ]
+    },
+    "0.8.1.dev2": {
+      "sdist": [
+        "dbad56a2f7fd30dadbd8e219b64812f4596c2e1b5928abda2779a1eb97cc956e",
+        "girder-worker-0.8.1.dev2.tar.gz"
+      ]
     }
   },
   "git-adapter": {
@@ -23634,6 +23652,18 @@
       "wheels": {
         "git_adapter-0.2.4-py3-none-any.whl": [
           "3dea6647c797777e097385b5817cf36e0897f4191e35e4afb6a24cf12cf2a28c",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "8d72ea8dc461139ba8e51612cb3a1386ee62d0e7ed875dbf4a064328268b24cc",
+        "git-adapter-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "git_adapter-0.2.5-py3-none-any.whl": [
+          "e68772fa795d872e122a6bceb1a61255a13ed3031360c63222d3e1a598a32946",
           "py3"
         ]
       }
@@ -59338,6 +59368,18 @@
         ]
       }
     },
+    "0.10.15": {
+      "sdist": [
+        "87e1baf6be62599bb9e2e34d66e97ebb76f24ba96856c10ab5fa2ee8ea88a9d6",
+        "sherlockpipe-0.10.15.tar.gz"
+      ],
+      "wheels": {
+        "sherlockpipe-0.10.15-py3-none-any.whl": [
+          "0b82ecc094268ce9cbfc447175a7a13a23ad1d18e049d0430814ab5612068f35",
+          "py3"
+        ]
+      }
+    },
     "0.10.2": {
       "sdist": [
         "eb02b244b2e78467e6b913603a4200a96ed2e2b99af70cfef75bcc246adab305",
@@ -62785,6 +62827,18 @@
           "3.6"
         ]
       }
+    },
+    "1.4.5": {
+      "sdist": [
+        "0ac9adc5c2ff89a06597793f04134fec2539f3fb8f38c00330319a730df0b31b",
+        "streamsx.inet-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "streamsx.inet-1.4.5-py2.py3-none-any.whl": [
+          "ec3ac83d6012699e2b40258980f8b194251a01e76f5116abcea42640aecb4d57",
+          "3.6"
+        ]
+      }
     }
   },
   "strtest": {
@@ -66158,6 +66212,54 @@
       "wheels": {
         "ts_idl-0.1.dev109060100050000570-py3-none-any.whl": [
           "d75a0eecad4e24eb5ba5b3650f1c3743a860e59b6e601876da4d41c055726a30",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev110060100050000570": {
+      "sdist": [
+        "11f48c945ea4d199fbbcd94c5d66809f79438d4944020482bd1cdcc0ccf9494a",
+        "ts_idl-0.1.dev110060100050000570.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev110060100050000570-py3-none-any.whl": [
+          "f856b2ea77dc47ca44c8dceae3aa31f7459deabc7ce056dd1ba4d166ad737351",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev111060100050000570": {
+      "sdist": [
+        "af99065a485b024d76a8155a3c1efec41766325cb14c5e04b2d09bd3ead65f7b",
+        "ts_idl-0.1.dev111060100050000570.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev111060100050000570-py3-none-any.whl": [
+          "63f50c6e8f942bf28fe15875e456a7182221e76bf61a5d32324ed82e499c0a51",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev112060100050000570": {
+      "sdist": [
+        "d9e5bb7eb7160df879dd23823aaef3c9474383d92a8c78964de6702b1b99d7ef",
+        "ts_idl-0.1.dev112060100050000570.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev112060100050000570-py3-none-any.whl": [
+          "f8c87ce3adf721a0a3d71170f837688455f41d20dbe3211403af3cef1d410a63",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev113060100050000570": {
+      "sdist": [
+        "8cadb28b86bd27d30624370fbd93fb00d566ea9f32c5c7b8b80caff9ab66181c",
+        "ts_idl-0.1.dev113060100050000570.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev113060100050000570-py3-none-any.whl": [
+          "03898324978ef335f842cd5e957d1e7b2a7f1af15d9e0de5c2e8a0a89de46e87",
           "py3"
         ]
       }
