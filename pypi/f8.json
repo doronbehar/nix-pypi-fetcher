@@ -8448,6 +8448,18 @@
         ]
       }
     },
+    "0.4.10": {
+      "sdist": [
+        "d1f0e53eb356f61baffca3697045043679eed3bf0cc02d1854e61428151fbf3c",
+        "bitcoin-utils-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "bitcoin_utils-0.4.10-py3-none-any.whl": [
+          "7aef0199290714ae6511841651736611a519f71ba9200893e3a0bf69b3da3e5c",
+          "py3"
+        ]
+      }
+    },
     "0.4.2": {
       "sdist": [
         "61e914e8fd04143de406ff69d232e08605ebe890d23f05d780baba43813a7cd2",
@@ -17484,6 +17496,18 @@
       "wheels": {
         "easywall-0.2.4-py3-none-any.whl": [
           "28c4f87c4a878da1dcd5267259fd559d1b35eeaecc84388e836e327780a0d7d2",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "0b56b96a000cc8542181e3967dc85c6afdf437d3d12fc990a413b910e0d552de",
+        "easywall-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "easywall-0.3.0-py3-none-any.whl": [
+          "e78627c731faec88d58162c9de1f14aaf13659a2ab9b7bea1c458a4979c40229",
           "py3"
         ]
       }
@@ -27778,6 +27802,14 @@
       "wheels": {
         "IBATS_Common-0.19.7-py3-none-any.whl": [
           "3e667856d65f8960ba0dd4103bf78222b42ffe17f1f2d491ddc221c9f6afa2c5",
+          "py3"
+        ]
+      }
+    },
+    "0.19.8": {
+      "wheels": {
+        "IBATS_Common-0.19.8-py3-none-any.whl": [
+          "a1de1509db4606e93ae535796d96d042d283cca34560d5512a2daad13ae5ac2c",
           "py3"
         ]
       }
@@ -44087,6 +44119,12 @@
         "492ee5a644e69622a613ece2ca724cb036a43651519cdc32fd908ed541385161",
         "nextoff-0.1.1.2.tar.gz"
       ]
+    },
+    "0.1.1.3": {
+      "sdist": [
+        "6e8349d22c02cbf41509bfbe9a0967b07eb3eafee6c2ca13776ab903bdfc596f",
+        "nextoff-0.1.1.3.tar.gz"
+      ]
     }
   },
   "nlptoolkit-dictionary-cy": {
@@ -44106,6 +44144,12 @@
       "sdist": [
         "d9a68be16c6c62344a0ba104bf8868116c695190309de6e60a1e1ded95d3b393",
         "NlpToolkit-Dictionary-Cy-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "531e9c1966f329d9b03f7b1409e83e33e003b5b75f95229432d05523836459b1",
+        "NlpToolkit-Dictionary-Cy-1.0.3.tar.gz"
       ]
     }
   },
@@ -44730,6 +44774,34 @@
         ],
         "nnabla_ext_cuda100-1.11.0-cp38-cp38-manylinux1_x86_64.whl": [
           "7d80515f1921fd3110794b116871ea9e6f16b69a06ace62fb055110513405b09",
+          "cp38"
+        ]
+      }
+    },
+    "1.12.0": {
+      "wheels": {
+        "nnabla_ext_cuda100-1.12.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "a5b4c28d6a7a8bba9e9d8d668b711301a271f63a9bfac8f30eb4ff47c78674e3",
+          "cp35"
+        ],
+        "nnabla_ext_cuda100-1.12.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "6c069f63d7077f4be86010cfc944aca7a4c0faf19ffec57555390b8480300ecd",
+          "cp36"
+        ],
+        "nnabla_ext_cuda100-1.12.0-cp36-cp36m-win_amd64.whl": [
+          "5a323bc5c9babc2db908de1ab812ce1eafd8cc888e2756c80baf8a717f6509b6",
+          "cp36"
+        ],
+        "nnabla_ext_cuda100-1.12.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "80075745e27766f1941abdf690f5c2a29632173bff5c9d79008b09406d08ae09",
+          "cp37"
+        ],
+        "nnabla_ext_cuda100-1.12.0-cp37-cp37m-win_amd64.whl": [
+          "b52ce9775f04c9d9dbb7db84ccfb1a2ee466a1ed4fa4cb89ec320b4c0ed66cb9",
+          "cp37"
+        ],
+        "nnabla_ext_cuda100-1.12.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "ee3a2a238e94eb3ece6732eaa44257d8f79c73b9c94c345de43deeaf5599e540",
           "cp38"
         ]
       }
@@ -46100,6 +46172,16 @@
       "wheels": {
         "odoo12_addon_payment_redsys-12.0.1.1.0.99.dev1-py3-none-any.whl": [
           "f5c4b2efb1d56a74ce809125c993f4038a1bdfd39bb632f1e764277a66cbed0d",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-sale-timesheet-purchase": {
+    "12.0.1.0.0.99.dev3": {
+      "wheels": {
+        "odoo12_addon_sale_timesheet_purchase-12.0.1.0.0.99.dev3-py3-none-any.whl": [
+          "1cdb52caf7c210a2efee8d9911c537d4b7ef017bcb63d4c5f3cc5bab50a2d7ac",
           "py3"
         ]
       }
@@ -64829,6 +64911,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.6b0": {
+      "wheels": {
+        "stopover-0.0.6b0-py3-none-any.whl": [
+          "fa88f02d064560dd9da04cd4782d6ecd6676f642794f97dafbcf8c76aa3f3950",
+          "py3"
+        ]
+      }
     }
   },
   "student-portal-crawler": {
@@ -66186,6 +66276,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tci-3.0.266-py2.py3-none-any.whl": [
           "222486cc8f6b620860175a2ba120a10df5fd17b7b5730fcc1429b223194a60da",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.267": {
+      "sdist": [
+        "7d542188780fe66de2a090806bcc1350b7823addfc835d2756529657ad9681ba",
+        "tencentcloud-sdk-python-tci-3.0.267.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.267-py2.py3-none-any.whl": [
+          "a9ce6a5deb6f08b8e35c11b30dae6b05fcb50b7d17ee3b77e3aabb5dbe2411ac",
           "py2.py3"
         ]
       }
@@ -75416,6 +75518,34 @@
         ],
         "tfq_nightly-0.4.0.dev20200929-cp38-cp38-manylinux2010_x86_64.whl": [
           "5d66eb9c5d8a942a25a742246cd6cf34a623871d9d24b2fc30d24dc0c4ddd6b5",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.0.dev20200930": {
+      "wheels": {
+        "tfq_nightly-0.4.0.dev20200930-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "c657c0dbb864511a8f2439d87ec5b5c143c69bad80786a2b452a8f879a1d034b",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200930-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "e6514b987444a604ee71efa9ba575d65c52cd5e7cfb3572f1f71bc7e8a482fb6",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20200930-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "753062946e09ac1a85e3e8cff54fd896717a0a52cd2b7cfd5c98147daca60d48",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200930-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "dbe99e4e4dc36150c55ed49ff6ca8777f8c4423635156fdcd3e98b28a7f3d1ac",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20200930-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "e3e93731eb0e898c319db2e7a3218b914e165aaeec552337eb7b2120e425b350",
+          "cp38"
+        ],
+        "tfq_nightly-0.4.0.dev20200930-cp38-cp38-manylinux2010_x86_64.whl": [
+          "e422cb73e6cc8621792624877ec8b59f95b37fc2629b1e5c22c0a421aec66aa5",
           "cp38"
         ]
       }

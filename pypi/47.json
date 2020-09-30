@@ -16153,6 +16153,20 @@
       }
     }
   },
+  "dutil": {
+    "0.1.0": {
+      "sdist": [
+        "e08288f71e98c230e2eb574f35ef56e71c7da11840a1cdc485c1ff5d2fc4d9f2",
+        "dutil-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dutil-0.1.0-py3-none-any.whl": [
+          "0866f386fc0dca3b821da6bf5f8ce01f97b2ae01042de728f37bac2bd089a086",
+          "py3"
+        ]
+      }
+    }
+  },
   "dycco": {
     "1.0.0": {
       "sdist": [
@@ -23900,6 +23914,12 @@
         "hifipower-0.2b10.tar.gz"
       ]
     },
+    "0.2b11": {
+      "sdist": [
+        "eb18bd00b0dbbcd81d24e32894e8c6c5c3878d2836af71c9df6d637cb5ef4708",
+        "hifipower-0.2b11.tar.gz"
+      ]
+    },
     "0.2b2": {
       "sdist": [
         "9a41b90478d81e199b8d3d99dc36ad417a7aba04ba010a5323db2353922900ee",
@@ -27738,6 +27758,18 @@
       "wheels": {
         "isc_py_common-0.0.238-py3-none-any.whl": [
           "08cdcb9fab3cba5b808cd8e28187bc056278a0e1e1c701d56b06d5c062fcb130",
+          "py3"
+        ]
+      }
+    },
+    "0.0.239": {
+      "sdist": [
+        "ab14a65107da31f2d1f46174e8463c781ce33fb80ebaef9b86db4347811e7993",
+        "isc-py-common-0.0.239.tar.gz"
+      ],
+      "wheels": {
+        "isc_py_common-0.0.239-py3-none-any.whl": [
+          "97cacb6361cb32acd702828d270999bde1cff4734f9ee297dbcefee11575d083",
           "py3"
         ]
       }
@@ -40618,6 +40650,30 @@
       "wheels": {
         "lusid_sdk-0.11.2059-py3-none-any.whl": [
           "67b324e59df45f9eec59ec20b7ce55d0161594bbf1319669f73a640e24cf6217",
+          "py3"
+        ]
+      }
+    },
+    "0.11.2064": {
+      "sdist": [
+        "cd193966b5c0b2e18cae388e23a8c20f9c0eea84c400ae34cb179f9954d9a896",
+        "lusid-sdk-0.11.2064.tar.gz"
+      ],
+      "wheels": {
+        "lusid_sdk-0.11.2064-py3-none-any.whl": [
+          "93754975cdab8205c5bc3817498d19b9950e4e015e86c8bd9cd7aaecfd9142dd",
+          "py3"
+        ]
+      }
+    },
+    "0.11.2065": {
+      "sdist": [
+        "b201d9ddb2325854f798d0687afca8970e3f7405248df193534cc2763f7dd6d3",
+        "lusid-sdk-0.11.2065.tar.gz"
+      ],
+      "wheels": {
+        "lusid_sdk-0.11.2065-py3-none-any.whl": [
+          "d0ade5e6848eed4db81103d92b6557cd2b79a7d7e7e75859a59eeea2bef5cfdd",
           "py3"
         ]
       }
@@ -84021,6 +84077,310 @@
         "warpctc_pytorch-0.1.3+torch13.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
           "f64dd1831e27b496dea4db43bcdfaf1255b754dbec265b8ba3615729b58cc205",
           "cp37"
+        ]
+      }
+    },
+    "0.2.0": {
+      "wheels": {
+        "warpctc_pytorch-0.2.0+torch11.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "d83ca5623a1bf5ec80fb275b99908c384d73a962cc63995c5a90f35beb01d4fe",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "00d11ec32c1fef9a83bcb3dfcb5b3060d4a37b071bea1046fbfec1c85dfa70fa",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1412b5d106fa16862f2eb589aa107594e5850533d9f05e88076a3f274619fe95",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9a5d743f5b479b43497a2a805ad103d34e160e10889c5b295cc7cdf89d1f6a31",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fd2d3e56ab4d408618b564654f39c733c2adfbaafa9d0b1d013609c97198b96f",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d8aafd34c0b5b0279a9ed4dfef35f37bdbe841a6ca9a76002b592402ec894ff9",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3a2e6164875b0d071e150841b2a6fe6b5ce4b5ec5fa2f20e2202d6702426fa30",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "78220a6ce92b3f28799d74a04941e07e444fbfa49ed148d87af48a8825a3429d",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1d6043df3cefcc1afbbe3eedcb9656ed7fa8eb362cc85d887bfbee7a94f53f86",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch11.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9cd34ba998564b0dc9a352ac35f6b31899b3767633e3baafd8386a9f92f804d4",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fd4cda690b111272082b8c6dff6e06ee8abd0e6c33912d827c907d89fbab3d5a",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a73551a7f39c47921cd509577b6a4bb9a624c8c1ab0c1cff3cf963eacbbfce16",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "faa0eb7e682d4c228019107a2e92437fb166c8ba7dcea8eea2ad6b70bdb3ec69",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7292b22c14b46c89c93dd4660655f650b9e19704379ebf0e56a15015c4b024dc",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a3e9990d71e8cc5faa7a245d6d76d4da1375214574d213c036125be4bca7646f",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "2be613f227e5a7a8fc214a72838c30352dfa105be63c0b4baeff59ffac567bc2",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "19c2c9eb254c25c70ee05a01a4d0afb420dbd1defdba2f6e8cb10e203859807c",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "619267169c27dbcd43210ec30d481ea71982b9c598f6ba77505adeceebffdf69",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "686375522d82b5f410f00fc3af7391e533c3fcc5647fc4088ef90183a8ca0a57",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch12.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b8b246e17d58b123f6e310df65e61c4f5f3084d3bb95b2733795bcf69995246e",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "eddc653e22e9d2a0c862a85c6b7cafd44d2d8774cea2c5da3e83f2e71d6e3d7c",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4f5b388034b39c42b6ae23d1249572e6f24220313a52e2b21e10b7deed89863c",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ed548c32c7594d2c3f9a11d9734184075eff8615bf3cbfe3e95f4969e9d68ccd",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "817d6497f4434bf6505e7d44a17df148ad3bf0d7d4f3299b2687b515093cca71",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3d393b298d4ad47df6be77a73e0c8a9fde8511230c82be7e2f6b68097c46e884",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "087bc88627acf4602f1c639d21db2c76deac637340a64e6e427d8748636be21d",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "e102977760423689c5c6a9012954beaecf8ebcc162555f9539554a10a8ed0b8a",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4c88c5b1b2c71ac0fa4fbb760a8768b6e50eacda149532b1525cd8c74703151d",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5d70b38139f28b671075903f76ca0b60d4c57e507d34d98da068030ebabb4b9e",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch13.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "42bc00f66c7c0becd458e26e97b67b8792830ee3bc05b686b02f86cd7db3412e",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ddb5288c62f441d6440a24ae24585e82c2f3f5256932a7995906c68dbc454b32",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "6f9427e16789fe35ab3b654204ff94b00d1cf2fc0b2ae28c5afe2d169745164a",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cpu-cp38-cp38-manylinux1_x86_64.whl": [
+          "4d572a3551459a8a9471887c61826bf75b1b16f16ea5b6e5bea3cac7a3c65a50",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fc78dd3a0eb1d755053c6d8634a74bb2f4b5b9462bb6cfaafa1e970834d029eb",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5047e32715c90a47d5a74bacd844a4d01e7e151d51f8680cdf7da06441f172b7",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda100-cp38-cp38-manylinux1_x86_64.whl": [
+          "1dffdf9a5b6b97a3a7fa22d11bca941573fba2a8e5c853db074b2bec0c9d9f94",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "82858266a57387d22391522fc6b450f5fdbd771312ab154265889077f20e237e",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "55707af40c8c0d4888f5eac20364ebc618a008ae56dbc44132865903c157db56",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda101-cp38-cp38-manylinux1_x86_64.whl": [
+          "ea94f117dd334bcb8eac18b6f7ce2d57c83ed0c43a47eb23eb35e02be5eb6337",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "db2eb04d09fb67d0ea1c73cd617d67996800ee0107da4b2294f30eee7f456adb",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5873a59d5576baec513f9ded1c8c583660be4b611c1a67364947d797ecc80352",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda102-cp38-cp38-manylinux1_x86_64.whl": [
+          "107d0ffe9e93a0d517faccb0b2e6f2fc9822ce12b96990ec295731eac77a8a20",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2bd5479f3240ce1553790f5a7c2f82d4906aa31b9d25192453c8a2a306e79d33",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "964da47f5fb56ec6ef69a9cfa05fc25dd219811a23150cfaf0531ecc0af35e9b",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch14.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "cb179a76bf4523f937cff298268f03a11d91a8fa4dec4c59996ac4550d6aaed4",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "51e4368077f6a166ee2b4b53c829e9a2b1897fd241137f064cebd282fbaa4982",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "fb3807db51a048e05b628defdcc282e6b9c9b841994e7a6f0502eafd768ac903",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cpu-cp38-cp38-manylinux1_x86_64.whl": [
+          "80c0e299be3c071e8ceae3a36fdb0508984bcb081b5fb33124688e8622a14bd0",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "43b8656fca85895e53668e8602ec807cc96dcf71cfd5ece1d5919d8c6a0fdbed",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "f452b6af8fe9ff3751eaf81e36c41e8898e17352b24ee1ec287727475632328e",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda100-cp38-cp38-manylinux1_x86_64.whl": [
+          "11a58c92e107b5ff58d2ebb6de5e4d5e9054bff2601f1b946abd1ae1052ee3f1",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1ff0d5d966d0e773ace521556a80036edba601cdf4ad305f082236e4eeec1b2a",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "13db6567e17e3bec5bca31b6cd282d1e1604210d921316e9ff77b0566590c326",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda101-cp38-cp38-manylinux1_x86_64.whl": [
+          "864c6af2fb8758edba146f7d8bcf0ae3525114389b8aca667accebfd47af19fc",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "75c5ee93399edfb2a10e8da54adbb6c5b2bd9a2a2995c579f1fbab026bbc08c9",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4ed2d1977eeb25aa60c5bf349720784402f31f998c91864f10a20ec41128aafa",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda102-cp38-cp38-manylinux1_x86_64.whl": [
+          "c3bdce590f02d74468c3f6675e62fc37e2d710737a450db23cdd8ab556a3f857",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a9549824be98a2571af7851e6fb57fd8df2243cc6fbd5c23494ea726afe02379",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "974622b6490fb9c9ded2069f987e3a54ecb6e44f3ec47eca9304b55e47a2a480",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch15.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "b0f63601a914b8e56feb163f8a1bce81f577a6ac50644e67dc407a7d95548f67",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cpu-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7ce9f66d014db11ae45c4d71ede811f1d895ba224c81eff0af75b0c40446d834",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cpu-cp37-cp37m-manylinux1_x86_64.whl": [
+          "569397d73e86c49db702ea8e7fb1eaabc081796092bfd8f15875ca9bc83f6254",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cpu-cp38-cp38-manylinux1_x86_64.whl": [
+          "e0897dbdbb4e5e379b969cdc1393e82f8ba5d97b68bd6351ab88ab8eb20769e9",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f10fdd60fcedca67b84bac6607d992cf8133711d35484525d00017812ce05891",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda100-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c46e3a151828715d23d00dd13ae6c9f0b1c7ec6c34e7d4a73e9a87ccaa76c10d",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda100-cp38-cp38-manylinux1_x86_64.whl": [
+          "e86fa3c82370fe6151ca8acc525301df6f0fa5de84a3bb75e5522f99cc0793d6",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda101-cp36-cp36m-manylinux1_x86_64.whl": [
+          "266b360a5c5373932270f3980263c67333e557de39b2f3311ef0512680d44b4e",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda101-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d9bc2a602d29c1b506d9107ed33590c4e7a63b6421bc0beef9003b2b66253d9e",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda101-cp38-cp38-manylinux1_x86_64.whl": [
+          "d02ec00d39d650efb58f3823db8dfc25692d60ef58ff22b1b747f7c519bedb64",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda102-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f39f430ac3e730fef1338eba10d3c7e312698ef378ead34c05537f84d6a29d38",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda102-cp37-cp37m-manylinux1_x86_64.whl": [
+          "bfd02c5860b7cc670ab90f8f01c9248c6fa0a2222bfb2409145abf14a03b9abf",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda102-cp38-cp38-manylinux1_x86_64.whl": [
+          "24ffbdb855ff3563e4b27de462113b89bee0b5a9eac3ffda8adc8617518fc1a3",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "d7531749afa09c8bda804509d6929aa19560079bfd103ce1a8956dd5374d2b95",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7c02154b99fee2918c9baedb66ef4b67e4cd082ba34ee6f4b0c8e1c6ec30aa78",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.0+torch16.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "1b64dc9fcca7ba96524142fdab20f39454c7b0159fb8029a777f39260b171965",
+          "cp38"
         ]
       }
     }
