@@ -20937,6 +20937,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.4.2rc2": {
+      "sdist": [
+        "5ff97b2ba5446a62e4a4087493414107f984c6254198146d0ee7c2bca44ef406",
+        "google-cloud-core-1.4.2rc2.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_core-1.4.2rc2-py2.py3-none-any.whl": [
+          "b84ab20dc906032c2b1e82a37297b7bfa8e1437efd49e5a1badd9306413609f5",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-reauth": {
@@ -30763,6 +30775,14 @@
       }
     }
   },
+  "mara-markdown-docs": {
+    "0.9.0": {
+      "sdist": [
+        "b0bd6f2133a07fddfae618fe879388e08ad01e7a5bfbbe148b3664e0fa617413",
+        "mara-markdown-docs-0.9.0.tar.gz"
+      ]
+    }
+  },
   "markdgenerator": {
     "0.0.2": {
       "sdist": [
@@ -36090,6 +36110,18 @@
       "wheels": {
         "mypy_boto3_personalize_events-1.15.7.0-py3-none-any.whl": [
           "3d0632725b38d2d3620c620815e19ddcf2eaa6bc3732ebbb44b75799bb2ccf64",
+          "py3"
+        ]
+      }
+    },
+    "1.15.8.0": {
+      "sdist": [
+        "fb7f1a66111951f5b7be50c170ba4688cd14510ac68c6013999ca1a33d65bc80",
+        "mypy-boto3-personalize-events-1.15.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.15.8.0-py3-none-any.whl": [
+          "3301331c5c1514b0f89b92c91f7a5c17f0f5fbac6826b9da695edd2206ec263c",
           "py3"
         ]
       }
@@ -60122,6 +60154,74 @@
         ]
       }
     },
+    "1.9.2": {
+      "sdist": [
+        "d77cdfbe0d8514d41b32ff98926cebae7657aa53938423134661eb28c5114735",
+        "segyio-1.9.2.tar.gz"
+      ],
+      "wheels": {
+        "segyio-1.9.2-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "74f4a00e1b111f6b1996559344fce6988dfe5637872d4744330f142d6c4dc01c",
+          "cp27"
+        ],
+        "segyio-1.9.2-cp27-cp27m-win32.whl": [
+          "7ade6a796630ec56a36a08f3390e2c29dc0f8b1c4f50f855fe007b47d3f2e884",
+          "cp27"
+        ],
+        "segyio-1.9.2-cp27-cp27m-win_amd64.whl": [
+          "489a1fa75248528dd9b36111af03e4e2d376b258b3d6b21f6baa4c46054f15d4",
+          "cp27"
+        ],
+        "segyio-1.9.2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "f5cb8f9233d9a140abae998f15c6f076c9f6baf79cef97eb6013872645543c6c",
+          "cp35"
+        ],
+        "segyio-1.9.2-cp35-cp35m-win32.whl": [
+          "fd13c6f18e968fe8ad4e168e2e5b9764cf9511a182a41eb16da96ff517a670b8",
+          "cp35"
+        ],
+        "segyio-1.9.2-cp35-cp35m-win_amd64.whl": [
+          "2938b7d430bafc3e240d0d7e37f61dbad2443049c796cfc116ebb1fd1c07c38b",
+          "cp35"
+        ],
+        "segyio-1.9.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "54f99c1ca4be9aa0a16c1a73a1fc9c34debbcb352ff366048917e8a330fa1cca",
+          "cp36"
+        ],
+        "segyio-1.9.2-cp36-cp36m-win32.whl": [
+          "e4688f20978e4f5b5a33c38615a0bb4c12be59d937441374dfa565348da93bed",
+          "cp36"
+        ],
+        "segyio-1.9.2-cp36-cp36m-win_amd64.whl": [
+          "d82e37c496d593672f8955786c652e18c93ba8481f383d99cf3fb466a64a4853",
+          "cp36"
+        ],
+        "segyio-1.9.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7ed78d03692d9f8b6302ab49602a1ff83e8c6b566422eaf4ee60ac52fd591f64",
+          "cp37"
+        ],
+        "segyio-1.9.2-cp37-cp37m-win32.whl": [
+          "93dea58b8924f8f31e36b875e809195790ee8d4151c2174f190d760d94cf8fcb",
+          "cp37"
+        ],
+        "segyio-1.9.2-cp37-cp37m-win_amd64.whl": [
+          "755644ae21918539bd0ce895f3a6d10e826d6f64147a936e9ce51fa4ede63fd8",
+          "cp37"
+        ],
+        "segyio-1.9.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "9f1f05441677ca7580fff3db6937c006b0f397f7bbb3de5067fbdce9c74d44a3",
+          "cp38"
+        ],
+        "segyio-1.9.2-cp38-cp38-win32.whl": [
+          "708342f643f344965e94086aca3251ba6649bad31ebffb6c20290d0e5ddd5cd7",
+          "cp38"
+        ],
+        "segyio-1.9.2-cp38-cp38-win_amd64.whl": [
+          "2cc0969f008ac6393894ac2e3ff358d98a50e82b303b9c44495abc44f5ff4cb0",
+          "cp38"
+        ]
+      }
+    },
     "1.9.2b1": {
       "sdist": [
         "7099ebdce26660f86c88dde4a1f737c5d896a1bd2346a8e08f18a7cb0d740b10",
@@ -64934,6 +65034,42 @@
       "wheels": {
         "tikup-2020.7.19.2-py3-none-any.whl": [
           "de32be11b4626c3edb47d54753a2e951410050a0f61cb96d828aaea72945e8d7",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.29": {
+      "sdist": [
+        "01802b525044bb24de1dd47d7f55e5b1709637cd09fcdb9102f9558167ba2601",
+        "tikup-2020.9.29.tar.gz"
+      ],
+      "wheels": {
+        "tikup-2020.9.29-py3-none-any.whl": [
+          "45c2534f785b5cd0adc4aa12413b6ea926799f26d05b1c15dd8bd1c0030a0f2b",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.29.1": {
+      "sdist": [
+        "89c3703a604bca977b08ba35aacf84e4f76d8c9a1761d9df0b0eeeb49798bdc3",
+        "tikup-2020.9.29.1.tar.gz"
+      ],
+      "wheels": {
+        "tikup-2020.9.29.1-py3-none-any.whl": [
+          "ed42ebb7fb918505df71d877847d9c7f8906bebef299d7d15e3f115c37a0977f",
+          "py3"
+        ]
+      }
+    },
+    "2020.9.29.2": {
+      "sdist": [
+        "2b1edb2c0e8aa4b9a10a2f5f9fba1fa47c1b60242c50b1fa4c12c83b42e2892e",
+        "tikup-2020.9.29.2.tar.gz"
+      ],
+      "wheels": {
+        "tikup-2020.9.29.2-py3-none-any.whl": [
+          "8d14b306fed0af82151a37e5513f204bb1ea43fccad439c8eff6c9a902947d88",
           "py3"
         ]
       }

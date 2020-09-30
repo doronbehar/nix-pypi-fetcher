@@ -31498,6 +31498,12 @@
         "large-image-1.2.1.dev41.tar.gz"
       ]
     },
+    "1.2.1.dev45": {
+      "sdist": [
+        "71f693d6eab4e2b4aca18f3bc878e4fe98fd3996b9a9cf77387f00b7a8afeb97",
+        "large-image-1.2.1.dev45.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "b4c10135071a199a9746533232bba7a6bae755d181022ba879d4af6b46e02f3d",
@@ -39105,6 +39111,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.8.0": {
+      "sdist": [
+        "592bfdd50e1054ac1ba357cb17804d4ef5bc21b720d4d3e9bd180497d191c3b7",
+        "mypy-boto3-clouddirectory-1.15.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_clouddirectory-1.15.8.0-py3-none-any.whl": [
+          "45eee06b9f12fb3147b3cdb5cb6c14b8ba6cd128c3fc074771605f4138629f65",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-mgh": {
@@ -41243,6 +41261,18 @@
           "py3"
         ]
       }
+    },
+    "1.15.8.0": {
+      "sdist": [
+        "1b901c6f7015c94b8f92e17658be03d578aaed93d60058ec736507907f3c2dcc",
+        "mypy-boto3-mgh-1.15.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mgh-1.15.8.0-py3-none-any.whl": [
+          "3e6ae6f443b95eeebb86bd0098cda4f8d23111eb47aebdfcce35b808fb27be0a",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-mobile": {
@@ -43378,6 +43408,18 @@
       "wheels": {
         "mypy_boto3_mobile-1.15.7.0-py3-none-any.whl": [
           "005203787d9995bfcf68830276e1c4de1abacedcfd1f3b171d45485f2dffd699",
+          "py3"
+        ]
+      }
+    },
+    "1.15.8.0": {
+      "sdist": [
+        "8d048636cf0718c2a67be503aa84108e1f8a64ccbd25f06eb60dabcaf9a5b49b",
+        "mypy-boto3-mobile-1.15.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mobile-1.15.8.0-py3-none-any.whl": [
+          "bd402353c80abcc6ea1ab3aee687c2dd399a3692d8cb537ee7bcc7877ce95e77",
           "py3"
         ]
       }
@@ -52650,6 +52692,10 @@
           "a3b11497cc85e006df9f0b164627a3904622e0637d9f59af3196081ef2cfc9ff",
           "cp37"
         ],
+        "pyboy-1.2.1-cp37-cp37m-win32.whl": [
+          "8ae5eae6ef41d7e5f86bd24fae79d270252d915bb2f3e8292469151d214f4565",
+          "cp37"
+        ],
         "pyboy-1.2.1-cp37-cp37m-win_amd64.whl": [
           "e8fd453439f23deab0488cba5ba353a6f4660cf66a8fad7462c5630ac5cc59e3",
           "cp37"
@@ -56770,6 +56816,62 @@
         ],
         "pytorchltr-0.2.0-cp38-cp38-win_amd64.whl": [
           "56a52ad9bbd5b80eb85cf08768c25383eb72b4bcc305e4feff1a040d015ad298",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "58d60f1da45ab73d29f9594922b9ee601a7f65b42759585baba799f83b0fc945",
+        "pytorchltr-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pytorchltr-0.2.1-cp35-cp35m-macosx_10_15_x86_64.whl": [
+          "e52f173f35434ed442b6ba5134a13ce3ee1fa5ff2867175aae506f1fa37bf830",
+          "cp35"
+        ],
+        "pytorchltr-0.2.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "05dfce191056ed72b86198101d6b61b4f3af76485a49e13970696f139a8dc265",
+          "cp35"
+        ],
+        "pytorchltr-0.2.1-cp35-cp35m-win_amd64.whl": [
+          "17639b1632b7518f92e41a706b86590c8a3b8c29c88e7d559870b86748ac4923",
+          "cp35"
+        ],
+        "pytorchltr-0.2.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "88f87596308063e569313880598fb167a6cdf4b034dd6fd3a0b57fd397ce798a",
+          "cp36"
+        ],
+        "pytorchltr-0.2.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "afedbafdd216826037b35a7407c88634ea6f1d7dc57c3437d211d581ece4ae22",
+          "cp36"
+        ],
+        "pytorchltr-0.2.1-cp36-cp36m-win_amd64.whl": [
+          "a109becf65693ddc4694cd782e02fa637a37fe1fbeed09ff1a42e9ba130fa241",
+          "cp36"
+        ],
+        "pytorchltr-0.2.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "2feee5e649f0b8625e4f3239bf0447fcba2e874ed921c0db9b969931be1eb131",
+          "cp37"
+        ],
+        "pytorchltr-0.2.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "cdfc2730c018d5e8146d5ba07882de804d8a1ca186382aa845ef03ef3aff2f6c",
+          "cp37"
+        ],
+        "pytorchltr-0.2.1-cp37-cp37m-win_amd64.whl": [
+          "39e9c9dee4f70b41c7062d688e654670ca542906667e9a6a2071ced00751d1fc",
+          "cp37"
+        ],
+        "pytorchltr-0.2.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "f82dafe4661ec430f0a2b0b518a9de2ab66501248bdee5b544132798bdc249e4",
+          "cp38"
+        ],
+        "pytorchltr-0.2.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "eadf7ca46392870cdb21588adb65c7a7a62f7efb79fb88bab669694602365bac",
+          "cp38"
+        ],
+        "pytorchltr-0.2.1-cp38-cp38-win_amd64.whl": [
+          "f5e95b7476a1716e489dd8d1402722713dfb50bb6574dc4d66a737983577e55f",
           "cp38"
         ]
       }
@@ -62311,14 +62413,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "soup": {
-    "0.1.0": {
-      "sdist": [
-        "18f4bffb187acacb0160e01d213b1afdf69d37480e5eb019feeb7df007d47719",
-        "soup-0.1.0.tar.gz"
-      ]
     }
   },
   "source-query-proxy": {
