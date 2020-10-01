@@ -4136,6 +4136,18 @@
         ]
       }
     },
+    "1.65.0": {
+      "sdist": [
+        "df5358464a8b04318149df45ce0112f319fbcbf287fdcdf2d74ce92e0721e7cf",
+        "aws-cdk.aws-glue-1.65.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_glue-1.65.0-py3-none-any.whl": [
+          "cb2b4fe7e67ce48dbbf3a0b6bef5f00663787b77ec3c1301f0277dc48a8f4f90",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "281ff024357ea81105e2de64c6bb70bd957e758eaf976f214269737d897f83b9",
@@ -4568,26 +4580,14 @@
     }
   },
   "bbcnews": {
-    "0.1": {
+    "0.4": {
       "sdist": [
-        "c2937a86939fd8e4852042972acaf4e6a2221af9714135d5806c63c63a02b33f",
-        "BBCNews-0.1.tar.gz"
+        "4bf79679436cccc0f8cd4902dcf2c3175dd97d8ce31a19c59eb212c19563c620",
+        "BBCNews-0.4.tar.gz"
       ],
       "wheels": {
-        "BBCNews-0.1-py3-none-any.whl": [
-          "9380a01b6e600869370d4bf6e1d62a241d0f7e5cbbda900e4d781a0da9d8c5ad",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "c73ebb5db9090d8f87bd34d28f94de974871436fca33c1ba9bd5127b5600be87",
-        "BBCNews-0.2.tar.gz"
-      ],
-      "wheels": {
-        "BBCNews-0.2-py3-none-any.whl": [
-          "244f36177e81d7c1c9497c1bb5cbdd30ac9aac3ad8b916c30c2c9f538acd0845",
+        "BBCNews-0.4-py3-none-any.whl": [
+          "0c897b3f8d624ea6ef564e30e31b7b62839de781c580a8ccd3dc6014a98eb79c",
           "py3"
         ]
       }
@@ -15386,6 +15386,30 @@
       "wheels": {
         "django_action_framework-1.3.2-py3-none-any.whl": [
           "b8b5f9001addd0bc68898716dd1c8735464adebff3dbb8f74d93d0ea21d42a08",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "5ffdd32666641960aae4b5568ecccedcc84bc9cf8128d0c1ca384725b75af57d",
+        "django-action-framework-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "django_action_framework-1.3.3-py3-none-any.whl": [
+          "fe2dfa4c83b8cb38036a5da21e38ddcaf5581eafe5aaa0c141f0e2075653aa6b",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "01aff092c4f12d234813237e3239da507b4be1087b6fa2f6a766464e4d6ad0c9",
+        "django-action-framework-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "django_action_framework-1.4.0-py3-none-any.whl": [
+          "5b2fd2eebe20f7fad9d408e9695336de5cd34937aaa96ed9852cb25e9f52d861",
           "py3"
         ]
       }
@@ -31200,6 +31224,18 @@
       "wheels": {
         "jhub_swarmspawner-0.2.5-py3-none-any.whl": [
           "34b7153152870168956d9ac41a3731bfadfe4327ff3931baa331c217e353e72d",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "1aa51af7ba69f0cbd2ec164378f8aa2a9d54dd310a7a5f38907133ec11b0fba9",
+        "jhub-swarmspawner-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "jhub_swarmspawner-0.2.6-py3-none-any.whl": [
+          "c237facbe90db8858229387c1f8b897d905bdef72849703bf71a10a6dd31fe3f",
           "py3"
         ]
       }
@@ -47091,6 +47127,28 @@
       }
     }
   },
+  "nlcontrol": {
+    "1.0.0": {
+      "wheels": {
+        "nlcontrol-1.0.0-py3-none-any.whl": [
+          "41dbf876e97bd126ca1835dc2daac1b520f88e778318dbc847bf417615ae27d1",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "dc9b01cfadf75311b8fb734bc1ce7888187b4125106a5bc655134d21d10ee3be",
+        "nlcontrol-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nlcontrol-1.0.1-py3-none-any.whl": [
+          "42d9c061843597efff59bd4dcf603b15845260347b476e50789cbff1e3503ae0",
+          "py3"
+        ]
+      }
+    }
+  },
   "nni": {
     "0.5.2.1.1": {
       "wheels": {
@@ -62385,6 +62443,20 @@
       }
     }
   },
+  "qsapi": {
+    "2.0": {
+      "sdist": [
+        "e0ac70bc90da4e8dea8e572fcdee7f04d94aaada83d0509c6102ff258357d9d4",
+        "qsAPI-2.0.tar.gz"
+      ],
+      "wheels": {
+        "qsAPI-2.0-py3-none-any.whl": [
+          "73e0f408116b3b500cab158a16a4fc25f845e571e6c3d6a381240de629d8b082",
+          "py3"
+        ]
+      }
+    }
+  },
   "queue-fetcher": {
     "0.0.1": {
       "sdist": [
@@ -66613,6 +66685,40 @@
         "69e0691151d3262d0f5f0d358015508b7e5503b63b3ec9f18ffc0b3088b790b1",
         "Scrap_Sensa-1.0.3.tar.gz"
       ]
+    }
+  },
+  "scrappersv": {
+    "0.0.4": {
+      "wheels": {
+        "scrapperSv-0.0.4-py3-none-any.whl": [
+          "d5d518d2ffb71cb22c5b68ef32e6f04ad49f0948358555f03c2a747f5b24cb45",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "c832354e36bda109e56aaf120248b7cd91cf541af25338f2c8ba0a93a6d9adef",
+        "scrapperSv-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "scrapperSv-1.0.5-py3-none-any.whl": [
+          "17fe3c8ff786788a093042f6f1a941df1428e835f166213d3fdb686e2bdc41d3",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "a2c259a311948afb32797cc4ac0d4b5d5604d78c5ac45a0cb2998539e90ee859",
+        "scrapperSv-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "scrapperSv-1.0.6-py3-none-any.whl": [
+          "dee86a11e92b95b1158de2f2a4c1df7f15fed19b889292a9f7b24ba8c73184c4",
+          "py3"
+        ]
+      }
     }
   },
   "scrapy-slackbot": {

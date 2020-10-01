@@ -993,6 +993,12 @@
         "030d771b6cd329d96e397c26fc3d657f825e122630c412563fe1f46fb1ba5d36",
         "appmetrica-1.0.4.tar.gz"
       ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "94fcfb988923bfc315f31a9924a1fb152adef4df5a02a62fc0eae8798e2a1d01",
+        "appmetrica-1.0.5.tar.gz"
+      ]
     }
   },
   "apyref-jython": {
@@ -3748,6 +3754,18 @@
       "wheels": {
         "aws_cdk.aws_route53-1.64.1-py3-none-any.whl": [
           "d71b4ead64cc43fad887842a650cb5f19068e00be328cd845250ffa5314cf4cd",
+          "py3"
+        ]
+      }
+    },
+    "1.65.0": {
+      "sdist": [
+        "62653233e64e4b40f76105b19db4ca7bd90afd7a247f4c07600cfc283680ebcd",
+        "aws-cdk.aws-route53-1.65.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53-1.65.0-py3-none-any.whl": [
+          "af7fcc71503772371c7b9eb94c825dc3ce4b031e40ecc5ebb6d231accec9d0ca",
           "py3"
         ]
       }
@@ -8283,6 +8301,32 @@
         "aef17c39f6ad4122339e7e9b2ac917c4ec2c786dcc68787c9a956c07fb8fccbf",
         "chainer_sklearn-0.0.1.tar.gz"
       ]
+    }
+  },
+  "char-split": {
+    "0.1.0.dev1": {
+      "sdist": [
+        "8b4bb42f09dba22a8eee4274e63699517fcd960c796b7017202c015c9146bcab",
+        "char_split-0.1.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "char_split-0.1.0.dev1-py3-none-any.whl": [
+          "28017582ce73ca3f61aab5f55249f1f49cb6fa2de2b213ea10380915a17e2995",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0.dev2": {
+      "sdist": [
+        "f3ade84fefde7fd2fd3201c305bc2723eb5ce25967fcf555b1e4823ec8e3133f",
+        "char_split-0.1.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "char_split-0.1.0.dev2-py3-none-any.whl": [
+          "bb1e07026b38f30b44241e0b9d08f22ac5d8132af7a2188921e6c5bb6e095082",
+          "py3"
+        ]
+      }
     }
   },
   "checklist": {
@@ -56922,92 +56966,6 @@
       "sdist": [
         "0bbe1933379422f8dc34f27f642c9dad88c99c7f101016f0d9862665b284c4a2",
         "quantities-0.9.0.tar.gz"
-      ]
-    }
-  },
-  "quick-cut": {
-    "1.6.10": {
-      "sdist": [
-        "4d1107e2da779f3d383e0e4117467731026e5eb74a2cc3354fdd97de6cf82bcb",
-        "Quick-Cut-1.6.10.tar.gz"
-      ]
-    },
-    "1.6.10.post2": {
-      "sdist": [
-        "2fcfd570d47e901763ccebdf8be2102517c0c3cd85ade8fcde71bf5a1917075f",
-        "Quick-Cut-1.6.10.post2.tar.gz"
-      ]
-    },
-    "1.6.5": {
-      "sdist": [
-        "275de3cf79c27811284a0e705b3c43373f9b9c96dbd10c41eaf8274e8abe01c4",
-        "Quick Cut-1.6.5.tar.gz"
-      ]
-    },
-    "1.6.6": {
-      "sdist": [
-        "be0830d179425d6487b1c46944b1857f0589f637718c239291831fac913da3e0",
-        "Quick-Cut-1.6.6.tar.gz"
-      ]
-    },
-    "1.6.6.post2": {
-      "sdist": [
-        "ea070dfc520d60cb1983b82ef4ae64035c3dd759ad8fe454a97a715593ff8bdd",
-        "Quick Cut-1.6.6.post2.tar.gz"
-      ]
-    },
-    "1.6.6.post5": {
-      "sdist": [
-        "bfa1d5eea42f12ab4d32c2a48f36b51c0a32f54cd7682febf85904a30feaacdf",
-        "Quick Cut-1.6.6.post5.tar.gz"
-      ]
-    },
-    "1.6.6.post6": {
-      "sdist": [
-        "f407ee75a35b46e9d61c1ceae9a3d170dd325b2e6e3ffab1327fd40c96251dd5",
-        "Quick-Cut-1.6.6.post6.tar.gz"
-      ]
-    },
-    "1.6.6.post7": {
-      "sdist": [
-        "9e1f365be1a01156bd4dab644e1e3575c445bb640726955cbb5cfb04ffa22776",
-        "Quick-Cut-1.6.6.post7.tar.gz"
-      ]
-    },
-    "1.6.7": {
-      "sdist": [
-        "116f05616f284b4ecd7b4953bad976c3e30e6076d44b49fac36c94df72b0ff87",
-        "Quick-Cut-1.6.7.tar.gz"
-      ]
-    },
-    "1.6.7.post2": {
-      "sdist": [
-        "926742698f080e340334d033cf2a441e08afeab3e6d03269db78c2c837c480f0",
-        "Quick-Cut-1.6.7.post2.tar.gz"
-      ]
-    },
-    "1.6.7.post3": {
-      "sdist": [
-        "14f935765a499dfc7ad1816a216e7cd4e59a975893b8e3fe20c378d69675526a",
-        "Quick-Cut-1.6.7.post3.tar.gz"
-      ]
-    },
-    "1.6.7.post4": {
-      "sdist": [
-        "803f6a9d5cfa19bfc92b5dfe5ef785cd11d7abead91590c2d1e3963e89f4b1a7",
-        "Quick-Cut-1.6.7.post4.tar.gz"
-      ]
-    },
-    "1.6.9": {
-      "sdist": [
-        "a07663a084dbb2b3d6848c22d13fca3aaf23e9a5c3123784862a11dd66ee8e80",
-        "Quick-Cut-1.6.9.tar.gz"
-      ]
-    },
-    "1.6.9.post2": {
-      "sdist": [
-        "edd719eac9949a2e99b48f7bc453cf781cfcf856f419294505288c2a14eae4e1",
-        "Quick-Cut-1.6.9.post2.tar.gz"
       ]
     }
   },

@@ -7380,6 +7380,18 @@
         ]
       }
     },
+    "1.65.0": {
+      "sdist": [
+        "f586d296f3499c0e49b87c3b2566d9100accd4eeda05993d75d50216c3154909",
+        "aws-cdk.aws-elasticloadbalancing-1.65.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticloadbalancing-1.65.0-py3-none-any.whl": [
+          "92fdef220fc9c84b8865ca7d17720bc36148e7da43f342802f09690c21d60139",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "96f179e1b1e8fa5892e72b98caf9f4819928257f16caa0a05a66bd84da91a1ef",
@@ -16794,6 +16806,18 @@
       "wheels": {
         "delete_facebook_posts-1.1.15-py3-none-any.whl": [
           "1301f0ff92016c647a51d1f4a01fdb808be5afa71d33d0ebdc68d3b6aedbac17",
+          "py3"
+        ]
+      }
+    },
+    "1.1.16": {
+      "sdist": [
+        "c41419dbb581bd30f11a1a2f63620f060812f2b4fda69e312235e37e9667d2cf",
+        "delete-facebook-posts-1.1.16.tar.gz"
+      ],
+      "wheels": {
+        "delete_facebook_posts-1.1.16-py3-none-any.whl": [
+          "0fe5e1450d44cfa1c04ed397f36a6cd4d4ba4ba1ee654099754a9b6c7a60bd1e",
           "py3"
         ]
       }
@@ -43215,6 +43239,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo13_addon_account_bank_statement_import_paypal-13.0.1.0.1.dev4-py3-none-any.whl": [
+          "c5d3b2841e52a3f8570191f050752ece0e186a18b641cad08fc00e787ffecab4",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-account-e-invoice-generate": {
@@ -53115,6 +53147,90 @@
         "python_unsio-0.9.3rc5-cp37-cp37m-manylinux2010_x86_64.whl": [
           "ecc7d8c2bf3a124ed3754aec3d43abd10e2b3af1a7a7cb510eec6d254afdabbb",
           "cp37"
+        ]
+      }
+    },
+    "0.9.3rc6": {
+      "sdist": [
+        "f10442598b398bf67bbe1f01203b153eaec6f788c83483f91024cd3f855697c2",
+        "python-unsio-0.9.3rc6.tar.gz"
+      ],
+      "wheels": {
+        "python_unsio-0.9.3rc6-cp27-cp27m-manylinux1_x86_64.whl": [
+          "b807406f8a935e6a457aca7e5d5545d19faa215b12b043c66c21509f6af6933f",
+          "cp27"
+        ],
+        "python_unsio-0.9.3rc6-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "37e984645f77a23f2b665385a0454fe06b3833b0bb7b5ffe90a565ee8370addf",
+          "cp27"
+        ],
+        "python_unsio-0.9.3rc6-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "3bc8ed1a07648b77a60ab83c0a7ec08b9e8153140fc1da109929fa984b6e677f",
+          "cp27"
+        ],
+        "python_unsio-0.9.3rc6-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "89566f55e2f4336fb84b8d4b1142ae5d3d28829036fba606d8bac7b7446b3996",
+          "cp27"
+        ],
+        "python_unsio-0.9.3rc6-cp34-cp34m-macosx_10_13_x86_64.whl": [
+          "2055dbd392d319a17288d6aba9de2c94541bb74add7eb2bebd252fcfc6eb87a6",
+          "cp34"
+        ],
+        "python_unsio-0.9.3rc6-cp34-cp34m-manylinux1_x86_64.whl": [
+          "7fa180a329419452f8ee0fd3aa8f1a9186eddfe31a0f7cf9263ae294c68b55f7",
+          "cp34"
+        ],
+        "python_unsio-0.9.3rc6-cp34-cp34m-manylinux2010_x86_64.whl": [
+          "e399afe0c26bbd3b7def31dd029f6be7a92d6dbe1e574090522f95b6a8a0f21d",
+          "cp34"
+        ],
+        "python_unsio-0.9.3rc6-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "35a33ae2ae97bab56881869e7c74073924a0ef3637a8187b0ec4b81817cd23e5",
+          "cp35"
+        ],
+        "python_unsio-0.9.3rc6-cp35-cp35m-manylinux1_x86_64.whl": [
+          "bb333bc2cee0a6e4cfa743e25762b283a9f2cbed34befa25e83e50dbffc6fbe1",
+          "cp35"
+        ],
+        "python_unsio-0.9.3rc6-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "009a428b6beb530e0a9fa21487cc781af5a0de2ee657304c411135b267e8e412",
+          "cp35"
+        ],
+        "python_unsio-0.9.3rc6-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "48c5398a171fc78998bab4496de74df235e9a2c1286400e00e9df7219c53b9a3",
+          "cp36"
+        ],
+        "python_unsio-0.9.3rc6-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fe73890fe63b760e00e23e80e9a13fe5b83abc98b00771873a883001df0b43c7",
+          "cp36"
+        ],
+        "python_unsio-0.9.3rc6-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "5934dde17fa99f2c8017d25bc2ce5c1adbae4d5420c00828e6691db6b2c77fa6",
+          "cp36"
+        ],
+        "python_unsio-0.9.3rc6-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "84ef93e7331f75f8e201feac232ef6b85f3a43c6e8f0d8ecab302e491948338b",
+          "cp37"
+        ],
+        "python_unsio-0.9.3rc6-cp37-cp37m-manylinux1_x86_64.whl": [
+          "997b5002d877a4ad486076b2e89f0f4a46cba840ecb05249d243dfec9fb26923",
+          "cp37"
+        ],
+        "python_unsio-0.9.3rc6-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f2304d451ec8fd51daa53492a275e205307d48d441cf897fa4484ab9355f6fb4",
+          "cp37"
+        ],
+        "python_unsio-0.9.3rc6-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "bf43f1deef1be27ad3cd62698b07cf06c675b819c67a286ebc815b775c162d84",
+          "cp38"
+        ],
+        "python_unsio-0.9.3rc6-cp38-cp38-manylinux1_x86_64.whl": [
+          "0fa49d9a76ada8a150c4697b533b9655db884a418d90d250b78537808d0b36c5",
+          "cp38"
+        ],
+        "python_unsio-0.9.3rc6-cp38-cp38-manylinux2010_x86_64.whl": [
+          "28f14f48703b742b0cd173de46e1ae0d79c7cc1624cc7c6c48330663c377068b",
+          "cp38"
         ]
       }
     }
@@ -65898,6 +66014,18 @@
       "wheels": {
         "upackage-0.1.6-py2.py3-none-any.whl": [
           "f3c9ca58e913f4cd4053dca06d0f71a5c6bc9ef35ce2b840983442c00b3021fc",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "c8b8ef40296416f5fcdcf9cf1e15b4c7fe22df21412fb927d765e30625453056",
+        "upackage-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "upackage-0.2.4-py2.py3-none-any.whl": [
+          "83693927066c5406f522fa2bb07ceae6ffb9359d99fbf6887eb324db2a3ae040",
           "py2.py3"
         ]
       }
