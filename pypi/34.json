@@ -6099,6 +6099,12 @@
         "28ecb77cda3f465a2ad12e25af3822a54c51f804822387a5e86261a54d37c79d",
         "awscli-local-0.8.tar.gz"
       ]
+    },
+    "0.9": {
+      "sdist": [
+        "ce0cbd61bfa6d91f96fad7ab3bac78bb07b096c794f6f5ce934aa86a8855a6de",
+        "awscli-local-0.9.tar.gz"
+      ]
     }
   },
   "azure-ai-nspkg": {
@@ -18345,6 +18351,12 @@
         "690f2c3536c6e27f8308c39effd6344de036850d537dd021a2dc21f3d53c7635",
         "django-fastadmin-0.4.0.tar.gz"
       ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "2289bc6b5ccb65f2449d784352b96f20ff2ab7ef055b40e0073921ee2d06ce6c",
+        "django-fastadmin-0.5.0.tar.gz"
+      ]
     }
   },
   "django-fileflatpages": {
@@ -20964,6 +20976,18 @@
       "wheels": {
         "drf_haystack-1.8.7-py2.py3-none-any.whl": [
           "7d4b24175bb75f894ad758b0ab2226cfcd9c2667e9d1eab4eb3752f36545e58c",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.8.8": {
+      "sdist": [
+        "f3cef748e9482bb7717321177ea6116a4c3534599142040889b05e92a5e30231",
+        "drf-haystack-1.8.8.tar.gz"
+      ],
+      "wheels": {
+        "drf_haystack-1.8.8-py2.py3-none-any.whl": [
+          "ac12ca87048d6ee0425c32a4a48eb7db4994c311233d3ff80593d4d0c56ca353",
           "py2.py3"
         ]
       }
@@ -36755,6 +36779,18 @@
         "f5b22bb6c947e613dd652f8c2e22dc9a34ef91b23107198828532e11dfbc88ea",
         "modular_client-6.0.0.tar.gz"
       ]
+    },
+    "7.0.0": {
+      "sdist": [
+        "ee8e9a6a057382df03a02fa425d270d9e9ea61f3c5ef228dfdbd5fe21dea93c1",
+        "modular_client-7.0.0.tar.gz"
+      ]
+    },
+    "7.0.1": {
+      "sdist": [
+        "acd527db87c814a56a866d7968e79621891794d10a90ec02eae827c3d4845f91",
+        "modular_client-7.0.1.tar.gz"
+      ]
     }
   },
   "mongoalchemy": {
@@ -40316,6 +40352,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "d80b6c9bd78d638aade414d807632c9a4c6ead2bfd1ad27d3d0ed4c9596ec1a5",
+        "mypy-boto3-glue-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_glue-1.15.10.0-py3-none-any.whl": [
+          "792368bea265ec6f59959c609e145c2e8cbbc77e104c3e15397ab41fa3992f9a",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "9ec6efa72ebc439561d3d499fb30fc86959088790638f0b68580e875598fc698",
@@ -42474,6 +42522,18 @@
       "wheels": {
         "mypy_boto3_machinelearning-1.15.1.0-py3-none-any.whl": [
           "e1a13bd03d9433468c2817a4cb8627781057fea2122ec9b9cb6bd83b2c0d0dee",
+          "py3"
+        ]
+      }
+    },
+    "1.15.10.0": {
+      "sdist": [
+        "45c31401a2296272b12f87cb0650014b5bf66a936f9a61c98fdcc36747319e85",
+        "mypy-boto3-machinelearning-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_machinelearning-1.15.10.0-py3-none-any.whl": [
+          "5941db19daccc572c49b28207c10f145b081d06a028ee8d1320e3777a7c38b99",
           "py3"
         ]
       }
@@ -46716,6 +46776,18 @@
       "wheels": {
         "omero_py-5.8.1-py3-none-any.whl": [
           "94b7f7479aaa0e1e58ebf38efa06238ebb31ddd314a9d34822ce76b9f4670a48",
+          "py3"
+        ]
+      }
+    },
+    "5.8.2": {
+      "sdist": [
+        "c636ee6141d7b64c17f37f13159d5f9672d1050ae7bd482d3909404e5ea1c568",
+        "omero-py-5.8.2.tar.gz"
+      ],
+      "wheels": {
+        "omero_py-5.8.2-py3-none-any.whl": [
+          "4bfa8210ef2944804bcb6e1bc571be3026fd360ae7bb84ddd53bde0e927b66cb",
           "py3"
         ]
       }
@@ -51840,6 +51912,12 @@
       "sdist": [
         "c15c9bcfb49fa7a51c3a6142dfd60b4292fd60a45e15bc963faf197cfd73b363",
         "psl-2020.1.7.tar.gz"
+      ]
+    },
+    "2020.10.1": {
+      "sdist": [
+        "65f4cf942f386c80d1de01657f18868ddaf7d1ea74a5a8c87dd708fdabce4181",
+        "psl-2020.10.1.tar.gz"
       ]
     },
     "2020.2.1": {
@@ -66538,6 +66616,32 @@
       "sdist": [
         "c2fdf1faec8640361b1eb8728410fca4fc7f9c46b13f9cdc7e143dc070db17f2",
         "seppuku-0.1.0.tar.gz"
+      ]
+    }
+  },
+  "serpentmonkee": {
+    "0.1": {
+      "sdist": [
+        "4764fd01d28e60eb3116af14e578319bebcdf1a177d1e04eb05c4b6841de9292",
+        "serpentmonkee-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "d4b8a9ace67426d92d3ce5c139e972f7757fe6880e22e9f8c9846b75f9c99a84",
+        "serpentmonkee-0.2.tar.gz"
+      ]
+    },
+    "0.3": {
+      "sdist": [
+        "ee6b2482ac92a64a7dac7b6681180572f93876124119ed45d7d773e984e4db7b",
+        "serpentmonkee-0.3.tar.gz"
+      ]
+    },
+    "0.4": {
+      "sdist": [
+        "bc59a59d5f18d5ab37304503693fda744fe29b039d3bbf7ebe9152c75abbc537",
+        "serpentmonkee-0.4.tar.gz"
       ]
     }
   },

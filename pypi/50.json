@@ -8519,6 +8519,12 @@
         "6b15ce03d9c7794135eae497fafec5429fd2f7d810e6c503b66793f6c92cadd8",
         "cloudify-utilities-plugins-sdk-0.0.29.tar.gz"
       ]
+    },
+    "0.0.30": {
+      "sdist": [
+        "bb53fa8d85e93fa7065bb5f03706546339257f41057402a60e1c8c40f97bf196",
+        "cloudify-utilities-plugins-sdk-0.0.30.tar.gz"
+      ]
     }
   },
   "cloudshell-cp-azure": {
@@ -13044,6 +13050,18 @@
       "wheels": {
         "dbt_core-0.18.1b3-py3-none-any.whl": [
           "45192b8dfe02220608bd1354da9ccd5d7a0af2a5596edfb502dbedc12f85342d",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1rc1": {
+      "sdist": [
+        "8027315e42f3386fead4ec40fcc5db99f6ddcceff94997b8f0da2a962aee8e7f",
+        "dbt-core-0.18.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "dbt_core-0.18.1rc1-py3-none-any.whl": [
+          "9e994cc3f4cf686ace65600ba3c73936950e671df3fa6d84a32610ec79f1ef50",
           "py3"
         ]
       }
@@ -33501,6 +33519,14 @@
           "py3"
         ]
       }
+    },
+    "1.4": {
+      "wheels": {
+        "irrep-1.4-py3-none-any.whl": [
+          "40137224e67181a4853f26a344d2d1f7c9db658e1ca4e08a0d0a13bc993fc8bd",
+          "py3"
+        ]
+      }
     }
   },
   "isdc-client": {
@@ -43220,6 +43246,12 @@
       "sdist": [
         "fb31588eb12fc2e8ef2c3262c835dc8010c636a99227542ef3da7422f2b990fd",
         "nparray-1.1.0.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "67b4b629d347e4a2788400b46fcc2430b3937f857b443321f38fac450a8070d3",
+        "nparray-1.2.0.tar.gz"
       ]
     }
   },
@@ -70289,6 +70321,14 @@
       }
     }
   },
+  "streammachine-avro": {
+    "0.0.1": {
+      "sdist": [
+        "e6b940e926bb1e41b14ee8d71e89f0130874d288df7ebd8995ef2ad57fc3043f",
+        "streammachine-avro-0.0.1.tar.gz"
+      ]
+    }
+  },
   "stregion": {
     "1.1.4": {
       "sdist": [
@@ -84480,6 +84520,58 @@
         ],
         "tensorflow_io_nightly-0.15.0.dev20200926195553-cp38-cp38-win_amd64.whl": [
           "4689b5263d96cf1b9f5e39a9ba62f029e174658a962ba74bec158f257cf9031e",
+          "cp38"
+        ]
+      }
+    },
+    "0.15.0.dev20201001192349": {
+      "wheels": {
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp35-cp35m-macosx_10_13_x86_64.whl": [
+          "9b09f274ea975d1d0c372f1ce3bfc2b71e4015a66ad4acf13885452f23987b6a",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "7ef9a96c60a4ed673f0c6ea6696545734de51ab57f3de29f36dc89be05e794fd",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp35-cp35m-win_amd64.whl": [
+          "cbca7d5943a39a6efa76273186b73ba61f5499dbe204ec61dc4f277708cadb54",
+          "cp35"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "a5648a2939ef21c6f3129fcbf861a756b617c53ef2b6b8478ed62e633d1198f7",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0903126a7276693d8209af190520ef17e0f9d13e9352e5de30e25506d04f5380",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp36-cp36m-win_amd64.whl": [
+          "1443a1e100cb8cce7f5254cc205b2149bb73762fcf3b819701bd0ca96517c968",
+          "cp36"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "c8273ecedc8f9b5d7f9b0f63be454833b18cc67d497cf6ed7368306a0fc26e8a",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "bb6c028af4444baa2f1d0c32f82c68b7379488fda0e12430caf16be93d8c6e2c",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp37-cp37m-win_amd64.whl": [
+          "00d69e358ebb4b1e033d120a7af0051a8717b29b6ebae15113fa850cdafc23ea",
+          "cp37"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "69d46c68d230b654924184a030d5f8a59514ec66edf16325e4055c0242f9c7a6",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a38dcf5990035e30b982cab21495450a84dac9464b6fa2a7e756c6e14e44c81b",
+          "cp38"
+        ],
+        "tensorflow_io_nightly-0.15.0.dev20201001192349-cp38-cp38-win_amd64.whl": [
+          "51917ccd0393d3b22585adb0dd9335b4b2ed5ead55c6921624f2bfdb4f24565a",
           "cp38"
         ]
       }

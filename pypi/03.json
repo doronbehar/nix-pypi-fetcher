@@ -41558,6 +41558,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "92b3d63f60399a0c484f097ef20adb1bbb23004eab86027c1d1b4d9c1815b57d",
+        "mypy-boto3-codedeploy-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codedeploy-1.15.10.0-py3-none-any.whl": [
+          "fd19c0cd29645004113e5eccff70f3ca525d9766b6d4724394c23cc54843e4d5",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "835b1cd42a727cc687fe62d21b0fa6e05c2a2c354c6a4ba4cbc8c0c55add842b",
@@ -59660,30 +59672,6 @@
         ]
       }
     },
-    "0.7.8.1": {
-      "sdist": [
-        "737be3ec51559ef36bfe9068f62e039824151c6368e723fe0aca504d48aa255c",
-        "satyrn-python-0.7.8.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.7.8.1-py3-none-any.whl": [
-          "42af0df7473a083f0f9f24b56e227d1affe0d8a865e0256d5fc376bb0d2f8d9b",
-          "py3"
-        ]
-      }
-    },
-    "0.7.8.2": {
-      "sdist": [
-        "909a52db47be7cb09b03630d42412025cb1a3d2abef66d0d42f7c5c6b2652494",
-        "satyrn-python-0.7.8.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.7.8.2-py3-none-any.whl": [
-          "5197ef65ccbdc61101ab05feafb7b141639e02c913ca98d6e18dafb71fdce67a",
-          "py3"
-        ]
-      }
-    },
     "0.8.0": {
       "sdist": [
         "c03ad090603ff32bc319fcaf9fe6dc0e00f50c5557fed5f20d7c2ccc004cb29c",
@@ -59708,26 +59696,74 @@
         ]
       }
     },
-    "0.8.1.1": {
+    "0.8.10": {
       "sdist": [
-        "32a59222a58c5748b0d841c7ada4cd6dc2f9d7c577f7b61abf8d7699b728414b",
-        "satyrn-python-0.8.1.1.tar.gz"
+        "f06eaabb86dd51575f1dbc14bfbd824b2c72b903b6e4dd65b4b77ae8ef1a58f2",
+        "satyrn_python-0.8.10.tar.gz"
       ],
       "wheels": {
-        "satyrn_python-0.8.1.1-py3-none-any.whl": [
-          "7a9aa207b4d25d6c51643ba253c01a589923eb12875798139fa47cf2c436b7c6",
+        "satyrn_python-0.8.10-py3-none-any.whl": [
+          "32869535661499fab09489628f1c0a427c1c060abf240ab722a589a7db36239d",
           "py3"
         ]
       }
     },
-    "0.8.1.2": {
+    "0.8.11": {
       "sdist": [
-        "9ffe26a6fc78cc61baee70eeb73d8c418b446cc2a69be1e86568327dce3a5c4f",
-        "satyrn-python-0.8.1.2.tar.gz"
+        "d4718b19802eb3e5b2ec32e8df9b99e2bdccb065a0bafdacebc9f180ecd3dafa",
+        "satyrn_python-0.8.11.tar.gz"
       ],
       "wheels": {
-        "satyrn_python-0.8.1.2-py3-none-any.whl": [
-          "145c653b67c53b1b11ce5008b58e6ae428390e5d292bbd055e9283d2880a99b0",
+        "satyrn_python-0.8.11-py3-none-any.whl": [
+          "69e30a6272750d630f568165ab6b9bab1b580163a3b65f834b5377c72520995f",
+          "py3"
+        ]
+      }
+    },
+    "0.8.12": {
+      "sdist": [
+        "98dc48c14dc21f8c7d99853c590d936367e574354627009ec7d5ae65dab7ec90",
+        "satyrn_python-0.8.12.tar.gz"
+      ],
+      "wheels": {
+        "satyrn_python-0.8.12-py3-none-any.whl": [
+          "b4b7d176939f421aac5cc1f487ee53ce842ce8594ee7a020218a7e75fda1da4d",
+          "py3"
+        ]
+      }
+    },
+    "0.8.13": {
+      "sdist": [
+        "a8d0bda78f2f587bd19e383c301ef5b4cc2f4b4c7454e135fd9122f59e65e9f1",
+        "satyrn_python-0.8.13.tar.gz"
+      ],
+      "wheels": {
+        "satyrn_python-0.8.13-py3-none-any.whl": [
+          "b78d99295c942d1dbced0c97c34c26812dfb8c6b61365ebb1d4d17a597f0c82e",
+          "py3"
+        ]
+      }
+    },
+    "0.8.14": {
+      "sdist": [
+        "b47013aaceed2ad30f9a052108d71d5c78f93eaa67c7038ef2c1cf647a54fbe2",
+        "satyrn_python-0.8.14.tar.gz"
+      ],
+      "wheels": {
+        "satyrn_python-0.8.14-py3-none-any.whl": [
+          "99a8b54395915dee823e96ded7c59248976175c615dd32042136b77c538cec0e",
+          "py3"
+        ]
+      }
+    },
+    "0.8.15": {
+      "sdist": [
+        "5868fb0c21640e7326a66c18ed527eebd1875717b3beab81adcbad828fc07814",
+        "satyrn_python-0.8.15.tar.gz"
+      ],
+      "wheels": {
+        "satyrn_python-0.8.15-py3-none-any.whl": [
+          "f1509d2b2e0d470e649b59d3bbe9d0cf99000e6dda0607154f34392401d948c4",
           "py3"
         ]
       }
@@ -59756,18 +59792,6 @@
         ]
       }
     },
-    "0.8.3.1": {
-      "sdist": [
-        "9960da00c27998e9e06b9c51a6dd08ed48f8c749f441c106570f0f782adfb676",
-        "satyrn-python-0.8.3.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.3.1-py3-none-any.whl": [
-          "14197c387cf91e42867d49e929d512c844740db4e389cbe02a3f62d3bba3e459",
-          "py3"
-        ]
-      }
-    },
     "0.8.4": {
       "sdist": [
         "0fe2b4b5831dd02b2bac22efa6933e343c146c5015fbba90e4b10ef5e6abcd9d",
@@ -59780,78 +59804,6 @@
         ]
       }
     },
-    "0.8.4.1": {
-      "sdist": [
-        "0484590b40e4a8ffe914f095bd3aba76260b316acaf21b297c69bfa8abe9cab1",
-        "satyrn-python-0.8.4.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.1-py3-none-any.whl": [
-          "7f2d01ae96204b7ba89d348fc14563adfe9ef42fb8171e487f00670c8646c55a",
-          "py3"
-        ]
-      }
-    },
-    "0.8.4.2": {
-      "sdist": [
-        "e49fbab7bc933345ce5e9db1ee3d63adfd64eab344fd68ba4087c60f1ceab191",
-        "satyrn_python-0.8.4.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.2-py3-none-any.whl": [
-          "944c85d91c018aae29b32797586bf7c5aaa79f0773b1e68d4d534a500a31ddb0",
-          "py3"
-        ]
-      }
-    },
-    "0.8.4.3": {
-      "sdist": [
-        "b7bcd30d1b2538f6e564308078bc82c459399963c9d7104c7ea9371f28f4a941",
-        "satyrn_python-0.8.4.3.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.3-py3-none-any.whl": [
-          "3100a0654e153b0005d45c14c948fa377258d2f15905f65c6ed65f86aadff43a",
-          "py3"
-        ]
-      }
-    },
-    "0.8.4.4": {
-      "sdist": [
-        "02f0b1bc0168b76277f507175a3159a489042dfb1aa8ff69b2fe8784d7f2284b",
-        "satyrn_python-0.8.4.4.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.4-py3-none-any.whl": [
-          "a76dfe8e24546d6934f59ec25576f0aa63e3fd0944093d739a7d8f1be3dce40b",
-          "py3"
-        ]
-      }
-    },
-    "0.8.4.5": {
-      "sdist": [
-        "e0afc92befabf5a887b5a6cc29f8b3a9a590d6c65aa32f8c320f9db5093d99ae",
-        "satyrn_python-0.8.4.5.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.5-py3-none-any.whl": [
-          "24a9b0a73227e98cbceaf184a908f9140b525d628ef1dc98e66bf104df6ec8c7",
-          "py3"
-        ]
-      }
-    },
-    "0.8.4.6": {
-      "sdist": [
-        "dc53e87bdf5352e231c73ec4409b0e314e610d16b8fb037e3d23a72933266ac4",
-        "satyrn_python-0.8.4.6.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.4.6-py3-none-any.whl": [
-          "942904ee16ac0aa7a5aa3a70e44011f8907c5bffd77aca5d5e31d2c16cfe9f68",
-          "py3"
-        ]
-      }
-    },
     "0.8.5": {
       "sdist": [
         "2d26ea421c98f748a55cf1d74a689b53fc4c7a3ee905ed386797b5653c8a8edc",
@@ -59860,18 +59812,6 @@
       "wheels": {
         "satyrn_python-0.8.5-py3-none-any.whl": [
           "75c142951d44ca1ecc465125edaaad02cacc34b4d500d8b378b83039d715c99a",
-          "py3"
-        ]
-      }
-    },
-    "0.8.5.1": {
-      "sdist": [
-        "efcd856446bdcea839cae01a7e8b9f0672e129e0ea4e46b9ea4b74ca4f641ad5",
-        "satyrn_python-0.8.5.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.5.1-py3-none-any.whl": [
-          "248dc7dc2021ef30aa4bc5661e82cd2bdd441b0fdd5c0bd5b5c0fd1f619aa1a2",
           "py3"
         ]
       }
@@ -59896,158 +59836,6 @@
         ]
       }
     },
-    "0.8.7.1": {
-      "sdist": [
-        "1af20345a3633267764111c76e0a481ab835f772c605316add3321487ae8b034",
-        "satyrn_python-0.8.7.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.1-py3-none-any.whl": [
-          "e16daead989853e5e0f2277b625005b68d004e98c9204f27957efd76181eef20",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.2": {
-      "sdist": [
-        "7cb7ad1548930468e8487d2e8e347d94c934d36228e39a6aed62b54852a67b21",
-        "satyrn_python-0.8.7.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.2-py3-none-any.whl": [
-          "1a06d9ff89ec381426b08785ab0bde78b7a549cc087523ad92b31a434a5441e2",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.4": {
-      "sdist": [
-        "4c6b76524118a15a128787b4efc8c05400870a26e219dd44fe00dbaca77a7197",
-        "satyrn_python-0.8.7.4.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.4-py3-none-any.whl": [
-          "4b22a25f068b9d5f40349a19a04b4f333dace21a4d4579837b9674b829a9bbd9",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5": {
-      "wheels": {
-        "satyrn_python-0.8.7.5-py3-none-any.whl": [
-          "57210f2abb429517b1f06892b0d22a293589b11b1b9680535c37b5e0c562e389",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5.1": {
-      "sdist": [
-        "46bb9bc2cd4d1b73161b92f704141289f04247bd12e587680cf366063424cb90",
-        "satyrn_python-0.8.7.5.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.5.1-py3-none-any.whl": [
-          "cb6d89d1352bce692d72180177cc0fd1bae22c1ef8f0c3405493ed45907f8ca7",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5.2": {
-      "sdist": [
-        "8ad7e905b7c96e06e1e64f26d0a828e7dba94a0561957c18baef0e605c9508f6",
-        "satyrn_python-0.8.7.5.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.5.2-py3-none-any.whl": [
-          "21f4f89af38d5de924006b32cf367bd86e08e93b7d6f0ffba255b7c9e5ed11da",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5.3": {
-      "sdist": [
-        "02b93717c808a40b6fcb8766d9c1ad3d87494e0f2c82dfd0165916895aed81b1",
-        "satyrn_python-0.8.7.5.3.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.5.3-py3-none-any.whl": [
-          "95c80808364d7fd696dbead9f9f57399dcdae1a921a95da1cec2323d40c1006e",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5.4": {
-      "sdist": [
-        "a54fea58cbc334dd0306cdd92b75f73470a0e9649cdbd95c9f4db7e7353b775a",
-        "satyrn_python-0.8.7.5.4.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.5.4-py3-none-any.whl": [
-          "70c5ef73067b11344b3a65839c5a47a51d92f954f6b6ae5ddb3305029848e20c",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.5.5": {
-      "sdist": [
-        "1df03a75fb7b577aa5953bdde19f7a9dad89fe1da00468329101e6f122de111d",
-        "satyrn_python-0.8.7.5.5.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.5.5-py3-none-any.whl": [
-          "3997369a68df33952589209394e6cda48075b85f43c87c34c737168e84f2dc0a",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.6": {
-      "sdist": [
-        "52889d2843ad6365dd318352dcd93bcf2e5d9dea3b42b064720877b584b1912c",
-        "satyrn_python-0.8.7.6.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.6-py3-none-any.whl": [
-          "e7dacb9e7e1bdc51dd5038ac80d4c0d8c1f2335275cfaa7c8823bcb58531864c",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.7.1": {
-      "sdist": [
-        "7ad749ebd5bdb5a5b07a5a9b21e28737a3bc4bfdd4609a472de4941e3039e152",
-        "satyrn_python-0.8.7.7.1.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.7.1-py3-none-any.whl": [
-          "ef2f772123947120750c2166234568db1fc13f6ba503f00f587f1e6ffc26721a",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.7.2": {
-      "sdist": [
-        "fe24769628616ad53e07d9a2e8ae6c0f7b0a23a521d26f40b7204855def14844",
-        "satyrn_python-0.8.7.7.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.7.2-py3-none-any.whl": [
-          "343f24df3ebb4a6b2c2c6a0e45c86616bba684647ce37838c546a3348023f16f",
-          "py3"
-        ]
-      }
-    },
-    "0.8.7.9": {
-      "sdist": [
-        "07543d3f8178ea4da0507651f5a733901b58e5c4bb6a76bce3515c680fa2654f",
-        "satyrn_python-0.8.7.9.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.7.9-py3-none-any.whl": [
-          "141dd0c7f1c7987d7e574b33a9be7b51c6e7ddb528ae6fa7faef5c59fcc159d3",
-          "py3"
-        ]
-      }
-    },
     "0.8.8": {
       "sdist": [
         "366449c6548a8b1c3bcaa52548e749b7b0e6c3f9b6a752ba3f8ba76240b1e61f",
@@ -60060,38 +59848,14 @@
         ]
       }
     },
-    "0.8.8.1": {
+    "0.8.9": {
       "sdist": [
-        "d21ace32666744f6e885b0c594925a348aa6e8dc82ad5ed2c667746af3495875",
-        "satyrn_python-0.8.8.1.tar.gz"
+        "9e50ee1889166c95cd52cd4fed3311dd5c8fed3512d22c95a6cb95c2f281f30e",
+        "satyrn_python-0.8.9.tar.gz"
       ],
       "wheels": {
-        "satyrn_python-0.8.8.1-py3-none-any.whl": [
-          "54ef2baf03d348257a0bc448b6b5e0386be9099968886c5a0001715d4a3dee0b",
-          "py3"
-        ]
-      }
-    },
-    "0.8.8.2": {
-      "sdist": [
-        "f7ea2229971c4c9e5c78e2896ae53f98b92530c37bac02e1e1df6a9454fd5a66",
-        "satyrn_python-0.8.8.2.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.8.2-py3-none-any.whl": [
-          "e6ace41cdb5f003eb74938c2be60d36dcc901c017e24f60ebab5ccf0984ca84d",
-          "py3"
-        ]
-      }
-    },
-    "0.8.8.3": {
-      "sdist": [
-        "5473d988cab24a39c24c788d5dd5d49602987e92dc7ac4f525f1a240ff3555cc",
-        "satyrn_python-0.8.8.3.tar.gz"
-      ],
-      "wheels": {
-        "satyrn_python-0.8.8.3-py3-none-any.whl": [
-          "a40097c6b64c923d2b0160c50ffac754f165e5b12c28b2c18d89619ee6e22cdd",
+        "satyrn_python-0.8.9-py3-none-any.whl": [
+          "d2214356043fb3951ea6e5a77e52442b6f4961cb9c57a4ef76e842b912fea2f4",
           "py3"
         ]
       }
@@ -68897,6 +68661,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "sdist": [
+        "e5765f32f2548c21819187d018102a64591c11ec16974b7b95c9b47b6c1685c1",
+        "ue-schedule-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ue_schedule-2.1.0-py3-none-any.whl": [
+          "af2705000b396b09fc34bc3cfa6c6fcfd1bde312ebd61b60f478b181122d4336",
+          "py3"
+        ]
+      }
     }
   },
   "uhttplib": {
@@ -69964,6 +69740,12 @@
       "sdist": [
         "4e0f028770eb19c84db6a830f45dbf9b08880545e8beed0ea6e772e5ffb20d2d",
         "usienarl-0.7.5.tar.gz"
+      ]
+    },
+    "0.7.6": {
+      "sdist": [
+        "7e0912b00fef966fdf16c69525c2884a78ba27c395d44a63f015be65af389005",
+        "usienarl-0.7.6.tar.gz"
       ]
     }
   },

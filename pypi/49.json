@@ -24105,6 +24105,12 @@
         "9d130417e4fc065db05aee42af7852966a0f6a0b1fff8829ac905ec82fcb0faa",
         "grr-response-client-3.4.2.post0.zip"
       ]
+    },
+    "3.4.2.post3": {
+      "sdist": [
+        "fd163881b6d5d6b17052952d01b0db3230c23dc30d67e7b66792a8f7f26981a0",
+        "grr-response-client-3.4.2.post3.zip"
+      ]
     }
   },
   "gryd": {
@@ -24570,6 +24576,14 @@
       "sdist": [
         "ebdd976c13caa523d4d40be577d93e9bc614ecc46cf1f0a05d2c363310d02c35",
         "haste-0.6.tar.gz"
+      ]
+    }
+  },
+  "hatching-triage": {
+    "0.1": {
+      "sdist": [
+        "86107b28dd2e45f5b2b1659cf59a5632fb2c590c4ed160ce292caf06f429d406",
+        "hatching-triage-0.1.tar.gz"
       ]
     }
   },
@@ -33942,6 +33956,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "0c778eee80365f1ca947783b2fba948f7f8121df7d1756aaebecdb11d7c3b483",
+        "mypy-boto3-discovery-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_discovery-1.15.10.0-py3-none-any.whl": [
+          "fe5032a8f001b4b70137d52146c7f8bd2df56e4aa06635b161bbe15f9581a3e8",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "0ddac79ef755e0e64b7b09111d4cf9ee1733bd10e4ca087d0f73810451f21548",
@@ -36112,6 +36138,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "ba8d6da5ba6751e3328af5f929ae17c93cb482df423c26e9ab71bf23492e1732",
+        "mypy-boto3-health-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_health-1.15.10.0-py3-none-any.whl": [
+          "a3962ba7465f480a5cce1e43e277bf48de9fd2b021c1c38b0453cab0de06d62d",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "e04e81a747ba372e533cdbf45b4f8cbd5c3b3a81fc2580af24422a5daf31a42a",
@@ -38270,6 +38308,18 @@
       "wheels": {
         "mypy_boto3_lex_runtime-1.15.1.0-py3-none-any.whl": [
           "7a3cbdb09185b08d40c2b93c9e5e9612c2407a6457aa3f55f66ebd65ce7bcd3a",
+          "py3"
+        ]
+      }
+    },
+    "1.15.10.0": {
+      "sdist": [
+        "5e4ecdb1a6cca732eff35f8c2b98aee3a0cebf0280a236c3d148e0efb8348e78",
+        "mypy-boto3-lex-runtime-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lex_runtime-1.15.10.0-py3-none-any.whl": [
+          "6eead043d4985b93f9a3c319945f3e302bc0dcc2792a79bee9a0516fbdb5bfc9",
           "py3"
         ]
       }
@@ -60046,6 +60096,18 @@
           "05207c1c27d9a035bb7b3e0d25ca4314c4359eb86205449bf714aa4676ccfe43",
           "cp36"
         ],
+        "sktime-0.4.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "c20b592037fc59778f96bf6137e037adf0cfe4419f7b109e5f145ef5b85a7238",
+          "cp36"
+        ],
+        "sktime-0.4.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "4a1bb29c0b1dfa32fe5770460164ba32d6ebbf7f3ea18f6152eea1704f3d8bb6",
+          "cp36"
+        ],
+        "sktime-0.4.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "985891c5e630f280550d386a7450e9ea4895b873d4a5c07791defec980e39879",
+          "cp36"
+        ],
         "sktime-0.4.2-cp36-cp36m-win_amd64.whl": [
           "35fe80be73b06ff2f8b44039a35da83da2d6eb6c2f83e86e9b3ae21652f91148",
           "cp36"
@@ -60054,12 +60116,40 @@
           "2cdc39745f97776461c6847aca56882682f03f51477adc80a50fc72a9c162382",
           "cp37"
         ],
+        "sktime-0.4.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "189e2e71a8642b4e07b32c6ae3a39a092313101da14377c42252ae7239c38122",
+          "cp37"
+        ],
+        "sktime-0.4.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "d381b2c0c30b0cb9088e96f6b5f98a8502cca45403d7542b00c9727f923c2f0a",
+          "cp37"
+        ],
+        "sktime-0.4.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "6f999ad8260e22a7469f166e9ad6fe975f2857b0e4c32f776f46501133360d43",
+          "cp37"
+        ],
         "sktime-0.4.2-cp37-cp37m-win_amd64.whl": [
           "e41b77a1170aba90da0ffa863097e1c5d64b0be0a3a1cb22542a1cdd3ad99ec8",
           "cp37"
         ],
         "sktime-0.4.2-cp38-cp38-macosx_10_13_x86_64.whl": [
           "3ec2d4740070f5fa65ad8641efc3487fc0c5a49aee695c7c1792574fa943e067",
+          "cp38"
+        ],
+        "sktime-0.4.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "9e50bec96d4450b93a3529d0cea308bd4023838b6297393d56edbac5df43be45",
+          "cp38"
+        ],
+        "sktime-0.4.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cadf5c93a3a895ec0e83b307ac70b561e5a4f4cc5e928e26614b0ef62a3dd0cb",
+          "cp38"
+        ],
+        "sktime-0.4.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "195da4a89b69cbb21f5abd928e5c7961312a3e7b12402ee4a04f83e612d3a61e",
+          "cp38"
+        ],
+        "sktime-0.4.2-cp38-cp38-win_amd64.whl": [
+          "c2fa5b078a3f1b2eccb6f97d25047b377999cd58a2f2f7c5d4575f515e2be1ec",
           "cp38"
         ]
       }

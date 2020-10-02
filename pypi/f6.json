@@ -2551,6 +2551,18 @@
           "py3"
         ]
       }
+    },
+    "1.65.0": {
+      "sdist": [
+        "8c2efd7378c3f0c4a8c890c5158d97ebc0e00f822e6440484082e4b8fae23da9",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-1.65.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-1.65.0-py3-none-any.whl": [
+          "d2dcd48cd2ceff68b9eb08acb081089ec03a843b128070d5681d2a6d98399e5e",
+          "py3"
+        ]
+      }
     }
   },
   "aws-ssh-proxy": {
@@ -36078,6 +36090,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "36f01e98436105031a43d38978fab35f699f743b1ee697297d5174c5f8a9edce",
+        "mypy-boto3-personalize-events-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.15.10.0-py3-none-any.whl": [
+          "1604f79c5ce7deb63e81bfb5ac926428b02b35448db3e6ab7b7c4d950eb46ccd",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "1b50d4012565d0445374c5db3b24314807d8ddddad40e03cc5e19782b5e02ce3",
@@ -60362,6 +60386,86 @@
         ],
         "segyio-1.9.2b1-cp38-cp38-win_amd64.whl": [
           "00b0c2402d5ed4b10dd4f01fe7242b070388b93cd81d435384b39ef8ca06d218",
+          "cp38"
+        ]
+      }
+    },
+    "1.9.3": {
+      "sdist": [
+        "8b70f39d903413c88f9039ef748742b5e92d1996c4cda8bbca95ce529c6cdaea",
+        "segyio-1.9.3.tar.gz"
+      ],
+      "wheels": {
+        "segyio-1.9.3-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "6081fd8ba94a45e54c3567d0765aabbda2b8072deb5549df497722c83033a180",
+          "cp27"
+        ],
+        "segyio-1.9.3-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "f7b1c1aeb07a2b085b1256ef36f567919065260e142de92c60970e44550bbf9b",
+          "cp27"
+        ],
+        "segyio-1.9.3-cp27-cp27m-win32.whl": [
+          "30dfad6db3ac0eb39475a5ad50ab4eb8bccd02c09d436a04d7d3c30fc45dd39e",
+          "cp27"
+        ],
+        "segyio-1.9.3-cp27-cp27m-win_amd64.whl": [
+          "afd3fbc289cc6fbabfa18d3c59187f46f13d54bb4ca35a545e878dda43ce4f8d",
+          "cp27"
+        ],
+        "segyio-1.9.3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "41403f2c9c6dfc02e0d7db3a9d70693205b4d3041dd03b15374b8806764e3124",
+          "cp35"
+        ],
+        "segyio-1.9.3-cp35-cp35m-win32.whl": [
+          "6258087068b9bbcf55cfbccf719ff6218b63b7e66e83943f0c058144e11d105e",
+          "cp35"
+        ],
+        "segyio-1.9.3-cp35-cp35m-win_amd64.whl": [
+          "c4cb310c7caf69c65514449d95ac253c71073ad65da890815c695e00a61b5d4e",
+          "cp35"
+        ],
+        "segyio-1.9.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "83e6262ba3b475b4a27c7ad25b346efa6b937ec46fceb03fe4602ce20917f1d0",
+          "cp36"
+        ],
+        "segyio-1.9.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2f85e7521b49e3127f1c531ddf3876c6b02d87bd9cbd267011f89597063659c4",
+          "cp36"
+        ],
+        "segyio-1.9.3-cp36-cp36m-win32.whl": [
+          "6c27559bc13603ff157ed112a39d62c3d2a0005504b5a251dac8b9b6bef043b1",
+          "cp36"
+        ],
+        "segyio-1.9.3-cp36-cp36m-win_amd64.whl": [
+          "dd11ff99745e9d0d4e739deb3e67431cf7e10eef0785a71efc0415b2412a9257",
+          "cp36"
+        ],
+        "segyio-1.9.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "cb1efa0a58096d70f1ae04e0eb77916659795ec6631235cfb749de296fdf8621",
+          "cp37"
+        ],
+        "segyio-1.9.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d22465e42f31c6a8235597372cddc80a1ad1094c63ddf0844442d1647d7832e0",
+          "cp37"
+        ],
+        "segyio-1.9.3-cp37-cp37m-win32.whl": [
+          "14f8b52dcefd5eb5769919590608f49f13bc081a09abb68dd2c1bb13845ce7d0",
+          "cp37"
+        ],
+        "segyio-1.9.3-cp37-cp37m-win_amd64.whl": [
+          "279cc8a9ea9cccab0459e80c5a72fcbadf82fa1fa57ee90ecbf9ed7e79e36d84",
+          "cp37"
+        ],
+        "segyio-1.9.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4e2fdeecf0517ca6f2a597d88a430c8ce696cace8dac49e1873db65464fe122b",
+          "cp38"
+        ],
+        "segyio-1.9.3-cp38-cp38-win32.whl": [
+          "f68bcc23eb690646d983da71d507bae639fe864f20770eb24de6f6d67f2bf979",
+          "cp38"
+        ],
+        "segyio-1.9.3-cp38-cp38-win_amd64.whl": [
+          "8cc3f40b6e54069b965eead3d0069bc39bf3f17232329920cb3682ebf54bd2e3",
           "cp38"
         ]
       }

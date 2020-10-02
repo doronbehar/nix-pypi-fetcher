@@ -12709,6 +12709,18 @@
           "py3"
         ]
       }
+    },
+    "0.18.1rc1": {
+      "sdist": [
+        "de73840358d1104cff9f46e937b4604bf6c91e96a9cf6fd63659019dec69189a",
+        "dbt-bigquery-0.18.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "dbt_bigquery-0.18.1rc1-py3-none-any.whl": [
+          "126f0dd3bf94b160d8ce140744a7970e5ea3d4976f27cb30f1fe4ba27a6c0d39",
+          "py3"
+        ]
+      }
     }
   },
   "ddc-d2019-test-install-module": {
@@ -22137,6 +22149,20 @@
       ]
     }
   },
+  "glowprom": {
+    "0.1.1": {
+      "sdist": [
+        "9b01cd320e785b2573be4cc322d9f5f32cfc8ae9456aed1f3f03d3e20e48f04f",
+        "glowprom-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "glowprom-0.1.1-py3-none-any.whl": [
+          "3d5065ac90aa137b1f5a042f95be85738238dfb292cce021e583c5570e78c46b",
+          "py3"
+        ]
+      }
+    }
+  },
   "gmailtwostepverificationbug": {
     "1.0": {
       "sdist": [
@@ -31504,6 +31530,12 @@
         "large-image-1.2.1.dev45.tar.gz"
       ]
     },
+    "1.2.1.dev47": {
+      "sdist": [
+        "62160be17c4aee974082dfe21e41ba7f03f3f320a6b935b9e0f9defd318b49ad",
+        "large-image-1.2.1.dev47.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "b4c10135071a199a9746533232bba7a6bae755d181022ba879d4af6b46e02f3d",
@@ -39052,6 +39084,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "c9d5f7343996310d9d33a75efa7d60cda364932e8d4dddec9416e0ab60c13005",
+        "mypy-boto3-clouddirectory-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_clouddirectory-1.15.10.0-py3-none-any.whl": [
+          "1f983c7f45b1849ace0bd83e6974d6c952dfd9bfd6e861b930b9fc1c825df336",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "f5e885026e7578dede0ff39120bc51f951f8a3f7b0a1f25ea076f55832d9a25b",
@@ -41214,6 +41258,18 @@
         ]
       }
     },
+    "1.15.10.0": {
+      "sdist": [
+        "c9ca20c5e3c233818c7a5d569af41da9d8f23374e17ed5ee539fc50393c171a4",
+        "mypy-boto3-mgh-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mgh-1.15.10.0-py3-none-any.whl": [
+          "70ff0e0cbdb5d02d911b6d8cb8049822d4cea269581e2b1e75fc9c7293ee2b3b",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "bdab35d9335f6246144f17aa0a8173d7e4d6f022f3401c76a0612bc41b93ade4",
@@ -43372,6 +43428,18 @@
       "wheels": {
         "mypy_boto3_mobile-1.15.1.0-py3-none-any.whl": [
           "0c3e72ceb20ebc85a7efaa1a4e38410c621f88682b12bd9e78b0573fccde4929",
+          "py3"
+        ]
+      }
+    },
+    "1.15.10.0": {
+      "sdist": [
+        "1d8d02ef2c6226e7c734826b5b6cabd8bc0075ffff09e59297bc90bdd0577a6d",
+        "mypy-boto3-mobile-1.15.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mobile-1.15.10.0-py3-none-any.whl": [
+          "fc5b7f21a5b3ec94fca44b73e037acb0271133df8bcd87bc7f4ef6cceb72a0ec",
           "py3"
         ]
       }
@@ -64086,6 +64154,42 @@
       "wheels": {
         "teatime-0.2.2-py2.py3-none-any.whl": [
           "e7b2ab368d5f01761a196339020444e2226672286201105a482a98e90be71c80",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "5652608a8ca9c663300368699c4f214a5836d67a478080e4b3159d8094528dd7",
+        "teatime-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "teatime-0.2.3-py2.py3-none-any.whl": [
+          "354d23a420af44e53f879f402d2b3ebc713c944f446462efa21f5de49af45144",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "9878d0b2e3fd6e8892f685b5115441f09943c179c0fdc25173a6b1ed9ea2a0b8",
+        "teatime-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "teatime-0.2.4-py2.py3-none-any.whl": [
+          "d29f462b7d4a87967f9641c0d50b46ca0ed73154a36375c75f7388df5c165c07",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "7f376dcdd8e115c8c6f97fd46ea65ea13682a78985a7b76c2a75b31062ea74f2",
+        "teatime-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "teatime-0.2.5-py2.py3-none-any.whl": [
+          "ff93263bbbf8ea30cdd614e3ef9b7890fd682d654e32d3491f4a5d652337b66e",
           "py2.py3"
         ]
       }
