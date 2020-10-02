@@ -51622,10 +51622,26 @@
         ]
       }
     },
+    "13.0.1.6.2": {
+      "wheels": {
+        "odoo13_addon_queue_job-13.0.1.6.2-py3-none-any.whl": [
+          "866791febe1f8c0b99ca6bcb91c14fa7b6f27996f3151053f74a02b87428ea8e",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.6.2.dev1": {
       "wheels": {
         "odoo13_addon_queue_job-13.0.1.6.2.dev1-py3-none-any.whl": [
           "cad6ac0735253e6ea3d298de4217f09837e361acdd54d80bf1c1bee49dd938e8",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.6.3": {
+      "wheels": {
+        "odoo13_addon_queue_job-13.0.1.6.3-py3-none-any.whl": [
+          "5df6f03cff6d3e12b49e6531bc092c3d70917ed14eed14f51115d7d95c911c42",
           "py3"
         ]
       }
@@ -53756,6 +53772,18 @@
     }
   },
   "optionset": {
+    "20.10": {
+      "sdist": [
+        "58b027ed7b21a9d8b55a996c5cb989b17ef1d9b40d14f826f1a5d77c6a1bac57",
+        "optionset-20.10.tar.gz"
+      ],
+      "wheels": {
+        "optionset-20.10-py3-none-any.whl": [
+          "92a36363afdd645a124fd29ef046563fca95fbd0c4492b14c7595aa6ccd5226b",
+          "py3"
+        ]
+      }
+    },
     "20.9.22": {
       "sdist": [
         "e844afe63f56452a5f1054ef0d318fc02c6584859bffde13827366c2b77450d1",
@@ -57325,6 +57353,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "pycollision2d": {
+    "1.1.0": {
+      "sdist": [
+        "aebc5be2174436ce8c3ae33335731be429e213eff2e970fa1124cb14bf5226b2",
+        "PyCollision2D-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.2": {
+      "sdist": [
+        "fa334523744acfa2b6d933fd24b30be1ab2f90d5ad1cdb88d6ee3973246bd4e1",
+        "PyCollision2D-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "361f4040df7dc62fecf78779e8502fdb79d919fc81dca7b103302bb3adee6ad4",
+        "PyCollision2D-1.1.3.tar.gz"
+      ]
     }
   },
   "pycopy-contextvars": {
@@ -71554,6 +71602,50 @@
         ]
       }
     },
+    "3.0.0a29": {
+      "sdist": [
+        "7354847bc5c0e9426d3e0a99126fe6ce8dd6324e150fecaa3523f6264ad9d9d0",
+        "spacy-nightly-3.0.0a29.tar.gz"
+      ],
+      "wheels": {
+        "spacy_nightly-3.0.0a29-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "8c4dc6fbba1aba57cdb096ab9e56bbd8f92c0b28f0f51ac995fd5d9d40901323",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a29-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "c6c23513d9b7c622b51c1b7913d74374e1d355612972ff475f6b159b1db7dd57",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a29-cp36-cp36m-win_amd64.whl": [
+          "c35248980a30af48a1a46b8049b17e9ea365f0a01a1c9ae24afaa53bbfec9f2a",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a29-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "32c3fe4979f7283f8050b235bb7fe0913405442e657d0d0ac64b097f0be908fd",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a29-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "45be5b93ffa6ba3bbf08f735225b00f5dc876c50ae401b2fdd2cdae7ece596e9",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a29-cp37-cp37m-win_amd64.whl": [
+          "4ab2b703af990d9339f9c14eab637dd3f38d20fbc44ba35240dae0d5f9d719a5",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a29-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "49f7ae29218c03b594f788354cd07c8a2a07dd638acf596486db54190fa3bd21",
+          "cp38"
+        ],
+        "spacy_nightly-3.0.0a29-cp38-cp38-manylinux2014_x86_64.whl": [
+          "6057c38099c1151c5d763555777639ef48663ba912e79051a606c0a16d728383",
+          "cp38"
+        ],
+        "spacy_nightly-3.0.0a29-cp38-cp38-win_amd64.whl": [
+          "6703316f92220c7651a05d5252a79bf223fc6e755d7ada6e8740df6325e7fd3a",
+          "cp38"
+        ]
+      }
+    },
     "3.0.0a3": {
       "sdist": [
         "27917f491801ffbb4ac68005a6d9ffa0473cf33e23940ef98ca0e1a454b552ca",
@@ -73182,6 +73274,30 @@
       "wheels": {
         "streammachine_schemas_catalog_clickstream_avro-0.0.1-py2.py3-none-any.whl": [
           "46fe1ef597ee39fef24eb7646da729c791a2037f33a7e0add6e7076ce978e1d0",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "bb6c54e83bfc4027db80301d10a225b18a99eb54f8a2574d57fe2e6b08073f5a",
+        "streammachine-schemas-catalog-clickstream-avro-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "streammachine_schemas_catalog_clickstream_avro-0.0.2-py2.py3-none-any.whl": [
+          "8a4cf34272e12c2535ed8a36d0ea990fed8c7cd6e91f0d718ecb90e8f5c60dcd",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "e9dea1b02192b88a0c82c579826c788919cef2c6c0557b328ffae24e62aae16e",
+        "streammachine-schemas-catalog-clickstream-avro-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "streammachine_schemas_catalog_clickstream_avro-0.0.3-py2.py3-none-any.whl": [
+          "840c13325f7848603fb4722a8c8b0e3cc296d7c8fa957c8d471d56e72aedf734",
           "py2.py3"
         ]
       }

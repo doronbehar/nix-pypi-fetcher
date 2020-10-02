@@ -767,6 +767,32 @@
       ]
     }
   },
+  "alpaca-trading-algorithm": {
+    "0.0.3": {
+      "sdist": [
+        "cefa325033b23c7653de9ec878389730ee9212c8a748f35bfe2c527ebad89827",
+        "alpaca_trading_algorithm-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "alpaca_trading_algorithm-0.0.3-py3-none-any.whl": [
+          "9a7b6bfd3d1fbb98ebdfbe7c1803d35bc528dd94fb8244bdb4c0587ad95b1362",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "479d36a1b2559048f0d9a7db4b8232afd0ced6f3a67ddddba2a0ee0915831de7",
+        "alpaca_trading_algorithm-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "ebf706d0835022a4555640a756cdb21d248f601aa895aa70ccc4cd8d3d0b3fca",
+        "alpaca_trading_algorithm-0.0.5.tar.gz"
+      ]
+    }
+  },
   "alstat": {
     "0.0.2": {
       "sdist": [
@@ -49553,6 +49579,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.1.1.0": {
+      "wheels": {
+        "odoo13_addon_l10n_ro_config-13.0.1.1.0-py3-none-any.whl": [
+          "8635ff76b4b3efd0b27fad93f66aa232a1bff67aa1996cdb2f4ab26d3571c6d3",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-l10n-th-tax-report": {
@@ -49616,6 +49650,14 @@
       "wheels": {
         "odoo13_addon_l10n_th_tax_report-13.0.1.1.2.dev2-py3-none-any.whl": [
           "84c532cabe1dc0a0790b8971f15f0bc02b875e3eef81ef3e0c68534f1ddab680",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.3": {
+      "wheels": {
+        "odoo13_addon_l10n_th_tax_report-13.0.1.1.3-py3-none-any.whl": [
+          "b59c1b25d99ca16239a8c94cd0e1bc29858cbf0b756b11a08eae2f6c4af95619",
           "py3"
         ]
       }
@@ -82208,6 +82250,10 @@
     },
     "2.4.0.dev20201001": {
       "wheels": {
+        "tf_nightly-2.4.0.dev20201001-cp35-cp35m-macosx_10_6_intel.whl": [
+          "97579921cdd5822d81fab876c408e67b464a5fa5b544c9cc01d8dca71d1b9f72",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20201001-cp35-cp35m-manylinux2010_x86_64.whl": [
           "cdc9a8069101a0eb31a00f2f58b43b3053052a37e6d2080174969e4bf5095c46",
           "cp35"
@@ -82215,6 +82261,10 @@
         "tf_nightly-2.4.0.dev20201001-cp35-cp35m-win_amd64.whl": [
           "ec243d29b7067d0a2561e3eb5e83b5567e5c0279b814c46e899e5e1ea7d25300",
           "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20201001-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "23667ec51f9c69f4dedf69cd7975d1ffaed29d5d762b90e52d7d35a728722c6f",
+          "cp36"
         ],
         "tf_nightly-2.4.0.dev20201001-cp36-cp36m-manylinux2010_x86_64.whl": [
           "24689f483eceb3fbbb313323f7afe9b7ecf910a834fbd56e37e7ffa50620c64a",
@@ -82238,6 +82288,34 @@
         ],
         "tf_nightly-2.4.0.dev20201001-cp38-cp38-win_amd64.whl": [
           "750c570964ba515e833193d11240d4252926561386f1831f023434ffdc54047a",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20201002": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20201002-cp35-cp35m-macosx_10_6_intel.whl": [
+          "deb500937c68a055dcee649146ea471184b735bc07aa08d39984f7bf90c5ea26",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20201002-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "6b02f8f1fe1fbf3e33ebb8abcac9b7736e93211e522297d6052190aa538134c1",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20201002-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "44ffdaa46aee39ce5be4e2366b7964c13845f43ea8148bb5204bdfd32bf385b8",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201002-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "8ae18ba6f8c5bab911e1c7470b9d04759d01ab70231b41427213a45b3d5964e6",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201002-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "19d2241cd12bb437b0bbe267d38828187b7ef0c296341725d459d7635ae78254",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20201002-cp38-cp38-manylinux2010_x86_64.whl": [
+          "d529c0017907acf38eb2362572641376159a4b32f2262560bdab0204c7464b37",
           "cp38"
         ]
       }

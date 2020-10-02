@@ -6583,6 +6583,14 @@
       ]
     }
   },
+  "brute-engine": {
+    "5.0": {
+      "sdist": [
+        "759c06fcc470f325005cb95f65c7d0f4f7bbeb92b5a72bf909a54a0fe725aaef",
+        "brute-engine-5.0.tar.gz"
+      ]
+    }
+  },
   "buildbot-dbconfig": {
     "0.1.0": {
       "sdist": [
@@ -46699,6 +46707,12 @@
         "3b3aedde757b7818e4612bc63e7bc1a07b3bd582d75810652623f930f68e3395",
         "NlpToolkit-DataStructure-Cy-1.0.3.tar.gz"
       ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "bf2f6e16c71d9f842fe603d4df44dbe499aff40982e88ad53e09a15d799c58a3",
+        "NlpToolkit-DataStructure-Cy-1.0.4.tar.gz"
+      ]
     }
   },
   "nmslib-viz": {
@@ -67239,6 +67253,12 @@
         "ad2a468d15603ec7554105edb15a66f78e3c5b6f23c06a8c995f7bbc3235ca2d",
         "sentence-transformers-0.3.7.1.tar.gz"
       ]
+    },
+    "0.3.7.2": {
+      "sdist": [
+        "45dbb3b6a8810a8c1cb4c518a533a3b9c961dc19dc70a0dbbd33a0a0331fe0d4",
+        "sentence-transformers-0.3.7.2.tar.gz"
+      ]
     }
   },
   "seriesmgmtsystem": {
@@ -71568,6 +71588,32 @@
       "wheels": {
         "tensor_dash-1.8.1-py3-none-any.whl": [
           "871dcf418aefc58ee65b633d72b418d106bb97a8ce064c00fc4f1118b3eb911d",
+          "py3"
+        ]
+      }
+    }
+  },
+  "terracotta-toolbelt": {
+    "0.0.1": {
+      "sdist": [
+        "5f461daeaf1efb8dbb696b1fc79e59ea18a90919d344e13becd1275dd30581d8",
+        "terracotta-toolbelt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "terracotta_toolbelt-0.0.1-py3-none-any.whl": [
+          "0bd6b0715b2192a3f42ae402726ed3ece8b91e5d6030faaa83fe9da50f902c7f",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "29609e9065b54ae74d5964c1425e2c05fc5b0e31e83348647390d8c046e0a149",
+        "terracotta-toolbelt-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "terracotta_toolbelt-0.0.5-py3-none-any.whl": [
+          "67276ae854bc64fc07005dfdce0315d175870cf9404ce142482c41e6b0ec9bb5",
           "py3"
         ]
       }
@@ -80232,9 +80278,17 @@
     },
     "2.4.0.dev20201001": {
       "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20201001-cp35-cp35m-macosx_10_6_intel.whl": [
+          "d780b6bada721712b68f443a427418f79e82c8f89e59c7689da1c76eb675e18c",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201001-cp35-cp35m-win_amd64.whl": [
           "0f9313af2fa3fde007c7fa6d47c156a1faf4e688af64d0f316d5e69407f54c07",
           "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201001-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "04c2cc5a40d2e4e91a37c386e4781a9134ffdc380be5013741b36e853ab96624",
+          "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20201001-cp36-cp36m-manylinux2010_x86_64.whl": [
           "e8f9fc54ede163a44906592571ea1eee39c038aff809f3a3aadb3044d318e521",
@@ -80258,6 +80312,30 @@
         ],
         "tf_nightly_cpu-2.4.0.dev20201001-cp38-cp38-win_amd64.whl": [
           "f7f2e2639c1ece3a0603f51eba85658df258881118904721cd2e05a47710cc46",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20201002": {
+      "wheels": {
+        "tf_nightly_cpu-2.4.0.dev20201002-cp35-cp35m-macosx_10_6_intel.whl": [
+          "047203465b5d64fc3fd4887910754aa6f8a50038134f5c26df2b7ab579921a16",
+          "cp35"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201002-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "471e8545dc413d095bfefabdaef044d75b3cf83a1e70f18a72a3780dbb41092a",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201002-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "a4296eca8eae5b713bec2677a1866ccef0fc62a3431e68b4f46faddb91a8fefa",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201002-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "b92cc8ae2c7656eb9601f5e9af5c3e9023d107eab57945937275f4d47154fb29",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201002-cp38-cp38-manylinux2010_x86_64.whl": [
+          "665574357ded4cc55a832f86de79a3b1586ad4d2b5df80e0bde9c34fefbcd214",
           "cp38"
         ]
       }

@@ -11563,6 +11563,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a3": {
+      "sdist": [
+        "abd583cc4c7af6c4f65c018c952a21f77cf1b0807ab1c5110588272aa8259c0f",
+        "cidercellar-1.0.0a3.tar.gz"
+      ],
+      "wheels": {
+        "cidercellar-1.0.0a3-py3-none-any.whl": [
+          "b37e9e022a35035f25cd5d58df3255109a15cda62b98343d72d91d38e683251b",
+          "py3"
+        ]
+      }
     }
   },
   "civis-jupyter-notebook": {
@@ -37098,6 +37110,10 @@
           "98bf863d94b390ffc6b3c11c916e171bd460577594d191a4b94069e5c684ff42",
           "cp36"
         ],
+        "lazrs-0.2.0-cp36-none-win_amd64.whl": [
+          "9a61fbbe228097913d8dd2a94a54493163b9340217e1f7cbdda6e6a0a28b070a",
+          "cp36"
+        ],
         "lazrs-0.2.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
           "0a1b782cff94c9f7be489b4a776766399b0c378bc65efbd3e14cd5c3f973e515",
           "cp37"
@@ -37106,12 +37122,20 @@
           "2a56bc72f6795b8ecb9cac11c46e0d11ad893410a5e50b9cca035624c15fb028",
           "cp37"
         ],
+        "lazrs-0.2.0-cp37-none-win_amd64.whl": [
+          "fb7eeffac52cc3a115bff198dd56c599e77041d2312619c802ccdf5ea244cee0",
+          "cp37"
+        ],
         "lazrs-0.2.0-cp38-cp38-macosx_10_7_x86_64.whl": [
           "71d5e717232c2268a2fd72f627cea7110111942ef2dc7f8abc5a08118b1588df",
           "cp38"
         ],
         "lazrs-0.2.0-cp38-cp38-manylinux1_x86_64.whl": [
           "38d0c6ddd66e95966db6fa54567a3bc5e273f5e42ec77446e8a9df8086ff6cc6",
+          "cp38"
+        ],
+        "lazrs-0.2.0-cp38-none-win_amd64.whl": [
+          "6d98726f8e75c5f181cd7ad156d6f2100d93e6702f72d9d99e7dcce24ce8b391",
           "cp38"
         ]
       }
@@ -68442,6 +68466,18 @@
         ]
       }
     },
+    "1.49.22": {
+      "sdist": [
+        "e1cae66fa9584562478dd06d28cb8ba304ec2bf710e87a4a8e2a31ed9537bde2",
+        "seleniumbase-1.49.22.tar.gz"
+      ],
+      "wheels": {
+        "seleniumbase-1.49.22-py2.py3-none-any.whl": [
+          "423a557d55bc615215b93fd5d2c379715b931548ecce01bacb73a4e138f93705",
+          "py2.py3"
+        ]
+      }
+    },
     "1.49.3": {
       "sdist": [
         "6d4052f92136ed3786e8589a4a21a9ec8d1df8e2e180f6c5efb4416aea6b758c",
@@ -70768,18 +70804,6 @@
     }
   },
   "sifter3": {
-    "0.0.0": {
-      "sdist": [
-        "e910b78fe19297ce5884dfda0d43169d232d14878f00747395f0758b5bf37d78",
-        "sifter3-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "sifter3-0.0.0-py3-none-any.whl": [
-          "f12dbe0918916b944b53f28eecf5e7eb94923b479d57cd775bd24c4d6e49c843",
-          "py3"
-        ]
-      }
-    },
     "0.2.0": {
       "sdist": [
         "85660da48b4bd3d7e3cbb16918e00bee6a63c009e0c1b34fe137be63a15d5fb4",
@@ -77404,6 +77428,14 @@
       "wheels": {
         "skitai-0.35.4.8-py3-none-any.whl": [
           "035338f46f50702bf622ccf15db3bc148cf5d0a22575545e28b05e40bd56b798",
+          "py3"
+        ]
+      }
+    },
+    "0.35.4.9": {
+      "wheels": {
+        "skitai-0.35.4.9-py3-none-any.whl": [
+          "52efc5aea493d9684935f92b35deb1006e5f5b130527194ed29f79bde8723463",
           "py3"
         ]
       }
@@ -84539,6 +84571,150 @@
           "py3"
         ]
       }
+    },
+    "3.3.40": {
+      "sdist": [
+        "fc16b99c3f514037a5abca6cbd006a6bfe0f1932562040658a52be80b7853b02",
+        "tronpytool-3.3.40.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.40-py3-none-any.whl": [
+          "794cebe8f1a8c08c0e932c9dc45d064b28404e07805357b799788d33d951a8e6",
+          "py3"
+        ]
+      }
+    },
+    "3.3.41": {
+      "sdist": [
+        "bc81e29429a928a13fc83098d761bb79aa92b0e948fa0756c8dafee7bd9d34cb",
+        "tronpytool-3.3.41.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.41-py3-none-any.whl": [
+          "5e3b6f1d36b6e68a7b5405aca25656e5d3aa0e9677b38d07923e77c66edfad93",
+          "py3"
+        ]
+      }
+    },
+    "3.3.42": {
+      "sdist": [
+        "4391448600293eb20efc02d10a40c14739642eb4bd7e3715947d6a1c93d0157f",
+        "tronpytool-3.3.42.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.42-py3-none-any.whl": [
+          "c20c12fbf6fbd732f51fe8efc54e6cd3a586cc982034a4c89800ab76eff8f928",
+          "py3"
+        ]
+      }
+    },
+    "3.3.43": {
+      "sdist": [
+        "52b96b1592570ccd7032c9e55d92c1f2c6a35c9eb55da54bceddc37db5b1af34",
+        "tronpytool-3.3.43.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.43-py3-none-any.whl": [
+          "8b466041fc168ddb86ff5f95c64408f0fa67be4775540a9cadc10a88964af418",
+          "py3"
+        ]
+      }
+    },
+    "3.3.44": {
+      "sdist": [
+        "ed6b3e9fc4ae9dcc725cb14ed4cfda6cf920079cb9d5c54160711c9455c3cb4a",
+        "tronpytool-3.3.44.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.44-py3-none-any.whl": [
+          "7ea65bcc17043e28adae2494823967e346120d2b4af7feafec1d132c9dbd541f",
+          "py3"
+        ]
+      }
+    },
+    "3.3.45": {
+      "sdist": [
+        "1307840dec18c0df78f28215fdae80e04034c947b0d34634991d4a49218f39b6",
+        "tronpytool-3.3.45.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.45-py3-none-any.whl": [
+          "82d1cea1efceb9203a2a4c7997193bc550f136e03cf81172cb6472a852f33776",
+          "py3"
+        ]
+      }
+    },
+    "3.3.46": {
+      "sdist": [
+        "9a4c4d601d3f2593129e6d8546de1bf16c8f6bdfb6144c248e299770070382b5",
+        "tronpytool-3.3.46.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.46-py3-none-any.whl": [
+          "f7c715b2b48bbfa686205336777d3889f5b43ab0ee2f460176228e8047a27893",
+          "py3"
+        ]
+      }
+    },
+    "3.3.47": {
+      "sdist": [
+        "4902001511bf19110fa5077bcf7966515fe818c2798228d48766c2b3a6797448",
+        "tronpytool-3.3.47.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.47-py3-none-any.whl": [
+          "0cde48e551f17c92f728e243bd527fc4e1f771991336b5b3787eb8249baf8d9a",
+          "py3"
+        ]
+      }
+    },
+    "3.3.48": {
+      "sdist": [
+        "c068daa1c385596537c42cf19409bf533f6b50b8996257d64c566aeef1f11a9c",
+        "tronpytool-3.3.48.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.48-py3-none-any.whl": [
+          "448b52fa6c6d8994f9ed6fae8d2bc7bf2f49326cef05c96c585f5158fe7ba139",
+          "py3"
+        ]
+      }
+    },
+    "3.3.49": {
+      "sdist": [
+        "441c33df805a8c60ae33b1a35432c5342b81c474f40469588327be1598310675",
+        "tronpytool-3.3.49.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.49-py3-none-any.whl": [
+          "ec281c94e5eba194be8d6dbb61c14bc0071742ba90f34f010ba6218de7e5b9ca",
+          "py3"
+        ]
+      }
+    },
+    "3.3.50": {
+      "sdist": [
+        "5bc6b0d2e34e625c321f94a90951eff35730a35c2245aedf8904a573f8e3ce1e",
+        "tronpytool-3.3.50.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.50-py3-none-any.whl": [
+          "338787b460c21054be57a9a0df4206d21790d7d164f895e0e186963978276822",
+          "py3"
+        ]
+      }
+    },
+    "3.3.51": {
+      "sdist": [
+        "ee53532c57b5324229629587e0c3b4b51153740e5f41af1ec4a96e7ff74aa875",
+        "tronpytool-3.3.51.tar.gz"
+      ],
+      "wheels": {
+        "tronpytool-3.3.51-py3-none-any.whl": [
+          "fe52642af8ea84d98a2951f0f24e91297e07efccd4307c6317235036f569ecd6",
+          "py3"
+        ]
+      }
     }
   },
   "trufont": {
@@ -90624,26 +90800,6 @@
       "sdist": [
         "410ea146e56ab3582c945f20e66fe0845c3983c6ee5d1198ad6609db5c7976fd",
         "zhangchao-1.2.5.zip"
-      ]
-    }
-  },
-  "zjy-fabu": {
-    "1.1.0": {
-      "sdist": [
-        "6e09169578200aa9eb99d93a473b005530134861cb2fdb63e68f66b7fb6ff9c4",
-        "zjy_fabu-1.1.0.zip"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "315dcfdae60f989df21d08a68f49fb6ad567fbf6674368ce4014e039082eedd4",
-        "zjy_fabu-1.1.1.zip"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "cf7b99afca0ee06a63a7448ea82190e95da9ad9dbbb209fa162727444b9ddb8a",
-        "zjy_fabu-1.2.0.zip"
       ]
     }
   },
