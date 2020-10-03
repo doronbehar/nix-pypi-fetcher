@@ -4768,6 +4768,18 @@
     }
   },
   "apache-airflow-backport-providers-samba": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "741cbd64a598e3eacbb420186620583233307b798d666b4373400a7994cd2879",
+        "apache-airflow-backport-providers-samba-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_samba-2020.10.5rc1-py3-none-any.whl": [
+          "e3578ffa718d95f419bc20b734feb0bdfc64e632f4a0af8ed5d5876ad2441bcb",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "a893e0cb6797928ac751f2cb95aa599d6fc9074b742de357f82158bee5dcaec3",
@@ -7470,6 +7482,18 @@
       "wheels": {
         "aws_cdk.aws_codebuild-1.65.0-py3-none-any.whl": [
           "a3c9d949cd231048f0d163c07036d366fc683c0fdeb59a9463d596aa0e6a5b2b",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "c29ccf25bfe9b1fa5020136611d247fb596526dd44e7872310b2210aed48a557",
+        "aws-cdk.aws-codebuild-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codebuild-1.66.0-py3-none-any.whl": [
+          "72fe912abe0dd532be1bf7b6ced08483fbf30ac758dd5500a38e395ac1f74d5b",
           "py3"
         ]
       }
@@ -29863,6 +29887,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "209050482185059dd9490005934c2c54cc263519097c047076e363ed7f4ac86f",
+        "huntinghorn-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "huntinghorn-0.2.3-py3-none-any.whl": [
+          "d9c45757b8a7ce933ea8ed8c40f337602119f0ff0ce247494b701b786ba69f99",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "c740e732f241fbb1b413bad8d24f3e20c93c40de09ac86164a02611571502aa5",
+        "huntinghorn-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "huntinghorn-0.2.4-py3-none-any.whl": [
+          "ce7808d9bc68d39d638971860c697ce8152f40056585a3cf8281f9bef731dd48",
+          "py3"
+        ]
+      }
     }
   },
   "hwm93": {
@@ -30738,6 +30786,42 @@
         "instapy_CHDRE-0.13.tar.gz"
       ]
     },
+    "0.14": {
+      "sdist": [
+        "7ee0bce48eddc749f5f0d66b105b405ae25fee84ce557fffb19cb1ef844dcab4",
+        "instapy_CHDRE-0.14.tar.gz"
+      ]
+    },
+    "0.15": {
+      "sdist": [
+        "2dfbf34561d3557b7cc8cdb4a37d4eb30a65fa029a15335e38658ce0fe461c66",
+        "instapy_CHDRE-0.15.tar.gz"
+      ]
+    },
+    "0.16": {
+      "sdist": [
+        "b97294bf1b1efc9dc46cbb7d1939b833c91b9238a166dc628e47fa353243e4a1",
+        "instapy_CHDRE-0.16.tar.gz"
+      ]
+    },
+    "0.17": {
+      "sdist": [
+        "203c733e5f5a2240768c9a963d5f67ac00446e6e80e3833333b8d13caedc638f",
+        "instapy_CHDRE-0.17.tar.gz"
+      ]
+    },
+    "0.18": {
+      "sdist": [
+        "ccee0f3d12686ab10da7239bf0a7587bffd2a1a46a82fcb1b295f1b2893cf1fd",
+        "instapy_CHDRE-0.18.tar.gz"
+      ]
+    },
+    "0.19": {
+      "sdist": [
+        "43a648429e965fc6b9df3cf748f45efd91aea7d2e8481f172345d1cdb326dfef",
+        "instapy_CHDRE-0.19.tar.gz"
+      ]
+    },
     "0.2": {
       "wheels": {
         "instapy_CHDRE-0.2-py3-none-any.whl": [
@@ -30745,6 +30829,60 @@
           "py3"
         ]
       }
+    },
+    "0.20": {
+      "sdist": [
+        "ab26e35060b967878ab36d02dca02a2ce5903ac293dc15367328b513eba4ba53",
+        "instapy_CHDRE-0.20.tar.gz"
+      ]
+    },
+    "0.21": {
+      "sdist": [
+        "d79abf7a3e2f2098872e47b47765b77e26704e9954624959273bb21cb54f5dfb",
+        "instapy_CHDRE-0.21.tar.gz"
+      ]
+    },
+    "0.22": {
+      "sdist": [
+        "70d536b53a52b9c4ea93d2e6d200c50cb8d71113bc02af075ae75efa4e70027a",
+        "instapy_CHDRE-0.22.tar.gz"
+      ]
+    },
+    "0.24": {
+      "sdist": [
+        "d54272e3f37041812da1f4bc5653afc79466052ae5904ce55092d9c66e685758",
+        "instapy_CHDRE-0.24.tar.gz"
+      ]
+    },
+    "0.25": {
+      "sdist": [
+        "ae5828f3a0f15438de45f05fc79da62a450a935d54627f273166c12b764d62af",
+        "instapy_CHDRE-0.25.tar.gz"
+      ]
+    },
+    "0.26": {
+      "sdist": [
+        "1544e7db194fd5e5a6526b84b501751c28cc5af318f08ec492456757c2583f0a",
+        "instapy_CHDRE-0.26.tar.gz"
+      ]
+    },
+    "0.27": {
+      "sdist": [
+        "ff6971e719d82a919f70c9cd883b8cb038972fa19a57e3f1ee45956c438e09ac",
+        "instapy_CHDRE-0.27.tar.gz"
+      ]
+    },
+    "0.28": {
+      "sdist": [
+        "17c07fa2440f9bc24c9445f03f5f5d6b1cd74ebaa5a74ac8a8b9ad10743bc795",
+        "instapy_CHDRE-0.28.tar.gz"
+      ]
+    },
+    "0.29": {
+      "sdist": [
+        "35c897f182beb1cefdc8fffcaad92dbf10c852d34dbf4857a5dc2fa843e9466c",
+        "instapy_CHDRE-0.29.tar.gz"
+      ]
     },
     "0.3": {
       "sdist": [
@@ -30754,6 +30892,60 @@
       "wheels": {
         "instapy_CHDRE-0.3-py3-none-any.whl": [
           "af3873c1c29a9c184c3439260134c860abb9223c0936383aa4c98372bd7a81aa",
+          "py3"
+        ]
+      }
+    },
+    "0.30": {
+      "sdist": [
+        "828710578f9939ed358177f4bdfba67a63e570f26ac107caba12c6e4f5922c99",
+        "instapy_CHDRE-0.30.tar.gz"
+      ]
+    },
+    "0.31": {
+      "sdist": [
+        "e5dea28d903c5d16d40e5429edcfd250a0a0d2c586e9be1757a048121093e9c4",
+        "instapy_CHDRE-0.31.tar.gz"
+      ]
+    },
+    "0.32": {
+      "sdist": [
+        "bc39f8f8e46206707eca4f721f10881aed1e311cb9b494e12c840769f3665db5",
+        "instapy_CHDRE-0.32.tar.gz"
+      ]
+    },
+    "0.33": {
+      "sdist": [
+        "7058bc1238f5a37cc4a0b56aad9212fc5ce097f9ee785e86a90234c270de2c80",
+        "instapy_CHDRE-0.33.tar.gz"
+      ]
+    },
+    "0.34": {
+      "sdist": [
+        "a671ece0c0e22bd4bfb7499564cb9b4df3fa37cfaeae3cea5269b6c3714fcf76",
+        "instapy_CHDRE-0.34.tar.gz"
+      ]
+    },
+    "0.35": {
+      "sdist": [
+        "c09b388a759fbb04a460c00409935cab6067ea5be2fd7127bb07c4c739873c2f",
+        "instapy_CHDRE-0.35.tar.gz"
+      ],
+      "wheels": {
+        "instapy_CHDRE-0.35-py3-none-any.whl": [
+          "b97520b1b39ddefb2ba3c32bb4cc6bb798e5dc32d4365b10252ea18a52fc29fa",
+          "py3"
+        ]
+      }
+    },
+    "0.36": {
+      "sdist": [
+        "eda55775912bbfe1b381a9151a4e5984bbbc1099fcd3c75fe8397318959679ac",
+        "instapy_CHDRE-0.36.tar.gz"
+      ],
+      "wheels": {
+        "instapy_CHDRE-0.36-py3-none-any.whl": [
+          "a8c1f07b39f3c06771f27ac061e275fa894445251dbfd4fb71d3594dfac328d7",
           "py3"
         ]
       }
@@ -30868,6 +31060,12 @@
       "sdist": [
         "a8585a165bf7e94d4d262811b4cb00674059414c50afc7561c949b0feb78fa09",
         "interlap-0.2.6.tar.gz"
+      ]
+    },
+    "0.2.7": {
+      "sdist": [
+        "31e4f30c54b067c4939049f5d8131ae5e2fa682ec71aa56f89c0e5b900806ec9",
+        "interlap-0.2.7.tar.gz"
       ]
     }
   },
@@ -37356,6 +37554,18 @@
       "wheels": {
         "mypy_boto3_braket-1.15.10.0-py3-none-any.whl": [
           "112a93d7c4800c3b6735a878739a3067a22c01576f96f7ac4127f0422eb8cee4",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "84d5191c9567f8ee731e1fef5bfeb9a22497656d1288199c036c49c5b3d4c741",
+        "mypy-boto3-braket-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_braket-1.15.11.0-py3-none-any.whl": [
+          "5ffa6ac664095c17b996ad6665f40f40d804907f96b5e81888f091206050b149",
           "py3"
         ]
       }

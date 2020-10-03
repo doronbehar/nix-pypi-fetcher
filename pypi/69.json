@@ -1854,6 +1854,18 @@
     }
   },
   "apache-airflow-backport-providers-cloudant": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "cba833cb0cfa5c7eb023f078c29d8f71bb3d38089f6a4406a3e28e97e395bf86",
+        "apache-airflow-backport-providers-cloudant-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_cloudant-2020.10.5rc1-py3-none-any.whl": [
+          "0003fd727a3c217e48923f8ed0a29980f1c3ffda318d115e7de241784d170fcc",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "96ba0f0efd6ceeea52757c01a2138a24440a580fee584673570905d5a0b6f559",
@@ -1916,6 +1928,18 @@
     }
   },
   "apache-airflow-backport-providers-zendesk": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "5f09cfa77fadf0b8e672c24365f9b7f4473ac2919b8966c4002c6927113cb121",
+        "apache-airflow-backport-providers-zendesk-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_zendesk-2020.10.5rc1-py3-none-any.whl": [
+          "e717ca7a6fbeb97520c9a181c03bc8acd2bec857d9ecc8cd2e6a36a809ff5ae6",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "557cf7752a2c8bcff039b30a2d6710382f3efdc87d28629c085e3f9f14208222",
@@ -5089,6 +5113,18 @@
         "40088edc8750300417067325f98b0ce0f2a9e3e82896ac947d7be636338673a2",
         "bidskit-2019.8.16.tar.gz"
       ]
+    },
+    "2020.8.1": {
+      "sdist": [
+        "caf567da2de20cac18688b7e24b94ef402fa045a5889d817607d85c2c5b46665",
+        "bidskit-2020.8.1.tar.gz"
+      ],
+      "wheels": {
+        "bidskit-2020.8.1-py3-none-any.whl": [
+          "93ad9dcc0edd2444661e94b12d34269a7118af29df177cd0beb8a898f97b2b4e",
+          "py3"
+        ]
+      }
     }
   },
   "binaryplist": {
@@ -12316,6 +12352,30 @@
         ]
       }
     },
+    "0.9.13": {
+      "sdist": [
+        "5950376cc43a250845c96fde2d0b5aa034927803e883103124462c25a5679a68",
+        "dagster-celery-0.9.13.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery-0.9.13-py3-none-any.whl": [
+          "8cdd96c712f8c705da5c36cf7fdab9b1010626f4c0aeb0ac02f98728064c7959",
+          "py3"
+        ]
+      }
+    },
+    "0.9.13rc0": {
+      "sdist": [
+        "e6afc9c9284b8cb310f2abd066f2ddc10a76233134a5cc2c78ea1ef647c50f41",
+        "dagster-celery-0.9.13rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_celery-0.9.13rc0-py3-none-any.whl": [
+          "e1aae1ff979ec61c3fc04e282c03328e6702a6e998fe42df6560a8a1ba0895df",
+          "py3"
+        ]
+      }
+    },
     "0.9.1rc0": {
       "sdist": [
         "dae1b4f1e7771efaf7a30d3c887fcc81c0a495c6ae6b26bac4d6a27c73a61a69",
@@ -16871,6 +16931,20 @@
         "5b1299baeb6d2cec5929a402281621afe419211d0cf2e84aa47a13b56c42c02d",
         "django_json_tools-1.0.0.tar.gz"
       ]
+    }
+  },
+  "django-ldaporm": {
+    "1.0.0": {
+      "sdist": [
+        "6b7759e65c709d1d7843401520d8c30087f0b9e187c6fd48e623fee7241f1434",
+        "django-ldaporm-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_ldaporm-1.0.0-py2.py3-none-any.whl": [
+          "e32d67efbc6e71aba9cbc7b7330b6ad09643e091eeb1c3dbd4a1b481001d7f52",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-lfstheme": {
@@ -32451,6 +32525,32 @@
       ]
     }
   },
+  "itly-plugin-segment": {
+    "0.1.5": {
+      "sdist": [
+        "1ff975748778d0af2e393b6da514ffc08f6a42928738757bb8cae6d12a5f4187",
+        "itly.plugin-segment-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "itly.plugin_segment-0.1.5-py3-none-any.whl": [
+          "32367282215e38bab04af03f79507f4c4b5d86f75ff52af4b74bcffc0d961a96",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "e4327bcf3a11d3f34a241b4837825dfd662798b1ecfb732fc460e0c210a8f5f2",
+        "itly-plugin-segment-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "itly_plugin_segment-0.1.7-py3-none-any.whl": [
+          "fefe2d6037f06bea3ca5e1333f121c3eb8971739b986c706e12177648b954a17",
+          "py3"
+        ]
+      }
+    }
+  },
   "j2render": {
     "1.0.0": {
       "sdist": [
@@ -32496,6 +32596,20 @@
       "wheels": {
         "jd_union-18.12.8.18-py3-none-any.whl": [
           "78308790aec96243a1c0670f1194c4b4c11cde31a1a03f4b1c7bdfa2b5165afa",
+          "py3"
+        ]
+      }
+    }
+  },
+  "jedi-xlsx": {
+    "0.1.0": {
+      "sdist": [
+        "20348c8b5891055bc733870ac0549d49f0209c338423fa613b708ff36d2d0ade",
+        "jedi_xlsx-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "jedi_xlsx-0.1.0-py3-none-any.whl": [
+          "bbf9401002b7b6f04b74db76a57077ae674d1ea975307d2db77781189325d848",
           "py3"
         ]
       }
@@ -35340,6 +35454,12 @@
         "large-image-source-pil-1.2.1.dev47.tar.gz"
       ]
     },
+    "1.2.1.dev48": {
+      "sdist": [
+        "704fe48eaaa5e5dc89dabbfc40afbd157ccbaf3de17ea4ed3e1d93cac6929e75",
+        "large-image-source-pil-1.2.1.dev48.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "8bf65d3d6dd3e6deb5415ed122aa3dcd36a3eb743c4606618cb963de879d4759",
@@ -35350,6 +35470,12 @@
       "sdist": [
         "4153a9f8b38af654d0fe4db4507c322d640d6f6e60eb3bcde7d29d9b075854b0",
         "large-image-source-pil-1.2.1.dev8.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "9f974857fe49024343cc23d48614aa799a33f96ade2ae694b76c842a179239bd",
+        "large-image-source-pil-1.3.0.tar.gz"
       ]
     }
   },
@@ -36092,6 +36218,12 @@
         "large-image-source-tiff-1.2.1.dev47.tar.gz"
       ]
     },
+    "1.2.1.dev48": {
+      "sdist": [
+        "a81c50fa133f6aea3e8c6f3d26d760036290ee53e51347156195c3c66433b053",
+        "large-image-source-tiff-1.2.1.dev48.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "91a364ab80f813d9655a0dafb5acc63f03090eb5506c4daea32b2ecc3a87176e",
@@ -36102,6 +36234,12 @@
       "sdist": [
         "96a0e5c29854aff8a5b741542e434dcb6bfae9b17aee37313b00d798eb42a5c9",
         "large-image-source-tiff-1.2.1.dev8.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "5499229f2fc58e7f3f0bfc297af4459425ab2603aea864e721ba0e14d6b40b1b",
+        "large-image-source-tiff-1.3.0.tar.gz"
       ]
     }
   },
@@ -48855,6 +48993,20 @@
       }
     }
   },
+  "pyaxo-ng": {
+    "1.0.1": {
+      "sdist": [
+        "d064b2a0175dbf094b92c9d238405b2e6cb47e3081e49e80c7ec1d790c09ae34",
+        "pyaxo_ng-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyaxo_ng-1.0.1-py3-none-any.whl": [
+          "c152666064f023d1f401546469fb7b875ef765ddd8675c5ff54adbe6f6f59fe6",
+          "py3"
+        ]
+      }
+    }
+  },
   "pybarycuda": {
     "1.0.0": {
       "sdist": [
@@ -58312,6 +58464,18 @@
       "wheels": {
         "sgscrape-0.0.1-py3-none-any.whl": [
           "8f90a7eae5dc3d60138b0429fe85f12a8603b4d6c4f7b5e1ee617804358ba72e",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "cba3d6208e2c6ade9201fba7f1c6add0c7903e11a122114f35d2fa2ddd2e6bfe",
+        "sgscrape-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sgscrape-0.0.2-py3-none-any.whl": [
+          "ce372428197299dbd4ac63ddf387d4fc052396290bae8e131a3afd4048e4ec8f",
           "py3"
         ]
       }

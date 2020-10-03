@@ -31548,6 +31548,12 @@
         "large-image-1.2.1.dev47.tar.gz"
       ]
     },
+    "1.2.1.dev48": {
+      "sdist": [
+        "9734eddce4bb860494b6ce2a8608ef0901e57c4c3a86370f07dac85e6d888865",
+        "large-image-1.2.1.dev48.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "b4c10135071a199a9746533232bba7a6bae755d181022ba879d4af6b46e02f3d",
@@ -31558,6 +31564,12 @@
       "sdist": [
         "ade956439613a88938c620b21082850fd20dfab06fd54f8f699b127adb370ed0",
         "large-image-1.2.1.dev8.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "d50be21c05fa93b2d136a502c2b9a101886798ea68d68c031836338ec243fa4e",
+        "large-image-1.3.0.tar.gz"
       ]
     }
   },
@@ -39108,6 +39120,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "48c13cd14bcf29e90f89a24fde3ea747ca1c2352002a9f726a683b37053f55f2",
+        "mypy-boto3-clouddirectory-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_clouddirectory-1.15.11.0-py3-none-any.whl": [
+          "d62dbf149a71861083a78b451fda45be496f4dc8330948959526b4dc0f6b7b11",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "f5e885026e7578dede0ff39120bc51f951f8a3f7b0a1f25ea076f55832d9a25b",
@@ -41282,6 +41306,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "4f405b2473a7ec9768fb4d723bbf9b7051e67ae5335fb13bad35fbeec2f7e069",
+        "mypy-boto3-mgh-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mgh-1.15.11.0-py3-none-any.whl": [
+          "26362d0bf262fe091042f72b59e03813f46d66154a0d15ccc7fb466d13db1825",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "bdab35d9335f6246144f17aa0a8173d7e4d6f022f3401c76a0612bc41b93ade4",
@@ -43452,6 +43488,18 @@
       "wheels": {
         "mypy_boto3_mobile-1.15.10.0-py3-none-any.whl": [
           "fc5b7f21a5b3ec94fca44b73e037acb0271133df8bcd87bc7f4ef6cceb72a0ec",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "19ed4c7ef0875bd15414e3c31e128ef083cfe8f007ef8dc93cae85f6c553c54e",
+        "mypy-boto3-mobile-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mobile-1.15.11.0-py3-none-any.whl": [
+          "af09b27e69a3336641c5c0a5dc100baece2fa50f43d3590290a3d9a72f148b0b",
           "py3"
         ]
       }
@@ -52870,6 +52918,66 @@
         ],
         "pyboy-1.2.1-cp38-cp38-manylinux2010_x86_64.whl": [
           "49b94ddc080b69875787484b820a1622c1c9fb0d952f5102077864a12d54a985",
+          "cp38"
+        ]
+      }
+    },
+    "1.2.3": {
+      "sdist": [
+        "76f64b71db430c7a5d21891384408b04579b9f09143f29781b5f1ff887067a6e",
+        "pyboy-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pyboy-1.2.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "eb59b132a297d3067fe712657530677e124e608e3252e0c3e2d95e04124297f0",
+          "cp36"
+        ],
+        "pyboy-1.2.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "d38b23d0379d84f7144d8a4b45c9be30c1e50a522651ef042c977c8a00b4e858",
+          "cp36"
+        ],
+        "pyboy-1.2.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ae8a7487d0de04086f5af46835351796f288a0ebab9359b358a02f86cd3baf05",
+          "cp36"
+        ],
+        "pyboy-1.2.3-cp36-cp36m-win32.whl": [
+          "993a008c728c14f7ce4073d13c34edc33d4dd21c0fa98b1dda5e3c30dfb949c0",
+          "cp36"
+        ],
+        "pyboy-1.2.3-cp36-cp36m-win_amd64.whl": [
+          "2c036bf1b1aab497202cd4f3b9647975f3bcb50072d628706d349c21e6fde16a",
+          "cp36"
+        ],
+        "pyboy-1.2.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "b8f35fd820117357ba4e0e059833b2ca7f3bc548c478b79336a2e9c9d06e562b",
+          "cp37"
+        ],
+        "pyboy-1.2.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "76d80d3027469dce80be50af7722e539bfd7ba544e0da6314a440277c2cce768",
+          "cp37"
+        ],
+        "pyboy-1.2.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ddbd2a5a6a24e5d103e6212aaaa4f807d6ea18b975e2b96ea9ff25fffdb60b0a",
+          "cp37"
+        ],
+        "pyboy-1.2.3-cp37-cp37m-win32.whl": [
+          "86d8cde644f6c5ea87d56620368010e38dfa6bfccc7c39f8136962edbbabb6cf",
+          "cp37"
+        ],
+        "pyboy-1.2.3-cp37-cp37m-win_amd64.whl": [
+          "aa239a8f451ed25eb7b9ca77dc29740d910b8bb0058f3739b5e7c1e2ed28d4c7",
+          "cp37"
+        ],
+        "pyboy-1.2.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "210a8e56e99ff487ae8cebdeb5cd9ba1bf658c3ea72472fb2a67c2459d41acfa",
+          "cp38"
+        ],
+        "pyboy-1.2.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "8532244dfb2d2d9a0e3f6aa4e188aaecabcb1a8fc5cf1d0b6be225a2120c08f1",
+          "cp38"
+        ],
+        "pyboy-1.2.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "8ad4347051fd82569c7651b14eee991f1f25715037d192b4d8081310536f0c82",
           "cp38"
         ]
       }
@@ -67962,6 +68070,44 @@
       "wheels": {
         "uncertainty-0.1.1-py3-none-any.whl": [
           "842ec2b6ab3dca51e54f7d60b8b98f21062dcb39ac5210eeeb8bf71f604b6e93",
+          "py3"
+        ]
+      }
+    }
+  },
+  "unibuddy-versioning-service-python-sdk": {
+    "1.0.0": {
+      "sdist": [
+        "3d3af137d8d664f8545b0b9c96b7b03231f2945897adcf9a1f8419a45c234ead",
+        "unibuddy-versioning-service-python-sdk-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "unibuddy_versioning_service_python_sdk-1.0.0-py3-none-any.whl": [
+          "6a09bfbb6f1ce3b6532948642ca3557f27f3015e9fcb00328d4600c52f06036b",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "c5c1e16c9e4b3bfd869fa754653fe2205a1791ea26d6f61da0f92740086be51e",
+        "unibuddy-versioning-service-python-sdk-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "unibuddy_versioning_service_python_sdk-1.0.1-py3-none-any.whl": [
+          "ef6a94ff59bf88ab8507317338c8bf8ceb5489c4a1a5cc0f7828b0f964524d02",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "4d0d61244a9f9906d782c1e13fe0f7d0c73841012e8091eca610a5137fed2f6f",
+        "unibuddy-versioning-service-python-sdk-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "unibuddy_versioning_service_python_sdk-1.0.2-py3-none-any.whl": [
+          "083609e7b0348a423eba8df512263953f45426f84be16e3fe54553e63cd85db2",
           "py3"
         ]
       }

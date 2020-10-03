@@ -251,6 +251,24 @@
         "3d69564506b69dc56d36c438724efab96d40e6dd7f18d2f00983aa0dff65dc1c",
         "AdvancedConsole-1.5.tar.gz"
       ]
+    },
+    "1.6": {
+      "sdist": [
+        "36dde682c557c6ad1f81a06337547c8f5ac673228250ed02817011b2a5d96433",
+        "AdvancedConsole-1.6.tar.gz"
+      ]
+    },
+    "1.7": {
+      "sdist": [
+        "3d4a509c2106c589359bc704863648e74e916c1af303c2af818ee09e9c9c574f",
+        "AdvancedConsole-1.7.tar.gz"
+      ],
+      "wheels": {
+        "AdvancedConsole-1.7-py3-none-any.whl": [
+          "65218229579aed441e53245b9074140585585cb72f140672c141236616506d46",
+          "py3"
+        ]
+      }
     }
   },
   "adventure": {
@@ -1386,6 +1404,18 @@
       "wheels": {
         "ammolite-0.4.0-py3-none-any.whl": [
           "eadd4a818fe69f66e3cd5f5900ed0dba38ef2b424596744e156e038675951a6a",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "aa9435cd4fec040f8372e6ece790f6f231f42f7706d723b19b70320d7b03a0b8",
+        "ammolite-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "ammolite-0.4.1-py3-none-any.whl": [
+          "e5c5d732da1d8f8a5e8285744726f70bc67d3cfaaa682e99fc7913b88b7ff8d9",
           "py3"
         ]
       }
@@ -7810,6 +7840,12 @@
       "sdist": [
         "c542900e1c434ebb7ef746221b225c4c68c802afd4a95c648139101c75fe4816",
         "bob.db.kboc16-2.1.4.zip"
+      ]
+    },
+    "2.1.5": {
+      "sdist": [
+        "ca966c40dcda28aae2486dd3f0b465b7c9e7e7ce26751e2743af80f9013edeba",
+        "bob.db.kboc16-2.1.5.zip"
       ]
     }
   },
@@ -27862,6 +27898,18 @@
       "wheels": {
         "isc_py_common-0.0.239-py3-none-any.whl": [
           "97cacb6361cb32acd702828d270999bde1cff4734f9ee297dbcefee11575d083",
+          "py3"
+        ]
+      }
+    },
+    "0.0.240": {
+      "sdist": [
+        "940b78a6ee7bdd8652be798ed3eff9952f54a1fc74e52d9099bad6842f530498",
+        "isc-py-common-0.0.240.tar.gz"
+      ],
+      "wheels": {
+        "isc_py_common-0.0.240-py3-none-any.whl": [
+          "bff88dba72eaa7cf74c017fbe972d7bb77a214dfa40ead734c2a55f58f4c0bab",
           "py3"
         ]
       }
@@ -50868,6 +50916,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "928873a6dd5f2ac93b58f9c5ef1ac07dd93bb4207ff8fc34b19da4ed17f3abe5",
+        "mypy-boto3-comprehendmedical-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehendmedical-1.15.11.0-py3-none-any.whl": [
+          "40d26a142cbaa776a8f004c5f1e98711e88bac0ea5330e2dc011fbcd391f6238",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "6981bfd209a89a5553ddf22d713fe9b3085a3eea4d8b5004a5cd863a66f6b307",
@@ -53050,6 +53110,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "e981d3bc05a32aa7f44d9a7a88b1df984da74d37ab3ae3d7fd4dee0e6e7ef74d",
+        "mypy-boto3-dlm-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dlm-1.15.11.0-py3-none-any.whl": [
+          "5055f2cb4a35ceae76f66e5b2d59fd2f2f186bfeb013e168191f30ef411fd42a",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "838c3d460031c900cd0061a9f960bc03c6531edced79fc6574cd59f6bc7cf75e",
@@ -55220,6 +55292,18 @@
       "wheels": {
         "mypy_boto3_kinesisvideo-1.15.10.0-py3-none-any.whl": [
           "632748b7c36c04e69bd2d297b11ce6971e414df47754f407329548a72c0144c1",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "642710f331a58dcd99d6687bb5120c6e6e0408dd14e11ff538bb67bed136f1b3",
+        "mypy-boto3-kinesisvideo-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesisvideo-1.15.11.0-py3-none-any.whl": [
+          "09d9ce5fe1ca38ec933e00ded0f76634c2c40abd535ca47058b30c07aa641a2c",
           "py3"
         ]
       }
@@ -84887,6 +84971,94 @@
           "cp38"
         ]
       }
+    },
+    "0.2.1": {
+      "wheels": {
+        "warpctc_pytorch-0.2.1+torch11.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "6258d32bf644aba5c428a9f06c8564ca6399fca91d53a1d8361d6bf4154862a8",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch11.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "14565bf04e534db59d897f7db225fbb488024d47b979f7da728746c35c26969a",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch11.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4c95ed53de65d0ee8eb0c78635680313d7d7f8e81aa5b5d0c62e13865f7dc3d0",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch12.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b9f63befaba6dbdf5f886e7df2ce4dc5f45997562d680c6c2ec05256d8388b4d",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch12.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "4dae979450bba1fdf5ab5769131d5986ea7a8c827d689b5a47e78a9d3c0b5190",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch12.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "0bcdfc9cc2edddd120e170dad3efc4da1753b7de38102337c25364af0d544cc9",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch13.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "37082024aebbe87ad1ca5c7970c7a1aadd7b973aa4d6e89d494716f7f3742949",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch13.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b9884167503a5b4704f65da482ded528e270b624b88b9376ee5dd5c4c73b3964",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch13.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "d128d5827288c81449e279bf49b4bec1bad57f6da9db6685e062e9a14a72f900",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch14.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0aaa247b66ad075add233472363798d74b8954a6adf169c696cee2fd21e59039",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch14.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7342ac0c2a269d8f4ae29a47c073f3cc39c2bb58101be6f05a18d62f12b5a78c",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch14.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "21dfe764bb8411a80326f808fc4e7468162d2a30f3a317d46a7aa33c02785952",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch14.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "0590bf1012486a0dce41892c32d34daf46df36eec08952168d8c4da6bbf637e4",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.1+torch15.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "2b398e0e34f9dc610e8595ebe5dd605d70c96456ebb0e29920e526a06c0e5436",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch15.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "10ddb06c6530832b7fc465aab51079e3bbe54a6f1e238b67cd527ebb7f6e7ce9",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch15.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "050ca3f7ae88a8dae84ef0e898f6c16617b8c0611f37999ec2ad783ae9fee867",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch15.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "d103a125e5f13fb8b3c0ba076bb578891ca60ec37e589265ea6b4bc7a9eb73a9",
+          "cp38"
+        ],
+        "warpctc_pytorch-0.2.1+torch16.cuda100-cp36-cp36m-manylinux1_x86_64.whl": [
+          "23511c0794dcac64b31d17bcc7bedef2dda3711c0f742f5ac6f9f88075e3e7a9",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch16.cuda92-cp36-cp36m-manylinux1_x86_64.whl": [
+          "69805561647009fd3d7563680abae6104763d0fc70114e6a1331038ce827bd0d",
+          "cp36"
+        ],
+        "warpctc_pytorch-0.2.1+torch16.cuda92-cp37-cp37m-manylinux1_x86_64.whl": [
+          "255e7d78d197515767bcfd1d3c8eb2fd4f896bae45d30814aa2ce29563ee560f",
+          "cp37"
+        ],
+        "warpctc_pytorch-0.2.1+torch16.cuda92-cp38-cp38-manylinux1_x86_64.whl": [
+          "b374b62a504f6c7d544b28a6b5eed3825bce12e86c1c0676746479a4729c181f",
+          "cp38"
+        ]
+      }
     }
   },
   "wash": {
@@ -86782,6 +86954,18 @@
         ],
         "xortool-0.99-py3-none-any.whl": [
           "c708fb502a82b0b94143eed6c2a1c3b79f4de07593dff18ede55de1f6cb687fe",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "a93d3e8a7d99c3c7b9cefde03215d27bf5a1d95e474b21dbcc9cf1d3865e9428",
+        "xortool-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "xortool-1.0.0-py3-none-any.whl": [
+          "45793072718f0693db03848f83e86c24f3954fb9a69b79729441f81e253e1671",
           "py3"
         ]
       }

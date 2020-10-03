@@ -2356,6 +2356,18 @@
     }
   },
   "apache-airflow-backport-providers-dingding": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "98da75e0d72eeaef62b34f63711e9aa13667b6c4c6e6a167ffb6dd74f4bc2e19",
+        "apache-airflow-backport-providers-dingding-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_dingding-2020.10.5rc1-py3-none-any.whl": [
+          "3599713ac51cc723e88c09b3bba87ab5e9e2c07d8523984c5846f8f37b9fe0bb",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "b4f0e4cdfae1ef0e83f3d579bacf14d3928899822f8eaab65a3a079783cec308",
@@ -5898,6 +5910,18 @@
       "wheels": {
         "aws_cdk.aws_iotanalytics-1.65.0-py3-none-any.whl": [
           "c170ffb828fe3d27a43f4ab4d869681fde51f47cdd4db4b820f1bd048556fd92",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "e88af6b3d89590b874906acd9a3f372c2e44b8ec71ad6633c48d956cee3a96e9",
+        "aws-cdk.aws-iotanalytics-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iotanalytics-1.66.0-py3-none-any.whl": [
+          "f35b9ee999c59f441854be445419092163aa118df64e8215371c01ada707605d",
           "py3"
         ]
       }
@@ -11353,6 +11377,12 @@
         "9bbb7ff6b1328d013908c87bae486a0ad9fdf34f5895ad59b1a3517774e6232f",
         "cribbage-1.0.1.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "bd779a14f4d3546e41dd6027c3941a687263bfd624579ed49486f405472f6d93",
+        "cribbage-1.1.0.tar.gz"
+      ]
     }
   },
   "crypto-notify": {
@@ -12038,6 +12068,30 @@
         ],
         "cysystemd-1.4.1-cp38-cp38-manylinux2014_x86_64.whl": [
           "18bc5218b5c769228ebc1f323ed9a7a694b990f1601ddcbc2f25a9e30a064646",
+          "cp38"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "8f5954842177e50cddc69844fcedf31205ef9e528bcd87c2e2cb5299efa2166c",
+        "cysystemd-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "cysystemd-1.4.2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "5d8a0a6ae9963a3da35e7fc5ae5185adbc93c2aae2363582d939add3625a4f7a",
+          "cp35"
+        ],
+        "cysystemd-1.4.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "da08fded44c7ef61e725229a8c1531e2743ea3840555506a09b40a2062b7a207",
+          "cp36"
+        ],
+        "cysystemd-1.4.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "2f3d262ad5f10b8a5acbe866c55c52acfaf722e53c95a0f1644d6238a02ed428",
+          "cp37"
+        ],
+        "cysystemd-1.4.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "e9a3457f4c4ee82f7ceb03df067ad4b187ee2434c4d78a34166e34c33dac2122",
           "cp38"
         ]
       }
@@ -24136,6 +24190,14 @@
       "wheels": {
         "genie.libs.clean-20.9-py3-none-any.whl": [
           "7d9569b2447d748af3a07bcbf4459385449ecd6158574a6330f5eaaed7a4f274",
+          "py3"
+        ]
+      }
+    },
+    "20.9.1": {
+      "wheels": {
+        "genie.libs.clean-20.9.1-py3-none-any.whl": [
+          "162ebbb891381bcaa280fdd2fbf7885f55fd74c71030b2c9a5e0d6957067e7d3",
           "py3"
         ]
       }
@@ -43331,6 +43393,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "9a51fd5bedbbae824c166f132a90e231294486884bc6a0f216245b40dfa28667",
+        "opener-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "opener-0.0.3-py3-none-any.whl": [
+          "c05f5cfd1ef8920a3a963d7710fc39709274963c66af39cf3047c2b0370d24a0",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "baaede37dd57bc8507f94acc55b12c3ad879d31d6e8c3c3ad2351f65ad4566b5",
+        "opener-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "opener-0.0.4-py3-none-any.whl": [
+          "df17ad69f3c990cc0fd6be1497465c5d449a641bc68b7f9feca4bdbe5dbc1bfe",
+          "py3"
+        ]
+      }
     }
   },
   "opentraveldata": {
@@ -48550,6 +48636,42 @@
       "wheels": {
         "pycolt-0.1.2-py2.py3-none-any.whl": [
           "eb5cd89d6ee0ac9a62c3d2aa3f30995719d42398b5fd39a464bfb6a6bbb806b5",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "cddca5807a350f2bb243a61b637e1abb7936e00a3796a895318bc562034e7b2a",
+        "pycolt-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pycolt-0.1.3-py2.py3-none-any.whl": [
+          "33cbbbc2f333af753916777294c4d03eb0cfe08de626e88093f2ffbf8c4940b4",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "9cd9cfd8f6064c992e2d180caf82c5b92dc720f14ab4b1506b6ca4f27e66928c",
+        "pycolt-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "pycolt-0.1.4-py2.py3-none-any.whl": [
+          "c96065ae8116211079f986ebc64baf723b63248c668ebf737732aac7a2acc439",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "5315140604e2e5879782aae131435252ec8536d0ac8399d84585e06ebe62ed37",
+        "pycolt-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "pycolt-0.1.5-py2.py3-none-any.whl": [
+          "53c53a467d1417dc56b4da3081f82c338ce749e483759441fa551fc697a8e7f2",
           "py2.py3"
         ]
       }
@@ -60261,6 +60383,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "test-bsobhani": {
+    "0.1": {
+      "sdist": [
+        "02c3453ce725519a8ca474db595f66a5fbdf23f1c968f257806c6c52cd9fbe96",
+        "test_bsobhani-0.1.tar.gz"
+      ]
     }
   },
   "text-cosine": {

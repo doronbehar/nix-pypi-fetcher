@@ -6180,6 +6180,18 @@
         ]
       }
     },
+    "1.66.0": {
+      "sdist": [
+        "0c3077a02a2cf9f1511df3248a27f7d01bc99981daa61da076b7c1c230a15ae2",
+        "aws-cdk.aws-backup-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_backup-1.66.0-py3-none-any.whl": [
+          "2197577e43d0e0594e95ca16a99f9d491054b20e0980aec0989ab6b3f3b8ecfb",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "f9cdb175cac879af23c412fa129fadfeeb7be4e333d0527e212f6dc46f2637e6",
@@ -7984,6 +7996,18 @@
       "sdist": [
         "f5be41442c399fb24dd9cef6a0d1ff283dc416d0acab64418964b30dd2b80a7f",
         "booksnake-0.2.2.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "f31a5a1ff57ed82a2877a410fa250298848c69872ac36e289aac4de5473f51be",
+        "booksnake-0.3.0.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "04366182217eddc581b9b3ab2ee9a43e0a2b40bcd23d2ed5b85dd54e16d2f84b",
+        "booksnake-0.3.1.tar.gz"
       ]
     }
   },
@@ -13910,6 +13934,30 @@
         ]
       }
     },
+    "0.9.13": {
+      "sdist": [
+        "84aa26b044c48a816d7b0d74e3a8acab433f9b73fe246e44036882c3cf609ba9",
+        "dagster-github-0.9.13.tar.gz"
+      ],
+      "wheels": {
+        "dagster_github-0.9.13-py3-none-any.whl": [
+          "d3ebc3dffd4a4c538c9f6f3ee09074a8d5f61896c51db510b986080aea3d2c7d",
+          "py3"
+        ]
+      }
+    },
+    "0.9.13rc0": {
+      "sdist": [
+        "c9f7c880399aa4b6531d16cabb65f9f9137d6c99cfa3a416131a8f06fbc0d669",
+        "dagster-github-0.9.13rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_github-0.9.13rc0-py3-none-any.whl": [
+          "6c360e0f382311c51fb977afb1c4314538b33d3782d1411c7c9c3815631cbe57",
+          "py3"
+        ]
+      }
+    },
     "0.9.1rc0": {
       "sdist": [
         "81e21839ee7430819170d5ecfeccc6949cbffcc73df662375dca63bb6aa1678e",
@@ -15151,86 +15199,6 @@
         "072cb40a797fc1696a1a5f340b5c72c0fa5787dfe63d99532dc4cc8c2ef9de9f",
         "depflow-0.0.7.tar.gz"
       ]
-    }
-  },
-  "devai": {
-    "0.0a1": {
-      "sdist": [
-        "432ce679092e9338d57b6e7cc6426d21176692c48b119dd77a3454a2296738d6",
-        "devai-0.0a1.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a1-py3-none-any.whl": [
-          "a2e6a8a6137550246bc7de6f86a29425ea8bf7849d767636beaf89a50291ef3f",
-          "py3"
-        ]
-      }
-    },
-    "0.0a2": {
-      "sdist": [
-        "f42084f1f6f6e286ca245683b928cfa3c981d1e5f79b4ce621fe60e7ec3eaa85",
-        "devai-0.0a2.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a2-py3-none-any.whl": [
-          "d07bed47298dedbf8fd9ada0ef79a88b8406f2097860b35caf6c52dfd79bcc36",
-          "py3"
-        ]
-      }
-    },
-    "0.0a3": {
-      "sdist": [
-        "6aa208bb09f029d2191020b30490ac7cfb7307679c045cc9cbf35a3cd12bb4b3",
-        "devai-0.0a3.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a3-py3-none-any.whl": [
-          "27ca2560fbfc920afba6b29ec8c001a8cbd89fb2de7259194a1adb1062d10b87",
-          "py3"
-        ]
-      }
-    },
-    "0.0a4": {
-      "sdist": [
-        "36cde0402d4e4263965c735a6f45f29655ec5f37b325664c6bca4900ebe58536",
-        "devai-0.0a4.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a4-py3-none-any.whl": [
-          "4ec47f0d4f6df1b72605723202566f4bdb0382cecbc1a9e2ffdd209202ff64f1",
-          "py3"
-        ]
-      }
-    },
-    "0.0a5": {
-      "sdist": [
-        "2ee9e44f97b2096a4def932db53849d84f893877d9ebe7ea32ef12e38f90fc65",
-        "devai-0.0a5.tar.gz"
-      ]
-    },
-    "0.0a6": {
-      "sdist": [
-        "1c0c8268754b272437b83993b0377e6da9d8d245ec1e55d143b7d4846f6069f5",
-        "devai-0.0a6.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a6-py3-none-any.whl": [
-          "028d6b6ab1004fb1aadba3827f497358f44912664b9e129f3ca14b2c9e5da616",
-          "py3"
-        ]
-      }
-    },
-    "0.0a7": {
-      "sdist": [
-        "697af0567cc486d7ba8aa4dfd94acf76138768b3a3fc8e9afb9a14dc8f539e2e",
-        "devai-0.0a7.tar.gz"
-      ],
-      "wheels": {
-        "devai-0.0a7-py3-none-any.whl": [
-          "31fa30b0866e815a14429aac868dcb7c322c178ce1939be1a0f4d6b5cd2d0738",
-          "py3"
-        ]
-      }
     }
   },
   "devgossip-praiseey": {
@@ -26532,10 +26500,22 @@
         "girder-jobs-3.1.2.tar.gz"
       ]
     },
+    "3.1.3.dev19": {
+      "sdist": [
+        "08ceb92c3b18f135a6c62afd95243c084514da03f4ca00745c8d558a3d647316",
+        "girder-jobs-3.1.3.dev19.tar.gz"
+      ]
+    },
     "3.1.3.dev2": {
       "sdist": [
         "5cf3d94e7430bdb31677652c1dcdf7b92e34cd9f34cd0d8c92fe6e72b71a52ba",
         "girder-jobs-3.1.3.dev2.tar.gz"
+      ]
+    },
+    "3.1.3.dev21": {
+      "sdist": [
+        "1cbbccde0defd5f65f232e35fb8c5d5b8be89830489813d56d587f8bc5a36b9a",
+        "girder-jobs-3.1.3.dev21.tar.gz"
       ]
     },
     "3.1.3.dev6": {
@@ -62222,6 +62202,12 @@
       "sdist": [
         "3049a0bb879f56510ee75b29c81d8e780f0681a7c3bb250d58ea5a8fa6fa65a0",
         "sqreen-1.24.0b2.tar.gz"
+      ]
+    },
+    "1.24.0b3": {
+      "sdist": [
+        "70e38a59a15f993bbb5a1ccc10cf912f8151872d9211aaa4dcc3e6ae9530a8ff",
+        "sqreen-1.24.0b3.tar.gz"
       ]
     },
     "1.3.0": {

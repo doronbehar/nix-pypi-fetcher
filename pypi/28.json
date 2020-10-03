@@ -2746,6 +2746,18 @@
     }
   },
   "apache-airflow-backport-providers-slack": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "1ca5d6ed39c1bd222ce10cc9bca75273fde738c1ff0668461e39cc4d4ed0d7b8",
+        "apache-airflow-backport-providers-slack-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_slack-2020.10.5rc1-py3-none-any.whl": [
+          "3012d82cfeb92b1da6c7acf9148c5cb350b8a4c0a77f303ac7ab9d5ce67f09c7",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "a06dee7b6b7aec0469554423047267ae5c7862f760aa3d9cdf56ac45e40212ce",
@@ -36548,6 +36560,12 @@
         "large-image-source-gdal-1.2.1.dev47.tar.gz"
       ]
     },
+    "1.2.1.dev48": {
+      "sdist": [
+        "0378176c25c96f18f21f18dbf62b4539e7e48dfa4a1c2a73b3f870185fcc0373",
+        "large-image-source-gdal-1.2.1.dev48.tar.gz"
+      ]
+    },
     "1.2.1.dev6": {
       "sdist": [
         "b709f2ed6aade576bff1a4dfc9054d7427f9b005dc765afa4750cd6fb739b41b",
@@ -36558,6 +36576,12 @@
       "sdist": [
         "bad5bd4dfe700b807759f7480e66b6ca046531342207c61c88aa212b86a988ab",
         "large-image-source-gdal-1.2.1.dev8.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "fa02e4e0d31cce60d8c40e517e7b9469abffa8aa779c313cae5a338f1dbd0ad6",
+        "large-image-source-gdal-1.3.0.tar.gz"
       ]
     }
   },
@@ -42608,6 +42632,18 @@
       "wheels": {
         "mypy_boto3_codepipeline-1.15.10.0-py3-none-any.whl": [
           "5b9acd0158775929726d31d3ae1095232e198aa8caebd4a3ca6f0929402b0f19",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "b2dab38b26200512be1da3789cee5e465e361db6ef493f205bac3529ba92def9",
+        "mypy-boto3-codepipeline-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codepipeline-1.15.11.0-py3-none-any.whl": [
+          "f1af5c696b04515254e0cd7ff5960f3953cec0fe4a099399ac2790647e02e2ed",
           "py3"
         ]
       }
@@ -54113,6 +54149,44 @@
       }
     }
   },
+  "pycln": {
+    "0.0.1a0": {
+      "sdist": [
+        "b0975f7720897cda5827b1e5504f2777b687c0c050edbe8ab862fd10a04c57d2",
+        "pycln-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "pycln-0.0.1a0-py3-none-any.whl": [
+          "e74b9c61e475c7e9fb9329a292a031536bdd4f39f40934318dd8228e5aff0a3b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a1": {
+      "sdist": [
+        "48a35ad0151e3b995a10a1c15f14e314c66cdf71cc431dcd8dbc506aab778a45",
+        "pycln-0.0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "pycln-0.0.1a1-py3-none-any.whl": [
+          "4bc70e8351d79dc9cdc4a8cf3c8a1a129cbd350f72c0a9531b6c6efc0cfb315c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1a2": {
+      "sdist": [
+        "4838dc37dcd0dd89ce0f0282da22f8db27796416038797cb40d99e0b81c20e61",
+        "pycln-0.0.1a2.tar.gz"
+      ],
+      "wheels": {
+        "pycln-0.0.1a2-py3-none-any.whl": [
+          "66f321b8e4fd228caca4507aa48aad9eebd98d04d580a213c705bd55fac1f540",
+          "py3"
+        ]
+      }
+    }
+  },
   "pycond": {
     "190427": {
       "sdist": [
@@ -63341,6 +63415,20 @@
         "80f0b6b573cccd820ff3a7de4fed4f2ae676a64532336b5ccf34221e1cda9f30",
         "sanajeh-0.8.tar.gz"
       ]
+    }
+  },
+  "sapextractor": {
+    "0.0.1": {
+      "sdist": [
+        "f5f171cbe1e1e4cfeda96dbd11c15cc592abbf38704b4a274330f3ffaeadb724",
+        "sapextractor-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sapextractor-0.0.1-py3-none-any.whl": [
+          "5c369dd959f4d6de35edb6ec29f3426025ce2b683b160e82508b694c521ebedb",
+          "py3"
+        ]
+      }
     }
   },
   "sbe": {

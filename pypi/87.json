@@ -940,6 +940,18 @@
     }
   },
   "apache-airflow-backport-providers-redis": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "c2f657f6999a537f9594d459df30abd260afad59e95cc6efde2c3993567f0767",
+        "apache-airflow-backport-providers-redis-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_redis-2020.10.5rc1-py3-none-any.whl": [
+          "af190f5b59437c50d648d1ee8111d81baa4a83fd8129807f6ca5940f8bde5371",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "8a05dd148e9bbe358d1482c3e481a3f9b58906bb9686956e3b3718942854e125",
@@ -4144,6 +4156,18 @@
       "wheels": {
         "aws_cdk.aws_glue-1.65.0-py3-none-any.whl": [
           "cb2b4fe7e67ce48dbbf3a0b6bef5f00663787b77ec3c1301f0277dc48a8f4f90",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "a65e163dcec6c1a75ded8952ee8d8701267e04aab86f06ffad3cfd62e3faf2f8",
+        "aws-cdk.aws-glue-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_glue-1.66.0-py3-none-any.whl": [
+          "33530aa1b2da289c99d013e98873fd09c4355de52cdc7c03b110ffcbbfc7bce5",
           "py3"
         ]
       }
@@ -19360,6 +19384,22 @@
         ]
       }
     },
+    "0.1.41": {
+      "wheels": {
+        "edc_model-0.1.41-py3-none-any.whl": [
+          "8e92e0d9b5fbb7954d5f51244ca49fe6050e80a4a6ed9050a89f930371580b91",
+          "py3"
+        ]
+      }
+    },
+    "0.1.42": {
+      "wheels": {
+        "edc_model-0.1.42-py3-none-any.whl": [
+          "443bbeaa9524fa2aef33c3dc1a65506eddb24cc59ab20ce636b6dfe1196a63df",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "wheels": {
         "edc_model-0.1.5-py3-none-any.whl": [
@@ -25140,6 +25180,78 @@
       "wheels": {
         "graia_application_mirai-0.1.9-py3-none-any.whl": [
           "4049846fa7b326d1ec8a65286c5ae221255771e8536ac9da070a0c33eed034ce",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0": {
+      "sdist": [
+        "60cca28a63922a427e1a64211053a610dfc0b7a1496675a584aaadaea07618cf",
+        "graia-application-mirai-0.10.0.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.0-py3-none-any.whl": [
+          "da6e9035c6f019c5a7ee3165f33f6bec999a81979618aa9c2ad2cdd9abcfb10e",
+          "py3"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "99ec939b4dfff6c1f28ccab1600580973744d7d658d6face1e9fd4e0d01f8f5e",
+        "graia-application-mirai-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.1-py3-none-any.whl": [
+          "3ad98399f9f2edc517098fbad8988df19f286ba31f15f637132787b6ff81d332",
+          "py3"
+        ]
+      }
+    },
+    "0.10.2": {
+      "sdist": [
+        "80d7a830d87c9e1ec43dbe364939a9e00c339ec3f5cd80b46ba1f4625448158a",
+        "graia-application-mirai-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.2-py3-none-any.whl": [
+          "b1726efa3e0d2290ceeca0c3ca179c5c69008a6ae859983010b62f8b899725dd",
+          "py3"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "b6faa04953687255c8e0e96343a99e0c66f71f798ca13d235159f767ff5952f7",
+        "graia-application-mirai-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.3-py3-none-any.whl": [
+          "d0a6268734f40a0b16403f9ff7d231612ca56c3e8984eafb0b105fd8da4652f2",
+          "py3"
+        ]
+      }
+    },
+    "0.10.4": {
+      "sdist": [
+        "f4f9c165c0a62e111d91dbeaf50b6b60287d44f2830d5fe5e49dd6e425149b72",
+        "graia-application-mirai-0.10.4.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.4-py3-none-any.whl": [
+          "c3c0117ae482c306f69703c8462d588d17777f81e7073610350cf6099d657c00",
+          "py3"
+        ]
+      }
+    },
+    "0.10.5": {
+      "sdist": [
+        "1ab8fba3083414c96304e564b0ba2816d06669d237afc53681a5c09804e500f6",
+        "graia-application-mirai-0.10.5.tar.gz"
+      ],
+      "wheels": {
+        "graia_application_mirai-0.10.5-py3-none-any.whl": [
+          "43722830f8d6855d0e99bfd917a8b7c895016a403280a5cb839e7ccee5b49723",
           "py3"
         ]
       }
@@ -41294,6 +41406,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "b6aa17dd437c49fbd2e97e80b4fea6263c04abe75d94b1a766f2aa0dfb2a49e0",
+        "mypy-boto3-compute-optimizer-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_compute_optimizer-1.15.11.0-py3-none-any.whl": [
+          "90490850642292c4952c71d04b4fe8afe9a5b3284af7f7686336c229ac55b593",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "1ddf031876376af7b590f951fa4ca90d109e9de3b0eeef263b9a3a03f9272169",
@@ -43464,6 +43588,18 @@
       "wheels": {
         "mypy_boto3_medialive-1.15.10.0-py3-none-any.whl": [
           "90ce8bd9e7f10bbf734a9f5a961ac8422d171a2870c55ed06efd92156e610ffc",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "d3679c9fc0c1ecf576f30499dc807e175464a8cd15aab878646017b7eecf3967",
+        "mypy-boto3-medialive-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_medialive-1.15.11.0-py3-none-any.whl": [
+          "6f9cc6b57dfbdf64f44b63793309a4f1178a0dea16076d635a6569e08312d430",
           "py3"
         ]
       }
@@ -45646,6 +45782,18 @@
       "wheels": {
         "mypy_boto3_robomaker-1.15.10.0-py3-none-any.whl": [
           "15ff1ee47b63036f1f484e03c1ce0905a7d20fe5dc86bfcb3fa269838dbc70ea",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "38f400d23f9e0969b2c1a9360a23ebf286840dde5053c0ecce51976183468113",
+        "mypy-boto3-robomaker-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_robomaker-1.15.11.0-py3-none-any.whl": [
+          "3c569f4f410eefe8aab49dd7bbd65eab0af205e2cff49db4eab33c52ceb85dc5",
           "py3"
         ]
       }
@@ -68053,6 +68201,12 @@
           "py3"
         ]
       }
+    },
+    "0.1.16a0": {
+      "sdist": [
+        "9349bd35a845763784bc6059b5702ac13ac1c778a9a8e8a30088cc9fb5435fec",
+        "slicednormals-0.1.16a0.tar.gz"
+      ]
     },
     "0.1.6a0": {
       "sdist": [

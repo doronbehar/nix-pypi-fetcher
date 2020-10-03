@@ -1064,6 +1064,18 @@
     }
   },
   "apache-airflow-backport-providers-opsgenie": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "f04822ec8ad1dec3ee8c393e5f1e5a65d2c6dd9df07f91ba37c3037b0d20e117",
+        "apache-airflow-backport-providers-opsgenie-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_opsgenie-2020.10.5rc1-py3-none-any.whl": [
+          "aed804dadc3633630e49231833e6ec67c67969807d0898895d8fb5dfdfa6e601",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "d578d501fa3ba6372a8af5a36493593f7b7f608e9d9bc3e960f8dfe5bdbf68a8",
@@ -1294,6 +1306,18 @@
       "wheels": {
         "ArgConfigParse-0.2.6-py3-none-any.whl": [
           "e14ef6ebc7abeca4ff738c01e6b3a5b1dd9ea55ec3f6c84af7f62bda32592c1a",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "e99420af4c81a4722a4e0f33d93c6182a192b4b357263bd857bacbfbee8c1b7d",
+        "ArgConfigParse-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "ArgConfigParse-0.2.7-py3-none-any.whl": [
+          "fb8dccb93f08b1f86461ed472115d94068b900cc7560d6efb6ddd3415f3d84be",
           "py3"
         ]
       }
@@ -3520,6 +3544,18 @@
         ]
       }
     },
+    "1.66.0": {
+      "sdist": [
+        "4f75715d02edea413be571c7d71a7c77c488c4410534c515c383f0ac31ef2ef3",
+        "aws-cdk.aws-amazonmq-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amazonmq-1.66.0-py3-none-any.whl": [
+          "176c8662bd12454be0dd18cef27226608c6f8bddfd5ca10d7527dccee2e0b11a",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "57d872b910df59040036c89a6650c5c59b400b40cdbc80bd857ceb5682d224ea",
@@ -4718,6 +4754,18 @@
       "wheels": {
         "aws_cdk.aws_ecr-1.65.0-py3-none-any.whl": [
           "b3203ca4e6441c21335f9ee1e6131a1af43606c7c251855e021b1130dda3e62d",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "f82547a3f4b7e6496e3501b2f5f7d0fde5a11084750eb9c47934bc5108debcef",
+        "aws-cdk.aws-ecr-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecr-1.66.0-py3-none-any.whl": [
+          "a90ae4d85c25a3ac6a26f0598c164b698ee5d268042f8f0597c3d89fe28cf2e6",
           "py3"
         ]
       }
@@ -20243,6 +20291,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "a15dc42ef1d72608813071dd88e0557e802d5c18f22ded45b3231ab8afea3afb",
+        "fastapi_rfc7807-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_rfc7807-0.2.0-py2.py3-none-any.whl": [
+          "a4c92569cd4f7c936a37f45470dee38cb9021d661ea6ae6748e23dc7dbdd40af",
+          "py2.py3"
+        ]
+      }
     }
   },
   "fastly-cli": {
@@ -22278,17 +22338,37 @@
           "0663f15613a02cd01ca84c30bc60f04a9c16402b9febd33cc5626ab2d58f1076",
           "cp35"
         ],
+        "gam_g4-0.0.4-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "3210e5c5a99f66cb7d9adf8a42087df4c7c4d9f0f75884abc2704a486080a57a",
+          "cp35"
+        ],
         "gam_g4-0.0.4-cp36-cp36m-macosx_10_15_x86_64.whl": [
           "0fb1cb59f6bff0f8a12576d8d043dd132df40bbb866b44a3b4209419aed163e4",
+          "cp36"
+        ],
+        "gam_g4-0.0.4-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "ef87de44de635177b28e6b0ea98a5e2fa17e5e1a570999bb9c1eba22d65c8852",
           "cp36"
         ],
         "gam_g4-0.0.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "969ab2fe8d6f73cdfbbc31987b88e4b979c4fae8b64bb9847bc322ad59ebf397",
           "cp37"
         ],
+        "gam_g4-0.0.4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "9e4bd76f6e3f4efe12a033f625a88401ab0d57ab14b70b612fdff1bb9596b0ba",
+          "cp37"
+        ],
         "gam_g4-0.0.4-cp38-cp38-macosx_10_15_x86_64.whl": [
           "e56f4643755606f8c614d5471f70953d47ee7938309631808a870c56c9f5bb1e",
           "cp38"
+        ],
+        "gam_g4-0.0.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "7896cfd3c64e2a1ccebd2be63587a129eaa115e1b0ae666e13484f32579fc0fa",
+          "cp38"
+        ],
+        "gam_g4-0.0.4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "d2b062c1c0afbf915afa056e39d282c968d4c5b9bd169f581a498456fef97a26",
+          "cp39"
         ]
       }
     }
@@ -35802,6 +35882,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "b7bc913d1f1228ad5bae05d529f77072ba492c349f0b3954bc31908e952f1e91",
+        "mypy-boto3-dynamodbstreams-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dynamodbstreams-1.15.11.0-py3-none-any.whl": [
+          "ca4d808e1972caac32c7fa3f10d3ff0538dcc3f0f05a887faa7b3fe7bf88ba98",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "befdbb87f01a14246f1c8363f470046d19eb1fb917e2ff18ab1f2fc125275103",
@@ -37984,6 +38076,18 @@
       "wheels": {
         "mypy_boto3_translate-1.15.10.0-py3-none-any.whl": [
           "2b8303be63f6472478b2a336b3fbf3e6209ede33e5f5b4aa50b1a40df993f2e4",
+          "py3"
+        ]
+      }
+    },
+    "1.15.11.0": {
+      "sdist": [
+        "6f4b1fde497ef5d7c7703130f50f5ee32679e0466c68921625ad9fabe0badc9c",
+        "mypy-boto3-translate-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_translate-1.15.11.0-py3-none-any.whl": [
+          "3231c70e5951f529c9a0149e0a4abd034a13b0aaf0e0ee8d4f255451bbc12a29",
           "py3"
         ]
       }

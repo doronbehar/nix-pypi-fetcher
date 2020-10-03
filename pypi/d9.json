@@ -1062,6 +1062,18 @@
     }
   },
   "apache-airflow-backport-providers-snowflake": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "3c6a21c07aa2149d506323da1c18eff8f769d403d471fe7ccdcfb7d573c18322",
+        "apache-airflow-backport-providers-snowflake-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_snowflake-2020.10.5rc1-py3-none-any.whl": [
+          "c93e047b443d304b2fe0bdf452e5d74f76df50cfe80dbc4f65f92a684a4b15d7",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "fe93ccfb5d1ebc588462a0fddc7e0f7652c5caf40709edeb7ab63722f4e2735e",
@@ -3056,6 +3068,18 @@
       "wheels": {
         "aws_cdk.aws_codestarconnections-1.65.0-py3-none-any.whl": [
           "232b3f865a1aac4be42b2079757e14a5169a97f70803de6b84b9283983ea9f40",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "a8762f639535abd2b02e39a350c149934af800a3aca95fcc7814415eff82f420",
+        "aws-cdk.aws-codestarconnections-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarconnections-1.66.0-py3-none-any.whl": [
+          "aaa06ce6a934baee0238681cde5dc8cec4652f75c1024b86d6c3fd5528d21f26",
           "py3"
         ]
       }
@@ -35226,6 +35250,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "07217b7986b6c3869009ae6114c8db1ff56100645a3d9c5ec16898eba028f5d3",
+        "mypy-boto3-codeguru-reviewer-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codeguru_reviewer-1.15.11.0-py3-none-any.whl": [
+          "efed965b24626bf0a4349b41faffa219ee968f7cdf1c331ed94b3c057d16165c",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "6af1df3105105cba9131f2548902e934314ee7e809c63e4b64f519ff9575cd39",
@@ -37211,20 +37247,6 @@
         "7bd606353e5f3157892aca4b9a7306dc76a07b4aa05b2b1562638d3bff2dc31f",
         "OceanSound-0.1.4.tar.gz"
       ]
-    }
-  },
-  "ocs-reportportal": {
-    "1.10.3": {
-      "sdist": [
-        "c45d895f5dcfb57811ea66c3bff968d21c04f3f2b8bbb899a6ba34cf1f835040",
-        "ocs-reportportal-1.10.3.tar.gz"
-      ],
-      "wheels": {
-        "ocs_reportportal-1.10.3-py2.py3-none-any.whl": [
-          "550b223f3d2c48ef991ba3cf13cc42c0121baa1a5dd0ff4dc257c65ff67ed18b",
-          "py2.py3"
-        ]
-      }
     }
   },
   "octosql-py": {
@@ -43916,6 +43938,18 @@
       "wheels": {
         "pyclowder-2.3.2-py3-none-any.whl": [
           "ed6e1d10278df2efe3eb8b762894a2c41c75de80a518518d537563e3142b554e",
+          "py3"
+        ]
+      }
+    },
+    "2.3.3": {
+      "sdist": [
+        "556be40044b65336642b452747ee02f3cf7a17fb6b8abb941bca74ffd28ce341",
+        "pyclowder-2.3.3.tar.gz"
+      ],
+      "wheels": {
+        "pyclowder-2.3.3-py3-none-any.whl": [
+          "2900192c0ae242ec8f2cb46ab9559d105757a9cb3f020ceacc381ab3dca0dae6",
           "py3"
         ]
       }
@@ -54904,6 +54938,170 @@
         ],
         "reportlab-3.5.52-cp38-cp38-win_amd64.whl": [
           "26c410c6f9b9ccda0b7dc827a494fdff1c87267b7f506e2a6ec8d7ae6f41317d",
+          "cp38"
+        ]
+      }
+    },
+    "3.5.53": {
+      "sdist": [
+        "49e32586d3a814a5f77407c0590504a72743ca278518b3c0f90182430f2d87af",
+        "reportlab-3.5.53.tar.gz"
+      ],
+      "wheels": {
+        "reportlab-3.5.53-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "73bc92579692609837fb13f271f7436fdb7b6ddebb9e10185452d45814c365c3",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-manylinux1_i686.whl": [
+          "b727050ec5dfc4baeded07199d4640156f360ff4624b0194d8e91b234fc0c26b",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-manylinux1_x86_64.whl": [
+          "d930a3de0fa9711b9c960dee92ff2b30c3f69568f00f0244834fe28d5563ea9b",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-manylinux2010_i686.whl": [
+          "9c7173def03fd3048f07bce00d4ca4793efc37239811d9b3eb77edb561363cd2",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "4cdb2ab88839f0d36364b71744b742e09699bde9b943aa35da26580831c3f106",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27mu-manylinux1_i686.whl": [
+          "a5398e7af6136c25a34569132e7e2646c72a2f89e53028ef109fb03b5a2923a6",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "9765c0eec5e6927aaccf6bd460fe24a014d35a3979f2c7507644fd5946775921",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27mu-manylinux2010_i686.whl": [
+          "7931097db5f18e3ac6909a223e94dd3ad0258541f9802effa5b8f519ef9278e4",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "d75114965cc84ee51aaf3d7eda90f3554f3ac67350ebacd1dbb9193a7a525e21",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-win32.whl": [
+          "d6bd4d59f4b558165f05f9f7dfad37b9d788bcc05c0b37a6b0fcb6165d6893ec",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp27-cp27m-win_amd64.whl": [
+          "886bdc7c13e6c6513696eb044000491c787fd53a486aa3adea060d34aa3cd028",
+          "cp27"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-macosx_10_6_intel.whl": [
+          "067800caa12ea69e8df0a9206a7eda6697f91a33edb8413b778647d270bc9f34",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-manylinux1_i686.whl": [
+          "04fd4a129393006c4ba9cd9fff56b78ad60fe6702326e9260f55d4abac9f1df2",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-manylinux1_x86_64.whl": [
+          "1880282b9a278b4df5139b2083b9116388d9e1fb4a438c60b3cc4ad983da1bc5",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-manylinux2010_i686.whl": [
+          "e7b7e4a0ce0f455a4777528a8a316e87cc6cf887eaa2a4e6a0cc103f031c57c2",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "8c242a2be8d71ff18e11938cf45114d1144544984cd34fea0606f04144d62bea",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-win32.whl": [
+          "155887770694a1febb4b1bcd2e2856c931225fa1fe8c5ef6772fce47c07f6204",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp35-cp35m-win_amd64.whl": [
+          "e32af1e47076a3fc77e6be5f7e2c8cbbc82fe493a5cd3f6190c0f8980c401e59",
+          "cp35"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "3858534058ab99fbedb34ceae31f85bbadeeb8e4dbb78a58927599a6f0422617",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-manylinux1_i686.whl": [
+          "2dc571be9d2fec76f8bddb540581429eb16057ff9101767d8b15166ad1de70db",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-manylinux1_x86_64.whl": [
+          "35dda0a1994a8fc009bf5826fe34dcdb15e561b05a5a01c506d949accfbdf027",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-manylinux2010_i686.whl": [
+          "2248f9c362f417d108329fdf5083ede1914757534f1b255d6c37a9a6d99c5efe",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d78fdb967bd7652515d9a23ff3088e32e32ef96332737696e9eb0fda5602bf81",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-win32.whl": [
+          "4710d237fe9f729eacbbb7477d14eea00781704e0cdb83c789e610365e40627f",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp36-cp36m-win_amd64.whl": [
+          "7eb3d96adb309593bded364d25a32b80f9dc18b2f9a4b2001972194027a77eef",
+          "cp36"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a1d0e20cae86c6ba5e6626a9e07eca4d298341adfee778f87d5837bc76912135",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-manylinux1_i686.whl": [
+          "b18ea3593d4edc7f05c510ab298d48548d9a4473a643f37661b1669365d7d33c",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-manylinux1_x86_64.whl": [
+          "e50de7d196f2d3940f3fdea0f30bf67929686d57285b3779fb071d05a810d65f",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-manylinux2010_i686.whl": [
+          "106a61093cf6084fbcb1272768f090b06137027e09c5e53c573c6c7b90216066",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ce7c13eb469f864085a546881a3bc9b46e20a73dc1a43b9e84153833e628dee3",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-win32.whl": [
+          "e8dd01462a1bb41b6806aa93a703100d3fbba760f8feca96fcec710db9384a25",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp37-cp37m-win_amd64.whl": [
+          "a690fe672aa51ee3a6ff4c96d2f5d9744d3b6f27c999a795b9c513923f875bfc",
+          "cp37"
+        ],
+        "reportlab-3.5.53-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5e995f77124933d3e16ddc09f95ab36793083a1cb08ed2557811f8cfb254434b",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-manylinux1_i686.whl": [
+          "17c906bc410f5eef01795d709ad88663ab98447683d21b6e97bac9b366504a8a",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-manylinux1_x86_64.whl": [
+          "8f2759d2a81ee992054e7a1123cadd6baff4edecc1249e503bb6decd6b55e8ee",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-manylinux2010_i686.whl": [
+          "be53e8423f35d3c80b0560aec034226fdab5623bb4d64b962c3f04b65980b3e0",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-manylinux2010_x86_64.whl": [
+          "0145233d3596fa5828972eb474b5a9f3fd5dea45d6f196fe006a7a7a461fcd03",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-win32.whl": [
+          "13afbdca2b0844c19ee6804220bb96630f44ffa2571781de66a04e3f83609295",
+          "cp38"
+        ],
+        "reportlab-3.5.53-cp38-cp38-win_amd64.whl": [
+          "c70e9c9cfdc0596c3912e0d147f42e83c7ac5642ac82d6fe05d85a6326bae14d",
           "cp38"
         ]
       }

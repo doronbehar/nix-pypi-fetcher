@@ -1356,6 +1356,18 @@
     }
   },
   "apache-airflow-backport-providers-jira": {
+    "2020.10.5rc1": {
+      "sdist": [
+        "090ec14f516b9e14ee987db9d4ca689616837a6635f0b781cafd638c178c0ea1",
+        "apache-airflow-backport-providers-jira-2020.10.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_jira-2020.10.5rc1-py3-none-any.whl": [
+          "8803bbdcbe1d794bdd6b4698a349b1bc0c7454158a9facdf28321a1661a5af66",
+          "py3"
+        ]
+      }
+    },
     "2020.5.20rc1": {
       "sdist": [
         "8376daeccdb59167cb61c637b5881b29ac3fe3c33b907a710de7e066158d6dec",
@@ -8202,6 +8214,18 @@
       "wheels": {
         "aws_cdk.aws_cloudwatch-1.65.0-py3-none-any.whl": [
           "6e3b933b5fb6b2184830693c7dc14287f918805836d77c43e946ed7c9b2eab25",
+          "py3"
+        ]
+      }
+    },
+    "1.66.0": {
+      "sdist": [
+        "a63f257b0a02f1f29b943691cd5ca2a097c3ec3e5aba475b7179d81626c42a72",
+        "aws-cdk.aws-cloudwatch-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudwatch-1.66.0-py3-none-any.whl": [
+          "8a7d21c67676298574b7322011fb86b30b1e9a677ffe804dd9ab5125aabf955f",
           "py3"
         ]
       }
@@ -18491,6 +18515,18 @@
           "py3"
         ]
       }
+    },
+    "0.2": {
+      "sdist": [
+        "3427a8781acbe1a83dcab524195c28360792e088303e2ff0078bdf3b68a217aa",
+        "colorvote-0.2.tar.gz"
+      ],
+      "wheels": {
+        "colorvote-0.2-py3-none-any.whl": [
+          "6ac6ad801815038936381e195b51a8a76d93ab5315178570b1580284d4aec740",
+          "py3"
+        ]
+      }
     }
   },
   "commondata": {
@@ -20243,164 +20279,6 @@
         "becf767190d10b8b5f50836a6602b9553d2dd9bab94955d19a858cc5b2815c66",
         "cxmanage-0.9.0.tar.gz"
       ]
-    }
-  },
-  "cy-data-access": {
-    "0.0.1": {
-      "sdist": [
-        "4c4af589d043dc5148467008b0532d7e14d9bfe89d806b1cae3ce15557ed5880",
-        "cy_data_access-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.0.1-py2.py3-none-any.whl": [
-          "276d674a1e7725f722d17622a3a7080b321688ab4c45ff819638943bc84f9411",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "de9230fd56fc9b52c599113f52b6ac24e04ad69ca3ea24bf3ee1781b96cd0e72",
-        "cy_data_access-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.1.0-py2.py3-none-any.whl": [
-          "56012e51fe2b53456beef15945da17d82f8261bed9b287b69b8d440c27f97dfa",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "0dfd6cca4f728c2d73a45f94cb22b03f2c9d3feaa8a41d29a414daff51955262",
-        "cy_data_access-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.2.0-py2.py3-none-any.whl": [
-          "02a6fcaf2087fdf2d06cf6a482afcebad2d314cf7194440e8319e4f967d0a058",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "sdist": [
-        "4845c35813782232fa1f06dc17b4017e59eb6d4fd22ee6bb88f3671f14cd757a",
-        "cy_data_access-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.2.1-py2.py3-none-any.whl": [
-          "7193cfbf8811b6b9231f3579a39acf97e1f6564e11bda659d8c971ba19577812",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "583f704ee5c389931db66a4dbeb71f2a258cff7a0e49ff2f3cf0a813a0a8805d",
-        "cy_data_access-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.0-py2.py3-none-any.whl": [
-          "ac104137137455f42e3b6ad25ab3f183bd960fd96ab9e0dd6ac7e19f26dba9b4",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "682cb8411c394ca766e76f14b9ed47ea921d990efc058b9c2bb1a2517a87c405",
-        "cy_data_access-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.1-py2.py3-none-any.whl": [
-          "ca37c56eb4f0d969c3fcee2d359c540a91ac1d120e338455419bf6484ed28928",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "e1c403caa1436a8f0562054d2b374195f86ea4c9c525149aa97afb31ca392ccb",
-        "cy_data_access-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.2-py2.py3-none-any.whl": [
-          "f83cb4f45131c82b080c8c4022fe4b1f891ce1825638c98a40a1e0ac55fdb7e1",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "ef96810671ddcaeba221304bc5bd0a6227a060af8bd3048403e0c0cdc601e0d6",
-        "cy_data_access-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.3-py2.py3-none-any.whl": [
-          "80a453726a0e2df55d1f05a6d931421464563d0879e5c0eb2587c0adf8850a67",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.4": {
-      "sdist": [
-        "b9420e48a0a403d36984b93ceb60ef5c4770c7f28666ee15e6dbbf337c47f733",
-        "cy_data_access-0.3.4.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.4-py2.py3-none-any.whl": [
-          "fb82a4d53dcb1a6b805e3d6125ca0986c88852220c4248f4f628aab94710e43b",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.5": {
-      "sdist": [
-        "6f34bc629f275ea29873d6aa2b1ad7388e3f0231e322296e96246adc124e1823",
-        "cy_data_access-0.3.5.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.5-py2.py3-none-any.whl": [
-          "e152dd58a1cba936ad5277460b56fde5a2212e5a499523d9753146abbfb70fb3",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.6": {
-      "sdist": [
-        "102145fc8d4eb19e29e4a1212890aa055a216aa000f67dd1daa7876f14daae43",
-        "cy_data_access-0.3.6.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.6-py2.py3-none-any.whl": [
-          "d8ba0bbe224fdf5c891f4071f39a7a22be02676b1f0d44a9fdb91d54723feff3",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.7": {
-      "sdist": [
-        "e29cc775755354490bc3b611605a3103fdcce62f4632c91a90c66b2a7d585284",
-        "cy_data_access-0.3.7.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.7-py2.py3-none-any.whl": [
-          "30a330512dd94961cfe13d3638e1bd0770756de26ea1e3ab5953635414e23cf2",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.8": {
-      "sdist": [
-        "6192d5081e64ca3ed170a39f00478d043c2ad6cdafaecae27ae050a66204e7a1",
-        "cy_data_access-0.3.8.tar.gz"
-      ],
-      "wheels": {
-        "cy_data_access-0.3.8-py2.py3-none-any.whl": [
-          "1618717d05ef4f5cb8d4feee6b2d2800282e078c00968d271e07acacc6cbb972",
-          "py2.py3"
-        ]
-      }
     }
   },
   "cython-codegen": {
@@ -25470,14 +25348,14 @@
     }
   },
   "domain-eventbus": {
-    "0.1.2": {
+    "0.1.5": {
       "sdist": [
-        "f614f704b8d388795e345eaf978cec75797795c65849c7cd9b02b9d9361f6a47",
-        "domain-eventbus-0.1.2.tar.gz"
+        "1d316685587fcba9c2204f3beea400c401cb7c5b7ae187480a57c172d84855b9",
+        "domain-eventbus-0.1.5.tar.gz"
       ],
       "wheels": {
-        "domain_eventbus-0.1.2-py2.py3-none-any.whl": [
-          "d85dead9f7a8e595a97ab92191ab8dc257cac3d186667a3d4a50187bc38d68ad",
+        "domain_eventbus-0.1.5-py2.py3-none-any.whl": [
+          "11cfaf654b7e59134128f984003bcbd37b03efa2a791cd15208811fc37128094",
           "py2.py3"
         ]
       }
@@ -26745,6 +26623,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.0": {
+      "wheels": {
+        "epdlib-0.1.0-py3-none-any.whl": [
+          "0d7c8b3dbef949d188f9ad83a2ea983c208b2de22d997f2577caef99f471dcb9",
+          "py3"
+        ]
+      }
     }
   },
   "epub2html": {
@@ -27817,16 +27703,6 @@
         "496e3beeb5414f93ca3f56ef797e0614d3b58f8dba316e7033dbf8398201682e",
         "eyap-0.9.2.tar.gz"
       ]
-    }
-  },
-  "ezprof": {
-    "0.0.1": {
-      "wheels": {
-        "ezprof-0.0.1-py3-none-any.whl": [
-          "a6acd10d12fa8eb9b0ba610c8d0bcdfca1ce7fb62bf096e0619bdb989c2bf9b6",
-          "py3"
-        ]
-      }
     }
   },
   "faker-extras": {
@@ -44926,6 +44802,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "500a05ad18559da4215f8cf166fd8f528254777e33fc84039ae476a0a54d7783",
+        "mypy-boto3-honeycode-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_honeycode-1.15.11.0-py3-none-any.whl": [
+          "6ae767eb6833396f66b4c9c6e37a336d1905c69a4ccdd839995a5760f0ae6141",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "f99e72e55b63de854fdbff6cbbab66b1eff19d0e74861cee47b37d480aa87b94",
@@ -47108,6 +46996,18 @@
         ]
       }
     },
+    "1.15.11.0": {
+      "sdist": [
+        "dcfed803f8e7b31a7e9116b368d6f92448f3c5ceaedde1b9099e8003647bf8ec",
+        "mypy-boto3-iotevents-data-1.15.11.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotevents_data-1.15.11.0-py3-none-any.whl": [
+          "92278bbc368686fca384942ca4a60312ca12b6be754bf17dba4cd8b03244c2f9",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "6c1afe91ebab64d549c945d7cf27a94c437ba959615471bdb59adec3778abed0",
@@ -47774,6 +47674,18 @@
       "wheels": {
         "nemf-0.3.3-py3-none-any.whl": [
           "0ca85f78b205e62f33b50baf9d6f47dc59e2e44440419b5318f25c34b75106b4",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4": {
+      "sdist": [
+        "9b67f5ac38c6f75f242c269c6e007160183e53e19aa4e82fa9846869bfd67d90",
+        "nemf-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "nemf-0.3.4-py3-none-any.whl": [
+          "70d015df217c29c3f0d1069eacacae4215239b75e4d1aecb89892d036ed1e768",
           "py3"
         ]
       }
@@ -65730,6 +65642,74 @@
         ],
         "simplification-0.5.1-cp38-cp38-manylinux2010_x86_64.whl": [
           "831142d3ebec84e48e4eee9a492b5047e793e1fc904914e57da0c53c04ba8df2",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.2": {
+      "wheels": {
+        "simplification-0.5.2-cp27-cp27m-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64.whl": [
+          "175e3d507f89f2598494fdeafc07c33d6e13766f37cfeb782488cd6b4771b9c4",
+          "cp27"
+        ],
+        "simplification-0.5.2-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "eabc6bce14d0a9a5b5ccded3e80103f6226a93a8aa974a8a9a719bb47dfb6d30",
+          "cp27"
+        ],
+        "simplification-0.5.2-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "c6ba946478314a2f334eb19c057f2935704bab7b830c974551d746c0c2018c8d",
+          "cp27"
+        ],
+        "simplification-0.5.2-cp36-cp36m-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64.whl": [
+          "ea752e17539f729ff000390b661ab8b44d92be3d8628cac337de3e4612b5c26f",
+          "cp36"
+        ],
+        "simplification-0.5.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "975c0e89eb7b5ab1bf9cfe4f2914f917c20b629e5627ae1de169cb12e16b1732",
+          "cp36"
+        ],
+        "simplification-0.5.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "2e929811ed466f2130b75f793c2cd85eb158ecfd8a53f29aaf71443eefc5ddfc",
+          "cp36"
+        ],
+        "simplification-0.5.2-cp36-cp36m-win32.whl": [
+          "7013299f6c55b2e0a4dcd431a5a53f2a8e0e613453ca48b66898697e984b4dc8",
+          "cp36"
+        ],
+        "simplification-0.5.2-cp37-cp37m-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64.whl": [
+          "83ff08d83efc2492b7ee84f4879fcb5efa7a660718439413396e8d3903979fbb",
+          "cp37"
+        ],
+        "simplification-0.5.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1b5b49a64ddd28d89533a266c55161d736e0555b93cbabd0dfd1196cc5f40d54",
+          "cp37"
+        ],
+        "simplification-0.5.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "943286c7a60a1cb576efc2f94656a6f9f69321b17431d797f84b9335e685d5cf",
+          "cp37"
+        ],
+        "simplification-0.5.2-cp37-cp37m-win32.whl": [
+          "6439fe3bb2598ed76fb7046391ea8d41db324f37bbe6fcf913c0aa2257853947",
+          "cp37"
+        ],
+        "simplification-0.5.2-cp37-cp37m-win_amd64.whl": [
+          "d20bfb07d08e73e790e799b4faff89b821a784a798abe243ac7eee8e133dfb2c",
+          "cp37"
+        ],
+        "simplification-0.5.2-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64.whl": [
+          "f36d342b3cd01e9b0895ae15ed77b3f20147b619f52e23b358cd06095e5f8217",
+          "cp38"
+        ],
+        "simplification-0.5.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "cdd4ca39ca35c23749a8e85623ed4aff8532a1e594faf584ad590406736cb813",
+          "cp38"
+        ],
+        "simplification-0.5.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "af908013117cda4cc13f1fac6a233314f6c484e2c2a5182f82d74a4447d8da17",
+          "cp38"
+        ],
+        "simplification-0.5.2-cp38-cp38-win_amd64.whl": [
+          "904a33d1d39f509af1f91961b09367e1e34504caa2ff50672bb7af08b97e2c11",
           "cp38"
         ]
       }
