@@ -22776,6 +22776,18 @@
         ]
       }
     },
+    "3.15.0": {
+      "sdist": [
+        "c41df60ce6108962015b6bcd2ce2f186848f506b50be6ca3cdf80af45f66c678",
+        "frictionless-3.15.0.tar.gz"
+      ],
+      "wheels": {
+        "frictionless-3.15.0-py2.py3-none-any.whl": [
+          "2f1b1a8fdcb79205131fa4f9b2efde5adddbe6e7583788584525a8b6e39d0af0",
+          "py2.py3"
+        ]
+      }
+    },
     "3.9.1": {
       "sdist": [
         "d021c5836356dd6d496a32a90626847a4063dff978ba3b0beef26b7803c4ae09",
@@ -64073,10 +64085,6 @@
       ]
     },
     "0.20.0": {
-      "sdist": [
-        "225e667ebbe9dc735408fdfac61b77b4a87cea6ae76b7a30b9c22c54a0c29c10",
-        "ssh2-python-0.20.0.tar.gz"
-      ],
       "wheels": {
         "ssh2_python-0.20.0-cp27-cp27m-manylinux2010_x86_64.whl": [
           "c5fccb832e6f38e4fc11d69f938871dcd71768e26b69044239496c6b0024d5b4",
@@ -64124,6 +64132,90 @@
         ],
         "ssh2_python-0.20.0-cp39-cp39-manylinux2010_x86_64.whl": [
           "0d53803cb9f0b78b4ace186019cb42145cfa395c8494f4eb69b3761cf287930b",
+          "cp39"
+        ]
+      }
+    },
+    "0.21.0": {
+      "sdist": [
+        "c55fc1356de84b11496959d7dd062ee48a3488d4759f53909e5de8f2ed8091e9",
+        "ssh2-python-0.21.0.tar.gz"
+      ],
+      "wheels": {
+        "ssh2_python-0.21.0-cp36-cp36m-win_amd64.whl": [
+          "4fa1df04608b00ab74fcdcb20126762d1b7f675dcd9ce45ee7bff7ddf1804d84",
+          "cp36"
+        ],
+        "ssh2_python-0.21.0-cp37-cp37m-win_amd64.whl": [
+          "03f6e8c36476af2e7eb2b8652897c0b42d40157f4b24693e8f338da721aa88f5",
+          "cp37"
+        ],
+        "ssh2_python-0.21.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "fd41b60f611ab7d78005e139fe4145e46f6eda74e8f6b244cdf9200f5160e189",
+          "cp38"
+        ],
+        "ssh2_python-0.21.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "5d7423ba2a59bf041e0c6979135c711d25ddb587168701d85d343b3780d6be54",
+          "cp38"
+        ],
+        "ssh2_python-0.21.0-cp38-cp38-win_amd64.whl": [
+          "bdbe5d10e78183a3d58c76aaf17daadf39a6319bc59f1bec1c6613a4dd942d64",
+          "cp38"
+        ]
+      }
+    },
+    "0.22.0": {
+      "sdist": [
+        "8f82d6e35a4ec9c57b89b69294113842dfa818f8cf1257c5e8bc87d12dcdfbe5",
+        "ssh2-python-0.22.0.tar.gz"
+      ],
+      "wheels": {
+        "ssh2_python-0.22.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "cc660facce18ed2c3d7f2ea07909b75e24d5c66f2d5e8fadb3f8ea418e831f92",
+          "cp27"
+        ],
+        "ssh2_python-0.22.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "d4e5cfee5fd15075813031bea2f0e927d4d08219991f930efbe8e3e947724a43",
+          "cp27"
+        ],
+        "ssh2_python-0.22.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d54853824b38d64b4f602e51639fa47a204149f9d270c8a59032cd60d31c08b9",
+          "cp35"
+        ],
+        "ssh2_python-0.22.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "600935ca29d7298599da63815de3f24f43df0cc9f49ff855870f0c218e9a47d6",
+          "cp36"
+        ],
+        "ssh2_python-0.22.0-cp36-cp36m-win_amd64.whl": [
+          "6e6c63fa492a76920239356b3f7580250a4316a72a0a2930ab69967bd8896c63",
+          "cp36"
+        ],
+        "ssh2_python-0.22.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "fc1f6bbe3e7f45099d767e28d92c596531764d084f163090d4d88738398747ea",
+          "cp37"
+        ],
+        "ssh2_python-0.22.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "13f8c0e344707e8972bbe591b0a0dca70fd3413c30de0a355e53c0e2498cd6d8",
+          "cp37"
+        ],
+        "ssh2_python-0.22.0-cp37-cp37m-win_amd64.whl": [
+          "8aede8a4bd4263e095016c4cdb7aa3b41dfdf7d3ad2fa00696fce5828234fc98",
+          "cp37"
+        ],
+        "ssh2_python-0.22.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "03d84d9d2f255544d881b413bfb8aaf1efc8960827779bd603cf3261f9fd40bf",
+          "cp38"
+        ],
+        "ssh2_python-0.22.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "fc8b5fbae7e2e08391faa4759c68f88a047f9f0f07c46b1c976ad026f805cc3f",
+          "cp38"
+        ],
+        "ssh2_python-0.22.0-cp38-cp38-win_amd64.whl": [
+          "0a07e9f3cc9eac4664d65fce549acd6ec948abd0be667134991e1f8925a19448",
+          "cp38"
+        ],
+        "ssh2_python-0.22.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "b873074e5c7fa39d338576694f8bcdb586691bf9d61a3777f32fb0cc2201c646",
           "cp39"
         ]
       }
