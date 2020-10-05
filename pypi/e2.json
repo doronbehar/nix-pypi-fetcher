@@ -13517,6 +13517,36 @@
         "a07be08dbf862e5c984ce70d8d71c81a2c093674eba876ae48ea02b22587648d",
         "csv2sqllike-1.4.4.tar.gz"
       ]
+    },
+    "1.4.5": {
+      "sdist": [
+        "9fa9279a173ed50c0313806209b0e8a51ab472d3db2b281ada4fdaf417c5d185",
+        "csv2sqllike-1.4.5.tar.gz"
+      ]
+    },
+    "1.4.6": {
+      "sdist": [
+        "e9a5992417f85d72c712cfaabd27fe54df3bf20b23da3d5e05f09aa7d82ed67f",
+        "csv2sqllike-1.4.6.tar.gz"
+      ]
+    },
+    "1.4.7": {
+      "sdist": [
+        "56716e697c24c9669fa19855e2455e835410771ee9125ef8766091402348fe6b",
+        "csv2sqllike-1.4.7.tar.gz"
+      ]
+    },
+    "1.4.8": {
+      "sdist": [
+        "7282a7ba0891ce66f3fffb0cb4627b405f94ed8dfefedf937fdbca1239c8d4fe",
+        "csv2sqllike-1.4.8.tar.gz"
+      ]
+    },
+    "1.4.9": {
+      "sdist": [
+        "ceea612e04ec212ae543b6e32d5cf3c4f36cc0e69d2d6dcf36d0b0fabd74d9fa",
+        "csv2sqllike-1.4.9.tar.gz"
+      ]
     }
   },
   "cubicweb-dataio": {
@@ -25219,6 +25249,38 @@
         "glfw-1.9.1-py2.py3-none-win_amd64.whl": [
           "f71b44371201fe6543cd8f41e527359e117e8f0fbbc310538ec4f38a56080126",
           "py2.py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "7a330b0abd4f5367510883f11e4f2b31c2d0dcc96cac9669107e1bd3426e98ce",
+        "glfw-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_10_6_intel.whl": [
+          "76cddb57ebfe36812cca3d75267f79e94eee449f7a001429cd67923af0f4740d",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_i686.whl": [
+          "c60c375257b95af14aa3561b420879eb5d313a55195116337be4a345604ec668",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_x86_64.whl": [
+          "ef4f4c1a24d9955244563db0b6da46d8fafb457a32f295a029087aafbfcdc898",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_x86_64.whl": [
+          "92d91a60f5a93ce7a4cd124ad73fd2a7b13dc17fced7608f3f9d8202ca61e495",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl": [
+          "ee7ceacbb8688f0f5c05fa7f88c1071698ef896a192a8acc0f7561e8949f8e85",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
+        ],
+        "glfw-2.0.0-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl": [
+          "7f40ee7e34f41e63ef775b46b5d199a312c971f97a0c92d5de341e1b45b1bf00",
+          "py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38"
         ]
       }
     }
@@ -64372,290 +64434,130 @@
     }
   },
   "pyzstd": {
-    "0.10.1": {
+    "0.12.0": {
       "sdist": [
-        "8931d298c9a9f77440b0d87c5d9ea88389cbf607b1ab660b6cab094687836191",
-        "pyzstd-0.10.1.tar.gz"
+        "7c163713d6bfb3221282073ebab01d6d8497d7ffc5b393fc933e50fca9699529",
+        "pyzstd-0.12.0.tar.gz"
       ],
       "wheels": {
-        "pyzstd-0.10.1-cp37-cp37m-win32.whl": [
-          "54d98289e91ec35a8b42780d863ce09c9d0c8bf262ee0165cffe219f658f6feb",
+        "pyzstd-0.12.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "52efb6e23e8bae260f9ea65c78e93d173732fc10c2edaf07296eb34d45083665",
           "cp37"
         ],
-        "pyzstd-0.10.1-cp37-cp37m-win_amd64.whl": [
-          "088ccc9d79a91407518fa583ca403d5e7215d38e72017d3c1b48c93c79297758",
+        "pyzstd-0.12.0-cp37-cp37m-manylinux1_i686.whl": [
+          "a23e2d0a0d4b6506405c8cde09027b627aad7cc2931c14da0c614ef520bed840",
           "cp37"
         ],
-        "pyzstd-0.10.1-cp38-cp38-win32.whl": [
-          "c0a76a3df09ceb2b5c3b3ae996de59afd89f4a74a569207cf6066ecd258e12a4",
+        "pyzstd-0.12.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "466d45b5d2a1e65f79c8b3ea8c683e3c45c444831b6bd7372a957508ec389b73",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-manylinux2010_i686.whl": [
+          "d4043721b1d36766addd6ab6904d7b25d8e55dadbee66902990922deba44ca13",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a53e479e1112dd20cbd29ab9f07c1d86dce06fcf6b64405eb76f0a59c056778b",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "89790d7e1c7cd6b95b5eb11eaf6917128d18d37648365d24ef21990733c59936",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-manylinux2014_i686.whl": [
+          "3d0386e2ef6f941f248ee3d7311d3a96e02ea8303ec94a0eaca4486fda48df36",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "14fa7e27aa22452b1946638d3d4c2b2a03397846fa7428784ec20f1ce08aff89",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-win32.whl": [
+          "f00e1eca755d3fd5605d453a7b7a2850ec3d7b5496e9dca5686461a3600f3027",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp37-cp37m-win_amd64.whl": [
+          "f7cc256828b6ee8b9789b508397dc0cb11babc16557b567d7f4dfc78bc05099c",
+          "cp37"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "bbeb033db90732702b922236205db2812c51ebcad32e22eae94a1fcac95fd1db",
           "cp38"
         ],
-        "pyzstd-0.10.1-cp38-cp38-win_amd64.whl": [
-          "82118b98a7b2ae40604805333f93e5f165c74591ae3fd991fe39520b0234ec75",
+        "pyzstd-0.12.0-cp38-cp38-manylinux1_i686.whl": [
+          "fcb763fd4782c7ca57b4e176ddc7847d4262104033c51c6c959a3f251067a910",
           "cp38"
         ],
-        "pyzstd-0.10.1-cp39-cp39-win32.whl": [
-          "8025dc194a07e50d782452b6d16d82ee8302edd22fc51b5ffdabe4e5a8e298eb",
+        "pyzstd-0.12.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "ab151fd5381b81b8742effe6d0ae8f67cf4291791b0bf0d27415ee2032144551",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-manylinux2010_i686.whl": [
+          "458d4c8323104c0a3169d501bd0624e097dc92572e6a0120d014e1c75a94a53a",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "999a755360ffe61007062ab3f1ec518db9ada61ddc411b93648fc01fc8b36260",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "6cec1a319b448debbce94b44f6827a39df352d0e138ce3eedcc7dcc5ef5e18a5",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-manylinux2014_i686.whl": [
+          "42eb417af408729df43c06a3b54b55796a60845ec667629acb0e3bd90300ff2a",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "329dca35a435f4eedd282cb55014321a78fdcf768e292465265e393c96ecbe9e",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-win32.whl": [
+          "68f3b4459c7e0e04b5b538a284dd0e919c03a9c9e85fa844de3f26940c91d69e",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp38-cp38-win_amd64.whl": [
+          "fa31126cd1e634a44b6a97c4584a8a075c62ce6d314990408a58ac35cd0cb250",
+          "cp38"
+        ],
+        "pyzstd-0.12.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "339fbd4f032ca9d95b90cae82b24957f24b9b222eab230c6a892389a9bb2b8ba",
           "cp39"
         ],
-        "pyzstd-0.10.1-cp39-cp39-win_amd64.whl": [
-          "4210b2a5d248afb95339f3404d2dd37b7ebe06df8932150244cdee92b0f0cc99",
-          "cp39"
-        ]
-      }
-    },
-    "0.11.0": {
-      "sdist": [
-        "c24c51506b6db539868ba0a9be578ba98c30ea1f846990bb2e9b9c67b50673d6",
-        "pyzstd-0.11.0.tar.gz"
-      ],
-      "wheels": {
-        "pyzstd-0.11.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "2c0033d7e72443bc0f011efd134e1afb73f1c49254278b45bb1e8150e4828c73",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux1_i686.whl": [
-          "121e3ce5fe3f8ef9fcddd7f1c62e9521cb34fe023935c132ef68d37c1df7762d",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "060a7a115384af2190011deddea5984103fe35d96cb42c9a0e757e4e3894146f",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux2010_i686.whl": [
-          "c152039cc9c98f700f92d2bc4d2a0ff5e0ef37e1dea8754fb0fb12b75daeeb3f",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "c2b53a3bc2933141003053992718f384c1111a37b177b8ea09a798d1b89a19ee",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "994e44caa1181f168e983b6d7e9f5f3d1ec31fcedf5a0fb51b9833cf638c72eb",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux2014_i686.whl": [
-          "30f8ecc7ecfee31357e785cbe71d7dac7c0cba9b796b2d167aada6c0b8c19392",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "1f5b0e642f2f012ed88ed83cc31326c8872daa3a036853eb2a8cc89dc4a24da1",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-win32.whl": [
-          "9f0b4f3d006c8abcf3920557e00a6064160864657338962dd5b35d745a68838d",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp37-cp37m-win_amd64.whl": [
-          "a2b6b0f2475d0e4fbbc0a39d0b3608b85de321cfabfbca1843fe0fb954741ebf",
-          "cp37"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "546177c1081cdf4fbd484efda57340a399f03042f4c2d74480f3c7a813968900",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux1_i686.whl": [
-          "acd80c72abc26f77a383ae9f54b8e5c526124b8d417c7650bfa89553b7827157",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "baf1bb3e02ed7d6f09322e8c86f335291458872cdb84f3d88cdf4bcc8f6f7362",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux2010_i686.whl": [
-          "3a540465c31083a095b43042ac33c27fb30d16d53d8b5b3dc37c379daf53170a",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux2010_x86_64.whl": [
-          "9819485e2af0db0795d54a3fc0cc740bbf2a6c338bcbc3e4afb8cc54f8e2348e",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux2014_aarch64.whl": [
-          "fe61facfcf8730933f84f4f5c0a0274a927c01080e908978fe9a2c5bf139d8d1",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux2014_i686.whl": [
-          "5c22890304d21dc34d45cc83a2450753dd8c2a599a43737d0a15d346cc2c5708",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "f1561f93edb629b871ad31500415f5aa602355b4b437586240cd39ff4969d741",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-win32.whl": [
-          "f55542400ef61c60db6c7478bf78431b578365947386f56dd782bca8dabd580a",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp38-cp38-win_amd64.whl": [
-          "8312f94ca5a0c38c6fad7353eee1ad40ae202bd220c34b62ffd455a4a6174489",
-          "cp38"
-        ],
-        "pyzstd-0.11.0-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "471303afa992b7849c089bedc4cd360e88c614aaab9c22ccaa2cde26d2f1cd6f",
+        "pyzstd-0.12.0-cp39-cp39-manylinux1_i686.whl": [
+          "fd6c0f0e4b54a21f017cb800c37a510a3cd183fc80c1cd5adc76cce4123a178a",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux1_i686.whl": [
-          "4e969dcade2bae048e5180b8d2637930c5aa568de8499372918183f462af01e8",
+        "pyzstd-0.12.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "c8ff56446fbbc0df9cf9c0afd664c7076b8add123cb60b771098269437b93f85",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "29972cc2ccdcf8eb0167b47435f50232a7a8c4246735e6cf6b984c54148eabe0",
+        "pyzstd-0.12.0-cp39-cp39-manylinux2010_i686.whl": [
+          "d6a3948cbefbac7a5e1f862d77cb4756a4a2d9e0edd41e9214a8dbb2e9491189",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux2010_i686.whl": [
-          "e17e87b40967322dc6a69a6819127b1c0c4b66cfe7e4c2ec55d90cf493ecc6c5",
+        "pyzstd-0.12.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "38f21b39075c5b5ebd43581b557393722d9033030e1ba5fb2b2dfc7edb449938",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux2010_x86_64.whl": [
-          "3cdf9247efee5593af0d1339a3f9ef45ab44779e50194de328310d8761d72629",
+        "pyzstd-0.12.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "ff24791397969a88fe53dbe47955a32dac9551bd9df9fbb6e496fce1d6260a09",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux2014_aarch64.whl": [
-          "358be754f7896da62f1a660fe1a56fca2fb4d7edc47436e0b8de4bc8cd732814",
+        "pyzstd-0.12.0-cp39-cp39-manylinux2014_i686.whl": [
+          "b86afc7fbeb0ef56a8dc6e477e6040cea73ff6f362ad6331b6d5dfab8f606d05",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux2014_i686.whl": [
-          "767e2a8b8e8cfe41945b3d11f4bacec83245b4215a44c7ce9c487f641f5f8fdf",
+        "pyzstd-0.12.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "2d5d8c6089c57ce8e247352ba9fffa3c11aa4904e1ae570d8f69923e7ac426e0",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-manylinux2014_x86_64.whl": [
-          "945eb897120f903bdebff0b5f88a7ae3d89a8cdd84b7e13818068f070ca7ad8a",
+        "pyzstd-0.12.0-cp39-cp39-win32.whl": [
+          "a139639ee0cea15985db4cff96a8e105a5e3d9bbeb593a01f1eb5678768cbf86",
           "cp39"
         ],
-        "pyzstd-0.11.0-cp39-cp39-win32.whl": [
-          "be945637b81a6693010eba7a4c6d5825fe3a2cf38826315868fb6c73c9acab41",
-          "cp39"
-        ],
-        "pyzstd-0.11.0-cp39-cp39-win_amd64.whl": [
-          "9cc2d5331a5bb6aa034d9c3f12272a362a835ecf3ea854912516682a5ca399f5",
-          "cp39"
-        ]
-      }
-    },
-    "0.11.1": {
-      "sdist": [
-        "f09d06593e06fda876d0a6cd8a000d64e2663e608e7bb6937dea04d58f24e089",
-        "pyzstd-0.11.1.tar.gz"
-      ],
-      "wheels": {
-        "pyzstd-0.11.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "0871adfdb21ca21e5ca127cd1be24be2ceb655c94cbcd87808c469b356b4cb84",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux1_i686.whl": [
-          "1a5b91099ae9ac68eec46d433f432fe88da9a865e617e61446b6388f055876eb",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "f22e8f49a51bf64c8c98e5ec377527e1b8abc06e9cef6a9ac621bfc807661027",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux2010_i686.whl": [
-          "c9d36b0bb209c05a784b26274874cf51f048a871377d2548f3cdba51e20e449c",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "8ed339aa435be2ce25946cf4a3dbf167ae233d8eebc83534147bdc928069fba9",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "f95390510bc40c29b2fdbff7b5d369f6fd8647db851a6b36265d08e5ac5064a4",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux2014_i686.whl": [
-          "d11dab092b7f423d408a9618490f6da0ddda951d84996c53b8bbc760a5fc1fe7",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "760bcb9afd5cce3d0eec1cc9a593f0bf04efeb80757f6d1e27d598d7eb817eb0",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-win32.whl": [
-          "2bb53d3a94efe3c8eb150a20b77e2989c2fc171cbef48a22b4a5e6b0f309498b",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp37-cp37m-win_amd64.whl": [
-          "4f486e4ffd9d5617b46626c6f685d767468ce0328ffad6a01c2dfcca884b6f49",
-          "cp37"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "7767995bba5760f4c519af614879f67d1116a4b6a82fb9f896bdee25fc1fa77a",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux1_i686.whl": [
-          "28bf1dc0cc6e7638d4241060e04c1a7a63c5698640064c4f971489abf0e6fcfc",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "b2d7c6418f8cf492fa797c9c76f30144487fb5c83f6aa06b02af567a63088775",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux2010_i686.whl": [
-          "504c542485b97acdee63819ade260557bbb9dbe010d7e823644b9789519ace15",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux2010_x86_64.whl": [
-          "648b361e29f56e6e299124e61c6f3bd68df9987ebc480f7bf701ea1facc41793",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux2014_aarch64.whl": [
-          "3e93b522b762aa3ab8dd2fc33fa0a7d43dd6e59e350d4c81f5e6d21c1edd3d03",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux2014_i686.whl": [
-          "0766a1f69ddf286cc088a79f18f16496c8e689ced7b9e763c6a237602520871c",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-manylinux2014_x86_64.whl": [
-          "bf68a5081ea95de68f725aec6905ed1fd5d576b0b41ddd8a6181a6a3d7e7b479",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-win32.whl": [
-          "7dc3243dbd234f1ca9e35369b6e78d23ae4d26df3dbcee14b24f16e8116769df",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp38-cp38-win_amd64.whl": [
-          "3a85941b4f49621ac0c360937aaece5b2c026996c688cb914d286baa41459c63",
-          "cp38"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "54e17a332d1f69d21f1909a6341b62ba9ebbe97ce3b43690a4e390e6c9d23f3e",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux1_i686.whl": [
-          "a325b802bc4ccba1b3f36b33f3be227e81c471255e8cd3b685cb6864ea46be38",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux1_x86_64.whl": [
-          "92d652406501b11f4dd650ab9cf8091600ec2f018f26eb55e799862e39b6269e",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux2010_i686.whl": [
-          "8737a0547d631eba04fdaf58239c1c8fe1af6160416f17f84c4aadf79003a114",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux2010_x86_64.whl": [
-          "c0a836e51d50fcb7e2da9671d509935162aa9751e37c4fd4e48ba0d939abef7d",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux2014_aarch64.whl": [
-          "ceaed8ba217ffe4e1958cf0ee14b1a26d93a751390768c0cc4fdc019430f1430",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux2014_i686.whl": [
-          "4a9e27c3e50eb0ecd8fee57e342d048179d4a8ed2a4908e15110e090bcbfba3a",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-manylinux2014_x86_64.whl": [
-          "62109f1de73276f44ab642fc88583fe9d2e3a9721c352ea95996e6f55a19a756",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-win32.whl": [
-          "c4887ae146437fef361f5ce1fdd3cea429abf66303b3b095ca66c404ca33e971",
-          "cp39"
-        ],
-        "pyzstd-0.11.1-cp39-cp39-win_amd64.whl": [
-          "02f07696e79a70b4cf41384c5525ce630e25fbe6fd85ad50b0edd551d129f2d9",
+        "pyzstd-0.12.0-cp39-cp39-win_amd64.whl": [
+          "006198cecbb9919b277d4d6f9de7b182dbee99a79be55ffb944c0a5a21688112",
           "cp39"
         ]
       }
@@ -78826,6 +78728,18 @@
       "wheels": {
         "torchlayers_nightly-1601770773-py3-none-any.whl": [
           "df0f32daf8d0f88eb113bb8db8ebd92f4eecc73a91d841bb8dbce5709b096e97",
+          "py3"
+        ]
+      }
+    },
+    "1601857149": {
+      "sdist": [
+        "d7c20b6f66ef2d9a97d60f3b2715fb3c775d9b989e3688c8d83167dd747d8d4d",
+        "torchlayers-nightly-1601857149.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1601857149-py3-none-any.whl": [
+          "dd9de850ab512d1264e36f6c68d4f6473253ba7f5b9322daa826b5bf7cd4e6f0",
           "py3"
         ]
       }
