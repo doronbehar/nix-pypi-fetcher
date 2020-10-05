@@ -5413,6 +5413,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.0.24b20201005": {
+      "sdist": [
+        "3531129225275561c8ddec715be12606906b3b4186996b1abfd0d77410ce0cc0",
+        "autorch_sphinx_theme-0.0.24b20201005.tar.gz"
+      ],
+      "wheels": {
+        "autorch_sphinx_theme-0.0.24b20201005-py2.py3-none-any.whl": [
+          "60cc1360877af000d4324896e54a9d3ecff9f9b71a439fc4e7a7f8480b2d58b1",
+          "py2.py3"
+        ]
+      }
     }
   },
   "autowebgl": {
@@ -14169,6 +14181,12 @@
           "py2.py3"
         ]
       }
+    },
+    "2.1.4": {
+      "sdist": [
+        "4a6beecf1e8e6901512973b39ddce1ca3fb102c87ad282016eca1e5e4de25b8d",
+        "django-triggers-2.1.4.tar.gz"
+      ]
     }
   },
   "django-widgets": {
@@ -20376,6 +20394,14 @@
       "wheels": {
         "gnutools_python-1.2-py36-none-any.whl": [
           "42d61c685603a07804c89a18af01ecd37527f78b0638f9e64c35bb858b004865",
+          "py36"
+        ]
+      }
+    },
+    "1.3": {
+      "wheels": {
+        "gnutools_python-1.3-py36-none-any.whl": [
+          "4e5d580e7e430f5c88ff0122c8191566884ff170826f5be4eb0ddd0b7b169768",
           "py36"
         ]
       }
@@ -28791,84 +28817,6 @@
         "1cd62c03687e0c29945f734d11d5f847b227973cf98bd4e036119070d824dd29",
         "lesscli-0.0.9.tar.gz"
       ]
-    }
-  },
-  "libceed": {
-    "0.5": {
-      "wheels": {
-        "libceed-0.5-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "ccbaafad985c49649611786198a44f5b4433023c685ffb912269def7b38c7281",
-          "cp35"
-        ],
-        "libceed-0.5-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "5e6adc28167b373c48da068fd4113f0ace859c9aa9d1fbd87eefc05560d0a32f",
-          "cp36"
-        ],
-        "libceed-0.5-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "72d3a1e269eb1784e247fce608d71effead7c57b8f475977c42336910fb70f38",
-          "cp37"
-        ],
-        "libceed-0.5-cp38-cp38-manylinux2010_x86_64.whl": [
-          "0e66f175f4953ca495b0475f4b0a4a29cc24ab9792bade110380abd53c0daa87",
-          "cp38"
-        ]
-      }
-    },
-    "0.6": {
-      "wheels": {
-        "libceed-0.6-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "1245f466052297de39789998647509d3bf92efdcf573db16aa3e07d7c01e0ad5",
-          "cp35"
-        ],
-        "libceed-0.6-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "5a3b42b4623b10a7b366f79da04dd21aeb3175d05e285592fbd9b73764e5ad91",
-          "cp36"
-        ],
-        "libceed-0.6-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "068bc5b735ad92063398cedd37cc1e39b854e4b0aa8bebb547eca5b6434bec18",
-          "cp37"
-        ],
-        "libceed-0.6-cp38-cp38-manylinux2010_x86_64.whl": [
-          "1157dcd7cb28dbcde561911a6cfdb6e16bb3195d0e74bd070d56aa898ec36c2c",
-          "cp38"
-        ]
-      }
-    },
-    "0.7": {
-      "wheels": {
-        "libceed-0.7-cp36-cp36m-manylinux1_x86_64.whl": [
-          "fd091f5c2cb4a571e9970a09524a2b7752f35d68bec739771bbc8223dd45174a",
-          "cp36"
-        ],
-        "libceed-0.7-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "8daad9212f384f07e5a9ba3f12028043691375ff2942d4e0813bc2d9b6811d64",
-          "cp36"
-        ],
-        "libceed-0.7-cp37-cp37m-manylinux1_x86_64.whl": [
-          "84a9bc5db8c472912ecc554de0601946c2c2c10ded3c5c6832311a1c36c01f15",
-          "cp37"
-        ],
-        "libceed-0.7-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "fc0b0d22856a5ce8d7e1dfd4f036a425f787e7249e2e9e5412c6f3fede0b8185",
-          "cp37"
-        ],
-        "libceed-0.7-cp38-cp38-manylinux1_x86_64.whl": [
-          "a7f1f64c065a64c79d2031448e800a87f391d9abb5e0ac39d0d047568cda6dd9",
-          "cp38"
-        ],
-        "libceed-0.7-cp38-cp38-manylinux2010_x86_64.whl": [
-          "f9d0c18ba024787789247c2612ba63b4757d154734930e33e668e1bd1664c765",
-          "cp38"
-        ],
-        "libceed-0.7-cp39-cp39-manylinux1_x86_64.whl": [
-          "5a72607740e8c29958c29ec406993dcf9dec1dc5afd40cabb0668d397dc84302",
-          "cp39"
-        ],
-        "libceed-0.7-cp39-cp39-manylinux2010_x86_64.whl": [
-          "9ed333972632115c8d4acba4f9a5ccd46f2950934f08c5e09692fdb85bcb6625",
-          "cp39"
-        ]
-      }
     }
   },
   "libpam-hotp": {
