@@ -16702,6 +16702,12 @@
         "docassemble-1.1.80.tar.gz"
       ]
     },
+    "1.1.81": {
+      "sdist": [
+        "3fecd7141d1a30d4254322aeed2722ac3da53b9cb8b87969bceffedb5d197403",
+        "docassemble-1.1.81.tar.gz"
+      ]
+    },
     "1.1.9": {
       "sdist": [
         "9d2914fae1ac9e4807d3a97373da82e3fc9e7cef924753f7ff842574a68b88e9",
@@ -28347,6 +28353,50 @@
       }
     }
   },
+  "gsa-pytorch": {
+    "0.1.0": {
+      "sdist": [
+        "d28d86f00cf39b290caf74c0b47afde4a9ba92c0a78716fab71ed48d3012d9e7",
+        "gsa-pytorch-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "3590cf8a2c489170c41f623432eab6563217e8526d6812de9438fc64838d3686",
+        "gsa-pytorch-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "gsa_pytorch-0.1.1-py3-none-any.whl": [
+          "7b456aebfb6bd31eb1fb82dda09de171f6a166af5ba92cb7d9a3eb0e03791b67",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "f8a93cea08385967dacb5d19b0b5b31679ea68a9b1e611956d1ba2233f47dff2",
+        "gsa-pytorch-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "gsa_pytorch-0.1.2-py3-none-any.whl": [
+          "f31fc724ffd972f1f80fd8cbf7476e87d407f8d76a742a1d08447ad281098157",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "4028b2fdc89312f96e4e4ca061ff0ff6c9fd666c9113e3c58473dd69a67fb8b7",
+        "gsa-pytorch-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "gsa_pytorch-0.1.3-py3-none-any.whl": [
+          "4224c4d01a273a7c0bb201521b856f94db67b175aa9feed693cc91243f234c53",
+          "py3"
+        ]
+      }
+    }
+  },
   "gtk-task-editor": {
     "0.0.0": {
       "sdist": [
@@ -28884,6 +28934,18 @@
       "wheels": {
         "hemlock_crt-0.0.1-py3-none-any.whl": [
           "43ddfeeae3e7bfc6fc9bd4f7662d1ae91cd373ac4eda94ada2b786687f57b0b6",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "9e00e276992b909ce4dd49a1f55c0d9ce900e0ee90b49fea3a09a6d1da88d582",
+        "hemlock-crt-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "hemlock_crt-0.0.2-py3-none-any.whl": [
+          "dc50b5fbaa17857566c4a3b383bf0b7882309ba535fac6dbdbe3e2cd28c299cd",
           "py3"
         ]
       }
@@ -40746,6 +40808,18 @@
         ]
       }
     },
+    "1.15.12.0": {
+      "sdist": [
+        "fca14f09f996658f3064dedf5d76348178ae168c721cbb56ac9ccab9b21a3029",
+        "mypy-boto3-elasticbeanstalk-1.15.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elasticbeanstalk-1.15.12.0-py3-none-any.whl": [
+          "d4c8e91850826be410c5962efd1568c334704a8955199a407cefcedee38d686d",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "1697115fe8d09ac4ec7e98ce04a99b7bf3fef051a01e9c22fad887d621c2f57f",
@@ -42936,6 +43010,18 @@
       "wheels": {
         "mypy_boto3_savingsplans-1.15.11.0-py3-none-any.whl": [
           "abfd6ddda1e060b2d6a2d89eb719106c0819eaca736d1497c06dc613fd384849",
+          "py3"
+        ]
+      }
+    },
+    "1.15.12.0": {
+      "sdist": [
+        "bb736c560e9076d7d8464e0ed67487b52b79d6fa21bd6376493b6aac1cf9fe3d",
+        "mypy-boto3-savingsplans-1.15.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_savingsplans-1.15.12.0-py3-none-any.whl": [
+          "a698f876b7c9a2b44725abfefa5f45ec7c1caad7619c3cd303004e7fbc1fd30e",
           "py3"
         ]
       }
@@ -50312,14 +50398,26 @@
     }
   },
   "psstore4-ru": {
-    "0.0.2": {
+    "0.0.4": {
       "sdist": [
-        "324b98fc2714d5b2ec161c5469f0e1311f6cff9f06b8ca1edd35a4992d46afc5",
-        "psstore4-ru-0.0.2.tar.gz"
+        "1c63ef38354397ac0e8dc24d27acf6632e5b7fae70dc1ed6a89bf175cc380f3a",
+        "psstore4-ru-0.0.4.tar.gz"
       ],
       "wheels": {
-        "psstore4_ru-0.0.2-py3-none-any.whl": [
-          "61702a791d7601ddd927550c241dfbbab84b810ac20fab39330b0f6c2d98b466",
+        "psstore4_ru-0.0.4-py3-none-any.whl": [
+          "8184ed05b451c0ed15db40e0c6dbf27916d228f5a29add2871df07df91264cfa",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "fbc5eadefc857ce2cd80e4fbb3c15f7e7f79e3ef8fc9fd35599103f8642c68a6",
+        "psstore4-ru-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "psstore4_ru-0.0.5-py3-none-any.whl": [
+          "9478e17735ef0d4160e7977f46a471cacfea1c6b284922096360adf764a394a2",
           "py3"
         ]
       }
@@ -59774,6 +59872,18 @@
         ]
       }
     },
+    "0.11.3": {
+      "sdist": [
+        "d2652c797cb253be22e09c2ee5440403d7bc569e01d915b27259c190ec70f6bc",
+        "sherlockpipe-0.11.3.tar.gz"
+      ],
+      "wheels": {
+        "sherlockpipe-0.11.3-py3-none-any.whl": [
+          "5706e114c5b5975f8e14b3130b37ad51def6e2a8dad9f1381b0997137363d72f",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "a3916dd57ae00d3c70682f4be0e2ad324e3a96bc5cf00369dafe594da930d0a1",
@@ -66642,6 +66752,42 @@
       "wheels": {
         "ts_idl-0.1.dev119060100050000570-py3-none-any.whl": [
           "9fbb8995b1d641a731e400e14c2478462fa02480563b3f84e6d7eaeb21d40a43",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev122060100050000": {
+      "sdist": [
+        "858e8c710a05402110e5d71859167ddfed9589cd88229e51a25be33bde41910f",
+        "ts_idl-0.1.dev122060100050000.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev122060100050000-py3-none-any.whl": [
+          "637108284edbe93b3bf03363876c5399cfc3a8a52d3fb93923f745b78112c7ce",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev123060100050000": {
+      "sdist": [
+        "9a56ad628d850ccb8d3545ac38f6133abd62436ef98ce5ff164d41b7dfa02aba",
+        "ts_idl-0.1.dev123060100050000.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev123060100050000-py3-none-any.whl": [
+          "64344de330c070dcea97bdc4d6863f670a5559f268daf87af6eb8a8053f49754",
+          "py3"
+        ]
+      }
+    },
+    "0.1.dev124060100050000": {
+      "sdist": [
+        "c03803360bba6ab336e133acb1a0997ed00b88ecc25e32e3d6995ada5b4513d8",
+        "ts_idl-0.1.dev124060100050000.tar.gz"
+      ],
+      "wheels": {
+        "ts_idl-0.1.dev124060100050000-py3-none-any.whl": [
+          "f9875b6b64c7ad914b692d30e935b1c9df073e2e46fc51af9c5908b182ed90d6",
           "py3"
         ]
       }

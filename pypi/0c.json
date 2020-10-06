@@ -1924,6 +1924,12 @@
         "ansible-2.8.15.tar.gz"
       ]
     },
+    "2.8.16": {
+      "sdist": [
+        "4221d3a4c0d4848679dcd5a91e80fe1395371ca5bbec35c9eb4e6acfacceae16",
+        "ansible-2.8.16.tar.gz"
+      ]
+    },
     "2.8.16rc1": {
       "sdist": [
         "d5b22e08c41372268e4361ede0dd247aedf708c4722525af5184e7f6bd26b252",
@@ -2048,6 +2054,12 @@
       "sdist": [
         "3ab21588992fbfe9de3173aefd63da1267dc12892a60f5cfdc055fe19c549644",
         "ansible-2.9.13.tar.gz"
+      ]
+    },
+    "2.9.14": {
+      "sdist": [
+        "efe7183e08f0c9dd9efd9124efa8978be62851b1e8eb856593a073538bfc6fb5",
+        "ansible-2.9.14.tar.gz"
       ]
     },
     "2.9.14rc1": {
@@ -48206,6 +48218,18 @@
         ]
       }
     },
+    "1.15.12.0": {
+      "sdist": [
+        "b908a7797830880aa768c30c46acf523726ce8fbc7e3a55512c923654dfb097f",
+        "mypy-boto3-mediastore-data-1.15.12.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediastore_data-1.15.12.0-py3-none-any.whl": [
+          "902de304191228fcdca6c800ebf9a2002c1dd38dc3175265879e1895c819982e",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "5af742d347807d08cf41d8a5bb33cdcf504a078292d9d90ddd64d974cace14f8",
@@ -72347,6 +72371,52 @@
       }
     }
   },
+  "spacy-pkuseg": {
+    "0.0.26": {
+      "sdist": [
+        "acbf1d96443184c6fcf433959134c4c39c0f5cf62c91750fec8162ef466bc514",
+        "spacy_pkuseg-0.0.26.tar.gz"
+      ],
+      "wheels": {
+        "spacy_pkuseg-0.0.26-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "633305532e93ec23db0c85ff690d52e10a9292b57c72e08d4312fc236f5d0f45",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.26-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "d0e029fa58398604f2ac5f61059b8e86137351fbaad19e2029f0d01d57f6f5b9",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.26-cp36-cp36m-win_amd64.whl": [
+          "a0647db92c0e61a33ff55f47be39f7a512697f578608df8531bc65a276cb7867",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.26-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "9419c209ae73f08c46675c347c44c10b42bbf0efaf6bbfb3824c069dcc160c4c",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.26-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "044c35a76f0a7910c88c0e6e9e98445bd79238af187b0547efab2ea7dc15b962",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.26-cp37-cp37m-win_amd64.whl": [
+          "94234ff84903b51a76cdd88ced112e28f1f4ebef0cb68e99a0050e40d1266b9f",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.26-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "f56a338a808a3dd8fe322875492688b8782b4ac2b4fbe1562be5120774ba29da",
+          "cp38"
+        ],
+        "spacy_pkuseg-0.0.26-cp38-cp38-manylinux2014_x86_64.whl": [
+          "afdc32598ccfaacbecbf1e34d666161a39ffcc17093204560e9966864d7e24f0",
+          "cp38"
+        ],
+        "spacy_pkuseg-0.0.26-cp38-cp38-win_amd64.whl": [
+          "1f05831ac8a14193a57ce53dfde5be5b0fb77f8e41a430b63680c8e405480f84",
+          "cp38"
+        ]
+      }
+    }
+  },
   "speedup": {
     "0.1": {
       "wheels": {
@@ -74750,6 +74820,18 @@
       "wheels": {
         "tmate-0.1.0-py3-none-any.whl": [
           "4cc225dca81ae5722d88e60943a80da488595ceddff3b044c6d6961f267dee32",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "2821bdbd21e105240067e31ea186cfbc2f88fa3b19d4040d308c94c9057e76f8",
+        "tmate-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tmate-0.1.1-py3-none-any.whl": [
+          "b4c524e813e96978ddc4d39e564f060d71b80bc5b15efabca812d4f625b2d53b",
           "py3"
         ]
       }

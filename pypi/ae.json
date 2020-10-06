@@ -4509,6 +4509,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.0b2": {
+      "sdist": [
+        "4b21b52347ee61772fb23ee33896e09e59ee00b897d234c045a6a85bf22a0f59",
+        "azure-communication-sms-1.0.0b2.zip"
+      ],
+      "wheels": {
+        "azure_communication_sms-1.0.0b2-py2.py3-none-any.whl": [
+          "b48f254acd41b76fa5dcd3cfe60ce25bff769d527799b2d244208b927eb48524",
+          "py2.py3"
+        ]
+      }
     }
   },
   "babel-utils": {
@@ -14436,6 +14448,18 @@
       "wheels": {
         "botocore-1.18.11-py2.py3-none-any.whl": [
           "a0514ba531148af26fe36bf75c73089698a5ed8ae150695b96e7cbdf32dd232b",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.18.12": {
+      "sdist": [
+        "368f85992b0c7fda95b216776d475791c59e4c4415325fda683a02c5c110cf35",
+        "botocore-1.18.12.tar.gz"
+      ],
+      "wheels": {
+        "botocore-1.18.12-py2.py3-none-any.whl": [
+          "12b2381ee82ff32d5135c0887eadec18d38c8ff7fac06405ba6a8584f2159c3c",
           "py2.py3"
         ]
       }
@@ -56162,6 +56186,12 @@
         "omfit_base-0.0.0.0.0.0.0.tar.gz"
       ]
     },
+    "2020.10.5.7.13": {
+      "sdist": [
+        "8cb533d0a1a4fa0744340eeca7ddcccf610e652a6047dc28e535f8cf584339d5",
+        "omfit_base-2020.10.5.7.13.tar.gz"
+      ]
+    },
     "2020.7.22.23.23": {
       "sdist": [
         "eb00dfaf215c9cf8b15cdeb3e9d4c5f1c78049e3c703027c033393933f9d6335",
@@ -56222,6 +56252,12 @@
       "sdist": [
         "c1a19ecba24c04d6bb1f805ee6fdefd3f84fac2d602a49dbebadc23ef9b07d8e",
         "omfit_pdb-0.0.0.0.0.0.0.tar.gz"
+      ]
+    },
+    "2020.10.5.7.13": {
+      "sdist": [
+        "72a32efa96b00abbd86f63ef3e4646c1e50fbb1890a350d7d630360ba7e28a09",
+        "omfit_pdb-2020.10.5.7.13.tar.gz"
       ]
     },
     "2020.7.22.23.23": {
@@ -61218,6 +61254,74 @@
         ],
         "pandas-1.1.2-cp38-cp38-win_amd64.whl": [
           "026d764d0b86ee53183aa4c0b90774b6146123eeada4e24946d7d24290777be1",
+          "cp38"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "babbeda2f83b0686c9ad38d93b10516e68cdcd5771007eb80a763e98aaf44613",
+        "pandas-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "pandas-1.1.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "882012763668af54b48f1412bab95c5cc0a7ccce5a2a8221cfc3839a6e3394ef",
+          "cp36"
+        ],
+        "pandas-1.1.3-cp36-cp36m-manylinux1_i686.whl": [
+          "206d7c3e5356dcadf082e64dc25c24bc8541718045826074f96346e9d6d05a20",
+          "cp36"
+        ],
+        "pandas-1.1.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "ca31ac8578d48da354cf66a473d4d5ff99277ca71d321dc7ea4e6fad3c6bb0fd",
+          "cp36"
+        ],
+        "pandas-1.1.3-cp36-cp36m-win32.whl": [
+          "ca71a5aa9eeb3ef5b31feca7d9b6369d6b3d0b2e9c85d7a89abe3ecb013f1e86",
+          "cp36"
+        ],
+        "pandas-1.1.3-cp36-cp36m-win_amd64.whl": [
+          "54f5f564058b0280d588c3758abde82e280702c440db5faf0c686b80336096f9",
+          "cp36"
+        ],
+        "pandas-1.1.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3a038cd5da602b955d335aa80cbaa0e5774f68501ff47b9c21509906981478da",
+          "cp37"
+        ],
+        "pandas-1.1.3-cp37-cp37m-manylinux1_i686.whl": [
+          "24f61f40febe47edac271eda45d683e42838b7db2bd0f82574d9800259d2b182",
+          "cp37"
+        ],
+        "pandas-1.1.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "427be9938b2f79ab298de84f87693914cda238a27cf10580da96caf3dff64115",
+          "cp37"
+        ],
+        "pandas-1.1.3-cp37-cp37m-win32.whl": [
+          "c22e40f1b4d162ca18eb6b2c572e63eef220dbc9cc3de0241cefb77972621bb7",
+          "cp37"
+        ],
+        "pandas-1.1.3-cp37-cp37m-win_amd64.whl": [
+          "920d30fdff65a079f071db635d282b4f583c2b26f2b58d5dca218aac7c59974d",
+          "cp37"
+        ],
+        "pandas-1.1.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "d6b1f9d506dc23da2915bcae5c5968990049c9cec44108bd9855d2c7c89d91dc",
+          "cp38"
+        ],
+        "pandas-1.1.3-cp38-cp38-manylinux1_i686.whl": [
+          "b11b496c317dbe007898de699fd59eaf687d0fe8c1b7dad109db6010155d28ae",
+          "cp38"
+        ],
+        "pandas-1.1.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "d89dbc58aec1544722a8d5046f880b597c497ef8a82c5fe695b4b2effafac5ec",
+          "cp38"
+        ],
+        "pandas-1.1.3-cp38-cp38-win32.whl": [
+          "a605054fbca71ed1d08bb2aef6f73c84a579bbac956bfe8f9718d5e84cb41248",
+          "cp38"
+        ],
+        "pandas-1.1.3-cp38-cp38-win_amd64.whl": [
+          "84a4ffe668df357e31f98c829536e3a7142c3036c82f996e639f644c5d32eda1",
           "cp38"
         ]
       }
