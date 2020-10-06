@@ -2,21 +2,47 @@ with import <nixpkgs> {};
 with builtins;
 with lib;
 let
-  releaseInfo = name: ver:
+  normalizeName = name: (replaceStrings ["_"] ["-"] (toLower name));
+  nameToBucket = name:
     let
-      pkg_name = (replaceStrings ["_"] ["-"] (toLower name));
+      pkg_name = normalizeName name;
       pkg_name_first_char = elemAt (stringToCharacters pkg_name) 0;
       bucket_hash_full = hashString "sha256" pkg_name;
-      bucket =
-          elemAt (stringToCharacters bucket_hash_full) 0
-          + elemAt (stringToCharacters bucket_hash_full) 1;
+    in
+      elemAt (stringToCharacters bucket_hash_full) 0
+      + elemAt (stringToCharacters bucket_hash_full) 1;
+  releaseInfo = name: ver:
+    let
+      pkg_name = normalizeName name;
+      bucket = nameToBucket name;
       release = (fromJSON (readFile (./pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
     in
     {
-      inherit pkg_name pkg_name_first_char release;
+      inherit pkg_name release;
+      pkg_name_first_char = elemAt (stringToCharacters pkg_name) 0;
     };
+  # collect the list of package names inside a derivation for faster reading and proper caching
+  allNamesJsonFile = runCommand "all-package-names" { buildInputs = [ python3 ]; } ''
+     ${python3}/bin/python -c '
+     import json
+     from os import environ
+     buckets = []
+     for a in "0123456789abcdef":
+        for b in "0123456789abcdef":
+            buckets.append(a + b)
+     all_names = []
+     for bucket in buckets:
+        with open("${./pypi}/" + bucket + ".json") as f:
+          all_names += list(json.load(f).keys())
+     with open(environ.get("out"), "w") as out:
+        json.dump(all_names, out)
+     '
+  '';
+  allNames = fromJSON (readFile allNamesJsonFile);
 in
 rec {
+  inherit allNames;
+
   fetchPypi = fetchPypiSdist;
 
   fetchPypiSdist = pkg: ver:
