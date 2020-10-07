@@ -12514,6 +12514,30 @@
         ]
       }
     },
+    "2.5.0.84": {
+      "sdist": [
+        "a1dd26ce98aa5c9388c88e7699e9ad3239e4637b8fcd640671d4f7cc5f5a0878",
+        "c2cgeoportal_commons-2.5.0.84.tar.gz"
+      ],
+      "wheels": {
+        "c2cgeoportal_commons-2.5.0.84-py3-none-any.whl": [
+          "69b16c12cb34fc4528c3b831b258d8cf8878cd0d68a0ab178505f54bef4d99c2",
+          "py3"
+        ]
+      }
+    },
+    "2.5.0.85": {
+      "sdist": [
+        "80b62bd8b079ed9970afc7d851fe0075ecd84566cd2475ecd776aeb77e702ef3",
+        "c2cgeoportal_commons-2.5.0.85.tar.gz"
+      ],
+      "wheels": {
+        "c2cgeoportal_commons-2.5.0.85-py3-none-any.whl": [
+          "743f7af471744988bb951ff5ef5b1700a7abf4cf688443e4db3810d7c8b98360",
+          "py3"
+        ]
+      }
+    },
     "2.5.post20190502": {
       "sdist": [
         "59d8016be8cbfab678ec385aafe1ab9253e8a6a6e2595d7fc8d05bb6e3be4165",
@@ -20174,6 +20198,18 @@
       "wheels": {
         "direct_redis-0.2.3-py3-none-any.whl": [
           "58c1b0b15dfaa6068109a2666c1bae2239a53a11f97117c33941d7ecdb18a7de",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "26228bfd0be86257cab65d1fc6d652f728adfde9e58bbe5cb28f1b00dfa19d10",
+        "direct_redis-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "direct_redis-0.2.4-py3-none-any.whl": [
+          "444eb4464c921c406e2459854f861e02c0565083c89903baf11f63bb6526b473",
           "py3"
         ]
       }
@@ -45605,6 +45641,18 @@
           "py3"
         ]
       }
+    },
+    "3.5.2": {
+      "sdist": [
+        "d9b3d32a768220633a41a15737b525ebe24b143dbaa870a082982640c49146d5",
+        "mpcontribs-client-3.5.2.tar.gz"
+      ],
+      "wheels": {
+        "mpcontribs_client-3.5.2-py3-none-any.whl": [
+          "28db48da9376989f2e4852b837b08283bff7225c20a7d57e5b0da122f6b92a27",
+          "py3"
+        ]
+      }
     }
   },
   "mpl-helpers": {
@@ -48274,6 +48322,18 @@
       "wheels": {
         "mypy_boto3_mediastore_data-1.15.13.0-py3-none-any.whl": [
           "0e064ab3ac536a2abcb9ac3e1efeb4d8227a1addab4f2fe4deb98b00d90ed571",
+          "py3"
+        ]
+      }
+    },
+    "1.15.13.1": {
+      "sdist": [
+        "89f942c8fb83f0c33dae9bdfe23e52edde2feea6721755557f44e25da6e22c37",
+        "mypy-boto3-mediastore-data-1.15.13.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediastore_data-1.15.13.1-py3-none-any.whl": [
+          "7eaab987dfef58e73d4dceab3911ebe4e81f7a9d3e59ddcb96f648efacd58d04",
           "py3"
         ]
       }
@@ -59816,6 +59876,14 @@
       "wheels": {
         "pybase_db-0.4.1-py3-none-any.whl": [
           "16c9f2c3561fb9ea8b54445e6c1418f99306fdf30540f20e40a14f4b349d66f1",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0.dev0": {
+      "wheels": {
+        "pybase_db-1.0.0.dev0-py3-none-any.whl": [
+          "4863c6d19593110629f7b5c6477bab2d011745ce12985faa8a8f4bf53e035af1",
           "py3"
         ]
       }
@@ -72492,6 +72560,50 @@
         ],
         "spacy_pkuseg-0.0.26-cp38-cp38-win_amd64.whl": [
           "1f05831ac8a14193a57ce53dfde5be5b0fb77f8e41a430b63680c8e405480f84",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.27": {
+      "sdist": [
+        "0ab597e0eea9357ffa21e9ccba0f06af07db6b48cbe3cbb811916b68f5284a38",
+        "spacy_pkuseg-0.0.27.tar.gz"
+      ],
+      "wheels": {
+        "spacy_pkuseg-0.0.27-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "147867ed4fb6d3eec81215ffa07a7b38cf09255b4caf57b2ca2a01dd6b233293",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.27-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "ae753036e2f1a4f22cf0dc1900a59c404222ea66f3cf552caed2c35b406698ad",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.27-cp36-cp36m-win_amd64.whl": [
+          "8314c955d1c4f698e0106aca8e80fb23abed71b57c9a3870fbaf71652154f4b1",
+          "cp36"
+        ],
+        "spacy_pkuseg-0.0.27-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ad181b4c4dc0927cbd89115626b4d20e68d11b87a3790bf6ecce97ab9bfeb49e",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.27-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "3fdbddb2dff9f28733d8b5297cf6ee6a9d2d9d632ef80c9ed4787af1f45b92b8",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.27-cp37-cp37m-win_amd64.whl": [
+          "1016a25882fd02a4d9be8263a2d52f973fa0c35cf0437d0d945bc682c2ec1ec0",
+          "cp37"
+        ],
+        "spacy_pkuseg-0.0.27-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3afdd9c846f628a89684d7de36922632a6f38b073bc241c1c11b0b9cc11879d5",
+          "cp38"
+        ],
+        "spacy_pkuseg-0.0.27-cp38-cp38-manylinux2014_x86_64.whl": [
+          "418b8ddd4c34bbea9017fa8fc43697670cbeb335f20df4949f812804a4129ba4",
+          "cp38"
+        ],
+        "spacy_pkuseg-0.0.27-cp38-cp38-win_amd64.whl": [
+          "ee715f6f9e34bd4f1d7610976ec7c6278cebfb0a74dcd2c20bf9b3d12edb529d",
           "cp38"
         ]
       }

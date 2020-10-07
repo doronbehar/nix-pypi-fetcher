@@ -5301,6 +5301,18 @@
           "py3"
         ]
       }
+    },
+    "1.66.0": {
+      "sdist": [
+        "ff572fc3c2605bb618322455500d88c68099666fa839ee2706460a8670e6355f",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.66.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.66.0-py3-none-any.whl": [
+          "50a89ab894364f8989be9df79c1f8658319e3ed212f161c59dcb7b0b8b16f3e9",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawsautoscalinghooktargets": {
@@ -22018,6 +22030,12 @@
       "sdist": [
         "fcb351a844d97889841b56569f59ca581de31a088c54c134fd88ee852b695bee",
         "get-chromedriver-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "94fd435a6eea0a57c789b67d296dc68f87e4a1a2649ce1073e24abb7c54a6fee",
+        "get-chromedriver-1.1.3.tar.gz"
       ]
     }
   },
@@ -42802,6 +42820,18 @@
         ]
       }
     },
+    "1.15.13.1": {
+      "sdist": [
+        "4a2daba055095f2125bdfc9f83efeb3e9485adcc9a548cc5d380e2176c3ac7f3",
+        "mypy-boto3-amplify-1.15.13.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.15.13.1-py3-none-any.whl": [
+          "af620f611f05914f1fd361b3d96e04d72f77d305b2038fadea6a6dd492c33166",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "b1129427299e6c8f66c979741bdfce06784a863f530787fb4e4c2962e58e6313",
@@ -45032,6 +45062,18 @@
         ]
       }
     },
+    "1.15.13.1": {
+      "sdist": [
+        "8465ac8cc3c04939730e8b02cddddb5118f9d1519823e436a9abcc73febbdc04",
+        "mypy-boto3-elb-1.15.13.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.15.13.1-py3-none-any.whl": [
+          "5f6986814f4c3df5d26b17f47015271db93a8c1048e43556f1ace96d047a0527",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "aeac62a5da89d9831377203de73f7f9ac8527a6f990acba8549a3fe714489036",
@@ -47250,6 +47292,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.15.13.0-py3-none-any.whl": [
           "462913847c75194ea38838db8d20628dd2ec56bd2a196adfdaec2d3709ec40ff",
+          "py3"
+        ]
+      }
+    },
+    "1.15.13.1": {
+      "sdist": [
+        "576f8d1a88a98a52e0db16777928ee39543a7a546fd4536b0ea291704e7d8728",
+        "mypy-boto3-meteringmarketplace-1.15.13.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.15.13.1-py3-none-any.whl": [
+          "ab5e649bbc5e63711557a120800eb7072b6032b122375f75d07fa41d55d2c6c9",
           "py3"
         ]
       }
@@ -82982,6 +83036,42 @@
         ],
         "tf_nightly-2.4.0.dev20201006-cp38-cp38-win_amd64.whl": [
           "f418e864f01909e37b862041495b732f9a5120dc7236ec8a03eea510ea19d81f",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20201007": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20201007-cp35-cp35m-macosx_10_6_intel.whl": [
+          "54a73ddaddd578bd9ef6a5da81725d727233bff4a35ac3dc5e928a332c7e34a8",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "db01916d050e1f7dc537c463ab8128cd2e82b8e1e8c3afaf140f47589ee3489f",
+          "cp35"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "887e18346eaab7d523d9823bf912193a1e429a9b3ead0b5297bbc6f2e82df957",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b4f12e81a70e54fd08bcb151cf8cfe3547f47be3a8767472ee1c6ba6467c6993",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ec7356047c0f70a01918dd19061252fc47a32369cedd1fe697622099b23d70d8",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "12ca87589d0cf1f077f5c339b8992f459b7cfd8a20d6a04e0827f6c675840a6c",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "410bafc3568f221996d32b8bd02fbcecbb7e343b52aa4b9809c7ed88aa480ba9",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201007-cp38-cp38-manylinux2010_x86_64.whl": [
+          "2c9f3073aca2993ed87c152a7997084a19dd441d5dd0c1ebbeaf3bd314fa1b9e",
           "cp38"
         ]
       }
