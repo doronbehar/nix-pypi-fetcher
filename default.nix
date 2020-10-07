@@ -1,4 +1,9 @@
-with import <nixpkgs> {};
+{
+  fetcherSrc ? ./.,
+  pkgs,
+  ...
+}:
+with pkgs;
 with builtins;
 with lib;
 let
@@ -15,7 +20,7 @@ let
     let
       pkg_name = normalizeName name;
       bucket = nameToBucket name;
-      release = (fromJSON (readFile (./pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
+      release = (fromJSON (readFile ("${fetcherSrc}/pypi" + "/${bucket}.json")))."${pkg_name}"."${ver}";
     in
     {
       inherit pkg_name release;
@@ -32,7 +37,7 @@ let
             buckets.append(a + b)
      all_names = []
      for bucket in buckets:
-        with open("${./pypi}/" + bucket + ".json") as f:
+        with open("${fetcherSrc}/pypi/" + bucket + ".json") as f:
           all_names += list(json.load(f).keys())
      with open(environ.get("out"), "w") as out:
         json.dump(all_names, out)
