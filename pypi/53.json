@@ -365,6 +365,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "6bfd007747507be5254380f8fe33abbe4c718e5f0bd6097c35691785554de39f",
+        "adagio-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "adagio-0.2.2-py3-none-any.whl": [
+          "efd48f4ea4f04317660414bec142da6a024c65916feaed4038968133e58a8f06",
+          "py3"
+        ]
+      }
     }
   },
   "addpack": {
@@ -3842,6 +3854,12 @@
       "sdist": [
         "7c2c79c93d402193923d4484ab34d9103bb23d25b0ad0a52047a0aca7839e047",
         "arosics-0.9.9.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "f0296264228bc8e2fcefb14762b6fe545a1437afa37017a740ec0e8a8565b110",
+        "arosics-1.0.0.tar.gz"
       ]
     }
   },
@@ -20360,6 +20378,14 @@
           "f66deeb031e69514f7b2ea2b5c84a7ee1a06935f0265d316913a75a7ad083896",
           "cp36"
         ],
+        "ecmwflibs-0.0.40-cp36-cp36m-win32.whl": [
+          "aef2318ef208be6edbf636cab30a0e8e846cc52a8190019b0d5b22f7dae9d243",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.40-cp36-cp36m-win_amd64.whl": [
+          "c9b3c7b3430a60a53debd4fdb0ad5f890893a5e5e1bee72744d218e4128c1b1c",
+          "cp36"
+        ],
         "ecmwflibs-0.0.40-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "46ea1afe6c2fd8d7efe16bcdd0526d9c41ce90b2fa75b880fa3a492b0863f163",
           "cp37"
@@ -20368,12 +20394,152 @@
           "ff2bd65873aecf68d333b5844c45a60e62a04dd67987424157d4faaed8308583",
           "cp37"
         ],
+        "ecmwflibs-0.0.40-cp37-cp37m-win32.whl": [
+          "8781a7dd438d79706f411b0632725c4dfe7dbdea759f3d3a5b7ad11289ef23b2",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.40-cp37-cp37m-win_amd64.whl": [
+          "9b3c16f3384c1e941a3666470b1427453f56e41bcc4c13f4d021669669265ab3",
+          "cp37"
+        ],
         "ecmwflibs-0.0.40-cp38-cp38-macosx_10_14_x86_64.whl": [
           "459dc9c30d85fa1b985decd85bda0dbdf9b775a9272a52a4e64c33fa0dad6cec",
           "cp38"
         ],
         "ecmwflibs-0.0.40-cp38-cp38-manylinux2014_x86_64.whl": [
           "51dac040022e85995dd81c02f3a8e326c9184fc9799691257208bd910bb664f7",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.40-cp38-cp38-win32.whl": [
+          "bd465d293b4e5d6338d5d5a6e4db43349b05d3fd271d2567d2b338745fe8ad56",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.40-cp38-cp38-win_amd64.whl": [
+          "21a497375b5178a7404f124e16d687f0f9de95a551413d3e332457f9b65b7b12",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.41": {
+      "wheels": {
+        "ecmwflibs-0.0.41-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "0383dd19f8e89512ca8a9131096b0a53227cca64a89e6c67a04183ec8f59eaba",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.41-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "915e0843ce58d9b7bb75137433d89996a5a6f5fc30f88622b94f2f6d745af71a",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.41-cp36-cp36m-win32.whl": [
+          "8ee5e5b70e202530982fcbe372a71116ed0981a0fe42ae85b22538539a325361",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.41-cp36-cp36m-win_amd64.whl": [
+          "0755dbc4563efa26a77c6258aea270455792d9835e2c558183e78c7af4426d7a",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.41-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "d8816723eb2e554c7022a8a1974c81bd238a1cf0d8f9273a5038c1244d9ad14a",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.41-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "42e4d2ebb2d24f679db00a2433324bcd2dd27a4dab848efc3f28b577e783b646",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.41-cp37-cp37m-win32.whl": [
+          "2d9722b7a97b5be94b41a578d7c531a7b3152391c58c3d889dc6ba172917af9c",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.41-cp37-cp37m-win_amd64.whl": [
+          "3b8e68854942157fb171b44f6ffab3a4cf372ff207c688793d5e973943c38652",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.41-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "bcacc0d942dfb147de0e7d91a5a334c2ec7725764436f8ad34764c13fa37067b",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.41-cp38-cp38-manylinux2014_x86_64.whl": [
+          "e12d91ea63df9658229371e6579701819d060e1450036055e4e0ffeb7fc87a69",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.41-cp38-cp38-win32.whl": [
+          "f6f72c527439314211159f4b4dc99e971bb561664477a61b4cee4e1b62ecc3fd",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.41-cp38-cp38-win_amd64.whl": [
+          "f82a921ac0f1006a12afead119ef5b2e988dbb7a7b002a543d3e42de9543899e",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.42": {
+      "wheels": {
+        "ecmwflibs-0.0.42-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "cfc7264ca7697c1f9cd9ee60a4f79b81a0583172bee63e07276e2267afeb715f",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.42-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "87f862d0ba4380b4410bb35c16331ac9a54c11c933c064e1574a936d23a32978",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.42-cp38-cp38-manylinux2014_x86_64.whl": [
+          "cfdd557e3ab83accde6a122febd006ebfe8e08b3cfc77d2a85000a7e681f90cc",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.42-cp38-cp38-win_amd64.whl": [
+          "16f68af36ec79690266663c403e8c1b62c86da6b4162406ac90d05ebad8b9f2c",
+          "cp38"
+        ]
+      }
+    },
+    "0.0.43": {
+      "wheels": {
+        "ecmwflibs-0.0.43-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "d5eb5f5774662fbab0ccb56f4a8403bcfa1f94f478d9f2fce58b4a758185c283",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.43-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "55384ed4ac774765bb7b803db32111af0bf05df78818c3dc8afacbeb92601b16",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.43-cp36-cp36m-win32.whl": [
+          "319519a37c66e2546f971f5a40c981d445504b2ff8e33123d663c096581d189d",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.43-cp36-cp36m-win_amd64.whl": [
+          "120748409e59c3eb3f78ef4f7cda5ccc7c232e9dc4ead798a870e18bd4a622ab",
+          "cp36"
+        ],
+        "ecmwflibs-0.0.43-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "d969d2d864cb63d13f707c8044619c9a60fc2c5c09abba3fc1b0fbb1887609b9",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.43-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "8983db3eee9ca2dacdafd21e3fe45faaac308d6cd30698c9a4a22a71259e8e8d",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.43-cp37-cp37m-win32.whl": [
+          "e5a7abafbc93615f71e43af4c0d5d66fecf92b284ab3ae361dc6fad7c8fd7c19",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.43-cp37-cp37m-win_amd64.whl": [
+          "e93c1963025835eae808688e11e9fe8b8605821d1273e008934e5c90cbf0f790",
+          "cp37"
+        ],
+        "ecmwflibs-0.0.43-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "19a0badf84ebf06aea108d1435346942ad03b70e723457f143a437aa05afbbfb",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.43-cp38-cp38-manylinux2014_x86_64.whl": [
+          "ba0fde2ccb7bf554d284a44a43cf7a420d1200148f53d504b7ca0f0d99415710",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.43-cp38-cp38-win32.whl": [
+          "46235ece33a264611cf5808fbcfda3b5f943264ddcbcd80eb3eac4153015a686",
+          "cp38"
+        ],
+        "ecmwflibs-0.0.43-cp38-cp38-win_amd64.whl": [
+          "efea7f6422247f839324ab082632ad5e0efbd5be90084718af9b7b4ca853aa1c",
           "cp38"
         ]
       }
@@ -23572,6 +23738,18 @@
       "wheels": {
         "etm_dgraham-4.6.11-py2.py3-none-any.whl": [
           "6264e4a9e6377df5d1a6aa849902326af20eb64161f69d4767b57043e28ccee3",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.6.12": {
+      "sdist": [
+        "fc55d705e26c7ec389f4c2431900f18a03c22e3f26b7414b1033a0421d9fbd10",
+        "etm-dgraham-4.6.12.tar.gz"
+      ],
+      "wheels": {
+        "etm_dgraham-4.6.12-py2.py3-none-any.whl": [
+          "264a4867c1a8e83eff58aa85222b9e282c8bd7ee57168b4336ec54c9243f7b4a",
           "py2.py3"
         ]
       }
@@ -56056,6 +56234,18 @@
       "wheels": {
         "pyppyn-0.3.4-py2.py3-none-any.whl": [
           "fce8df579b4ab28d2ee6bc44573440ac39956c5e2fb323e11b5f79e408a85461",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.40": {
+      "sdist": [
+        "821d058a177bd7003ddc23da5eb15523af1d4a760ac415032920b7acf4b2dcfe",
+        "pyppyn-0.3.40.tar.gz"
+      ],
+      "wheels": {
+        "pyppyn-0.3.40-py2.py3-none-any.whl": [
+          "fcf92a84b50c82dc1b2d419589d177425259e87345117b614af00d534c00566e",
           "py2.py3"
         ]
       }

@@ -8799,6 +8799,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.9.0": {
+      "sdist": [
+        "402264a1550547454d25ae23d908b6af16744105997d1209b518d374bbc232f8",
+        "certbot-dns-google-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "certbot_dns_google-1.9.0-py2.py3-none-any.whl": [
+          "bbe3939a55aa95d0dd7e373c0a23724f4eed39f71d91cf39b75f913df16c56d0",
+          "py2.py3"
+        ]
+      }
     }
   },
   "certg": {
@@ -13844,6 +13856,14 @@
       "sdist": [
         "43fbd3c6c206c30b93c0ede31d6446d9640b5b6e7cbd0e2379b6457b2e775c08",
         "delicious_links-0.6dev-r6.tar.gz"
+      ]
+    }
+  },
+  "dfa-wrapper": {
+    "0.0.1": {
+      "sdist": [
+        "cf68704bce16668bdb57b503346b2a6d3b2196bb337cfd8f8a80765e09383c37",
+        "dfa-wrapper-0.0.1.tar.gz"
       ]
     }
   },
@@ -24559,6 +24579,32 @@
         "0d54be28d24089436f14dd63191a3e7b8c215e9c05146ef4deae4c8ea7a89665",
         "funniest_yassine-1.0.tar.gz"
       ]
+    }
+  },
+  "galpak": {
+    "1.30.0": {
+      "sdist": [
+        "6eef68b583960944c28f7a46d9b3ee13a108e53932dcd721cb1113c442e9b4be",
+        "galpak-1.30.0.tar.gz"
+      ],
+      "wheels": {
+        "galpak-1.30.0-py3-none-any.whl": [
+          "1e58d4e6bb8ac61f1ad1a4a7570f68bdeb3f5b5dea9a784ab25c0d1bc15e7db2",
+          "py3"
+        ]
+      }
+    },
+    "1.30.1": {
+      "sdist": [
+        "ff06669a778fa00d70d519cf5206fd067408c37bb40fbcb3f6465135349a3c50",
+        "galpak-1.30.1.tar.gz"
+      ],
+      "wheels": {
+        "galpak-1.30.1-py3-none-any.whl": [
+          "28dbdd8866b8cc001635cd302423d52bec25969f55e95782fe5edddb48a52f23",
+          "py3"
+        ]
+      }
     }
   },
   "game-hero": {
@@ -40014,6 +40060,18 @@
         ]
       }
     },
+    "1.15.13.0": {
+      "sdist": [
+        "f58611cca8a6d0b02de059e4ad10d22308f94678d80e8c0d9ff7564675f9b1bd",
+        "mypy-boto3-kendra-1.15.13.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kendra-1.15.13.0-py3-none-any.whl": [
+          "ff350e95faf974da3be560568f4233766728b399cc62cfd6512facdd7248ab7e",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "554d7fc761b654b1733dcc63599e7314e174c1d8f41b3570808d4b7bb93e95aa",
@@ -44144,6 +44202,46 @@
         ],
         "OpenGeode_GeosciencesIO-3.0.1-cp38-cp38-win_amd64.whl": [
           "32e48c486cda4f499bb90dafa8b583c498cfb60f62319ebb76f908b9c7a453f9",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.2": {
+      "wheels": {
+        "OpenGeode_GeosciencesIO-3.0.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "1b177fcbac39a9faa9ca983a37b31b19a9af43800c26c631406aa1831922cdbd",
+          "cp36"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "d5c320cb7c427ea4649d13a3e28ee85cdf6f2d48105b83d4b5b5e76a30eddec7",
+          "cp36"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp36-cp36m-win_amd64.whl": [
+          "78a46b72591be3f920b7907545311910fb56b604c4603cd5ed35a3a290362e4d",
+          "cp36"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "4016ba09c306e98b262453a49901078a3327626be1db75aa04c7f3708d44d897",
+          "cp37"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "456e6d01d08b18ecc751ae7f8b6fb7f2f0c3aaf8ee3b433a0a53694f825a4003",
+          "cp37"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp37-cp37m-win_amd64.whl": [
+          "930723c87aba42e2b7c97ae725c161ea36f0995fd3e6988755b01b9de6041abe",
+          "cp37"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "e1948945f38736bc4094c340aca380706a8c0e627e5639f2cea143f1564306ca",
+          "cp38"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "f50dfd4f5fd3f48ecb964edb75d945159bdc97558e0cdc419b84e1055ac95cba",
+          "cp38"
+        ],
+        "OpenGeode_GeosciencesIO-3.0.2-cp38-cp38-win_amd64.whl": [
+          "521543cf785a4d381a3c09865dfe5ac4344e40e217b385d16b88941b9a4b407b",
           "cp38"
         ]
       }

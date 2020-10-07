@@ -14187,6 +14187,12 @@
         "3fc51113bf8eb28b25767c95aa350e9340952da14840b89b477b57158d895ec2",
         "CTid-programmer-1.2.6.tar.gz"
       ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "eee750303a2ff07881d88e8e6f8fb60971b31ac7c59277313cd259deaf53056c",
+        "CTid-programmer-1.3.1.tar.gz"
+      ]
     }
   },
   "ctui": {
@@ -47552,6 +47558,18 @@
         ]
       }
     },
+    "1.15.13.0": {
+      "sdist": [
+        "17c4e385148384b5ccd3a7560f6a45a740b2363059312360a3ebf3590e49382c",
+        "mypy-boto3-chime-1.15.13.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_chime-1.15.13.0-py3-none-any.whl": [
+          "f7ad2c017642a12dc8b7077cde33d43823def073a0a155ab71b4c2a7ed433225",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "60aef12ce1e25de4fefdec73d3b122ade89475161d923539aff898c639be2094",
@@ -55004,30 +55022,30 @@
     }
   },
   "origen-pyapi": {
-    "2.0.0-pre2": {
+    "2.0.0-dev3": {
       "wheels": {
-        "origen_pyapi-2.0.0_pre2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "9c0f660fbb51b0aa7652dc0b840a0ab1121e18b647b1d85dcf0046bbb47a12f2",
+        "origen_pyapi-2.0.0_dev3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8cf19eb30cb183dd02e5f9f10dd241d7822499f5c64616853cbfad737856134a",
           "cp36"
         ],
-        "origen_pyapi-2.0.0_pre2-cp36-none-win_amd64.whl": [
-          "ebbd94ade3cb3bc47a7dcf1abc0a904966a0757e612e65bafcf91563d72ffe62",
+        "origen_pyapi-2.0.0_dev3-cp36-none-win_amd64.whl": [
+          "6140bb9ced08cd9c9c23349fc85d20996b9cb676b752521cbeb5f5a9bcec0cff",
           "cp36"
         ],
-        "origen_pyapi-2.0.0_pre2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "9eef8d160760700a2b0bba40cc6d7c2846fdec19c6145ec102c155f102fc3f7d",
+        "origen_pyapi-2.0.0_dev3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b94be51250f18c9e95218c7b7feec04c7a83a215bfc0a739a14148aaf041a379",
           "cp37"
         ],
-        "origen_pyapi-2.0.0_pre2-cp37-none-win_amd64.whl": [
-          "ce7d65570d51643cd42ef31beced78d71aa5c8b66383046d0f64392e15ea77e7",
+        "origen_pyapi-2.0.0_dev3-cp37-none-win_amd64.whl": [
+          "81e037edc2218e5179165a1424087cdd1cf30c5ce01df76dd7899fc154a10d25",
           "cp37"
         ],
-        "origen_pyapi-2.0.0_pre2-cp38-cp38-manylinux1_x86_64.whl": [
-          "06a5b3f3d3bed1cfad320d6e2a69504f14371525137d0339f810fab49f00781f",
+        "origen_pyapi-2.0.0_dev3-cp38-cp38-manylinux1_x86_64.whl": [
+          "367af19faa4f7612342cff5482498e89bdef456ca3407302c56279e1ab1795e2",
           "cp38"
         ],
-        "origen_pyapi-2.0.0_pre2-cp38-none-win_amd64.whl": [
-          "dc631ca90df8d94ac0ed9a50cc6e0f759b549c326e7f2a9518c12abf38e50d5f",
+        "origen_pyapi-2.0.0_dev3-cp38-none-win_amd64.whl": [
+          "e20f52a03b0c37542f57503cf3ed9c23d4ac5a649c82118dc8e659bceb5c2dce",
           "cp38"
         ]
       }
@@ -79382,6 +79400,22 @@
         ]
       }
     },
+    "2.12.0a1602004762": {
+      "wheels": {
+        "pulumi-2.12.0a1602004762-py2.py3-none-any.whl": [
+          "7fbb4410a0ec702657dd2376b2b45f82571788a9cfec8ed95fc385fa8d268397",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.12.0a1602028481": {
+      "wheels": {
+        "pulumi-2.12.0a1602028481-py2.py3-none-any.whl": [
+          "a17d351c7bf69ecdd5c46049ae8ba9281c34665abbd0d6ad4998436f6e2163f1",
+          "py2.py3"
+        ]
+      }
+    },
     "2.2.0": {
       "wheels": {
         "pulumi-2.2.0-py2.py3-none-any.whl": [
@@ -83360,12 +83394,6 @@
     }
   },
   "pyguibox": {
-    "0.1": {
-      "sdist": [
-        "bb80dc9e9a246cd3b27b8a4b8c3a83399e3d847280d2388bb98a23ed13bfe31b",
-        "PyGUIBox-0.1.tar.gz"
-      ]
-    },
     "0.2": {
       "sdist": [
         "ae6637b2140ca26e04cb6c7fbdee7340d4bce60e492d9fe6a5041c34c1e357de",
@@ -90131,6 +90159,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "0819735211ddc195c613aef0df8a54a736a476876589ea24decce6cfa0d7454d",
+        "rivr-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "rivr-0.8.0-py3-none-any.whl": [
+          "0f51e90d8c538273b648a0b77cb6a1f8ad630722f2fd7d50fadff5465abc3723",
+          "py3"
+        ]
+      }
     }
   },
   "rnr": {
@@ -92921,6 +92961,20 @@
         "2dc8339c7bf5811b5e55ee90ffbd0a52bd846db75ef8a42f67c82c3644be3590",
         "senaite.core.listing-1.5.2.zip"
       ]
+    }
+  },
+  "sengen": {
+    "0.1.0": {
+      "sdist": [
+        "d3340a9847e8b8cd04deab558fddfe4d089ecda6fe302f20b0a2f0e56bb4b672",
+        "sengen-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "sengen-0.1.0-py3-none-any.whl": [
+          "d20d5a1d2414144ba1bc9db255b7fad9f1316d04b1325845f94897a90b951130",
+          "py3"
+        ]
+      }
     }
   },
   "seriate": {
@@ -97582,6 +97636,18 @@
       "wheels": {
         "triad-0.4.2-py3-none-any.whl": [
           "c636733ef68a50e30ee8e9b5222310e009cdb7250684fec60b3c2f3da0a1ded4",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "fb52506384dd2bd8ca15c552d8a6623a2684c35211450ee5647d6cfd7b2dd24a",
+        "triad-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "triad-0.4.3-py3-none-any.whl": [
+          "451bc26f91b5132f15126084ee38c65698362a58eaa544a2548921ff09d61fae",
           "py3"
         ]
       }

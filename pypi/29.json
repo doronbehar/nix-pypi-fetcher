@@ -2126,6 +2126,18 @@
     }
   },
   "apache-airflow-backport-providers-sqlite": {
+    "2020.10.5": {
+      "sdist": [
+        "9a50e3dcacaa3e73dbbd411ad873e97545cece9b92515ae4e7ed8c861eb00ff2",
+        "apache-airflow-backport-providers-sqlite-2020.10.5.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_sqlite-2020.10.5-py3-none-any.whl": [
+          "220acd87a989bc1873712becc8745fb1b3ef4ab24d7f219e5f9ab18de5a5290e",
+          "py3"
+        ]
+      }
+    },
     "2020.10.5rc1": {
       "sdist": [
         "7c37ef53b64eb82c2280ff51c6c5465539272e5d1ca3e33e5ac05af93caf1d97",
@@ -25398,6 +25410,30 @@
         ]
       }
     },
+    "0.1.26": {
+      "sdist": [
+        "c3459bf2a7812029724ce66b632060b688be73a06e2c44745750b8419e77940a",
+        "govee_api_laggat-0.1.26.tar.gz"
+      ],
+      "wheels": {
+        "govee_api_laggat-0.1.26-py3-none-any.whl": [
+          "c40e0c930dba732041bbe31b81f5a68527c7cb9cdebfc80af27fe305667ecd51",
+          "py3"
+        ]
+      }
+    },
+    "0.1.27": {
+      "sdist": [
+        "8242ec186d98a3de8b522efb8c133c28e51c2db206a85cb974e7144e29d5149f",
+        "govee_api_laggat-0.1.27.tar.gz"
+      ],
+      "wheels": {
+        "govee_api_laggat-0.1.27-py3-none-any.whl": [
+          "003c2369674800c2edde58a716d3e7e060aae81534b0af31bcf17ec0f80ca997",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "064c73a22fec6e67fa1dcbe203450424476a2d17c3339e1d7837fea600292e60",
@@ -37113,6 +37149,58 @@
           "cp38"
         ]
       }
+    },
+    "0.5.5": {
+      "wheels": {
+        "mft-0.5.5-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "f2495f736514cad6abb747fcf5417162f64915d954b11d127878431a9d50cb31",
+          "cp35"
+        ],
+        "mft-0.5.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "fc34a615d95fa3acae3429235627667255a2a522d64599b05164eed94b964f4d",
+          "cp35"
+        ],
+        "mft-0.5.5-cp35-none-win_amd64.whl": [
+          "93c7c7e2458f765f50cba55e17a9af1a543a7b29b406d6a32474dd57958476ef",
+          "cp35"
+        ],
+        "mft-0.5.5-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "629d6a0bc2570f558d99a851d9770905b94254f26b2768c6bdd528b455e988a5",
+          "cp36"
+        ],
+        "mft-0.5.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "4b0a9104f0ed8af8f3c51767888b858e66e3a27c590525ac5941e65e1980ecee",
+          "cp36"
+        ],
+        "mft-0.5.5-cp36-none-win_amd64.whl": [
+          "f08e3068b9f1077d91111c638e610120d3f5e495ba3153380dfb2d047b44d5d2",
+          "cp36"
+        ],
+        "mft-0.5.5-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "a1a9b2bfe54855ccd2877860f85e4ce6f7e07839a098011089da06c1be4fe856",
+          "cp37"
+        ],
+        "mft-0.5.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "66133e025f463ce326aab895adf33fdba2144d3c9376253892123838defa7a42",
+          "cp37"
+        ],
+        "mft-0.5.5-cp37-none-win_amd64.whl": [
+          "cedb225c10bd6ac6cd007a3fb7e46e2ba309807c11100b9ef9f7293924d744ea",
+          "cp37"
+        ],
+        "mft-0.5.5-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "195f468e6217f1e485035baf25d66303769c34085b33ee0d11c60eb47b31e940",
+          "cp38"
+        ],
+        "mft-0.5.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "223525d49b6d4195fd6d278b3b4ac9d8289a6543eb2428dbcb4e72b2aaa54df3",
+          "cp38"
+        ],
+        "mft-0.5.5-cp38-none-win_amd64.whl": [
+          "92d75ee2ccf855f9aaf40283cb181e10b69b94219a0604cceb86eb6af1b0c6f8",
+          "cp38"
+        ]
+      }
     }
   },
   "microbitble": {
@@ -41598,6 +41686,18 @@
       "wheels": {
         "mypy_boto3_cloudfront-1.15.12.1-py3-none-any.whl": [
           "c18afc59838f131bc8dbea518bde71442033f710a3b58a5dde53cfdc32c5bda6",
+          "py3"
+        ]
+      }
+    },
+    "1.15.13.0": {
+      "sdist": [
+        "14a5b3287cf9ed716b1c2122c0bc3772d66175efdef58aa139be670b7449e38c",
+        "mypy-boto3-cloudfront-1.15.13.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudfront-1.15.13.0-py3-none-any.whl": [
+          "e2a793d58f2374e5b70f1b9864c66475e65d9f3e69ff4ddcd3fd77b7479f7c3f",
           "py3"
         ]
       }
