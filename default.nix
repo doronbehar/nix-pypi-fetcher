@@ -20,7 +20,7 @@ let
     let
       pkg_name = normalizeName name;
       bucket = nameToBucket name;
-      release = (fromJSON (readFile ("${fetcherSrc}/pypi" + "/${bucket}.json")))."${pkg_name}"."${ver}";
+      release = (fromJSON (readFile (fetcherSrc + /pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
     in
     {
       inherit pkg_name release;
