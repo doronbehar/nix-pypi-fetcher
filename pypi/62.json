@@ -384,6 +384,12 @@
         "act-workers-1.0.30.tar.gz"
       ]
     },
+    "1.0.31": {
+      "sdist": [
+        "f91cf3b4dedc35eb97a095fe913729af2b7f95f87baeed0f8ada38fa1676b118",
+        "act-workers-1.0.31.tar.gz"
+      ]
+    },
     "1.0.4": {
       "sdist": [
         "d29760a3fc055781fa6ad5a6cb99eccf23f798fc30e2f9477657a097b69c384e",
@@ -6794,6 +6800,30 @@
         ]
       }
     },
+    "1.1.11": {
+      "sdist": [
+        "3dc4037a59e9469b3525e0c3e6166a23a553d1283a3f59160c7550da90d89ac9",
+        "bits-auth-1.1.11.tar.gz"
+      ],
+      "wheels": {
+        "bits_auth-1.1.11-py3-none-any.whl": [
+          "a36971a2da1aea487b721feeea1a8f4b7eccba11264d6a3f0c778187063f9824",
+          "py3"
+        ]
+      }
+    },
+    "1.1.12": {
+      "sdist": [
+        "481781e9281aa25a6be79854f71c0004ef731ce8ef4d8ed7570c8f15de445614",
+        "bits-auth-1.1.12.tar.gz"
+      ],
+      "wheels": {
+        "bits_auth-1.1.12-py3-none-any.whl": [
+          "0984d423a57503b93050c99057236074665e05bc85d593f8e7f21993037d3309",
+          "py3"
+        ]
+      }
+    },
     "1.1.2": {
       "sdist": [
         "c28ec812aa08f59b8a1089f1119818fb52299df5178caf1c539b03b167bfff4f",
@@ -11143,6 +11173,106 @@
         "clevercsv-0.6.4-cp38-cp38-win_amd64.whl": [
           "4e4c98fa4f076a888e35d2b569ca5881b8cb33b96ff11168de5d739d5f891567",
           "cp38"
+        ]
+      }
+    },
+    "0.6.5": {
+      "sdist": [
+        "01129ca52157f4b5c5e0c357e23b468c614a112cfd2ec15536ed56789a308c94",
+        "clevercsv-0.6.5.tar.gz"
+      ],
+      "wheels": {
+        "clevercsv-0.6.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "284087a4f185aab8ec7fc501bb9b3198ebe9d0c79506e829816551104cb72e68",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-manylinux1_i686.whl": [
+          "082413d07ff79812161ada57cdf46e77777d4fa7abdc9501e26e27883e63bf32",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8609b6f8b9dc998a96fa56c1331f57da1a8397c5fb926f47910d449e9c7d4a09",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-manylinux2010_i686.whl": [
+          "7c9df4d2e5283eaf007507f1e607dbc19fd7cc81eb5341fea5449e3867cd9478",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "fbc21e3441d38e244a846819c502437f2c1a40c5c1eccca70a385cf7cb0073cf",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-win32.whl": [
+          "c4e1e6fb6c6bed724042fbdfc7cee032dcaba6e103c984f09d46257343117000",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp36-cp36m-win_amd64.whl": [
+          "ae579c45ad60e23d2c74a4cdd7b530b0194f5593ddac95c9112965c35e3dfb58",
+          "cp36"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "84b4fdde5fad712a5af86ac5124da4dac612d85c2a5236d645da37f2a97a8da1",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-manylinux1_i686.whl": [
+          "f893c7fc3ec879191bc323fcbf7f529e26ddf46c7ed09989c8c6e8a3914cfe02",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "39dd90a2a43db95df9f7b37b940da6ad956ffe3c75c00ba5a897c1f89c37bb74",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-manylinux2010_i686.whl": [
+          "45bd5cc5eb2d65a3f9ce860bb75654eabaea248c6f07cd204cca2d2d4710a9cc",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "f98735b71a8ca44212fe4cabfe94b14b2844dd327346db5ffb53447fd8465022",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-win32.whl": [
+          "5e2609bfc9caf7fdb7e0925b166b6c21e053f7c2f2c733c204a2e502f1be8b74",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp37-cp37m-win_amd64.whl": [
+          "79430006b50207884a6ed802ad224d6cc16c696ae99edf9a4e1e4909afb5c224",
+          "cp37"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1c920c38fad9c51ac582cdcabf5763324b020a20c2758d44b0391560d8545d4e",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-manylinux1_i686.whl": [
+          "8daf0f2895e48eb125e3a7fcf3fd8512e8c8ec87b1bb878242e0fe15d54fec6d",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "a2f5f7f32446d000f457a50f8b591ecf27ab739150b169262116f493d17e0ee6",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-manylinux2010_i686.whl": [
+          "05a6e413d3f76d981086e72084dc104d6f7bae2b2fadc3ecee37b5c5ec5ac628",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "25f406656c7efe52b4c16e4c783bd68c7476f5fee672ad98e5ebfd765103fa83",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-win32.whl": [
+          "6d5e3360f1f4677ce33339929f02a2915cceddb6c3ec295381fcb4951a428c0d",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp38-cp38-win_amd64.whl": [
+          "49869db95af51bb2f7d79aa9e1142622dc1d6fe1ea4a2760e80cd49b7a72b22c",
+          "cp38"
+        ],
+        "clevercsv-0.6.5-cp39-cp39-win32.whl": [
+          "a0f35b15403829375435004ab5f9fac5b980d7a9425b3d05e1df35ba69e049f3",
+          "cp39"
+        ],
+        "clevercsv-0.6.5-cp39-cp39-win_amd64.whl": [
+          "7f70c80a617ff32acbc2ea1a8832977a249c58ac22012fe9c6216f841e7d3db5",
+          "cp39"
         ]
       }
     }
@@ -31002,6 +31132,18 @@
       "wheels": {
         "importit-0.1.2-py3-none-any.whl": [
           "ea542df0872e6d67c20643bb46d0f3e09c942d0333c39612949aaa608b433b75",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "6a62f72b1e9016bb09c203e83020fc856f35a3c518c5a7f0dbee4f15abc47cc1",
+        "importit-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "importit-0.1.3-py3-none-any.whl": [
+          "edce2a9fa2ebac21c67604f4601c467d4f97856f58237645f3a56ba8316f43a2",
           "py3"
         ]
       }
