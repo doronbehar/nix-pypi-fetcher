@@ -3004,6 +3004,18 @@
         ]
       }
     },
+    "1.67.0": {
+      "sdist": [
+        "588a6c5bc79f5405cbc9c8b315f3535943d77f6736f3f9c45d50100a0be57e59",
+        "aws-cdk.aws-docdb-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_docdb-1.67.0-py3-none-any.whl": [
+          "ff80e211f50d60a7aaec89087a57709269f48a170b1bf00b165838454116738b",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "264537df0b86278cbf79c375fb203ad05cfe2c157aafa347b7d399c2b78a432f",
@@ -4214,6 +4226,18 @@
       "wheels": {
         "aws_cdk.aws_iam-1.66.0-py3-none-any.whl": [
           "242ca49135411b1dba2070cd675d65ebc88d9506597c8fb4d65d22d86d9268bb",
+          "py3"
+        ]
+      }
+    },
+    "1.67.0": {
+      "sdist": [
+        "8de89035b27cef3531ba33fdce594f8d71cfa456b9ec6f303ff3eeb7bea55d27",
+        "aws-cdk.aws-iam-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iam-1.67.0-py3-none-any.whl": [
+          "2933f6f9a6eaefabb584d7cfef6911e51047294d9957569d9aedd436367225e1",
           "py3"
         ]
       }
@@ -8570,6 +8594,30 @@
       "wheels": {
         "click_skeleton-0.8.2-py3-none-any.whl": [
           "675d4dfcf49d003ac66af694c57d12538950ad40c2e42e5ed780811e95df703c",
+          "py3"
+        ]
+      }
+    },
+    "0.8.3": {
+      "sdist": [
+        "72a8e82915bb2d3396bc18baf343c38af145fffbe8d1223505219f24db08d92b",
+        "click-skeleton-0.8.3.tar.gz"
+      ],
+      "wheels": {
+        "click_skeleton-0.8.3-py3-none-any.whl": [
+          "0bdd4a211bf87c29bae8c24ea5d64e81709dcdb7cc8ffa6c615d6ce0c34c6b1a",
+          "py3"
+        ]
+      }
+    },
+    "0.8.4": {
+      "sdist": [
+        "3fddca6b9f5f147f395dcc6511587a67a6b5b70e2b79a874c4d9c9efed45a96f",
+        "click-skeleton-0.8.4.tar.gz"
+      ],
+      "wheels": {
+        "click_skeleton-0.8.4-py3-none-any.whl": [
+          "c8a67c4f1f740c181d13cd2370e79a19abfee0e420544713c7a9c726a3fb979c",
           "py3"
         ]
       }
@@ -17999,6 +18047,12 @@
         "eaffbdd0df72731f345921f5d6c68ef031976f9688b8fd35c5ec60c8394b3730",
         "flask_login_dictabase_blueprint-1.0.9.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "ba2c927058c8acc6e500e48ea8e264c7185d409fce01e5cf812b44e46be8cdc1",
+        "flask_login_dictabase_blueprint-1.1.0.tar.gz"
+      ]
     }
   },
   "flask-login-openerp": {
@@ -24452,6 +24506,14 @@
       "wheels": {
         "kafe-1.3.1-py2.py3-none-any.whl": [
           "71f454b20a633c772c42ab0c6462dd979d4d768209375515d00955d6180ef4d0",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "wheels": {
+        "kafe-1.3.2-py2.py3-none-any.whl": [
+          "7e8e33f09d01711529b5d7b8a4ad3be999b6378836ced4662cd3ad61c5af8f35",
           "py2.py3"
         ]
       }
@@ -32044,6 +32106,18 @@
       "wheels": {
         "mypy_boto3_marketplace_catalog-1.15.13.1-py3-none-any.whl": [
           "50283c9dc9a9f56c798a8f447b3bb88ce91baf6349f814d49053bd9297991c3d",
+          "py3"
+        ]
+      }
+    },
+    "1.15.14.0": {
+      "sdist": [
+        "26d5154ba9f7bd0ef3ca21553752e902e480c3777e3a7819955b0bac02793310",
+        "mypy-boto3-marketplace-catalog-1.15.14.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_marketplace_catalog-1.15.14.0-py3-none-any.whl": [
+          "0f7f3f8e2127994d30cd0d292e1fefb99d0b42a83ce3a93f68b58113965dba87",
           "py3"
         ]
       }
@@ -62544,7 +62618,13 @@
       "sdist": [
         "8cb420c989bc9d6852cd4c05960a48dd3210443e778827f07b72e5a4e3eb14f1",
         "spacy-transformers-0.6.2.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "spacy_transformers-0.6.2-py2.py3-none-any.whl": [
+          "66f2b0da21bad51465dfb39e88a95dedc8bc919d249f94cad20c45e6046d90d7",
+          "py2.py3"
+        ]
+      }
     },
     "1.0.0a0": {
       "sdist": [
@@ -62632,6 +62712,30 @@
       "wheels": {
         "spacy_transformers-1.0.0a17-py2.py3-none-any.whl": [
           "1929176c13709972579931d293b59e302497c332e9ffcab866d2a905b0bae590",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0a18": {
+      "sdist": [
+        "ada532cca802ba72c5ff92063f0b9c16aade213fe08077b092fb2954069c8418",
+        "spacy-transformers-1.0.0a18.tar.gz"
+      ],
+      "wheels": {
+        "spacy_transformers-1.0.0a18-py2.py3-none-any.whl": [
+          "303153e4d7be6845e458a14603cb269500ad2872a56bbcb520c4c4370db502ed",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0a19": {
+      "sdist": [
+        "e586d3ac2743837f5f9ba1f35f8de825ee31c8695a8bc583efcab92822eef321",
+        "spacy-transformers-1.0.0a19.tar.gz"
+      ],
+      "wheels": {
+        "spacy_transformers-1.0.0a19-py2.py3-none-any.whl": [
+          "a8ff2eae8b4b5959497d315c05da8a62296605ecb4d25c91792cc9b3ff14b79e",
           "py2.py3"
         ]
       }

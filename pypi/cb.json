@@ -4408,6 +4408,18 @@
         ]
       }
     },
+    "1.67.0": {
+      "sdist": [
+        "6d7b2eb3f5cb9498be2bec4121e58455da0546ccedf650fe05b803467e59b22f",
+        "aws-cdk.aws-dlm-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.67.0-py3-none-any.whl": [
+          "dd9ff4ef7aafaf4dd27f518fa89550aaef7ff25592e6f0cd0db30682df96daae",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2ab3bf27a7b3d365d8b286db9989090e14b8601a4d5778b9232a25c4e7dfaa89",
@@ -43369,6 +43381,42 @@
         "180a92c2ad560b065788dba17244ef03e9b6ddbf3e5d35c8bb32e41c7e82dcc8",
         "lumaserv-domain-api-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "027a45d0736fe88c3bb44eb5c519b4b0b314886bd047fa627e7ef2d34fc3dbe4",
+        "lumaserv-domain-api-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "lumaserv_domain_api-0.0.5-py3-none-any.whl": [
+          "b27aa775ac577b9e2df2baea3763e8229b9782b3b702835b1b1087cd10e79134",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "62d42d4f100ca1ff108a7e540af1cf69bbf2c6fd8592e0661aeae45d9e909424",
+        "lumaserv-domain-api-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "lumaserv_domain_api-0.0.6-py3-none-any.whl": [
+          "3ac29a9f5ae3fb9b7b60fe8bda8f0e1ee6f8daf3d75e31b175ca57351462244d",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "96da22d64150787f0b72a4bbba547e4f654edf114b3ac41d49bf0e8a9b6acc49",
+        "lumaserv-domain-api-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "lumaserv_domain_api-0.0.7-py3-none-any.whl": [
+          "9553788558f723de9226856d2ee1f7469ca8a9cfb9f29e702872309184055978",
+          "py3"
+        ]
+      }
     }
   },
   "lupa": {
@@ -57458,6 +57506,24 @@
         "pycollector-0.0.16.tar.gz"
       ]
     },
+    "0.0.17": {
+      "sdist": [
+        "6ea8d7ee48ed213686880270e2a3332de041c560db01330581908827ea2a1a8f",
+        "pycollector-0.0.17.tar.gz"
+      ]
+    },
+    "0.0.18": {
+      "sdist": [
+        "c1519350e9d6521248f2b5f26d95d2e44ff743dabef46f8162da99adb157f679",
+        "pycollector-0.0.18.tar.gz"
+      ]
+    },
+    "0.0.19": {
+      "sdist": [
+        "981a06e0d7415843e3ac5fd7e83c90964988b45965d6e4df1a98ca304b3720b8",
+        "pycollector-0.0.19.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "9dc282d04a1023bee306d48618231d0aaddeb2948238fe230d2acc0c0b55aeab",
@@ -68038,6 +68104,14 @@
       "wheels": {
         "shopwareapi-0.0.22-py3-none-any.whl": [
           "9342d81e304d82c7922eb255a6adcab857a4ef9524712906b890b4b4d6cfc560",
+          "py3"
+        ]
+      }
+    },
+    "0.0.23": {
+      "wheels": {
+        "shopwareapi-0.0.23-py3-none-any.whl": [
+          "cfceca92a60331fb70b51755227ed8ae5ef7e3bf4d3dc86d1ee9b1c438c35951",
           "py3"
         ]
       }
@@ -80914,12 +80988,20 @@
           "48f368f54e782731d57f1dfac84e4b60c7e0d3d4088f747abb0b0f54869f949a",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20201007-cp35-cp35m-win_amd64.whl": [
+          "4a69e7b1ba4d15841e978c3994d6f777f45ede39b21e4501f37f179f3205fcca",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201007-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "7de290df94cc25b1ead2ef525edb5e8ebfe9723ffe8965df486ba0a846b2c28c",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20201007-cp36-cp36m-manylinux2010_x86_64.whl": [
           "2f707f1d62027edd824b1c50d8186f3147e84654b5029e17595840e1d0ad4de7",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201007-cp36-cp36m-win_amd64.whl": [
+          "7ea07d75a04b8a92ce86c37ece0ccc4142bb0e77f98454a24af762271c1ebd39",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20201007-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -80930,12 +81012,20 @@
           "12916476a6558693150b2910fce8e6427f31bcf74bba907e8e65438538f9e10e",
           "cp37"
         ],
+        "tf_nightly_cpu-2.4.0.dev20201007-cp37-cp37m-win_amd64.whl": [
+          "6076364c56f69c3a06db7150c72022d82b7486e984f99cbbfda1a9c5cb0c3f65",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201007-cp38-cp38-macosx_10_14_x86_64.whl": [
           "15348af8a5d14f27b01b56b16af1083d7a16c8f76bad7b19c89c14b824e1bfbd",
           "cp38"
         ],
         "tf_nightly_cpu-2.4.0.dev20201007-cp38-cp38-manylinux2010_x86_64.whl": [
           "79bebd656f967d41356d3e22529daf0fb1e0d3c026c914b62041e2ac3f4c4810",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201007-cp38-cp38-win_amd64.whl": [
+          "08b6ae90a94584d2b537bea3b20881326b682f2e687c808dac9421b930221f32",
           "cp38"
         ]
       }

@@ -6147,6 +6147,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "92f5b9264cf433aba34e3f61ca88b364ccc063c4806a8e1a8be877a4550e9eb6",
+        "bistiming-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "bistiming-0.5.0-py2.py3-none-any.whl": [
+          "a146ec5f5f669f7f91c994773c81f08e2eae52809e90eaed2fa8f77842a7e969",
+          "py2.py3"
+        ]
+      }
     }
   },
   "bitcoin-deposit-worker": {
@@ -8549,6 +8561,42 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "6896100049ab814169448b6768fc5e9d49784bccd98fc46213364332ad4e0fe6",
+        "ckan_crawler-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "ckan_crawler-0.1.4-py3-none-any.whl": [
+          "b1f819b4f73e30871f2fdaae6a9017e852d9e2f6fb1a33a9794a02aba8dac2d0",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "87696264caa819e8b7772946535a26c12e72519d5f935c5cb6f90922ef45b9f8",
+        "ckan_crawler-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "ckan_crawler-0.1.5-py3-none-any.whl": [
+          "044400daf2af5695acfc3af2d8a1ae59b7ab3aa64e86718355511c311e9957d8",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "dddd8b4a3c848055d78ab28f2190280c49ab9a4672c93efcc64d8845bc63e907",
+        "ckan_crawler-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "ckan_crawler-0.1.6-py3-none-any.whl": [
+          "666519f7cd3b46e0714f5616cc886b0cc8cdc2094e5006fdd104dbec8098309b",
+          "py3"
+        ]
+      }
     }
   },
   "ckanext-dc-serve": {
@@ -9996,17 +10044,17 @@
         ]
       }
     },
-    "1.2b1": {
+    "1.2b2": {
       "sdist": [
-        "e3383b78f39853b28e2627dd66aeb0430dbe757a2565419fea9e068bd7a37f97",
-        "crypto_history-1.2b1.tar.gz"
-      ],
-      "wheels": {
-        "crypto_history-1.2b1-py3-none-any.whl": [
-          "f3ba8ac72da534d4291cd4791182a70450fd5a58cdfbc83c6a61218a6e166aa2",
-          "py3"
-        ]
-      }
+        "c9e064d2664af35bfc19ce661824fed9ec1f33c9d2998980919349634d5d1aea",
+        "crypto_history-1.2b2.tar.gz"
+      ]
+    },
+    "1.2b3": {
+      "sdist": [
+        "a67ee9b7020eaad0217cbf224ed6cbbc1a16af6c7cca1c4c6f824baf65f148e6",
+        "crypto_history-1.2b3.tar.gz"
+      ]
     }
   },
   "cryptography-with-deps": {
@@ -21011,6 +21059,20 @@
         "fortlab-0.1.3-py2.py3-none-any.whl": [
           "7a46ad5482dcdd168ed65021aebf4a7f5743403032266c8a53ef191e3913c4d5",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "fotofy-cv": {
+    "1.0.0": {
+      "sdist": [
+        "180aefe733eca496b46ed7ac4d2a6b6b14dcc5315e963182c5d872d1e32b0c4d",
+        "fotofy-cv-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "fotofy_cv-1.0.0-py3-none-any.whl": [
+          "ac8d1fca19c593d05f41bf4aaf1890e21825fb46cccc2a8f291c20eaa48f2c93",
+          "py3"
         ]
       }
     }
@@ -37508,6 +37570,18 @@
         "onepanel-sdk-0.12.0rc0.tar.gz"
       ]
     },
+    "0.13.0": {
+      "sdist": [
+        "50dc96f264a946945b7763a268eed067f17479eb46229aa00daacf8739a731f8",
+        "onepanel-sdk-0.13.0.tar.gz"
+      ]
+    },
+    "0.13.0b0": {
+      "sdist": [
+        "dadc875475645a41be3856b61f02a627771d83d844dfbfc563f1047609570d5a",
+        "onepanel-sdk-0.13.0b0.tar.gz"
+      ]
+    },
     "0.9.0": {
       "sdist": [
         "c9837d2ea1d957ceaf00c984e5b403e8ab311d253702f055a7a422a5027d245e",
@@ -53442,20 +53516,6 @@
       "wheels": {
         "sekigae-0.0.5-py3-none-any.whl": [
           "55b95254de93f87eebf9147b126e70aa7803e0ef55ba02fbd0c6d8fbb89469bf",
-          "py3"
-        ]
-      }
-    }
-  },
-  "sentry-with-smtp": {
-    "2020.8.12": {
-      "sdist": [
-        "e6edc578dc1fbf9ec4cba4e971c6b6fe9461a1e7451ecadfeda198912cb119cf",
-        "sentry_with_smtp-2020.8.12.tar.gz"
-      ],
-      "wheels": {
-        "sentry_with_smtp-2020.8.12-py3-none-any.whl": [
-          "8935fcf1dfb191326a29cfc30edc8d28b94fe679c68db41cf5540df980720c74",
           "py3"
         ]
       }

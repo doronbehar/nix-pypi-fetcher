@@ -3069,6 +3069,18 @@
           "py3"
         ]
       }
+    },
+    "1.67.0": {
+      "sdist": [
+        "6fec6eb1a13267403c0bb411f26c20a8ddc8f76fe1f9fd567d8518d5e7f46eaf",
+        "aws-cdk.aws-macie-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_macie-1.67.0-py3-none-any.whl": [
+          "ea9cb5ecab42578f9a43a40d5d63dad1419be5c93543d730310adea1cf8d5dd2",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-powertools": {
@@ -6325,6 +6337,20 @@
       ]
     }
   },
+  "checkrequirements": {
+    "2020": {
+      "sdist": [
+        "702375d4e2c477fb16ae19fdd85d160c5a31d5ef93860cc8a0af4a3681d54248",
+        "checkrequirements-2020.tar.gz"
+      ],
+      "wheels": {
+        "checkrequirements-2020-py3-none-any.whl": [
+          "7d2cb3c887c9dfcb067c6329f63acd08da10e4bfdf100db39633a3ecbec964ae",
+          "py3"
+        ]
+      }
+    }
+  },
   "chill": {
     "0.1.1": {
       "sdist": [
@@ -6846,6 +6872,18 @@
       "wheels": {
         "ciphit-0.5.1-py3-none-any.whl": [
           "f1978c708175ae3e2d7eb48a1f7d54df419ab0155678edb11a6de8a7e70c721c",
+          "py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "b675fbbeca89ccd3b5e73f287d3026158f24bde30667ba0646edaad092c2de2c",
+        "ciphit-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "ciphit-0.5.2-py3-none-any.whl": [
+          "95ec27723afacbe6d2384949e22e27cb264a1c1b4ae5b804797cda8af96214d4",
           "py3"
         ]
       }
@@ -8244,6 +8282,12 @@
       "sdist": [
         "d256a2462c5177d2b39d7207aea8e58d272996686c714289db907535b0f15213",
         "cornellGrading-1.1.2.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "22c44bca8fd9af542a117767bd982f491701769070b4607a68bb41e0ba92d807",
+        "cornellGrading-1.2.0.tar.gz"
       ]
     }
   },
@@ -12502,6 +12546,18 @@
       "wheels": {
         "davtelepot-2.6.17-py3-none-any.whl": [
           "d6767a9fd65d97e441809255122aa9c529173976690ec8ce9ad9cf7114dcaa12",
+          "py3"
+        ]
+      }
+    },
+    "2.6.18": {
+      "sdist": [
+        "204d729159a928973c9096d46ae47869227196efe86d3b35b4009d969130ae75",
+        "davtelepot-2.6.18.tar.gz"
+      ],
+      "wheels": {
+        "davtelepot-2.6.18-py3-none-any.whl": [
+          "503f44095014b0115baa02b8de10722cc23eae678542c636c7ee550f3aa43cc8",
           "py3"
         ]
       }
@@ -44257,6 +44313,12 @@
         "b0c38e1048de034183cd45063fe219eab9b9e030bb869b1c8449c0b030f0d1c8",
         "morecantile-1.3.0.post1.tar.gz"
       ]
+    },
+    "1.3.1": {
+      "sdist": [
+        "ed009d34a1c024bc5609b7624224b14c949a9857a640bded058dd1d254e4697a",
+        "morecantile-1.3.1.tar.gz"
+      ]
     }
   },
   "mpris2": {
@@ -61361,6 +61423,54 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "wheels": {
+        "pyr2-1.1.0-py3-none-macosx_10_14_x86_64.whl": [
+          "92c6827cc322fd4b789970913eda5aa5191451bdd81e7433c1eba839ca0fdbdb",
+          "py3"
+        ],
+        "pyr2-1.1.0-py3-none-manylinux1_x86_64.whl": [
+          "cd19521b93e700ee52d692ba2bdc51fe0507aeaebd005504a834af3c209f3f93",
+          "py3"
+        ],
+        "pyr2-1.1.0-py3-none-win_amd64.whl": [
+          "a7d0c855a831bd7d991bb23e6cec4672578da1e696f1a0b31bdb1eaa2421d45b",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "pyr2-1.1.1-py3-none-macosx_10_14_x86_64.whl": [
+          "d425496da892f252683dd3517fd0296fb0dc52c261229df0ae439d9b7470ae3e",
+          "py3"
+        ],
+        "pyr2-1.1.1-py3-none-manylinux1_x86_64.whl": [
+          "654607f55a614f34a9cfe2be72b52cc747852b77e19f25cccd09261b35697a1a",
+          "py3"
+        ],
+        "pyr2-1.1.1-py3-none-win_amd64.whl": [
+          "ec4fe6d00e18eca6f1261712e07f641acab83c44ed8724c6b603e4f28e2e2ccd",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "pyr2-1.1.2-py3-none-macosx_10_14_x86_64.whl": [
+          "1c3b57eb3bf402122818ef54368889556182e3975368f1447a91b0d695891a37",
+          "py3"
+        ],
+        "pyr2-1.1.2-py3-none-manylinux1_x86_64.whl": [
+          "2c352f88895a509346103d477d3c34542d80f4631dd823ad6922c3758fdda666",
+          "py3"
+        ],
+        "pyr2-1.1.2-py3-none-win_amd64.whl": [
+          "1aebe710d78ba053e495c737f647dddef6231d63f114e909a81da33b2d751600",
+          "py3"
+        ]
+      }
     }
   },
   "pyrc": {
@@ -77212,6 +77322,14 @@
       "wheels": {
         "yaxil-0.4a0-py2.py3-none-any.whl": [
           "a1c01b87c9dc2f634bd4c29db00389a8a5f2729338b5d296ca22af0e29b6013d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "wheels": {
+        "yaxil-0.5.0-py2.py3-none-any.whl": [
+          "1fc31a8e27b6fda3363f0473dcf388e72ceb3ac4d8c6b06bff41d39a836d0e2d",
           "py2.py3"
         ]
       }
