@@ -18976,6 +18976,12 @@
         "django-chroniker-1.0.20.tar.gz"
       ]
     },
+    "1.0.22": {
+      "sdist": [
+        "02919f794d69112aa06eda740bedc88818ea4a2964db9855f60426baeb87de56",
+        "django-chroniker-1.0.22.tar.gz"
+      ]
+    },
     "1.0.3": {
       "sdist": [
         "7738a5f586465a6f81469808e0000fd2c5d45f18d4ed40a5e9a9957cb694f13b",
@@ -35967,6 +35973,12 @@
         "30018c3c7373541f051808541acc6a825317ec98fe59f4dadd88c96a25379a94",
         "jupyter-flex-0.6.2.tar.gz"
       ]
+    },
+    "0.6.3": {
+      "sdist": [
+        "cdd048ccab85942be49c23cec4c8849103788f81692f622b335ce0c18e5f6fa6",
+        "jupyter-flex-0.6.3.tar.gz"
+      ]
     }
   },
   "jupyterhub-legacy-py2-singleuser": {
@@ -43016,6 +43028,70 @@
         ],
         "Mosek-9.2.25-cp38-cp38-win_amd64.whl": [
           "1c55d34a94bba4c3aa1b9faf3154b11c5ebe87d55701a187acb3e7f62cebda88",
+          "cp38"
+        ]
+      }
+    },
+    "9.2.26": {
+      "wheels": {
+        "Mosek-9.2.26-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "a0c5f4b957cc2bcf9f5c91021743b9dc8204f889b8bf4a9f7a60d6e924f3139e",
+          "cp27"
+        ],
+        "Mosek-9.2.26-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "e23da939b1dee11dd9cf384c51fff531815d05d38323d64d0835d3333485acdc",
+          "cp27"
+        ],
+        "Mosek-9.2.26-cp27-cp27m-win32.whl": [
+          "5b92e7fb1bfc3e8142d92ffcff3b0f12d8fed663b571ce62eb5789801bc9dfeb",
+          "cp27"
+        ],
+        "Mosek-9.2.26-cp27-cp27m-win_amd64.whl": [
+          "373b0a2530d3b3c2f1710c92ef007f2628658c05f7b6d8ec590fec9404596cb3",
+          "cp27"
+        ],
+        "Mosek-9.2.26-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "cd8b653ff7285a2493e01e2be87971c15c8aa1a78722dea222b8b3701bb0255f",
+          "cp36"
+        ],
+        "Mosek-9.2.26-cp36-cp36m-manylinux1_x86_64.whl": [
+          "4ec864119c444038c5a0df5cc63aaad6fcf96560cd7002c66704f9b5d61b1bc4",
+          "cp36"
+        ],
+        "Mosek-9.2.26-cp36-cp36m-win32.whl": [
+          "ba83d53a093d28cf1940b05b7eb657985a8b4a6334f31e2f85257aa44913f8ea",
+          "cp36"
+        ],
+        "Mosek-9.2.26-cp36-cp36m-win_amd64.whl": [
+          "aa06c6afcbdd0e2f864d8171e311713487e013dc26f400985bca1778bd814ca0",
+          "cp36"
+        ],
+        "Mosek-9.2.26-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "e464b0432c058624102c46c2322063709d96baab7afb419a4e01455154f35d66",
+          "cp37"
+        ],
+        "Mosek-9.2.26-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1b5dd1a91f780c28ae653c4128db5915bd0577d5abfdb64cbd80d7b1248623a4",
+          "cp37"
+        ],
+        "Mosek-9.2.26-cp37-cp37m-win32.whl": [
+          "20efa53058511a453c5ec9f21d5d12cc736f3300345c716412b8205adc5f84c2",
+          "cp37"
+        ],
+        "Mosek-9.2.26-cp37-cp37m-win_amd64.whl": [
+          "6a16053f5d288f6788481707699e047e78e79fdbd991d20c96ed418ffa18c8ef",
+          "cp37"
+        ],
+        "Mosek-9.2.26-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "39cdb22e9a83aced50de4c69cbeb433d57f6b9c2ad05d232529c33ee73bc067d",
+          "cp38"
+        ],
+        "Mosek-9.2.26-cp38-cp38-manylinux1_x86_64.whl": [
+          "3ee65997f5af727acc114aeab3fe6a48f37171bb23572a937df312901910e290",
+          "cp38"
+        ],
+        "Mosek-9.2.26-cp38-cp38-win_amd64.whl": [
+          "3849ddd9688e71d919989a33ad344db3c3736f21b98bcc83230e1e30d0a7803e",
           "cp38"
         ]
       }
@@ -74831,20 +74907,6 @@
         "trello_api_py-0.0.2-py3-none-any.whl": [
           "a95ef5ddc59bdcee8397478d81cdc8f3b4502acfdf9bac12667c00cec187d549",
           "py3"
-        ]
-      }
-    }
-  },
-  "trembolo": {
-    "0.0.1": {
-      "sdist": [
-        "6a0004527990eabe47207731fb1d3cbb00d057242e7376351d8360294667c0c4",
-        "trembolo-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "trembolo-0.0.1-py2-none-any.whl": [
-          "0d11b6fe9d97dbd881982c23bfe1c382b5cc119b3e4525e1db72fe74dc235626",
-          "py2"
         ]
       }
     }

@@ -7942,6 +7942,18 @@
         "codecov-2.1.1.tar.gz"
       ]
     },
+    "2.1.10": {
+      "sdist": [
+        "d30ad6084501224b1ba699cbf018a340bb9553eb2701301c14133995fdd84f33",
+        "codecov-2.1.10.tar.gz"
+      ],
+      "wheels": {
+        "codecov-2.1.10-py2.py3-none-any.whl": [
+          "61bc71b5f58be8000bf9235aa9d0112f8fd3acca00aa02191bb81426d22a8584",
+          "py2.py3"
+        ]
+      }
+    },
     "2.1.3": {
       "sdist": [
         "2ebd639d8f621aabcce399e475b0302e436cb7e00e7724d1b2224bbf3f215a0c",
@@ -12454,6 +12466,18 @@
       "wheels": {
         "django_cool-1.0.1-py3-none-any.whl": [
           "ade316a9902e659ec2fbec056c3dd69fe8816c5ef7a9cce75ae5a89f69bffa5f",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "fc615b82e9b98aaba8bb39cccaa72c13a0604b0c6280777909e127e170faa153",
+        "django-cool-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "django_cool-1.0.2-py3-none-any.whl": [
+          "43c49e9b7a5599ffae08b1149fe4872309e8dce8d005aa2255be1b6a632d1ba4",
           "py3"
         ]
       }
@@ -31655,44 +31679,6 @@
       }
     }
   },
-  "kyanit-buildtools": {
-    "1.0.0.dev1": {
-      "sdist": [
-        "72f961c391b5ac3fa1bbd1a28be12acbf07d1fd8bb3119ef9c40f0757594da9e",
-        "kyanit-buildtools-1.0.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "kyanit_buildtools-1.0.0.dev1-py3-none-any.whl": [
-          "3920c5bfe290df48b193c5637103b441a1f4d23611b61071b860c5e5e2d03838",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev3": {
-      "sdist": [
-        "3161b857c218b1d576291687a6264bcf2a694cc997de50e95375482554b5490c",
-        "kyanit-buildtools-1.0.0.dev3.tar.gz"
-      ],
-      "wheels": {
-        "kyanit_buildtools-1.0.0.dev3-py2.py3-none-any.whl": [
-          "351449a2bf0b74492a53230d3c74db12c3cc093574ca3d8a9732c5345d67ab4f",
-          "py2.py3"
-        ]
-      }
-    },
-    "1.0.0.dev32": {
-      "sdist": [
-        "e9f29144dc10abb97f94598cd1bde799c81d9d40be084282e68732390a958958",
-        "kyanit-buildtools-1.0.0.dev32.tar.gz"
-      ],
-      "wheels": {
-        "kyanit_buildtools-1.0.0.dev32-py2.py3-none-any.whl": [
-          "182f5ba2ec34bf60982d4db349b15fee47d3b785cc1eaeb7d94dc31ca5e8baa3",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "lalaland": {
     "1.0.1": {
       "sdist": [
@@ -42336,6 +42322,20 @@
       "wheels": {
         "proto_inspect-0.1-py3-none-any.whl": [
           "d8b6b98bf1bc4472487ffbbb2781d302ff3e0441a6580a6e6c5b61e8c62be377",
+          "py3"
+        ]
+      }
+    }
+  },
+  "proto-template": {
+    "0.0.0": {
+      "sdist": [
+        "535852fbf0c5a01427480c11490db43b533b7396284df77bc923bd7d7425e8a2",
+        "proto-template-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "proto_template-0.0.0-py3-none-any.whl": [
+          "65908a9fa0489e4adeaf446bdc89cf4545bdff0e2d78068c66ec2ff0e2155bb6",
           "py3"
         ]
       }
@@ -54172,30 +54172,30 @@
         ]
       }
     },
-    "0.1.1.58": {
+    "0.1.1.59": {
       "wheels": {
-        "robomaster-0.1.1.58-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "c96ea493418c21dde7f31ce4886dc431bd203f3928b4d848d514a01d775875b8",
+        "robomaster-0.1.1.59-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "b06ce0abdd3aaf20bcdd25d8a187905c1a543baa56f4ae1273b83542c70a56fe",
           "cp36"
         ],
-        "robomaster-0.1.1.58-cp36-cp36m-win_amd64.whl": [
-          "a75e102e8c96c251fc81db7f8266b344e7ac2d7896493f94c9d27d55ba7a810c",
+        "robomaster-0.1.1.59-cp36-cp36m-win_amd64.whl": [
+          "98d9b1f52841bf9df9b3d247bfc55b10c207d5a3ac47304cf86aad5db97feba8",
           "cp36"
         ],
-        "robomaster-0.1.1.58-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "6d3df44462c05efc559f4fe5fc5706f55988a2f6dbf07e39f128c7909da49c12",
+        "robomaster-0.1.1.59-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "eeca9dc25d53e150d2de14b0e77fd1e7fdda0e0a8bf02c386e4169e25ec5814e",
           "cp37"
         ],
-        "robomaster-0.1.1.58-cp37-cp37m-win_amd64.whl": [
-          "0d90d760bcf821d736a64fb3e258808469eccf8b040469deee162b45d8823d73",
+        "robomaster-0.1.1.59-cp37-cp37m-win_amd64.whl": [
+          "ce8bc880e532fbf90a96b7ed8f03ef74be4ecc8c1d4ca3dd1578bceca6fc36ee",
           "cp37"
         ],
-        "robomaster-0.1.1.58-cp38-cp38-manylinux2014_x86_64.whl": [
-          "d6c6737b96ac5857d0bc81751d300e0c8cd9dcf2e5863288243534bcf750e609",
+        "robomaster-0.1.1.59-cp38-cp38-manylinux2014_x86_64.whl": [
+          "97408c281321304e7d411625908ccbba1fc3a404ee2d2e9664b1ac6d977d04d4",
           "cp38"
         ],
-        "robomaster-0.1.1.58-cp38-cp38-win_amd64.whl": [
-          "76361050774f1b39df17d530f5d47f5d2ff94dc6463dc84d12e1a125d8a7eb26",
+        "robomaster-0.1.1.59-cp38-cp38-win_amd64.whl": [
+          "0d347e120bfd940f540095f5297b9a74941a704235b7f3c2771a664ba7b986bc",
           "cp38"
         ]
       }

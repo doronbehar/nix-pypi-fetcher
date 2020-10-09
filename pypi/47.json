@@ -1125,6 +1125,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "0554d2ffdd4f6950f48c5000208b7d14656b530b71584030e9a749e093ae071d",
+        "akinaka-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "akinaka-0.6.0-py3-none-any.whl": [
+          "75a1b32130de40e2775a3795cd6600e0c26ce314598affea4ab63c8d3cc89502",
+          "py3"
+        ]
+      }
     }
   },
   "alfa-cli": {
@@ -15399,20 +15411,6 @@
       ]
     }
   },
-  "django-scripture-index": {
-    "0.1": {
-      "sdist": [
-        "d0afc30047c43ed031f17b587737676f4f661ee50da1867e7f14020c39216905",
-        "django_scripture_index-0.1.tar.gz"
-      ],
-      "wheels": {
-        "django_scripture_index-0.1-py3-none-any.whl": [
-          "5a1f8afc488465145ee4403f16ac8433b2137677555054809e5408ee5a626bc1",
-          "py3"
-        ]
-      }
-    }
-  },
   "django-sites-lockdown": {
     "0.0.1": {
       "sdist": [
@@ -16392,6 +16390,18 @@
       "wheels": {
         "dutil-0.1.2-py3-none-any.whl": [
           "d9f145b25e0a53a9b9a278eaaa397ad056edc8b3749f6d9198712b7f5193fb60",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "065eec05ebd53acffcda291d743c9a2c57c6b9fe3ce75da44e6f238a78b1eba2",
+        "dutil-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "dutil-0.1.3-py3-none-any.whl": [
+          "24297535737997a898db52cd9073d9bcfbb85c719c5ce12dfde375488b7234ef",
           "py3"
         ]
       }
@@ -59117,20 +59127,6 @@
       ]
     }
   },
-  "ossia": {
-    "0.0.1": {
-      "sdist": [
-        "5cb6e8c56225689f570348a6197fc455d8331c033c7a1b0b863e656413631e20",
-        "ossia-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "ossia-0.0.1-py3-none-any.whl": [
-          "3a3033cb49aace49ac2043192c13874f9f69977baf894542f5fcf2149efc8e71",
-          "py3"
-        ]
-      }
-    }
-  },
   "outliers-101703455": {
     "0.1": {
       "sdist": [
@@ -59610,6 +59606,58 @@
         ],
         "paddlelite-2.6.1-cp37-cp37m-win_amd64.whl": [
           "dbedd768e1bd79dcb12bb98f3a44bc0d462f610ecfc9078ce010db2e481c041f",
+          "cp37"
+        ]
+      }
+    },
+    "2.6.3": {
+      "wheels": {
+        "paddlelite-2.6.3-cp27-cp27m-macosx_10_7_x86_64.whl": [
+          "90a04152d2548e57f75a8ce45ea648427a5ef64bca00b373e4f87d4df4318aae",
+          "cp27"
+        ],
+        "paddlelite-2.6.3-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "7f80423f5a5305724975a6da6222912dbda476579ca231f2d00e81535426f70f",
+          "cp27"
+        ],
+        "paddlelite-2.6.3-cp27-cp27m-win_amd64.whl": [
+          "f0955696e1a52433185d6105dabc94728427e434bb8690764a749c8239e67b76",
+          "cp27"
+        ],
+        "paddlelite-2.6.3-cp35-cp35m-macosx_10_6_x86_64.whl": [
+          "fe1629b8ce8c98fa3cab7b9de2c90189dfeeadc673de8178243d7ca712f34f7d",
+          "cp35"
+        ],
+        "paddlelite-2.6.3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "1f38f97b79cc77c810d6af533bb720185923e2ff4446bf3cf123b3768b9e96c5",
+          "cp35"
+        ],
+        "paddlelite-2.6.3-cp35-cp35m-win_amd64.whl": [
+          "18ddc436cd5909487d4e088798702818e76f3b3329278f76484d8346ecd0022d",
+          "cp35"
+        ],
+        "paddlelite-2.6.3-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "99dc9bb5890d5d5a3b71f97e8f55ac7c6d5b14c7bd04359b35b16db0f4437dc6",
+          "cp36"
+        ],
+        "paddlelite-2.6.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b5b8dc2045d9f5349b3860456db200108563909f924b14fc6c2e7dde7f95942b",
+          "cp36"
+        ],
+        "paddlelite-2.6.3-cp36-cp36m-win_amd64.whl": [
+          "d71cf3c959a37eb58d1ffbd63107db3cd69071ccf30ccff320e4a2e573a36d20",
+          "cp36"
+        ],
+        "paddlelite-2.6.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "77f796651cd1d5d726b2779638878638c8747d07413d9a7e2b1f0ad66ae58238",
+          "cp37"
+        ],
+        "paddlelite-2.6.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7abd49e4bd870f269f1b2ca568dfc27de196f4ae01961b2e0ef38229df3e6781",
+          "cp37"
+        ],
+        "paddlelite-2.6.3-cp37-cp37m-win_amd64.whl": [
+          "c3d7cc9b133aca3b528d249e1ad4ce23eadc8db18c71344070b4a19e5648723d",
           "cp37"
         ]
       }
@@ -87864,6 +87912,18 @@
       "wheels": {
         "xontrib_xlsd-0.1.1-py3-none-any.whl": [
           "94895e348939fdc11f8d719b6882277a48b2aa0e3792b5e33f9146444be87d13",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "0c7a89bc3dc88e1c01add08409f0b997c683ed6190a264f8260cf56400965080",
+        "xontrib-xlsd-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "xontrib_xlsd-0.1.2-py3-none-any.whl": [
+          "a52983b809b73d4f507f50e3e52aada57991d9290a5a82d58d67fb93fe657af6",
           "py3"
         ]
       }
