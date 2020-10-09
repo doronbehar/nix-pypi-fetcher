@@ -6863,6 +6863,32 @@
       }
     }
   },
+  "captivity": {
+    "0.1.1": {
+      "sdist": [
+        "075301439b10802ed8f7eb09ac0d522a0d41c5e656e8ec9b8b66f50c6fef7610",
+        "captivity-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "captivity-0.1.1-py3-none-any.whl": [
+          "e930f4bc3b6e4679092b4d9551e9428d190c7cbcf1b1ac6ab0649481dceb0969",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "39b10b97f430e0a021955d2a53ff9123f9770002b838dea04a1da273ce38d2d0",
+        "captivity-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "captivity-0.1.2-py3-none-any.whl": [
+          "39c453b9ba40319a7decb085cf4b56a8282fbb7956a6d6111c0b8508eca4c2c8",
+          "py3"
+        ]
+      }
+    }
+  },
   "carnifex": {
     "0.1.0": {
       "sdist": [
@@ -39000,6 +39026,18 @@
         ]
       }
     },
+    "1.15.15.0": {
+      "sdist": [
+        "8f747e59691a17de25c70a8a582560768fde5e1eec67c7817cad20aa40555649",
+        "mypy-boto3-kinesis-video-media-1.15.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesis_video_media-1.15.15.0-py3-none-any.whl": [
+          "8e11be99f36aa23264f10afa6d280b164aa712a35739162a052e996e1d4f040f",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "13b2d68713ae37c3c9b5adeae9e0e74dcac08b1c7891b7a9d9244a96e5309c09",
@@ -40729,6 +40767,20 @@
         "497df6186929ad945d3fbfd46837633b4be75e1cd27878a04f6449603153ec86",
         "ng.site.addon.tag-1.1.1.tar.gz"
       ]
+    }
+  },
+  "nicecache": {
+    "0.0.1": {
+      "sdist": [
+        "f8a281ba7da24436c51e57514b11383ab5078bbd25351f4ea920a7bce5bd4c42",
+        "nicecache-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nicecache-0.0.1-py3-none-any.whl": [
+          "4ebc40dfd203bbdf180cf934a73d7b7edd94b33222a9ace43ef692406c8470af",
+          "py3"
+        ]
+      }
     }
   },
   "ninklings": {
@@ -50986,14 +51038,14 @@
     }
   },
   "pyculiarity-plus": {
-    "0.0.4": {
+    "0.0.8": {
       "sdist": [
-        "fc3c3fb88d1c86799a331091ca978d0d4ed9733414acbd5d907e57eb6d7bfaa5",
-        "pyculiarity_plus-0.0.4.tar.gz"
+        "66532b87e92c450686ca3b1796902a832e580ef7e221f3db8ad0ecc5dd4d158c",
+        "pyculiarity_plus-0.0.8.tar.gz"
       ],
       "wheels": {
-        "pyculiarity_plus-0.0.4-py3-none-any.whl": [
-          "6c33d61ca9ef884cb9c4a4e4e660c944fd74f145fec678bbbbb860629f2b5a83",
+        "pyculiarity_plus-0.0.8-py3-none-any.whl": [
+          "a4c5746e863f465ff5ad619bd9734f37df5d4a7d27ccc6a5cd08e9851a54362f",
           "py3"
         ]
       }
@@ -55338,50 +55390,14 @@
     }
   },
   "randcsv": {
-    "0.0.6": {
+    "0.1.3": {
       "sdist": [
-        "be88a42b7b5773cbe455814c38a6a83d20b031043b40bd374068b4b7fd7ee7cd",
-        "randcsv-0.0.6.tar.gz"
+        "5f18225757ef76d63bbf8845d452ef175940fc776508bbec77d1e56053aec660",
+        "randcsv-0.1.3.tar.gz"
       ],
       "wheels": {
-        "randcsv-0.0.6-py3-none-any.whl": [
-          "92db2cfbc18f6e35d5d777fe6afa2e824d971682e6e0ed1ee4ec240761d11bb2",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "81bf12ac7e069d5706df12ae44599dac880f4ea24e34f1fe8d7bc69107c85f86",
-        "randcsv-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "randcsv-0.0.7-py3-none-any.whl": [
-          "d00f3a1ba5e3d8e3fbc4c3cfbd8efdf515c21e8d3fd40dce61b65dc7f5ee225c",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "5b99fea67174b5641646a28abd3dfcfb99cf6a6769e0cce5dff087e783d76320",
-        "randcsv-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "randcsv-0.0.8-py3-none-any.whl": [
-          "c74b342ba86c281049e351acbb6402f43eecb28e0721144aeb9791bb95fc1c13",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "e4ea526e500e3d22851ab43fb1af1e7803926baab07c71c5138e5486c423ac46",
-        "randcsv-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "randcsv-0.0.9-py3-none-any.whl": [
-          "3a1dda644e5b027741297db0e27144f61548ab0a9958efd222ae79fcbf236374",
+        "randcsv-0.1.3-py3-none-any.whl": [
+          "216964019f5624dd0cd39ebe42dc3a3da05df18995a20eb2f7f5e944dfa47e13",
           "py3"
         ]
       }

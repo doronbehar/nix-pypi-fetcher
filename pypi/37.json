@@ -53712,6 +53712,18 @@
         ]
       }
     },
+    "1.15.15.0": {
+      "sdist": [
+        "1a10f87ab553fc3da9476fa15e129e856772412b720df6f12ad43f41851f6e31",
+        "mypy-boto3-connect-1.15.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_connect-1.15.15.0-py3-none-any.whl": [
+          "c15f19bc0b2a7b945bb2575b8736c18412e9501f60cd3a600c0946ff3f522298",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "4ecd6335439fa174fcdde487d49ca483b8e9f1e0cc9b1843b824710067680032",
@@ -55962,6 +55974,18 @@
       "wheels": {
         "mypy_boto3_sms-1.15.14.0-py3-none-any.whl": [
           "c90d9f85a381d30c07dcc1b26917a309316c763801cdc252e23b14cd6527cad7",
+          "py3"
+        ]
+      }
+    },
+    "1.15.15.0": {
+      "sdist": [
+        "0d9459266a80b0d4d30a9051ecfa4d26e48e8dc23ab78f57e8e4277bd72cac95",
+        "mypy-boto3-sms-1.15.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sms-1.15.15.0-py3-none-any.whl": [
+          "d6a4dde2b81f864292a20fe79403e0552d73eddfdf7b74a3a06d8c2b9268c3c4",
           "py3"
         ]
       }
@@ -67609,6 +67633,18 @@
           "py3"
         ]
       }
+    },
+    "3.8.0.dev1602175205": {
+      "sdist": [
+        "32318c508778aa0cfdfbcd0186ebb6f927497987f9af496f67efb5ec5cdbb9af",
+        "pulp_rpm-client-3.8.0.dev1602175205.tar.gz"
+      ],
+      "wheels": {
+        "pulp_rpm_client-3.8.0.dev1602175205-py3-none-any.whl": [
+          "7448e82e583fb8fe4710face9b66895a00d89459e35e0e5b321421f49cc4b4d6",
+          "py3"
+        ]
+      }
     }
   },
   "pulpo-forms": {
@@ -76761,6 +76797,12 @@
         "13df59ed747cdf321f0cc76e1a1df7a6c5caf708644b6f08c352f4814e344965",
         "RsCma-1.5.60.14.tar.gz"
       ]
+    },
+    "1.5.60.16": {
+      "sdist": [
+        "71b151bf92c3e34f72be6ba856b71dbcf53551e3f612b47fc9c09c2907be282d",
+        "RsCma-1.5.60.16.tar.gz"
+      ]
     }
   },
   "rudder": {
@@ -79793,6 +79835,80 @@
         "f93e1a74477a882496123ac59ac5cf1c3439b1987ca81954fc96ddf2d99ed880",
         "splashio-0.0.3.tar.gz"
       ]
+    }
+  },
+  "sppl": {
+    "1.0.2": {
+      "sdist": [
+        "71dd6463227b6043954c7304f69447bf09c033ae152576805e5b1bbad97a1a66",
+        "sppl-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.2-py3-none-any.whl": [
+          "f5485012c6fde3ad8a94cea0ad60a3346e67c73753f846c20ae2d1d4b698cf8f",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "235ebb5c700c5530cf8d81d4272f3f70c3389b392be792081b1b305dc73782c1",
+        "sppl-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.3-py3-none-any.whl": [
+          "3bb364df213a61b852059aa081776854e48ff95f4eefed84406b44a15b939da1",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "47261d8582bb9627b410dff00d5fc0ef511dc09640ca42e25ea50aba0b0dddc5",
+        "sppl-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.4-py3-none-any.whl": [
+          "54ac73cb26cbf381617d9be5a50a8df6825f856ad51a2af8f8f5cdfb594d44a1",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "2d83012b82ae50c9b4ff83768168880db3cb1734333d8db92653c9bfde302830",
+        "sppl-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.5-py3-none-any.whl": [
+          "00ffd1aa82f6620f434a57bbae50d822c21395cbe8a496dfebed1f918c940ffe",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "7e0136e88059ed9dbb8853967cfb52303ba62784b04e67376214dfd35d0ce670",
+        "sppl-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.6-py3-none-any.whl": [
+          "22d6faa88d873983a1dfd2b24fbb52123eba3545c6a766fafec36538eb10d23e",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "b3b5495fd7fdd019233075fe59a782aaa73ffd90543e50c69de1ad08151df2c6",
+        "sppl-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "sppl-1.0.7-py3-none-any.whl": [
+          "c3ab183d006f39472af7804148d95adfcc7b519a2909f6c4f3e05daacd37136a",
+          "py3"
+        ]
+      }
     }
   },
   "sqlalchemy": {
@@ -95164,6 +95280,18 @@
       "wheels": {
         "xmod-1.1.1-py3-none-any.whl": [
           "8e7aa1027b11d4694a14292e84c04aa1326c260e85874ea2e866c45cdaae5e37",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "ebd833534fba9270d3abbb9fed10e569fb145cc93bcbefeecfc2b6abb7c65512",
+        "xmod-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "xmod-1.1.2-py3-none-any.whl": [
+          "ad5b83b8a6ef833d2bc987495ec4b26b4667f9b62eb3fa3a90c933ca714edd3c",
           "py3"
         ]
       }
