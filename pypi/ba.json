@@ -5323,6 +5323,18 @@
           "py3"
         ]
       }
+    },
+    "1.67.0": {
+      "sdist": [
+        "df8b4a1d9692b23f7c4bf5fd0adde7dc3da5a6d6be0e9cadc2095003f93b04ff",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.67.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.67.0-py3-none-any.whl": [
+          "f5d162c10a5a0b0e9feefde6ba620faf241475fb7919ad8bbcf0e0c871527a87",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawsautoscalinghooktargets": {
@@ -42918,6 +42930,18 @@
         ]
       }
     },
+    "1.15.16.0": {
+      "sdist": [
+        "b03aacd5e2c518ac3daddf76924632c7cdf29996e24fa2de431edb6b697a55b4",
+        "mypy-boto3-amplify-1.15.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.15.16.0-py3-none-any.whl": [
+          "1db444e7370b134c6fcb70a70fa64ac3f37c85e47b9c336351e89e7337bade76",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "b1129427299e6c8f66c979741bdfce06784a863f530787fb4e4c2962e58e6313",
@@ -45184,6 +45208,18 @@
         ]
       }
     },
+    "1.15.16.0": {
+      "sdist": [
+        "e670d94dbb1fd2734c978f5e7f3795cf48e092aa73724ac18bd7d24a62c55de5",
+        "mypy-boto3-elb-1.15.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.15.16.0-py3-none-any.whl": [
+          "9a37f111fad0b5e99c592d832ff65d647314f503557483d8bf90f8ce96a0558e",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "aeac62a5da89d9831377203de73f7f9ac8527a6f990acba8549a3fe714489036",
@@ -47438,6 +47474,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.15.15.0-py3-none-any.whl": [
           "edf6a8eeb13277470f96911ed1fd1300770719c9aec493d38f15031e9eed171b",
+          "py3"
+        ]
+      }
+    },
+    "1.15.16.0": {
+      "sdist": [
+        "9427875db085d001adb1793177c1fc9c20610b5029bee2f44de2cce584695177",
+        "mypy-boto3-meteringmarketplace-1.15.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.15.16.0-py3-none-any.whl": [
+          "01f0db83919a21d93fd91a60f4c3c1af3927494c5338c800796a276ab33ac698",
           "py3"
         ]
       }
@@ -54638,6 +54686,18 @@
       "wheels": {
         "paramak-0.0.17-py3-none-any.whl": [
           "fe541a870f010819b12cbf5573243b87384f143554748a9da43c73ee753ecdfc",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "930e536bd5a49686192eee742f00f86f9a64c6cb1f940da6d878723a82ba114d",
+        "paramak-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "paramak-0.0.18-py3-none-any.whl": [
+          "66eec4eea009fdb0c552d2e5d040270861c465c4e91e6948e1df84222a9a0949",
           "py3"
         ]
       }
@@ -83326,16 +83386,32 @@
           "931aed19cdf5bc46f2fec3e170ab00feb9c27728b7a6d3df0bfdd709c77ae923",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20201009-cp35-cp35m-win_amd64.whl": [
+          "271c52e4f06375325d4b71bb35f68370764b99a312ae07a89a5dbcee606688b8",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20201009-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "481eab679a29be63ec188c29721655f41cb40f67f44b18c974a988e62fdfdc0b",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201009-cp36-cp36m-win_amd64.whl": [
+          "e11ba92a0da25ec75367e381df59735436cb96fd5a66d098d26b49013ccb9608",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20201009-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "fa7cc3a63c5dea696e458aa1d611587722ba8e28b543838db185e5e5f3f27d50",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20201009-cp37-cp37m-win_amd64.whl": [
+          "e562239869c7ba02043776c81cb83a488bd63d0cb65ab0e2efc3a92c29ea740a",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20201009-cp38-cp38-macosx_10_14_x86_64.whl": [
           "41b1d1b1415cba98ea898baa6e95e078f3166ee376ed7de38cab4b7c32172194",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201009-cp38-cp38-win_amd64.whl": [
+          "cad58a68550a37ad163ac80614b7d16ddcbd1bd6775b1e41b89e686f4538e7dc",
           "cp38"
         ]
       }

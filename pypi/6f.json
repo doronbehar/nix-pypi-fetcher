@@ -36419,6 +36419,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0b2": {
+      "sdist": [
+        "f700aedf066107bb1ccb6c28e954a5ad1849043cd63d6889938ef47be71f7de9",
+        "mautrix-signal-0.1.0b2.tar.gz"
+      ],
+      "wheels": {
+        "mautrix_signal-0.1.0b2-py3-none-any.whl": [
+          "821fa295521e7c63b2cdb310c7b317fc93e5abf0dfe11f9bf8e0a74c5ce855f5",
+          "py3"
+        ]
+      }
     }
   },
   "mbq.client": {
@@ -41648,10 +41660,40 @@
         "OASYS1-1.2.56.tar.gz"
       ]
     },
+    "1.2.57": {
+      "sdist": [
+        "847c7bce5bd7055a8cfdc12b0738a3e7d54742a02e8377afbac9345568bf1d14",
+        "OASYS1-1.2.57.tar.gz"
+      ]
+    },
+    "1.2.58": {
+      "sdist": [
+        "e632148909b9c0146e9813c79720d56307e5cd5bd8caee9cd2b3ddf72be2bf8d",
+        "OASYS1-1.2.58.tar.gz"
+      ]
+    },
+    "1.2.59": {
+      "sdist": [
+        "8603512db28efdf8597240e08cb721407031de3d387d564c3499fd2e251034af",
+        "OASYS1-1.2.59.tar.gz"
+      ]
+    },
     "1.2.6": {
       "sdist": [
         "7936182340bd3bd1dd3d98ef434099a8d82620d90c3ec263456c3e26506e3c3a",
         "OASYS1-1.2.6.tar.gz"
+      ]
+    },
+    "1.2.60": {
+      "sdist": [
+        "f0299943febd77c8444c59168268935c237558903051e9eefeac42e1270c47cc",
+        "OASYS1-1.2.60.tar.gz"
+      ]
+    },
+    "1.2.61": {
+      "sdist": [
+        "536edba70cb7b68d2a85740d2220c12c65e945715a0fdde61cfabad94bb2d986",
+        "OASYS1-1.2.61.tar.gz"
       ]
     },
     "1.2.7": {
@@ -70266,6 +70308,78 @@
         ],
         "tokenizers-0.8.1rc2-cp38-cp38-win_amd64.whl": [
           "a863f813ece3e95618185e68d37560fc107f89d1a91608d23285294d1e414d8c",
+          "cp38"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "0bfa960345e114efd553e265e32eca6d79861abe24925fba903c925f8760f795",
+        "tokenizers-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "tokenizers-0.9.0-cp35-cp35m-macosx_10_11_x86_64.whl": [
+          "a5dde61d98069b712b0af5177b392059edd7427edc4b80ec949bbc1f2579d5eb",
+          "cp35"
+        ],
+        "tokenizers-0.9.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "442a4d16af8d709e0e29ad6e7712bbfe7cb50ca198242ec46d5a1deb6f3e2cf6",
+          "cp35"
+        ],
+        "tokenizers-0.9.0-cp35-cp35m-win32.whl": [
+          "d9f3e8ce29ae9bd7fe3ee5b03427c7a461d6fd000532d172f3a201169350ba17",
+          "cp35"
+        ],
+        "tokenizers-0.9.0-cp35-cp35m-win_amd64.whl": [
+          "1fcc63139a309acdc041936b05bb2bce1ce296827b3e2fb46749558417c9855d",
+          "cp35"
+        ],
+        "tokenizers-0.9.0-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "18eb28d0883dd0c7738224f2e05a606b8d7a36673ca9ade6ffda5d92b4a8d38f",
+          "cp36"
+        ],
+        "tokenizers-0.9.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "711ffe3989af3d70e329c208f3d7a2c044587a7646dc660f96cb12b625af6f57",
+          "cp36"
+        ],
+        "tokenizers-0.9.0-cp36-cp36m-win32.whl": [
+          "2ed8f50b711858f793740d58f7cbb4ac7508cc149a87f417bb3ac5175d63f6ee",
+          "cp36"
+        ],
+        "tokenizers-0.9.0-cp36-cp36m-win_amd64.whl": [
+          "b1a19b5f2534fbb5dd30c9d13ebc94e30a52c0e43c62f56e66ffae9a26468c7c",
+          "cp36"
+        ],
+        "tokenizers-0.9.0-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "5d7852260313323fef98510a4f5cf076aaf74496c73bb91756dedd0401c5ef8c",
+          "cp37"
+        ],
+        "tokenizers-0.9.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "48dc2126d61212af4bd676658d2be69ea9f8e65a45c3fc3073b212ab9794a86c",
+          "cp37"
+        ],
+        "tokenizers-0.9.0-cp37-cp37m-win32.whl": [
+          "289d8dc2abb26bc45e622ca986d565bb1e6913ede20373e3939768a67bdfe526",
+          "cp37"
+        ],
+        "tokenizers-0.9.0-cp37-cp37m-win_amd64.whl": [
+          "f3ddcd39fd5bb23db1bdf1517fb911701629e9dd8aa36abcc36c87d4efc84dce",
+          "cp37"
+        ],
+        "tokenizers-0.9.0-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "ac1c44f1c066330f17e9453729e29493671472e240e2d05097dc012eb6d1e879",
+          "cp38"
+        ],
+        "tokenizers-0.9.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "b0f9c99e708c0b08c8e6b01ff1326dc69be35be95b737e739a5cc718edb4d070",
+          "cp38"
+        ],
+        "tokenizers-0.9.0-cp38-cp38-win32.whl": [
+          "8b5ad55607e90b099be279b1a26cc0d1c310210a560210e99765bb04643f2c92",
+          "cp38"
+        ],
+        "tokenizers-0.9.0-cp38-cp38-win_amd64.whl": [
+          "de251698949d7fc7dd5bf4909dc0ac163f063ffdd155ed967790da97833f9bf0",
           "cp38"
         ]
       }
