@@ -5191,14 +5191,6 @@
       }
     }
   },
-  "azuremlcontribpipelinesteps": {
-    "0.1.1": {
-      "sdist": [
-        "760cc5238acc5de2903ebd1776fbf5aa94b0807fff2d7fb7c0d47d39d3178c54",
-        "azuremlcontribpipelinesteps-0.1.1.tar.gz"
-      ]
-    }
-  },
   "backtraderbd": {
     "0.0.1": {
       "sdist": [
@@ -9824,6 +9816,18 @@
         ]
       }
     },
+    "0.23.0": {
+      "sdist": [
+        "ad504b9f131e6ef463a1ee3ec7723264686faef1f51f4f24155c37e23c789080",
+        "cotede-0.23.0.tar.gz"
+      ],
+      "wheels": {
+        "cotede-0.23.0-py2.py3-none-any.whl": [
+          "3fa88a165923e89308dde4728ead3fa00fbcc4603d629f019c0a5829ebf6b50f",
+          "py2.py3"
+        ]
+      }
+    },
     "0.8": {
       "sdist": [
         "df14b8ae2ab2f157c039d8235b2578c11e497f87d8e282ae3d0470b1ced3fd77",
@@ -10338,6 +10342,14 @@
       "wheels": {
         "csm_test_utils-0.2.1-py3-none-any.whl": [
           "12c7613d30470dcb261fc834279d22007ba66f696f01aabd246cb51ae5bb6be5",
+          "py3"
+        ]
+      }
+    },
+    "0.2.10": {
+      "wheels": {
+        "csm_test_utils-0.2.10-py3-none-any.whl": [
+          "8bb7d0b86f846bb8fce8e0d4b7fde08cc768dc7834f0977ce76623911274aa13",
           "py3"
         ]
       }
@@ -24616,6 +24628,82 @@
         ],
         "flow_network-0.1.0-cp39-cp39-manylinux2010_x86_64.whl": [
           "3fc08013e88913370c488af265a3579e282cf1c35bb319b2f9cc3ed5fe9ee5d5",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "flow_network-0.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "39f62c4aa2490f1e0a6d473ac71fa18b57de08a9475685f2716c0435c714c57c",
+          "cp36"
+        ],
+        "flow_network-0.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0afa745a89483ff3117c41ee011321983edd052d8ecc5e7dd05293f96b931652",
+          "cp36"
+        ],
+        "flow_network-0.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1d90cd6c2c717eeaed82f9adb986643fb1b7d3fdf3a55ec8b27feaf44d4abc72",
+          "cp37"
+        ],
+        "flow_network-0.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "baa241fceabbdc44ba1b8a370328eb8fdd8155e025629d858810d00ebf3e2b3f",
+          "cp37"
+        ],
+        "flow_network-0.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "a6866114dd0ba67814878fba01e9cb4423b814e90d904f9d4a653b2f5c368cf6",
+          "cp38"
+        ],
+        "flow_network-0.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "0ba29dd1dac955197e33cf8030c88e31b5d2a0e822806920e05dbd72a7e5e1ba",
+          "cp38"
+        ],
+        "flow_network-0.1.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "a9bd7242c01cf6e62f3a00c8e095335f5da3c6f145b07bef564c100ace8cda00",
+          "cp39"
+        ],
+        "flow_network-0.1.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "90b3ffe8dd8a77190b4bea7721178f52914f715ced12af1cdc12792858145b6c",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "flow_network-0.1.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "65b12e699c6cebeec8d1e922837b9dc0844ab9e5876bb033f4ce94069447870f",
+          "cp36"
+        ],
+        "flow_network-0.1.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "b068cfac4890630aa0de2496011e18ffe66d7505948b41f4d8f73c0438ec2f3c",
+          "cp36"
+        ],
+        "flow_network-0.1.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1da9f95874dab4eb7417c609f3ead0aa8c9be56ebedac6c69694e441f6cfc9e0",
+          "cp37"
+        ],
+        "flow_network-0.1.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "a5ca61f7b7ee9de54f5c650bc698a4c5788b099d56b3597cb96894b07ec9945a",
+          "cp37"
+        ],
+        "flow_network-0.1.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "2ff4744c997489cd37b5442c1a4eb3387d21416260e598d1673c53ef507798a1",
+          "cp38"
+        ],
+        "flow_network-0.1.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "f7671b92026f9fbb11a345f7c50193458f78a5085b8874f4ee156dfd82f1c156",
+          "cp38"
+        ],
+        "flow_network-0.1.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a7d8cf2d0a0e3d6d4cce885ff20fcb61bbba04d5dd35b84c0bdb827cfe02efed",
+          "cp38"
+        ],
+        "flow_network-0.1.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "32b5d6c0cfd28af7bea480bc5912f8577dd754a4356f7b6a081918eedd06ebe7",
+          "cp39"
+        ],
+        "flow_network-0.1.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "6a230908e0f9a7bf6cf6009d4eaa6c8eed593335de26fcddc3b3902077fbd0f4",
           "cp39"
         ]
       }
@@ -52867,6 +52955,24 @@
         "powermate-0.0.2-py2.py3-none-any.whl": [
           "56214c3112c767c898e1f4b4674423bf9c22927b7c1bdf4c987e2beac2cef885",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "poyen-print": {
+    "1.0": {
+      "wheels": {
+        "poyen_print-1.0-py3-none-any.whl": [
+          "39d4a2e15d6a03e9b15850cd777958f12de5941c279142e61c386cedafce60ae",
+          "py3"
+        ]
+      }
+    },
+    "2.0": {
+      "wheels": {
+        "poyen_print-2.0-py3-none-any.whl": [
+          "7351ce763ecebe5abfbb4fd08952df88b66fa6d60d63a3627463f10257fd0e53",
+          "py3"
         ]
       }
     }
