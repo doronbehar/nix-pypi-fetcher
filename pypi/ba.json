@@ -22088,40 +22088,10 @@
     }
   },
   "get-chromedriver": {
-    "1.1.0": {
+    "1.1.7": {
       "sdist": [
-        "a17fd4f952ec46490a08cdd7296a0a2ba5619cac5f1be84f9195cb3cdfdfcdd5",
-        "get-chromedriver-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "9c898d70b8c8b91db17a655f17e4124570c54564a8565d1b8665f92b4e044377",
-        "get-chromedriver-1.1.1.tar.gz"
-      ]
-    },
-    "1.1.2": {
-      "sdist": [
-        "fcb351a844d97889841b56569f59ca581de31a088c54c134fd88ee852b695bee",
-        "get-chromedriver-1.1.2.tar.gz"
-      ]
-    },
-    "1.1.3": {
-      "sdist": [
-        "94fd435a6eea0a57c789b67d296dc68f87e4a1a2649ce1073e24abb7c54a6fee",
-        "get-chromedriver-1.1.3.tar.gz"
-      ]
-    },
-    "1.1.4": {
-      "sdist": [
-        "22d9a8e6ec120e8d9dd0ef78301b2fe4a7087d09f62176bee320fddc888c07a4",
-        "get-chromedriver-1.1.4.tar.gz"
-      ]
-    },
-    "1.1.5": {
-      "sdist": [
-        "bec28b244f46ebbeb30988263ecaafa368d2ca0af57243d9439d052d5fbe7f2b",
-        "get-chromedriver-1.1.5.tar.gz"
+        "d18e9a11eb11debdb192e6957ba45a388cf294409bdcd2659e96ba3a7622320b",
+        "get-chromedriver-1.1.7.tar.gz"
       ]
     }
   },
@@ -34874,6 +34844,14 @@
       "wheels": {
         "mindmeld-4.3.2rc3-py2.py3-none-any.whl": [
           "3276686d9c6d057d48f692ccdc843bd41fbc4dfa4964e9833e98f41437c6f57e",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.3.2rc4": {
+      "wheels": {
+        "mindmeld-4.3.2rc4-py2.py3-none-any.whl": [
+          "507d8bef22b5dc7448ac8f266ef3e1e35d60754642b81808bbac51a313fc601b",
           "py2.py3"
         ]
       }
@@ -72489,38 +72467,6 @@
       }
     }
   },
-  "simple-zip-deploy": {
-    "0.1.0": {
-      "sdist": [
-        "a3cb2a108dfb63aed9564fe080cfa81be0bc0233be62305adc8dac1abdef444e",
-        "simple-zip-deploy-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "e1311a9ebbbb87bcc71b94de4a7130a52f3f3f0678a04256540007857fc6cdc6",
-        "simple-zip-deploy-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "0991458e19d9c1891bc9e934299b71bbe5d9cb23c944fc1832656dba84b97f31",
-        "simple-zip-deploy-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.3": {
-      "sdist": [
-        "acf099ce4bc701058d783f953b9fd18fe0ab1bc824c61da34b736185ffcc4ab1",
-        "simple-zip-deploy-0.1.3.tar.gz"
-      ]
-    },
-    "0.1.4": {
-      "sdist": [
-        "880f09bd0ccad8ab87c3f33132ccd252cbe5c8a0542eacc273ca60d9d6847933",
-        "simple-zip-deploy-0.1.4.tar.gz"
-      ]
-    }
-  },
   "simpletextprogressbar": {
     "1.1.2": {
       "sdist": [
@@ -83674,12 +83620,20 @@
           "bb6751db522ae0941e3c2b26cea92ce023039b099d3c1449ec51f6def40a9383",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20201012-cp35-cp35m-win_amd64.whl": [
+          "fffa4944368674055b305dea33364c389d37cd80e5dba9de880514718d378aeb",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20201012-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "88141e7b4d855a32c3b7771916276aa47e17feca65046e3589d4611e75cfbedf",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20201012-cp36-cp36m-manylinux2010_x86_64.whl": [
           "f3b768a3765dc7ec8b54bc379f7d0ec7af5ba39eb4186afb354f5de9f7ad3c27",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201012-cp36-cp36m-win_amd64.whl": [
+          "e922a52267424fa32ed7336e9c70f3d4cc1d0acb453f414dd5dad55d5d20f7f4",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20201012-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -83690,12 +83644,20 @@
           "9dac12e0fcacc10ab68c11698ca891405962af1ba9ea789a1109c2dd80b71585",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20201012-cp37-cp37m-win_amd64.whl": [
+          "553995905f819bba55a69b180570c367eb14cffa6b05e96e49dd6ad7a465a307",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20201012-cp38-cp38-macosx_10_14_x86_64.whl": [
           "d099b72cb7c50049edf4506992e078db1b97966244e4b270b2e80d760f162cf6",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20201012-cp38-cp38-manylinux2010_x86_64.whl": [
           "c8e44df744598178a64db0e4eea38781be85080f584d7250008101b30bb95955",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201012-cp38-cp38-win_amd64.whl": [
+          "85ad7e1a887ce1e23f48a08776d7759348c9406dc4d3d9f0cc3f02da0895d56b",
           "cp38"
         ]
       }
