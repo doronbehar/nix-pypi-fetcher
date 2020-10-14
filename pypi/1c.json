@@ -21896,6 +21896,18 @@
         ]
       }
     },
+    "1.5.14": {
+      "sdist": [
+        "0ef362ce3a702f8c1ece3b8f0da72781eab756a868b3d029e9d2469e4e26e845",
+        "deemix-1.5.14.tar.gz"
+      ],
+      "wheels": {
+        "deemix-1.5.14-py3-none-any.whl": [
+          "094a89fe66528ea636a5267f57e60fc2752327758c4bfa89b4d4d1ccfde2bf82",
+          "py3"
+        ]
+      }
+    },
     "1.5.2": {
       "sdist": [
         "9ee8efb810cc95334fe31f30f9d2408373814ac5b1aca74ed54a72eff6dcea45",
@@ -48157,6 +48169,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "148d939a12728da0667a158a623c7083afce087960f78171ea123f347b81ed3e",
+        "nanoforce-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "nanoforce-0.1.6-py3-none-any.whl": [
+          "e69391f947210549b72f4a688a9b0f3baed547170e94245f4cb2c182bf2e7ac0",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "2a9f16eb1e6e01275b7bcc811d87be5a85c5312115c6b3d73c0c0029b200afeb",
+        "nanoforce-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "nanoforce-0.1.7-py3-none-any.whl": [
+          "d2fad2a76cfe57fa12a7e2f9983be79c63a9583cc241e2bb8a298499761543df",
+          "py3"
+        ]
+      }
     }
   },
   "nash-api": {
@@ -50236,6 +50272,12 @@
       "sdist": [
         "c51fe43f9b2805817a5ae330f1cf372f2e8568d4af62310d2bac55e03dfd7051",
         "OASYS1-OasysWiser-0.1.2.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "066e3a5b3813d1d78d6d1faea5a64e99dbed577d12ee8f49fd9b9b6f19745fc8",
+        "OASYS1-OasysWiser-0.1.4.tar.gz"
       ]
     }
   },
@@ -66127,6 +66169,12 @@
         "35aef6d8fce2101bd71ec521fcf7f090ba1fbe7ca4f8d04985d0d65d5a4c5622",
         "rio-tiler-pds-0.3.1.tar.gz"
       ]
+    },
+    "0.3.2": {
+      "sdist": [
+        "e7d4f8e9dc02533f1eaa99bd43b39525edbcb6aaa5788aa5ce39acc6e10166a2",
+        "rio-tiler-pds-0.3.2.tar.gz"
+      ]
     }
   },
   "riptide-proxy": {
@@ -73184,6 +73232,50 @@
         ],
         "spacy_nightly-3.0.0a40-cp38-cp38-win_amd64.whl": [
           "512ee7c337e9a20badc71291cda0f20c261bd8877f8b78f7e95ee81858a88dfa",
+          "cp38"
+        ]
+      }
+    },
+    "3.0.0a41": {
+      "sdist": [
+        "896363b1febad665f228c4e079d05178c56f47fb2f29c01946fb348517e3096a",
+        "spacy-nightly-3.0.0a41.tar.gz"
+      ],
+      "wheels": {
+        "spacy_nightly-3.0.0a41-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "42f7a20ce75190e7653f86b7a989e8a2fcc0c326a56472a20185b79feb5e4a2f",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a41-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "ebf116fd9026804b58d7836b3697bbbbdfacd7e0dd49f1773d75af99dce1310d",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a41-cp36-cp36m-win_amd64.whl": [
+          "61e447fafd441c81bad2755d9bbad79d0b664347f861213a193cd5c6c9f8774f",
+          "cp36"
+        ],
+        "spacy_nightly-3.0.0a41-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "74cd452385f14bd68c997110a9efb6ba09be67ebadf333fcb58119f4bfbeab63",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a41-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "d8731d866e4c164dcfa22b204606ed6b349cd18fe6a68a1069a623ba19ee0768",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a41-cp37-cp37m-win_amd64.whl": [
+          "4cf5059bbde5eda93f57e9e245efae1ae12185e8884dbb0a388f0499c821b3f2",
+          "cp37"
+        ],
+        "spacy_nightly-3.0.0a41-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "77f43512e28b870474ff6551ed4997be69f01d847a809d53ea24b419e0bc998a",
+          "cp38"
+        ],
+        "spacy_nightly-3.0.0a41-cp38-cp38-manylinux2014_x86_64.whl": [
+          "b5bdffe3c7da7e1b324fdb343612e8cc27dda1188e3b456ee5580d5504c74ce9",
+          "cp38"
+        ],
+        "spacy_nightly-3.0.0a41-cp38-cp38-win_amd64.whl": [
+          "ab9d0b23a9b865abc0559fcc8999fb96a20235f6b313446462f8a90a895315d7",
           "cp38"
         ]
       }
