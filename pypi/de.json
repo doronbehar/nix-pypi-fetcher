@@ -3207,6 +3207,20 @@
       }
     }
   },
+  "azure-mgmt-datadog": {
+    "1.0.0b1": {
+      "sdist": [
+        "2658cc3cdabf2786365c0128f310e40bfecae675aeb76342a5e2ec94f9617cbe",
+        "azure-mgmt-datadog-1.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_datadog-1.0.0b1-py2.py3-none-any.whl": [
+          "06a1bff1d776c94e2f07acb1c203a777e575889cd795572b6ac014a76858c5a4",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "azurestoragelogging": {
     "0.1.1": {
       "sdist": [
@@ -18222,6 +18236,18 @@
       "wheels": {
         "docbox-0.0.1-py2.py3-none-any.whl": [
           "e8c8edabb622c0252a1a86a646e9e5f24e489b72f5d6c73c4a67880f9aa471d9",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "f9345239a4a89597259c48dfd3d82fcee7d97210b9ccd329866c2c4e2d8e2116",
+        "docbox-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "docbox-0.0.2-py2.py3-none-any.whl": [
+          "2513e4e804bf954e964729577d3e7ab47be9fabb23ee301d540d75fea7b558f9",
           "py2.py3"
         ]
       }
@@ -37132,6 +37158,54 @@
       "wheels": {
         "lime_uow-0.1.17-py3-none-any.whl": [
           "f8d3a3a31ae4771a915bedfea77b9e40c469b64f7de96c778b4b5ba28b574f00",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "d8b6872c42d762a0d25a57896e2ab17c2981a25c05a489a9dc33535a799c076a",
+        "lime-uow-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "lime_uow-0.1.18-py3-none-any.whl": [
+          "dade96bc1364201ae306afc25bc323f6439c7346c8ab45b3268a0fbd7def3600",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "1950ddbc4a6957ecec8d48dbb5fcf41820fd75d3a35acbc36c067b79950316c2",
+        "lime-uow-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "lime_uow-0.1.19-py3-none-any.whl": [
+          "96ebcb8682c47c7b91f48e020a25ed759435bad3b1ef1abc4420ef9a68fd2962",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "479c51b9cd4ad993fb4a2e016847e7e55a323db674e30567f0ab088c7694ef28",
+        "lime-uow-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "lime_uow-0.1.2-py3-none-any.whl": [
+          "70da9d63dc43fc82f35176fac64521d15ff5f9ce96d4d1fbd5d4d6fe230d1b44",
+          "py3"
+        ]
+      }
+    },
+    "0.1.20": {
+      "sdist": [
+        "c8b65d84dc08f7bac2407e211563e8577c38072b6908cdca0009991de1f56a99",
+        "lime-uow-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "lime_uow-0.1.20-py3-none-any.whl": [
+          "5cbb9ca15254ea4b7f08cf655cdfcd6bfc1c56227885329cf7002598a870971e",
           "py3"
         ]
       }
@@ -74912,6 +74986,10 @@
           "c70657850e826d235958e5911d7697f2d6bfd6d051d4d06ef994f3050223b215",
           "cp36"
         ],
+        "taichi-0.6.41-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3da4fb0eba683db0e83f38bc63fb1cfa979e1e641f5320551db62c52fb1c29f5",
+          "cp36"
+        ],
         "taichi-0.6.41-cp36-cp36m-win_amd64.whl": [
           "5ec18a13450019cf568e6802049f83242c45ea82edb2d7f6a72d7fa07bffdca1",
           "cp36"
@@ -74920,12 +74998,20 @@
           "ab18845e582848121cb044f601be3ff85b94c4f3bc9fa3099dd63a0a152e47a2",
           "cp37"
         ],
+        "taichi-0.6.41-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9eef52221894ab4ad2ff21e0d19b2f7cbaa70ca407cf8f13c2859a14b60971a7",
+          "cp37"
+        ],
         "taichi-0.6.41-cp37-cp37m-win_amd64.whl": [
           "4a427ffb39b175aecfb5b4d9e876745fc404862a34580b898927bf995b9f1540",
           "cp37"
         ],
         "taichi-0.6.41-cp38-cp38-macosx_10_14_x86_64.whl": [
           "838059178f27ce48983bf38d0242a05d077f7e814723f96bc098df0ee9eb5a58",
+          "cp38"
+        ],
+        "taichi-0.6.41-cp38-cp38-manylinux1_x86_64.whl": [
+          "b66313e6ebd812fd474ae2271d8107c4d3a699a6c2e1eebf1c71139f30150c7b",
           "cp38"
         ],
         "taichi-0.6.41-cp38-cp38-win_amd64.whl": [
@@ -79113,6 +79199,26 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20201015": {
+      "wheels": {
+        "tf_nightly_gpu-2.4.0.dev20201015-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "5bf1258c3ebc717d31e0eae2ed8f61ffe519bc1745b5a2acd25d990f7564de48",
+          "cp35"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201015-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ddf28ef39506372d7220dfa41cb0cbb568169b1a6f8ead3b3bad73dbdc1d1ffa",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201015-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "31f6f27fc186260cbd221cea006755ecd2a0c37d0c897b3b2019379b6533d763",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201015-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1fb2a599878e7ef76ee9019b0856def94d2f83eba38e2bbf7028481848ab2c42",
+          "cp38"
+        ]
+      }
     }
   },
   "thecatapi": {
@@ -79665,6 +79771,32 @@
         "f9d788ed2c926a3c75f63a16f7f556a84704f4a58d05e364e09410d00a334f70",
         "TowerDataApi-0.2.1.tar.gz"
       ]
+    }
+  },
+  "tplink-cloud-api": {
+    "0.1.0": {
+      "sdist": [
+        "3359c07b8480af0215a24de0e5bff043fe3e2cf651fa220c65b24f947c5739b1",
+        "tplink-cloud-api-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tplink_cloud_api-0.1.0-py3-none-any.whl": [
+          "5f0374b021b5605f6b6d3f86cc56aa02b7c3ebfe787d9a6487ab327c00369133",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "185fdcef390d4c9182832e929d6759d891ab47f48001ac3c2fff508c77b9af7c",
+        "tplink-cloud-api-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "tplink_cloud_api-0.2.0-py3-none-any.whl": [
+          "6404d4e1980441a470edcd1330d76bd66c7e3878f59ca9128b74f3b124261838",
+          "py3"
+        ]
+      }
     }
   },
   "tprenamer": {
