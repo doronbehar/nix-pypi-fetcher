@@ -4586,6 +4586,18 @@
         "aws-service-catalog-puppet-0.84.1.tar.gz"
       ]
     },
+    "0.84.2": {
+      "sdist": [
+        "591d058a33e0a81014d5f2dbbbfd6076415a60b5bedb1b2f92e19628424574b7",
+        "aws-service-catalog-puppet-0.84.2.tar.gz"
+      ]
+    },
+    "0.84.3": {
+      "sdist": [
+        "9665a5857a578e9492f0f2fe964713a4d2c50d0e7ce9787df9233bee26a54055",
+        "aws-service-catalog-puppet-0.84.3.tar.gz"
+      ]
+    },
     "0.9.0": {
       "sdist": [
         "3d6931348d311b8390204b29637ab5de2418982a3b8d31d064cdae4851a7081e",
@@ -22044,6 +22056,18 @@
         ]
       }
     },
+    "0.33.1": {
+      "sdist": [
+        "a8b920f8db4c5331807107f81fb408e475280076c3a435830bf076b41f5f363c",
+        "eelbrain-0.33.1.tar.gz"
+      ],
+      "wheels": {
+        "eelbrain-0.33.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "6a1714e62950a771d25ef9bee66ede2e8359c664d4b39a12a9db528d20f2e11c",
+          "cp37"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "aba785786e75521315a84bb69ee0d27405e7bc364a81f8b55ef11abe50164534",
@@ -23215,6 +23239,82 @@
         "ffpyplayer-4.3.1-cp38-cp38-win_amd64.whl": [
           "4038e5adaac6bf0a902bcd6abdb27cbc4350b0405c238c31460825145bba840e",
           "cp38"
+        ]
+      }
+    },
+    "4.3.2": {
+      "sdist": [
+        "0e7af171e8d8f97be218048461e88c4c64493d2bd0068b8835c05cb313614ada",
+        "ffpyplayer-4.3.2.tar.gz"
+      ],
+      "wheels": {
+        "ffpyplayer-4.3.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "3f54bf7dc120834cbc265ec09ef8c71d29d9ea1660ab11ec55ccc316f9969677",
+          "cp35"
+        ],
+        "ffpyplayer-4.3.2-cp36-cp36m-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "c487b33245ce5920c4661f9545000f1ec1534517f55bf4d0f3186a7348cc6b61",
+          "cp36"
+        ],
+        "ffpyplayer-4.3.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "e676b7d8faf2fe7e62faf3a8a3b2cd8dbf0e4bdaeb170fb5401e6b72e1e6c7db",
+          "cp36"
+        ],
+        "ffpyplayer-4.3.2-cp36-cp36m-win32.whl": [
+          "27535efc6c2fab2574ae283a025809fb830d4ebd04aa1ef5d2928e4739d4c0fa",
+          "cp36"
+        ],
+        "ffpyplayer-4.3.2-cp36-cp36m-win_amd64.whl": [
+          "3ca05152f6420d494f5fedda4f5b48d096bf4c3c6370abd9e739113504916238",
+          "cp36"
+        ],
+        "ffpyplayer-4.3.2-cp37-cp37m-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "88740ccaa68c2832f1d4c57ff981c03b74c78b19d2bc75d2cbdbf2a6a76ff01a",
+          "cp37"
+        ],
+        "ffpyplayer-4.3.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ad4f1b8728b0333f6ef2a77812c986a8a11b7aff9b8b8babe31a8d3c2a374273",
+          "cp37"
+        ],
+        "ffpyplayer-4.3.2-cp37-cp37m-win32.whl": [
+          "7e9a268f160980fa442e464527f9c42b4d63a632af4633a25b33df35395ffd4e",
+          "cp37"
+        ],
+        "ffpyplayer-4.3.2-cp37-cp37m-win_amd64.whl": [
+          "9b4e8795af354594e1f693bab27346d4b3ef3cf77637826cca7d38dbbcc19a6d",
+          "cp37"
+        ],
+        "ffpyplayer-4.3.2-cp38-cp38-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "cf70c976fabfeaaad9ec9b9eb501ac1a1d92caa3f436b83537c77f38d4afc5b2",
+          "cp38"
+        ],
+        "ffpyplayer-4.3.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "05ca4f8c4200419f0bd8a80a5d654190d570e4b46b7d17239540c15205c5a515",
+          "cp38"
+        ],
+        "ffpyplayer-4.3.2-cp38-cp38-win32.whl": [
+          "d88560dd585dd953bdb9b6d924a9706c4d3acbc16a6638c3c24e9d86ca5ac760",
+          "cp38"
+        ],
+        "ffpyplayer-4.3.2-cp38-cp38-win_amd64.whl": [
+          "92bbcc7f125e64e3efa46deee744d6cf25fd088aa578364a61df0ae8a24d3206",
+          "cp38"
+        ],
+        "ffpyplayer-4.3.2-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "c5775886c6aad0ce49b73f0d53cc1bec585f5cdbea54a1a3266f6a4686d297c9",
+          "cp39"
+        ],
+        "ffpyplayer-4.3.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "66e8b6dd86ba45ce999e8d0e95596cffdd64aed3bb472b8da8eb66419c7c68f6",
+          "cp39"
+        ],
+        "ffpyplayer-4.3.2-cp39-cp39-win32.whl": [
+          "a08dbd48eb108396e8957713d08123133a0a447aa505a1f92d351076c7c090bb",
+          "cp39"
+        ],
+        "ffpyplayer-4.3.2-cp39-cp39-win_amd64.whl": [
+          "97a684f7549c0564e7c172a145fa2d6c25e0b9790b1fff6a5dfc89ac8c167949",
+          "cp39"
         ]
       }
     }
@@ -28186,6 +28286,18 @@
       "wheels": {
         "histolab-0.1.0-py3-none-any.whl": [
           "2cbb2614d8f9d0cf1e2dbc9386528fed032dc9bc7dc4604d2bcf502a6297ae36",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "e43704878dd14e6411fecfbc9c47abdc2b2115dc19e2e1be364528eaa6c6e538",
+        "histolab-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "histolab-0.1.1-py3-none-any.whl": [
+          "00269f16a814feeb23e51e4ce2347b01589a4457aedb99da207476707939a190",
           "py3"
         ]
       }

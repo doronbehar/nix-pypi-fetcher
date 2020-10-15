@@ -30825,6 +30825,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.7.5": {
+      "sdist": [
+        "f7e10d5a38b247f49148adcfe02f951d138e280884457f22eb9679ab753f55c3",
+        "ffpuppet-0.7.5.tar.gz"
+      ],
+      "wheels": {
+        "ffpuppet-0.7.5-py2.py3-none-any.whl": [
+          "3e756dd52c9391d302374c9df0538e1555627e754bbd8e5c5cf278fd525d4cb3",
+          "py2.py3"
+        ]
+      }
     }
   },
   "fhir-patient-summary": {
@@ -34539,6 +34551,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "0a4774d4a9404bc32fb7f364b7332e4029f14125e9e6e109f65573f7ad5eb26a",
+        "guarani-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "guarani-0.3.0-py3-none-any.whl": [
+          "767883014f589d1e6f92a9114b737f863d9534a3ad52e21f095f4a434bfa4439",
+          "py3"
+        ]
+      }
     }
   },
   "guardpost-oidc": {
@@ -36208,1454 +36232,106 @@
     }
   },
   "iknowpy": {
-    "0.0.1": {
+    "0.0.17": {
       "wheels": {
-        "iknowpy-0.0.1-cp35-cp35m-win_amd64.whl": [
-          "4d3e543a9ab6f097db492845da1ed930734c7d6c6536a087e44f2586e79808a9",
+        "iknowpy-0.0.17-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "f8096d692e37dbaf997779e8b168fd657869eacda4d02ea4b4b3568fc947af40",
           "cp35"
         ],
-        "iknowpy-0.0.1-cp36-cp36m-win_amd64.whl": [
-          "57fbf8cb3c73ab9b85d43e576802081cbd615d27111c5522161110a578b8d845",
-          "cp36"
-        ],
-        "iknowpy-0.0.1-cp37-cp37m-win_amd64.whl": [
-          "1f6b467f1e795629637ab466f6fea407007d25f6a74d2b26294ab98c8775c902",
-          "cp37"
-        ],
-        "iknowpy-0.0.1-cp38-cp38-win_amd64.whl": [
-          "7c9b4b86b1664fcee0fe10a484b03ed7c129f59f858e6f3f4374f7e6a1e7a30f",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.10": {
-      "wheels": {
-        "iknowpy-0.0.10-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "26c2bd5ccee6d9b06daa9c1a5ec10f777b5526f2e095c88273855529a10cd488",
+        "iknowpy-0.0.17-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "694b50348217296c142b319933a0434f8623b9c8fa17d5595f62f2bde64f8f54",
           "cp35"
         ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2010_i686.whl": [
-          "a5829aedcb2e84fa5413f82a0ae645a5edcb749071cc862444317ce026bd1c19",
+        "iknowpy-0.0.17-cp35-cp35m-manylinux2014_aarch64.whl": [
+          "90fa707e042d92dead3fd9c29f2915d6a86b0a4d966c896b165e6777e8c383f2",
           "cp35"
         ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "615875ae0898a51dc1531bba16b266a94ae9414179243a829c9f27b6f61c7f0f",
+        "iknowpy-0.0.17-cp35-cp35m-manylinux2014_ppc64le.whl": [
+          "e4ded6920e2553aa09b8ca22b46edf458e61c024dfdb4eeb4fe2b58049325715",
           "cp35"
         ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "1db69d5a19905234332e55fb1213b425128eb8ead4b32c1464e0f6acce14bfaa",
+        "iknowpy-0.0.17-cp35-cp35m-win_amd64.whl": [
+          "c7914d1c2460ae2ab12eb8f43862b1a99498671d163249ea14e1bcd3fdf588a4",
           "cp35"
         ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2014_i686.whl": [
-          "20122ee50cd7601dda32a9e8332b4f71c10402c84bf015976de3cb7d9f2225bc",
-          "cp35"
-        ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "3db1280370f3d6f7bb9452c4e2ba5ba856d8c1b13aced6fdb429f7e15ffae3a6",
-          "cp35"
-        ],
-        "iknowpy-0.0.10-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "0799033f52e970bf82ac166baba8041afa7e8bd2bdc851a35766a60524abe309",
-          "cp35"
-        ],
-        "iknowpy-0.0.10-cp35-cp35m-win_amd64.whl": [
-          "21a7127914666d5b83d7ef28b5a5fc8d301ce6d21a602151d0f89586c675b237",
-          "cp35"
-        ],
-        "iknowpy-0.0.10-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "b8c5cfaee178bc30b5eff178b25a509cb8e70d405e2ac10a865efbc0f48071f9",
+        "iknowpy-0.0.17-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "0328b125ec7540ac4fa0066a15d1f4625a65bf40b7d5f5888bd343e98db1ab56",
           "cp36"
         ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2010_i686.whl": [
-          "cec0bf0b10194575bdc8928f8f0c9efe018a6d3cde6ac9d88ac17a6a4f367ca2",
+        "iknowpy-0.0.17-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "3fd503935edf7decde6158e277141dfb908b8396411b27c3f9e41da26e142565",
           "cp36"
         ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "ed3823c440a039b2c28b3d32238dfc4a5f3c817221baeef65ca59185de49c51e",
+        "iknowpy-0.0.17-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "7a443e76da7be41b5ada41fb44196a75825f597709cca6c79ac6b7c899a6d70c",
           "cp36"
         ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "8d41b51e6dbb6afad4f38fd461e52461198b0f8a38e7d2669a13165cc72bc04b",
+        "iknowpy-0.0.17-cp36-cp36m-manylinux2014_ppc64le.whl": [
+          "e66d4939b34a8eaa53ebacb2dd7ddac597c7750d74e6ab745ea07f96c5929c1c",
           "cp36"
         ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2014_i686.whl": [
-          "5a24ca65837ce248070d1c2dc780cc4797746cf3b322656ce4801304c3e2f0c3",
+        "iknowpy-0.0.17-cp36-cp36m-win_amd64.whl": [
+          "ac6f79233f29cc456153e67a6fe096c83c50d678875d8a9894e76c51dae70001",
           "cp36"
         ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "d82caf8f9c96dba6287c15d92f99315c585d8a9f75e30f65253c90749bbd54b6",
-          "cp36"
-        ],
-        "iknowpy-0.0.10-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "7861d4f625592c5eb922d94af59639652a95e3f9d17f27cd0349b03049caecb8",
-          "cp36"
-        ],
-        "iknowpy-0.0.10-cp36-cp36m-win_amd64.whl": [
-          "89df9020f833665369b3d7ba7b51b55a3f1bb107538fe9cb05b4710989691946",
-          "cp36"
-        ],
-        "iknowpy-0.0.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "7061d912193a24c93edf5407a8f96fe3fc6c4644955e224eb5d01bccc4d501d0",
+        "iknowpy-0.0.17-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "d8e9fa6f1754f8cd9b43da8dd1de6b2e12621428a941ab069917f30978f637f2",
           "cp37"
         ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2010_i686.whl": [
-          "4f8c742d60281d058f0e6d340c31dc85033cf0745d97c4065219fe7d5592434e",
+        "iknowpy-0.0.17-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "87db68d8eb5488fcdced067f4b6ea122a184c06a8a6f323e68cc28a7eb3b6dbd",
           "cp37"
         ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "b2a35fd5958fd559e8eec1f0a41a0297123625d98e4ef6a0983665115c0796f6",
+        "iknowpy-0.0.17-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "7a9d8d977cb8387df8d435149937d49230789cacf9cb5c31e5423a39ada4ab5c",
           "cp37"
         ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "567ee5ae7122166bc6e68f3cc6e3e7dd71bb9cc806fd7e5cfaa61841213c2bc5",
+        "iknowpy-0.0.17-cp37-cp37m-manylinux2014_ppc64le.whl": [
+          "7f76a747fcd4d5a2d97d66acf1f5e26c4a14e85342f0a52b2a5d4a0db84a7532",
           "cp37"
         ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2014_i686.whl": [
-          "8f5e551c227db0a9401d23afce10394eb509c2df8ca30efb6ca70c253697bbba",
+        "iknowpy-0.0.17-cp37-cp37m-win_amd64.whl": [
+          "7e30f0cc6c7ddf78b1d82ca39a07bf788d099c6aae9f94e098e1ab768fc8069a",
           "cp37"
         ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "e35c3159a04ff11eef8f042c64d96380b617ac827ea677eb708b9dd653e8952a",
-          "cp37"
-        ],
-        "iknowpy-0.0.10-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "bd24e278618d4259165576263cfe2393e2bf75c11c28a7a6565a93455c27ad8b",
-          "cp37"
-        ],
-        "iknowpy-0.0.10-cp37-cp37m-win_amd64.whl": [
-          "3a7c1c8c666141521a625e1e9c1888d295ea333d420ff2f385dc7536d9f93986",
-          "cp37"
-        ],
-        "iknowpy-0.0.10-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "248fef47c46eb03632f561ffb34a71f1ccc5d57bb4e4c598a854583bb0e3b583",
+        "iknowpy-0.0.17-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "228fd4c8e4d98e41447ab9d840278263b5175412a493bf28d6e176d7cca389d2",
           "cp38"
         ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2010_i686.whl": [
-          "6706aad2cf6df74b654e5aae17a161e5f70f2a9e1cfd1ea2cfc8d839a01eb995",
+        "iknowpy-0.0.17-cp38-cp38-manylinux2010_x86_64.whl": [
+          "39cbf6cb8c5b112ceb7faf37cdce8f04087fc5cabd7d7183caefec89bb1d70cc",
           "cp38"
         ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2010_x86_64.whl": [
-          "49d6193d03a128253ce9b39453a4de9186b23fb8d43e433a5c41ebbb9b58553c",
+        "iknowpy-0.0.17-cp38-cp38-manylinux2014_aarch64.whl": [
+          "6dcfc97af83402861914d756069fb144af46a6912de9a8de2063d6516b837bc9",
           "cp38"
         ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2014_aarch64.whl": [
-          "99d353f20e6a0b598df491cc0a2573e51d6244898376ca09192756729fa47ac8",
+        "iknowpy-0.0.17-cp38-cp38-manylinux2014_ppc64le.whl": [
+          "bf502c1ac2bb6d8f56de3091d3d595d74eaadd1d1e295e7ce68dff6c3319a9e3",
           "cp38"
         ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2014_i686.whl": [
-          "46e43b230cdd89314ceb6af86c6a339fe03e962dd3850c21d02aecf35a43fbd8",
+        "iknowpy-0.0.17-cp38-cp38-win_amd64.whl": [
+          "1bbda66ef0e0c9359d4bb26a4cee9325c8b41585594b249ffb86f936f74bc1c1",
           "cp38"
         ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "1ea11cc3aed5483406af1f4b7536807703a36c66e6607c1feed29fdff4028798",
-          "cp38"
-        ],
-        "iknowpy-0.0.10-cp38-cp38-manylinux2014_x86_64.whl": [
-          "7a1bf2e43e70f48d010244aca8e7f154327ccdeaca810ddf19a99d17ec3a8e28",
-          "cp38"
-        ],
-        "iknowpy-0.0.10-cp38-cp38-win_amd64.whl": [
-          "f4e30304fa77a9213969d299adba580737acd65c248eaa4358ebe7b3cced7b8a",
-          "cp38"
-        ],
-        "iknowpy-0.0.10-cp39-cp39-manylinux2010_i686.whl": [
-          "8f7591d314324b644012334497a621e2b7aef19eec7bc9f14fa1b52404b18fbb",
+        "iknowpy-0.0.17-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "b6792bbca01723140bdd8a9699290cc62675538ce7e3407d9bbfc4b19b0db108",
           "cp39"
         ],
-        "iknowpy-0.0.10-cp39-cp39-manylinux2010_x86_64.whl": [
-          "f6f921bbac7ff1116ca2014187d5553771195137d8630004500b3e2a6df79696",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.12": {
-      "wheels": {
-        "iknowpy-0.0.12-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "53044f4e5142b123954a001d233dc2a27ec155e35929260a745eb0d107069039",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp35-cp35m-manylinux2010_i686.whl": [
-          "03a8c18f9a57212479579ebb63aa44d4ab2333d9b180e579d4be0f30bf521bae",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "6ed97f3b56a9583d75306bfe97e90821a8090db868d84db06c857e25b5817383",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "78d5f317f58cb7929eac84524e119a7b076cd15975ff62fcdb18e135697ddadf",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "3b0348760f98eaa1d98983a383becb8e0bd1c4234cce57e47b05bcc7b7c871ca",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp35-cp35m-win_amd64.whl": [
-          "866f179ebcda8f2c3345e6fb6a8031184fac00a3ac8818ca667f73082d07d2a7",
-          "cp35"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "84cc3ba33dfbe3cdd42209369f3ccd6b8f9f1d537a2096b070f37b4864a9f943",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-manylinux2010_i686.whl": [
-          "d8b2cd4ac030e43676213fa3cf106b1b443b8e8dfc93b4d10c03a217aa244eaf",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "3f53bc0ddc36c0efc4744188127d996efccfb2ca059b03fde492ed8036508b87",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "b9504db049f7caf8fe6cdc63967e65e31176199b302dde6a54afb831bc3ff7ff",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "f15e958836422dbd58b305d89db2f9425c1bd39f14ab89d17f99f15b713a7ab1",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp36-cp36m-win_amd64.whl": [
-          "0fd15ee5b627e5f840bffa045bbea8850ca0f711b6f254322543dd6eddd6b2f5",
-          "cp36"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "d157c0614221d36443eacbf38a6f91d2e8cc5a488cfda34cadca44d0a2f76fc0",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-manylinux2010_i686.whl": [
-          "1242bfe0de3a05418e71b9c7bf91f1a0f32ef59daa888448f15fa501ead2b82d",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "680560ef8f507892c01f5a72ac4f7d5dcd9ffd090fbcd363dc3d894f6640d8c4",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "b3c375ccfeb0a0de681856071262bcc706356c6e8f0255a86de24949b0e079f8",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "cd933c6c31eaf0f24342c64719382ded35c2fc1fbb6fb966bb478b541671fb42",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp37-cp37m-win_amd64.whl": [
-          "739a92339c4285856c815490a9814015f3cdf43ac1b736506a488d6cd63df732",
-          "cp37"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "e7776990d8f3f2e8fe45617bee8f1edf21353687636058188513c7db6f30add1",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-manylinux2010_i686.whl": [
-          "59080eb02e7df085ef4eccd12fdfbd4a6f659b5afdc421f7ad4c7a85eeb95f60",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-manylinux2010_x86_64.whl": [
-          "08ae8accfd1e69e331954839c992040fe1122795b1a7bfc2ad4ffc3ddee7f770",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-manylinux2014_aarch64.whl": [
-          "91ebd3607c7abc061d04a2b8af3f5622102dbf74c26d79123a546e91ff51b44f",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "03abdf1ec4eb1c596c4a2b766567e73523849840f9b8a81c9d2366b52291d33d",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp38-cp38-win_amd64.whl": [
-          "8e380b7c31641d4f7c0a61ac2deddf73471306a7fc275714e177e6a09418c0df",
-          "cp38"
-        ],
-        "iknowpy-0.0.12-cp39-cp39-manylinux2010_i686.whl": [
-          "3b2d74761acd1bfb50f02a8df1e0626df24e961f46e0421b6c0e91b19c593c78",
+        "iknowpy-0.0.17-cp39-cp39-manylinux2010_x86_64.whl": [
+          "1ca49401394c01347962e99cd4f2034ea48835dc00fc931ffb4e9067f8464520",
           "cp39"
         ],
-        "iknowpy-0.0.12-cp39-cp39-manylinux2010_x86_64.whl": [
-          "a49555330ca4604290d06218a46efc6c2aa6a2c4673c6b6a2e7ed90f8b889f5b",
+        "iknowpy-0.0.17-cp39-cp39-manylinux2014_aarch64.whl": [
+          "ae47a95008dfe828621a5bc1957971b8e3265c632b7f17ad7f8d4012ff90c27f",
           "cp39"
         ],
-        "iknowpy-0.0.12-cp39-cp39-manylinux2014_aarch64.whl": [
-          "b6eef9c36b017a955ee06d6b20a4d606f56dd705067d5002de1d7f08a6e23ae8",
+        "iknowpy-0.0.17-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "67ea0b5ec18572e1fa0090b00b9b266b04a7f1ae8982de62f0b80a0f4d8ed6c9",
           "cp39"
         ],
-        "iknowpy-0.0.12-cp39-cp39-manylinux2014_ppc64le.whl": [
-          "1f4de7b2df7a011b74736d5dca3e06a67c555df8a8f91f5a7623b9f55a8acaaa",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.13": {
-      "wheels": {
-        "iknowpy-0.0.13-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "33d8b9c06edcdadfa73126a2809c62bb5276fdfaad032ed275be6aed26bbbf84",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp35-cp35m-manylinux2010_i686.whl": [
-          "b34a04227e1ead4934fddffabd9fda8a58c021f4efa505db543c69033b7d5a55",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "bcdc57c31b1a8cfb0d5d1e82419820f61fc03d1efdb27d3b61151c3add311ad3",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "73ab487127fae7a22d4590f6c96ede3138adf808f1bd7f14e8a9714c96b9126f",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "8c5c01e34f040b53fa68dfee0d2bc4dda2a627a9183868e7886d90e29dd6eb98",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp35-cp35m-win_amd64.whl": [
-          "6bef93f527deed2af5657a959d6a5864eabc39573632f14eac185f45d53558c6",
-          "cp35"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "4d01c307d035ddbc2711631a01764387d5869d11f9ab3e6a64dc25a019e88158",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-manylinux2010_i686.whl": [
-          "dc4a2fe6a03bdffb0412df0a37714194b5e26b85f5c1c907f074182fe40f667b",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "28fb3cdc869d2cf969c94dc1cdc1da657b7868ef90119faebf6da3da14002351",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "2bdbccde5b977cb93001cd7be24fc7e55713e5b74387eb1f4fea1d7b16cae231",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "90da7dfca9334a2c6bd5682f77253b178eedfd1cbabc9d10d4bbc10975271c51",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp36-cp36m-win_amd64.whl": [
-          "39f2d73afc18f9eb0d156a823ff8eec4a026df1c97f935500586fa60a8a5c35d",
-          "cp36"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "dcd5e982235590a2366bafcac763f9eb6afddf7cb38ca931ffab74331a6578a5",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-manylinux2010_i686.whl": [
-          "80093fa8f95453d133dc928e873c63541ea1f1bc36fe50cf3f9aa18a02596828",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "4fbc444b9babf67ce21d813a89c4befb35cd9cf9f8b57522fda5ad3d11881f78",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "ee8d76e17b554aa8cc7a614c3d84e48960b6c91bc4b9b0a41842a4c929c00242",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "8240e654b007bb00b4986f5d93c4296b6d4cd9f77d7664cfc2a448966e0a5760",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp37-cp37m-win_amd64.whl": [
-          "8460afb3952456c07abed64aca80c76a1bdcf1a02506e60af5c93bf314034a22",
-          "cp37"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "9d7c145027d7ca772aacb370b9ae4782598073810c2f26574d5a6cf002734979",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-manylinux2010_i686.whl": [
-          "a08ac8efca20c71577d5d959d5d380591874dea05d9e8e0cfd397d6254f1874a",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-manylinux2010_x86_64.whl": [
-          "f85b449554373908bca88ffc211cbd870403f96c482e5f8fb703c2c171ae85a4",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-manylinux2014_aarch64.whl": [
-          "80011a1c2dd691bbbf099ecdff19c95e1285a26cf41920e7c126df5234ed79cf",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "da9341c467de4c58bcbfc4d1cb584565c5296737b5fb5f75bb7de8718c8769fa",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp38-cp38-win_amd64.whl": [
-          "380088056a76d5dfd900bb45c7e6f7dfa431d35866eb9136924e5b15a4ae3b05",
-          "cp38"
-        ],
-        "iknowpy-0.0.13-cp39-cp39-manylinux2010_i686.whl": [
-          "1f2ad08b3633a8790f14768ba2183156a77af4a8173757c928f509e6c1e97f23",
-          "cp39"
-        ],
-        "iknowpy-0.0.13-cp39-cp39-manylinux2010_x86_64.whl": [
-          "2f19939c785a730f78b30b55223afdc1083e710d364a638bb8675661b979e0fd",
-          "cp39"
-        ],
-        "iknowpy-0.0.13-cp39-cp39-manylinux2014_aarch64.whl": [
-          "26127fb9a1c124dc9ef578b29a0e15bccd523bdfcf12f95a9326d4879fe9dc3c",
-          "cp39"
-        ],
-        "iknowpy-0.0.13-cp39-cp39-manylinux2014_ppc64le.whl": [
-          "29906ab6084c964eb9941a79e7835e41a13bc28204cc237690e9b9c7124efc11",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.14": {
-      "wheels": {
-        "iknowpy-0.0.14-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "ee101d7a31623abe0db6ce93c87362f1e6b328790d4a28c1b55bc40da0182734",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp35-cp35m-manylinux2010_i686.whl": [
-          "e6e7a21c5e8adbafb878591a9383e2542185751c510183f10c5ea028e5231f52",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "b8d13e285164cbc70d4c18fc9ddb3e2612d987a28e48ea3dd981fca151857c56",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "f4e6588dffea0abadc616612d980217aef0818fe5f4c6001cb954d615d7dce10",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "6af1b21b64e73e04d5a051ebfd49b2ab940f0af488b515e6b98c7bb520213514",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp35-cp35m-win_amd64.whl": [
-          "d0ac38bc99aea7aedeb31af6b7e47954df75f70c3d424b410c0a72eb2eaa5549",
-          "cp35"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "fbca2a82e13924f563b626fb39c5badeb63583fe96f7eca2753434894fc53f0f",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-manylinux2010_i686.whl": [
-          "93707e91d7cd848f546796e14c4ca39aa7e29dc976e175fe5cf74d81f5eb9b12",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "99966f30a2d8dcbd59852dc75446de1b6e717c21c10d7726999281ab8164bca4",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "78b475ecce5095f029804f03e8a51a1fa394b25613a01c8573c9927c8a5db847",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "ff2555cac5306c9b63adab0411ab61208d78f6ee8c9d44a38ce832597a53ef7c",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp36-cp36m-win_amd64.whl": [
-          "19b781398e7152d261add5b798624cdcccc5fcdd1f1d95fedd657e241f786424",
-          "cp36"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "a29bc53a2df71e12fc77595393b44281bfc4089866962c783cadf389fc4271f0",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-manylinux2010_i686.whl": [
-          "d00680bc08582afccc7acad3635f66438b5c2f3bf836c57267ecea2acbb39045",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "3996791605d05395b1462a6a52b2b58e217f98ea0ed55bfc7c025cf0d92153ca",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "b46cb0711ec1844c64ba17fb238927cfb9000dc6943d38e2276dcdb3bd393418",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "b8a1a5f131a90e056e269cdb6472d2f942f1e905e0ec1feffad70b709139ca41",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp37-cp37m-win_amd64.whl": [
-          "74b38b1da5e4460abb3efd3a3ea3859caf8c4638d610d4947c60e6ad6d4f9904",
-          "cp37"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "e17087c1b6540eb609857aa1242b5284734bc9c18a082b364790a3af9137b796",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-manylinux2010_i686.whl": [
-          "2730ccc20598d6fa0933782b2233922d4a1717846777bfcf24d7f3526ab661f8",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-manylinux2010_x86_64.whl": [
-          "3ffb345ed0f607c9dc54c2c94d6ed46be402c34bace499b83b6cd1034b236bb9",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-manylinux2014_aarch64.whl": [
-          "2f2cdc8cdd165f1b198187bff5a8c36930074622571875b5dd5ea41e4f7fe69a",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "8cd00c10a0ab32682a3244fbdda5f9f817f531e898dd29f8dabe831939ff4463",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp38-cp38-win_amd64.whl": [
-          "6e1a840c67ae364c1f829d0754e81ce1fe6d64f1a6771b9dd3e5e4bb7d8ed26e",
-          "cp38"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "ea0f61dbf2fc606558fdbc3343abb98357f82e188af85f2feeded6fd9ed90404",
-          "cp39"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-manylinux2010_i686.whl": [
-          "ee1a91868739ee22fd73d5be86425ca96b77f735dc0c72552b8e203ffe1e0a2b",
-          "cp39"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-manylinux2010_x86_64.whl": [
-          "0af5b4eb59a0ae73119f6cedec60e8458cd1753cbddaa3106ce07489ec51e44c",
-          "cp39"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-manylinux2014_aarch64.whl": [
-          "c8ea01fa1cf484a4186e102555c76d94636a38d9986d5d9637e5438fd2ae291b",
-          "cp39"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-manylinux2014_ppc64le.whl": [
-          "7c0e9753ad1244a140df6b9284f2ce8611d3daf79d67538fbe994f48f697efa9",
-          "cp39"
-        ],
-        "iknowpy-0.0.14-cp39-cp39-win_amd64.whl": [
-          "5e6fc4063466922e94717504734d6175113a8a54a03fc95291a36cc3fdd13bf0",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.15": {
-      "wheels": {
-        "iknowpy-0.0.15-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "386bf7120cd4bc5738dbd02aaf8ac9fd82b98dff32e15a466842133445052659",
-          "cp35"
-        ],
-        "iknowpy-0.0.15-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "c552cb21963c3d904e727b510ba5d837ac48fa4625ce26b77ce3cb988bd114a0",
-          "cp35"
-        ],
-        "iknowpy-0.0.15-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "112b928f608e8fd15800d0d91936203c9180cceb955ce9b83637dcf2ddac463c",
-          "cp35"
-        ],
-        "iknowpy-0.0.15-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "e9b0f6e62af857a5b6a9a9e434f9083160e712ca1572fb9f7d72b040eca1b691",
-          "cp35"
-        ],
-        "iknowpy-0.0.15-cp35-cp35m-win_amd64.whl": [
-          "25c8774af5aeda26d9236c0437b72772be0c185e8ee1aed4c533508de328b0fe",
-          "cp35"
-        ],
-        "iknowpy-0.0.15-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "d7157c65cb371be9dfb87ca702a18e446768a75278ebc15e114ceba0849d677e",
-          "cp36"
-        ],
-        "iknowpy-0.0.15-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "66bc14fb454bf0a0c1479163e15ff6999ec59ebe85f97f092ed61e0fa816cee5",
-          "cp36"
-        ],
-        "iknowpy-0.0.15-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "bdfa3b92488db8a4e5e72b4fd9f1a85bd91ef9d9310d7808e116be9a3615a1d3",
-          "cp36"
-        ],
-        "iknowpy-0.0.15-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "4780b102e246a5262b288d17de4bc16607feb41fca8c637b07533cfdd17f5b7b",
-          "cp36"
-        ],
-        "iknowpy-0.0.15-cp36-cp36m-win_amd64.whl": [
-          "852a79ec63d98c5142e61e5498557cec4ef05c0a52ec9478906b13075ee66658",
-          "cp36"
-        ],
-        "iknowpy-0.0.15-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "87c5cfd7a0f9cad50a3f8b6ea5635598c30f34b9b0e2da2b4f90462e49b71dc6",
-          "cp37"
-        ],
-        "iknowpy-0.0.15-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "d08d565bf8ce018c81d874be87f3dc5fa4db872958724ed1c79ed3f1975c5287",
-          "cp37"
-        ],
-        "iknowpy-0.0.15-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "b446b651e7610be0ee8718236075008fc7f26e4ba9ce80b6e7c817ffc79f1f9b",
-          "cp37"
-        ],
-        "iknowpy-0.0.15-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "8febdbb4f316532b6fad64189a3c35e650c1f679e2271345ed6a0971c2b9528f",
-          "cp37"
-        ],
-        "iknowpy-0.0.15-cp37-cp37m-win_amd64.whl": [
-          "3a3881377161b8cd6ba57fc1546a1d3d6b111f29f991f55611d3d555b64ebbcb",
-          "cp37"
-        ],
-        "iknowpy-0.0.15-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "7bebf291e484c2f8d39d0b593d332f2df19779ba948f918cf14c271ad9f37d12",
-          "cp38"
-        ],
-        "iknowpy-0.0.15-cp38-cp38-manylinux2010_x86_64.whl": [
-          "0e72b2e8b40d062d897f1de8b6f2d02f5acebd701e87e8455d75192680543597",
-          "cp38"
-        ],
-        "iknowpy-0.0.15-cp38-cp38-manylinux2014_aarch64.whl": [
-          "0a805ea7c501c54fca811316252953492c842b54ee437b93f15aa8850351113e",
-          "cp38"
-        ],
-        "iknowpy-0.0.15-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "815a89ee04befd0ec00531bf7e1c27407790e35a22d8ea007e9167483ff771f1",
-          "cp38"
-        ],
-        "iknowpy-0.0.15-cp38-cp38-win_amd64.whl": [
-          "224e7db1bf7a372edeb7cb4e514323795902c6b10e8e010dde3e95e9edc0c721",
-          "cp38"
-        ],
-        "iknowpy-0.0.15-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "89829eede9acddad498717f0569f1ae41cae6efe986b12cda40948eae2dabf0a",
-          "cp39"
-        ],
-        "iknowpy-0.0.15-cp39-cp39-manylinux2010_x86_64.whl": [
-          "846fd9567d45c6f7c73b796e81f67a1fad50265a268b7e76e7488af49063098d",
-          "cp39"
-        ],
-        "iknowpy-0.0.15-cp39-cp39-manylinux2014_aarch64.whl": [
-          "7f1dea290ffeeff1e03f21269442e67419d961d30b11522083a68373d07917a9",
-          "cp39"
-        ],
-        "iknowpy-0.0.15-cp39-cp39-manylinux2014_ppc64le.whl": [
-          "0f8b55254f7d7a5a93d1572ce42108f381803c44f1790f78cc5f876b4bd284f7",
-          "cp39"
-        ],
-        "iknowpy-0.0.15-cp39-cp39-win_amd64.whl": [
-          "a3b17232e1ec44891467e46a7a54278f80323b9c3b593c26799e731cd8f5bc90",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "iknowpy-0.0.2-cp35-cp35m-manylinux2010_i686.whl": [
-          "07b733e5d241f90130e4c136c620ea536e244b33a327c3bc2cb69c1cfed51fef",
-          "cp35"
-        ],
-        "iknowpy-0.0.2-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "082acd36a8b0fb0c6b30123c2f5a0481b7d4fd9a34ead554308c86c17eb78ac5",
-          "cp35"
-        ],
-        "iknowpy-0.0.2-cp35-cp35m-manylinux2014_i686.whl": [
-          "30d26539d3e46ada701487f32eecf60c20373bb1c19e87942e6221c6cdc5a021",
-          "cp35"
-        ],
-        "iknowpy-0.0.2-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "29803d3c7d4f8e889d3ffd21e5b9c8a977d0c414b01cdcfdc8cdaab8afc6ea6e",
-          "cp35"
-        ],
-        "iknowpy-0.0.2-cp35-cp35m-win_amd64.whl": [
-          "e2d800741a7c2ed706a8af084a16c3eda694d4a7ce48e751f92193c9f4517a97",
-          "cp35"
-        ],
-        "iknowpy-0.0.2-cp36-cp36m-manylinux2010_i686.whl": [
-          "137d2b384016447792f6a131e0451cc83e848381eb0314188eb82f4a4028a407",
-          "cp36"
-        ],
-        "iknowpy-0.0.2-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "c7d30de5ae4eedf9dc17c2328d36987866d03d9c6e00a01f533a4b80cbd680c2",
-          "cp36"
-        ],
-        "iknowpy-0.0.2-cp36-cp36m-manylinux2014_i686.whl": [
-          "fcf3d96919c5ecec930962e0727606d85bbc5ed0d059b64cf6f141b08c925a14",
-          "cp36"
-        ],
-        "iknowpy-0.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "f1b8ef73d664e97e8b44ee1a1ca3a5e1df8673807a6b9c088e595be1e5f32137",
-          "cp36"
-        ],
-        "iknowpy-0.0.2-cp36-cp36m-win_amd64.whl": [
-          "f9951b6cb235d26f4b7eee6c0936d6ed36a4713022b078aed8f1410e2d28e9c9",
-          "cp36"
-        ],
-        "iknowpy-0.0.2-cp37-cp37m-manylinux2010_i686.whl": [
-          "a70eac7a28b5d533b2afe0f9bb97e39ae834d2b085e71f506acbb2d1d1481060",
-          "cp37"
-        ],
-        "iknowpy-0.0.2-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "24ac43c2d58ea8a2557b9d481be0be5c10cf13b8da115cbf7df17bab0ff43901",
-          "cp37"
-        ],
-        "iknowpy-0.0.2-cp37-cp37m-manylinux2014_i686.whl": [
-          "403f2b415df34a6680cc2ba1e99c1126ac26604962bedda0126f0f934b6da668",
-          "cp37"
-        ],
-        "iknowpy-0.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "2a936d7859836e29f8c8eb4115661ad548b0854f91962eaef22ffdb136f4fccc",
-          "cp37"
-        ],
-        "iknowpy-0.0.2-cp37-cp37m-win_amd64.whl": [
-          "d89c30d4fc56b4b26af921f470866f3aea007dcdeb614a3cc6f8d7c1a027f409",
-          "cp37"
-        ],
-        "iknowpy-0.0.2-cp38-cp38-manylinux2010_i686.whl": [
-          "e153cc5d366775854aa50d4a853d7efe197be28f5d2858c6006dcaedb4173aa2",
-          "cp38"
-        ],
-        "iknowpy-0.0.2-cp38-cp38-manylinux2010_x86_64.whl": [
-          "7f41d2ca31bb9a53cf9d75f07263365c2e0517f4940244dbf6aca2b1cf490c92",
-          "cp38"
-        ],
-        "iknowpy-0.0.2-cp38-cp38-manylinux2014_i686.whl": [
-          "da39910ae0e4da7e794e8d93d9ac6e3448737a6b9dfef22a70a21ec9c4251234",
-          "cp38"
-        ],
-        "iknowpy-0.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
-          "aa721867715c508592f051ed41e5099bcdfefc6e90a5e13413ccb411213a4212",
-          "cp38"
-        ],
-        "iknowpy-0.0.2-cp38-cp38-win_amd64.whl": [
-          "f095d98cd9c71e5469862ef4ffc43ffe979f82e962b1f4efe37ba32c79d4cce5",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.3": {
-      "wheels": {
-        "iknowpy-0.0.3-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "8838cc6c76a757dedaa628d3d92791b8d845fe4ab2eb2d57dc89ffabab5dc63f",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp35-cp35m-manylinux2010_i686.whl": [
-          "8cfc466fb5a1e3610de6f7c961f7f9b4438b4c07f4d607f08cc75c15d8e4ae6e",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "aef540354fb6cbd20182aab837be9d7465a67befed6282a8f4e0b6baf337baf5",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp35-cp35m-manylinux2014_i686.whl": [
-          "e2f5c951b3dd40ee0237a6782e88ce6b092667ac5cb30e48fe35fbdac495612f",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "e37c914336f1bcca2ce6707eb1782d3afe4ce4cc9a6da74bf3a7a6356a4a454a",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp35-cp35m-win_amd64.whl": [
-          "a2274c4e345f2509de5017a0f50edd3b87539fc6e285363e7924b3bffd6844a8",
-          "cp35"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "9b83039260a904c6a3e3865614e9c275d5dbf8f86227d621a0e6e2ad1b17515c",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-manylinux2010_i686.whl": [
-          "bed7f488a8744424da31c7b7eef84fb495b4bd084e2b5848a824c84c629a232a",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "2d9328b5ec91a9a396ac49a84823edc28699b2224d0d7384f79d26a63c829212",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-manylinux2014_i686.whl": [
-          "2308ffa2fe2a1857760d1c52088b2c52ff1eb75055db185bba65e4f20ba13895",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "123b4176945b6c313ef74359b9584c7c05558487d20e88af19f09006204ae073",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp36-cp36m-win_amd64.whl": [
-          "a8331c25c3b214d7382049662fe8c9eee7f152c849ffa5f5e3a29b1e88e1879d",
-          "cp36"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "7a34887914a14107e764f735fcf8987d6500d8c9821d4a4b812cae25b705727d",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-manylinux2010_i686.whl": [
-          "f3d8feff7894886e6855830de685773c5f2abcf6968764c19f1f3e5630538af2",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "358383a7670709f94b8d557a3e897a829591823d6da0dabefaa60186ebc04853",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-manylinux2014_i686.whl": [
-          "d2f597bf9298e87f2193dd325e2bfdad51d3702e4b43e0c2e1624795669134cf",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "9d7c20621455825711c2d7474f8e0f4cafe46732990b5d7438470e54408cad2d",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp37-cp37m-win_amd64.whl": [
-          "cce3455e4e32afa16bf90ad5354b05b303e7a39aece9724a3b9ef11bcef03356",
-          "cp37"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "07c95050603c34c28752a719a40a715bb9e79a8b8e673a8ce2fd8c84f13684e8",
-          "cp38"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-manylinux2010_i686.whl": [
-          "b540720f7f43f9a11544e920e8849664f26ff9b9107d71f2f5074012dc9341f4",
-          "cp38"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-manylinux2010_x86_64.whl": [
-          "3cde5b7e6208020e6873456c651dd580fb4ee64e9f06a02a5a4d58636fda1f16",
-          "cp38"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-manylinux2014_i686.whl": [
-          "564bcfc249d19f585212ddbb483fd51656af56900e1e88f670399b2d4f76f4e3",
-          "cp38"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
-          "14efa717177d1cf38aa57c95be523a655c72963660d057e267194408a8d375b4",
-          "cp38"
-        ],
-        "iknowpy-0.0.3-cp38-cp38-win_amd64.whl": [
-          "c1b995132a4478f3325fbc7465835f4ef9b52927540ae3ebf7a8d66c3500d641",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.4": {
-      "wheels": {
-        "iknowpy-0.0.4-cp35-cp35m-win_amd64.whl": [
-          "ee2f10fab081c61c4e2d9baea360e5e39992f634573e8c3e9b9989e6acd74b54",
-          "cp35"
-        ],
-        "iknowpy-0.0.4-cp36-cp36m-win_amd64.whl": [
-          "c25b643474b06d1e1d1798d8aeb5a8717cf77cafe859fca79f825287a21046c5",
-          "cp36"
-        ],
-        "iknowpy-0.0.4-cp37-cp37m-win_amd64.whl": [
-          "5b06824b1ef19f40d6e166d5b5f699c4382987864ace66fc898b15e693e02cdc",
-          "cp37"
-        ],
-        "iknowpy-0.0.4-cp38-cp38-win_amd64.whl": [
-          "1d37755ef33cceed3a4f49f6e383be7b2a95862062ecd515f65c9ef72916ab7f",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.5": {
-      "wheels": {
-        "iknowpy-0.0.5-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "2d05b1a5508d1dc229858f40868499fc0cf9c48f8b0865c376922d8da4eb4511",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp35-cp35m-manylinux2010_i686.whl": [
-          "5fba63957af03beb1fab13fe639f297b5b39b6a2ff7af42f5c6f01c137b2ac06",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "afacf801b009231fc44f8d7db42da59b566a8a439ec7afa3f98e678cb65f8e94",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp35-cp35m-manylinux2014_i686.whl": [
-          "296cd96cf30f65b34176f873a0bdaf07f68f5235b13ec229570694fdebc67565",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "70a23ac2692e22d90d51ed661390a0a57127723762e1781d09a8bca25b52ec04",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp35-cp35m-win_amd64.whl": [
-          "60f73fe374b795dd2298512524a2618de916140657431a3c3e99358e0bfb9523",
-          "cp35"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "275edcc55076c16e1e7da0fa7edbd4da616aa6003941c9f3d2a1b90b794f4b0a",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-manylinux2010_i686.whl": [
-          "aa97e25292f7db9045573698b94c6c6e6d524d5633fabec67048fe3caf881147",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "9ec0116eb778c9040d83d3028684f52ad1bf734e9904dfdcabb9583a188a37ea",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-manylinux2014_i686.whl": [
-          "967f1ee2f4856b03180dbee0091d7f5afd12038cf80f166fd4239f10c51ff36e",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "1c95dfd99c3bc80445ea7f1261aae36f7de33ca2142f39229d4da5f203448231",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp36-cp36m-win_amd64.whl": [
-          "8c57d662f522a2b75617d2d2bc9a0cb2af7b86e1a532ae0947af6077028103fe",
-          "cp36"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "1eefdd5897a2b8edb984a67dd7ff53a1ce29dc80f42a985f775a850b5a451bef",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-manylinux2010_i686.whl": [
-          "86b5f365fa288ee2e99a03eaeef74615d07d88b604d35843e76952337134dae5",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "372cf3f2458cf1bf6b0b209e67276fc3831b2b951a255daa89bb8ca3d65021a8",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-manylinux2014_i686.whl": [
-          "f3a05da78fd9c5573db534f71bfbb264e3eb8c4b42dd96bebf318041ea8dc8e4",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "d6a84664d68085c6f9ca8167709ea12f178d4a7b2e39650dd9d897108ad6ea0a",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp37-cp37m-win_amd64.whl": [
-          "9fc540dfb256cd49122132e41663837e7dbfc429aa5b43358d96738fe9cd601e",
-          "cp37"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "cdf94249194a12c2399df6fe71141a1dd5ce8776cc5bfda95fa558e5118e38ec",
-          "cp38"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-manylinux2010_i686.whl": [
-          "b534aa5c3b08dc97191c624d6b2d88db7b9b199cbbd7b8f0a9bb8e29879e9a4e",
-          "cp38"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-manylinux2010_x86_64.whl": [
-          "37613f952e285fe29245d0a9236c8c1bb0600bb53e632bfa87d01ca331481a59",
-          "cp38"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-manylinux2014_i686.whl": [
-          "4a323defcff1afb0f93549d67b304e1b251305d5b6d68009f0a15e12a94c72ad",
-          "cp38"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-manylinux2014_x86_64.whl": [
-          "2b62af7c82575c2e38c898986010fd049c73e38e44a4559672b5deb36adbae27",
-          "cp38"
-        ],
-        "iknowpy-0.0.5-cp38-cp38-win_amd64.whl": [
-          "31f0e042091889bd9ff522bf75126f8ae3dfea97803fe19c0c14e1996b4c8a53",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.6": {
-      "wheels": {
-        "iknowpy-0.0.6-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "a5d7d2bd5c9038f7857168d22fcc5af8a5bac40260c4711c1e70feab9082ce62",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-manylinux2010_i686.whl": [
-          "993202273105632417bbbf9e07b593cd896b1b266af8ddfb883ee801b44c4e96",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "8301dbe0853b611d0c69e3306a8be9deeda099b307d9aa43861657a01a364ff8",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "9647cf7ecf918cb084f1bf98ed93a7043b24ce3bd2a196ed70857c2202f9a0c8",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-manylinux2014_i686.whl": [
-          "2fe858ef9d4c68110d857ceba9582049937097ce7d5d5e163bb640d26d648d5d",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "191b68ddddda32d0d9a59e804d69270edf068ce550910234a4d289bb7d8bdbd9",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp35-cp35m-win_amd64.whl": [
-          "f4af1d9c05cf37ab403c7f08696efd9d9631e77ecdd67991a9e3a468e51be306",
-          "cp35"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "c107a0a4925daf74b152ba61aa88b90a34d0e0c6c2cf38fee9a6ac5d89f3bf4d",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-manylinux2010_i686.whl": [
-          "a70378a637848df1418abb1166491f2639cfe9ced38c58e581cc0f1b90db905e",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "c323eb0dea84fff39afb440c4dfffc9944897526c3d7dbe96232b5643e651ba2",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "e45251b45cf80ce89c3a21581984b3a9df2f4a8020e5c937f1483c46a1fed2bb",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-manylinux2014_i686.whl": [
-          "7a30c0522f2e5d453445db60015e2246112f497228902cf07d3ac70ef43dee6b",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "fb1796134edf6756b42da333a7f994c10cbd328ed55aa97ca4ebbce01e42fd45",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp36-cp36m-win_amd64.whl": [
-          "a1a105d35363d9d5e28232222d2a3dde7f73859e0f8d9e6f70c213b53dd956d3",
-          "cp36"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "77241c91aa7798d29ef90aef70cbc6f21d8ab13de50de5fde02464e27261e678",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-manylinux2010_i686.whl": [
-          "20eb68ee3b70d36d0e63972f672a04b414e8f6553e50aa909c860625dafdfb56",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "c167a5ae5285bfe4b6ec42326cf8ceb2b7bb9a9e2234f6bb27837d7178ea05e6",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "c4fd2c384db628d3f14be83a4833b74e9a5348010cbba94663dd4352cf4356a9",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-manylinux2014_i686.whl": [
-          "f61221f6c9280708e0fc8858d66be4aadebe0a380007a5010395e709d1bb3c38",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "6b62599c2f029fad80a61bb29a6c67111dcd8fe844bbc16f2a798d1641a3fdcc",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp37-cp37m-win_amd64.whl": [
-          "8941139c1182bc26d95ca815612598656d203dd43771ee784faded2af2d96ffe",
-          "cp37"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "5989a496ba82a937a5a7c23a5b7303f8ca154b94034f137e5ae632be9f9c0d47",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-manylinux2010_i686.whl": [
-          "0f538b97745075763908c327f6bfd287b635950ef4547a050adc0ab2a8f82bf9",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-manylinux2010_x86_64.whl": [
-          "3691fd17b6f3b73a9d5f88e3e2a4f9701f197e24525fda65d661a71203650a6f",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-manylinux2014_aarch64.whl": [
-          "3e4c77c583674d9c162b71f91a98d60857ba3bb2fd8b4de459f0399946ff9277",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-manylinux2014_i686.whl": [
-          "c5f83ad00bcf19d7fa080891801363da54cb361c77c45223bb1b3870ab3a82ea",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-manylinux2014_x86_64.whl": [
-          "5b49d3783a4f1fb72f0791f2de8c64db82f9cf25abcffcd50886bdedddcea37d",
-          "cp38"
-        ],
-        "iknowpy-0.0.6-cp38-cp38-win_amd64.whl": [
-          "40c4d2cad2089cbe5c5dcaf12693df97a51f72713b34c4a1a301d165502e1a8b",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.7": {
-      "wheels": {
-        "iknowpy-0.0.7-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "d57131d70f484c632c384d5285a7669f0805251a128547e0a6593507de559a24",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2010_i686.whl": [
-          "b582e7d0ee5a20b858ac499bde595efde90799990cce152b520f57ad30b22b97",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "17950fe0c3d2a9e747e36de1560cccf3fd6951c2b9a5bfaf9ac5411eddf86502",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "f3ce35c0b2a6860520bddb3363260e96be156f0521303dd64940ac7e5aa073a2",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2014_i686.whl": [
-          "1be2c55123b925f988e680936f1fb06fde14bfea4e62386a57f7176b31e0e83d",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "6ed555bb221312b472669fb73959c9ba9fc9b87efd2a5e7044113c50ea9cbdcc",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "025a3ebc00313aee175c9ca52e3942604c82ce6381cdcee30ebe5148627d81bc",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp35-cp35m-win_amd64.whl": [
-          "7f50cdedf6c246704775371d828462f23738b2542bc4a106dfc8bc207503b244",
-          "cp35"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "c5d11d68ec028900f8b2deaa89c20a54723b5e6e55971270bad2406d0d14539e",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2010_i686.whl": [
-          "0dc03fc10b41302a8bf5dc683bdc2f1b561092350c57e32a6cae24870b93a8d6",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "62a08ac9da22d3480bc007e9b6fed94ad40a1c0a6ab0ddb6b05707f80fcaf592",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "6a7e5a5e357caef3cadacec74cbea26ab0e7ae95128024ef74414c56dc9bde0b",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2014_i686.whl": [
-          "c31def842538823d6d82773c60cd007013c7e959ccc4fc24219109a57dcc66f5",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "6e52a9b08af473dac2907ad73921ffda866be65cf2498347a408830a268b890a",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "0048726580be0802a008c3fdf7f97ddfdf9ce1a0fcea4139801fd2d540a69942",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp36-cp36m-win_amd64.whl": [
-          "ff043ded1eaffbc4c3bce5bbc6587ab6714b8b744f7ef416f4426716bae951c9",
-          "cp36"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "f8efb5c8000c4cf2bf74523f4d834679bd2a121af933c88962d66130359da852",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2010_i686.whl": [
-          "cc08bb2a602fd7c48358e18efed49321d79f8e736b0d545b5137ee3b5e692b8b",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "dbd47d0e33462921178a65b067ab5744fef09efea9b10261b702f584d7d9bf46",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "f23d6f9c3fb736f5c264e72444d5e86a1e0658b5b4d9c696e7d7125adf107e43",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2014_i686.whl": [
-          "5179582562abbdb1acadc9311aa27d47a60c1f0bc61e8edc47d2e9c7fb22ff6c",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "e3550231113a768316b7605618405f38c7476a5518c84f991ea5f632232c5098",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "35387bf4463cf22918391f3aa7103066ef812aec8553e954521f54e8ed131807",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp37-cp37m-win_amd64.whl": [
-          "83f3b66a0f7f2fb81996e8fb31d6e2eb8a87ca943b42519c1b1cf49c5f7b18bb",
-          "cp37"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "1085e3e321d1c077e34099d452918a107b70b2dd7e5292632a667dd54c7f8a75",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2010_i686.whl": [
-          "063421b2d248e80009ce7669cb2e47db030b5bd3bae4de66334594f2d538203f",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2010_x86_64.whl": [
-          "e3822afa757169d23814352841bcae30f97e8518e29bdcfa5effee10645834ba",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2014_aarch64.whl": [
-          "16cb9e8c18d535a5e6ce8ef2963861b586a98bd72f62a15e217f8be24da8887d",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2014_i686.whl": [
-          "e94b184930adaf341c57642422afcf89b4414900f2b5b18f362f9ef74b4a683e",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "ba0b34509c30e35751149afaffc51143b1ebddf2b978c4aca4f4ac74de888e1a",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-manylinux2014_x86_64.whl": [
-          "d3890b01a9015201fba40f22dacfd049c74c00c3447dcdc16cadb9dfca77afa1",
-          "cp38"
-        ],
-        "iknowpy-0.0.7-cp38-cp38-win_amd64.whl": [
-          "aff4caeb50a828a8abad9fd4ae38e652a04448003c9854cab6634f78b17ee2bc",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.8": {
-      "wheels": {
-        "iknowpy-0.0.8-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "3ee4742a7601ee8cad5927d3e0619e5a895a16360c6f3cd9def58207e5cacd8c",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2010_i686.whl": [
-          "0245363095cce31f04e1788ba5bc1c17cac2769aa32de1c7c7529c4e72948c37",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "0925017c74baaa8ef3c6534501b14ae373adbc07c6c64115b8eb3fde1a6954e9",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "f28d66e2e816bec43e74a77cb638d1ebcb61729a011ee22c234d5cf0e8e5a400",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2014_i686.whl": [
-          "6176aab76eac483e5646feedad2bf08b83be9fa33146946c988cb6047ca56e55",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "454f0717b8e456842290a560f3b092a329c52f4f091b0ef8d9ab8df443b22e15",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "603feeb96c40c806a14f574e83ae359b115c38bc23ddf4baf4e098b7c18d1d2a",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp35-cp35m-win_amd64.whl": [
-          "3adf3bd9dc599fedfa4edbd2409d402a0d37c779faecbdaf87009f3a76ec22ba",
-          "cp35"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "2df4353bcd76000e80fddf6c564fcc59e3dce7902c709b1673d6227264d153f6",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2010_i686.whl": [
-          "118080346caa6f562373c52c08016632934f20325333506dc6e6b5d3a4dd565c",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "bd4595cac68db6989ce89edcefead01bc78f2487994e625161fb23e87b7a3c9d",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "123e4124b998ef1f662f81ca62ae18b0379aff8bd84be2b495380438c2a4387f",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2014_i686.whl": [
-          "ebb68103d826399d34cda96843fbdfc86990ba3389489df010dd3af54a6958ed",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "a2e7fa6c0c8feba2032c7ee475e71035f663828e9207b90b0b7c630014dae1d3",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "d35be4f76120e5d4fdb9a2708cc34085212ace1053dc11417061b8f5ffbbc102",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp36-cp36m-win_amd64.whl": [
-          "b0c33aa5cf116ce2ea87de86ae8587c7f8aee5f6fc24bb4c7918c80a9cfa5abf",
-          "cp36"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "4f86e62badc8a1e14d0805abad2262096ee170c92faa339521571d00d1a9cad3",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2010_i686.whl": [
-          "17ebd16c036fe2ea4f7367b2b159109d3067b1ee740c57a80d2b0e5b58038d12",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "7d0804bff22f335fe45fddb4b957a7fc17be979cddc1e0fadd072ba7b76d3182",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "c4bf48a7e72a4dda65353670759f12001c088b1c1477849824eca6e08192c044",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2014_i686.whl": [
-          "8afe7a1a619c84015715da97f03ce9e7ade664e533aa46b9f1c9947335e841ea",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "274ea88401897dd8afc593fdb27fccd7203bf0daafc0e36b2e8faba7f0185fe0",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "83f7b3534415f80793e4a949003766b70fcf7e688562d350100b9bf43c05da1a",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp37-cp37m-win_amd64.whl": [
-          "b2ae56a3e684ae9376145d23c4c8b30a54063cc330853fda34e52171b3b4f09e",
-          "cp37"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "8511baec5cd2e6faf87d4f8e7095c119a60c9ddd804e51242dc78a7af2bb370c",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2010_i686.whl": [
-          "f114a80d564ba8b48bd5b59e24f9ac297ef35c61ce9ccee11e8c99ff54aea476",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2010_x86_64.whl": [
-          "da1274cb7721f74dd7bb394dcc26ad2ced7aac6bb05d816b86c00dd18c610120",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2014_aarch64.whl": [
-          "41f5b16c7ca0f8cf493b7e0cc0edde3f987a1d3791d93be47373e6cc4eaf1750",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2014_i686.whl": [
-          "08124c1138a7f042dcb312c6d5d6c714b57bb6294bb44e6fcf71590e07811c0d",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "b206dd1c2f58470251a782e80827352828e26e7f7d8160f3dff459ebc98302bc",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-manylinux2014_x86_64.whl": [
-          "af4a2d2be92ce90734e0dfc28dfdc4b9c1bd2a67674e275144c0ac69732ee393",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp38-cp38-win_amd64.whl": [
-          "48508efb131a8d7d5c16e058b61d817ace6dad0d38b2b30a9cc7a67cf24e2b69",
-          "cp38"
-        ],
-        "iknowpy-0.0.8-cp39-cp39-manylinux2010_i686.whl": [
-          "93dbd8257cde7f75b33ecc94edb61f4051500705f2c776ef35251ae6a4117bf9",
-          "cp39"
-        ],
-        "iknowpy-0.0.8-cp39-cp39-manylinux2010_x86_64.whl": [
-          "edd33f293110caa851d07d9a8026e75300e55941e139183cb085108601253d13",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.9": {
-      "wheels": {
-        "iknowpy-0.0.9-cp35-cp35m-macosx_10_9_x86_64.whl": [
-          "f46a0a3118ce4c9ffcfa740556eba6b4dadbdf5ea511d48a54c3cea322f84d71",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2010_i686.whl": [
-          "c62bd4734f297a10afd091d1437e2ca04df785c132031a489ee058d6861658a3",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "e9d2fcabecb59f6a6923b0c6e5c86ab980422fd889d4d9404f31742d7f2f5286",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2014_aarch64.whl": [
-          "08435453c566bc9cd412ad574b81f58b30798b536169aa6748d3ca2427e60fdb",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2014_i686.whl": [
-          "144bc16dd9de0a88756d0586f1ad43ffac4bb8efb19eceee3c2b0abf65665844",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2014_ppc64le.whl": [
-          "30dc26651ad6fbaf177af48df16409c6f2f94a19f7e4d7f02c697a7798c36fd6",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "68f24721968af738ae74fedc2576086a75a1ab73aa2ea461284fa628a5ca09cd",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp35-cp35m-win_amd64.whl": [
-          "70bee5a194db8ddbd255c442448f87767d77ac6938948bea3aa9becac506ab03",
-          "cp35"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "5948b069197f12638f5efa892da8c0ca00b980a31a247a8c12e4bb132f39b019",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2010_i686.whl": [
-          "dfd2563b39cfc1754a36d7af370a50a575e32e34e4303792a47476c434d8398b",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "9544c08afd1f1b837b8b4374b7823eafd6dc0a2447dd55f374b74b8bff28adab",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2014_aarch64.whl": [
-          "49d76dd6641f0d5c2d2b3e635cde32367ee18dadd009595770a3634bc539acc0",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2014_i686.whl": [
-          "b429c9bede4c534be827a259f0683cf463d5aca8973d3ccb52902c07d121a7be",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2014_ppc64le.whl": [
-          "b398ca2fa8d334f903788d69d4497f80d1e2175080a07cd0db950420c1678f33",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "e58e6d0045566c2d9c46a5020428a73d6fb4bbeb42557f099dad36e1f49a4c9c",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp36-cp36m-win_amd64.whl": [
-          "9347880df211b04e0cb32ec1dd86f4fd221e2f061d8b7f90c74cb10f9184feea",
-          "cp36"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "e5ce5460b71af6cda42da97ea492fc31c8a556f252e726197755fd735deb55f7",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2010_i686.whl": [
-          "f26f1d23469e4ae432099d29879d4ae4226c60e7cdf36c8f8e8de634af590e13",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "a5491f34857fd0bf355fb2ffc18243604c6323e76ae463b2b3a680297aa4db2f",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2014_aarch64.whl": [
-          "1ba3041aad7d36a03d9634d87e22b38017a83d76f52279f779a843a216da94b0",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2014_i686.whl": [
-          "9206604d51bc587bd0d06220c3304cc2e5dd399ea81c7b82f89a20ad17b33c5c",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2014_ppc64le.whl": [
-          "8ce5dfa7e22e3be600fd97a856ad5384e2555c2c50070d5f3096ac0d384ccc9d",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "811ec65ad32ba112ac659e21d4c6ddf8b641bbda2d28bd91cd6ae037a3237ecb",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp37-cp37m-win_amd64.whl": [
-          "ab8e94513eed4f235d9936fd4313ebe01e8348055b7b311c159993734deed810",
-          "cp37"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "1ee6f663ac86ed170b231130c17414bffa027c47aed3a63fd8146816c245fbd3",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2010_i686.whl": [
-          "9b632f6ebe032a9328ad99433223c67d317f3e5b1aa22c6f1a11bce2797a53d2",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2010_x86_64.whl": [
-          "5243747ed0f355700a1de0940ec2176abbf0ea456d26380bc23258639fc76f61",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2014_aarch64.whl": [
-          "dfa68b520d1c710fd9782ee2e40ca46fc752ff3e8c12f1c9567b096f40fa0f4f",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2014_i686.whl": [
-          "921aea51401b661ebadbe17dbee305cc3ca380eacad33a6986e72ed0f5b854eb",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2014_ppc64le.whl": [
-          "67d6b23abd5db1da2f94b004cc1d24c2a6e68653318ffebee98ab929ba855db7",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-manylinux2014_x86_64.whl": [
-          "1f842479a14072390f940d473ec1e32cbcedbdf136b57a501653327695e4f9dd",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp38-cp38-win_amd64.whl": [
-          "fc4df6f6a671f3fbec8532ed397208ba8ab31c967a1e3f4557d3450dd052e292",
-          "cp38"
-        ],
-        "iknowpy-0.0.9-cp39-cp39-manylinux2010_i686.whl": [
-          "1d433bfb13e421f815329ad375f092cf8e4645dd84294a4e7678637f27ba825c",
-          "cp39"
-        ],
-        "iknowpy-0.0.9-cp39-cp39-manylinux2010_x86_64.whl": [
-          "06060a74313474598b6ad50eafd1284aebc524d5928f12783144b0882f96f22c",
+        "iknowpy-0.0.17-cp39-cp39-win_amd64.whl": [
+          "21247d3dd71ced10557ab89dd619b122532667804eb67214058826ac95dbf41f",
           "cp39"
         ]
       }
@@ -57828,6 +56504,12 @@
         "pycollector-0.0.21.tar.gz"
       ]
     },
+    "0.0.22": {
+      "sdist": [
+        "899896dae5247fe646e9c66c39fbe82652953964c12da0a35034b3e13d37a706",
+        "pycollector-0.0.22.tar.gz"
+      ]
+    },
     "0.0.5": {
       "sdist": [
         "2be35e8694005c04328b4c979f041e6573dadfb5c9e8c7b49e7cd173d2a8c413",
@@ -60564,6 +59246,78 @@
         ],
         "pyqubo-1.0.4-cp38-cp38-win_amd64.whl": [
           "631616910c32e24f26fb13914ebd8c3aa1f230cc45aa1cc365dc6937f2385e59",
+          "cp38"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "d7668f2738c9a62a512bbca0e9a78261c7cce70ea881a01a859fa450c05f1925",
+        "pyqubo-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "pyqubo-1.0.5-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "962d1ce02d9d9dd859eba76249cb50d0a6ab7bda7dc8129f0705c60ba1017674",
+          "cp35"
+        ],
+        "pyqubo-1.0.5-cp35-cp35m-manylinux1_i686.whl": [
+          "4ee668e166a7ee1f910a71ce462ba5b40e403a9c681bfca9303af58be97d3045",
+          "cp35"
+        ],
+        "pyqubo-1.0.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "562671739b0c6ebacd0f97622264666740a812d6ce21888f0927df343b1aeb13",
+          "cp35"
+        ],
+        "pyqubo-1.0.5-cp35-cp35m-win_amd64.whl": [
+          "5c63221acb98f325497f0000a11a7830cb32666007f66d1b6205e7d93364980e",
+          "cp35"
+        ],
+        "pyqubo-1.0.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "42b120a80d3bc717a0262f75b948f4f91b9378f892fb689fe8ab6b3409562e91",
+          "cp36"
+        ],
+        "pyqubo-1.0.5-cp36-cp36m-manylinux1_i686.whl": [
+          "11695b0e0045a01a4e41826a394c9e40bbf821c8294aa783df38d4117bd149c7",
+          "cp36"
+        ],
+        "pyqubo-1.0.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "6df922129fa1a62f34ae74565264a3a2b1e9549df504ecb78cdfd62ca1cf03a5",
+          "cp36"
+        ],
+        "pyqubo-1.0.5-cp36-cp36m-win_amd64.whl": [
+          "7e3e8d326bab18d3b1e9cd32f5bb05f5c4ae2fab611496f298f6450bb800ef37",
+          "cp36"
+        ],
+        "pyqubo-1.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "b8a3885719f0daa67a5a4f2a1f39f5d226153be24d2a50106d71b958ceacf859",
+          "cp37"
+        ],
+        "pyqubo-1.0.5-cp37-cp37m-manylinux1_i686.whl": [
+          "03fdac57530615979096f27ce811b262a88b544da26fc17cf33637f3358801d4",
+          "cp37"
+        ],
+        "pyqubo-1.0.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "c4efe60cd5911eccf9bd44bee0a690587585ca83af3b3cd4cc8083b60d9a368f",
+          "cp37"
+        ],
+        "pyqubo-1.0.5-cp37-cp37m-win_amd64.whl": [
+          "2a48f3eee36abcae7e47c7198c730dadfda35432fca3dd338f4c2b4c905548a3",
+          "cp37"
+        ],
+        "pyqubo-1.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9d8e576923be5ed364200dab82ff805bfbbe0b72b8c211e11c1f1d58eb46eaca",
+          "cp38"
+        ],
+        "pyqubo-1.0.5-cp38-cp38-manylinux1_i686.whl": [
+          "d8f159ba75f414d6e7f5e33c8697f262425b532a8601a5b414ee69db35c4b79a",
+          "cp38"
+        ],
+        "pyqubo-1.0.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "810b522df94316114708a62ea673d4e1c94a81fc4bc90385f6cef1f72300f075",
+          "cp38"
+        ],
+        "pyqubo-1.0.5-cp38-cp38-win_amd64.whl": [
+          "c886849949677099ce401485e0b46bf7103a35ce589c68e2cf0e5bcf0961cd1f",
           "cp38"
         ]
       }
@@ -81820,9 +80574,25 @@
           "4506705478c2b73732d9a145ed94e4b5b4c3c299b91c58c0d7bbae818f3acb2f",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20201014-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "495da1549d65d9f5d951b72055b567182051687df86e649a9fa670be2b7e0183",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201014-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "295c3f7f46201bdd534e94d352380ff6ab7c81aca6e79e5deba05ad9c412a6a6",
           "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201014-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "32ccabbc3e8aecbd292cb5dbd87bc0b60ed3f60c9d23dd086954c9f49fa51889",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201014-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2539768eb9bb59aa37d833862e5c33205c49cb609add4842cca811ee8146874d",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201014-cp38-cp38-manylinux2010_x86_64.whl": [
+          "b06e7623b51d69b73c44a79543313415271e44689bfb2f661289d400925f49b6",
+          "cp38"
         ]
       }
     }

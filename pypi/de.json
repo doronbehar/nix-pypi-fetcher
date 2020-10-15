@@ -1237,6 +1237,18 @@
         "9559c68fea0d9216ce6e91948ff3b87a09aab37854b994f303762875b8099038",
         "aiscot-1.0.0.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "a7253e4fcf72c4546171276b8be16d3fb0c02b68c6df390232d22e5389cdd620",
+        "aiscot-2.0.0.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "4992d5211171a3cc8b68a56a0f69ff2979caef6f68adcfc186948a17fe7c1892",
+        "aiscot-2.0.1.tar.gz"
+      ]
     }
   },
   "akc-mamba": {
@@ -16992,6 +17004,20 @@
       "wheels": {
         "django_pgpy-0.1.7-py3-none-any.whl": [
           "e533c8d54a6f4676fa99435d4acad4a8c74efb3a73cad6ae3e2e95cd5284688b",
+          "py3"
+        ]
+      }
+    }
+  },
+  "django-ph-geography": {
+    "1.0.0": {
+      "sdist": [
+        "11462d14b0086b2374c32b9189d88102a1cb759be32a646ac3ca7f4ea15c2168",
+        "django-ph-geography-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_ph_geography-1.0.0-py3-none-any.whl": [
+          "5777c00243131a1186ebea93521d6b4c6b9feceab5ca3ab453163a1d9b58f9f8",
           "py3"
         ]
       }
@@ -37098,6 +37124,18 @@
         ]
       }
     },
+    "0.1.17": {
+      "sdist": [
+        "b37e6d250ae196e84a3102f61d08c8ad80d64e27aa9d24655f8af32a094543c9",
+        "lime-uow-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "lime_uow-0.1.17-py3-none-any.whl": [
+          "f8d3a3a31ae4771a915bedfea77b9e40c469b64f7de96c778b4b5ba28b574f00",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "74e3b4140fc10e21c761dd9d65593c633c4c9322876af8c7d37f5378325af915",
@@ -39878,6 +39916,18 @@
       "wheels": {
         "meraki-1.2.0-py3-none-any.whl": [
           "ded0fddfdfb12591f097235849836fa99ea594c11d4f0801d9a36b983f5ab53c",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0b1": {
+      "sdist": [
+        "7598ed0d30cc981bc09850c1be348cf8f6ad7e4765383fc03cc60e07982a1e19",
+        "meraki-1.2.0b1.tar.gz"
+      ],
+      "wheels": {
+        "meraki-1.2.0b1-py3-none-any.whl": [
+          "ae9fd16c7c2712d6e54510b1d9ccd9cbcf4b2976f1dbe1559e522b9bfd0bc19c",
           "py3"
         ]
       }
@@ -61973,6 +62023,20 @@
       }
     }
   },
+  "pyplcn": {
+    "1.0.0": {
+      "sdist": [
+        "7b7eb8ce4fa3bf42722da27e4b49fe8917beca010fe74b699a93a9a9533182fa",
+        "pyPLCn-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyPLCn-1.0.0-py3-none-any.whl": [
+          "a0d5b5ff41e7982023eb43ae04bfe3e8e15d7bc7c899a93afc45fea73055aaa1",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyppl-export": {
     "0.0.1": {
       "sdist": [
@@ -74808,12 +74872,20 @@
           "26103e1e974fa32d852b2a736eb1c13912333272e49176496ca04d6f1da1b304",
           "cp36"
         ],
+        "taichi-0.6.40-cp36-cp36m-manylinux1_x86_64.whl": [
+          "14d7766aecf56a4e59a3601ea3e4dafd79cb684d1ca0717775554d75e856eb84",
+          "cp36"
+        ],
         "taichi-0.6.40-cp36-cp36m-win_amd64.whl": [
           "e9ff863179c4e4d14e12b43e359f17cb60c79741305a296a203dd3afdc929f1a",
           "cp36"
         ],
         "taichi-0.6.40-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "ce290e3cc4b01537ece51d0ab6775dedeb62c36103b52b0671028535b8c6a746",
+          "cp37"
+        ],
+        "taichi-0.6.40-cp37-cp37m-manylinux1_x86_64.whl": [
+          "842e50b711c95cdf6fec416138ac4251f69cd74b7bca4a9de69d9f8339933f77",
           "cp37"
         ],
         "taichi-0.6.40-cp37-cp37m-win_amd64.whl": [
@@ -74824,8 +74896,40 @@
           "b50b4f0582b0b7e9f16778402f2fcce3ad9dfb42e139eedce3376639d3be41e4",
           "cp38"
         ],
+        "taichi-0.6.40-cp38-cp38-manylinux1_x86_64.whl": [
+          "d6ad73e7f61da248e2472992069c9d8df6d59fe7b40643a19e4b64501e6ab77e",
+          "cp38"
+        ],
         "taichi-0.6.40-cp38-cp38-win_amd64.whl": [
           "1fa0b78a1d964ba7b8a358907025d9e26448f38327bc649bbfa836db2f68b327",
+          "cp38"
+        ]
+      }
+    },
+    "0.6.41": {
+      "wheels": {
+        "taichi-0.6.41-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "c70657850e826d235958e5911d7697f2d6bfd6d051d4d06ef994f3050223b215",
+          "cp36"
+        ],
+        "taichi-0.6.41-cp36-cp36m-win_amd64.whl": [
+          "5ec18a13450019cf568e6802049f83242c45ea82edb2d7f6a72d7fa07bffdca1",
+          "cp36"
+        ],
+        "taichi-0.6.41-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ab18845e582848121cb044f601be3ff85b94c4f3bc9fa3099dd63a0a152e47a2",
+          "cp37"
+        ],
+        "taichi-0.6.41-cp37-cp37m-win_amd64.whl": [
+          "4a427ffb39b175aecfb5b4d9e876745fc404862a34580b898927bf995b9f1540",
+          "cp37"
+        ],
+        "taichi-0.6.41-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "838059178f27ce48983bf38d0242a05d077f7e814723f96bc098df0ee9eb5a58",
+          "cp38"
+        ],
+        "taichi-0.6.41-cp38-cp38-win_amd64.whl": [
+          "548660e4408d6307dcf40ed96c7428f22311937211e81e03f4172c70c847f4be",
           "cp38"
         ]
       }
@@ -78986,6 +79090,26 @@
         ],
         "tf_nightly_gpu-2.4.0.dev20201012-cp38-cp38-win_amd64.whl": [
           "75be372feeb4d542f763f675a4058a9514f9acbfaf5a23c9e7b697e5dddd4fc8",
+          "cp38"
+        ]
+      }
+    },
+    "2.4.0.dev20201014": {
+      "wheels": {
+        "tf_nightly_gpu-2.4.0.dev20201014-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "702cb230f597be04e91efecde05b2c76b1081fb88f9a3eb179cca64bc2600033",
+          "cp35"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201014-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "7daed663c0f85b01ce9a7b767a1dd7352eb19359ef8507395865b4abb6ac4b8a",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201014-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "30da426ed594b19e37d99a0d744a13cc33a4f309055583beefd2ed71ff61c549",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.4.0.dev20201014-cp38-cp38-manylinux2010_x86_64.whl": [
+          "59246f31f29ce87f6b8d841bef23618acbf943fe7f6272cb4460b26170bb5f29",
           "cp38"
         ]
       }
