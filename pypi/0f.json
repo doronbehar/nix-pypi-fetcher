@@ -4245,6 +4245,18 @@
           "py3"
         ]
       }
+    },
+    "1.68.0": {
+      "sdist": [
+        "7d694318148df89983e40387b97e2467fd89b12563b17a60128f2d89b460a133",
+        "aws-cdk.aws-lambda-destinations-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.68.0-py3-none-any.whl": [
+          "2db118cf7250603e88eb91675a948f6d08d85880622b073aeab4cec60ee399bf",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-rds": {
@@ -5432,6 +5444,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.67.0-py3-none-any.whl": [
           "58d6986df65d14bddaeabddcbe484d45ed212f64a50f8396357942e07626e4c2",
+          "py3"
+        ]
+      }
+    },
+    "1.68.0": {
+      "sdist": [
+        "f0f4a5fe7dd271785fd1887e10f798e901b6247e83ea74eb13d079e8ff4ac048",
+        "aws-cdk.aws-rds-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.68.0-py3-none-any.whl": [
+          "f638d0b84d22ee0ee5dfb414067212b6ff4e93cbd11359e1ebe5c7e92e796a42",
           "py3"
         ]
       }
@@ -13660,6 +13684,30 @@
       "wheels": {
         "dagster_databricks-0.9.14rc0-py3-none-any.whl": [
           "41c4875992eadccf788d32968c48e103ce3c67aeaed0e84c3cfb608b7526a3e2",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15": {
+      "sdist": [
+        "71455d98b41caac8cc1e121f77a4d35fa561136ef1f735bcc2dad79e166d8c20",
+        "dagster-databricks-0.9.15.tar.gz"
+      ],
+      "wheels": {
+        "dagster_databricks-0.9.15-py3-none-any.whl": [
+          "c3875306169aecc25011108dbc5afa83d151c657658973c174f92acb528ec875",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15rc0": {
+      "sdist": [
+        "fba367614e61e481f4da12271ccbbb4de31912b5f8b5e3154ae4cc7c24284a54",
+        "dagster-databricks-0.9.15rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_databricks-0.9.15rc0-py3-none-any.whl": [
+          "ba3ac78f2128baa576f0b6f3899ef23617c867dac64859be1536a716cf6fa67c",
           "py3"
         ]
       }
@@ -33781,6 +33829,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.9": {
+      "sdist": [
+        "38711be1a7425ef4dfef8c5103abef24d1c3e6396af41602e09401420ba4fdec",
+        "jsonify_html-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "jsonify_html-0.1.9-py3-none-any.whl": [
+          "3bdfece8b13ff550550c7debcaf1f569349a1bd90a48152378a8a74edac28207",
+          "py3"
+        ]
+      }
     }
   },
   "jude": {
@@ -47648,6 +47708,174 @@
         ],
         "openpifpaf-0.12a2-cp39-cp39-manylinux2014_x86_64.whl": [
           "3c36e0d8e1df827235c89e6c6404d7d2d7d2ab819c6b69a6ec52a26e867ebe7e",
+          "cp39"
+        ]
+      }
+    },
+    "0.12a3": {
+      "sdist": [
+        "f6a01ee0f37f3e9074b7de9a2c62ef2b263d85e32533011d82db5813ce5ac841",
+        "openpifpaf-0.12a3.tar.gz"
+      ],
+      "wheels": {
+        "openpifpaf-0.12a3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "c6effd85689db441752e6bca8e5e529a166415499f7f96797e6d3bfc5d4211e2",
+          "cp36"
+        ],
+        "openpifpaf-0.12a3-cp36-cp36m-manylinux2014_i686.whl": [
+          "729effb4f44b65a117c1bce2e04339727aa14447b7b1e8925498dbf642a69bef",
+          "cp36"
+        ],
+        "openpifpaf-0.12a3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "4def610b5f82f01871fc158e8743953a9d2d45be52249851edf037fd8e4af30e",
+          "cp36"
+        ],
+        "openpifpaf-0.12a3-cp36-cp36m-win32.whl": [
+          "259f680b7818fb31ec0a2197cf9048f4e8393706d376d3c2b4d3cbc7cc73eb98",
+          "cp36"
+        ],
+        "openpifpaf-0.12a3-cp36-cp36m-win_amd64.whl": [
+          "f9e62ec34460f459298055abed59643173f5eaf05585e2144c7b29d0a3754ff3",
+          "cp36"
+        ],
+        "openpifpaf-0.12a3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "4372a5c77fd7ca81986a115db58cf40f69a5dbd7f0df430092fb982feaf4a35f",
+          "cp37"
+        ],
+        "openpifpaf-0.12a3-cp37-cp37m-manylinux2014_i686.whl": [
+          "a8b6ea806d44eb7b0aedcc591acd53e58215f807c9b5ad3c739984656213cdb0",
+          "cp37"
+        ],
+        "openpifpaf-0.12a3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "8e147a5e85530c01d2d736c0670a7d4c03979ebc31b53e4f80c506dc4104c236",
+          "cp37"
+        ],
+        "openpifpaf-0.12a3-cp37-cp37m-win32.whl": [
+          "258b8bc565a6bca9f9aacc9bbd3b870aec5e7852993637ba0b6673901072b641",
+          "cp37"
+        ],
+        "openpifpaf-0.12a3-cp37-cp37m-win_amd64.whl": [
+          "0ef98809495dbe86eb6da88f32ee7a9883b686b8c02a383a8d838a783166f9ec",
+          "cp37"
+        ],
+        "openpifpaf-0.12a3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "88e509baea392d8869f5aad0790e7132eef4190d720d378f2ecc220bec7dc0ba",
+          "cp38"
+        ],
+        "openpifpaf-0.12a3-cp38-cp38-manylinux2014_i686.whl": [
+          "b5f124a70e8dfa41012280c549b695e480d569bcac20899103e99c7a4492e359",
+          "cp38"
+        ],
+        "openpifpaf-0.12a3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "85d000bfe08e60f77dc844d392979cbae44cef607accc33511e12139426ce29a",
+          "cp38"
+        ],
+        "openpifpaf-0.12a3-cp38-cp38-win32.whl": [
+          "f1c79e25ee4a63a8c7d8ee5bbc434d1374bbf6daa3a23d6cd3b04fdf941cc6ab",
+          "cp38"
+        ],
+        "openpifpaf-0.12a3-cp38-cp38-win_amd64.whl": [
+          "ead480aa9e7b4b58f00162e9285c0cf6066dca2c7a43079c4d14b91a11f02282",
+          "cp38"
+        ],
+        "openpifpaf-0.12a3-cp39-cp39-manylinux2014_i686.whl": [
+          "3cbe99938d692cfee40aa15d1f573f2f3977ff28871f12705d235d17ccf412ae",
+          "cp39"
+        ],
+        "openpifpaf-0.12a3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "d3affaaaa207abbc7209c1a8662a0a349e367e60b38a93a4bfe5a432681f796e",
+          "cp39"
+        ],
+        "openpifpaf-0.12a3-cp39-cp39-win32.whl": [
+          "318a576523584229e822b7db630f4f85088486e7b5f0c3acc51487248b1cb77f",
+          "cp39"
+        ],
+        "openpifpaf-0.12a3-cp39-cp39-win_amd64.whl": [
+          "b1256f23c66e4d3ea35a5bd5eec3f14d38e7ac83a6d5deeea820f7ee7af3a0a6",
+          "cp39"
+        ]
+      }
+    },
+    "0.12a4": {
+      "sdist": [
+        "c7384efe6b3db9b6c8431bc5ec23ec4afbadb885ad3f43e5a367488a16558420",
+        "openpifpaf-0.12a4.tar.gz"
+      ],
+      "wheels": {
+        "openpifpaf-0.12a4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "9b36a9c7b057a443d39ce5198aa247e448b7f0f73465cfed660b74190cab7da7",
+          "cp36"
+        ],
+        "openpifpaf-0.12a4-cp36-cp36m-manylinux2014_i686.whl": [
+          "8f41572f820d0fa04359b2196e785021e687482ec4c87edb6eb479f58e9351d7",
+          "cp36"
+        ],
+        "openpifpaf-0.12a4-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "829f4d12f4287757c5659a11ec7cc9aa1b3095c01a72fa7a9b8e08f827f3f78f",
+          "cp36"
+        ],
+        "openpifpaf-0.12a4-cp36-cp36m-win32.whl": [
+          "92da0cadde997d0479aaec7ecfb1bd635435a9a0d910bb80210b778ed5e15efb",
+          "cp36"
+        ],
+        "openpifpaf-0.12a4-cp36-cp36m-win_amd64.whl": [
+          "e658513a853bc0d53056083689b50542a97cda318e315822d270814882d5f18c",
+          "cp36"
+        ],
+        "openpifpaf-0.12a4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "00c118d375a45016d9ec9279adf6212ae1dc64abe3886c76a7e1b28e5f7b4e66",
+          "cp37"
+        ],
+        "openpifpaf-0.12a4-cp37-cp37m-manylinux2014_i686.whl": [
+          "5a657a16a6a4ec5304c6c9e00e9be8a3239b53b77fa765424510d3a0bc0a06e8",
+          "cp37"
+        ],
+        "openpifpaf-0.12a4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "01695c9d57d3a4fa3c00966554a65093e278cbe2899f9ed0d078d315e4278f64",
+          "cp37"
+        ],
+        "openpifpaf-0.12a4-cp37-cp37m-win32.whl": [
+          "54bc34787e76d21d5f38e0fe4f69fddc1b51a058e7494ccb1652fe382f4e7bb5",
+          "cp37"
+        ],
+        "openpifpaf-0.12a4-cp37-cp37m-win_amd64.whl": [
+          "d177a2f15ce04d9eeb42b97dcf0326d72b7608ffebd27a787479bc51c5570c76",
+          "cp37"
+        ],
+        "openpifpaf-0.12a4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ada311e3caec01f234589c9da674c45e20fb80c1aa7932cb40262b4eab018cc3",
+          "cp38"
+        ],
+        "openpifpaf-0.12a4-cp38-cp38-manylinux2014_i686.whl": [
+          "70e56f7f829ad9b2e4043412b1746226e7bd3ab5016336fad85e379c5472fded",
+          "cp38"
+        ],
+        "openpifpaf-0.12a4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "f687c8cbec27d3db82e8608c49a263759122b9409a780646b05f1ba5199b0ea3",
+          "cp38"
+        ],
+        "openpifpaf-0.12a4-cp38-cp38-win32.whl": [
+          "b613f5d47a6a0c31f940f2814ebaea00282345cee0af53fc4ab86447a047f7fd",
+          "cp38"
+        ],
+        "openpifpaf-0.12a4-cp38-cp38-win_amd64.whl": [
+          "f05cd9faf5f86968f0f33360836eace4f7eeb9508753b67b75e82a208e6dd587",
+          "cp38"
+        ],
+        "openpifpaf-0.12a4-cp39-cp39-manylinux2014_i686.whl": [
+          "d8274e9a08e39194d6eeda5a83b6de618f0b5336b5d7a86ccb9c043a77503f86",
+          "cp39"
+        ],
+        "openpifpaf-0.12a4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "6fa6a6c03f2e21c12cb186ea41ead56b6277ca0183414d9e69350697ac5253f0",
+          "cp39"
+        ],
+        "openpifpaf-0.12a4-cp39-cp39-win32.whl": [
+          "f2e7ea9028f5291de9805386073587d93b3f911938bca3d5239ebe993b7e805a",
+          "cp39"
+        ],
+        "openpifpaf-0.12a4-cp39-cp39-win_amd64.whl": [
+          "76edb133eaa46e4fe3e2c22bc714d958db405b746ed7dbc686dd3e75b3683666",
           "cp39"
         ]
       }

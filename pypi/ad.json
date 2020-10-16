@@ -1015,6 +1015,18 @@
         "91e66dc8402bd144035c294b902eb80402e62a2ee63521a343bff2e90cc22e64",
         "aiopslibs-1.2.2.tar.gz"
       ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "f95eed9af8d72d63658dbdd788d2c8e4496faa35718e28fd869fde3b71d0d6d2",
+        "aiopslibs-1.2.3.tar.gz"
+      ]
+    },
+    "1.2.4": {
+      "sdist": [
+        "c8ab3d540c434468d25e11f183f15c8f211e2a4d353f1d8347fb1c1631d111f5",
+        "aiopslibs-1.2.4.tar.gz"
+      ]
     }
   },
   "aiounittest-tornado": {
@@ -3326,6 +3338,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "b47f39172157396ba249431b618794b8a2bd00188f7d6a89ecff519893406ed3",
+        "aws-cdk.aws-stepfunctions-tasks-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_stepfunctions_tasks-1.68.0-py3-none-any.whl": [
+          "9db6ff6054d2708377bc86f9f4c6388d66a3fffd19cdd85c0e55b14d19e515a0",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2dbcfff2b7c45d39796073b28ab486727498c63e93dfe3dc194385749ff50eb9",
@@ -3804,6 +3828,18 @@
       "wheels": {
         "baseten-0.1.3-py3-none-any.whl": [
           "334244e9c471480994b2bcfa215f80b00911516536f4d15791f1c746f69b7099",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "d5f8262aa36f5c4cf0e2f68db37d3a8df7dfe9bc63cb9d81769673af613bd95f",
+        "baseten-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "baseten-0.1.4-py3-none-any.whl": [
+          "a2b818e5bfee69d1470a830eeef0ea39de9a886f8e9655980a9e123b45da699f",
           "py3"
         ]
       }
@@ -51624,9 +51660,25 @@
           "0cfae66bd2faf42ee95b06ce8409657aba28506712a82031f713f4febcf9ed7a",
           "cp35"
         ],
+        "guildai-0.7.1.dev5-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "07a91b1d3b5b13087d7a2e5384d1ba133fee2d2728174978d8c5bfff4b994836",
+          "cp36"
+        ],
+        "guildai-0.7.1.dev5-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "08d93326562607b8ba36c8fe6a8279922d96fdd714593f38c5b5d5a9296aca4e",
+          "cp36"
+        ],
         "guildai-0.7.1.dev5-cp36-cp36m-manylinux1_x86_64.whl": [
           "911ac26a5cdbbe82de94171c04172dd26b7c3252556adc6842b911e1224f7228",
           "cp36"
+        ],
+        "guildai-0.7.1.dev5-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "d5bb678b03aaa82c48f7b0653022080e8fc5c7ad7497bd362874aa411cf7a122",
+          "cp37"
+        ],
+        "guildai-0.7.1.dev5-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "53fe2340dafe871371f86ef8c06c49cb7e22a2af2e50b38ea1a731eeac36086d",
+          "cp37"
         ],
         "guildai-0.7.1.dev5-cp37-cp37m-manylinux1_x86_64.whl": [
           "fa9a4f7f97d91bbc7745349d036c67f440c6ce7e93e7e0ff60597b630eff5dac",
@@ -51866,6 +51918,16 @@
       "wheels": {
         "gym_push-0.0.9-py3-none-any.whl": [
           "edc3edfc13ad36126d090ac3e9a74ab50a725e148e15de44452c74087d465734",
+          "py3"
+        ]
+      }
+    }
+  },
+  "h2o-wave": {
+    "0.7.0": {
+      "wheels": {
+        "h2o_wave-0.7.0-py3-none-any.whl": [
+          "93fef98faf9bb05be92291e8b236b9605fc345fd75cd5cd5f19565f225fad7dd",
           "py3"
         ]
       }
@@ -61048,6 +61110,18 @@
       "wheels": {
         "manticore-0.3.4.dev201014-py3-none-any.whl": [
           "857648fb74179ca5cad5378194499c35735d9e731a639eac4d6d16a994d8871c",
+          "py3"
+        ]
+      }
+    },
+    "0.3.4.dev201015": {
+      "sdist": [
+        "d96808e84c3280e623fd623945cafc4aa91029b21ee852a06817bf112369a904",
+        "manticore-0.3.4.dev201015.tar.gz"
+      ],
+      "wheels": {
+        "manticore-0.3.4.dev201015-py3-none-any.whl": [
+          "5d7ee33cd2b060f04460574297e8bc197944eb3a062ac74a19970061ce8890c7",
           "py3"
         ]
       }
@@ -94136,6 +94210,12 @@
       "sdist": [
         "01dee48cafb7e593b5079d45bce1a6fe44b3e2d2bc370bb3300e389fa332bbad",
         "wstan-0.4.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "52f455345674a47b06ea2ef4f2fb7561e8b31c01ef2bc8a7262cddd6783796f0",
+        "wstan-0.4.1.tar.gz"
       ]
     }
   },

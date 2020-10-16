@@ -245,6 +245,26 @@
           "cp38"
         ]
       }
+    },
+    "0.1.3a0": {
+      "wheels": {
+        "acsylla-0.1.3a0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "fd452089e4874c4a63e77b8712dfea3af82ef1fe5314a51f678b12e3aa9a4a15",
+          "cp37"
+        ],
+        "acsylla-0.1.3a0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "c836d02461aa0af13b9074a51173ac4f5ace87a75132cda48071e58ea224b21b",
+          "cp37"
+        ],
+        "acsylla-0.1.3a0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "34935cad92ea8da4967d47b2453f9f73406c7dc5c27b1334cbae50d7783f0f43",
+          "cp38"
+        ],
+        "acsylla-0.1.3a0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "8884394d54dab0f42b31b206f4e196e7b84be088e95e881df43158866158d8c0",
+          "cp38"
+        ]
+      }
     }
   },
   "adamp-biotools": {
@@ -2347,6 +2367,20 @@
       ]
     }
   },
+  "aws-cdk.aws-timestream": {
+    "1.68.0": {
+      "sdist": [
+        "aafa4e4ac13b195948695b6ba7001ca091cba14bdfc74436084337eeff40dbc4",
+        "aws-cdk.aws-timestream-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_timestream-1.68.0-py3-none-any.whl": [
+          "00bb6d56e14f534b63f9a78c99a434155a40a41536ca33d149055fe8dabe5072",
+          "py3"
+        ]
+      }
+    }
+  },
   "awscdkawselasticloadbalancingv2": {
     "0.1.1": {
       "sdist": [
@@ -2714,6 +2748,18 @@
       "wheels": {
         "azure_template-0.1.0b11-py2.py3-none-any.whl": [
           "5d1cb37026b4ce44c8bf92a431fa28dcc7873da653cefad73e0d2a369e0f3da6",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.0b12": {
+      "sdist": [
+        "7dececb1032938504c7be35720fbb75ea5d401e79a9e47f7e9cb4feabac517b2",
+        "azure-template-0.1.0b12.zip"
+      ],
+      "wheels": {
+        "azure_template-0.1.0b12-py2.py3-none-any.whl": [
+          "386ae1a524ca8d4a9aa1f783620e2b8d5986bba30858b0e2a06777a52676069d",
           "py2.py3"
         ]
       }
@@ -4558,6 +4604,14 @@
       "wheels": {
         "c7n_gcp-0.4.5-py3-none-any.whl": [
           "9c8376e8fbc8d38c6fd921e3da05906b2fae47628724d1e8eac9a95acc8d1296",
+          "py3"
+        ]
+      }
+    },
+    "0.4.6": {
+      "wheels": {
+        "c7n_gcp-0.4.6-py3-none-any.whl": [
+          "aed28e7d4ff808b09e4dcad573179e02634fec8091d6decb5ef7626ba9a79a35",
           "py3"
         ]
       }
@@ -6469,6 +6523,18 @@
         "cloudpathlib-0.1.0-py2.py3-none-any.whl": [
           "c058e731e4af495fa62ea21cea9c3752c061e43b7fe9ae32371658b24ff1ba6a",
           "py2.py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "e1b8bde94e3521fdd0ee4f1648278f514fbe7259ea14bd7d2adeccb83c6d6267",
+        "cloudpathlib-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cloudpathlib-0.1.1-py3-none-any.whl": [
+          "df95c40e65239bbb2c4fd2672ce0602ac2782f4bb06ff65ecc811e8d441fa6f7",
+          "py3"
         ]
       }
     }
@@ -9884,6 +9950,30 @@
       "wheels": {
         "dagster_pandas-0.9.14rc0-py3-none-any.whl": [
           "fa85d139505dba9e63617f38f468575a6f80f27e9f31969c0e9820dd2d23f381",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15": {
+      "sdist": [
+        "fb141f221b041b6dc324a54dcbf07c00de7a7711157ec929f90492d3c665064c",
+        "dagster-pandas-0.9.15.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pandas-0.9.15-py3-none-any.whl": [
+          "35225fd8ffd74113a102d179ff9706b028eb759e45eed6921f9b85c45bcbf8bc",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15rc0": {
+      "sdist": [
+        "5b9bfccdcdef555414ffb00f8a3e702b474d414f571e6e8e66af267d1fff6587",
+        "dagster-pandas-0.9.15rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pandas-0.9.15rc0-py3-none-any.whl": [
+          "c315122911da3199c5e941bbaf653524e5580c9e8c9552031101959694bebbec",
           "py3"
         ]
       }
@@ -59184,6 +59274,12 @@
       "sdist": [
         "4f5014aaeedcc3efccf7abb989562fc2b2108bae84b4854715a565a6f6d6b361",
         "StructNoSQL-0.6.tar.gz"
+      ]
+    },
+    "0.6.3": {
+      "sdist": [
+        "69377eb15e07ad8b3d3c393c00db15bd18877ee9bfa5c1ebfa793c44a68d5332",
+        "StructNoSQL-0.6.3.tar.gz"
       ]
     }
   },

@@ -1673,6 +1673,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.5": {
+      "sdist": [
+        "6a635d8bd1065001b0787f11ecb8c8119a7815a0238a64f4c97f00e6f74b71e2",
+        "amundsen-common-0.5.5.tar.gz"
+      ],
+      "wheels": {
+        "amundsen_common-0.5.5-py3-none-any.whl": [
+          "b41eded31f98e5b706bcade2ba63d10506b37dfe25951595a08544867185e0d5",
+          "py3"
+        ]
+      }
+    },
+    "0.5.6": {
+      "sdist": [
+        "cb37be9bce36eea2ab721e7e9ef0b66b32596d04feadc40f7cad3f34bb160ba3",
+        "amundsen-common-0.5.6.tar.gz"
+      ],
+      "wheels": {
+        "amundsen_common-0.5.6-py3-none-any.whl": [
+          "2ce53e345f3c90a5a146da85cca6f6ee6c6ecc122f52812b197e8de1cf00fabd",
+          "py3"
+        ]
+      }
     }
   },
   "anachronos": {
@@ -4420,6 +4444,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "3b377043e9217cea78a303a8f337238ddf06576b52aa9a09506c51fc552575c0",
+        "aws-cdk.aws-dlm-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.68.0-py3-none-any.whl": [
+          "9be9c3191b9df1b93bc3404f6be7700ece70f03e0b2478efcab406ac9fa4d0c7",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2ab3bf27a7b3d365d8b286db9989090e14b8601a4d5778b9232a25c4e7dfaa89",
@@ -6206,6 +6242,12 @@
       "sdist": [
         "0cb43017e2c6a3cfac8edecb9df723f0f980051230dd4d973a5d5295efde35c7",
         "benchit-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "6a321a5f93d956a57ec78874cd36de13daa6776e0ba2c0617a8b6d460a2f1a2e",
+        "benchit-0.0.5.tar.gz"
       ]
     }
   },
@@ -11900,6 +11942,12 @@
       "sdist": [
         "fd5c3b08735f7679489054da6e8246910c953d0beca08126c183b72eb1becadf",
         "cvbuilder-0.2.41.tar.gz"
+      ]
+    },
+    "0.2.42": {
+      "sdist": [
+        "888523509e6947556f6c43e56c6fb94d2fa33cd676a2acae11dabedbc7ccd437",
+        "cvbuilder-0.2.42.tar.gz"
       ]
     },
     "0.2.5": {
@@ -39492,6 +39540,18 @@
       "wheels": {
         "json_logging-1.2.8-py2.py3-none-any.whl": [
           "eb9d0a0d916ffbd2030a9f384cddd89742b515514c4007418c40ea702578735e",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.9": {
+      "sdist": [
+        "c97d339514ba6f5f8a689b4f73980834c4e0780e8b37308421e7c6e045270be9",
+        "json-logging-1.2.9.tar.gz"
+      ],
+      "wheels": {
+        "json_logging-1.2.9-py2.py3-none-any.whl": [
+          "bb575d68f9d74e281a0f84855d27fc1f538d81f0c9739d6efa484f3b7d6c2908",
           "py2.py3"
         ]
       }
@@ -80646,16 +80706,32 @@
           "52b1c2d72e8e45d402c9ea18fc11776a9bb8445ac80469b7fdb19a02ed619999",
           "cp35"
         ],
+        "tf_nightly_cpu-2.4.0.dev20201015-cp35-cp35m-win_amd64.whl": [
+          "557cc900f0d0a73e193aac730bdf8beeab9f9d9a8de7d9db40789731722723ca",
+          "cp35"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201015-cp36-cp36m-manylinux2010_x86_64.whl": [
           "409cae854ebca3c47d093d3e9af20793e268a55a1b77b7768c9ab0bd873ec105",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201015-cp36-cp36m-win_amd64.whl": [
+          "b92b176b52b122d9ff52bc479f69c3bde3822a2450f9fd410660da9060692552",
           "cp36"
         ],
         "tf_nightly_cpu-2.4.0.dev20201015-cp37-cp37m-manylinux2010_x86_64.whl": [
           "e031e066fb1e5586f1c9097247335b5767c4c66ddc30310a87f17efa80874dbf",
           "cp37"
         ],
+        "tf_nightly_cpu-2.4.0.dev20201015-cp37-cp37m-win_amd64.whl": [
+          "99e4d5dddc71de677543f3b82043debead1bbf1e6c434d419ad19c951c299c73",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.4.0.dev20201015-cp38-cp38-manylinux2010_x86_64.whl": [
           "e03198be189ec24013fda1cd357c1aba40dfe5814691576e1b80787fc2be28df",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.4.0.dev20201015-cp38-cp38-win_amd64.whl": [
+          "31f9f7dc740ec5ade933cf465374e4da2286fdd21dfb6ac17104dd84f772c521",
           "cp38"
         ]
       }
@@ -86328,6 +86404,30 @@
       "wheels": {
         "youtube_dash_dl-1.0.1-py3-none-any.whl": [
           "b5c78ed2211aaefd344df4550df1e7e33fcbc36b653d21e8ba77de360a918a35",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "493ea61870e7c77685051e126d1d5f2d9e1ed59320c48b339cadf87a5ae40340",
+        "youtube_dash_dl-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "youtube_dash_dl-1.0.2-py3-none-any.whl": [
+          "1ea1ce89eae75945fac802023e2a05966085ba99eb516515ad2aa5a42aa65d45",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "658027a7b097c1bf91f7a8698a3f8608b21d4f0f17db967bb6a08d38463f61c2",
+        "youtube_dash_dl-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "youtube_dash_dl-1.0.3-py3-none-any.whl": [
+          "b9f8a2b18496eeceaf72acee62ce0197c5381a8181aded26940203500a2272f6",
           "py3"
         ]
       }

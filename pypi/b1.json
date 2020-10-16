@@ -3430,6 +3430,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "63fcb65f0427c89ab6fa271ea3d64a1b2d2a359b8874b72df499548ec95edece",
+        "aws-cdk.aws-codepipeline-actions-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codepipeline_actions-1.68.0-py3-none-any.whl": [
+          "c1fd4ba4036990ddc30c88c593b25aa2cbcf6abb7fbb00f9cf38435771b8111c",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "8770f32af3a4bad2da2d94338045015a105a6144f8704e84bb4cb9e0143a1b03",
@@ -4652,6 +4664,18 @@
       "wheels": {
         "aws_cdk.aws_secretsmanager-1.67.0-py3-none-any.whl": [
           "fea47513fdc36f1e0fd5282e652ee690c4941ade8e38895e5d45629f7c7911c1",
+          "py3"
+        ]
+      }
+    },
+    "1.68.0": {
+      "sdist": [
+        "7861da42ee33ae473cf352753e13ad786668f8c058b5d4205a661839da353271",
+        "aws-cdk.aws-secretsmanager-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_secretsmanager-1.68.0-py3-none-any.whl": [
+          "7fc9190c9dfc5d1b412dc18146c40c413f2266df0b81dd5060cc207a5ec8e00c",
           "py3"
         ]
       }
@@ -7334,6 +7358,14 @@
       "wheels": {
         "c7n_logexporter-0.4.5-py3-none-any.whl": [
           "b965b02bad44aadd8ada13bcf0d1e0bfff551156875132893a10bba389ae606f",
+          "py3"
+        ]
+      }
+    },
+    "0.4.6": {
+      "wheels": {
+        "c7n_logexporter-0.4.6-py3-none-any.whl": [
+          "0fd08e9666c3a603585082cff57155321f2b1398f4528266dc56b1634e159ae7",
           "py3"
         ]
       }
@@ -26754,6 +26786,18 @@
         "edx-enterprise-3.8.37.tar.gz"
       ]
     },
+    "3.8.38": {
+      "sdist": [
+        "fe899cdb456a2176c139beeabcb2d9b2985d886ee57cad8314795c28afd380d0",
+        "edx-enterprise-3.8.38.tar.gz"
+      ]
+    },
+    "3.8.39": {
+      "sdist": [
+        "2b455fe070b4d3d7634e17564f2174eef674b35ea7a5ec53ba07cf8e7e7e8a9f",
+        "edx-enterprise-3.8.39.tar.gz"
+      ]
+    },
     "3.8.4": {
       "sdist": [
         "d676f6b04455fed9930701833eef7fc8c6679657806e17c48dbcfb2bca6fb75f",
@@ -27588,6 +27632,12 @@
       "sdist": [
         "752f6e5c4fd9380eb8021bc8bf32ddedeca3727fdbaf66b189c14ede071e401f",
         "evohome-rf-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "2d3f83660b222737b04fc281fad019b3c7d10d4c4f0daad5912c1bf85fc9fce3",
+        "evohome-rf-0.4.2.tar.gz"
       ]
     }
   },
@@ -42427,14 +42477,6 @@
       }
     }
   },
-  "logolas": {
-    "0.0.1": {
-      "sdist": [
-        "cc2cfa30fcedf1f2aa07a08d2b3c7c7410e2e0f624cb69a873f17083a68316a3",
-        "logolas-0.0.1.tar.gz"
-      ]
-    }
-  },
   "lonny-pg-schedule": {
     "1.0": {
       "sdist": [
@@ -47774,6 +47816,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "2f8fb1b82b17d4c8d970a9e2cea7fb2253e12e2688b2b2d1bede181f1563b564",
+        "mypy-boto3-ecr-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecr-1.15.17.0-py3-none-any.whl": [
+          "fb76d2d4d6ad878954f81aac98977300cd6a481dbac759d7dbb46e13024dc2c8",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "0116ae18d45fec51ba1e188efea972f35a9608ea5e0c375dedf31e6a1a743427",
@@ -47908,6 +47962,14 @@
       "wheels": {
         "nab3-0.1.5-py3-none-any.whl": [
           "264575b384cff1971f3e2d0404c6431f3c26b9a040a05c0b70f3895f7fa5be93",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "wheels": {
+        "nab3-0.1.6-py3-none-any.whl": [
+          "baf4407c0d9e6aa38f8b061dd6cad29ff43ece5fd886570dccf5fd060604f27b",
           "py3"
         ]
       }
@@ -53812,14 +53874,14 @@
     }
   },
   "oscli": {
-    "0.0.1": {
+    "0.0.0": {
       "sdist": [
-        "8c1d182bcae96fe8e6daf54fb33912a21e1d4a4c62f5ec1df57822dc7b2fcc34",
-        "oscli-0.0.1.tar.gz"
+        "c8c439439b6e3074c201490ebc4256d68f102a34d288437dc3524a8755b89b31",
+        "oscli-0.0.0.tar.gz"
       ],
       "wheels": {
-        "oscli-0.0.1-py3-none-any.whl": [
-          "1d5dc441343df4e712df9157693141e520ee6a7ac97deca60d85cd697cf39e14",
+        "oscli-0.0.0-py3-none-any.whl": [
+          "5cbd7e894f44383b1a8c3d6965611651c8fe7b17dc85c2620d9b224cf251461a",
           "py3"
         ]
       }

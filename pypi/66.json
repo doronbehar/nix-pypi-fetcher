@@ -3209,6 +3209,18 @@
           "py3"
         ]
       }
+    },
+    "1.68.0": {
+      "sdist": [
+        "db8139eb3c8bda8167ea2dbcfa19a663629e84de2dea54695e2218e1b9098a78",
+        "aws-cdk.aws-lambda-nodejs-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_nodejs-1.68.0-py3-none-any.whl": [
+          "a708d78fb2486d53ba8840d7143c5c029bc60c98e4cbf63bc10d7d6680ecd8a4",
+          "py3"
+        ]
+      }
     }
   },
   "azuregraphrbac": {
@@ -10985,6 +10997,48 @@
       ]
     }
   },
+  "dac-autoreg": {
+    "0.1": {
+      "wheels": {
+        "dac_autoreg-0.1-py3-none-any.whl": [
+          "2ba2bfd04d2aa994237fded91f789c602c9726b94dec1f811a35781bf3b0bf7b",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "wheels": {
+        "dac_autoreg-0.2-py3-none-any.whl": [
+          "05180b8ce01182ca027ab9e3dc98bf36abbf46a03cd459faecb7585d449cfc72",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "dac_autoreg-0.2.1-py3-none-any.whl": [
+          "6e2f53274a048c70a94f52b30f6616cb3c6d9497985e3383583ef283da5e23c5",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "wheels": {
+        "dac_autoreg-0.2.2-py3-none-any.whl": [
+          "80c8f069377bbaa5efe224720fd714cbb88f18cbf3401c842942e01af7ebbff9",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "wheels": {
+        "dac_autoreg-0.2.3-py3-none-any.whl": [
+          "037c935f087a185242bf9b3e43a9024810a9561cc290ea953ae6b21d3b570463",
+          "py3"
+        ]
+      }
+    }
+  },
   "dagobah": {
     "0.1": {
       "sdist": [
@@ -15187,6 +15241,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.7.0rc1": {
+      "sdist": [
+        "ced6718fcb1cb810ca544081cd35d25d24003f6e6b3967888226163f73e5bcc6",
+        "docusign-esign-3.7.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "docusign_esign-3.7.0rc1-py2.py3-none-any.whl": [
+          "db98c5cbb71d0cb0d562224fc551cf56c9ec423c633b8841171c15eacabad661",
+          "py2.py3"
+        ]
+      }
     }
   },
   "domain-events": {
@@ -18398,6 +18464,18 @@
       "wheels": {
         "eccodes-0.9.9-py2.py3-none-any.whl": [
           "489edcc3a312725e41a8955052910474763eaba22299af904e34367cd802aea0",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "8df323e022042ce04f7bc07d0818a5d099a706e80b712fecbef7fc4b33a2fa99",
+        "eccodes-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "eccodes-1.0.0-py2.py3-none-any.whl": [
+          "d4726e6e55c262fd3016207b89dc043c0b7d4bc4e8121219a8c6a1457ba2f6e2",
           "py2.py3"
         ]
       }
@@ -49021,6 +49099,58 @@
           "cp38"
         ]
       }
+    },
+    "1.4.6": {
+      "sdist": [
+        "1f7a8c6f19a56e56c4314cd562b5595ad4be645617655887e319c0c113d510ab",
+        "python-rtmidi-1.4.6.tar.gz"
+      ],
+      "wheels": {
+        "python_rtmidi-1.4.6-cp27-cp27m-win32.whl": [
+          "5e2eb72986b882605f476cddb4202e95e0aaa7ea33c49b99bc2c8243db864e7f",
+          "cp27"
+        ],
+        "python_rtmidi-1.4.6-cp36-cp36m-macosx_10_6_intel.whl": [
+          "919f62b4e4f762064b8e6070f13b76c5490a44405f13f75dd24901658ac370a8",
+          "cp36"
+        ],
+        "python_rtmidi-1.4.6-cp36-cp36m-win32.whl": [
+          "c2e8c3a077928ab5996dc6a0ad7d3723235b76458177c2d7297cb9706bedc779",
+          "cp36"
+        ],
+        "python_rtmidi-1.4.6-cp36-cp36m-win_amd64.whl": [
+          "87cfac386769a4ad415432d94277ca5526f082050d8bc364bd3038e811ea3511",
+          "cp36"
+        ],
+        "python_rtmidi-1.4.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2151a856964b5a99f823d336102b202b0100cab381aee6582eb7b166cd9672da",
+          "cp37"
+        ],
+        "python_rtmidi-1.4.6-cp37-cp37m-win32.whl": [
+          "107aa9d57c3b7190e65710e436a1ac2db34f22b2e82f459397ebb14dc6d3f63b",
+          "cp37"
+        ],
+        "python_rtmidi-1.4.6-cp37-cp37m-win_amd64.whl": [
+          "5821f8726c62b3da00f70c82443eb00ee09f4d905c09954c65869e372d700373",
+          "cp37"
+        ],
+        "python_rtmidi-1.4.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9141a328e82ebf59519133f24a630283768ffaf69b5e2ade298d1e6b01f4ab69",
+          "cp38"
+        ],
+        "python_rtmidi-1.4.6-cp38-cp38-win32.whl": [
+          "f992685ec4739a51a080069f35355b1769e47b7ed2351008014a6085a08f95f5",
+          "cp38"
+        ],
+        "python_rtmidi-1.4.6-cp38-cp38-win_amd64.whl": [
+          "615eb4426a5df90275616aab8d6382185a7c6be2a09ce44c7f058c4493bdb635",
+          "cp38"
+        ],
+        "python_rtmidi-1.4.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "565da90d8e2fc00a7e6c608ea86427c4a2ce69db44adda4be71df95fffe3d262",
+          "cp39"
+        ]
+      }
     }
   },
   "python-spoj": {
@@ -53278,6 +53408,18 @@
       "wheels": {
         "renku-0.11.3.dev25-py2.py3-none-any.whl": [
           "9900aad240a5e52b1e6d59ec8d0bfe8cd328cba22cff1cc6060551fbdd406379",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.11.3.dev27": {
+      "sdist": [
+        "a865bbb551b671652d25df8c5702257c3cbdc9ea40079ca8344ebc25ec2e69d9",
+        "renku-0.11.3.dev27.tar.gz"
+      ],
+      "wheels": {
+        "renku-0.11.3.dev27-py2.py3-none-any.whl": [
+          "efa28061308c07795681d99ebbbc87e84f17bd89e1283befc204b813a9d150df",
           "py2.py3"
         ]
       }

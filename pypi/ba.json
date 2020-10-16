@@ -3596,6 +3596,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "4d530b6e90f3893134c7525786da3fe0556de672c1a933c8e104b272e046b09e",
+        "aws-cdk.aws-cloudtrail-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.68.0-py3-none-any.whl": [
+          "04fff3c083d1319028abe34e14dfbe839cf904a9ded4b8e8c7a9af50f591442c",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "20059f1d3364bab46224a195ef9dacff43c2d510ba8df668ad58a55c7667a71a",
@@ -4818,6 +4830,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.67.0-py3-none-any.whl": [
           "f410a8896d8770256524d9af33e6249b612a0ac42280f8c63e624a1fc9cdfb5e",
+          "py3"
+        ]
+      }
+    },
+    "1.68.0": {
+      "sdist": [
+        "ef11288aa4de2834578b0695a7226bbb4f4248e3778393c57ee7e19381175450",
+        "aws-cdk.aws-ecs-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.68.0-py3-none-any.whl": [
+          "9e0807710c9f8e3ee595bffe0bf8f8b6c73049a7f8efddc1e753cd5b851457dc",
           "py3"
         ]
       }
@@ -34876,6 +34900,14 @@
         ]
       }
     },
+    "4.3.2": {
+      "wheels": {
+        "mindmeld-4.3.2-py2.py3-none-any.whl": [
+          "1d2fd537e2db31764b851317708ccab4f0ee4432fe3b1d436f2dfc36384c49d9",
+          "py2.py3"
+        ]
+      }
+    },
     "4.3.2rc1": {
       "wheels": {
         "mindmeld-4.3.2rc1-py2.py3-none-any.whl": [
@@ -43060,6 +43092,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "69386a87c790399c972811fb0dcd8a5682016ec0e2dc30904c88b3f9ac1453c6",
+        "mypy-boto3-amplify-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.15.17.0-py3-none-any.whl": [
+          "d4e11a1fb020e1e096879b6f7bd962dfdccb79c5106eb8eaad9377a126762ab8",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "b1129427299e6c8f66c979741bdfce06784a863f530787fb4e4c2962e58e6313",
@@ -45338,6 +45382,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "9b54cbce0d6fcdd29b6c3a06fb2d935c5b8e6c09ddf85cdc0dd9a7d939218d51",
+        "mypy-boto3-elb-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.15.17.0-py3-none-any.whl": [
+          "7354b7c92cb3418b71f0c1427c756b35d5666047ed34df4d593888989c3a7474",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "aeac62a5da89d9831377203de73f7f9ac8527a6f990acba8549a3fe714489036",
@@ -47604,6 +47660,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.15.16.0-py3-none-any.whl": [
           "01f0db83919a21d93fd91a60f4c3c1af3927494c5338c800796a276ab33ac698",
+          "py3"
+        ]
+      }
+    },
+    "1.15.17.0": {
+      "sdist": [
+        "235bd0004af9065b4f95b30ea1ee090a49229d3775d117418c61311a7845d60b",
+        "mypy-boto3-meteringmarketplace-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.15.17.0-py3-none-any.whl": [
+          "c7a2862e918228b8df11d43824c7a0a1faa39a4a0840862fc76ea13675dbc2be",
           "py3"
         ]
       }
@@ -73955,6 +74023,12 @@
         "daf3222f294fe4ce79ebf23d6750914943f028441edc8492297fba6a53199646",
         "Spinmob-3.5.7.tar.gz"
       ]
+    },
+    "3.5.8": {
+      "sdist": [
+        "b68af0be1e52e4dc9b7cadf324d041585f76e9da4e634fcc7b57bf8341cdc8c4",
+        "Spinmob-3.5.8.tar.gz"
+      ]
     }
   },
   "splice-q": {
@@ -83806,12 +83880,20 @@
           "c1f2ad7ad47a53fb162c70519067e618569fcff9b454463dce44bbc0d9fb1322",
           "cp35"
         ],
+        "tf_nightly-2.4.0.dev20201015-cp35-cp35m-win_amd64.whl": [
+          "97223b0a11bac111039efc56c74ed01663970fede027b76319b638446f5fa77e",
+          "cp35"
+        ],
         "tf_nightly-2.4.0.dev20201015-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "50114944607d80b680cd0edba2a5de758c60e1053f8f509973a13c847c2a192d",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20201015-cp36-cp36m-manylinux2010_x86_64.whl": [
           "eb3b08887b354a2daef15966169904b6b62f744d7ec35d20cbbc6078bf98cf62",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201015-cp36-cp36m-win_amd64.whl": [
+          "be5e0e5fa56ed5008db51b24fe109045414f5ee6a15c13e0c6a92addf69bfb8a",
           "cp36"
         ],
         "tf_nightly-2.4.0.dev20201015-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -83822,12 +83904,20 @@
           "0bc648a5f96c7457d72edf009adc97711662341fc7f7c4c9aa6480b4ad2409f4",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20201015-cp37-cp37m-win_amd64.whl": [
+          "2dcd961adde32d54615aad03cfa6a47d1f1b98be97a59cb0e163f0c1fee169c5",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20201015-cp38-cp38-macosx_10_14_x86_64.whl": [
           "14abdf514dfe203eacde2434de498049a327ce79838b797c283c31c5798bca6e",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20201015-cp38-cp38-manylinux2010_x86_64.whl": [
           "fbb3d7125170c4f5d236b89e0a1f2dd047e8b485588847d9851e530e097fc1b9",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201015-cp38-cp38-win_amd64.whl": [
+          "7d0b1ae301f8fb9acace84aa83739c2faaf93e667503e661f394a20005388475",
           "cp38"
         ]
       }
@@ -89784,14 +89874,14 @@
     }
   },
   "worden": {
-    "1.0.0": {
+    "1.0.1": {
       "sdist": [
-        "826674f51139fe891982266698738e0f41059026b81edb188927394050df3a1e",
-        "worden-1.0.0.tar.gz"
+        "b64116745ef10ee86d18316bebe3959a2bbdf0131f01b87583d4adc7e2f5fb96",
+        "worden-1.0.1.tar.gz"
       ],
       "wheels": {
-        "worden-1.0.0-py3-none-any.whl": [
-          "4df7f48e866c170a4da4f73ccbb7b0b48e0f9d1219aadbbd389447ee59e13519",
+        "worden-1.0.1-py3-none-any.whl": [
+          "b65928b998c300fd5a8bc562396032d9058e4171d551531c00824888514d7bef",
           "py3"
         ]
       }

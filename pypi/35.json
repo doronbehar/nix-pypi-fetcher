@@ -4736,6 +4736,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "37124ef76175791a13955b34152ae3a92d05189eec4f3c30bdb465ac62ede9df",
+        "aws-cdk.aws-amplify-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.68.0-py3-none-any.whl": [
+          "c1690c43184dfe3683f586da9cd6a31c9fb85b7d7a23331e1188b650cc805aaa",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "86c3f1441a3845a73ef558ae221527f732d927a24e41fc74a54f4ef426555dce",
@@ -7543,6 +7555,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "wheels": {
+        "c7n_trailcreator-0.2.6-py3-none-any.whl": [
+          "70ea0045516b8eb9f68577258ebfb75117217bfea26d38dd5a8a43fc6d48419b",
+          "py3"
+        ]
+      }
     }
   },
   "caar": {
@@ -8380,6 +8400,18 @@
       "wheels": {
         "cdk_serverless_lamp-1.4.34-py3-none-any.whl": [
           "09659e89891cf962e2ca9c9cbed50e42dd204124c416c83922b8b3ce9136879d",
+          "py3"
+        ]
+      }
+    },
+    "1.4.35": {
+      "sdist": [
+        "0cb16eba2e350daad6725417232fd1faded2093cd112ced5f17f770b77568265",
+        "cdk-serverless-lamp-1.4.35.tar.gz"
+      ],
+      "wheels": {
+        "cdk_serverless_lamp-1.4.35-py3-none-any.whl": [
+          "6bedb65be4a5d0bfd51aca3026998f1045e9b184b76edb6a187b3a924acd742e",
           "py3"
         ]
       }
@@ -29227,6 +29259,12 @@
         "9207d84256e2979c15cccdb533fea5cd34683216b7a765248151fed8cb6af2ec",
         "izaber_wamp_zerp-2.7.20200424.tar.gz"
       ]
+    },
+    "2.7.20201015": {
+      "sdist": [
+        "9c10e9d5702822c97b67c5b301f31c6c83ab12034ca902af5532b2fe8b578536",
+        "izaber_wamp_zerp-2.7.20201015.tar.gz"
+      ]
     }
   },
   "jabbercracky": {
@@ -39818,6 +39856,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "6d8f205425aad3259a205351b40ad4bc416658f42e6dedf0b2312d3f1223106c",
+        "mypy-boto3-cloudhsmv2-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudhsmv2-1.15.17.0-py3-none-any.whl": [
+          "8bdf5dcc18a6fb081f56471d6b1cebea4e0da088019c1a2aadb80e987ce4839b",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "3a319547529d5b697607e9147908933e910596d76cfcf297b499e234dddc4986",
@@ -42096,6 +42146,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "01d1b2f7c2433759bb25f6f5e6c0691cee90f0bdefa3046d54b79d49fe9962d5",
+        "mypy-boto3-ecs-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecs-1.15.17.0-py3-none-any.whl": [
+          "7603630fe1e1c856c1e1f6d73057fa6324e528b39fa60cd96546885ca883c735",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "f5d201c3cc4802bdd7f62c1fad682a535f5fbf4664df5c6b4d7cd0485ad03416",
@@ -43473,6 +43535,72 @@
         "nexxT-0.1.1-cp37.cp38.cp39-none-win_amd64.whl": [
           "2c27fb1ef2b2ead8b46975baa100d6b231104593d204f327097cb4e6a9a30994",
           "cp37.cp38.cp39"
+        ]
+      }
+    }
+  },
+  "nif-validator": {
+    "0.0.1": {
+      "wheels": {
+        "NIF_validator-0.0.1-py3-none-any.whl": [
+          "93aefd6b470c9cc6efb69dccb44630f2634c4391ea166345bc3afb2497b38d0b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "NIF_validator-0.0.2-py3-none-any.whl": [
+          "0b62168ab192cf281c4d5046ea5ec069932dd1d470c7eed13cb2b1e1ea71bf5c",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "764adc0312d0f613c8f6b86b20dd552805db03cc0351c5fcb82edc3036ac1bc2",
+        "NIF-validator-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "NIF_validator-0.0.3-py3-none-any.whl": [
+          "6f464cb72ad146d78753f950cf19756ca8d68a912c8f26921b870d8891d9f812",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "4ea2ddcbbc8f3cf9a2dae1a491690da856d54a392e2f58b4974db2efb2d9e8a8",
+        "NIF-validator-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "NIF_validator-0.0.4-py3-none-any.whl": [
+          "93603fb091e2d42ab3ffd37e5074319dbe35025712ad1f9fda8734effa4f884b",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "e9155e6b92b2349e2d4a17b90fe7873ac53cde36bde80b3fe5892ea438383c7e",
+        "NIF-validator-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "NIF_validator-0.0.5-py3-none-any.whl": [
+          "bf064a38999b8004863f43807eaf48dd20402a8113a4c2fec7d639bf8997ff65",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "e549fc4edfd6f7bc10712be0e833123db4fd61efe0e86b154145c22e2f540107",
+        "NIF-validator-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "NIF_validator-0.0.6-py3-none-any.whl": [
+          "770469aeedf946f0c238e4302a72d847885b1fb5366b3be9e196f8f8823e22e4",
+          "py3"
         ]
       }
     }
@@ -60561,6 +60689,20 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "spmmtb": {
+    "1.0": {
+      "sdist": [
+        "6bfe1504e05e0595a8e88823e4854a82142cc285c737f7439bc65600dfed791e",
+        "spmmtb-1.0.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "46694671ac6fa17e7cc684f3a4d3001e215fa5b0f1fccdd3f172de5e0d3354b8",
+        "spmmtb-2.0.tar.gz"
+      ]
     }
   },
   "spoke-scikit-learn": {

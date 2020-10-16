@@ -4144,6 +4144,18 @@
         ]
       }
     },
+    "1.68.0": {
+      "sdist": [
+        "472af6f49dff47292d13341207e7f8d1afd6d3d1e2833be9740187c0bf8976f8",
+        "aws-cdk.aws-iot1click-1.68.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_iot1click-1.68.0-py3-none-any.whl": [
+          "46fad5611739a8920575fbeca65cf8816d701b7ac12dcf0e8dcb6819a8b37314",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "2322847494e72d6ebf621a4094a4dacc92d1b002ae4609e95688997e960ddf5e",
@@ -6975,6 +6987,20 @@
         "85d184d38233065b3f7dbb06332047533cc35e3136b2408514df014eabded0a5",
         "brainSimulator-0.5.4.tar.gz"
       ]
+    }
+  },
+  "branchedgp": {
+    "1.0": {
+      "sdist": [
+        "2a5eaeba5a54fc427e6d5498e51914e6925d1c41cfbad768c2bf8b086036221c",
+        "BranchedGP-1.0.tar.gz"
+      ],
+      "wheels": {
+        "BranchedGP-1.0-py3-none-any.whl": [
+          "e78d96a69c28b789d6dd63928f0c3db96057d3ad2d0518cbc8746112ec2b893e",
+          "py3"
+        ]
+      }
     }
   },
   "braviaproapi": {
@@ -35305,6 +35331,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.18": {
+      "sdist": [
+        "f18601c6b4ef7dcc5183216fce23e226555eab4959f43000e812ba127fd4d2c9",
+        "lotus-notes-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "lotus_notes-0.0.18-py3-none-any.whl": [
+          "29a394f760d729b9d9cf7aa069ac364e45a09adfdbb13ebe64e21bf38fe7eb85",
+          "py3"
+        ]
+      }
+    },
+    "0.0.19": {
+      "sdist": [
+        "2e748eb135c556a3d96de77a959460023403fb991eb78c0dea88aff8bf8559be",
+        "lotus-notes-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "lotus_notes-0.0.19-py3-none-any.whl": [
+          "47d902d2d011fc888794a4bffa0db08af5ba36270ff318fd16daf6f0d2aefbe9",
+          "py3"
+        ]
+      }
     }
   },
   "louie-latest": {
@@ -36094,6 +36144,98 @@
         ],
         "mahi_gui-0.2.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
           "a09fdc5799d81df3d0e3b2a2d9896655200d17c67f321e3d686d13dae706414e",
+          "pp37"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "37f76d50847c64ef0cc208083149021c4fc02a35adfc84ef3a60a56712849e7b",
+        "mahi_gui-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "mahi_gui-0.2.2-cp36-cp36m-manylinux2010_i686.whl": [
+          "9bd023d51be94c6dca34c66196905a088495f1ceb2e7c0c520618a7e795283e6",
+          "cp36"
+        ],
+        "mahi_gui-0.2.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0a9e28255ecddb3cb16a3ba99df15d6a6f684e409f78b0df6fdad2f0dfbd18c2",
+          "cp36"
+        ],
+        "mahi_gui-0.2.2-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "e99d6f00f291a61073a28dab0bdddf9f1a1a3ccd2c990e0808d89638079e4f6d",
+          "cp36"
+        ],
+        "mahi_gui-0.2.2-cp36-cp36m-win32.whl": [
+          "b48614d9e4953a07e148caf72f8c3e521d185ba586ae8a623e89c57e6e5f46c5",
+          "cp36"
+        ],
+        "mahi_gui-0.2.2-cp36-cp36m-win_amd64.whl": [
+          "a1c698328b0443cde68f0ae03711e88f198642437a4689f43af44af20e976ae0",
+          "cp36"
+        ],
+        "mahi_gui-0.2.2-cp37-cp37m-manylinux2010_i686.whl": [
+          "1e08ff9a74499d2675dba3ba97811823be3d3ac62c8bff2486877ec44744a817",
+          "cp37"
+        ],
+        "mahi_gui-0.2.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "fb395d3e63141c76b56e915553f965b72ab3dcf5f72821f817c1def0a54d2df6",
+          "cp37"
+        ],
+        "mahi_gui-0.2.2-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "d937d111dd861c2bdd1619c7095afdc34a9187713d749e4c400bb5a3dfc5f07a",
+          "cp37"
+        ],
+        "mahi_gui-0.2.2-cp37-cp37m-win32.whl": [
+          "f6fe3dc0c38a9fc1e7b8b165b9f59de9713b03428b0806dcf84d6c4b1b592809",
+          "cp37"
+        ],
+        "mahi_gui-0.2.2-cp37-cp37m-win_amd64.whl": [
+          "b9cd65898c5c59baea64dd21087845f1152aa2b27d974cd82425136d210c15a9",
+          "cp37"
+        ],
+        "mahi_gui-0.2.2-cp38-cp38-manylinux2010_i686.whl": [
+          "98cc76b7095b1883ad4a7466a0cbea5432a9b2cae59a71fb56d428e5d067559d",
+          "cp38"
+        ],
+        "mahi_gui-0.2.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "5d66bba0b594c0cb006e5fb062affa194dd2cba6779ef1efc1d6b05efeba5bab",
+          "cp38"
+        ],
+        "mahi_gui-0.2.2-cp38-cp38-manylinux2014_aarch64.whl": [
+          "fe811e9bee2f386e729df894acc475a04344ac2dbe0fe3b75d504495d81ded9a",
+          "cp38"
+        ],
+        "mahi_gui-0.2.2-cp38-cp38-win32.whl": [
+          "0114c6d6ce633bb9d94da6c454f6e17bdc0f8df8787326d1cd1f9111b9e8a52b",
+          "cp38"
+        ],
+        "mahi_gui-0.2.2-cp38-cp38-win_amd64.whl": [
+          "5b9a757edb338d33032fe2176347e86aeb90fdb5e4246092f6f6943279814556",
+          "cp38"
+        ],
+        "mahi_gui-0.2.2-cp39-cp39-manylinux2010_i686.whl": [
+          "ab648f37bfbed5572e5d54258c2ab2fc1ffedc310bce6857d73b7e1775ea5690",
+          "cp39"
+        ],
+        "mahi_gui-0.2.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "a2584b10023b86149b6b4401ac3c3794bf7a2980349231e312dcd73887fb2732",
+          "cp39"
+        ],
+        "mahi_gui-0.2.2-cp39-cp39-manylinux2014_aarch64.whl": [
+          "532871a3fa17d0a78b7853389ba13c69f9543925374b21ae5de41856190117e5",
+          "cp39"
+        ],
+        "mahi_gui-0.2.2-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "463dcb92d41258cc43fb76bfe577188df6e5a957d767fa4e7a96545d4a2ce8b0",
+          "pp36"
+        ],
+        "mahi_gui-0.2.2-pp36-pypy3_72-manylinux2010_x86_64.whl": [
+          "892114c220dede3ce686497dfc27d6228d5bbd81b56c11c70c64d415f2beaa59",
+          "pp36"
+        ],
+        "mahi_gui-0.2.2-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "dc2e203006bd406d0034635bc6f08291b5172a324e8f262a3807321538f847a6",
           "pp37"
         ]
       }
@@ -40584,6 +40726,18 @@
         ]
       }
     },
+    "1.15.17.0": {
+      "sdist": [
+        "60e89995448932dde073d3b8b41ee5e3d762d75c68c5046e25087770b0057726",
+        "mypy-boto3-events-1.15.17.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_events-1.15.17.0-py3-none-any.whl": [
+          "d9243325fccbdb816d89d8e502ffd1748f94943861bbc0501640fc8fdd8d9c26",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "3b20ddab776efb80fceb9df095ccd765afd18215cead726bbfb872a29a211ba1",
@@ -41288,6 +41442,32 @@
       "wheels": {
         "nb_py-0.1.3-py3-none-any.whl": [
           "0ceb24f03c125c74f93de602f6377da7b66f21beed6db10b147fc60a9922432f",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nbdev-pytorch": {
+    "0.0.1": {
+      "sdist": [
+        "b664d1d88c540e401e670d250b5bab7d953f600ce4f149b9bf3effb78d6c263e",
+        "nbdev-pytorch-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_pytorch-0.0.1-py3-none-any.whl": [
+          "13b2ffef5ab37f8e9c4d4012e0d399cd81406457f1641a9ffdb6054e55cbf50d",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "5c9d7796bc45fd10dd7b8300b5c5e5e9a968f242d3324192609ea9d295e4c0a7",
+        "nbdev-pytorch-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_pytorch-0.0.2-py3-none-any.whl": [
+          "e23b44bf7a283dba707c194557b28d08f1a99259f94f3ba2652815acfc55c8cd",
           "py3"
         ]
       }
@@ -51778,6 +51958,18 @@
       "wheels": {
         "parliament-1.2.0-py3-none-any.whl": [
           "9758e1eaad225fbe19ce8b532ed30c2362c7e3528e140be569ddacb91cd96370",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "eb113cc9d526632a3c057314d0261a99ba7429ff51444ab931ea9aad18534c77",
+        "parliament-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "parliament-1.2.1-py3-none-any.whl": [
+          "37c2bc7e331fbd4056818765a8ce0076cc96703ec666f1c76dcfd67f4f7e6e15",
           "py3"
         ]
       }
@@ -62340,6 +62532,18 @@
       "wheels": {
         "pytigon_gui-0.105-py3-none-any.whl": [
           "eb3cfdee2cee444d6e3f68cf74ce80d937d3de61fcd2baa85d084b6bb7d971d0",
+          "py3"
+        ]
+      }
+    },
+    "0.109": {
+      "sdist": [
+        "5b97389a495ae1f70738586339496ba21253894512b8de9552336cb7a1ad8886",
+        "pytigon-gui-0.109.tar.gz"
+      ],
+      "wheels": {
+        "pytigon_gui-0.109-py3-none-any.whl": [
+          "b91096af9023bfc7456f797a9393eb0ef206287cad841a70d0bced40201f036a",
           "py3"
         ]
       }
@@ -74860,6 +75064,18 @@
       "wheels": {
         "temboard-7.2-py2-none-any.whl": [
           "0d8db201a44c7dcde6f4e7f27efcfb45ecddfa93a3eb4b587d8ee9b58095c6f6",
+          "py2"
+        ]
+      }
+    },
+    "7.3": {
+      "sdist": [
+        "e2898d9ff7d1fb9d53f4fb67e58c826a2d8906e797a08028f09bbdf0ab2632a9",
+        "temboard-7.3.tar.gz"
+      ],
+      "wheels": {
+        "temboard-7.3-py2-none-any.whl": [
+          "cc7b883a401461315a78b9462e981f5d331cc0c20a9ed6d58492d9012c1fa304",
           "py2"
         ]
       }
