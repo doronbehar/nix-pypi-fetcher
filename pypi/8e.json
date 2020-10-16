@@ -835,6 +835,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.3": {
+      "sdist": [
+        "ea53594c488ba264dc95cddaffcf0418b8a58d230d21d1bed1b5b240fd99803f",
+        "aea-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "aea-0.6.3-py2.py3-none-any.whl": [
+          "4160e6ac648cb6b697f7fbf804a895a699c57b9759cd18f94d5d276c9bbe56b5",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aerospike": {
@@ -23873,6 +23885,20 @@
       ]
     }
   },
+  "django-postgresql-dag": {
+    "0.0.4": {
+      "sdist": [
+        "37249fc5184002f5831bb767cd2152d4c43a033c104529e51058ac4399363104",
+        "django-postgresql-dag-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "django_postgresql_dag-0.0.4-py3-none-any.whl": [
+          "96f73d08190560ef483b94ad7cad971ea11f8c806dde4d279bf1aad4f83fcc3e",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-progress-timeline": {
     "0.1": {
       "sdist": [
@@ -35550,6 +35576,18 @@
       "wheels": {
         "impetuous_gfa-0.16.0-py3-none-any.whl": [
           "25eb0f58cff84a5041244f2b9098e1ccdd8f1f400334c33835cabd8c63da2724",
+          "py3"
+        ]
+      }
+    },
+    "0.17.0": {
+      "sdist": [
+        "7045cf2182885ee4bee064066fa9d5d539098b0ea4504faa68b8f87835fb1de0",
+        "impetuous-gfa-0.17.0.tar.gz"
+      ],
+      "wheels": {
+        "impetuous_gfa-0.17.0-py3-none-any.whl": [
+          "5896dc202570c05e85f39de20f35b33209ea182c1cdc1addecb0d39a5214a458",
           "py3"
         ]
       }
@@ -52013,6 +52051,16 @@
       }
     }
   },
+  "odoo14-addon-operating-unit": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_operating_unit-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "dea7b151e2da7e1bf160f4932c2d0c0366a525b2de16ec0707c51de9ec3956ab",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo8-addon-geoengine-base-geolocalize": {
     "8.0.0.1.0.99.dev10": {
       "wheels": {
@@ -64734,6 +64782,70 @@
         ],
         "scikit_decide-0.8.0-cp38-cp38-win_amd64.whl": [
           "b3b17e6291ac8a1509dea83c3c6cbf4a89c656ab84c206844935181b6390ff7a",
+          "cp38"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "31f9180b72e7ba02793ac19cf592043d2dee57371c30df1113c5e1256257ba93",
+        "scikit-decide-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "scikit_decide-0.8.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "bdeaa0efef582326cc9ea622f981244659d4d0b29b7955cb471a4d98c8a44928",
+          "cp37"
+        ],
+        "scikit_decide-0.8.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "c8a92b77a165e8737b0bd63f83d8dca8f1a93d160e578b1540306a70e36d17b3",
+          "cp37"
+        ],
+        "scikit_decide-0.8.1-cp37-cp37m-win_amd64.whl": [
+          "6683a23407e389b894a9ecdd3e996d2cd2e789759d01d3eed826e9da37f0eef6",
+          "cp37"
+        ],
+        "scikit_decide-0.8.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "d263852714fa1e720f88d95c5d833af605750977253c058a2dbdd6d537e8a0b9",
+          "cp38"
+        ],
+        "scikit_decide-0.8.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "49ffa4fd33bbdc4cbcb26a26a647c0c8ac373771a0816c9ecdfab6e73de007f9",
+          "cp38"
+        ],
+        "scikit_decide-0.8.1-cp38-cp38-win_amd64.whl": [
+          "1ec34313ada3b6b4356bf384fd30cc08b73bf09e648f4026cd07738729798064",
+          "cp38"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "0d232b3a6c8bdeb19e95089d874ba0ee660d0d351f539f435eb04e2261dfb822",
+        "scikit-decide-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "scikit_decide-0.8.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ad3ada5a7befab15dfb409abd5f53840575bd70379ab8460ed6e4281ebca099d",
+          "cp37"
+        ],
+        "scikit_decide-0.8.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "df2ebbd80cbcb6ae6cf82786d57056149184350c2fa6c1ec87f1adedcd19e5e2",
+          "cp37"
+        ],
+        "scikit_decide-0.8.2-cp37-cp37m-win_amd64.whl": [
+          "45a7d7f25e8b017a46f45bea8e145f739b6e5fb7b309ec054c237cd81d7e66a5",
+          "cp37"
+        ],
+        "scikit_decide-0.8.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "96d4148784671ffd4aab97b1144f89a4fa34720b1da5a7e56989b58595221cbd",
+          "cp38"
+        ],
+        "scikit_decide-0.8.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "5719ad3159bec82dbcf48904f3d38720623d973c1f851e674c1e622f1164995d",
+          "cp38"
+        ],
+        "scikit_decide-0.8.2-cp38-cp38-win_amd64.whl": [
+          "5b306a1ccf4d0bb63a44cc66e31ac9fb79251921342178e2125c95f65c90bef7",
           "cp38"
         ]
       }
