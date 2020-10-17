@@ -43110,6 +43110,18 @@
         ]
       }
     },
+    "1.15.18.0": {
+      "sdist": [
+        "7c1d1427616cf749218002c8e049cdd9a0f70fa93bd1a6f69db9b40cebfcd39e",
+        "mypy-boto3-amplify-1.15.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.15.18.0-py3-none-any.whl": [
+          "8f2b42d381584b3e7500da9940b78c6ded9226257cca147337323882551018c6",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "b1129427299e6c8f66c979741bdfce06784a863f530787fb4e4c2962e58e6313",
@@ -45400,6 +45412,18 @@
         ]
       }
     },
+    "1.15.18.0": {
+      "sdist": [
+        "2a0672b16efafddcbaad827a3acd6d3c47fcbae628b23a841327d2a815b4290a",
+        "mypy-boto3-elb-1.15.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.15.18.0-py3-none-any.whl": [
+          "3383bc7bc34e97854d9a44297f6a6063fe230b72a31efc366c9f860ff19f86fd",
+          "py3"
+        ]
+      }
+    },
     "1.15.2.0": {
       "sdist": [
         "aeac62a5da89d9831377203de73f7f9ac8527a6f990acba8549a3fe714489036",
@@ -47678,6 +47702,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.15.17.0-py3-none-any.whl": [
           "c7a2862e918228b8df11d43824c7a0a1faa39a4a0840862fc76ea13675dbc2be",
+          "py3"
+        ]
+      }
+    },
+    "1.15.18.0": {
+      "sdist": [
+        "f3fc6630c0780930629924604acb37df0a1f433e7c5acf1088f5cebff3173b4d",
+        "mypy-boto3-meteringmarketplace-1.15.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.15.18.0-py3-none-any.whl": [
+          "d37de2cf9c01e74f96eb3c0156717e011918e5a94a31e4a1d113013eaef9e7a0",
           "py3"
         ]
       }
@@ -51940,6 +51976,14 @@
       "sdist": [
         "a8115e4bf3a932070a46acfefd162aa2709eb53b8351da8d46dc71d421af8a35",
         "odpdown-0.4.1.tar.gz"
+      ]
+    }
+  },
+  "oelint-parser": {
+    "1.0.0": {
+      "sdist": [
+        "6af4066e4d6ef403b23b9c6d0d9810924a4b929bd6691f9b0b8de2a4ff015f4b",
+        "oelint_parser-1.0.0.tar.gz"
       ]
     }
   },
@@ -71764,10 +71808,10 @@
     }
   },
   "rickslab-ups-utils": {
-    "0.10.0": {
+    "0.10.1": {
       "wheels": {
-        "rickslab_ups_utils-0.10.0-py3-none-any.whl": [
-          "3ce2faf297d358ae3f9e990cc9864cec2fbe2b7ac68f574a885c7dff5d29ba83",
+        "rickslab_ups_utils-0.10.1-py3-none-any.whl": [
+          "d6723217ad3ecb3c1d063ab35a4dc948cf15853129255f716a6d4aef0d706738",
           "py3"
         ]
       }
@@ -83958,6 +84002,10 @@
           "6e2c12c31a69b286e113c0d1a02d8c3308c3e70d80c85a73449a5b780200bf6b",
           "cp36"
         ],
+        "tf_nightly-2.4.0.dev20201016-cp36-cp36m-win_amd64.whl": [
+          "3b9613817a2d63bfaf5161d990325056751dc61f6190cb1c1e8fc155142f1b9c",
+          "cp36"
+        ],
         "tf_nightly-2.4.0.dev20201016-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "33269df470647118dc5fecf6bce9596a8df343e669332f09839fb6545a2e7b87",
           "cp37"
@@ -83966,12 +84014,20 @@
           "2e6351289c8c9fddece91ea469cbb3190a954b561b074df844b1d362fb7d66ee",
           "cp37"
         ],
+        "tf_nightly-2.4.0.dev20201016-cp37-cp37m-win_amd64.whl": [
+          "8248dd8b8aa2a92e58c8cc9454bffbb16bc85260e2bf23fbc805f46c02c41ef6",
+          "cp37"
+        ],
         "tf_nightly-2.4.0.dev20201016-cp38-cp38-macosx_10_14_x86_64.whl": [
           "db6ba71a3be00b1fa8d421aea05a261961f5144c111645c2e2a2c3ff42f4457c",
           "cp38"
         ],
         "tf_nightly-2.4.0.dev20201016-cp38-cp38-manylinux2010_x86_64.whl": [
           "b85da40f503610d3a9ccf54cec086935ea07e519aa1571f427b7922f79a54a04",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201016-cp38-cp38-win_amd64.whl": [
+          "1c656ce7a6816d5772044a8ae10575eec11b5e5a2346f9c8161cb0ae1961583e",
           "cp38"
         ]
       }
@@ -89936,6 +89992,18 @@
       "wheels": {
         "worden-1.0.1-py3-none-any.whl": [
           "b65928b998c300fd5a8bc562396032d9058e4171d551531c00824888514d7bef",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "748a1a8e0903e150ec59ddfb22c00191fb016bf4b7a70b0bf60e2b31206fe4d2",
+        "worden-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "worden-1.1.0-py3-none-any.whl": [
+          "fe3d1d1d77bfac18a085f051a1d06613d53bbac0e48ed17fc9a5baba0152d2c0",
           "py3"
         ]
       }
