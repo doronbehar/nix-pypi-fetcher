@@ -11747,26 +11747,6 @@
       }
     }
   },
-  "dash-access": {
-    "0.0.1": {
-      "sdist": [
-        "b3baf5b1573db53775d21cbbef5cde4ff847793df4e703030bc63b9e39d89732",
-        "dash-access-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "aa44c167b55d87b3ce0484e9e914eb1430480327acc60edf3ae21ffbc777bbe0",
-        "dash-access-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "0de927847f189f68959eef297e00021dee63cdb7d017b0ac2fafc019050a5c10",
-        "dash-access-0.0.3.tar.gz"
-      ]
-    }
-  },
   "datanommer": {
     "0.1.1": {
       "sdist": [
@@ -12830,6 +12810,18 @@
       "wheels": {
         "dbnd_airflow-0.28.9-py2.py3-none-any.whl": [
           "5235f4211f66e22f535a197629b121db0d7f474c165ab75ca46d9fe344ebadf0",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.29.0": {
+      "sdist": [
+        "6520cdacb3e426d576c023d788e75f50edb13c4feef978dc4f5e2dab59e439fc",
+        "dbnd-airflow-0.29.0.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.29.0-py2.py3-none-any.whl": [
+          "bcef6544a57a3008b97189ef5beb2261237e14c73f4b0cbd96cbf9bdfe818557",
           "py2.py3"
         ]
       }
@@ -17712,6 +17704,18 @@
       "wheels": {
         "eddington-0.0.19.dev0-py3-none-any.whl": [
           "3e5c4f73cffbfc523db49f0d5dc21658fc9bfc3dd51a1e367456fc9c4e9427f5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.20.dev0": {
+      "sdist": [
+        "29c0a20c1c17785d1fb7895b5af7a3b305638f936853b3be9f47ea15ec6feaad",
+        "eddington-0.0.20.dev0.tar.gz"
+      ],
+      "wheels": {
+        "eddington-0.0.20.dev0-py3-none-any.whl": [
+          "b33f248ef16107251a824bebbe69f408d320070c837c1fa9e9cba01f2cdfd872",
           "py3"
         ]
       }
@@ -37943,6 +37947,12 @@
         "4ac9478718ec472613e6343a5ede48bc3d1c4234ea0064435f660c1a417658e8",
         "mlmorph-1.2.0.tar.gz"
       ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "3c1b5360f9cd363cef75f05e780071608d628a2fff28498481dd28586bdf0a76",
+        "mlmorph-1.2.1.tar.gz"
+      ]
     }
   },
   "mlo": {
@@ -52033,6 +52043,12 @@
         "146879f073210449cc3856424d20ab763994567a08a66cb07f9fedc32f9791af",
         "oelint_parser-1.0.3.tar.gz"
       ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "7e14749923e19d4fe6a94b5c7f4a5170b5b467ebe9fb62b6df4e214f85a6ffa6",
+        "oelint_parser-1.0.4.tar.gz"
+      ]
     }
   },
   "ofa": {
@@ -58781,16 +58797,6 @@
         "dd152977f4c39942d3e1a233f6b3df35c548fffddfeda1fb88cb3b52a3b366e7",
         "protobuf-to-dict-0.1.0.tar.gz"
       ]
-    }
-  },
-  "proy2": {
-    "0.0.1": {
-      "wheels": {
-        "proy2-0.0.1-py3-none-any.whl": [
-          "07ca5c7092aef82d3f01aa98c51c61a565749ad37e607a16ca235e0fdc890681",
-          "py3"
-        ]
-      }
     }
   },
   "psd-tools": {
@@ -84127,6 +84133,34 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0.dev20201018": {
+      "wheels": {
+        "tf_nightly-2.4.0.dev20201018-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "fcda70a9912bd08fed7f345fc70c4cd93d1f575d8e2545f382e35d7a51db6a3a",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201018-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "d0a487b9a4d615a5165f1d695f5f99b9028259bd39238e163967951af6785b51",
+          "cp36"
+        ],
+        "tf_nightly-2.4.0.dev20201018-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7890296097527a09aa728f530a1560cfce902f2fd4bec1adab68457a5ce069a4",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20201018-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "b42c1632674cd6d1d41ad4c2082560712d059c0a420568c485e7bf2d9b8f18c2",
+          "cp37"
+        ],
+        "tf_nightly-2.4.0.dev20201018-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "2d459cc7bd396bd0606bd5e17fc8951e125bdb3e556352048e75befb88f97278",
+          "cp38"
+        ],
+        "tf_nightly-2.4.0.dev20201018-cp38-cp38-manylinux2010_x86_64.whl": [
+          "c7fc1d9e11d98ee2c5a7120bab0e2d71242d0ae7aca52af4db531aeb48dbf8a2",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -85059,6 +85093,20 @@
         "a5ed9656ee62e448f1d3841d1a7c2be338c15f3d9cc9bfbf182790dcff051f20",
         "tomorrow-0.2.4.tar.gz"
       ]
+    }
+  },
+  "ton-client-py": {
+    "1.0.0.1": {
+      "sdist": [
+        "9aef0894a936613507be2cebf73e1ba162f77948bd71577dc928221ad32c4f02",
+        "ton-client-py-1.0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ton_client_py-1.0.0.1-py3-none-any.whl": [
+          "4e847b19a36959dc641caa80b14ab0654902615b1a7b162493d45dbde6901529",
+          "py3"
+        ]
+      }
     }
   },
   "topsis-naveen": {
