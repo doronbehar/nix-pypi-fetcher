@@ -17485,6 +17485,26 @@
           "cp38"
         ]
       }
+    },
+    "0.6a201020": {
+      "wheels": {
+        "dgl_cu101-0.6a201020-cp35-cp35m-manylinux1_x86_64.whl": [
+          "211fac2a0225592a9625e2badae299e479ccf5630e2de332836863ce4dfd6316",
+          "cp35"
+        ],
+        "dgl_cu101-0.6a201020-cp36-cp36m-manylinux1_x86_64.whl": [
+          "60cd6fa61fb44bd7391afe242b860a81cacb4c9d1d9c00b417617d16223807aa",
+          "cp36"
+        ],
+        "dgl_cu101-0.6a201020-cp37-cp37m-manylinux1_x86_64.whl": [
+          "910e12e28b806692df1155a16a8b8457b36cd6941ae6e9feecde7dcee771cdeb",
+          "cp37"
+        ],
+        "dgl_cu101-0.6a201020-cp38-cp38-manylinux1_x86_64.whl": [
+          "a4143a9a57ddf459eb8f973c509ea56578d047ac1d16ae01ff4641f23f65cdd1",
+          "cp38"
+        ]
+      }
     }
   },
   "dhm-module-example": {
@@ -44114,78 +44134,6 @@
     }
   },
   "mixsimulator": {
-    "0.2.3": {
-      "sdist": [
-        "63e4ee029915def2eec139aded95ebeb0a71cc5b0b7dd12aa155231cb3ccd418",
-        "mixsimulator-0.2.3.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.3-py3-none-any.whl": [
-          "e554c0508eb607dacb7eb7a093652cdd5db3bd6f1c7bb317c25dbf1c02b241a7",
-          "py3"
-        ]
-      }
-    },
-    "0.2.3.1": {
-      "sdist": [
-        "1a71dd22f73e877016c762e5a5f7603df5fc1b5652fb77af9925d4ba666045e9",
-        "mixsimulator-0.2.3.1.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.3.1-py3-none-any.whl": [
-          "aaac98ab50f329a7c9eab746d35c9d2325c45ed8f574734fa24f8170f4d34035",
-          "py3"
-        ]
-      }
-    },
-    "0.2.4": {
-      "sdist": [
-        "ff86324b9fb61389be3be8be5fcd7433a01a32450672f5043a60c0deb0ff9174",
-        "mixsimulator-0.2.4.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.4-py3-none-any.whl": [
-          "dc4fbec5fa463eecedfc468b0df493847a0083ba9517cf21231179ac4916c7dc",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "sdist": [
-        "a0aea97d9e4b7b05a5512e2321d7c60ecbb9728e78afa23c6cbd86af8168be0a",
-        "mixsimulator-0.2.5.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.5-py3-none-any.whl": [
-          "8f444f1b2a0b57981346f0410e3cf4805f1519fc57281119cda5de8e3e47a850",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5.1": {
-      "sdist": [
-        "aa5a9e6b01ac0b3b38f2800e10b2e7148b2b5ccc7a3c1a29c82950000f531159",
-        "mixsimulator-0.2.5.1.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.5.1-py3-none-any.whl": [
-          "97bea3aaba417e910b996c34bf37edf22253dc9b1d21c3ba37126796ce21ce3a",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5.2": {
-      "sdist": [
-        "ed52b1949ad574fef95571bc050a5ca50a9f15f1068305d8dd7e4798be9ddcc8",
-        "mixsimulator-0.2.5.2.tar.gz"
-      ],
-      "wheels": {
-        "mixsimulator-0.2.5.2-py3-none-any.whl": [
-          "5daaa89b326cb86bb24d6e091b0fa4bb960adf43917f8f4024285299e4c166fd",
-          "py3"
-        ]
-      }
-    },
     "0.2.5.3": {
       "sdist": [
         "1b0a010fec30e5bc044c5efe7472792564c69c501ce5d3a5bd48829fcbd3fbda",
@@ -44242,6 +44190,18 @@
       "wheels": {
         "mixsimulator-0.2.9.1-py3-none-any.whl": [
           "dfd6814c8b16b5ab42342c44ecd802757935eb1e4a62e5ce65f7e57c8301110c",
+          "py3"
+        ]
+      }
+    },
+    "0.2.9.4": {
+      "sdist": [
+        "aea39ec34ae7efb8298b068d5d5f1e19f6e5c73bfc0b73f6091b9abf1d32fcb7",
+        "mixsimulator-0.2.9.4.tar.gz"
+      ],
+      "wheels": {
+        "mixsimulator-0.2.9.4-py3-none-any.whl": [
+          "605d23818b6db441aade975a3edb3935a8f4b0853af2886839c732d70ea83f22",
           "py3"
         ]
       }
@@ -58208,18 +58168,6 @@
     }
   },
   "polynomial-regression": {
-    "0.0.1": {
-      "sdist": [
-        "4fb6300520f92b195a6806be0c92711832a1b81a77807a5cc95f09603e871e73",
-        "polynomial_regression-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "polynomial_regression-0.0.1-py3-none-any.whl": [
-          "02aff0266da8a8565173ffcae6449621d23e413d8d406d490f9ef27ff07c8f25",
-          "py3"
-        ]
-      }
-    },
     "0.0.2": {
       "sdist": [
         "73cba67971a882224ca0bb2094c5ff8fe447ab8f31221ad4dca0df1ef689c990",
@@ -66130,6 +66078,18 @@
       "wheels": {
         "pyWAPOR-1.1.1-py3-none-any.whl": [
           "5b032991917355cb29382c36fe9b178b7e42cf2ad445c6e8046ae06447e33afd",
+          "py3"
+        ]
+      }
+    },
+    "1.1.10": {
+      "sdist": [
+        "72fb6a5a6e3bf332e6cfe16edf8ae4bc929444d395ed8c4a6a5b3f45553ef60a",
+        "pyWAPOR-1.1.10.tar.gz"
+      ],
+      "wheels": {
+        "pyWAPOR-1.1.10-py3-none-any.whl": [
+          "80517ab23ff42c98866c09932dd808a29484122285f96372c6d68ecc447a5355",
           "py3"
         ]
       }

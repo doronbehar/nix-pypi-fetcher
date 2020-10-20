@@ -5747,6 +5747,20 @@
       ]
     }
   },
+  "audeer": {
+    "1.6.1": {
+      "sdist": [
+        "396c8a6daa44018cfc93608da2e5aadea181cd570cd90f1f1df54175e53be0f3",
+        "audeer-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "audeer-1.6.1-py3-none-any.whl": [
+          "27a7ded0a13294087dc8354188c103cee50556057590979e5c9ab7e91fb53205",
+          "py3"
+        ]
+      }
+    }
+  },
   "autofocus-client-library": {
     "1.3.0": {
       "wheels": {
@@ -8456,6 +8470,18 @@
       "wheels": {
         "biobb_chemistry-3.0.1-py3-none-any.whl": [
           "b7f5c77b1995308ccdc99ad874195bf7e7bd84354302083d4c2d420e773c116f",
+          "py3"
+        ]
+      }
+    },
+    "3.0.2": {
+      "sdist": [
+        "cfac60c65e998ac024355bb53f200745c2d5c8a3fd02df9b4906125ff5b2c8ce",
+        "biobb_chemistry-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "biobb_chemistry-3.0.2-py3-none-any.whl": [
+          "37a884b1bca128bb8d932f564a473d44a9691a6d53cdc78eba34eebe11aace56",
           "py3"
         ]
       }
@@ -11836,6 +11862,18 @@
       "wheels": {
         "coax-0.1.3-py3-none-any.whl": [
           "64a21dc556bc4c08c15c7db6142cba02a41f5c4f5b4aa800454c917aaa3e6f56",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "fad9032282e722245e857c131d6d15f3bc5ffe5bdca1089031822f84a9c4a609",
+        "coax-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "coax-0.1.4-py3-none-any.whl": [
+          "39dd168ccf8d5555a29596eb8101f7a9011f58af3075d237f9a90fd1c643fa63",
           "py3"
         ]
       }
@@ -30732,6 +30770,18 @@
         ]
       }
     },
+    "0.1.13": {
+      "sdist": [
+        "9789b9fca8c61a167a12c4831ac2f6fbf7f62ab6eb42fa88a4c06e4f65c25749",
+        "itly-plugin-iteratively-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "itly_plugin_iteratively-0.1.13-py3-none-any.whl": [
+          "5e553c1bcab320c1191a32aabb8f0b7743ae62cf5ba693456e8c0ad242ac1376",
+          "py3"
+        ]
+      }
+    },
     "0.1.9": {
       "sdist": [
         "5f93c9589a3f2359536d1970a0a914fe268dc2b10e94a01d3ac832c993f6501e",
@@ -38794,12 +38844,6 @@
     }
   },
   "mockit": {
-    "0.1": {
-      "sdist": [
-        "3c2b1b6348f38b5fa4db17ea1cb541a798db3315c2d72ccef461dc77cc4e02ff",
-        "mockit-0.1.tar.gz"
-      ]
-    },
     "0.2": {
       "sdist": [
         "ad84acc358bee294eb28892a3535ad624d6a05f64b047285b50415f4e17e4895",
@@ -67551,6 +67595,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.274": {
+      "sdist": [
+        "b4e81ccdee090956099f913afb8de04ba25fdad4cfc87a3c8a60ad2297665f83",
+        "tencentcloud-sdk-python-tci-3.0.274.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.274-py2.py3-none-any.whl": [
+          "13e8c64482cdbae1aec50fc9ce08d7bd5c11cc2a667ab90eb731f375401d83dc",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-io-2.0-preview": {
@@ -77334,6 +77390,34 @@
         ],
         "tfq_nightly-0.4.0.dev20201019-cp38-cp38-manylinux2010_x86_64.whl": [
           "1a55493d8b5671c522476589ad26fcabe9226a59ff6339b7b13922564d4460ef",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.0.dev20201020": {
+      "wheels": {
+        "tfq_nightly-0.4.0.dev20201020-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "39e436fbc23326d315ca34c803e30ffff5ea61dbeaa9cac5573a4e7e418a50c3",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20201020-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "69d3c3500afe303251c407fd90793171e528d6ce29dc458deac6b41ef44b4bf3",
+          "cp36"
+        ],
+        "tfq_nightly-0.4.0.dev20201020-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "47518fdc622349d96f782fcf1d257bd1c08f4fe2fb9993c62544a2387d679f55",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20201020-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "cc4ee269890316ff9657092cb726f47ed7b0374ab55d140a3cb91262022e21f7",
+          "cp37"
+        ],
+        "tfq_nightly-0.4.0.dev20201020-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "6fc64eec23c9954936ed6ec4491e90a7291d955a7329bb19851e20e372cf84b9",
+          "cp38"
+        ],
+        "tfq_nightly-0.4.0.dev20201020-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a501ee2f47f847c221763968d2668f39aebeffe07496c78a540f6991aa7d9407",
           "cp38"
         ]
       }
