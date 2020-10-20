@@ -5848,6 +5848,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "78894f1d15eb1d3c3d30f400c410536c766f2a4ae42b15b3084d94f923a6acb8",
+        "aws-cdk.aws-emr-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emr-1.69.0-py3-none-any.whl": [
+          "08d886c4457499ee8c93ff8a3e900f1e7df798ef11f99192f0d3f4ee5b5959b2",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "603bcc8f94bc3d6f0c7bab18ec1fd1de44706552615704c0802fbb5317910c0c",
@@ -24927,32 +24939,6 @@
       }
     }
   },
-  "eukulele": {
-    "0.0.1": {
-      "sdist": [
-        "6298711a799e7f1ca0da0d7ef8403de4b2e84824520fe73237d7c7382a6cc09a",
-        "EUKulele-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "EUKulele-0.0.1-py3-none-any.whl": [
-          "fc6dcc8df3b5d972ec7cfb6a5a46ceeb1aa075113b414e5c4c924f9e42e566b5",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "5a1fef57fcb8d7e7c54d2e51c7d27a20632aed9b47d5895f3c6cb2e5b13d5eb4",
-        "EUKulele-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "EUKulele-0.0.2-py3-none-any.whl": [
-          "d570ca09c128f41a5910b151d60c06ce36d10d8bc43c4f709fe7bb32dfc254da",
-          "py3"
-        ]
-      }
-    }
-  },
   "eve-sqlalchemy": {
     "0.1": {
       "sdist": [
@@ -25894,48 +25880,6 @@
     }
   },
   "faster-than-requests": {
-    "0.1": {
-      "sdist": [
-        "5d4636f9ffc26c811f5b45d4a7b696520d6135be70aeb3010b6a33f442afb3fe",
-        "faster_than_requests-0.1.zip"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "63c65af9002bb9bc5988e7389260b5aae4a907d1e04be8b0ebbb0bf6db8c61fa",
-        "faster_than_requests-0.5.zip"
-      ]
-    },
-    "0.9.2": {
-      "sdist": [
-        "32709ed55c201aa4712f30225f5226ca8fcc9c33db8f7628179fb237c7952e7b",
-        "faster_than_requests-0.9.2.zip"
-      ]
-    },
-    "0.9.6": {
-      "sdist": [
-        "9a4eb658a74278f7ee9bb9dee074020730a5c888d42697f80aaa644b79cbe053",
-        "faster_than_requests-0.9.6.zip"
-      ]
-    },
-    "0.9.8": {
-      "sdist": [
-        "5d0c2c49f7258d8ac944272270d9cf1cb172577f65f894735bfe0fd15c1913ac",
-        "faster_than_requests-0.9.8.zip"
-      ]
-    },
-    "0.9.9": {
-      "sdist": [
-        "b1ee51521efbe6d700a28ed653fde1f5b309aa8dc8012472457bcffef7713095",
-        "faster_than_requests-0.9.9.zip"
-      ]
-    },
-    "1.0": {
-      "sdist": [
-        "dd32d7a499a013b8c6e9f2cb4b6158e8df42c6335a3cd2441ec75f15c0dc57f8",
-        "faster_than_requests-1.0.zip"
-      ]
-    },
     "20.08.30": {
       "sdist": [
         "3054b89557bbbec8d22b669943f898b5ef71d7c11f287d9e9b71a45b7aaeee7b",
@@ -25952,6 +25896,12 @@
       "sdist": [
         "e9d08cd824ced57b940eb3fec2b3b1c221de86efe5fc575b6b495c283c80116b",
         "faster_than_requests-57c7862.zip"
+      ]
+    },
+    "20.10.19": {
+      "sdist": [
+        "24f9b9d9fb81dbfac8af4ff3672bed0d99b566e7d64f4efeb8bf96932a4700d4",
+        "faster_than_requests-3572925.zip"
       ]
     }
   },
@@ -61832,6 +61782,14 @@
         ]
       }
     },
+    "4.19.13": {
+      "wheels": {
+        "shyft-4.19.13-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ea09f4fd178f888bd428554e077ad6fdf2bae9099947d70a479ebafae3387b6c",
+          "cp37"
+        ]
+      }
+    },
     "4.19.2": {
       "wheels": {
         "shyft-4.19.2-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -73830,6 +73788,54 @@
       "wheels": {
         "tornado_bunny-0.1.0-py2.py3-none-any.whl": [
           "5d9c5f1404dba0c77b1cb163a724a6fa88153d498668d35c97a12f38aec283a0",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "1501759fd9f31d4bfe6333130900ef0d490fd9632e59bbee1a9f1a7b64bb76e7",
+        "tornado_bunny-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "tornado_bunny-1.0.2-py2.py3-none-any.whl": [
+          "e192b7b2f5ea38145899ec7e3db5f7857c3ee91dd78196f517f535c53e319c18",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "deb1baf1d78ef4b84d6c2031ab77295f834b682e0006786084377baa7a38d88f",
+        "tornado_bunny-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "tornado_bunny-1.0.4-py2.py3-none-any.whl": [
+          "f4aefd71e0d26e2ff9f9bee493b9029b22eebe2afa53b6e18fa98cf8058b74ed",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "09d5d4a9a5d08e149dd1252eff644d6838991a8d7d546e6895b6aec712092b8f",
+        "tornado_bunny-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "tornado_bunny-1.0.5-py2.py3-none-any.whl": [
+          "0aa7309715721df491d098d38f4514636e4894e647fd350bf13e6b6c38422bb2",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "93e79d234a4da036afe6a241e5fb240598b5378ad83dead322729fbebeabc63c",
+        "tornado_bunny-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "tornado_bunny-1.0.6-py2.py3-none-any.whl": [
+          "7748adcefa3820f4e741986741e204f45906896bd50c02b0c429205fa06f1035",
           "py2.py3"
         ]
       }

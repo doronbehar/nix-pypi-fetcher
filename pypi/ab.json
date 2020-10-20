@@ -9784,6 +9784,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "7469b239e49d6e5b40acdd9ef03079068b283c54f3841c10913314904f66acab",
+        "aws-cdk.aws-codestar-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestar-1.69.0-py3-none-any.whl": [
+          "03c970f9ebc4d676f6316087323d8aeba4fc3ce4e0c215449c541e200fc7524a",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "e3a9424f55503e3e9fcc8da79f5099f062a03a43d10ddba4261dad0b029b7033",
@@ -10994,6 +11006,18 @@
       "wheels": {
         "aws_cdk.aws_events_targets-1.68.0-py3-none-any.whl": [
           "6934393b5e866e4dd0b2e72f7feecff49bba66eac3220c4cabd5daf550361335",
+          "py3"
+        ]
+      }
+    },
+    "1.69.0": {
+      "sdist": [
+        "5094af55fe01037c4490f7666029e1a271a2b0e4f16c03e7ce6336e877cda176",
+        "aws-cdk.aws-events-targets-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_events_targets-1.69.0-py3-none-any.whl": [
+          "f6305e7a810bba4c26f2cc8cf4fe432de8b293b5f1c0b682cc2eedd10c248991",
           "py3"
         ]
       }
@@ -12978,6 +13002,20 @@
       "wheels": {
         "BDPapi-0.1.0-py3-none-any.whl": [
           "8e59179d13a9ed4ed237ff06739b84cb724d39bde237728ebe18b4a2904e8961",
+          "py3"
+        ]
+      }
+    }
+  },
+  "beanmachine": {
+    "0.0.1a1": {
+      "sdist": [
+        "726429e560cd8758d62dcf5325788497db69c84b385360825641de7696bea94b",
+        "beanmachine-0.0.1a1.tar.gz"
+      ],
+      "wheels": {
+        "beanmachine-0.0.1a1-py3-none-any.whl": [
+          "471c8c680039998f45d51ff1f6eb8801b2071d553e6795ee3a0bb9e32f0a4466",
           "py3"
         ]
       }
@@ -34489,6 +34527,32 @@
       }
     }
   },
+  "getadvicetest": {
+    "0.0.2": {
+      "sdist": [
+        "ff3e700bb464e22b02081445a76e65f1075295fa7844cd5b87ab5879364d8753",
+        "getadvicetest-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "1b899b7a457d50a96d08ba0965e86571c4f5dab705d8f522d9b08dc4c80c72d2",
+        "getadvicetest-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "f735acaf4de5ca2cc44be240a5a0afe9df28a1f50c6153d6610ee3d0dbf9227f",
+        "getadvicetest-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "2236346de0a10dcc5641e52b7fabebdd83d49b0f0d2b6ca0c7864b53cd0039b3",
+        "getadvicetest-0.0.5.tar.gz"
+      ]
+    }
+  },
   "getarticle-dev": {
     "0.0.1": {
       "sdist": [
@@ -47253,6 +47317,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "f9a81fda24c11cdb051de19f27e890010473e7a1d7cc0765ede7dc47d0a3693c",
+        "mypy-boto3-resourcegroupstaggingapi-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_resourcegroupstaggingapi-1.16.0.0-py3-none-any.whl": [
+          "5cca7914d2a87885571868fea33967f03e0501ebac2a01d1eef82899f73b4312",
+          "py3"
+        ]
+      }
     }
   },
   "mythos-data": {
@@ -49144,6 +49220,12 @@
       "sdist": [
         "f5708f19d4a35cf06a1c4b1b717c0e048972ba67d90219156c9d7f021a34e395",
         "object-diff-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "2f8bec7ce65815ef8be566d144bd144f914a2fdb5f6a2973fb7f8f64795df5aa",
+        "object-diff-0.2.0.tar.gz"
       ]
     }
   },
@@ -51547,6 +51629,28 @@
         "af65c2694b9ba18a40b50d7d14e1d2db8d6c45d37fe41ac4d2e4454c38c1e10b",
         "openexchangerates-0.1.1.tar.gz"
       ]
+    }
+  },
+  "openstudio": {
+    "3.1.0": {
+      "wheels": {
+        "openstudio-3.1.0-cp37-cp37m-win_amd64.whl": [
+          "f2289074fc19251bf615da1be1a94faeff24fb6c2add5fdabfd1d0fdf50b67f4",
+          "cp37"
+        ],
+        "openstudio-3.1.0-cp38-cp38-win_amd64.whl": [
+          "3c21f93e4633ea1cbce7cb93eceb4c84b26182045a32e386c8aeda2a0643d3d1",
+          "cp38"
+        ],
+        "openstudio-3.1.0-py3-none-macosx_10_9_x86_64.whl": [
+          "4e25048b8ba1109cd876bb39a87042e525849e2bf088c22e1535c37c3b6bae6c",
+          "py3"
+        ],
+        "openstudio-3.1.0-py3-none-manylinux1_x86_64.whl": [
+          "1e6a3667d489ac03966c84487c5719bfb96c3978e49021849c3d01be9a4da060",
+          "py3"
+        ]
+      }
     }
   },
   "orange3-mne": {
@@ -72396,6 +72500,30 @@
       "wheels": {
         "tablecrow-1.0.0-py3-none-any.whl": [
           "150460e951ac122b7cd035b924b31abaa3ae2d873e230278dc5e04690fc8fcf3",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "8070ccfb7ab5aa6ce7cb07d956517c3bd7692a1f571bdf879e7443f5f7f3f3bd",
+        "tablecrow-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "tablecrow-1.0.1-py3-none-any.whl": [
+          "323eeb2ec8d99885f87f43b5f767b88936b5da3cd4dfd5f16fa74f06da9aa172",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "743e44d6dc9f9bd2ded54247a8e342c7f470b6c602be0c4c514b491cff0c263a",
+        "tablecrow-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "tablecrow-1.0.2-py3-none-any.whl": [
+          "d24bba3df2c1e480154afc8f46819cad1ad9b777f345fa658d8f453ff1e83b53",
           "py3"
         ]
       }

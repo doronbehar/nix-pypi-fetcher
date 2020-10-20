@@ -3938,6 +3938,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "be10ed1074544b127288789daa85df6330e103f07dafbca531a4f0263205be13",
+        "aws-cdk.aws-lambda-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda-1.69.0-py3-none-any.whl": [
+          "909d381e9c633b6b8239e34b031a4197df7ee58404a9901a8b31db7130344fea",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "199d0da0f100c5beca60d9d23401e8a68f4a208cb84143a0ec06c81edbdde50e",
@@ -5176,6 +5188,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "6b58d2ffce387d86f4372407b8d6e4f8c597c0d6d3c420414e45fa5bbe91d2e0",
+        "aws-cdk.aws-s3-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3-1.69.0-py3-none-any.whl": [
+          "4980a97582549a0e627f8fc088e12a7022ac680db48e4d37c553b4b36eaea0e4",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "ae2e46c7f55b93708c075fa3fda9063857e698336c94066d1c9f8f2a256667a1",
@@ -6410,6 +6434,18 @@
       "wheels": {
         "aws_cdk.aws_ses-1.68.0-py3-none-any.whl": [
           "f31683c0ae3ba09d6b83346b147e8a48873381afbd3cae98783ef0f46b64acdc",
+          "py3"
+        ]
+      }
+    },
+    "1.69.0": {
+      "sdist": [
+        "546460be9667d0661c6be09cdee2388a0b4e5b697b38110e17fa5b13057f42ea",
+        "aws-cdk.aws-ses-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ses-1.69.0-py3-none-any.whl": [
+          "b269fe5b28caf033053e8e7876bcec4222a7ac6c42a44c36f27df9d647eb2d14",
           "py3"
         ]
       }
@@ -41247,6 +41283,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "e22b19b77fb1a6326a46fb04783b85a6dc6cda45214ad9600b2540bdbc069b89",
+        "mypy-boto3-devicefarm-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_devicefarm-1.16.0.0-py3-none-any.whl": [
+          "7fe991e5bbf720f4c9838145d77eda915510705afad7ce956554d8f1903a8b4b",
+          "py3"
+        ]
+      }
     }
   },
   "mysqlbinlog2gpubsub": {
@@ -47849,6 +47897,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "ec9d8e149e6086d469db9a5adfc4e278332e004c3be8c6facb7540ad9c7497aa",
+        "prettypyplot-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "prettypyplot-0.5.0-py3-none-any.whl": [
+          "f5c696d0554291b7dfe50316fa12debb150182adcbf38a4f3d561725580cd66c",
+          "py3"
+        ]
+      }
     }
   },
   "princeton": {
@@ -50762,6 +50822,106 @@
         ],
         "pyarrow-1.0.1-cp38-cp38-win_amd64.whl": [
           "6cfa927b7ab068146dc4e7055e6857b087c0abe2f6b08d784c94e229ca430d3c",
+          "cp38"
+        ]
+      }
+    },
+    "2.0.0": {
+      "wheels": {
+        "pyarrow-2.0.0-cp35-cp35m-macosx_10_13_intel.whl": [
+          "6afc71cc9c234f3cdbe971297468755ec3392966cb19d3a6caf42fd7dbc6aaa9",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp35-cp35m-macosx_10_9_intel.whl": [
+          "eb05038b750a6e16a9680f9d2c40d050796284ea1f94690da8f4f28805af0495",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "3e33e9003794c9062f4c963a10f2a0d787b83d4d1a517a375294f2293180b778",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "ffb306951b5925a0638dc2ef1ab7ce8033f39e5b4e0fef5787b91ef4fa7da19d",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "dc0d04c42632e65c4fcbe2f82c70109c5f347652844ead285bc1285dc3a67660",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp35-cp35m-win_amd64.whl": [
+          "916b593a24f2812b9a75adef1143b1dd89d799e1803282fea2829c5dc0b828ea",
+          "cp35"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "c801e59ec4e8d9d871e299726a528c3ba3139f2ce2d9cdab101f8483c52eec7c",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "0bf43e520c33ceb1dd47263a5326830fca65f18d827f7f7b8fe7e64fc4364d88",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0b358773eb9fb1b31c8217c6c8c0b4681c3dff80562dc23ad5b379f0279dad69",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "1000e491e9a539588ec33a2c2603cf05f1d4629aef375345bfd64f2ab7bc8529",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "ce0462cec7f81c4ff87ce1a95c82a8d467606dce6c72e92906ac251c6115f32b",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp36-cp36m-win_amd64.whl": [
+          "16ec87163a2fb4abd48bf79cbdf70a7455faa83740e067c2280cfa45a63ed1f3",
+          "cp36"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "acdd18fd83c0be0b53a8e734c0a650fb27bbf4e7d96a8f7eb0a7506ea58bd594",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "9a8d3c6baa6e159017d97e8a028ae9eaa2811d8f1ab3d22710c04dcddc0dd7a1",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "652c5dff97624375ed0f97cc8ad6f88ee01953f15c17083917735de171f03fe0",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "00d8fb8a9b2d9bb2f0ced2765b62c5d72689eed06c47315bca004584b0ccda60",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "fb69672e69e1b752744ee1e236fdf03aad78ffec905fc5c19adbaf88bac4d0fd",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp37-cp37m-win_amd64.whl": [
+          "ccff3a72f70ebfcc002bf75f5ad1248065e5c9c14e0dcfa599a438ea221c5658",
+          "cp37"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "bc8c3713086e4a137b3fda4b149440458b1b0bd72f67b1afa2c7068df1edc060",
+          "cp38"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9f4ba9ab479c0172e532f5d73c68e30a31c16b01e09bb21eba9201561231f722",
+          "cp38"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "0db5156a66615591a4a8c66a9a30890a364a259de8d2a6ccb873c7d1740e6c75",
+          "cp38"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cf9bf10daadbbf1a360ac1c7dab0b4f8381d81a3f452737bd6ed310d57a88be8",
+          "cp38"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "dd661b6598ce566c6f41d31cc1fc4482308613c2c0c808bd8db33b0643192f84",
+          "cp38"
+        ],
+        "pyarrow-2.0.0-cp38-cp38-win_amd64.whl": [
+          "14b02a629986c25e045f81771799e07a8bb3f339898c111314066436769a3dd4",
           "cp38"
         ]
       }
@@ -56810,6 +56970,12 @@
       "sdist": [
         "69c7c55544dd29306664807c41c206acc57e884cd5bedce05f86c7f4e0be7834",
         "qsimcirq-0.4.1.tar.gz"
+      ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "e7eff42575b09d8e45b2b1427fcc0236381e187475feff1a995ffddfec9328d4",
+        "qsimcirq-0.5.0.tar.gz"
       ]
     }
   },

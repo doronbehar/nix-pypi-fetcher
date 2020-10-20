@@ -4783,6 +4783,18 @@
           "py3"
         ]
       }
+    },
+    "1.69.0": {
+      "sdist": [
+        "f1ecca3d7e5a0f9e89e7bec2807ecdd7b51e6c7037abee2c2e65b9b96340ac47",
+        "aws-cdk.cdk-assets-schema-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cdk_assets_schema-1.69.0-py3-none-any.whl": [
+          "30ea575ff232853c4f3fbb0da936e17cd0adbf2ca1139ff5654c416b5e8528cb",
+          "py3"
+        ]
+      }
     }
   },
   "aws-custom-json-manager": {
@@ -7156,6 +7168,18 @@
       "wheels": {
         "boofuzz-0.2.0-py3-none-any.whl": [
           "bb321221777fdea9b15a51ed1321fa622e025b0a8869024a5a2bb926d5a69f71",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "6b6f25400d682b2a65472f079de235ab483d8945c0c1d9717baf821866a9716b",
+        "boofuzz-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "boofuzz-0.2.1-py3-none-any.whl": [
+          "f66ac34ee3d4a4c1e6e507afec987b23786e57113eb883be0413dd141fa9900b",
           "py3"
         ]
       }
@@ -13910,6 +13934,10 @@
           "9ecbb0568ca3b1aeca21c8cf95050f4c5135ce7cb2466f6cb4d47b3b3d692796",
           "cp36"
         ],
+        "diplib-3.0b7-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "534d2d408405054820776997329912c445826f8aa58b41d2110eb5d5a530cf04",
+          "cp37"
+        ],
         "diplib-3.0b7-cp37-cp37m-manylinux2010_x86_64.whl": [
           "ac51061b58227e553583f1a19ff79dbb18571cadb070707cd5c928996cd9dc0f",
           "cp37"
@@ -13917,6 +13945,10 @@
         "diplib-3.0b7-cp37-cp37m-win_amd64.whl": [
           "59e34cbd094d57cf39ceaa84e9133fcf0ca702144dfe1e8e05937b4304226437",
           "cp37"
+        ],
+        "diplib-3.0b7-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ad712bae51faa4bae37e86a8c3c7d928739b5fca149617ec445dcadc26d72ed1",
+          "cp38"
         ],
         "diplib-3.0b7-cp38-cp38-manylinux2010_x86_64.whl": [
           "87354690ee1d2290548d9937d788641fb5bd660c4ec33d172a6cea2a2aa5f350",
@@ -32607,6 +32639,66 @@
           "cp38"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "e5edc3d9040af134a82f21ddb442482f35e9b4125941ecb6a7d3b6ae19e325f2",
+        "libpymath-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "libpymath-0.6.1-cp35-cp35m-macosx_10_9_intel.whl": [
+          "b7ebee0e64b3009b3fbc2164df361926c3974990594a944b0e3e00ceb00c5031",
+          "cp35"
+        ],
+        "libpymath-0.6.1-cp35-cp35m-manylinux1_i686.whl": [
+          "c52bd40880286e50490a255e308e42630db30960381fcfb968ecf7dcfed592e6",
+          "cp35"
+        ],
+        "libpymath-0.6.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "c8d70de385ac59d63d549974b2ddb8f2554f4843c61ebfc57ad1cf8504379605",
+          "cp35"
+        ],
+        "libpymath-0.6.1-cp36-cp36m-macosx_10_9_intel.whl": [
+          "4cb476a79d51b1800c3bc21b73a41220558bd0b897127a725a35d6c4a2b99cef",
+          "cp36"
+        ],
+        "libpymath-0.6.1-cp36-cp36m-manylinux1_i686.whl": [
+          "8d349238784fb618b590c72f87241eace55652e8d88106b979d72f0440ce6f85",
+          "cp36"
+        ],
+        "libpymath-0.6.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "64387fb2e0574e9ca66c1944d188e9a1e52bd2b7696b7475b01776c919e04506",
+          "cp36"
+        ],
+        "libpymath-0.6.1-cp37-cp37m-macosx_10_9_intel.whl": [
+          "29f07078d6fd1aa22e207a1e87e5ca473225b150fec085d4a2abffddbdbdd30c",
+          "cp37"
+        ],
+        "libpymath-0.6.1-cp37-cp37m-manylinux1_i686.whl": [
+          "85edbfb8c430cb90690e46f90bc5f411a8ecd5a1a0978c1edf61f326b08d2ac2",
+          "cp37"
+        ],
+        "libpymath-0.6.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "f9887d66e147e803c8331b32aa353a09b2e4dad721219cf7e86ac5e4abbecb88",
+          "cp37"
+        ],
+        "libpymath-0.6.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "678cfc9becc7d4cf21eb202e5df4290971dd66da735f367cc79f6b48b1fdb510",
+          "cp38"
+        ],
+        "libpymath-0.6.1-cp38-cp38-manylinux1_i686.whl": [
+          "b63ca9af49e72dd30ffdb93f69a3c23cca4d0ab1717cc7ac78e1f83a29def8bd",
+          "cp38"
+        ],
+        "libpymath-0.6.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "4fb83cbb69360adb60a143fdc3b19a781a2281837658724b3af12ad2cfdebc37",
+          "cp38"
+        ],
+        "libpymath-0.6.1-cp38-cp38-win_amd64.whl": [
+          "7b78226ab411bc6d20306a4312195405eea16cbdcf719ece5acef1c0e7cb8364",
+          "cp38"
+        ]
+      }
     }
   },
   "libpynix": {
@@ -40835,6 +40927,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "48c44b93787757adacd090904ead714717422200c1f762d138d5f218d6d59e20",
+        "mypy-boto3-eks-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_eks-1.16.0.0-py3-none-any.whl": [
+          "556290617ed4f1616691c709ca0e16a502662417ce41fc9323020a4abd727c54",
+          "py3"
+        ]
+      }
     }
   },
   "myseg": {
@@ -44876,6 +44980,12 @@
       "sdist": [
         "9b7f7714bb6d72d6b762f3ee568abf3cf80c68a77bdfe5b77174265f98d55490",
         "omfit_transp-0.0.0.0.0.0.0.tar.gz"
+      ]
+    },
+    "2020.10.19.12.24": {
+      "sdist": [
+        "e51bd618d4b1c623e05a7fdb99d1811c7807ae125a425c4beefdebb5129e2ceb",
+        "omfit_transp-2020.10.19.12.24.tar.gz"
       ]
     },
     "2020.10.5.7.13": {
@@ -60593,6 +60703,30 @@
           "py3"
         ]
       }
+    },
+    "2020.10.19b3": {
+      "sdist": [
+        "d37b43e47731da61eff94d62f166a66525bba631db05ab73ef3e81cb493192b4",
+        "sphinx_inline_tabs-2020.10.19b3.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_inline_tabs-2020.10.19b3-py3-none-any.whl": [
+          "17bca2a640fc81840cc2fccb3b0289bb48279274717ba0249936f595136a7322",
+          "py3"
+        ]
+      }
+    },
+    "2020.10.19b4": {
+      "sdist": [
+        "d1e0d18af2011820e4c49429bcf1d2b392a1262fb01ebb8520e3b45ab2db57e4",
+        "sphinx_inline_tabs-2020.10.19b4.tar.gz"
+      ],
+      "wheels": {
+        "sphinx_inline_tabs-2020.10.19b4-py3-none-any.whl": [
+          "73af2770e9b5390df4f01fac74a25f46e066e7a214d5c919d16e34a7751566e3",
+          "py3"
+        ]
+      }
     }
   },
   "spikesorting-tsne": {
@@ -62357,6 +62491,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "wheels": {
+        "streamlit_pandas_profiling-0.0.6-1-py3-none-any.whl": [
+          "a139c9ac70e49bef21c0166e765b54872d8bd9ce27be6e7d91a3394180c69d39",
+          "py3"
+        ]
+      }
     }
   },
   "stressant": {
@@ -62612,6 +62754,12 @@
       "sdist": [
         "f9a3270110681f713b6349136d243e50132887b93ed1a77a29d93a3b435f6ca8",
         "SurfaceTopography-0.91.4.tar.gz"
+      ]
+    },
+    "0.91.5": {
+      "sdist": [
+        "0500192ae54a8028c0f51e74ae5f9d1144b4f674ba0122aeb540bad89b3774d4",
+        "SurfaceTopography-0.91.5.tar.gz"
       ]
     }
   },

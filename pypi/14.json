@@ -4884,6 +4884,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "0bbc87f2736c6940ffb1c6d45662f0f25390838bf1d0b28262a1c5d06291a6dc",
+        "aws-cdk.aws-appstream-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appstream-1.69.0-py3-none-any.whl": [
+          "e4e8385f8d537c198daa6e4185cf4c5ed5727cacb7306773940c3e07deffb8a6",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "c9fd977cff353ce5afe8f2346961c434069163bdd7207fdd3a4ebcca94b32076",
@@ -5446,6 +5458,18 @@
       "wheels": {
         "aws_cdk.cloud_assembly_schema-1.68.0-py3-none-any.whl": [
           "8a83fa32f2cc61aab626fad367fa3ca93ac95fc96cb23bebac54a721e7e0f028",
+          "py3"
+        ]
+      }
+    },
+    "1.69.0": {
+      "sdist": [
+        "59ce59650a843a4df716776100b4aec8613a2c34acaf0bb55ed0804dd9167658",
+        "aws-cdk.cloud-assembly-schema-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cloud_assembly_schema-1.69.0-py3-none-any.whl": [
+          "853d6243a2b0badea0fd431a9ca19741870df6e66995f8d22a8383097beef965",
           "py3"
         ]
       }
@@ -34311,6 +34335,14 @@
       }
     }
   },
+  "gunjanbasiccalculator": {
+    "0.0.1": {
+      "sdist": [
+        "713585411e20d2a396a31395a3872dd1534124b441ff03259922db9c3f8b5582",
+        "gunjanbasiccalculator-0.0.1.tar.gz"
+      ]
+    }
+  },
   "gwaportalpipeline": {
     "0.2.0": {
       "sdist": [
@@ -36917,6 +36949,30 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "959609ace2bb7979c30f88212bb8edc37a700181606fb32eb1966a8607388a3f",
+        "jetblack-datagram-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "jetblack_datagram-0.4.0-py3-none-any.whl": [
+          "f8be2f35932d93dfea986f1998b26f97eca94a4fe9ecffba3fae6ac5dccb350b",
+          "py3"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "30af74180e77c8fc311ded02150d8fa766d14ece7e8fad96dd348eaabbd77c18",
+        "jetblack-datagram-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "jetblack_datagram-0.4.1-py3-none-any.whl": [
+          "ed3f90645db983c6cf790337392a045a847ad68f60e631bf6f898dd19be40cef",
+          "py3"
+        ]
+      }
     }
   },
   "jfnester": {
@@ -39040,20 +39096,52 @@
     },
     "1.5.1": {
       "wheels": {
+        "libasd-1.5.1-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "350b79c66189edec1420af6979cd14c377f79fc0343d68bf5e94dc4a8d6124d5",
+          "cp36"
+        ],
         "libasd-1.5.1-cp36-cp36m-manylinux1_x86_64.whl": [
           "a8a9ca5dd58435a2f1af556015b82718b06fd52fcbb21bce560bc1c6c5dfd608",
           "cp36"
+        ],
+        "libasd-1.5.1-cp36-cp36m-win_amd64.whl": [
+          "fbfc8053bf5a5210b37364af9d73f4c63031eb5835882eab18993bbf51def498",
+          "cp36"
+        ],
+        "libasd-1.5.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "1e8714f0d70a15c0d628aeaa2189073512b0d9bde03e6fbf2d2d7819f83feb0c",
+          "cp37"
         ],
         "libasd-1.5.1-cp37-cp37m-manylinux1_x86_64.whl": [
           "12c3b02c384473b373ba45d6a65f193d9c9315b3f1be48695d5d7817ce62a79b",
           "cp37"
         ],
+        "libasd-1.5.1-cp37-cp37m-win_amd64.whl": [
+          "802489e000d9f2125dc9c2edb62a1abc0b2288358f340d77a31e338a6e7b0598",
+          "cp37"
+        ],
+        "libasd-1.5.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "384f59da4e2c9d8092fb29e72cf519b24ebd7a337b4dec2fd5d53a7bdf8b4a29",
+          "cp38"
+        ],
         "libasd-1.5.1-cp38-cp38-manylinux1_x86_64.whl": [
           "5039357b7064e64e74ac1e1043122c2b0abba7053f4fcaefabe4bcbf1aedff22",
           "cp38"
         ],
+        "libasd-1.5.1-cp38-cp38-win_amd64.whl": [
+          "d634d35c3dfea8400282fcc476f3726dd1d2f9229e3fb959e73cb03295141996",
+          "cp38"
+        ],
+        "libasd-1.5.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "e46b87511067df5342e1884c3ea2715ead4055552845159c703f91532fc9c25b",
+          "cp39"
+        ],
         "libasd-1.5.1-cp39-cp39-manylinux1_x86_64.whl": [
           "7f69122a156d7db6bbc261407a90478ed403862125c8680a8951c064446197a7",
+          "cp39"
+        ],
+        "libasd-1.5.1-cp39-cp39-win_amd64.whl": [
+          "8bbf707f9012d43660148aab32b59bf4a5c9a56c33b80cbc1ae17f0fbb1c0523",
           "cp39"
         ]
       }
@@ -45549,6 +45637,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "74f7479c32bef1a9a365e5c5e2560b8720f2bc508d62f9de78e8ddf99ee8a4ed",
+        "mypy-boto3-elastictranscoder-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elastictranscoder-1.16.0.0-py3-none-any.whl": [
+          "716a30a4ba65d41f1acfc153744d7c6f9f03c02eae4b71f098fd982988ba9b84",
+          "py3"
+        ]
+      }
     }
   },
   "mypytex": {
@@ -50692,6 +50792,12 @@
       "sdist": [
         "44f2b58627fa139114c7860d62c89cc9651a6f35157caecb0fe8981d3f6777c5",
         "omfit_dir-0.0.0.0.0.0.0.tar.gz"
+      ]
+    },
+    "2020.10.19.12.24": {
+      "sdist": [
+        "97ab6587a02bfdeba7a0c846595389d89198388f91ce1b5f78ba6465e4cba4e7",
+        "omfit_dir-2020.10.19.12.24.tar.gz"
       ]
     },
     "2020.10.5.7.13": {
@@ -66806,6 +66912,18 @@
       "wheels": {
         "scimap-0.4.4-py3-none-any.whl": [
           "fc3e35c913b3fb2f302780a19a47325167983e64bdac3e3e2182176ffae7e4c4",
+          "py3"
+        ]
+      }
+    },
+    "0.4.5": {
+      "sdist": [
+        "5953293952486f6650e024166fd62a5c51f550e0d9fb8c680e8f4af2f44e63ec",
+        "scimap-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "scimap-0.4.5-py3-none-any.whl": [
+          "fae643f5fdff06fac62b314b134c8fa732b17e19aa57817f3617cc8bb2d0667f",
           "py3"
         ]
       }

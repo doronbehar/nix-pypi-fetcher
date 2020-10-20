@@ -5718,6 +5718,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "3c56b3abebee4398e037d511cd6c4ec8e9f2570d647d13df02a0d45db954c81c",
+        "aws-cdk.aws-autoscalingplans-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscalingplans-1.69.0-py3-none-any.whl": [
+          "d17b329c6eea34d6dd7e6832eb6ec718cf1ca09fd3fa2049efa0c7bbe00cec48",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "7f5a5da09b976be448950a760ce5b3b11eceadd0eccbf128277c1082c7ed2a35",
@@ -39883,6 +39895,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "a372f1707c19eb4b6a0829f578c8f9492c3e61d7c07b249e1ca875a5fe7d7dd9",
+        "mypy-boto3-cognito-identity-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cognito_identity-1.16.0.0-py3-none-any.whl": [
+          "6af100e24f25a7979b52d576e577743173fd728568adab8b227b134d13415207",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-kafka": {
@@ -42174,6 +42198,18 @@
       "wheels": {
         "mypy_boto3_kafka-1.15.9.0-py3-none-any.whl": [
           "b2aded6116dd69aa36d846e8afc8450c444d5772bdee90925e9b46a582d608f7",
+          "py3"
+        ]
+      }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "a1c2af5a1d208f4744b3825180a34502eb2b93193f7704bce6e4f77e5c608d6f",
+        "mypy-boto3-kafka-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kafka-1.16.0.0-py3-none-any.whl": [
+          "a0f4c68a0038b150ea4bc20056715725cc403660fccd4342516b6dcef9c287e9",
           "py3"
         ]
       }
@@ -47050,6 +47086,12 @@
       "sdist": [
         "a62d705cc7e35eea3f6c0d513046807707041cb868e6442429c6e9e2c046b86d",
         "omfit_genray-0.0.0.0.0.0.0.tar.gz"
+      ]
+    },
+    "2020.10.19.12.24": {
+      "sdist": [
+        "a1560cf9395bb1f8d959d2f5de82f2db416cea86bff03d7153a9b6dae8c5fe91",
+        "omfit_genray-2020.10.19.12.24.tar.gz"
       ]
     },
     "2020.10.5.7.13": {
@@ -61165,6 +61207,62 @@
           "cp38"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "059a6c2b5a42bd3467aec4852e7c6cadfd8fc9aa2fcd98599497eeb28b26549d",
+        "pydelatin-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pydelatin-0.2.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "e62c062129c535740a06831552f78f9402b65518625d4447a23906d971243e7c",
+          "cp36"
+        ],
+        "pydelatin-0.2.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "a6602686af0607839178c4bc97cd984c86e64289e0f99f218fdfa366064a412c",
+          "cp36"
+        ],
+        "pydelatin-0.2.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "4df433affd354b9f2dacf6e0f5a1570fe4db69dec3f3bb1046fa66e874844347",
+          "cp36"
+        ],
+        "pydelatin-0.2.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "8e370adf4dc40cae845fb85bf172597e98a8f06056efec77256be609290862ce",
+          "cp37"
+        ],
+        "pydelatin-0.2.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "a491fc4a271de8eaf52a17593c961d6c0d18808a97f45986cba234c8449d3fe4",
+          "cp37"
+        ],
+        "pydelatin-0.2.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "5ae5d7c1fbc8867a978360bfcaa339d3c8564212b5a7084813c7421c5a84932e",
+          "cp37"
+        ],
+        "pydelatin-0.2.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "8afd77cb3f134ff006d3febc7400ad7f64d1f5c7d23b9d29b76ec74b2ea10da6",
+          "cp38"
+        ],
+        "pydelatin-0.2.1-cp38-cp38-manylinux2010_i686.whl": [
+          "ba3667947b6586389de2e1df4ac5daba874468485e2bbbc73df7e566c75f66b3",
+          "cp38"
+        ],
+        "pydelatin-0.2.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "79fd5e1a3af9562611213ab4aa4dd21d0b449881a1b73f2627e0d9679b7517cb",
+          "cp38"
+        ],
+        "pydelatin-0.2.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "517b2e1f192eaad10b99696dccbd95755452c14b39a388f946b35139870f6c9d",
+          "cp39"
+        ],
+        "pydelatin-0.2.1-cp39-cp39-manylinux2010_i686.whl": [
+          "e8721212332df78908307332b27173ce813150f83c7e3f4b75fa070321a9e17d",
+          "cp39"
+        ],
+        "pydelatin-0.2.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "130f6fd9029df71b8bceb57709dcefa433b1bc80475ebe32d9d03026fe48a33a",
+          "cp39"
+        ]
+      }
     }
   },
   "pydss": {
@@ -63907,6 +64005,10 @@
         "pytest_parametrized-1.3-py2.py3-none-any.whl": [
           "b3c8e4612ed81785e454d10efd1d294e4fae10ca938b5e42bf8abf687ad3579c",
           "py2.py3"
+        ],
+        "pytest_parametrized-1.3-py3-none-any.whl": [
+          "69f95e358f5c1817e759f272c042c348f51d065b4eb6cbe45e8d3842228d791f",
+          "py3"
         ]
       }
     }
@@ -80657,6 +80759,18 @@
           "py3"
         ]
       }
+    },
+    "1603153250": {
+      "sdist": [
+        "3a5e262c41b4bd21e8d382feeebd20f54ad59c34436c2422f694aaf2d86ebee4",
+        "torchlayers-nightly-1603153250.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1603153250-py3-none-any.whl": [
+          "67ceee3c9fafdc2c4bdb7cb6e03534c6573d1773e39e58bf7530b05b4f0d6cfc",
+          "py3"
+        ]
+      }
     }
   },
   "toxicbuild": {
@@ -83636,6 +83750,18 @@
       "wheels": {
         "wowpy-0.1.3-py3-none-any.whl": [
           "585549acbc0df1e28b2a1c6e705cfff625c45d6348200cfe179b701b8fa2c90f",
+          "py3"
+        ]
+      }
+    },
+    "0.1.30": {
+      "sdist": [
+        "91ab86266472cf9e176146190990514e882584e83a04960e0cfbd645f9c813e5",
+        "wowpy-0.1.30.tar.gz"
+      ],
+      "wheels": {
+        "wowpy-0.1.30-py3-none-any.whl": [
+          "0aedbce6ee0e7d896cf0debf5b0a74b36d4ffae4dcc778b5a0e616e8cb32d208",
           "py3"
         ]
       }

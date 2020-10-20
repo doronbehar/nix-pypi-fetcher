@@ -6146,6 +6146,18 @@
         ]
       }
     },
+    "1.69.0": {
+      "sdist": [
+        "3a8b9bb8b17fa4dfccb8ed8b0278752370ab6355e822d49ab895f7004fc9c19e",
+        "aws-cdk.aws-msk-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_msk-1.69.0-py3-none-any.whl": [
+          "e21ecd25418b543d2d82252a91642817b264721e3be751c0c3c070126ae5e6c7",
+          "py3"
+        ]
+      }
+    },
     "1.7.0": {
       "sdist": [
         "1c10d2ee51d1c1872636c48f653ffd3f2e893f58ef611ba619f353711f9e49f2",
@@ -31004,6 +31016,14 @@
         ]
       }
     },
+    "0.1.14": {
+      "wheels": {
+        "kondunite-0.1.14-py3-none-any.whl": [
+          "ea90b3f3a561eeeaa082e23d2c755beafff4a6b8ba2ed3cd8e4a499dd0f36df2",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "wheels": {
         "kondunite-0.1.5-py3-none-any.whl": [
@@ -41099,6 +41119,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "f617afc1c94d3250fcb954a6ff43ed59ae55694f6c4020a20efc4900e9738ada",
+        "mypy-boto3-glue-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_glue-1.16.0.0-py3-none-any.whl": [
+          "1f54fa2940c29e209f0a50ff28b412c1e12a3539f0e3f29673e8f1f90287c62d",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-machinelearning": {
@@ -43390,6 +43422,18 @@
       "wheels": {
         "mypy_boto3_machinelearning-1.15.9.0-py3-none-any.whl": [
           "a1fb508e81d1fb74240ca308eeef903d52b11fb3ea4a997ab68ae1bf207418b4",
+          "py3"
+        ]
+      }
+    },
+    "1.16.0.0": {
+      "sdist": [
+        "110db9ab2493322e3fd5b8188c296185187c884b01045f21e6d6f89260475210",
+        "mypy-boto3-machinelearning-1.16.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_machinelearning-1.16.0.0-py3-none-any.whl": [
+          "864471748136ce150e1c9f3bdae4c493c514016d72cf5a8f663efaabda6ccc5b",
           "py3"
         ]
       }
@@ -47584,6 +47628,18 @@
       "wheels": {
         "omero_py-5.8.2-py3-none-any.whl": [
           "4bfa8210ef2944804bcb6e1bc571be3026fd360ae7bb84ddd53bde0e927b66cb",
+          "py3"
+        ]
+      }
+    },
+    "5.8.3": {
+      "sdist": [
+        "3371d0a628c2cce9f7891306a65bc9c4b15613c2264a5f221bdc11fb9073883a",
+        "omero-py-5.8.3.tar.gz"
+      ],
+      "wheels": {
+        "omero_py-5.8.3-py3-none-any.whl": [
+          "77b2e4ae86466013b500f30cee2c3b8a164183e5244bc88929a43fcb48eb585d",
           "py3"
         ]
       }
@@ -59213,26 +59269,6 @@
       }
     }
   },
-  "pyslicetools": {
-    "0.1": {
-      "sdist": [
-        "0409426de52975b41eb637b495b54f9e056c299b65690d67a5445e5f57847a08",
-        "PySliceTools-0.1.tar.gz"
-      ],
-      "wheels": {
-        "PySliceTools-0.1-py3-none-any.whl": [
-          "f3a308664805426457460f99696524aa7584902a65ace36b88a57ed35b09b889",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "f6a324645f3c3392942c7f4a0ee2d5a730d73cd4178eb3484cfbd88356367d97",
-        "PySliceTools-0.2.tar.gz"
-      ]
-    }
-  },
   "pyteap": {
     "0.1.0": {
       "sdist": [
@@ -65310,6 +65346,122 @@
         ],
         "RelStorage-3.3.2-cp39-cp39-manylinux2010_x86_64.whl": [
           "2f2d6826d416b598f8bf88ff2af60f741b356231f8e9d7f5e6f13b7587479601",
+          "cp39"
+        ]
+      }
+    },
+    "3.4.0": {
+      "sdist": [
+        "661c16ecdc52d03d6e6862db17db4d07d83934b8ac1ecd1ae401fa79d3e26eff",
+        "RelStorage-3.4.0.tar.gz"
+      ],
+      "wheels": {
+        "RelStorage-3.4.0-cp27-cp27m-macosx_10_15_x86_64.whl": [
+          "b205f72ff741966fd5e709103115704c01d2501ee8a51d6cece14161f68420da",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "6a05803e913f12f1161e316415835dad8e73035d6d84cbd26d006e9e7d33ca26",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "4013e2abf57afb86522cd07263d86508275a34dbe87cd8558bcfde44d0ffe485",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "20a77decb33dbcda0d6f165e5fcadc1b5377e0bee6905ee742e91dcca0b46703",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "53a47a48760b65b4423e7b710fbd85287f3feb1c043018a0f5d775dd06411e33",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27m-win32.whl": [
+          "c80d7ca02f9d4f390d75bc884ee48e1d3326d4c0aba8cc2b30429dff09d19af8",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp27-cp27m-win_amd64.whl": [
+          "bde9f2ec1db0b0c3d6b37ffd7843ba94c0bd831644dd2e445e950f21509f31e7",
+          "cp27"
+        ],
+        "RelStorage-3.4.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "a756a9ada41ead38a42896f03b0e010d5a783f0303ef9e21b9c70d2e8899955a",
+          "cp35"
+        ],
+        "RelStorage-3.4.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "81bc85c9784dac1e50b67833484936791c7eca93da40202d7dbb046f09825c7b",
+          "cp35"
+        ],
+        "RelStorage-3.4.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "a566855c52040bd4025b0bffad189cd7ec137099af50163b70829e118ce92b8e",
+          "cp36"
+        ],
+        "RelStorage-3.4.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "129d480a696362777ef98f0205ec21de21d47a095bdc7b32b11b9a948dddfd69",
+          "cp36"
+        ],
+        "RelStorage-3.4.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "f8fed1f3f685c250ed6a6bc6315941db0e39c271e1bff269f9a6c69a0c7e7575",
+          "cp36"
+        ],
+        "RelStorage-3.4.0-cp36-cp36m-win32.whl": [
+          "804ebb89642d936d15f524ad23fbe30bb1b53628c1591f226d24732e53549a0e",
+          "cp36"
+        ],
+        "RelStorage-3.4.0-cp36-cp36m-win_amd64.whl": [
+          "4de579d807de45e64d408cf5ef008a25d440dd916c6309046d0aacc691f3e763",
+          "cp36"
+        ],
+        "RelStorage-3.4.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "3a46506cb7466e361b197a51e461b32ccf07534c7cc3e93284f8863270b4cca7",
+          "cp37"
+        ],
+        "RelStorage-3.4.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "abb48e8501b05a4eac2686dbd75d5df1ecf6fd3b9bad226b5f75e10de0332e9c",
+          "cp37"
+        ],
+        "RelStorage-3.4.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "fcfcce470346777c2d0ab6fa73fe4c44d0ded81989f8bbd76a52217f5a8154f1",
+          "cp37"
+        ],
+        "RelStorage-3.4.0-cp37-cp37m-win32.whl": [
+          "a957fc4545d5bc30ee6bac59ab266d72b23546613429e00a1a7135bf603fc28c",
+          "cp37"
+        ],
+        "RelStorage-3.4.0-cp37-cp37m-win_amd64.whl": [
+          "b54063e74d4afaf3a0847a2b243765e09161f4829f7bc4e3fd2e890f320c20c0",
+          "cp37"
+        ],
+        "RelStorage-3.4.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "1355148a82a925ef316d702db796c8557ef8dec7ac7d0ebe2678b7de163826d8",
+          "cp38"
+        ],
+        "RelStorage-3.4.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "e82d7e3697ffce4213b9797ab908e449461d1cbb426cafd31868b3e69c69e282",
+          "cp38"
+        ],
+        "RelStorage-3.4.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "a397f27fef485b36042a1fa4523361f20705c37962bb0c537316efe66e587433",
+          "cp38"
+        ],
+        "RelStorage-3.4.0-cp38-cp38-win32.whl": [
+          "793eae509c087366dbd510c2634384218961df4d3ad8a6c894018c45fd187477",
+          "cp38"
+        ],
+        "RelStorage-3.4.0-cp38-cp38-win_amd64.whl": [
+          "82e7f18d74329331d5f26d26dc41fc7f4e977a8bb413b765e2aeca1a048cface",
+          "cp38"
+        ],
+        "RelStorage-3.4.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "e8dd440a22c69ff7850c4482eaffb8447d695de6ff506805a43cd6c4c81b9eb5",
+          "cp39"
+        ],
+        "RelStorage-3.4.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "b8be89e554b890b83f76fbc983585e3057077ff921e3cb40826f3624bda8a02b",
+          "cp39"
+        ],
+        "RelStorage-3.4.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "658e79c032cb34b8364efc02a67e4dbb4bd03c1d6340742b3feb8f3b42d47aa2",
           "cp39"
         ]
       }
