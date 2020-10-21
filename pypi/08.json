@@ -1019,6 +1019,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.3": {
+      "sdist": [
+        "11f0fd5d0ce0291d8c8f204547c91c5ada9e08ff8b52e5df37dd7fa0ffb26111",
+        "amazon-braket-sdk-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "amazon_braket_sdk-1.1.3-py3-none-any.whl": [
+          "1f75e7c88ef9a2d84c7052ac9b6779cc879fd75e6a7d047c48bf212b15d24d94",
+          "py3"
+        ]
+      }
     }
   },
   "ambition-validators": {
@@ -3687,6 +3699,12 @@
         "5a9b88497e2e67dfbfab92acad6387cc12e8b173d229304d4a2dec974189ef3b",
         "bleach_extras-0.0.4.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "0b80fd9c1af29105b73021bad1abf38f8935dbeed6385d1271bf12b00249b103",
+        "bleach_extras-0.1.0.tar.gz"
+      ]
     }
   },
   "blot": {
@@ -5680,6 +5698,18 @@
       "wheels": {
         "cashiersync-2.3.3-py3-none-any.whl": [
           "23954442ac38730f93497be2d1013865d35301654d10824bb3a916d65591ea91",
+          "py3"
+        ]
+      }
+    },
+    "2.4.0": {
+      "sdist": [
+        "8a1e01c0043d0a99ce467b3e289f82288dea97cc5541803983279de4662fc94e",
+        "cashiersync-2.4.0.tar.gz"
+      ],
+      "wheels": {
+        "cashiersync-2.4.0-py3-none-any.whl": [
+          "5ee0efb07f35df914ff0dea4b4d5d256c327e033c1fef9812d6ea6814e60e7ec",
           "py3"
         ]
       }
@@ -21686,13 +21716,25 @@
         "gcvspline-0.4.tar.gz"
       ],
       "wheels": {
+        "gcvspline-0.4-cp27-cp27m-win32.whl": [
+          "c2cc6651aef8a3ee9043b05d561d3442c1f99eef9cbb5e3dc2fd1f13f6cfe1c1",
+          "cp27"
+        ],
         "gcvspline-0.4-cp27-cp27m-win_amd64.whl": [
           "e95e5296dd77d352a75b47a01afc8ca9f5babda338ce887c39706492d0e4b0e7",
           "cp27"
         ],
+        "gcvspline-0.4-cp34-cp34m-win32.whl": [
+          "0926fe220fa69b32be5cd1df52e07fa8ce0348dcd588921a6ef1df712e6e8702",
+          "cp34"
+        ],
         "gcvspline-0.4-cp34-cp34m-win_amd64.whl": [
           "8ffd177121f86f5dca5c956afcdfc58ec58795f07620fbde6c93ccabc922e3e5",
           "cp34"
+        ],
+        "gcvspline-0.4-cp35-cp35m-win32.whl": [
+          "e11ed89ed85845072ce208fbf95c5e898eac654cfb41c695072750b93ab68090",
+          "cp35"
         ],
         "gcvspline-0.4-cp35-cp35m-win_amd64.whl": [
           "b84f1d8157862a8abf482dbe10eafc445364f0ed4eb9655eda66d5a9bce67664",
@@ -21706,9 +21748,17 @@
           "d122c231048d255a08d6a724abdf25892547cce61e88be69a21374757bec4de0",
           "cp36"
         ],
+        "gcvspline-0.4-cp37-cp37m-win32.whl": [
+          "be09f320e84bc148d01a6d9589a03f962008de689b40a713e03e047c65043a52",
+          "cp37"
+        ],
         "gcvspline-0.4-cp37-cp37m-win_amd64.whl": [
           "45843d38253c972e98f77387fd72d2bb12686181f91b2fb9a62d5cfd00918089",
           "cp37"
+        ],
+        "gcvspline-0.4-cp38-cp38-win32.whl": [
+          "329535e7ed7a89ab402d8a3b010d4499e93d9ccd6c985925b03ff64e03012787",
+          "cp38"
         ],
         "gcvspline-0.4-cp38-cp38-win_amd64.whl": [
           "81ba8faf15a9479165a3a209cc4b37b1e4c41283e8ddfcde25b44a70e8db98ac",
@@ -23460,6 +23510,12 @@
       "sdist": [
         "d69ac481f53e4c2ebaad800238f6340079ae1b5f61cd8dc45d2b90692e55f6ab",
         "http2py-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "642a04d2745b99741e1ad534344570e3e7c93916e6b678033cf031b26a8b792e",
+        "http2py-0.0.4.tar.gz"
       ]
     }
   },
@@ -43081,6 +43137,20 @@
       }
     }
   },
+  "py3resttest": {
+    "1.0.0": {
+      "sdist": [
+        "8fa0c09d432abcfe89c067783e47b650d1a3330a89d39e44313cc0f1992e1c91",
+        "py3resttest-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "py3resttest-1.0.0-py2.py3-none-any.whl": [
+          "abce4a7b98dbfb16eb3c512612fb9fa82eaf94dea258ea87e22ebc90f5927fff",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "pyalmond": {
     "0.0.1": {
       "wheels": {
@@ -55673,6 +55743,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.5": {
+      "sdist": [
+        "b20d3064354157e8d1d505f0bfb2a231a1e45959ee2776e6dad214f46dd7da00",
+        "simpleriscv-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "simpleriscv-1.0.5-py3-none-any.whl": [
+          "f56b98c4c716dad5679abfee778895f4fca79ebc0834fad5b270f62cab6612b3",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "b492ff44159cc45f806429d6147ed91836f7017841ff22869d4ed9251285b4cc",
+        "simpleriscv-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "simpleriscv-1.0.6-py3-none-any.whl": [
+          "1f04574e6e729fea1a41d02ba6efe8e28bcd1751ce006decbef7d3b59c9534f1",
+          "py3"
+        ]
+      }
     }
   },
   "siphash": {
@@ -61118,6 +61212,12 @@
       "sdist": [
         "b276278b9d6d716c9a201c9171a21c048e79ca24deec593c35951365c4ddbd13",
         "TensorFlowASR-0.2.7.tar.gz"
+      ]
+    },
+    "0.2.8": {
+      "sdist": [
+        "b5301d6aa3fa95c8f870bd993fe8927b70978bcc6e9b34e5a8e090cfa722af1d",
+        "TensorFlowASR-0.2.8.tar.gz"
       ]
     }
   },
