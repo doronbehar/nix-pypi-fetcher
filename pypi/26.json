@@ -4881,6 +4881,18 @@
           "py3"
         ]
       }
+    },
+    "1.69.0": {
+      "sdist": [
+        "e2965ae14b5629c74e43c69cedaa13d2e0f88576d63393fc8ec9de2ddd6bfe07",
+        "aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_kinesis_firehose_s3-1.69.0-py3-none-any.whl": [
+          "ad77bf64297c1385d37626533f30cc2e652c92915d5e041a59f6a6a5b304235d",
+          "py3"
+        ]
+      }
     }
   },
   "azure-cli-cognitiveservices": {
@@ -9610,6 +9622,18 @@
         ]
       }
     },
+    "2.24.2": {
+      "sdist": [
+        "870cc5716d22503e449780723f4edf970afb0516ea8a9f83715ad7dd0edf5a0c",
+        "cacahuate-2.24.2.tar.gz"
+      ],
+      "wheels": {
+        "cacahuate-2.24.2-py3-none-any.whl": [
+          "5afa8b8599506006be22a40fb058c9cdf1e4cc5b0d639e8bfe963e189d184af9",
+          "py3"
+        ]
+      }
+    },
     "2.3.0": {
       "sdist": [
         "5eae0692d9976323b430fdd7f811e082bb549f3c91fc359ac998879e0c852dc4",
@@ -9906,6 +9930,18 @@
       "wheels": {
         "cacahuate-3.1.0-py3-none-any.whl": [
           "f397e9cf115830c94a9538797909b879e047238512d19700b81dc9f0d3102e8d",
+          "py3"
+        ]
+      }
+    },
+    "3.1.1": {
+      "sdist": [
+        "07a3bba5f443f712c37efcf7313ea33b443c031d6dda9e61bcf405f5999c0072",
+        "cacahuate-3.1.1.tar.gz"
+      ],
+      "wheels": {
+        "cacahuate-3.1.1-py3-none-any.whl": [
+          "399a6bf162c57d03cf3dd9d263f7b0651d5905f3b3230c2c79da65d80dbc523c",
           "py3"
         ]
       }
@@ -24473,6 +24509,24 @@
         "3dc66b344aa061c7db259cb83fd22825660aa9e58fe710ebc9e448933f6f32d6",
         "froxy-1.0.3.tar.gz"
       ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "cb79fb7da1d063fda1e638b34ede9e1481166668fe9a593774dc90dc9607bb1c",
+        "froxy-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "dc4f745a21e19a25ef25c40f2d07bb9e408492b41c593b67a2f4ae953ffb5955",
+        "froxy-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "froxy-1.0.5-py3-none-any.whl": [
+          "edbe308548ff770a54e33b094f21d85cb40b2afa5b1d650a71d968f59f9fafc5",
+          "py3"
+        ]
+      }
     }
   },
   "fss": {
@@ -29255,6 +29309,66 @@
         "itk_registration-5.1.1-cp38-cp38-win_amd64.whl": [
           "524c6933e7d3d96a7abea6a964fe6cc07397ff1908a3eaf36f18efdc7bb7aa8b",
           "cp38"
+        ]
+      }
+    },
+    "5.1.1.post1": {
+      "wheels": {
+        "itk_registration-5.1.1.post1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "752356dcb641f5e8588c3d3f8a971b03349dcee4e3ac94cc4a129bf567db4b89",
+          "cp35"
+        ],
+        "itk_registration-5.1.1.post1-cp35-cp35m-win_amd64.whl": [
+          "3509f1300e2ae55760cd6fe74bba8173db8ddbf15d0a38454f8a6e9ebd79e718",
+          "cp35"
+        ],
+        "itk_registration-5.1.1.post1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "20fefaa59db3991bc911e50affad49af15c61297e5e7d14d9c1815e6dcf7645e",
+          "cp36"
+        ],
+        "itk_registration-5.1.1.post1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b924b755ab0d092106d3574df014028eefd64d1b7f3b533f43ebf2d27540efec",
+          "cp36"
+        ],
+        "itk_registration-5.1.1.post1-cp36-cp36m-win_amd64.whl": [
+          "143b6a8a0c4f669e431c8014c14cd044cff65debf1d3eed1de40736f18d06e56",
+          "cp36"
+        ],
+        "itk_registration-5.1.1.post1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "de4e1fc51a6683bade6dee7e4aa00f4815525958f5a7ed4b1bdb7afeff514682",
+          "cp37"
+        ],
+        "itk_registration-5.1.1.post1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9536f7a98d99bd5982a09b48bf4ba76646caf3384733aa89b6cb4af784dd947a",
+          "cp37"
+        ],
+        "itk_registration-5.1.1.post1-cp37-cp37m-win_amd64.whl": [
+          "9bcfb7d9015dc56a98371cd93ccdeb36dfa146e3e3722eb5b2394bce3f186004",
+          "cp37"
+        ],
+        "itk_registration-5.1.1.post1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "f54c7968800cabd94e8a8c5457c52d13c47131dd9cfc0a5248d940fc75ef7204",
+          "cp38"
+        ],
+        "itk_registration-5.1.1.post1-cp38-cp38-manylinux1_x86_64.whl": [
+          "77d7cd90c99762384060b33e3dc7a0e357956dd219e495b4b983d73429ef8274",
+          "cp38"
+        ],
+        "itk_registration-5.1.1.post1-cp38-cp38-win_amd64.whl": [
+          "73137f737ac13d16d8cb85f4a7bea38b7a85d7fb4b4b1a8f59d194c533ca50c6",
+          "cp38"
+        ],
+        "itk_registration-5.1.1.post1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "b638192462e8552f662ba977fd77c666437c3667bd8fa9f2e7a72fefa2c956ca",
+          "cp39"
+        ],
+        "itk_registration-5.1.1.post1-cp39-cp39-manylinux1_x86_64.whl": [
+          "04b5576c94cdb63b363d871e5a45d23cac5247ff780b3e1341434ac08c925d02",
+          "cp39"
+        ],
+        "itk_registration-5.1.1.post1-cp39-cp39-win_amd64.whl": [
+          "a91513e74dcf5efe8aead3043bac1a6752b3f92ef601aa3a6de0d252c8c58b0a",
+          "cp39"
         ]
       }
     },
@@ -42369,6 +42483,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.2.0": {
+      "sdist": [
+        "a894ba9acd679759a100ca87242dc88e41aa61a96f9c8ce1252582ed931e515d",
+        "mypy-boto3-workmailmessageflow-1.16.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workmailmessageflow-1.16.2.0-py3-none-any.whl": [
+          "f29baaae9a65c57e178efa0bb608955386bd57d7f7eb0d8cb1524770360a88ae",
+          "py3"
+        ]
+      }
     }
   },
   "myquery": {
@@ -49088,6 +49214,18 @@
       "wheels": {
         "pex-2.1.2-py2.py3-none-any.whl": [
           "be7f5e982d215ceab3ba7e7702cf175e96c7108070c2d9b8ce9dc5515afef62e",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.20": {
+      "sdist": [
+        "2f1cf9721aa5fce93b034d2a18922d34d6f5fb81236ab3a955706226b15658fd",
+        "pex-2.1.20.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.20-py2.py3-none-any.whl": [
+          "ae5ed8d945123ba9b135a27c79ffbe89c9865fa238594a44b0064503cb17eb2d",
           "py2.py3"
         ]
       }

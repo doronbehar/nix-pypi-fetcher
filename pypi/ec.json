@@ -3897,6 +3897,18 @@
           "py3"
         ]
       }
+    },
+    "1.69.0": {
+      "sdist": [
+        "ed53bd50ecb21185215050298d27b9d6a1f150dd46c303ae0a0038ccb46dab04",
+        "aws-solutions-constructs.aws-cognito-apigateway-lambda-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cognito_apigateway_lambda-1.69.0-py3-none-any.whl": [
+          "79f1de0f1e73b54f7f339254f2d199ca62dd67995a01950b773d32967d7111cc",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-lambda-elasticsearch-kibana": {
@@ -4196,6 +4208,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_elasticsearch_kibana-1.68.0-py3-none-any.whl": [
           "f0177d5590680deb89dcb52c70352c6324e57671628b0a7deb8a194f8536a52a",
+          "py3"
+        ]
+      }
+    },
+    "1.69.0": {
+      "sdist": [
+        "207e79fda64dfd2a83c66ec9c07e763f4c0416cd64db6d08a81c2b5351b9ec9d",
+        "aws-solutions-constructs.aws-lambda-elasticsearch-kibana-1.69.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_elasticsearch_kibana-1.69.0-py3-none-any.whl": [
+          "4bc59c373d692b4afda5a4f7621fbb6607ee20d4201b6fa105290e4d1cc53550",
           "py3"
         ]
       }
@@ -17753,6 +17777,16 @@
       }
     }
   },
+  "datadog-api-client": {
+    "1.0.0b1": {
+      "wheels": {
+        "datadog_api_client-1.0.0b1-py2.py3-none-any.whl": [
+          "5ab2e8066507f4a2bf978f01571ed9ec2d639f49f78d8da33b4fc07c846e217f",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "datasetcreator": {
     "0.1": {
       "sdist": [
@@ -19618,6 +19652,46 @@
         ]
       }
     },
+    "0.5.10": {
+      "wheels": {
+        "dearpygui-0.5.10-cp36-cp36m-macosx_10_6_x86_64.whl": [
+          "03a9f30288657c098bee01101db73ac67645ec97e21a98bf6843cc9670da8e72",
+          "cp36"
+        ],
+        "dearpygui-0.5.10-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f9089eb44a73ea30e700fc93cdf21cf23a129b9f3585a0bc7cf09698644c3aa8",
+          "cp36"
+        ],
+        "dearpygui-0.5.10-cp36-cp36m-win_amd64.whl": [
+          "e3fade807aa07f61971f1e0eca5c0bd8d7077eee3cb7d9f21efcb5077b4120e1",
+          "cp36"
+        ],
+        "dearpygui-0.5.10-cp37-cp37m-macosx_10_6_x86_64.whl": [
+          "6fc8dadbc759956f3e0f9540cfb26fd71029712c671df2c0474629cdc2fc6bb5",
+          "cp37"
+        ],
+        "dearpygui-0.5.10-cp37-cp37m-manylinux1_x86_64.whl": [
+          "04bd25f33af115b84642d3deeccb44dc5e22f2b8590862671a1895fc209f61c7",
+          "cp37"
+        ],
+        "dearpygui-0.5.10-cp37-cp37m-win_amd64.whl": [
+          "7eb68d948432a7c9f76bfb276ca559f103417bf5a933845913c95bacbd714791",
+          "cp37"
+        ],
+        "dearpygui-0.5.10-cp38-cp38-macosx_10_6_x86_64.whl": [
+          "098e59c66b7d04c2c9af90c5459300d050df8507113945cac5450eba7f2b81a1",
+          "cp38"
+        ],
+        "dearpygui-0.5.10-cp38-cp38-manylinux1_x86_64.whl": [
+          "d834907cc7949854eca97c507768d6d1cfaecc891f7924d7d57faf71f62063b8",
+          "cp38"
+        ],
+        "dearpygui-0.5.10-cp38-cp38-win_amd64.whl": [
+          "04d53d8c324c217f91dc5d3282f83d32c2f680ecaf5404ee21bb9624f4c2f5a4",
+          "cp38"
+        ]
+      }
+    },
     "0.5.2": {
       "wheels": {
         "dearpygui-0.5.2-cp36-cp36m-macosx_10_6_x86_64.whl": [
@@ -19814,6 +19888,46 @@
         ],
         "dearpygui-0.5.8-cp38-cp38-win_amd64.whl": [
           "c930a7ecee3f4c5f34d6d0aee9d751608898715cd888f42697ef88529c8abd32",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.9": {
+      "wheels": {
+        "dearpygui-0.5.9-cp36-cp36m-macosx_10_6_x86_64.whl": [
+          "54f1133fcab4b55c4afc4fe1756c96ea5318615fed954bd8b97fe2552d10bcaf",
+          "cp36"
+        ],
+        "dearpygui-0.5.9-cp36-cp36m-manylinux1_x86_64.whl": [
+          "71322bc962e3274d381f5e3450bc83fe75270244c1440198509fb0db982f99df",
+          "cp36"
+        ],
+        "dearpygui-0.5.9-cp36-cp36m-win_amd64.whl": [
+          "19f82a75c109db869f7b630f07ec3d6f7efe1c1cd326e28002d3147a9ab4fb06",
+          "cp36"
+        ],
+        "dearpygui-0.5.9-cp37-cp37m-macosx_10_6_x86_64.whl": [
+          "6c623bc82792bb86e9cc1796af4799d337c14f9cfdee26ae271066a0807dd311",
+          "cp37"
+        ],
+        "dearpygui-0.5.9-cp37-cp37m-manylinux1_x86_64.whl": [
+          "06f370548143ebc580404274011f96d0708d8b87337f0d4a929dc219b91323a8",
+          "cp37"
+        ],
+        "dearpygui-0.5.9-cp37-cp37m-win_amd64.whl": [
+          "3b4523bc6f7e7f283c16352178fe2860711c4705e8697615918e31163d23ad16",
+          "cp37"
+        ],
+        "dearpygui-0.5.9-cp38-cp38-macosx_10_6_x86_64.whl": [
+          "d9db5e061cb05c6b971c86dc8e2fdc5047f42350fc9dba1507f6b72217a871c7",
+          "cp38"
+        ],
+        "dearpygui-0.5.9-cp38-cp38-manylinux1_x86_64.whl": [
+          "ef090c5249d233b6b2a00f379388d308c8699b13211de471195e3fbbd884c964",
+          "cp38"
+        ],
+        "dearpygui-0.5.9-cp38-cp38-win_amd64.whl": [
+          "5d34bf6a7bc040db385cc240fc10165a3c9aa5e071dc4f85d9215121011695c3",
           "cp38"
         ]
       }
@@ -28484,6 +28598,12 @@
       "sdist": [
         "459aede11ed7651705d06dd3143eb6b2a4682e0387d4f25acfcbfc50a05d80bd",
         "git_reqs-0.1.5.tar.gz"
+      ]
+    },
+    "0.1.6": {
+      "sdist": [
+        "b7c455ba40b40965633f9ba3e1c981100995e9ec5a057d52e53b3f1a22bf56ff",
+        "git_reqs-0.1.6.tar.gz"
       ]
     }
   },
@@ -41950,6 +42070,18 @@
       "wheels": {
         "mypy_boto3_pi-1.16.1.0-py3-none-any.whl": [
           "8d24b44c4518e2949761e0e83f80edbee2f25fcccb1bac34c2239f4fab0cbd44",
+          "py3"
+        ]
+      }
+    },
+    "1.16.2.0": {
+      "sdist": [
+        "3375e1c272be8d6e4cc0dda13be9110564845f92a3d4560022d2f6203054bf1a",
+        "mypy-boto3-pi-1.16.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pi-1.16.2.0-py3-none-any.whl": [
+          "00cff39b63fc60d314c6282c1cf342900a4aa0214a95ea70aa90a125babdac1a",
           "py3"
         ]
       }
@@ -60508,6 +60640,18 @@
         ]
       }
     },
+    "3.0.0a15": {
+      "sdist": [
+        "a61ffcf6ecd1533d966946aa8124eb3c514334c21ff042007b1e6fa7e079e3f4",
+        "redvox-3.0.0a15.tar.gz"
+      ],
+      "wheels": {
+        "redvox-3.0.0a15-py3-none-any.whl": [
+          "ea39e42ff054799c35134b38e5649e0206ec30611c5b72373671d7cda7dee844",
+          "py3"
+        ]
+      }
+    },
     "3.0.0a2": {
       "sdist": [
         "24cc909f00c13fc460afd20ca5bec36466f64b1d09e856bd5bfabe2d21b47bbd",
@@ -64880,6 +65024,18 @@
       "wheels": {
         "schemathesis-2.6.1-py3-none-any.whl": [
           "892c5c4a6702fda019acd73d508856ee8d2dc512c98e598f799ce9d39a061e6c",
+          "py3"
+        ]
+      }
+    },
+    "2.7.0": {
+      "sdist": [
+        "1bce36d5f283558b6e703b38e357a469641aec518a2e20a2142bc3472f411418",
+        "schemathesis-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "schemathesis-2.7.0-py3-none-any.whl": [
+          "41a00339195db610e48f25166543cf2e670fea859fd99e4fcb099b6749320bc8",
           "py3"
         ]
       }
@@ -78950,6 +79106,18 @@
       "wheels": {
         "simulariumio-1.0.0-py2.py3-none-any.whl": [
           "c62cc22904ec6b8fd1937dfdf67115269656ae7fc13d152586ec4074a3477d8e",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "08187b4407f6a519f241517e4362f487452eb361a7a367dc554c98bb239e5f49",
+        "simulariumio-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "simulariumio-1.0.1-py2.py3-none-any.whl": [
+          "b031e95aeff1f25f09df9c6f083046eeb40ad3333450854e0625c073fdabd6ff",
           "py2.py3"
         ]
       }

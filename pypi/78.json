@@ -1486,6 +1486,12 @@
         "aliyun-python-sdk-nas-3.1.2.tar.gz"
       ]
     },
+    "3.10.0": {
+      "sdist": [
+        "1096194c02990647575d11b4ef7681f841cdc565585f2b38ab2bf57b24c9b29d",
+        "aliyun-python-sdk-nas-3.10.0.tar.gz"
+      ]
+    },
     "3.2.0": {
       "sdist": [
         "833beeaa71f2b3b4761a9f8409ca97f38cc5483d063617f67e0fed0955763c5f",
@@ -23573,6 +23579,14 @@
           "py3"
         ]
       }
+    },
+    "0.2.85": {
+      "wheels": {
+        "edc_appointment-0.2.85-py3-none-any.whl": [
+          "f200fa567830748e61245b28aa37459d5be4d38834c1cf4b0029680bc4e97f91",
+          "py3"
+        ]
+      }
     }
   },
   "edx-search": {
@@ -26060,6 +26074,18 @@
       "sdist": [
         "2de44985fae4d4b1f57bd56c39eea801b7d9182a891ae22ae8ae5f7320f1142e",
         "fake-camera-0.6.tar.gz"
+      ]
+    },
+    "0.7": {
+      "sdist": [
+        "688896ff5e4fac087885056cf35c8880865a53c9b7762ba8e79898fe8b180acc",
+        "fake-camera-0.7.tar.gz"
+      ]
+    },
+    "0.8": {
+      "sdist": [
+        "aece798c8364c7342dc974f53088294284b0e2ded99dc38d22e736728444c8b2",
+        "fake-camera-0.8.tar.gz"
       ]
     }
   },
@@ -45214,6 +45240,66 @@
         ]
       }
     },
+    "5.1.1.post1": {
+      "wheels": {
+        "itk-5.1.1.post1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "6f4ef557346100e532b05088042d7edcd900d87e3f408ced88789e6814d96ea2",
+          "cp35"
+        ],
+        "itk-5.1.1.post1-cp35-cp35m-win_amd64.whl": [
+          "1e8d8f8099e5c2ef8375d72cc1c635a59becad6da10d8f34f4fc3495e5b8f7b8",
+          "cp35"
+        ],
+        "itk-5.1.1.post1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "dbbf82a890069d5e0c062208d250792e43fd44ee663142353df4e8089c8871d1",
+          "cp36"
+        ],
+        "itk-5.1.1.post1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0b9a3af474284391c90904a1eea0ce25d011214315369183536ee0237ff59fd2",
+          "cp36"
+        ],
+        "itk-5.1.1.post1-cp36-cp36m-win_amd64.whl": [
+          "cb1f622c51d4694d8e1dda787e39c84e48d29179f6dab9ad89dd75cd7db04886",
+          "cp36"
+        ],
+        "itk-5.1.1.post1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "d44c952f855f0b724dc3d59517a26a67cb1c870aa0a0779ce6ed42cd01d6f3b2",
+          "cp37"
+        ],
+        "itk-5.1.1.post1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "26bf54ec86f893c7f341687b4c70cbf118ff1a45ebe8e76dec2bf89caffdadc4",
+          "cp37"
+        ],
+        "itk-5.1.1.post1-cp37-cp37m-win_amd64.whl": [
+          "503a28cb092432ab13c0ee0172c8a171f5635a6607adab2eac078c030a064b69",
+          "cp37"
+        ],
+        "itk-5.1.1.post1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "98de2f51877cab139268dcf5821e294cebb60e38cc15fddb65a1bee1ea8d569b",
+          "cp38"
+        ],
+        "itk-5.1.1.post1-cp38-cp38-manylinux1_x86_64.whl": [
+          "582b531584479bcfbe37d2f687a4d61d5ae1d45ac1eaaf47b1a24b34fcde3e6e",
+          "cp38"
+        ],
+        "itk-5.1.1.post1-cp38-cp38-win_amd64.whl": [
+          "3e37c1c554abe15e006e5955289f9b7fe2a69ca509e34c67186688714eee4bd7",
+          "cp38"
+        ],
+        "itk-5.1.1.post1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "1f31ccf95dc0550f3cee4e3fc2c6e6cb29226d9f52696df43aa9ce160c63a93d",
+          "cp39"
+        ],
+        "itk-5.1.1.post1-cp39-cp39-manylinux1_x86_64.whl": [
+          "9e0ad4b8e7c44ec94842759fb918a1753fa804df61ac4558e95bd34203e91d0a",
+          "cp39"
+        ],
+        "itk-5.1.1.post1-cp39-cp39-win_amd64.whl": [
+          "21a4276be1d13336e8936e24cb03674ae6e117d5ca0e50467450f3715b2e907e",
+          "cp39"
+        ]
+      }
+    },
     "5.1b1": {
       "wheels": {
         "itk-5.1b1-cp35-cp35m-macosx_10_9_x86_64.whl": [
@@ -61076,6 +61162,30 @@
       "wheels": {
         "Polysign-0.1.2-py2.py3-none-any.whl": [
           "843f4c25030258e12c93d60c331ac2a3731f6795dd2333920e9aee404091c240",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "274c81b8c5608a64ff90256c639ff6f37e0a36b6a98920f8863094af29813287",
+        "Polysign-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "Polysign-0.1.3-py2.py3-none-any.whl": [
+          "284deccd9d552d900f913ae9621488590b07e9727ce6cd30a4e7e87e6e745266",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "36311a3b88ecf0f89a2fee229eb013d2754fd80e927acc82868ab4f068a03252",
+        "Polysign-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "Polysign-0.1.4-py2.py3-none-any.whl": [
+          "639db64a6aa97a5943bf3160a19e8789ea093044d110950b47d086868f878e07",
           "py2.py3"
         ]
       }
@@ -84474,6 +84584,18 @@
       "wheels": {
         "wwf-0.0.4-py3-none-any.whl": [
           "79eef25e566e56a99fbe78d3bb6e2277f462eda779577bc245a956335b05730a",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "1e8bee858dfd8dca4fd7807d75e05f8e18a44479aca46c9d83067dfab253e928",
+        "wwf-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "wwf-0.0.5-py3-none-any.whl": [
+          "9449e9e41877f737294ea890ce7fb00a84515bc947782d03feaf89bd203056c1",
           "py3"
         ]
       }

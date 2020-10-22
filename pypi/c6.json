@@ -6048,10 +6048,10 @@
         "carefree-data-0.1.7.tar.gz"
       ]
     },
-    "0.2.0rc7": {
+    "0.2.0rc8": {
       "sdist": [
-        "c99cc0b349d050ce759640d1cecc6158b86ce4c57140ef50918c4f3a9a944603",
-        "carefree-data-0.2.0rc7.tar.gz"
+        "ef3644a6076b4f59063f34cbd1b721adeef100f7bbda21a95558b8f1bdc8993a",
+        "carefree-data-0.2.0rc8.tar.gz"
       ]
     }
   },
@@ -6314,6 +6314,18 @@
       "wheels": {
         "ccsi_foqus-3.7.0rc0-py3-none-any.whl": [
           "0740816169a26de0f2203b719fccdffb483b26882b3554836cbd11c42c7e220e",
+          "py3"
+        ]
+      }
+    },
+    "3.7.1": {
+      "sdist": [
+        "af5791a3582c809d364db29fea74d20dfa89619b12a222fec0bed02018ef2b33",
+        "ccsi-foqus-3.7.1.tar.gz"
+      ],
+      "wheels": {
+        "ccsi_foqus-3.7.1-py3-none-any.whl": [
+          "fce86017ac7f2971290c9dfb9623c81eb42dffdd15d80cb5b4f217310c863c72",
           "py3"
         ]
       }
@@ -30360,94 +30372,86 @@
         ]
       }
     },
-    "1.1.0": {
+    "1.1.1": {
       "sdist": [
-        "909c742303ea5fd2b9c51f0004a467e51d1db983c5446e71c5f63bcc5957f400",
-        "JPype1-1.1.0.tar.gz"
+        "018170fdb76bf7533ac6310f4f632011c53366e74da267083e49578ea0360230",
+        "JPype1-1.1.1.tar.gz"
       ],
       "wheels": {
-        "JPype1-1.1.0-cp35-cp35m-manylinux1_i686.whl": [
-          "ee8c243aeacb86ab8c77ae750bbfec05e6481620f5ac2f10cd1622e4aa7b5677",
+        "JPype1-1.1.1-cp35-cp35m-manylinux1_i686.whl": [
+          "e2961a4a63ef8a0f65bb2c0c2ec1674c1388a4205ce69a364911717dfd5233af",
           "cp35"
         ],
-        "JPype1-1.1.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "edfb99f8f51b4f8aaea85e3aca6e8f134e0ee1bf17bfdebb0510449b71f006a1",
+        "JPype1-1.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "579e99b2ce53dd7370838231466cc8b82ab2692d2ec3094c4bb1991aa8fc625f",
           "cp35"
         ],
-        "JPype1-1.1.0-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "55cf77099582ae0d3b76f48967027964390c61c6d6f8251baf04c7c02288d70e",
+        "JPype1-1.1.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "d7502b60e6c50564a35a4033e4307cec7277809de06fbfc0128969dcb8f53c5d",
           "cp35"
         ],
-        "JPype1-1.1.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "e40894e8ea6fee88ca93fd930b3488fbeb98d48dfde18c72175b0659445fe467",
+        "JPype1-1.1.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "7e4dd6a6a30417334624bc1727e2b88e57da1a64ce82eb519c728ba6f34d1011",
           "cp36"
         ],
-        "JPype1-1.1.0-cp36-cp36m-manylinux1_i686.whl": [
-          "d53dd443a3b684d35f6f0df7a0ce211e4ad830fc36039d802fd9efe165cc5780",
+        "JPype1-1.1.1-cp36-cp36m-manylinux1_i686.whl": [
+          "b72b2cb10abc4e00005bfd77c81f08749beb45383eb9fcd17b03b02171026433",
           "cp36"
         ],
-        "JPype1-1.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "36dd2d6f811a984429848168d6e46d91e5f8b71af4eb97f139c95b89ab29ee92",
+        "JPype1-1.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "41803126804b3f43954a7a088cfdfeab20bd0a796577bf109158151b0f5f88bb",
           "cp36"
         ],
-        "JPype1-1.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "247a30b7deb596644a72f3e60f9c3037f4eec28812a9c3e3c91cb0dbc0f5a82a",
+        "JPype1-1.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "63c2bea2fc460fbad4553845858ff6001dccaab28d3ee120aeb21c3c179989d3",
           "cp36"
         ],
-        "JPype1-1.1.0-cp36-cp36m-win_amd64.whl": [
-          "d6fb08cc6c48f81039db551ce40fb23c5004edf363a2a70cda3cf1684b2538c7",
+        "JPype1-1.1.1-cp36-cp36m-win_amd64.whl": [
+          "dafca07def17730f2402a715bc7f9b90e619dfb1542f086042a9d3e7b2dc1374",
           "cp36"
         ],
-        "JPype1-1.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "acc678d5e5a3af3ec0944f4356f45d5e29e6ec5f7c746c57e2c8ad09c526acfc",
+        "JPype1-1.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "482be7e57f4d719c95823fff2ac488247b88545639962612d52a14f201a7afc1",
           "cp37"
         ],
-        "JPype1-1.1.0-cp37-cp37m-manylinux1_i686.whl": [
-          "423290d063074fc56e3b235d59302ab932638763e94c36bf4f34bf8a14d4a7c5",
+        "JPype1-1.1.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "f68e74624e30ca3f066b94d5553ea5aeaa2a5b03139099c27aa9fddfc95aea8e",
           "cp37"
         ],
-        "JPype1-1.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "3241b400757194bae97e3fde97d301afe63670288b804a7dcd106ae19dd3847a",
+        "JPype1-1.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3f3c532ccb16b22a69ead3ca794d691f3b98bf07af0e43d45daf60a7dd8058a4",
           "cp37"
         ],
-        "JPype1-1.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "0de8a788905768e1a24da934d254121e6833cfd3485a21adeee5e3082ffd4de8",
+        "JPype1-1.1.1-cp37-cp37m-win_amd64.whl": [
+          "f811d28ce70508078d708bf81bce92f66aa59120ef5765bb28a44427e14004aa",
           "cp37"
         ],
-        "JPype1-1.1.0-cp37-cp37m-win_amd64.whl": [
-          "a01b5440b3debcebcdefb0638203d16b28a3c472abb4585df5c6965150196d07",
-          "cp37"
-        ],
-        "JPype1-1.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "63b71dd1d3d766a6d27ed48aa18398462b8b75a2fb428ff53ad0f6fb19ffc2d9",
+        "JPype1-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "59ceac3e438b9910d142592b8032870399189e58290f15a48958d150e0162aa2",
           "cp38"
         ],
-        "JPype1-1.1.0-cp38-cp38-manylinux1_i686.whl": [
-          "2898c1db7514ef28e104f89bffbd43208e70932b659406c1f645dd102adc4eb9",
+        "JPype1-1.1.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "133aed7cab3d833e0843df32e0e5e191391fcdbb762cdfb88255f9a8b08ea518",
           "cp38"
         ],
-        "JPype1-1.1.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "4b812e43eabf72c560926b3104082eedba5629e08c81fafd096958ae6231f6d5",
+        "JPype1-1.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "422d2d17fac3ae6f6ff6c919e799222193f588108ce5516c16f81462014454d7",
           "cp38"
         ],
-        "JPype1-1.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
-          "f5e07b2cea588b0e33e2879f07ec7200be445cd452171e2cd27fe5b924a66f41",
+        "JPype1-1.1.1-cp38-cp38-win_amd64.whl": [
+          "a4d1cf2a1428f93f50d5bbfd7dec5134012ff9433283766a932f7152c708359d",
           "cp38"
         ],
-        "JPype1-1.1.0-cp38-cp38-win_amd64.whl": [
-          "e7c04dc47f6a0d3712ff2ed967cf3c6ecee9a3c76bf4a6add23ad9a0374cc0fc",
-          "cp38"
-        ],
-        "JPype1-1.1.0-cp39-cp39-manylinux1_i686.whl": [
-          "99fb6096ebb654f034e34a7ec88127d1c8f219d2cc4fbaf1af0da3ac7ea67dd6",
+        "JPype1-1.1.1-cp39-cp39-manylinux1_i686.whl": [
+          "bda2b4b16effab5498309f2524dae85afe88fcbd168aa62d45e88373ad2aef33",
           "cp39"
         ],
-        "JPype1-1.1.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "50b40dea587e40b8747eb76de6f54011f1867a83da8c9158d06c298ad92c57ba",
+        "JPype1-1.1.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "6abcde16199033153a0720bbdeb40795b00a73cafbcf9dec12c0bd5cfaf9f16f",
           "cp39"
         ],
-        "JPype1-1.1.0-cp39-cp39-manylinux2010_x86_64.whl": [
-          "e55f2c3160e57cbefeefacb2855ced09568d0e3eb19bc3e1c00b1bdbc6aaa3b0",
+        "JPype1-1.1.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "fd2f445668cca5a98734ec34e9b95b08b3c5e7f9398330bc945d1908006bf0ca",
           "cp39"
         ]
       }

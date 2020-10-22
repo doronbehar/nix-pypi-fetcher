@@ -1355,6 +1355,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "b44015365a38d439f9121c17f91ea73e52b55dac4e77848f4061e459a029c74e",
+        "aio-usb-hotplug-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "aio_usb_hotplug-2.0.0-py3-none-any.whl": [
+          "b8b22efc248a5e96328f57b0aac9f754a02495c0f0617438f94e92ee42cf385d",
+          "py3"
+        ]
+      }
     }
   },
   "aiopipes": {
@@ -12956,6 +12968,12 @@
       "sdist": [
         "fc0c2f6e953d6525f67126a0e3f80159b3f29540c7c71eea928be4d0c07bb13d",
         "automlapi-0.16.tar.gz"
+      ]
+    },
+    "0.17": {
+      "sdist": [
+        "5f45492d931ed9964ef60cbca32c86fef706adaab98a000d7bb78d699b69a0fe",
+        "automlapi-0.17.tar.gz"
       ]
     },
     "0.2": {
@@ -24590,6 +24608,30 @@
         ]
       }
     },
+    "1.0.38": {
+      "sdist": [
+        "a19092d1063549f7808224c0729de621130e36084bb23d428b59dfd9af21911f",
+        "covid-shared-1.0.38.tar.gz"
+      ],
+      "wheels": {
+        "covid_shared-1.0.38-py3-none-any.whl": [
+          "f04b2d2f422e76eb01b6a267162800b95b6a4d1dfaef2e1649bc7cc16935b3d3",
+          "py3"
+        ]
+      }
+    },
+    "1.0.39": {
+      "sdist": [
+        "bfaaae984c12cd343f983843ee9d0dc7adfdb64632a5f267c7a4bb0763620273",
+        "covid-shared-1.0.39.tar.gz"
+      ],
+      "wheels": {
+        "covid_shared-1.0.39-py3-none-any.whl": [
+          "3b99bd6b8ed3941efc0e32701b9c5ebae1e9dca673757c9960bf73a6a98fb0cd",
+          "py3"
+        ]
+      }
+    },
     "1.0.4": {
       "sdist": [
         "631edd3164e5fcb46fcd14055d50f9c5f577f7575491e265292435d93d617313",
@@ -28172,6 +28214,18 @@
       "wheels": {
         "django_extension_tools-0.0.1-py3-none-any.whl": [
           "99552eed5b475eea05e03579029cc1929c625d4bf7d7e3652d625c5090f43a2e",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "30987fd645d5427c9ccfa381520cd3b19d4f3fd9706733ecc78cd1c9873c1645",
+        "django-extension-tools-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "django_extension_tools-0.0.2-py3-none-any.whl": [
+          "d775a8a449cfaf61af69051f60dc7e3d540cc0beabd9e28be5cb4781c8338d8d",
           "py3"
         ]
       }
@@ -50822,6 +50876,14 @@
       "wheels": {
         "kcli-99.0.202010192323-py3-none-any.whl": [
           "c3c05e71d6ddea50a2aca897ba12eeb0955b9df8d76c784dff97d5e0a0c1297f",
+          "py3"
+        ]
+      }
+    },
+    "99.0.202010211630": {
+      "wheels": {
+        "kcli-99.0.202010211630-py3-none-any.whl": [
+          "a5fd34a47f5017fb0a3c74f5df04294f19dfce0b7a8f7e75e62f8f9646adad69",
           "py3"
         ]
       }
@@ -79162,6 +79224,56 @@
       "wheels": {
         "stanfordnlp-0.2.0-py3-none-any.whl": [
           "66450f0b422e649e8b31f171260930b733324b000ebfe81c436328b424425902",
+          "py3"
+        ]
+      }
+    }
+  },
+  "starlette-plugins": {
+    "0.0.2": {
+      "wheels": {
+        "starlette_plugins-0.0.2-py3-none-any.whl": [
+          "5ceca10421dd594b18777e0df83d11a5a1681cdee4e06a9be8cf9f78018fb8d5",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "starlette_plugins-0.0.3-py3-none-any.whl": [
+          "9b14b16d718a88b3f710b84036c399662dbb562c48ab6917cfedd7d65bf56996",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "starlette_plugins-0.0.4-py3-none-any.whl": [
+          "d80ec35e8b6d8e9c101b64381b382ead99d05fb088f009ac54bbbc7cdb462973",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "starlette_plugins-0.0.5-py3-none-any.whl": [
+          "ac07eca1d5c6d015b6b8472d5bb56cd8556570d857e2b118256c8d8685c82910",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "wheels": {
+        "starlette_plugins-0.0.6-py3-none-any.whl": [
+          "4bf06d05efa8bbfcc9f6bfe60222b2d04157aad15105d2d402979b47958091af",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "starlette_plugins-0.0.7-py3-none-any.whl": [
+          "4cb8b6094b30e9569e8a82a6ac438c03d5fe766ee2b32e3e0a469d242369da9c",
           "py3"
         ]
       }
