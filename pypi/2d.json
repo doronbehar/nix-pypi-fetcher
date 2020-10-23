@@ -31453,6 +31453,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2020.2": {
+      "sdist": [
+        "3c35a12c865a1e8d012f040191aaa451a8098ee69586014fdb142414ba3bcf14",
+        "logpyle-2020.2.tar.gz"
+      ],
+      "wheels": {
+        "logpyle-2020.2-py2.py3-none-any.whl": [
+          "21557ef13f11951059bb5103323798382020b4b79340ea5786657d43deb097c1",
+          "py2.py3"
+        ]
+      }
     }
   },
   "lowerpines": {
@@ -34851,20 +34863,6 @@
         "muacrypt-0.9.1-py2.py3-none-any.whl": [
           "983739896ba680488491f7959d335a9e94680464397e0a3e07472a44bef53cb8",
           "2.7"
-        ]
-      }
-    }
-  },
-  "multitrim-kgerhardt": {
-    "1.1.0": {
-      "sdist": [
-        "ebfa34dd04db87a16182a95bb49b4dd55e6d86235b0b48c346f4a22083f4e848",
-        "multitrim-KGerhardt-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "multitrim_KGerhardt-1.1.0-py3-none-any.whl": [
-          "11d8572f780d2731dfa5a27a09a517cf07af64904aa2ac1702e0b7d30fdaed66",
-          "py3"
         ]
       }
     }
@@ -38332,6 +38330,12 @@
       "sdist": [
         "aa528f8cffc701857ecfa5c9f7a8d4addb2c6ca882f6712186ad0cd1b866892a",
         "onepanel-sdk-0.14.0b1.tar.gz"
+      ]
+    },
+    "0.14.1": {
+      "sdist": [
+        "6b446b85d620a09b05108e7c543240039203244669e4dad526564bb92ad7b4a7",
+        "onepanel-sdk-0.14.1.tar.gz"
       ]
     },
     "0.9.0": {
@@ -57348,6 +57352,92 @@
       "wheels": {
         "strontium-0.0.9-py2.py3-none-any.whl": [
           "bd3719e77f76febe7c360f93fa7a96dba3f1089b559e45a8df7cb5fea5551bcf",
+          "py2.py3"
+        ]
+      }
+    }
+  },
+  "styler-rest-framework": {
+    "0.1.0": {
+      "sdist": [
+        "792a09d9f32290b4a9431cc5912764ff156336522408baa49da6f8979e60bfbf",
+        "styler_rest_framework-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.1.0-py2.py3-none-any.whl": [
+          "77aa5c2e9ec12a674c281a36c51be75a617e98d08d0c7118da3fd616831a29d1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "c24711f898781158403e5984d686a74e6cd3042f523be8fb2949b32fc803f26f",
+        "styler_rest_framework-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.2.0-py2.py3-none-any.whl": [
+          "145c19c5a7d33bb30d9a9b002a8d21d21b418e794dd3654955498ea20997f72d",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "c61c72bc6a672bf3232699aeae456b75effd7aec7ef2255243fc19717230e2a0",
+        "styler_rest_framework-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.3.0-py2.py3-none-any.whl": [
+          "6ed7500e28c1c1e82db896e0d3830c7dee8f75bb05bbef254c1481f8418cc1d1",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "9a0d4cda1e2d2ac66b8eefec171c5b575a8c7b3b7e8b6985df102e283d2d6a2f",
+        "styler_rest_framework-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.4.0-py2.py3-none-any.whl": [
+          "241ee2eae9d279603ae7b25f2e7c7ff823e394661c8678f8a55abc31a7c207b9",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "76d5b61cc07f419e7b768719bd6aa1dc3b87af240d69b86e80f55834aaf010b4",
+        "styler_rest_framework-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.5.0-py2.py3-none-any.whl": [
+          "71789c5cd7e034950238bac11efefcb9743f3c0ae26c19a498b76ce623b25b5e",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "2c66290baacd42af205c87d891fe44a6f336b997d68f9fd20e33402e3180389e",
+        "styler_rest_framework-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.5.1-py2.py3-none-any.whl": [
+          "78636b7aa700d547b6ba8587ce67272db1598ca119644018e9867bb8326f1c08",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.5.2": {
+      "sdist": [
+        "2937b7b29e76db797766e63b14741e9f0af5b827bdb45324a0457b620d655284",
+        "styler_rest_framework-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "styler_rest_framework-0.5.2-py2.py3-none-any.whl": [
+          "d1fed05568af59bb2e0afae1cabb0d0b2973a48e7887823e56dae0ec45890b10",
           "py2.py3"
         ]
       }
