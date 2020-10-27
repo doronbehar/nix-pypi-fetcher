@@ -8972,6 +8972,14 @@
         ]
       }
     },
+    "1.17.0": {
+      "wheels": {
+        "azureml_pipeline_core-1.17.0-py3-none-any.whl": [
+          "89WWHAF66NT5xHvU5+iittOJ5PevJYo5MHSQ3hzuX6c=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "azureml_pipeline_core-1.2.0-py3-none-any.whl": [
@@ -12986,6 +12994,18 @@
       "wheels": {
         "check_python_versions-0.15.1-py2.py3-none-any.whl": [
           "KOlTnIMk6ehGW8dEFTyFw0V3aL15rATNXeKJJOsRfKY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.16.0": {
+      "sdist": [
+        "S4aBwG9MDvr1EF04QIDFMkxziOy+AraHIp5uT7cmSfs=",
+        "check-python-versions-0.16.0.tar.gz"
+      ],
+      "wheels": {
+        "check_python_versions-0.16.0-py2.py3-none-any.whl": [
+          "ZI0BJidvMPiOp3fmgE4w7kgFUCCCCMSZDA4yk5H8+TI=",
           "py2.py3"
         ]
       }
@@ -40911,120 +40931,6 @@
         "VPs+U6zu+ZmPJ2wJogGbv8eHPvlSFiR3k1PQzjit+m4=",
         "merlyn-0.0.9.tar.gz"
       ]
-    }
-  },
-  "mescapi2": {
-    "0.1.4": {
-      "wheels": {
-        "mescapi2-0.1.4-cp36-none-win32.whl": [
-          "3lnyulfE675SUY/gukUJRR64QFmapO3ZCv7id+4V4c8=",
-          "cp36"
-        ],
-        "mescapi2-0.1.4-cp36-none-win_amd64.whl": [
-          "ot/0Rm0Fx1N4J+kGR0KYsStLk1ydNuPq6pdj5o8UQEM=",
-          "cp36"
-        ],
-        "mescapi2-0.1.4-cp37-none-win32.whl": [
-          "Xksytna7az8UafXQZJtDnUOsQ0bfwlMggxeS8pFaNKI=",
-          "cp37"
-        ],
-        "mescapi2-0.1.4-cp37-none-win_amd64.whl": [
-          "7KfDDjwWj7IOIAyUPodNwBgwP90qB4qbnBj5DNbbuvQ=",
-          "cp37"
-        ],
-        "mescapi2-0.1.4-cp38-none-win32.whl": [
-          "9QESHm1YtkP6j8JqRzAxKJKGBWVYQIBQlnoUG/cMP9A=",
-          "cp38"
-        ],
-        "mescapi2-0.1.4-cp38-none-win_amd64.whl": [
-          "OtY5+u+nHDDoIRETU93KYuCPe8IdkCL68Po/sxTuzts=",
-          "cp38"
-        ]
-      }
-    },
-    "0.1.5": {
-      "wheels": {
-        "mescapi2-0.1.5-cp36-none-win32.whl": [
-          "/rgl3r+rmsuXEy8P9pz+r/ckGF1M55kldt41fRZlWKc=",
-          "cp36"
-        ],
-        "mescapi2-0.1.5-cp36-none-win_amd64.whl": [
-          "GTUdjoyg1J5Uvmxvd2p0RSK7VpekRCcpQea/wt/VQas=",
-          "cp36"
-        ],
-        "mescapi2-0.1.5-cp37-none-win32.whl": [
-          "JVPo3pO/0Ras/VwHiylruXq8yb9C++zJU2aQNaHQ270=",
-          "cp37"
-        ],
-        "mescapi2-0.1.5-cp37-none-win_amd64.whl": [
-          "wOWk/yRaHOMrDAQ1TUHdQjPrzX/Jd9i/e1E+XahAzbQ=",
-          "cp37"
-        ],
-        "mescapi2-0.1.5-cp38-none-win32.whl": [
-          "2QhzHjGhxVqsiH7I6wunY2YST/iN5oOZq4fzF2MnicE=",
-          "cp38"
-        ],
-        "mescapi2-0.1.5-cp38-none-win_amd64.whl": [
-          "v5hBogmXrMb21UKyaip9LD2qpnHcPFiQJ5A80j+MwxI=",
-          "cp38"
-        ],
-        "mescapi2-0.1.6-cp37-none-win_amd64.whl": [
-          "N5hr72VuJCedPwOdvMoYyCNei+EpHDj1C/ss2mQAXu4=",
-          "cp37"
-        ]
-      }
-    },
-    "0.1.6": {
-      "wheels": {
-        "mescapi2-0.1.6-cp36-none-win32.whl": [
-          "lsBG7OPnvzf5W06GdpsyGGNyAA23iwpudVBY6M8FM/M=",
-          "cp36"
-        ],
-        "mescapi2-0.1.6-cp36-none-win_amd64.whl": [
-          "B2xCFiTevDEUEjLHCD+y+icvmlL9TjSbkI64BOFnSqg=",
-          "cp36"
-        ],
-        "mescapi2-0.1.6-cp37-none-win32.whl": [
-          "LNwg/NMURSiLp29iIECQ5cWN+aBFtVu484BbpF/LmGQ=",
-          "cp37"
-        ],
-        "mescapi2-0.1.6-cp38-none-win32.whl": [
-          "dv30/gvj24JhsAd1YdLlESVspmtdUkXah9FDbz30Ru8=",
-          "cp38"
-        ],
-        "mescapi2-0.1.6-cp38-none-win_amd64.whl": [
-          "/WhG6+rIJCoH7eLVNhYEI5biNJItFLEwoMKBMhlg56k=",
-          "cp38"
-        ]
-      }
-    },
-    "0.1.7": {
-      "wheels": {
-        "mescapi2-0.1.7-cp36-none-win32.whl": [
-          "NdI7gDiWXraOd/RdncBmJOKQRSDcCjNIntfnk3gSif4=",
-          "cp36"
-        ],
-        "mescapi2-0.1.7-cp36-none-win_amd64.whl": [
-          "of3UbvL9DdygzZTHRm0WwOsOh38W0CKem/jtg4y3RuY=",
-          "cp36"
-        ],
-        "mescapi2-0.1.7-cp37-none-win32.whl": [
-          "eBxhB8lMH2g3ZzZ4ZS+QKVwZCjW2HiiACV/vnUhyEKE=",
-          "cp37"
-        ],
-        "mescapi2-0.1.7-cp37-none-win_amd64.whl": [
-          "kDkcQFh6F3YKLgymhSxhe4cTYpO6FtxpuM4sezzWhnc=",
-          "cp37"
-        ],
-        "mescapi2-0.1.7-cp38-none-win32.whl": [
-          "aItmBLKLuw9cwfaCMAy6PxE0oOdUrmKS0WN7aSL6CXw=",
-          "cp38"
-        ],
-        "mescapi2-0.1.7-cp38-none-win_amd64.whl": [
-          "j5Q4DBIt2d3nE4+JhmnWwrvYtrOGrbEBx2m6PnYceWM=",
-          "cp38"
-        ]
-      }
     }
   },
   "mesh-tensorflow": {
@@ -72106,6 +72012,18 @@
         ]
       }
     },
+    "1.50.1": {
+      "sdist": [
+        "ZF5ZAmW0X3oljw3l88+xwPK87a4nIbhZLYKyAVJbIws=",
+        "seleniumbase-1.50.1.tar.gz"
+      ],
+      "wheels": {
+        "seleniumbase-1.50.1-py2.py3-none-any.whl": [
+          "YaGWD7frh1B7IVrTfmXU+z+MyM9AuuINA2rU5/ylMYM=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.6.0": {
       "sdist": [
         "gTv2DP8NzomOPOAA8Ft5wW7D3Pz1F0sn5sR0pTJ8cqE=",
@@ -72420,6 +72338,12 @@
       "sdist": [
         "Bs5qG7o6+mPuEThxTXKDwH3BjD426Z8VcSRltXwEqs8=",
         "sesamclient-0.2.101.tar.gz"
+      ]
+    },
+    "0.2.102": {
+      "sdist": [
+        "Ea0B2VdyHtIsRaf9P8DBo4lea8qgOC+UNd7O/WG1aCY=",
+        "sesamclient-0.2.102.tar.gz"
       ]
     },
     "0.2.11": {
