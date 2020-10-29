@@ -3,31 +3,29 @@
   pkgs,
   ...
 }:
-with pkgs;
-with builtins;
-with lib;
+
 let
-  normalizeName = name: (replaceStrings ["_"] ["-"] (toLower name));
+  normalizeName = name: (lib.replaceStrings ["_"] ["-"] (lib.toLower name));
   nameToBucket = name:
     let
       pkg_name = normalizeName name;
-      pkg_name_first_char = elemAt (stringToCharacters pkg_name) 0;
-      bucket_hash_full = hashString "sha256" pkg_name;
+      pkg_name_first_char = builtins.elemAt (lib.stringToCharacters pkg_name) 0;
+      bucket_hash_full = builtins.hashString "sha256" pkg_name;
     in
-      elemAt (stringToCharacters bucket_hash_full) 0
-      + elemAt (stringToCharacters bucket_hash_full) 1;
+      builtins.elemAt (lib.stringToCharacters bucket_hash_full) 0
+      + builtins.elemAt (lib.stringToCharacters bucket_hash_full) 1;
   releaseInfo = name: ver:
     let
       pkg_name = normalizeName name;
       bucket = nameToBucket name;
-      release = (fromJSON (readFile (fetcherSrc + /pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
+      release = (builtins.fromJSON (builtins.readFile (fetcherSrc + /pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
     in
     {
       inherit pkg_name release;
-      pkg_name_first_char = elemAt (stringToCharacters pkg_name) 0;
+      pkg_name_first_char = builtins.elemAt (lib.stringToCharacters pkg_name) 0;
     };
   # collect the list of package names inside a derivation for faster reading and proper caching
-  allNamesJsonFile = runCommand "all-package-names" { buildInputs = [ python3 ]; } ''
+  allNamesJsonFile = pkgs.runCommand "all-package-names" { buildInputs = [ python3 ]; } ''
      ${python3}/bin/python -c '
      import json
      from os import environ
@@ -43,7 +41,7 @@ let
         json.dump(all_names, out)
      '
   '';
-  allNames = fromJSON (readFile allNamesJsonFile);
+  allNames = builtins.fromJSON (builtins.readFile allNamesJsonFile);
 in
 rec {
   inherit allNames;
