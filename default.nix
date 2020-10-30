@@ -25,7 +25,7 @@ let
       pkg_name_first_char = builtins.elemAt (lib.stringToCharacters pkg_name) 0;
     };
   # collect the list of package names inside a derivation for faster reading and proper caching
-  allNamesJsonFile = pkgs.runCommand "all-package-names" { buildInputs = [ python3 ]; } ''
+  allNamesJsonFile = pkgs.runCommand "all-package-names" { buildInputs = [ pkgs.python3 ]; } ''
      ${pkgs.python3}/bin/python -c '
      import json
      from os import environ
