@@ -26,7 +26,7 @@ let
     };
   # collect the list of package names inside a derivation for faster reading and proper caching
   allNamesJsonFile = pkgs.runCommand "all-package-names" { buildInputs = [ python3 ]; } ''
-     ${python3}/bin/python -c '
+     ${pkgs.python3}/bin/python -c '
      import json
      from os import environ
      buckets = []
