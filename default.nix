@@ -18,7 +18,7 @@ let
     let
       pkg_name = normalizeName name;
       bucket = nameToBucket name;
-      release = (builtins.fromJSON (builtins.readFile (fetcherSrc + /pypi + "/${bucket}.json")))."${pkg_name}"."${ver}";
+      release = (builtins.fromJSON (builtins.readFile ("./pypi/${bucket}.json")))."${pkg_name}"."${ver}";
     in
     {
       inherit pkg_name release;
