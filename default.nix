@@ -1,5 +1,5 @@
 {
-  fetcherSrc ? ./.,
+  fetcherSrc ? (builtins.path { path = ./.; name = "nix-pypi-fetcher"; }),
   pkgs,
   lib
 }:
